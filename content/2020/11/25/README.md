@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### API
 
-*   [Swiftkube (⭐92)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐94)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -48,7 +48,7 @@
 ### Packages / Ecosystem
 
 *   [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
-*   [Unity Robotics Hub (⭐1.3k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
+*   [Unity Robotics Hub (⭐1.4k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
 ### Organizations / Robotics Capture the Flag (RCTF)
 
@@ -74,7 +74,7 @@
 
 ### Radio and Podcasts Tools / Telegram
 
-*   [Podgrab (⭐869)](https://github.com/akhilrex/podgrab)
+*   [Podgrab (⭐944)](https://github.com/akhilrex/podgrab)
 
 ## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

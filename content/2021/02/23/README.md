@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,8 +11,8 @@
 ### Distribution
 
 *   [boon (⭐115)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
-*   [love-release (⭐437)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
-*   [makelove (⭐76)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
+*   [love-release (⭐436)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
+*   [makelove (⭐77)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 
 ## [2. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -91,11 +91,11 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Ridiculous Coding (⭐307)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
+*   [Ridiculous Coding (⭐591)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
 
 ### Modules / Godot 3.2+
 
-*   [GodotAIGym (⭐138)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
+*   [GodotAIGym (⭐150)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

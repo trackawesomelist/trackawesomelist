@@ -2,7 +2,7 @@
 
 A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/raphamorim/awesome-canvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) · ⭐ 1.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/raphamorim/awesome-canvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) · ⭐ 1.2K · 🏷️ Front-End Development
 
 [ [Daily](/content/raphamorim/awesome-canvas/README.md) / [Weekly](/content/raphamorim/awesome-canvas/week/README.md) / Overview ]
 

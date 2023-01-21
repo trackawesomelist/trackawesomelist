@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,17 +44,20 @@
 
 ## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Other / Editor plugins
+### Editor plugins / VS Code
 
-*   [vscode-vlang (⭐332)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
-*   [IntelliJ V (⭐109)](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
+*   [vscode-vlang (⭐337)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 
-### Other / Online IDEs with V
+### Editor plugins / IntelliJ & CLion & GoLand etc
+
+*   [IntelliJ V (⭐126)](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
+
+### Online IDEs with V / IntelliJ & CLion & GoLand etc
 
 *   [V Playground](https://play.vlang.io)
 *   [V Playground (old)](https://v-wasm.now.sh/)
 
-### Other / Programming contests
+### Programming contests / IntelliJ & CLion & GoLand etc
 
 *   [Advent of Code 2022 (⭐21)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 
@@ -82,7 +85,7 @@
 
 ### GraphQL
 
-*   [ZeroQL (⭐142)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
+*   [ZeroQL (⭐147)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
 ## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -142,4 +145,5 @@
 
 ---
 
+- Prev: [Jan 05, 2023](/content/2023/01/05/README.md)
 - Next: [Jan 03, 2023](/content/2023/01/03/README.md)

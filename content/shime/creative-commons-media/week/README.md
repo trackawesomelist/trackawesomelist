@@ -2,7 +2,7 @@
 
 A curated list of resources that provide media licensed under Creative Commons licenses.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/shime/creative-commons-media/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 shime/creative-commons-media](https://github.com/shime/creative-commons-media) · ⭐ 459 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/shime/creative-commons-media/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 shime/creative-commons-media](https://github.com/shime/creative-commons-media) · ⭐ 459 · 🏷️ Media
 
 [ [Daily](/content/shime/creative-commons-media/README.md) / Weekly / [Overview](/content/shime/creative-commons-media/readme/README.md) ]
 

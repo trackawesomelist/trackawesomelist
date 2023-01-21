@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -69,7 +69,7 @@
 
 ### Open Source / Other
 
-*   [Inpad (⭐3.2k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+*   [Inpad (⭐3.3k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 
 ## [8. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

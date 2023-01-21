@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,12 +37,12 @@
 *   [Bourbon (⭐9.1k)](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set.
 *   [bower-rails (⭐1.5k)](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
 *   [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
-*   [Torba (⭐165)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
+*   [Torba (⭐166)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 *   [Webpacker (⭐5.3k)](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ### Profiler and Optimization
 
-*   [batch-loader (⭐948)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+*   [batch-loader (⭐955)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Database Drivers/Clients
 
-*   [leveldb (⭐39)](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
+*   [leveldb (⭐40)](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
 
 ### Examples and funny stuff
 
@@ -68,7 +68,7 @@
 
 ### Game Development
 
-*   [CrSFML (⭐325)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
+*   [CrSFML (⭐327)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
 
 ### HTTP
 
@@ -80,12 +80,12 @@
 
 ### Network Protocols
 
-*   [jwt (⭐193)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+*   [jwt (⭐197)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
 *   [msgpack-crystal (⭐129)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
 
 ### Package Management
 
-*   [shards (⭐714)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
+*   [shards (⭐718)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ### Web Frameworks
 
@@ -100,19 +100,19 @@
 
 ### Official Documentation Translations
 
-*   [icr (⭐483)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+*   [icr (⭐485)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
 
 ### Editor Plugins
 
 *   Sublime
-    *   [sublime-crystal (⭐82)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
+    *   [sublime-crystal (⭐83)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
 *   TextMate
     *   [Crystal.tmbundle (⭐18)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
 *   Vim
-    *   [vim-crystal (⭐383)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+    *   [vim-crystal (⭐389)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐12)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
-    *   [vscode-crystal-lang (⭐239)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+    *   [vscode-crystal-lang (⭐242)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ---
 

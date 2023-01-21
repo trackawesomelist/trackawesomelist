@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 30, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Modules / CLI utils
 
-*   [charmd (⭐44)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
+*   [charmd (⭐45)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
 
 ### Tools / XML
 
@@ -29,26 +29,7 @@
 
 *   [nixduino (⭐32)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### ASP.NET Core
-
-*   [ASP.NET Core 3.1 Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/asp-net-core-3-1-succinctly) - Simone Chiaretta, Ugo Lattanzi
-*   [ASP.NET Core Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
-
-### ASP.NET Core / Blazor
-
-*   [Blazor: A Beginner's Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - Ed Charbeneau (PDF) (email address *requested*, not required)
-*   [Blazor for ASP.NET Web Forms Developers](https://dotnet.microsoft.com/download/e-book/blazor-for-web-forms-devs/pdf) - Daniel Roth, Jeff Fritz, Taylor Southwick (PDF)
-
-### .NET Core / PicoLisp
-
-*   [Clean Code .NET (⭐5.6k)](https://github.com/thangchung/clean-code-dotnet)
-*   [Entity Framework Core Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/entity-frame-work-core-succinctly) - Ricardo Peres
-*   [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
-*   [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
-
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Web Apps (closed source)
 
@@ -66,38 +47,38 @@
 *   [1-Click](http://camsys.software/products/1-click) - A virtual “trip aggregator” that assembles information on a wide variety of available modes: public transit, private, rail, rideshare, carpool, volunteer, paratransit, and walking and biking. Open-source [on GitHub (⭐13)](https://github.com/camsys/oneclick).
 *   [MBTA tile-server (⭐6)](https://github.com/mbta/tile-server) - Scripts to create a Docker container that encapsulates all the elements necessary to develop map tiles for use on MBTA.com
 
-## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Miscellaneous Tools
 
 *   [Files (⭐25k)](https://github.com/files-community/Files) - A modern file explorer that supports WSL filesystem. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [7. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [6. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### AUR Helpers / Other
 
 *   [arch-audit](https://gitlab.com/ilpianista/arch-audit) - A utility like pkg-audit based on Arch Security Team data.
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Machine Learning
 
-*   [DL4S (⭐82)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
-*   [SwiftCoreMLTools (⭐129)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
+*   [DL4S (⭐86)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
+*   [SwiftCoreMLTools (⭐140)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Developer Tools
 
 *   [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
 
-## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
 *   [BudgetBudy (⭐20)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Text Analysis
 
@@ -124,13 +105,13 @@
 
 
 
-## [12. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Sequence Alignment / Clustering
 
-*   **[MMseqs2 (⭐809)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
+*   **[MMseqs2 (⭐841)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -140,19 +121,19 @@
 
 *   [Microsoft PowerBI](https://powerbi.com) — Business Insights & Analytics by Microsoft. Free Plan offers limited use with 1 Million User licenses.
 
-## [14. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [13. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / String
 
 *   [pluralize (⭐1)](https://github.com/DaniAkash/pluralizer) - A very tiny library to pluralize words
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Services
 
 *   [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer. [Source](https://github.com/FleekHQ)
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -166,13 +147,13 @@
 
 *   [Xbar](https://xbarapp.com/) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/matryer/xbar)
 
-## [17. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [16. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Reddit
 
 *   [Universal Scammer List](https://universalscammerlist.com/) - This acts as the website-portion for the subreddit /r/universalscammerlist. That subreddit, in conjuction with this website and a reddit bot, manages a list of malicious reddit accounts and minimizes the damage they can deal. This list is referred to as the "USL" for short.
 
-## [18. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [17. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 

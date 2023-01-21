@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Projects / Libraries
 
-*   [TLC (⭐27)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐28)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
@@ -32,8 +32,8 @@
 ### Projects / Type Theory and Mathematics
 
 *   [Completeness and Decidability of Modal Logic Calculi (⭐5)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
-*   [CoqPrime (⭐23)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
-*   [Finmap (⭐45)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
+*   [CoqPrime (⭐25)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
+*   [Finmap (⭐44)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
 *   [Gaia (⭐21)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 
 ### Resources / Community
@@ -58,7 +58,7 @@
 
 ### Tools
 
-*   [Atlas toolkit (⭐214)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
+*   [Atlas toolkit (⭐215)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 
 ## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ultimate-skeleton-cards (⭐86)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
+*   [vue-ultimate-skeleton-cards (⭐87)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
 
 ## [8. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Apps
 
-*   [Q2RTX (⭐1k)](https://github.com/NVIDIA/Q2RTX) - NVIDIA’s implementation of RTX ray-tracing in Quake II. \[[LICENSE (⭐1k)](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
+*   [Q2RTX (⭐1.1k)](https://github.com/NVIDIA/Q2RTX) - NVIDIA’s implementation of RTX ray-tracing in Quake II. \[[LICENSE (⭐1.1k)](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
 
 ### Tools
 
@@ -105,11 +105,11 @@
 
 ### Contents / Health and Fitness
 
-*   [Covid-Care (⭐7)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
+*   [Covid-Care (⭐8)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
 
 ### Contents / Personalization
 
-*   [Wallbay (⭐107)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
+*   [Wallbay (⭐106)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 
 ## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 

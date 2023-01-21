@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,9 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐234)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html). [ninglex (⭐30)](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (mostly easier handling of query parameters). [MIT](https://opensource.org/licenses/MIT).
+*   [ningle (⭐243)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐34)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+        *   includes an OpenAPI and Swagger UI demo.
 
 ## [2. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 

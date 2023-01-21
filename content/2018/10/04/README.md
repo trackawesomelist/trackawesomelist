@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Miscellaneous / Episodes
 
-*   [Reverse Engineering Resources (⭐57)](https://github.com/ps1337/automotive-security-research)
+*   [Reverse Engineering Resources (⭐63)](https://github.com/ps1337/automotive-security-research)
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Reader (⭐315)](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
+*   [NFC Reader (⭐319)](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 
 ## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Logging
 
-*   [Sentry (⭐438)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
+*   [Sentry (⭐444)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 
 ## [11. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -154,12 +154,12 @@
 
 ### Helpers
 
-*   [cartographer (⭐60)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
+*   [cartographer (⭐61)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
 *   [lovely-windows (⭐14)](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 
 ### OO
 
-*   [knife.base (⭐354)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+*   [knife.base (⭐357)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 
 ### Physics
 
@@ -171,7 +171,7 @@
 
 ### Tweening
 
-*   [knife.timer (⭐354)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
+*   [knife.timer (⭐357)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 
 ### UI
 

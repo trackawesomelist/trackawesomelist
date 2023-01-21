@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐555)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐554)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ## [2. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐305)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐304)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
@@ -38,7 +38,7 @@
 
 ### Hardware
 
-*   [Electronics (⭐4.4k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐4.5k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Debug
 
-*   [check (⭐923)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐925)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 
@@ -85,7 +85,7 @@
 
 ### Utility / Barcode
 
-*   [TSAO (⭐134)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
+*   [TSAO (⭐135)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Open Source Projects / Games
 
-*   [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
+*   [Lutris](https://www.patreon.com/lutris), [#2](https://liberapay.com/Lutris) - Game launcher & platform.
 *   [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 
 ### People Doing Open Source Work / Hardware related

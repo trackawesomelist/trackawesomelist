@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -73,13 +73,13 @@
 
 ### Packages / Weird
 
-*   [nerds (⭐99)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐100)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
-*   [tensorflow.rb (⭐821)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
+*   [tensorflow.rb (⭐825)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
 ## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Simple Bayes (⭐384)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [Simple Bayes (⭐385)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Elixir / Natural Language Processing
 
@@ -137,7 +137,7 @@
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐623)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+*   [YouTube Subtitle Download (⭐634)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ---
 

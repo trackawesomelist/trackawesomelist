@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -170,11 +170,11 @@
 ### Theory
 
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐446)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+    *   [Education (⭐470)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐439)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐460)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

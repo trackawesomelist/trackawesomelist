@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,10 +11,6 @@
 ### Recommended reading / Blockchain, AI and Machine Learning
 
 *   [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam, March 13, 2018.
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Synapse AI](https://blog.synapse.ai/) - A decentralized global data marketplace built on the Ethereum blockchain.
 
 ## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -57,7 +53,7 @@
 
 ### State management / Standard
 
-*   [Bloc (⭐9.7k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
+*   [Bloc (⭐9.9k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

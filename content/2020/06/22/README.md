@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,7 +49,7 @@
 
 ### Files and Directories
 
-*   [waffle (⭐601)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐604)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [6. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Command-Line Productivity
 
-*   [funky (⭐609)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
+*   [funky (⭐619)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
 *   [navi (⭐12k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ### Command-Line Productivity / Directory Navigation
@@ -35,7 +35,7 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [fx (⭐15k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
+*   [fx (⭐16k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
 ## [4. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
@@ -88,13 +88,13 @@
 
 ### C, C++
 
-*   [cl-yesql (⭐54)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yesql (⭐52)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate (⭐616)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐622)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

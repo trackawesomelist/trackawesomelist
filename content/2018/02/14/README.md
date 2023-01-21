@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Misc
 
-*   [ConsoleTableExt (⭐285)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
+*   [ConsoleTableExt (⭐288)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
 
 ## [5. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -61,7 +61,7 @@
 ### Extensions
 
 *   [Next Plugin Graphql (⭐54)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-*   [Next With Apollo (⭐764)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+*   [Next With Apollo (⭐763)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ---
 

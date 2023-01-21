@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### WPF
 
-*   [Data Grid Extensions (⭐592)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
+*   [Data Grid Extensions (⭐607)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
 ## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,25 +10,35 @@
 
 ### Note Taking / Diagnostics
 
-*   [ostralyan/scribe.nvim (⭐13)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
+*   [ostralyan/scribe.nvim (⭐14)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
 
-## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [2. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Security & Privacy
+
+*   [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) (:construction: *in process*)
+
+### Software Architecture
+
+*   [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
+
+## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐5.2k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-*   [Data science your way (⭐563)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐220)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [#tidytuesday (⭐5.3k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+*   [Data science your way (⭐564)](https://github.com/jadianes/data-science-your-way)
+*   [PySpark Cheatsheet (⭐224)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 *   [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
-*   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
-*   [Tutorials to get started on signal processings for machine learning (⭐18)](https://github.com/jinglescode/python-signal-processing)
+*   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.1k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+*   [Tutorials to get started on signal processings for machine learning (⭐20)](https://github.com/jinglescode/python-signal-processing)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐6k)](https://github.com/khangich/machine-learning-interview)
+*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐6.2k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
@@ -218,23 +228,23 @@
 
 ### Hobby / Book Deals (Affiliated) 🛍
 
-*   [Awesome Music Production (⭐555)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐589)](https://github.com/ad-si/awesome-music-production)
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fd (⭐1)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐49k)](https://github.com/junegunn/fzf) to browse directories.
-*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐483)](https://github.com/tokuhirom/plenv) version manager based on jenv.
-*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
+*   [fd (⭐2)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐49k)](https://github.com/junegunn/fzf) to browse directories.
+*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐488)](https://github.com/tokuhirom/plenv) version manager based on jenv.
+*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
 
-## [4. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [5. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Capawesome plugins](https://capawesome.io/)
 
-*   [Managed configuration (⭐3)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
+*   [Managed configuration (⭐4)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 
-## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Board
 
@@ -252,41 +262,23 @@
 
 *   [Sorting Puzzle](https://www.dong.digital/sortingpuzzle/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.sortingpuzzle), [iOS](https://apps.apple.com/app/sorting-puzzle/id1641001729) - Color sorting game reinvented: move and combine to solve puzzles. By [Dong Digital](https://www.dong.digital "Dong Digital").
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [nickhristov/krakdown (⭐12)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
 
-## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   CtrlAlt.cc - <https://ctrlalt.cc/>
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
 *   [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system and a message queue. 1 instance free per project, 5000 records and 5000 calls/month free, 3 developers included. No credit-card required.
-
-## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Wicket
-
-*   [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
-
-### Markdown / PicoLisp
-
-*   [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org) - Yihui Xie (HTML) \[(PDF, EPUB, MOBI)] (<https://bookdown.org/yihui/bookdown/>)
-
-### Spark / Play Scala
-
-*   [Learning Spark: Lightning-Fast Data Analytics](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf) - Jules S. Damji, Brooke Wenig, Tathagata Das, Denny Lee (PDF)
-
-### YAML / Vulkan
-
-*   [YAML Tutorial](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)
 
 ---
 

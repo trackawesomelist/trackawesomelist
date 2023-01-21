@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐26)](https://github.com/Calinou/base16-godot) - All [base16 (⭐86)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐25)](https://github.com/Calinou/base16-godot) - All [base16 (⭐129)](https://github.com/chriskempson/base16) themes.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -39,7 +39,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_shortuuid (⭐23)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐36)](https://github.com/gpedic/ex_shortuuid).
+*   [ecto\_shortuuid (⭐22)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐36)](https://github.com/gpedic/ex_shortuuid).
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Libraries / PHP
 
-*   [PHPMongo ODM (⭐239)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
+*   [PHPMongo ODM (⭐240)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
 *   [yadm (⭐83)](https://github.com/formapro/yadm) - Fast schemaless ODM
 

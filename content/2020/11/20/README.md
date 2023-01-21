@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,13 +51,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [x5-gmaps (⭐102)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
+*   [x5-gmaps (⭐103)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Graviton Editor (⭐947)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
+*   [Graviton Editor (⭐980)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
 ## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -112,10 +112,10 @@
 
 ### More Awesome / Switzerland
 
-*   [Computer History (⭐2.3k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.1k)](https://github.com/fasouto/awesome-dataviz#readme)
-*   [Research Tools (⭐1.5k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
+*   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
+*   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
+*   [Scientific Writing (⭐486)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
 ## [7. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Decentralized Systems
 
-*   [Substrate (⭐615)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐626)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

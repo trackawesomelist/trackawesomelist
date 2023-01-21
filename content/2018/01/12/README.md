@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 12, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -82,31 +82,25 @@
 
 *   [Salt (software)](https://en.wikipedia.org/wiki/Salt_\(software\)) - Wikipedia (English).
 
-## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Miscellaneous / Third Party
-
-*   [jsdoc2diagram (⭐40)](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
-
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Internet of things and sensor data
 
 *   [NetLytics (⭐10)](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Articles and Posts / Runner
 
 *   [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 
-## [6. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Others / Web
 
 *   [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6\&t=28220) - by Alguimist - Useful window spy / information tool written in AHK.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### List of Licenses / Wikis
 

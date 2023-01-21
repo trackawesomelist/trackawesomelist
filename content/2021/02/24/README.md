@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,12 +22,12 @@
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [CNIL - GDPR Developer Guide (⭐261)](https://github.com/LINCnil/GDPR-Developer-Guide)
+*   [CNIL - GDPR Developer Guide (⭐281)](https://github.com/LINCnil/GDPR-Developer-Guide)
 *   [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
 
 ### Tools
 
-*   [Website Evidence Collector (WEC) (⭐188)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+*   [Website Evidence Collector (WEC) (⭐199)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
 
 ### Publications
 
@@ -116,19 +116,19 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [default\_rails\_template (⭐26)](https://github.com/infinum/default_rails_template) - Default template for generating new Rails applications.
-*   [docker-Rails-Template (⭐128)](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - A freshly updated version of "rails new", preconfigured to be run with Docker.
+*   [default\_rails\_template (⭐27)](https://github.com/infinum/default_rails_template) - Default template for generating new Rails applications.
+*   [docker-Rails-Template (⭐130)](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - A freshly updated version of "rails new", preconfigured to be run with Docker.
 *   [docker-rails (⭐1k)](https://github.com/ledermann/docker-rails)
-*   [jumpstart(excid3) (⭐1k)](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default.
+*   [jumpstart(excid3) (⭐1.1k)](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default.
 *   [jumpstart(thomasvanholder) (⭐20)](https://github.com/thomasvanholder/jumpstart) - Template for set-up of Rails 6, Tailwind 2.0 and Devise.
-*   [kickoff\_tailwind (⭐425)](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 6 application template for personal use bundled with Tailwind CSS.
+*   [kickoff\_tailwind (⭐444)](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 6 application template for personal use bundled with Tailwind CSS.
 *   [rails-devise-graphql (⭐277)](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
-*   [rails-template(mattbrictson) (⭐934)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
-*   [rails-template(TristanToye) (⭐31)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
-*   [rails-template(ackama) (⭐108)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
-*   [rails-template(astrocket) (⭐73)](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt.
-*   [rails-template(dao42) (⭐380)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer.
-*   [rails-templates(lewagon) (⭐564)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices.
+*   [rails-template(mattbrictson) (⭐944)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+*   [rails-template(TristanToye) (⭐32)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
+*   [rails-template(ackama) (⭐115)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+*   [rails-template(astrocket) (⭐74)](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt.
+*   [rails-template(dao42) (⭐381)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer.
+*   [rails-templates(lewagon) (⭐576)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices.
 *   [rails-templates(nimblehq) (⭐65)](https://github.com/nimblehq/rails-templates) - Our optimized Rails templates used in our projects.
 *   [rails-vue-template (⭐23)](https://github.com/scottrobertson/rails-vue-template) - An example of how to use VueJS as a single page application inside Rails using Webpacker.
 *   [suspenders (⭐3.8k)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku.
@@ -168,7 +168,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Mijin (⭐179)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
+*   [Mijin (⭐181)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

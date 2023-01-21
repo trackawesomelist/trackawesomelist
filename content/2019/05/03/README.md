@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### API / Automation
 
-*   [DataFire (⭐564)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐567)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Calendar
 
-*   [Calendar Carousel Widget (⭐741)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐741)](https://github.com/dooboolab/flutter_calendar_carousel)
+*   [Calendar Carousel Widget (⭐750)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐750)](https://github.com/dooboolab/flutter_calendar_carousel)
 
 ## [3. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 

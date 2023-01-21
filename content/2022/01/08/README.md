@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,9 +47,9 @@
 
 ### Tools / Vendor supported providers
 
-*   [aztfy (⭐869)](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
+*   [aztfy (⭐941)](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
 *   [hcldump (⭐3)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
-*   [hclgrep (⭐77)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
+*   [hclgrep (⭐79)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -59,13 +59,13 @@
 
 ### Backup / Samples
 
-*   [BaRMan (⭐1.4k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
-*   [pgbackrest (⭐1.4k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+*   [BaRMan (⭐1.5k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+*   [pgbackrest (⭐1.5k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 
 ### SQL / Language Server Protocol
 
-*   [SQLLanguageServer (⭐396)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
-*   [sqls (⭐683)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+*   [SQLLanguageServer (⭐413)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [sqls (⭐684)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -83,22 +83,22 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Vaex (⭐7.4k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
+*   [Vaex (⭐7.6k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Command-Line Productivity
 
-*   [bashhub-server (⭐251)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+*   [bashhub-server (⭐252)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Development / Python
+### Languages / Python
 
-*   [tinyman-py-sdk (⭐109)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
-*   [algofi-py-sdk (⭐42)](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
+*   [tinyman-py-sdk (⭐113)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [algofi-py-sdk (⭐41)](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
 
-### Development / JavaScript & TypeScript
+### Languages / JavaScript & TypeScript
 
 *   [algofi-js-sdk (⭐1)](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
 

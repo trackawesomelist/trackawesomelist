@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Cucumber (⭐38)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
+*   [Awesome Cucumber (⭐39)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 
 ## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Frameworks
 
-*   [FHIR Server for Azure (⭐933)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+*   [FHIR Server for Azure (⭐941)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -56,8 +56,8 @@
 
 ### Platforms
 
-*   [Node.js (⭐48k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-    *   [Cross-Platform (⭐1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+*   [Node.js (⭐49k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+    *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Atom / Third-party APIs
 
-*   [SLIMA (⭐62)](https://github.com/neil-lindquist/slima) allows you to
+*   [SLIMA (⭐60)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
 
@@ -89,11 +89,11 @@
 
 ### Boilerplates
 
-*   [Swift Module Template (⭐419)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
+*   [Swift Module Template (⭐420)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
 
 ### Key Value Store
 
-*   [SecureDefaults (⭐215)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
+*   [SecureDefaults (⭐216)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
 
 ---
 

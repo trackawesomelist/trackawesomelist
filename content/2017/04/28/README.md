@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,8 +36,8 @@
 
 ### Tools
 
-*   [LoaderAndValidationLayers (⭐414)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
-*   [VulkanTools (⭐560)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. \[Apache Licence 2.0]
+*   [LoaderAndValidationLayers (⭐413)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
+*   [VulkanTools (⭐574)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. \[Apache Licence 2.0]
 
 ## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

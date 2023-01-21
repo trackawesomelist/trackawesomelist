@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Themes
 
-*   [tmux-base16-statusline (⭐24)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐34)](https://github.com/chriskempson/base16-shell)
+*   [tmux-base16-statusline (⭐25)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐40)](https://github.com/chriskempson/base16-shell)
 *   [tmux-colors-solarized (⭐1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
 *   [tmux-themepack (⭐1.5k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
 *   [tomorrow (⭐31)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐13k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
@@ -25,7 +25,7 @@
 
 ### UI
 
-*   [Folding Cell (⭐503)](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
+*   [Folding Cell (⭐509)](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

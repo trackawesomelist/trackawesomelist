@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### Mobile
 
-*   👍 [serapeum (⭐343)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [serapeum (⭐355)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
@@ -68,11 +68,11 @@
 
 ### Images / Barcode
 
-*   [MCScratchImageView (⭐358)](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
+*   [MCScratchImageView (⭐359)](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
 
 ### Network / Barcode
 
-*   [Ciao (⭐54)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
+*   [Ciao (⭐55)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
 
 ### Styling / Barcode
 
@@ -80,7 +80,7 @@
 
 ### UI / Barcode
 
-*   [Shiny (⭐768)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
+*   [Shiny (⭐767)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 
 ### Alert / Barcode
 

@@ -2,7 +2,7 @@
 
 A curated list for awesome kubernetes sources :ship::tada:
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ramitsurana/awesome-kubernetes/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) · ⭐ 13K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ramitsurana/awesome-kubernetes/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) · ⭐ 13K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ramitsurana/awesome-kubernetes/week/README.md) / [Overview](/content/ramitsurana/awesome-kubernetes/readme/README.md) ]
 
@@ -29,7 +29,6 @@ A curated list for awesome kubernetes sources :ship::tada:
 ### Featured On
 
 *   [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) by [Alex Soto Bueno](https://github.com/lordofthejars) and [Andrew Block](https://github.com/sabre1041)
-*   [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) by [Juana Nakfour](https://twitter.com/nak4red) and Sanjay Arora
 *   [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
 
 ## [Jun 16, 2021](/content/2021/06/16/README.md)
@@ -76,7 +75,7 @@ A curated list for awesome kubernetes sources :ship::tada:
 *   [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 *   [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 *   [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
-*   [Docker Kubernetes Lab Handbook (⭐194)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
+*   [Docker Kubernetes Lab Handbook (⭐197)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 *   [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 *   [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 *   [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)

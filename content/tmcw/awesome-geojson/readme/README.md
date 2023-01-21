@@ -2,7 +2,7 @@
 
 GeoJSON utilities that will make your life easier.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tmcw/awesome-geojson/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) · ⭐ 1.9K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tmcw/awesome-geojson/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) · ⭐ 1.9K · 🏷️ Miscellaneous
 
 [ [Daily](/content/tmcw/awesome-geojson/README.md) / [Weekly](/content/tmcw/awesome-geojson/week/README.md) / Overview ]
 

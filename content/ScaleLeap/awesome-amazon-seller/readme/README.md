@@ -2,7 +2,7 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 194 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 194 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / Overview ]
 

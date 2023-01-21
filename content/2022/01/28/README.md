@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -109,7 +109,7 @@
 
 ### LaTeX formulas on the web
 
-*   [xhub (⭐69)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [xhub (⭐71)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -127,7 +127,6 @@
 
 ### Problem Solving / Human-Level Problem Solving
 
-*   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
 *   [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893\&hl=en\&as_sdt=0,5)].
 
 ---

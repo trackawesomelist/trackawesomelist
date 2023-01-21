@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Samples
 
-*   Sascha Willems's [Vulkan-glTF-PBR (⭐638)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
+*   Sascha Willems's [Vulkan-glTF-PBR (⭐657)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
 ## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐160)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐162)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

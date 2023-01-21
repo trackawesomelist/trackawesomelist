@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,15 +21,15 @@
 ### API Builder and Discovery
 
 *   [Version Cake (⭐647)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
-*   [versionist (⭐965)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+*   [versionist (⭐963)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization
 
-*   [acl9 (⭐858)](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
+*   [acl9 (⭐857)](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
 
 ### Data Visualization
 
-*   [LazyHighCharts (⭐1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
+*   [LazyHighCharts (⭐1.1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
 
 ### Database Tools
 

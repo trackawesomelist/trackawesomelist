@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Portal 2D (⭐48)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+*   [Portal 2D (⭐51)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -46,13 +46,13 @@
 
 ### Log Management
 
-*   [logflare.app](https://logflare.app/) — Free for upto 12,960,000 enteries per app per month, 3 days retention
+*   [logflare.app](https://logflare.app/) — Free for upto 12,960,000 entries per app per month, 3 days retention
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Serialization
 
-*   [lectra-tech/koson (⭐76)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
+*   [lectra-tech/koson (⭐77)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
 
 ## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -55,7 +55,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Plugins and scripts / Various Godot versions
 
-*   [HTerrain (⭐1.1k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
+*   [HTerrain (⭐1.2k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -86,7 +86,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐298)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐305)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [wsl2-ssh-pageant (⭐1)](https://github.com/antoinemartin/wsl2-ssh-pageant-oh-my-zsh-plugin) - Use your Yubikey stored GPG keys from WSL. This packages the instructions from [wsl2-ssh-pageant repo (⭐322)](https://github.com/BlackReloaded/wsl2-ssh-pageant) as a ZSH plugin.
+*   [wsl2-ssh-pageant (⭐1)](https://github.com/antoinemartin/wsl2-ssh-pageant-oh-my-zsh-plugin) - Use your Yubikey stored GPG keys from WSL. This packages the instructions from [wsl2-ssh-pageant repo (⭐325)](https://github.com/BlackReloaded/wsl2-ssh-pageant) as a ZSH plugin.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -56,8 +56,8 @@
 ### Templates / Vue 3
 
 *   [vue3-mobile-template (⭐27)](https://github.com/parajs/vue3-mobile-template) - Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
-*   [vue3-template (⭐42)](https://github.com/lecoueyl/vue3-template) - Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
-*   [Vitecamp (⭐252)](https://github.com/nekobc1998923/vitecamp) - Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing.
+*   [vue3-template (⭐44)](https://github.com/lecoueyl/vue3-template) - Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
+*   [Vitecamp (⭐263)](https://github.com/nekobc1998923/vitecamp) - Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing.
 
 ## [7. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Libraries / New Libraries
 
-*   [EvoJAX (⭐573)](https://github.com/google/evojax) - Hardware-Accelerated Neuroevolution <img src="https://img.shields.io/github/stars/google/evojax?style=social" align="center">
+*   [EvoJAX (⭐600)](https://github.com/google/evojax) - Hardware-Accelerated Neuroevolution <img src="https://img.shields.io/github/stars/google/evojax?style=social" align="center">
 
 ## [10. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 

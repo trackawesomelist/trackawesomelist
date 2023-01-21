@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Miscellaneous / Third Party
 
-*   [d3-force-sampled (⭐44)](https://github.com/twosixlabs/d3-force-sampled) - Super fast, linear-time force-directed graph layouts by Random Vertex Sampling
+*   [d3-force-sampled (⭐45)](https://github.com/twosixlabs/d3-force-sampled) - Super fast, linear-time force-directed graph layouts by Random Vertex Sampling
 
 ## [3. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -95,11 +95,11 @@
 ### Containers
 
 *   [robin-hood-hashing (⭐1.3k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐858)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-map (⭐872)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### Math
 
-*   [GLM (⭐7k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [GLM (⭐7.1k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -127,7 +127,7 @@
 
 ### UI / Barcode
 
-*   [BadgeHub (⭐747)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
+*   [BadgeHub (⭐773)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 *   [LoadingShimmer (⭐1.4k)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 
 ## [16. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
@@ -154,7 +154,7 @@
 
 ### Component Collections / Material Design
 
-*   [shards-react (⭐741)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
+*   [shards-react (⭐740)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
 
 ### Inspect / Lazy Load
 

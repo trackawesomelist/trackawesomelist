@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 20, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -96,14 +96,7 @@
 
 *   [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
 
-## [5. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [San Francisco](http://www.meetup.com/papers-we-love-too/)
-*   [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
-
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scripting
 

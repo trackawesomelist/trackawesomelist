@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 ### UICollectionView / Barcode
 
-*   [SimpleSource (⭐95)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
+*   [SimpleSource (⭐96)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
 
 ## [3. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [dayron (⭐155)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐156)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [3. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md)
 
@@ -100,11 +100,11 @@
 
 ### Misc
 
-*   [circuit\_breaker (⭐24)](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+*   [circuit\_breaker (⭐26)](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐747)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐751)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

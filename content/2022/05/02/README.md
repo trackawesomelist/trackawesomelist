@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Misc libraries
 
-*   [SasLuca/zig-nanoid (⭐16)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
+*   [SasLuca/zig-nanoid (⭐18)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -26,13 +26,13 @@
 
 ### Software / Miscellaneous
 
-*   [Noisedash (⭐191)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs`
+*   [Noisedash (⭐203)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs`
 
 ### Software / Time Tracking
 
-*   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐7.6k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
+*   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐7.8k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
 *   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2k)](https://github.com/kevinpapst/kimai2/)) `MIT` `PHP`
-*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐602)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
+*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐634)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 
 ## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
@@ -54,33 +54,33 @@
 
 ### Completion / Diagnostics
 
-*   [hrsh7th/nvim-cmp (⭐4.3k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
-    *   [lukas-reineke/cmp-under-comparator (⭐107)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
+*   [hrsh7th/nvim-cmp (⭐4.6k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
+    *   [lukas-reineke/cmp-under-comparator (⭐116)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
 
 ### Session / Diagnostics
 
-*   [Shatur/neovim-session-manager (⭐268)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
+*   [Shatur/neovim-session-manager (⭐280)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [AstroNvim/AstroNvim (⭐5.9k)](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
+*   [AstroNvim/AstroNvim (⭐6.2k)](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
 
 ## [7. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Frameworks
 
-*   [Blaze (⭐85)](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
+*   [Blaze (⭐90)](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
 *   [Sushi (⭐85)](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
 
 ### Contents / Integration
 
-*   [Google HCLS Data Harmonization (⭐122)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
+*   [Google HCLS Data Harmonization (⭐123)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
 
 ## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### operations
 
-*   [turf (⭐7.6k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
+*   [turf (⭐7.7k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
 *   [turf\_dart (⭐29)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -102,7 +102,7 @@
 
 ### DBaaS
 
-*   [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgresSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.
+*   [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgreSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.
 
 ### IDE and Code Editing
 

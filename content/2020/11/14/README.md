@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 14, 2020
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,13 +30,13 @@
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Codelabs
-
-*   [Web Components Tools: A Comparison](https://www.nexmo.com/blog/2020/05/20/web-components-tools-a-comparison)
-
 ### Starter Kits
 
 *   [Create Open Web Components](https://open-wc.org/docs/development/generator/) - Web component project scaffolding.
+
+### Tutorials
+
+*   [Web Components Tools: A Comparison](https://www.nexmo.com/blog/2020/05/20/web-components-tools-a-comparison)
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -50,16 +50,7 @@
 
 *   [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Wicket
-
-*   [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
-*   [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
-*   [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
-*   [The JavaScript Way (⭐7.7k)](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
-
-## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### IDEs / SRAM
 

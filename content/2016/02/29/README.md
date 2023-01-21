@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -122,7 +122,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### For Electron / Other
 
-*   [electron-packager (⭐8.1k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐8.2k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
 ## [11. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 

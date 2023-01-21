@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,8 +10,7 @@
 
 ### Utils / Third Party
 
-*   [d3-ring-note (⭐109)](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
-*   [d3-trail (⭐139)](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
+*   [d3-ring-note (⭐110)](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
 *   [swoopyarrows (⭐102)](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows
 
 ## [2. Awesome](/content/Awesome-Windows/Awesome/README.md)
@@ -59,7 +58,7 @@
 
 ### Tutorials
 
-*   [Terry Um’s TensorFlow Exercises (⭐612)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
+*   [Terry Um’s TensorFlow Exercises (⭐613)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
 *   [Installing TensorFlow on Raspberry Pi 3 (⭐2.2k)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 
 ---

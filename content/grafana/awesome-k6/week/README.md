@@ -2,7 +2,7 @@
 
 A curated list of resources on automated load- and performance testing using k6 🗻
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 295 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 295 · 🏷️ Testing
 
 [ [Daily](/content/grafana/awesome-k6/README.md) / Weekly / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
 

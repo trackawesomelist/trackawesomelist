@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [Stack-in-a-box/triumphmayflowerclub.com (⭐2)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
+*   [Stack-in-a-box/triumphmayflowerclub.com (⭐3)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
 
 ## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -59,9 +59,9 @@
 
 ### Computer Vision
 
-*   [EasyOCR (⭐16k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
-*   [Kornia (⭐7.5k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
-*   [pytesseract (⭐4.5k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
+*   [EasyOCR (⭐17k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
+*   [Kornia (⭐7.6k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
+*   [pytesseract (⭐4.6k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 05 - Oct 11, 2015
 
-37 awesome lists updated this week.
+36 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -202,20 +202,13 @@
 
 *   [Test::Harness](https://metacpan.org/pod/Test::Harness) - Run Perl standard test scripts with statistics
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Embedded Systems / Phoenix
-
-*   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/\~geobrown/book.pdf) (PDF)
-*   [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
-
-## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Miscellaneous
 
 *   [Memory Networks Implementations - Facebook (⭐1.8k)](https://github.com/facebook/MemNN)
 
-## [17. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [16. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Resources for those already familiar with GitHub
 
@@ -225,7 +218,7 @@
 
 *   [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source (⭐60)](https://github.com/huboard/huboard-web))
 
-## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -239,7 +232,7 @@
 
 *   [elixtagram (⭐81)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
 
-## [19. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [18. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 
@@ -292,47 +285,47 @@
 
 *   [Freedom in your computer and in the net](https://www.youtube.com/watch?v=2lupgHYiK9Q) By Richard Stallman
 
-## [20. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [19. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Authoring Frameworks & Longer Readings
 
 *   [CSS Modules](http://glenmaddern.com/articles/css-modules), by Glen Maddern
 
-## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Templates
 
-*   [Side-Waffle (⭐653)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
+*   [Side-Waffle (⭐654)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 *   [Template10 (⭐1.4k)](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 
 ### Git Tools
 
-*   [posh-git (⭐6.6k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [posh-git (⭐6.7k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐378)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐379)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Other Awesome Projects
 
 *   [Inqlude](http://inqlude.org/) - The Qt library archive.
 
-## [23. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [22. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
 *   [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)
 *   [Write web components with ES2015 (ES6)](http://www.revillweb.com/tutorials/web-components-with-es2015-es6/)
 
-## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [23. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### JavaScript Clients
 
-*   [traverson (⭐424)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+*   [traverson (⭐426)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
-## [25. Typography](/content/deanhume/typography/week/README.md)
+## [24. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -343,13 +336,13 @@
 *   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐798)](https://github.com/kennethormandy/normalize-opentype.css)
 *   [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
 
-## [26. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [25. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Other / Nice-to-have :thumbsup:
 
 *   (Resources) [Sketch Repo](http://sketchrepo.com/)
 
-## [27. Tips](/content/git-tips/tips/week/README.md)
+## [26. Tips](/content/git-tips/tips/week/README.md)
 
 ## Ignore one file on commit (e.g. Changelog).
 
@@ -357,7 +350,7 @@
 git update-index --assume-unchanged Changelog; git commit -a; git update-index --no-assume-unchanged Changelog
 ```
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Math / Barcode
 
@@ -372,7 +365,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 *   [AMScrollingNavbar (⭐6.1k)](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 *   [NVActivityIndicatorView (⭐10k)](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 
-## [29. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [28. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Resources, Blogs, and Books / Deep Dive
 
@@ -385,7 +378,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 *   [caniuse promises](http://caniuse.com/#feat=promises)
 *   [Fates and States (⭐1.2k)](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md) - Quick definitions of possible states.
 
-## [30. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [29. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -416,13 +409,13 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 *   [Johnny-Five](http://johnny-five.io/) - Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.
 *   [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
 
-## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### For Developers / Directory Navigation
 
 *   [cloc (⭐15k)](https://github.com/AlDanial/cloc) - Count Lines of Code
 
-## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Babel Plugins / Components
 
@@ -436,7 +429,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [play-angular2 (⭐9)](https://github.com/gdi2290/play-angular2)
 
-## [33. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [32. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Java
 
@@ -472,7 +465,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Neo4j Koans (⭐322)](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j.
 
-## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Image
 
@@ -482,7 +475,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
 
-## [35. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [34. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -502,7 +495,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
     *   [page-object (⭐646)](https://github.com/cheezy/page-object) - Page-object is a simple gem that assists in creating flexible page objects for testing browser based applications.
 *   [factory\_factory\_girl (⭐46)](https://github.com/st0012/factory_factory_girl) - FactoryFactoryGirl lets you generate factory files more efficiently with naming rules.
 
-## [36. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [35. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
@@ -513,7 +506,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Web Audio Basics (⭐111)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 
-## [37. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [36. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Subjects / Computer Science
 

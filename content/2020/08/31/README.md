@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### no-std crates / WIP
 
-*   [static-bytes (⭐7)](https://github.com/xoac/static-bytes): Help work with buffers without dynamic allocation. Implement traits from bytes crate. [![crate.io](https://img.shields.io/crates/v/static-bytes.svg)](https://crates.io/crates/static-bytes)
+*   [static-bytes (⭐6)](https://github.com/xoac/static-bytes): Help work with buffers without dynamic allocation. Implement traits from bytes crate. [![crate.io](https://img.shields.io/crates/v/static-bytes.svg)](https://crates.io/crates/static-bytes)
 
 ## [2. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -30,7 +30,7 @@
 ### Resources / Presets
 
 *   [Laravel Moonlight (⭐142)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
-*   [Titanium (⭐11)](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
+*   [Titanium (⭐10)](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 
 ### Resources / Packages
 
@@ -48,7 +48,7 @@
 
 ### Image Processing
 
-*   [python-barcode (⭐416)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
+*   [python-barcode (⭐421)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

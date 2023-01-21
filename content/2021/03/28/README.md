@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,11 +29,11 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-elements (⭐527)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
+*   [vue-stripe-elements (⭐528)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
 
 ### Components & Libraries / Dev Tools
 
-*   [Volar (⭐4.1k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+*   [Volar (⭐4.2k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

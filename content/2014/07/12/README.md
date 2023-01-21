@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,14 +10,14 @@
 
 ### Packages / Image
 
-*   [image-type (⭐319)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+*   [image-type (⭐326)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
 *   [gm (⭐6.7k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
-*   [iconv-lite (⭐2.8k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐530)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐105)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [iconv-lite (⭐2.9k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
+*   [escape-string-regexp (⭐532)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐106)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 *   [strip-indent (⭐128)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
@@ -30,7 +30,7 @@
 
 ### Packages / Network
 
-*   [get-port (⭐768)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐771)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Weird
 

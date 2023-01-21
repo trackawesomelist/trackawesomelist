@@ -2,7 +2,7 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 24K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 24K · 🏷️ Work
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 

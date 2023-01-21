@@ -2,7 +2,7 @@
 
 A list of awesome Symfony bundles, utilities and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sitepoint-editors/awesome-symfony/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) · ⭐ 1.5K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sitepoint-editors/awesome-symfony/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) · ⭐ 1.5K · 🏷️ Back-End Development
 
 [ [Daily](/content/sitepoint-editors/awesome-symfony/README.md) / [Weekly](/content/sitepoint-editors/awesome-symfony/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 :star: Useful resources for the Frege programming language
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sfischer13/awesome-frege/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sfischer13/awesome-frege](https://github.com/sfischer13/awesome-frege) · ⭐ 27 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sfischer13/awesome-frege/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sfischer13/awesome-frege](https://github.com/sfischer13/awesome-frege) · ⭐ 27 · 🏷️ Programming Languages
 
 [ [Daily](/content/sfischer13/awesome-frege/README.md) / Weekly / [Overview](/content/sfischer13/awesome-frege/readme/README.md) ]
 

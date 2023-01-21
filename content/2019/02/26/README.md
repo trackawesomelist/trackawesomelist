@@ -2,7 +2,7 @@
 
 25 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -275,8 +275,8 @@
 
 ### Hardware / Motor Controllers
 
-*   [grblShield (⭐128)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐810)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [grblShield (⭐129)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+*   [TinyG (⭐818)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Hardware / Accessories
@@ -291,10 +291,10 @@
 
 ### Software / HPGL
 
-*   [Chiplotle (⭐23)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
+*   [Chiplotle (⭐24)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 *   [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 *   [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
-*   [djipco/hpgl (⭐30)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+*   [djipco/hpgl (⭐31)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 *   [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
 *   [vec (⭐19)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
 *   [d3-hpgl (⭐19)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
@@ -303,22 +303,22 @@
 
 ### Software / G-code
 
-*   [grbl (⭐4.8k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+*   [grbl (⭐4.9k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
 *   [cncjs (⭐1.9k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
 *   [Universal-G-Code-Sender (⭐1.5k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 *   [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
 ### Software / Plotter-Specific
 
-*   [axi (⭐240)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+*   [axi (⭐243)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
 *   [xy (⭐67)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
-*   [LaserGRBL (⭐912)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+*   [LaserGRBL (⭐929)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
 *   [PenPlotter (⭐104)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
-*   [Makelangelo-firmware (⭐140)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+*   [Makelangelo-firmware (⭐142)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
 *   [RoboPaint (⭐116)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
 *   [AxiTurtle (⭐12)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐459)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
-*   [saxi (⭐375)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+*   [GRBL-Plotter (⭐472)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [saxi (⭐382)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
 
@@ -326,37 +326,36 @@
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.1k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐344)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
-*   [stipplegen (⭐371)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐278)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [autotrace (⭐352)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [stipplegen (⭐375)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+*   [SquiggleDraw (⭐283)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
 *   [maptrace (⭐114)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
-*   [Drawbot\_image\_to\_gcode\_v2 (⭐136)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+*   [Drawbot\_image\_to\_gcode\_v2 (⭐139)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
 *   [blackstripes (⭐81)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
 *   [Ribbon (⭐227)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
-*   [penplot (⭐255)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
-*   [penkit (⭐124)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+*   [penplot (⭐256)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
+*   [penkit (⭐128)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 *   [generativeExamples (⭐58)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
-*   [scribbleplot (⭐38)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
+*   [scribbleplot (⭐39)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 *   [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
 *   [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
 
 ### Software / Vector Utilities
 
-*   [svgsort (⭐223)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+*   [svgsort (⭐226)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
 *   [svgo (⭐19k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
 *   [Polargraph Optimizer (⭐56)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
-*   [penkit-optimize (⭐124)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
-*   [svg-crowbar (⭐833)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
+*   [penkit-optimize (⭐128)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
+*   [svg-crowbar (⭐834)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 
 ### Software / Fonts
 
 *   [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 *   [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
-*   [hershey-fonts (⭐46)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
-*   [OneLineFonts.com](https://www.onelinefonts.com) - Commercial site with some single-line fonts available for purchase.
+*   [hershey-fonts (⭐48)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -499,23 +498,23 @@
 
 ### Programming Languages
 
-*   [Q# (⭐134)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐136)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Gaming
 
-*   [Minecraft (⭐273)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐286)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐188)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐192)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐2.5k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐2.6k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Miscellaneous
 
-*   [Board Games (⭐203)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐207)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 
 ## [22. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

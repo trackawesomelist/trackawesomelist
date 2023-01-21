@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -74,7 +74,7 @@
 
 ### Platforms
 
-*   [Cloudflare (⭐351)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [Cloudflare (⭐360)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐521)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐543)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Font
 
@@ -131,7 +131,7 @@
 
 ### Memory Allocation
 
-*   [tgc (⭐747)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐751)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 

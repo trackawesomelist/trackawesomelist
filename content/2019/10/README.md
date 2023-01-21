@@ -2,7 +2,7 @@
 
 56 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,18 +33,18 @@
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Continuous Integration & Continuous Deployment
+### Software / Continuous Integration & Continuous Deployment
 
-*   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐4.9k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
+*   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐5k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 *   [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code (⭐96)](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
 *   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐26k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
 *   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐81)](https://github.com/factor-io/factor)) `MIT` `Ruby`
-*   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce) `MIT` `Ruby`
-*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.6k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
+*   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
+*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.7k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
 *   [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code (⭐54)](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
 *   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐20k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐236)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
-*   [PHP Censor (⭐658)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
+*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐243)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
+*   [PHP Censor (⭐660)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 
@@ -329,7 +329,7 @@
 
 ### Communications security (COMSEC) / Service meshes
 
-*   [GPG Sync (⭐331)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
+*   [GPG Sync (⭐332)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
 
 ## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -433,7 +433,7 @@
 *   [Bongo (⭐481)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
 *   [minquery (⭐60)](https://github.com/icza/minquery) - MongoDB cursor that paginates
-*   [mongo-go-driver (⭐7k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
+*   [mongo-go-driver (⭐7.1k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
 ### Libraries / Java
 
@@ -467,7 +467,7 @@
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [ClashX (⭐21k)](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClashX (⭐22k)](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
@@ -483,7 +483,7 @@
 
 ### Plugins
 
-*   [extrakto (⭐611)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐629)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
 ## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -562,16 +562,15 @@
 
 *   [Bootstrap ROM](https://tcrf.net/Game_Boy_Color_Bootstrap_ROM)
 *   [Colorization palettes in the BIOS](https://forums.nesdev.com/viewtopic.php?p=114388\&sid=c3d4ce08cfd9d9c834958d4f148750c3#p114388)
-*   [ROM Disassembly](https://gist.github.com/drhelius/6063265)
 
 ### Peripherals / Opcodes
 
-*   [Game Boy Camera RE (⭐66)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
-*   [Arduino Game Boy Printer Emulator (⭐248)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
+*   [Game Boy Camera RE (⭐68)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
+*   [Arduino Game Boy Printer Emulator (⭐255)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
 
 ### Cartridges / Custom cartridges
 
-*   [Homebrew-Gameboy-Cartridge (⭐113)](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.
+*   [Homebrew-Gameboy-Cartridge (⭐114)](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.
 
 ### Emulator Development / Misc
 
@@ -634,7 +633,7 @@
 
 ### Database
 
-*   [LiteDB (⭐7.1k)](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
+*   [LiteDB (⭐7.2k)](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
 
 ### Decompilation
 
@@ -679,7 +678,7 @@
 
 ### Object to object mapping
 
-*   [AutoMapper (⭐9.1k)](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. <https://automapper.org>
+*   [AutoMapper (⭐9.2k)](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. <https://automapper.org>
 
 ### Office
 
@@ -717,7 +716,7 @@
 
 ### Machine Learning
 
-*   [flashlight (⭐4.6k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
+*   [flashlight (⭐4.7k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
 
 ### Weblogs
 
@@ -742,7 +741,7 @@
 
 ### Third party Guides
 
-*   [Conferences.digital (⭐767)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+*   [Conferences.digital (⭐768)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 
 ### Cache
 
@@ -750,17 +749,17 @@
 
 ### UI / Barcode
 
-*   [Doric Design System Foundation (⭐93)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
+*   [Doric Design System Foundation (⭐94)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
 ## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Sliders
 
-*   [Flutter Xlider (⭐393)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
+*   [Flutter Xlider (⭐405)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
 
 ### UI / UI Helpers
 
-*   [Reorderables (⭐543)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+*   [Reorderables (⭐571)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 
 ### Device / Bluetooth / NFC / Beacon
 
@@ -788,7 +787,7 @@
 
 ### CLI Utilities
 
-*   [Whirly (⭐315)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
+*   [Whirly (⭐316)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
 
 ### Cryptocurrencies and Blockchains
 
@@ -800,23 +799,23 @@
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐545)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐549)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Machine Learning
 
-*   [AI4R (⭐710)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-*   [ruby-fann (⭐451)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+*   [AI4R (⭐708)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+*   [ruby-fann (⭐454)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
 *   [Foreman (⭐5.8k)](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
-*   [Procodile (⭐605)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
+*   [Procodile (⭐607)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 
 ### Scientific
 
 *   Bindings
-    *   [PyCall (⭐873)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
-    *   [ruby-opencv (⭐809)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+    *   [PyCall (⭐876)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
+    *   [ruby-opencv (⭐807)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ### Social Networking
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,19 +10,19 @@
 
 ### Libraries / Text processing
 
-*   [cpc (⭐80)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
+*   [cpc (⭐82)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
 ## [2. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Client-side
 
-*   [Preact (⭐6)](https://github.com/jrson83/inertia-preact)
+*   [Preact (⭐5)](https://github.com/jrson83/inertia-preact)
 
 ## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Bootables
 
-*   [chivay/vmt (⭐7)](https://github.com/chivay/vmt) - Toy OS.
+*   [chivay/vmt (⭐6)](https://github.com/chivay/vmt) - Toy OS.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [bootique/bootique-kotlin (⭐14)](https://github.com/bootique/bootique-kotlin) - Provides extension function and features for smooth development with Bootique and Kotlin.
+*   [bootique/bootique-kotlin (⭐13)](https://github.com/bootique/bootique-kotlin) - Provides extension function and features for smooth development with Bootique and Kotlin.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

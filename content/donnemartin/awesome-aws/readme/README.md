@@ -2,7 +2,7 @@
 
 A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/donnemartin/awesome-aws/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) · ⭐ 11K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/donnemartin/awesome-aws/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) · ⭐ 11K · 🏷️ Platforms
 
 [ [Daily](/content/donnemartin/awesome-aws/README.md) / [Weekly](/content/donnemartin/awesome-aws/week/README.md) / Overview ]
 

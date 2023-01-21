@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,11 +28,11 @@
 
 ### Image Processing
 
-*   [Video++ (⭐690)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐692)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Math
 
-*   [QuantLib (⭐3.5k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐3.6k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

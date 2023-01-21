@@ -2,7 +2,7 @@
 
 A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/heynickc/awesome-ddd/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) · ⭐ 9.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/heynickc/awesome-ddd/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) · ⭐ 9.3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/heynickc/awesome-ddd/README.md) / Weekly / [Overview](/content/heynickc/awesome-ddd/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome projects powered by Apache Wicket 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/PhantomYdn/awesome-wicket/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 PhantomYdn/awesome-wicket](https://github.com/PhantomYdn/awesome-wicket) · ⭐ 66 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/PhantomYdn/awesome-wicket/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 PhantomYdn/awesome-wicket](https://github.com/PhantomYdn/awesome-wicket) · ⭐ 66 · 🏷️ Back-End Development
 
 [ [Daily](/content/PhantomYdn/awesome-wicket/README.md) / [Weekly](/content/PhantomYdn/awesome-wicket/week/README.md) / Overview ]
 

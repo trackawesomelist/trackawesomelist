@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -96,7 +96,6 @@
 
 *   [Visualime.com](https://www.visualime.com/) — Free and unlimited session recordings, no traffic limits
 *   [inspectlet.com](https://www.inspectlet.com/) — 2,500 sessions/month free for 1 website
-*   [livesession.io](https://livesession.io/) — 5,000 sessions/month free for 1 website
 *   [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for 1 website
 
 ---

@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [react-final-form (⭐7.1k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
+*   [react-final-form (⭐7.2k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -40,7 +40,7 @@
 
 *   [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐8.9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 
@@ -103,7 +103,7 @@
 
 ### CI / Tools & Plugins
 
-*   [JMeter Maven Plugin (⭐398)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+*   [JMeter Maven Plugin (⭐402)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -115,7 +115,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [6. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 

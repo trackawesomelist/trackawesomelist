@@ -2,7 +2,7 @@
 
 44 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -355,7 +355,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Testing
 
-*   [phalcon-vm (⭐43)](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
+*   [phalcon-vm (⭐42)](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 
 ## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 

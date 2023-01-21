@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,11 +14,11 @@
 
 ### Packages / Natural language processing
 
-*   [leven (⭐666)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐670)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
-*   [node-mac (⭐511)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
+*   [node-mac (⭐515)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
 
 ### Packages / Miscellaneous
 

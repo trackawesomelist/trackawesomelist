@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,8 +22,8 @@
 
 ### Programming Languages / Haskell
 
-*   [nix-haskell-mode (⭐24)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
-*   [nixkell (⭐64)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+*   [nix-haskell-mode (⭐26)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
+*   [nixkell (⭐68)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
 ### Community / Webinterface
 
@@ -40,8 +40,8 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_api\_base (⭐287)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
-*   [rails\_hotwire\_base (⭐67)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
+*   [rails\_api\_base (⭐292)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+*   [rails\_hotwire\_base (⭐68)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Encryption
 
-*   [Picocrypt (⭐977)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
+*   [Picocrypt (⭐1.1k)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -71,19 +71,19 @@
 
 ### Templates / Vue 3
 
-*   [fast-crud (⭐397)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+*   [fast-crud (⭐415)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 ### Templates / React
 
-*   [react-vite-admin (⭐145)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
+*   [react-vite-admin (⭐151)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 
 ### React / Presets
 
-*   [vite-preset-react (⭐37)](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
+*   [vite-preset-react (⭐39)](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-virtual (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
+*   [@rollup/plugin-virtual (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
 
 ### Rollup Plugins / Community
 
@@ -91,15 +91,15 @@
 
 ### Adobe Experience Manager / Community
 
-*   [AEM Vite (⭐19)](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager and AEM SDK.
+*   [AEM Vite (⭐18)](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager and AEM SDK.
 
 ### Craft CMS / Community
 
-*   [Craft Vite (⭐36)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
+*   [Craft Vite (⭐39)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
 
 ### Apps/Websites / Community
 
-*   [vue3-realworld-example-app (⭐621)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+*   [vue3-realworld-example-app (⭐644)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

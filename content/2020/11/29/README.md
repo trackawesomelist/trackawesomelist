@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Official
 
-*   [Adapty (⭐413)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+*   [Adapty (⭐339)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

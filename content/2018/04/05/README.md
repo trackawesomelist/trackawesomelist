@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 *   [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [archey-osx](http://obihann.github.io/archey-osx/) - An archey script for OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/obihann/archey-osx) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [autojump (⭐14k)](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wting/autojump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [autojump (⭐15k)](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wting/autojump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ccat (⭐3k)](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jingweno/ccat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
@@ -26,7 +26,7 @@
 ### Interactive Interpreter
 
 *   [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
-    *   [awesome-jupyter (⭐3k)](https://github.com/markusschanta/awesome-jupyter)
+    *   [awesome-jupyter (⭐3.1k)](https://github.com/markusschanta/awesome-jupyter)
 
 ## [4. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
@@ -38,8 +38,8 @@
 
 ### Libraries / Python
 
-*   [Flask-Stupe (⭐28)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
-*   [Motor (⭐2k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
+*   [Flask-Stupe (⭐27)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
+*   [Motor (⭐2.1k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

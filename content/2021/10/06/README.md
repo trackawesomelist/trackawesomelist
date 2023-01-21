@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,14 +34,14 @@
 
 ### Image / Backend-Driven
 
-*   [Lottie (⭐860)](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh (⭐860)](https://github.com/xvrh/lottie-flutter)
+*   [Lottie (⭐889)](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh (⭐889)](https://github.com/xvrh/lottie-flutter)
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [bustd (⭐187)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
-*   [ouch (⭐702)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
+*   [bustd (⭐188)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
+*   [ouch (⭐775)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -83,9 +83,9 @@
 
 ### Subtitles and Captions / Web
 
-*   [IMSC HRM validator (⭐6)](https://github.com/sandflow/imscHRM)  - Validator for the IMSC Hypothetical Render Model (HRM), which constrains TTML document complexity
+*   [IMSC HRM validator (⭐7)](https://github.com/sandflow/imscHRM)  - Validator for the IMSC Hypothetical Render Model (HRM), which constrains TTML document complexity
 *   [imscJS: IMSC/TTML/SMPTE-TT/EBU-TT-D renderer (⭐74)](https://github.com/sandflow/imscJS/)  - Renders IMSC/TTML/SMPTE-TT/EBU-TT-D subtitles and captions to HTML
-*   [ttconv: subtitle/caption format converter (⭐87)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
+*   [ttconv: subtitle/caption format converter (⭐92)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
 
 ## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -260,32 +260,15 @@
 
 
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### HTML and CSS / Spock Framework
+### Graphical User Interfaces
 
-*   [HTML5 Canvas Notes for Professionals](https://goalkicker.com/HTML5CanvasBook/) - Compiled from StackOverflow documentation (PDF)
-*   [HTML5 Notes for Professionals](https://goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (PDF)
+*   [Event-Driven GTK by Example — 2021 Edition](https://mmstick.github.io/gtkrs-tutorials/) - Michael Murphy
 
-### JavaScript / Electron
+### Theoretical Computer Science
 
-*   [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
-
-### JavaScript / React
-
-*   [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
-
-### JavaScript / Svelte
-
-*   [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
-
-### MongoDB / PicoLisp
-
-*   [Learning MongoDB](https://riptutorial.com/Download/mongodb.pdf) - Based on Unaffiliated  Stack Overflow Documentation (PDF)
-*   [MongoDB Koans (⭐177)](https://github.com/chicagoruby/MongoDB_Koans)
-*   [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
-*   [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
-*   [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+*   [Theory of Computation, Making Connections](https://joshua.smcvt.edu/computation) - Jim Hefferon (PDF)
 
 ---
 

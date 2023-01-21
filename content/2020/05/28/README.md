@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -42,7 +42,7 @@
 
 ### Open Source Projects
 
-*   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/) - An installable catalogue of FOSS applications for the Android platform.
+*   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - An installable catalogue of FOSS applications for the Android platform.
 *   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 *   [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 
@@ -56,12 +56,12 @@
 
 ### UI
 
-*   [Animated Selection Slide (⭐337)](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
-*   [Flutter Tags (⭐403)](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
+*   [Animated Selection Slide (⭐338)](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
+*   [Flutter Tags (⭐417)](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### Top / Game Engine resources
 
-*   [GitJournal (⭐2.7k)](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
+*   [GitJournal (⭐2.8k)](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Component bundles
 
-*   [DevExpress Blazor UI Components (⭐321)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
+*   [DevExpress Blazor UI Components (⭐323)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Design Systems
 
-*   [Crayons (⭐121)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+*   [Crayons (⭐125)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 
 ### Podcasts
 
@@ -136,22 +136,22 @@
 
 ### Apps
 
-*   [Tottem (⭐892)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐900)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ## [15. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Client libraries
 
-*   [ros2\_rust (⭐463)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
+*   [ros2\_rust (⭐481)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
 ## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [covid-box (⭐11)](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
-*   [shortcut-box (⭐7)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
-*   [youtube-box (⭐4)](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 *   [book-box (⭐9)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
+*   [covid-box (⭐12)](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
+*   [shortcut-box (⭐7)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
+*   [youtube-box (⭐6)](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 
 ---
 

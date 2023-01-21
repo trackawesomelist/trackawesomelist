@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### UI
 
-*   [Direct Select (⭐558)](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+*   [Direct Select (⭐575)](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [QMK Configurator (⭐509)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐513)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Components & Libraries / Frameworks
 
-*   [CabloyJS (⭐702)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+*   [CabloyJS (⭐709)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
 ## [5. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 

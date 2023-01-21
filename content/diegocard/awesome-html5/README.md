@@ -2,7 +2,7 @@
 
 :memo: A curated list of awesome HTML5 resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/diegocard/awesome-html5/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) · ⭐ 2.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/diegocard/awesome-html5/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) · ⭐ 2.1K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/diegocard/awesome-html5/week/README.md) / [Overview](/content/diegocard/awesome-html5/readme/README.md) ]
 

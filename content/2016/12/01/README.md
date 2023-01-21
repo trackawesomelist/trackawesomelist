@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,9 +19,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashwithnails (⭐26)](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
-*   [lumberjack (⭐35)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
-*   [revolver (⭐128)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
+*   [bashwithnails (⭐25)](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
+*   [lumberjack (⭐37)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
+*   [revolver (⭐130)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 
 ## [2. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

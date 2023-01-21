@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Misc
 
-*   [Validot (⭐264)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
+*   [Validot (⭐267)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
 
 ### Source Generator
 
@@ -66,7 +66,7 @@
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-unity-webgl (⭐1.2k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
+*   [react-unity-webgl (⭐1.3k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
 
 ## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Tree generator (⭐100)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
+*   [Tree generator (⭐107)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 
 ### Modules / Godot 3.2+
 
-*   [Speech to Text (⭐26)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
+*   [Speech to Text (⭐27)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
 ## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐761)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐774)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
 
 ## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
@@ -120,7 +120,7 @@
 
 ### Libraries / New Libraries
 
-*   [FlaxVision (⭐39)](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
+*   [FlaxVision (⭐41)](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
 *   [Oryx (⭐3.8k)](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) - Probabilistic programming language based on program transformations.
 
 ### Videos / NumPyro

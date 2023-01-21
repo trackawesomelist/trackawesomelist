@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,12 +26,12 @@
 
 ### Assembly Manipulation
 
-*   [Fody (⭐3.8k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
-*   [ILRepack (⭐960)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
+*   [Fody (⭐3.9k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
+*   [ILRepack (⭐967)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
 
 ### CLI
 
-*   [Gui.cs (⭐7.7k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+*   [Gui.cs (⭐7.9k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-gallery-slideshow (⭐167)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
+*   [vue-gallery-slideshow (⭐168)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 
 ---
 

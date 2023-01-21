@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,14 +41,14 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Pinball (⭐112)](https://github.com/pret/pokepinball)
-*   [Pokémon TCG (⭐182)](https://github.com/pret/poketcg)
+*   [Pokémon Pinball (⭐114)](https://github.com/pret/pokepinball)
+*   [Pokémon TCG (⭐185)](https://github.com/pret/poketcg)
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [CloudFail (⭐1.7k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+*   [CloudFail (⭐1.8k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -59,15 +59,15 @@
 ### Libraries / Computation
 
 *   Scirust
-    *   [indigits/scirust (⭐241)](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
+    *   [indigits/scirust (⭐242)](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
 
 ### Libraries / Logging
 
-*   [slog-rs/slog (⭐1.3k)](https://github.com/slog-rs/slog) — Structured, composable logging for Rust [![Build Status](https://api.travis-ci.org/slog-rs/slog.svg?branch=master)](https://travis-ci.org/slog-rs/slog)
+*   [slog-rs/slog (⭐1.4k)](https://github.com/slog-rs/slog) — Structured, composable logging for Rust [![Build Status](https://api.travis-ci.org/slog-rs/slog.svg?branch=master)](https://travis-ci.org/slog-rs/slog)
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐6.4k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐6.5k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

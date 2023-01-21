@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -52,12 +52,6 @@
 *   [Comparison of approaches to multitenancy in Rails apps](https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/)
 *   [Managing Rails Event Store Subscriptions — How To](https://blog.arkency.com/managing-rails-event-store-subscriptions-how-to/)
 *   [Rails connections, pools and handlers](https://blog.arkency.com/rails-connections-pools-and-handlers/)
-*   [File Upload in Rails with PaperClip](https://scotch.io/tutorials/file-upload-in-rails-with-paperclip)
-*   [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1) - [Part 2](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-2)
-*   [Uploading Files With Rails and ActionCable](https://scotch.io/tutorials/uploading-files-with-rails-and-actioncable)
-*   [Create an Online Streaming Radio With Rails and Icecast](https://scotch.io/tutorials/creating-online-streaming-radio-with-rails-and-icecast)
-*   [Integrating Social Login in a Ruby on Rails Application](https://scotch.io/tutorials/integrating-social-login-in-a-ruby-on-rails-application)
-*   [Asynchronous Chat With Rails and ActionCable](https://scotch.io/tutorials/asynchronous-chat-with-rails-and-actioncable)
 *   [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
 *   [Building APIs with Ruby on Rails and GraphQL](https://www.sitepoint.com/building-apis-ruby-rails-graphql/)
 *   [Understanding the Model-View-Controller (MVC) Architecture in Rails](https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/)
@@ -85,7 +79,6 @@
 *   [Danger on Rails: make robots do some code review for you!](https://evilmartians.com/chronicles/danger-on-rails-make-robots-do-some-code-review-for-you)
 *   [GraphQL on Rails: From zero to the first query](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query)
 *   [A fixture-based approach to interface testing in Rails](https://evilmartians.com/chronicles/a-fixture-based-approach-to-interface-testing-in-rails)
-*   [Five Practices for Robust Ruby on Rails Applications](https://www.cloudbees.com/blog/five-practices-for-robust-ruby-on-rails-applications/)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -115,7 +108,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐165)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
+*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐169)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
 
 ### Software / Media Streaming - Video Streaming
 

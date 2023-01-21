@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -55,7 +55,7 @@
 
 ### JSON
 
-*   [jose (⭐265)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐270)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Office
 
-*   [ExcelDna (⭐978)](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
+*   [ExcelDna (⭐989)](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
 
 ## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 23, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,17 +22,7 @@
     *   [Application Monitoring](https://medium.com/swlh/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) - Application metric monitoring with Prometheus and Grafana.
     *   [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) - About the current status of the compatibility between FastAPI and Kubernetes-native FaaS platforms.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### BETA / Non-X86
-
-*   [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
-
-### JavaScript / React
-
-*   [React Book, your beginner guide to React (⭐1.2k)](https://github.com/softchris/react-book/) - Chris Noring
-
-## [3. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [2. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### General analytics
 
@@ -147,46 +137,46 @@
 *   [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients. `©` `SaaS`
 *   [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution `©` `SaaS`
 
-## [4. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
+## [3. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
 ### About Web Monetization
 
 *   [Documentation](https://webmonetization.org/docs/getting-started)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [near/nearcore (⭐1.9k)](https://github.com/near/nearcore) — decentralized smart-contract platform for low-end mobile devices.
+*   [near/nearcore (⭐2k)](https://github.com/near/nearcore) — decentralized smart-contract platform for low-end mobile devices.
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐187)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/) [![build badge](https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master)](https://travis-ci.org/cristianoliveira/funzzy)
+*   [cristianoliveira/funzzy (⭐188)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/) [![build badge](https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master)](https://travis-ci.org/cristianoliveira/funzzy)
 
 ### Libraries / GUI
 
-*   [ImGui (⭐44k)](https://github.com/ocornut/imgui)
+*   [ImGui (⭐45k)](https://github.com/ocornut/imgui)
     *   [imgui-rs (⭐2k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Collaboration/Education
 
 *   [nbgitpuller (⭐173)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🔧 [create-tailwind-plugin (⭐17)](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
 
-## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [7. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Interactivity
 
-*   [Jupyter ROS2 (⭐17)](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
+*   [Jupyter ROS2 (⭐18)](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -216,11 +206,11 @@
 
 
 
-## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [9. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Models and Projects / JAX
 
-*   [Fourier Feature Networks (⭐908)](https://github.com/tancik/fourier-feature-networks) - Official implementation of [*Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains*](https://people.eecs.berkeley.edu/\~bmild/fourfeat).
+*   [Fourier Feature Networks (⭐938)](https://github.com/tancik/fourier-feature-networks) - Official implementation of [*Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains*](https://people.eecs.berkeley.edu/\~bmild/fourfeat).
 
 ### Videos / NumPyro
 

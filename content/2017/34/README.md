@@ -2,7 +2,7 @@
 
 43 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -119,7 +119,7 @@
 
 ### Code Analysis and Linters
 
-*   [MemCAD (⭐23)](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
+*   [MemCAD (⭐24)](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
 
 ## [12. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐335)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐337)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -304,26 +304,18 @@
 
 *   [CoreML-Models (⭐5.6k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
-### Concurrency
-
-*   [Kommander (⭐173)](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
-
 ### Events
 
 *   [Observable (⭐368)](https://github.com/roberthein/Observable) - The easiest way to observe values.
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐218)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
-
-### Network / Barcode
-
-*   [NetClient (⭐124)](https://github.com/intelygenz/NetClient-iOS) - Versatile HTTP networking library.
+*   [ZImageCropper (⭐220)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ### UITableView / Barcode
 
 *   [AZTableViewController (⭐73)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
-*   [HGPlaceholders (⭐2.1k)](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
+*   [HGPlaceholders (⭐2.2k)](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
 
 ## [27. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -434,7 +426,7 @@
 
 ### Components / Themes
 
-*   [antd-data-table (⭐124)](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
+*   [antd-data-table (⭐125)](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 
 ### Boilerplates / Themes
 
@@ -477,16 +469,16 @@
 *   [Bourbon (⭐9.1k)](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set.
 *   [bower-rails (⭐1.5k)](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
 *   [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
-*   [Torba (⭐165)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
+*   [Torba (⭐166)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 *   [Webpacker (⭐5.3k)](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ### Email
 
-*   [Maily (⭐681)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐680)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### File Upload
 
-*   [attache (⭐205)](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
+*   [attache (⭐204)](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
 
 ### Form Builder
 
@@ -495,7 +487,7 @@
 
 ### Profiler and Optimization
 
-*   [batch-loader (⭐948)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+*   [batch-loader (⭐955)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
 ## [34. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -513,7 +505,7 @@
 
 ### Database Drivers/Clients
 
-*   [leveldb (⭐39)](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
+*   [leveldb (⭐40)](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
 
 ### Examples and funny stuff
 
@@ -521,7 +513,7 @@
 
 ### Game Development
 
-*   [CrSFML (⭐325)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
+*   [CrSFML (⭐327)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
 
 ### HTTP
 
@@ -533,12 +525,12 @@
 
 ### Network Protocols
 
-*   [jwt (⭐193)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+*   [jwt (⭐197)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
 *   [msgpack-crystal (⭐129)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
 
 ### Package Management
 
-*   [shards (⭐714)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
+*   [shards (⭐718)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ### Web Frameworks
 
@@ -553,19 +545,19 @@
 
 ### Official Documentation Translations
 
-*   [icr (⭐483)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+*   [icr (⭐485)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
 
 ### Editor Plugins
 
 *   Sublime
-    *   [sublime-crystal (⭐82)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
+    *   [sublime-crystal (⭐83)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
 *   TextMate
     *   [Crystal.tmbundle (⭐18)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
 *   Vim
-    *   [vim-crystal (⭐383)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+    *   [vim-crystal (⭐389)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐12)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
-    *   [vscode-crystal-lang (⭐239)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+    *   [vscode-crystal-lang (⭐242)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 

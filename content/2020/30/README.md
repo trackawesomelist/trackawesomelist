@@ -2,7 +2,7 @@
 
 68 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,7 +39,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [terraform-landscape (⭐1.4k)](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
+*   [terraform-landscape (⭐1.5k)](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Showcases / XML
 
-*   [Deno Seed (⭐49)](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
+*   [Deno Seed (⭐51)](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Libraries / Macro
 
-*   [Linq-in-Rust (⭐91)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
+*   [Linq-in-Rust (⭐92)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ## [19. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -270,7 +270,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Readrops (⭐160)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Readrops (⭐169)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -370,20 +370,20 @@
 
 ### Plugins
 
-*   [Virtualfish (⭐955)](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
-*   [Apple Touchbar (⭐84)](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
+*   [Virtualfish (⭐968)](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
+*   [Apple Touchbar (⭐83)](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 
 ## [29. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Asset Management
 
-*   :strawberry: [AssetMix plugin (⭐26)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   :strawberry: [AssetMix plugin (⭐27)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
 ## [30. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [AVML (⭐577)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
+*   [AVML (⭐604)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 
 ## [31. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -403,14 +403,12 @@
 
 ### External Services
 
-*   [codestats-box (⭐4)](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
-*   [codestats-box-python (⭐5)](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
-*   [typeracer-box (⭐6)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 *   [chess-com-box-py (⭐7)](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
+*   [typeracer-box (⭐5)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 
 ### GitHub
 
-*   [productive-box (⭐408)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
+*   [productive-box (⭐420)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## [34. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -429,7 +427,7 @@
 
 ### Chart
 
-*   [ChartView (⭐4.6k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
+*   [ChartView (⭐4.7k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
 
 ## [36. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -601,11 +599,11 @@
 
 ### Individual components / Datagrids / tables
 
-*   [Grid.Blazor (⭐585)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
+*   [Grid.Blazor (⭐587)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
 
 ### Tools & Utilities / Others
 
-*   [Blazm.Bluetooth (⭐70)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
+*   [Blazm.Bluetooth (⭐71)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
 
 ## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -621,12 +619,12 @@
 
 ### Packages / Application layer
 
-*   [ros2-ORB\_SLAM2 (⭐59)](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library. ![ros2-ORB\_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
+*   [ros2-ORB\_SLAM2 (⭐62)](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library. ![ros2-ORB\_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
 *   [basalt\_ros2 (⭐15)](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO. ![basalt\_ros2](https://img.shields.io/github/stars/berndpfrommer/basalt_ros2.svg)
-*   [slam\_gmapping (⭐55)](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam\_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
-*   [slam\_toolbox (⭐914)](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS. ![slam\_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-*   [lidarslam\_ros2 (⭐214)](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam\_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
-*   [li\_slam\_ros2 (⭐139)](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li\_slam\_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
+*   [slam\_gmapping (⭐57)](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam\_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
+*   [slam\_toolbox (⭐932)](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS. ![slam\_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
+*   [lidarslam\_ros2 (⭐222)](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam\_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+*   [li\_slam\_ros2 (⭐143)](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li\_slam\_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 
 ### Packages / Driver layer
 
@@ -654,17 +652,17 @@
 
 ### Deep Learning / PyTorch
 
-*   [pytorch\_geometric\_temporal (⭐1.8k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pytorch\_geometric\_temporal (⭐1.9k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Visualization / Map
 
 *   [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
-*   [geemap (⭐2.4k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
+*   [geemap (⭐2.5k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
 
 ### Deployment / NLP
 
-*   [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 *   [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
+*   [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 
 ## [48. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/week/README.md)
 
@@ -715,9 +713,9 @@
 ### Components & Libraries / UI Components
 
 *   [vue-ins-progress-bar (⭐326)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
-*   [vue-horizontal-timeline (⭐87)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
+*   [vue-horizontal-timeline (⭐88)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
 *   [vue-image-kit (⭐9)](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
-*   [vue-paycard (⭐93)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
+*   [vue-paycard (⭐94)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
 *   [vue-list-picker (⭐14)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
 
 ## [53. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
@@ -768,13 +766,13 @@
 ### Canvas
 
 *   [react-konva (⭐4.9k)](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
-*   [react-sketch (⭐580)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
-*   [react-sketch-canvas (⭐211)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
+*   [react-sketch (⭐588)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
+*   [react-sketch-canvas (⭐232)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 
 ### Form Components / Rich Text Editor
 
-*   [ckeditor4-react (⭐79)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
-*   [ckeditor5-react (⭐352)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
+*   [ckeditor4-react (⭐81)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
+*   [ckeditor5-react (⭐359)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
 ## [56. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
@@ -800,7 +798,7 @@
 
 ### Emulator/interpreter development / Testing
 
-*   [chip8-test-rom (⭐180)](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
+*   [chip8-test-rom (⭐189)](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
 
 ## [59. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -813,11 +811,11 @@
 
 ### Other Testing
 
-*   [SnapshotTesting (⭐2.9k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
+*   [SnapshotTesting (⭐3k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
 
 ### TextField & TextView / Collection View Layout
 
-*   [Streamoji (⭐241)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
+*   [Streamoji (⭐244)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
 ## [61. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -843,9 +841,9 @@
 
 ## [63. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Continuous Integration & Continuous Deployment
+### Software / Continuous Integration & Continuous Deployment
 
-*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.4k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
+*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.5k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
 ## [64. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 

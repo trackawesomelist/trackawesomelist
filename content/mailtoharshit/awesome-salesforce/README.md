@@ -2,7 +2,7 @@
 
 A curated list of delightful Salesforce Platform Resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mailtoharshit/awesome-salesforce/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mailtoharshit/awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) · ⭐ 611 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mailtoharshit/awesome-salesforce/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mailtoharshit/awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) · ⭐ 611 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/mailtoharshit/awesome-salesforce/week/README.md) / [Overview](/content/mailtoharshit/awesome-salesforce/readme/README.md) ]
 

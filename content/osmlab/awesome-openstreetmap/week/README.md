@@ -2,7 +2,7 @@
 
 😎 Curated list of awesome OpenSteetMap-projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/osmlab/awesome-openstreetmap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) · ⭐ 362 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/osmlab/awesome-openstreetmap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) · ⭐ 362 · 🏷️ Miscellaneous
 
 [ [Daily](/content/osmlab/awesome-openstreetmap/README.md) / Weekly / [Overview](/content/osmlab/awesome-openstreetmap/readme/README.md) ]
 

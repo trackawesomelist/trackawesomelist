@@ -2,7 +2,7 @@
 
 Awesome list of GraphQL
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/chentsulin/awesome-graphql/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) · ⭐ 14K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/chentsulin/awesome-graphql/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) · ⭐ 14K · 🏷️ Miscellaneous
 
 [ [Daily](/content/chentsulin/awesome-graphql/README.md) / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / Overview ]
 

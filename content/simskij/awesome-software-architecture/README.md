@@ -2,7 +2,7 @@
 
 A curated list of resources on software architecture
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/simskij/awesome-software-architecture/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) · ⭐ 1.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/simskij/awesome-software-architecture/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) · ⭐ 1.6K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/simskij/awesome-software-architecture/week/README.md) / [Overview](/content/simskij/awesome-software-architecture/readme/README.md) ]
 

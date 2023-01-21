@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐228)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
+*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐232)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐468)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐478)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -107,13 +107,13 @@
 
 ### Components & Libraries / Utilities
 
-*   [fontawesome-autogen (⭐14)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
+*   [fontawesome-autogen (⭐15)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-plugin-react-refresh (⭐21)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
+*   [vite-plugin-react-refresh (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
 
 ## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

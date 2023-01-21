@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,9 +41,9 @@
     *   [Rpc.Parallel (⭐47)](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
     *   [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
     *   [Nproc (⭐29)](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
-    *   [Parany (⭐44)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
+    *   [Parany (⭐47)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
     *   [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
-    *   [SPOC (⭐122)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
+    *   [SPOC (⭐124)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
 ## [5. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Boilerplates
 
-*   [Nextron (⭐2.2k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐2.3k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

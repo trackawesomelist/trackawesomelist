@@ -2,7 +2,7 @@
 
 57 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -209,7 +209,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.ScriptInjection (⭐17)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
+*   [Blazor.ScriptInjection (⭐21)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 
 ## [20. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -419,7 +419,7 @@
 
 ### Projects
 
-*   [RustMart (⭐249)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
+*   [RustMart (⭐251)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
 
 ## [39. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -431,11 +431,11 @@
 
 ### Software / Proxy
 
-*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐10k)](https://github.com/jc21/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
+*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐11k)](https://github.com/jc21/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.3k)](https://github.com/plankanban/planka)) `MIT` `Nodejs`
+*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.4k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs`
 
 ### Software / Wikis
 
@@ -467,7 +467,7 @@
 
 ### Containers
 
-*   [PGM-index (⭐646)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
+*   [PGM-index (⭐650)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
 ## [43. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -604,7 +604,7 @@
 ### DevSecOps / Service meshes
 
 *   [Bane (⭐1.1k)](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
-*   [Trivy (⭐14k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+*   [Trivy (⭐15k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
 
 ### DevSecOps / Compliance testing and reporting
 
@@ -615,7 +615,7 @@
 
 ### GUI Development
 
-*   [DearPyGui (⭐9.2k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
+*   [DearPyGui (⭐9.4k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 
 ### Job Scheduler
 
@@ -749,13 +749,13 @@
 
 ### Boilerplates
 
-*   [next-boilerplate (⭐1.4k)](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle
+*   [next-boilerplate (⭐1.5k)](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle
 *   [Next-Postgres-With-Typescript (⭐20)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) - 🚀 The perfect starter code for your blog based on Next.js framework. ⚡️ Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 
 ### Extensions
 
-*   [next-joi (⭐109)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
+*   [next-joi (⭐111)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
 
 ## [57. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -765,7 +765,7 @@
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [n2ex (⭐270)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
+*   [n2ex (⭐271)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 *   [National Institutes of Health (NIH): FEVS Survey Results](https://hr.nih.gov/workforce/fevs/2019-fevs-survey-results) - National Institutes of Health (NIH) data visualization of Federal Viewpoints Survey (FEVS) survey results.
 *   [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase.
 

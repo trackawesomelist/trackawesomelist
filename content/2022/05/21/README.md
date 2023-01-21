@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,11 +16,11 @@
 
 ### data
 
-*   [99boundaries (⭐5)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
+*   [99boundaries (⭐6)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 
 ## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [The Power of Habit: Why We Do What We Do in Life and Business](https://www.barnesandnoble.com/w/the-power-of-habit-charles-duhigg/1103588638) - By Charles Duhigg.
 
@@ -34,25 +34,25 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐500)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐1.8k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐86)](https://github.com/andrewgregory/pacutils).
+*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐507)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐1.9k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐86)](https://github.com/andrewgregory/pacutils).
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [FileShelter (⭐277)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++`
+*   [FileShelter (⭐296)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++`
 
 ### Software / Games
 
-*   [Word Mastermind (⭐17)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
+*   [Word Mastermind (⭐18)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Bicimon (⭐15)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
+*   [Bicimon (⭐16)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [LMS (⭐723)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `C++`
+*   [LMS (⭐739)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `C++`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -60,23 +60,23 @@
 
 ### Software / Miscellaneous
 
-*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐852)](https://github.com/weewx/weewx)) `GPL-3.0` `Python`
+*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐855)](https://github.com/weewx/weewx)) `GPL-3.0` `Python`
 
 ### Software / Pastebins
 
 *   [ExBin (⭐64)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Elixir`
-*   [filite (⭐179)](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. `MIT` `Rust`
-*   [Stikked (⭐955)](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. `GPL-3.0` `PHP`
+*   [filite (⭐181)](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. `MIT` `Rust`
+*   [Stikked (⭐960)](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. `GPL-3.0` `PHP`
 
 ### Software / Personal Dashboards
 
-*   [Fenrus (⭐186)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `Nodejs`
+*   [Fenrus (⭐212)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `Nodejs`
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [ghillb/cybu.nvim (⭐190)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+*   [ghillb/cybu.nvim (⭐209)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Debug
 
-*   [FakeIt (⭐1k)](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. \[MIT]
+*   [FakeIt (⭐1.1k)](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. \[MIT]
 
 ## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Bot Building
 
-*   [wayback (⭐391)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [wayback (⭐423)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -137,19 +137,18 @@
 
 ### Geographic
 
-*   \[h3-go] - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 *   [H3 GeoJSON (⭐3)](https://github.com/mmadfox/go-geojson2h3) - Conversion utilities between H3 indexes and GeoJSON.
 *   [H3GeoDist (⭐1)](https://github.com/mmadfox/go-h3geo-dist) - Distribution of Uber H3geo cells by virtual nodes.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐471)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐503)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-magnifier (⭐3)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
+*   [vue-magnifier (⭐4)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
 ## [12. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

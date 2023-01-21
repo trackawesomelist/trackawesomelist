@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,14 +33,14 @@
 
 ### Computer Science
 
-*   [Cryptography (⭐4.2k)](https://github.com/sobolevn/awesome-cryptography#readme)
+*   [Cryptography (⭐4.3k)](https://github.com/sobolevn/awesome-cryptography#readme)
     *   [Papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UITableView / Barcode
 
-*   [SwiftyComments (⭐219)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
+*   [SwiftyComments (⭐220)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 
 ## [4. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

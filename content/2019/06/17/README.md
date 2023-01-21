@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,21 +49,21 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Applications / Cryptocurrencies
 
-*   [ChainX (⭐259)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+*   [ChainX (⭐262)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Polkadot (⭐6.4k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
-*   [Substrate (⭐7.7k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
+*   [Polkadot (⭐6.5k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
+*   [Substrate (⭐7.8k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / UI Helpers
 
-*   [Scroll To Index (⭐403)](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
+*   [Scroll To Index (⭐415)](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
 
 ### Charts / Image Picker
 
-*   [Bezier Chart (⭐422)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
+*   [Bezier Chart (⭐428)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

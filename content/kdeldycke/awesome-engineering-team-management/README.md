@@ -2,7 +2,7 @@
 
 👔 How to transition from software development to engineering management
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-engineering-team-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) · ⭐ 1.2K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-engineering-team-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) · ⭐ 1.2K · 🏷️ Business
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-engineering-team-management/week/README.md) / [Overview](/content/kdeldycke/awesome-engineering-team-management/readme/README.md) ]
 

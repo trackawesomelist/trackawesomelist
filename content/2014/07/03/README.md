@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Text and Numbers
 
-*   [uuid (⭐346)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [uuid (⭐345)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
@@ -83,7 +83,7 @@
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.1k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.2k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 ### Font
@@ -94,7 +94,7 @@
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐356)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐357)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 

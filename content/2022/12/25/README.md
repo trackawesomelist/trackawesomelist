@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,12 +26,13 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto (⭐45)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐45)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+*   [Chevereto (⭐68)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐68)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
 
 ### Software / URL Shorteners
 
-*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang `MIT` `Go`
+*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang. `MIT` `Go`
 
 ---
 
+- Prev: [Dec 26, 2022](/content/2022/12/26/README.md)
 - Next: [Dec 24, 2022](/content/2022/12/24/README.md)

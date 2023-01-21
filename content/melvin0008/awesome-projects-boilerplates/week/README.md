@@ -2,7 +2,7 @@
 
 Boilerplates for mobile and web apps
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/melvin0008/awesome-projects-boilerplates/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) · ⭐ 1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/melvin0008/awesome-projects-boilerplates/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) · ⭐ 1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/melvin0008/awesome-projects-boilerplates/README.md) / Weekly / [Overview](/content/melvin0008/awesome-projects-boilerplates/readme/README.md) ]
 

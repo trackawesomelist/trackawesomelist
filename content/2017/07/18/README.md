@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -69,7 +69,7 @@
 
 ### Build Tools
 
-*   [PlatformIO (⭐6.4k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
+*   [PlatformIO (⭐6.5k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 
 ### CMS
 
@@ -124,7 +124,7 @@
 
 ### Science
 
-*   [ObsPy (⭐975)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
+*   [ObsPy (⭐978)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 *   [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
 ### Specific Formats Processing
@@ -135,13 +135,13 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐755)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐756)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐330)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐332)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -793,23 +793,23 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐896)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐898)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.3k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
-*   [Next Simple Blog (⭐544)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
+*   [Next Simple Blog (⭐547)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 
 ### Apps
 
-*   [NextJS GOT (⭐31)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
+*   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 *   [Relate (⭐329)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 *   [Password (⭐111)](https://github.com/dotcypress/password) - One password, right way.
-*   [Next Todos (⭐124)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+*   [Next Todos (⭐123)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 *   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
-*   [Jet Chat (⭐8)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
+*   [Jet Chat (⭐10)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐50)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐814)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Rauchg Blog (⭐831)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐161)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
-*   [Plate (⭐50)](https://github.com/knipferrc/plate) - The task management app to rule them all.
+*   [Mailto (⭐164)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 
 ## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)

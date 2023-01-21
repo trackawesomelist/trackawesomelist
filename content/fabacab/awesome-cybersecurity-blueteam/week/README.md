@@ -2,7 +2,7 @@
 
 :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fabacab/awesome-cybersecurity-blueteam/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) · ⭐ 2.9K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fabacab/awesome-cybersecurity-blueteam/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) · ⭐ 2.9K · 🏷️ Security
 
 [ [Daily](/content/fabacab/awesome-cybersecurity-blueteam/README.md) / Weekly / [Overview](/content/fabacab/awesome-cybersecurity-blueteam/readme/README.md) ]
 

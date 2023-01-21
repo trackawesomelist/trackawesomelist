@@ -2,7 +2,7 @@
 
 38 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -75,7 +75,7 @@
 
 ### Testing / Barcode
 
-*   [Erik (⭐543)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐544)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Open Source / Other
 
-*   [Sqlectron (⭐4.1k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
+*   [Sqlectron (⭐4.2k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 
 ## [19. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -316,7 +316,7 @@
 
 ### Application Frameworks
 
-*   [peasy (⭐475)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
+*   [peasy (⭐478)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 
 ### Database Drivers
 
@@ -336,12 +336,12 @@
 
 ### Testing
 
-*   [Bogus (⭐6.5k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐6.6k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 *   [FsCheck (⭐1k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ### Source Generator
 
-*   [C# Algorithms, Data Structures (⭐5.2k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+*   [C# Algorithms, Data Structures (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
 ## [35. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 

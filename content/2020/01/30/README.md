@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 30, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,19 +12,13 @@
 
 *   [Linting your AWS IAM policy documents for correctness and security issues (⭐31)](https://github.com/xen0l/iam-lint)
 
-## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
-
-### In Portuguese
-
-*   [Reloading](http://reloading.com.br/) - Podcast semanal que traz as notícias, acontecimentos e curiosidades mais importantes do mundo dos videogames.
-
-## [3. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Localization
 
-*   [CrowdinSDK (⭐97)](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐98)](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
 
-## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Cloud
 
@@ -38,7 +32,7 @@
 
 *   [mqtt-camera-streamer (⭐173)](https://github.com/robmarkcole/mqtt-camera-streamer) - Stream images from a connected camera over MQTT & view using Streamlit
 
-## [5. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [4. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Model Training
 
@@ -49,7 +43,7 @@
 
 *   [Machine Learning Interviews (⭐7.4k)](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
 
-## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -64,13 +58,13 @@
 
 *   [Recon-ng (⭐2.2k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 
-## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Online services
 
 *   [Diffy](https://diffy.website) - Cloud based visual regression tool. Uses puppeteer and proprietary comparison algorithm (detect layout shifts). Great scalability with AWS Lambda.
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### User Groups / Ruby
 
@@ -80,24 +74,24 @@
 *   [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 *   [Virtual](https://virtualddd.com/)
 
-## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Other Tools / Telegram
 
 *   [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
     urls and other data effortlessly
 
-## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### On-Call
 
 *   [My week shadowing a GitLab Site Reliability Engineer](https://about.gitlab.com/blog/2019/12/16/sre-shadow/)
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
-*   [pprint (⭐880)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐879)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
 ---
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,7 +46,7 @@ Webpage: <https://yoghut.com/>
 
 ### Templates / Preferences
 
-*   [Book (⭐314)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
+*   [Book (⭐317)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -64,7 +64,7 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐5.9k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐6.1k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
 ## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

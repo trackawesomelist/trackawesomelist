@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,9 +24,9 @@
 ### Books
 
 *   [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-    *   [Book's Examples (⭐170)](https://github.com/PacktPublishing/Learning-Vulkan)
+    *   [Book's Examples (⭐176)](https://github.com/PacktPublishing/Learning-Vulkan)
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-    *   [Book's Examples (⭐617)](https://github.com/PacktPublishing/Vulkan-Cookbook)
+    *   [Book's Examples (⭐627)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
 ## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### UI
 
-*   [Image Sequence Animator (⭐129)](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+*   [Image Sequence Animator (⭐134)](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [mailspoof (⭐78)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
+*   [mailspoof (⭐80)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 
 ## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -83,14 +83,14 @@
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
-*   [Mamonsu (⭐173)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
+*   [Mamonsu (⭐175)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 *   [ZabbixDBA (⭐81)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
-*   [Blazor Tour of Heroes (⭐17)](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐379)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
+*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐387)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
 ---
 

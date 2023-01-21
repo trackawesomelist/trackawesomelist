@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Components / Other / unknown licence
 
-*   [ada-util (⭐56)](https://github.com/stcarrez/ada-util/) - A logging framework close to Java log4j framework, support for properties, serialization/deserialization framework for XML/JSON/CSV, Ada beans framework, encoding/decoding framework (Base16, Base64, SHA, HMAC-SHA), a composing stream framework (raw, files, buffers, pipes, sockets), several concurrency tools (reference counters, counters, pools, fifos, arrays), process creation and pipes, support for loading shared libraries (on Windows or Unix), HTTP client library on top of CURL or AWS.
+*   [ada-util (⭐59)](https://github.com/stcarrez/ada-util/) - A logging framework close to Java log4j framework, support for properties, serialization/deserialization framework for XML/JSON/CSV, Ada beans framework, encoding/decoding framework (Base16, Base64, SHA, HMAC-SHA), a composing stream framework (raw, files, buffers, pipes, sockets), several concurrency tools (reference counters, counters, pools, fifos, arrays), process creation and pipes, support for loading shared libraries (on Windows or Unix), HTTP client library on top of CURL or AWS.
 
 ### Database / Other / unknown licence
 
@@ -34,14 +34,14 @@
 
 ### Web / Other / unknown licence
 
-*   [awa (⭐76)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
-    *   [dynamo (⭐13)](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
-    *   [ada-wiki (⭐18)](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
-    *   [ada-security (⭐17)](https://github.com/stcarrez/ada-security) - OAuth 2.0 client and server framework to secure web applications.
+*   [awa (⭐82)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+    *   [dynamo (⭐15)](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
+    *   [ada-wiki (⭐17)](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
+    *   [ada-security (⭐18)](https://github.com/stcarrez/ada-security) - OAuth 2.0 client and server framework to secure web applications.
     *   [ada-el (⭐6)](https://github.com/stcarrez/ada-el) - This library provides the support for a simple Expression Language close to the Java Unified Expression Language (EL).
     *   [ada-asf (⭐11)](https://github.com/stcarrez/ada-asf) - Ada Server Faces allows to create web applications using the same pattern as the Java Server Faces (See JSR 252, JSR 314 and JSR 344).
     *   [ada-servlet (⭐6)](https://github.com/stcarrez/ada-servlet) - Ada Servlet allows to create web applications using the same pattern as the Java Servlet (See JSR 154, JSR 315).
-*   [swagger-ada (⭐17)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
+*   [swagger-ada (⭐18)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 
 ### Applications / Other / unknown licence
 

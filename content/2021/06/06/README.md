@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,26 +47,26 @@
 
 ### Grid
 
-*   [svelte-grid-responsive (⭐44)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+*   [svelte-grid-responsive (⭐46)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
 
 ### Form / Checkbox
 
-*   [svelte-forms-lib (⭐530)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+*   [svelte-forms-lib (⭐547)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
 
 ### WebGL / Checkbox
 
-*   [svelthree (⭐379)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+*   [svelthree (⭐396)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
 ### Portal / Checkbox
 
-*   [svelte-portal (⭐269)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-portal (⭐294)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 *   [svelte-teleport (⭐21)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
 ### Routers / Checkbox
 
-*   [svelte-router-spa (⭐442)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-router-spa (⭐454)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 *   [svelte-routing (⭐1.7k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐640)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [tinro (⭐648)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 *   [svelte-spa-router (⭐1.2k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 *   [svelte-client-router (⭐13)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 
@@ -157,8 +157,8 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Libreddit](https://libredd.it/) `⚠` - Private front-end for Reddit written in Rust. ([Source Code (⭐3.8k)](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.4k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
+*   [Libreddit](https://libredd.it/) `⚠` - Private front-end for Reddit written in Rust. ([Source Code (⭐4k)](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`
+*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.6k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -197,14 +197,14 @@
 
 ### Libraries / New Libraries
 
-*   [jaxlie (⭐152)](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
-*   [BRAX (⭐1.4k)](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
+*   [jaxlie (⭐158)](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
+*   [BRAX (⭐1.5k)](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 
 ## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Image Editing
 
-*   [react-avatar-generator (⭐53)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+*   [react-avatar-generator (⭐54)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
 ## [16. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 

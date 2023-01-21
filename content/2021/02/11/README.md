@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -74,7 +74,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Shaders (⭐1.8k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
+*   [Godot Shaders (⭐1.9k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 
 ## [7. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Tools / Binary
 
-*   [Jazzer (⭐655)](https://github.com/CodeIntelligenceTesting/jazzer) - A coverage-guided, in-process fuzzer for the Java Virtual Machine. It is based on libFuzzer and can be applied directly to compiled applications.
+*   [Jazzer (⭐694)](https://github.com/CodeIntelligenceTesting/jazzer) - A coverage-guided, in-process fuzzer for the Java Virtual Machine. It is based on libFuzzer and can be applied directly to compiled applications.
 
 ### Platform / Driver
 
@@ -213,7 +213,7 @@
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐230)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐232)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
 ## [14. Awesome Italy Events](/content/ildoc/awesome-italy-events/README.md)
 

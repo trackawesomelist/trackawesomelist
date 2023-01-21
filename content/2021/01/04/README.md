@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,16 +34,16 @@
 
 ### Contents / Libraries
 
-*   [FHIR .NET API (⭐685)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
+*   [FHIR .NET API (⭐688)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
 *   [HAPI FHIR (⭐1.6k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
 
 ### Contents / Asset Management
 
-*   [Tapirx (⭐24)](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
+*   [Tapirx (⭐25)](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
 ### Contents / Logistics
 
-*   [ID3C (⭐20)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
+*   [ID3C (⭐21)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Resources / Examples
 
-*   [Peer to Peer game of telephone (⭐59)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
+*   [Peer to Peer game of telephone (⭐63)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
 
 ### Resources / Books
 
@@ -95,7 +95,7 @@
 
 ### Boilerplates
 
-*   [nextjs-starter (⭐403)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
+*   [nextjs-starter (⭐409)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
 
 ## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 30 - Nov 05, 2017
 
-61 awesome lists updated this week.
+60 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 
 ### IR Tools Collection / Disk Image Creation Tools
 
-*   [Bitscout (⭐411)](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
+*   [Bitscout (⭐413)](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -163,7 +163,7 @@
 
 ### Logging
 
-*   [glog (⭐5.8k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
+*   [glog (⭐5.9k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
 
 ### PDF
 
@@ -190,13 +190,13 @@
 
 ### HTML / Barcode
 
-*   [SwiftSoup (⭐3.6k)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
+*   [SwiftSoup (⭐3.7k)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
 
 ### UI / Barcode
 
-*   [AGCircularPicker (⭐616)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
+*   [AGCircularPicker (⭐617)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
 *   [KALoader (⭐105)](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
-*   [MediaBrowser (⭐630)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
+*   [MediaBrowser (⭐632)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
 
 ### Payment / Barcode
 
@@ -204,14 +204,14 @@
 
 ### UICollectionView / Barcode
 
-*   [FSPagerView (⭐6.6k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
-*   [GravitySlider (⭐947)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
+*   [FSPagerView (⭐6.7k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+*   [GravitySlider (⭐964)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 *   [ShelfView-iOS (⭐268)](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 
 ### UITableView / Barcode
 
-*   [GridView (⭐828)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
-*   [ParallaxHeader (⭐997)](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
+*   [GridView (⭐830)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
+*   [ParallaxHeader (⭐999)](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
 
 ### Utility / Barcode
 
@@ -726,7 +726,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Components & Libraries / UI Components
 
-*   [vue-datetime (⭐983)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
+*   [vue-datetime (⭐982)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 
 ## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -794,17 +794,17 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [Bayesian Methods for Hackers (⭐25k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python.
 *   [Featureforge (⭐380)](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
 *   [thinking bayes (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
-*   [nilearn (⭐904)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
+*   [nilearn (⭐919)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
 *   [Theano (⭐9.6k)](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
-*   [TensorFlow (⭐169k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
+*   [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
 *   [Neural Networks and Deep Learning (⭐14k)](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
-*   [Annoy (⭐10k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
+*   [Annoy (⭐11k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
 *   [skbayes (⭐480)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
 *   [Xcessiv (⭐1.3k)](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 
 ### C++ / Natural Language Processing
 
-*   [BLLIP Parser (⭐214)](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser).
+*   [BLLIP Parser (⭐218)](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser).
 
 ### Common Lisp / General-Purpose Machine Learning
 
@@ -814,7 +814,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 ### Clojure / Natural Language Processing
 
 *   [Clojure-openNLP (⭐740)](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp).
-*   [Infections-clj (⭐202)](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript.
+*   [Infections-clj (⭐204)](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript.
 
 ### Clojure / Data Visualization
 
@@ -822,7 +822,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Go / General-Purpose Machine Learning
 
-*   [gobrain (⭐529)](https://github.com/goml/gobrain) - Neural Networks written in Go.
+*   [gobrain (⭐531)](https://github.com/goml/gobrain) - Neural Networks written in Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -834,7 +834,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Impala (⭐25)](https://github.com/cloudera/impala) - Real-time Query for Hadoop.
+*   [Impala (⭐27)](https://github.com/cloudera/impala) - Real-time Query for Hadoop.
 
 ### Java / Deep Learning
 
@@ -843,7 +843,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 ### JavaScript / Natural Language Processing
 
 *   [Twitter-text (⭐2.9k)](https://github.com/twitter/twitter-text) - A JavaScript implementation of Twitter's text processing library.
-*   [natural (⭐9.9k)](https://github.com/NaturalNode/natural) - General natural language facilities for node.
+*   [natural (⭐10k)](https://github.com/NaturalNode/natural) - General natural language facilities for node.
 *   [Knwl.js (⭐5.3k)](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS.
 
 ### JavaScript / General-Purpose Machine Learning
@@ -851,44 +851,44 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [figue](https://code.google.com/archive/p/figue) - K-means, fuzzy c-means and agglomerative clustering.
 *   [Gaussian Mixture Model (⭐26)](https://github.com/lukapopijac/gaussian-mixture-model) - Unsupervised machine learning with multivariate Gaussian mixture model.
 *   [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries.
-*   [Synaptic (⭐6.8k)](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser.
+*   [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser.
 *   [kNear (⭐45)](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning.
-*   [Pavlov.js (⭐501)](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes.
+*   [Pavlov.js (⭐503)](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes.
 
 ### Julia / General-Purpose Machine Learning
 
-*   [MLBase (⭐178)](https://github.com/JuliaStats/MLBase.jl) - A set of functions to support the development of machine learning algorithms.
+*   [MLBase (⭐179)](https://github.com/JuliaStats/MLBase.jl) - A set of functions to support the development of machine learning algorithms.
 *   [DA (⭐9)](https://github.com/trthatcher/DiscriminantAnalysis.jl) - Julia package for Regularized Discriminant Analysis.
-*   [Mixed Models (⭐342)](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models.
-*   [Decision Tree (⭐4)](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
+*   [Mixed Models (⭐343)](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models.
+*   [Decision Tree (⭐7)](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
 *   [Neural (⭐47)](https://github.com/compressed/BackpropNeuralNet.jl) - A neural network in Julia.
-*   [Mamba (⭐247)](https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia.
-*   [GLM (⭐506)](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
-*   [Gaussian Processes (⭐282)](https://github.com/STOR-i/GaussianProcesses.jl) - Julia package for Gaussian processes.
+*   [Mamba (⭐250)](https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia.
+*   [GLM (⭐513)](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
+*   [Gaussian Processes (⭐283)](https://github.com/STOR-i/GaussianProcesses.jl) - Julia package for Gaussian processes.
 *   [GLMNet (⭐88)](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
-*   [Kernel Density (⭐136)](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
+*   [Kernel Density (⭐137)](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
 *   [NMF (⭐78)](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization.
-*   [XGBoost (⭐239)](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia.
+*   [XGBoost (⭐246)](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia.
 *   [ManifoldLearning (⭐78)](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction.
 *   [Merlin (⭐145)](https://github.com/hshindo/Merlin.jl) - Flexible Deep Learning Framework in Julia.
 *   [ROCAnalysis (⭐28)](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers.
-*   [GaussianMixtures (⭐77)](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
-*   [ScikitLearn (⭐509)](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
+*   [GaussianMixtures (⭐81)](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
+*   [ScikitLearn (⭐513)](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
 *   [Knet (⭐1.4k)](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
 
 ### Julia / Data Analysis / Data Visualization
 
 *   [Graph Layout (⭐48)](https://github.com/IainNZ/GraphLayout.jl) - Graph layout algorithms in pure Julia.
 *   [LightGraphs (⭐679)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph modelling and analysis.
-*   [Hypothesis Tests (⭐240)](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
-*   [RDataSets (⭐151)](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R.
-*   [Time Series (⭐308)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
+*   [Hypothesis Tests (⭐251)](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
+*   [RDataSets (⭐150)](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R.
+*   [Time Series (⭐310)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
 *   [Sampling (⭐1)](https://github.com/lindahua/Sampling.jl) - Basic sampling algorithms for Julia.
 
 ### Julia / Misc Stuff / Presentations
 
 *   [JuliaCon Presentations (⭐69)](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon.
-*   [Images (⭐487)](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
+*   [Images (⭐492)](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
 
 ### Lua / Demos and Scripts
 
@@ -910,7 +910,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [python-ucto (⭐27)](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages).
 *   [Fuzzy Wuzzy (⭐8.8k)](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
 *   [textacy (⭐2k)](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy.
-*   [CLTK (⭐752)](https://github.com/cltk/cltk) - The Classical Language Toolkit.
+*   [CLTK (⭐756)](https://github.com/cltk/cltk) - The Classical Language Toolkit.
 *   [yase (⭐12)](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector .
 *   [Polyglot (⭐2.1k)](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit.
 *   [DrQA (⭐4.3k)](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to answer open-domain questions.
@@ -927,20 +927,20 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [Scipy Tutorials (⭐2)](https://github.com/Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes.
 *   [Crab (⭐85)](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python.
 *   [BayesPy (⭐99)](https://github.com/maxsklar/BayesPy) - Bayesian Inference Tools in Python.
-*   [scikit-learn tutorials (⭐121)](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Series of notebooks for learning scikit-learn.
+*   [scikit-learn tutorials (⭐122)](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Series of notebooks for learning scikit-learn.
 *   [group-lasso (⭐37)](https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model.
-*   [mne-python-notebooks (⭐21)](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python.
+*   [mne-python-notebooks (⭐22)](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python.
 *   [Neon Course (⭐92)](https://github.com/NervanaSystems/neon_course) - IPython notebooks for a complete course around understanding Nervana's Neon.
-*   [pandas cookbook (⭐5.9k)](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library.
+*   [pandas cookbook (⭐6k)](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library.
 *   [climin (⭐177)](https://github.com/BRML/climin) - Optimization library focused on machine learning, pythonic implementations of gradient descent, LBFGS, rmsprop, adadelta and others.
 
 ### Python / Kaggle Competition Source Code
 
 *   [wiki challenge (⭐12)](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle.
-*   [kaggle insults (⭐155)](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary".
+*   [kaggle insults (⭐154)](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary".
 *   [kaggle\_acquire-valued-shoppers-challenge (⭐68)](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge.
 *   [kaggle-cifar (⭐45)](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet.
-*   [kaggle-blackbox (⭐117)](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy.
+*   [kaggle-blackbox (⭐116)](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy.
 *   [kaggle-accelerometer (⭐16)](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle.
 *   [kaggle-advertised-salaries (⭐57)](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition.
 *   [kaggle amazon (⭐27)](https://github.com/zygmuntz/kaggle-amazon) - Amazon access control challenge.
@@ -968,7 +968,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 ### R / General-Purpose Machine Learning
 
 *   [biglasso](https://cran.r-project.org/web/packages/biglasso/index.html) - biglasso: Extending Lasso Model Fitting to Big Data in R.
-*   [XGBoost.R (⭐546)](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library.
+*   [XGBoost.R (⭐545)](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library.
 
 ### Scala / Data Analysis / Data Visualization
 
@@ -979,7 +979,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 ### Scala / General-Purpose Machine Learning
 
 *   [Conjecture (⭐357)](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding.
-*   [brushfire (⭐396)](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala.
+*   [brushfire (⭐397)](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala.
 *   [DynaML (⭐201)](https://github.com/transcendent-ai-labs/DynaML) - Scala Library/REPL for Machine Learning Research.
 
 ### Swift / General-Purpose Machine Learning
@@ -1077,8 +1077,8 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoBoy (⭐237)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
-*   [gb-save-states (⭐97)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
+*   [ArduinoBoy (⭐241)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
+*   [gb-save-states (⭐106)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 
 ## [40. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -1125,35 +1125,25 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 *   [ScaleCube (⭐559)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
 
-## [46. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Oberon / PicoLisp
-
-*   [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) - Hanspeter Mössenböck (PDF)
-
-### Python / Django
-
-*   [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
-
-## [47. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [46. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Websites
 
 *   [HTML5 UP!](https://html5up.net/) Responsive HTML5 and CSS3 Site Templates.
 
-## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Apps / Third-party APIs
 
-*   [Check-it (⭐48)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Check-it (⭐47)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [49. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [48. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Professional services
 
 *   [OneSpeed](https://onespeed.io) - Agency.
 
-## [50. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [49. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Books
 
@@ -1163,31 +1153,31 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 *   [Keen Security Lab Blog](http://keenlab.tencent.com/en/) - Blog created by Keen Security Lab of Tencent that posts research on car security.
 
-## [51. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [50. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [AdvancedNewFile (⭐197)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
+*   [AdvancedNewFile (⭐216)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 
-## [52. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [51. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Esoteric languages
 
 *   [Spooky (⭐150)](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
 
-## [53. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [52. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [Framer Slider (⭐42)](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
 
-## [54. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [53. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Browser automation
 
 *   [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
 
-## [55. Tips](/content/git-tips/tips/week/README.md)
+## [54. Tips](/content/git-tips/tips/week/README.md)
 
 ## Remove sensitive data from history, after a push
 
@@ -1195,13 +1185,13 @@ Webpage: <http://www.groundsupportcafe.com/>
 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path-to-your-file>' --prune-empty --tag-name-filter cat -- --all && git push origin --force --all
 ```
 
-## [56. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [55. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [GoodForPoc (⭐58)](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
 
-## [57. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [56. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -1213,13 +1203,13 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 
 
 
-## [58. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [57. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Java / Symfony2
 
 *   [Dropwizard (⭐8.3k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
 
-## [59. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [58. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 
@@ -1229,13 +1219,13 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 
 *   [Utf8Json (⭐2.3k)](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
 
-## [60. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [59. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Places / Monasteries
 
 *   [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
 
-## [61. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [60. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Resources
 

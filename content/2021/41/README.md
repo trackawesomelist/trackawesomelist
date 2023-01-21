@@ -2,7 +2,7 @@
 
 67 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -55,7 +55,7 @@
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐33)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐34)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
 ## [6. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-tree-viewer (⭐13)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
+*   [svelte-tree-viewer (⭐14)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Distributed Testing
 
-*   [Distributed Gatling (⭐96)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
+*   [Distributed Gatling (⭐97)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
 
 ### Tools / Plugins
 
@@ -210,7 +210,7 @@
 
 ### Tools / Reporting
 
-*   [gatling-report (⭐109)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+*   [gatling-report (⭐113)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 
 ## [21. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -222,7 +222,7 @@
 
 ### Applications
 
-*   [datafusion (⭐2.9k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐3k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 
 ### Applications / Games
 
@@ -231,7 +231,7 @@
 ### Libraries / Web programming
 
 *   Reverse Proxy
-    *   [sozu-proxy/sozu (⭐1.9k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
+    *   [sozu-proxy/sozu (⭐2k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
 
 ## [23. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
@@ -255,7 +255,7 @@
 
 ## [24. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
-### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)] / [Dawn](https://www.goodreads.com/book/show/36694961-dawn)   (1987) [4.1]
+### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)]
 
 *   [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) \[4.2] 🔥
 *   [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) \[4.3] 🔥
@@ -294,7 +294,7 @@
 
 ### Contents / Finance
 
-*   [Auction (⭐24)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
+*   [Auction (⭐25)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
 
 ## [29. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
@@ -304,9 +304,12 @@
 
 ## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Promptism
 
 *   [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
+
+### Image Synthesis / Generative Adversarial Networks (GANs)
+
 *   [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/): NVidia official StyleGAN3 release page
 
 ## [31. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
@@ -333,11 +336,11 @@
 
 ### Boilerplate / Mouse Events
 
-*   [cra-template-redux-auth-starter (⭐32)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
+*   [cra-template-redux-auth-starter (⭐33)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-slack-notification (⭐9)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
+*   [react-slack-notification (⭐10)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
 ## [34. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
@@ -359,13 +362,13 @@
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐311)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐309)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [37. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Regex
 
-*   [sindresorhus/Regex (⭐308)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [sindresorhus/Regex (⭐311)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [38. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -497,7 +500,7 @@
 
 ### Game
 
-*   [osu!framework (⭐1.2k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+*   [osu!framework (⭐1.3k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 
 ## [45. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -555,7 +558,7 @@
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐235)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐235)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐239)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐239)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### Individual components / Others
 
@@ -642,88 +645,34 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Fleetdm (⭐968)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+*   [Fleetdm (⭐1k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 
 ### IR Tools Collection / Other Tools
 
-*   [MFT Browser (⭐236)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
+*   [MFT Browser (⭐239)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 *   [traceroute-circl (⭐36)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 
-## [61. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [61. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### Arduino
+### Artificial Intelligence
 
-*   [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF)
+*   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
+*   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
 
-### Bash / Non-X86
+### Blockchain
 
-*   [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands) - Mark Bates (HTML)
+*   [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
+*   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+*   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
+*   [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 
-### BeanShell / Non-X86
+### Data Science
 
-*   [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
-*   [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
+*   [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
 
-### C / Non-X86
+### Misc
 
-*   [Coursebook (⭐573)](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
-*   [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) (PDF)
-
-### C# / Non-X86
-
-*   [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
-
-### C++ / Non-X86
-
-*   [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
-
-### COBOL / Non-X86
-
-*   [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
-
-### Forth / Phoenix
-
-*   [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
-
-### Haskell / Spock Framework
-
-*   [A Gentle Introduction to Haskell Version 98](https://www.haskell.org/tutorial/) - Paul Hudak, John Peterson, Joseph Fasel
-*   [Haskell no panic](http://lisperati.com/haskell/) - Conrad Barski
-*   [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Yann Esposito
-*   [Speeding Through Haskell](http://www.sthaskell.com) - Arya Popescu
-*   [The Haskell School of Music - From Signals to Symphonies](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) - Paul Hudak (PDF)
-*   [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) - Hal Daum ́e III (PDF)
-
-### NoSQL / PicoLisp
-
-*   [Redis in Action](https://redis.com/ebook/redis-in-action/) - Josiah L. Carlson
-
-### Prolog / Zend
-
-*   [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/) - Dennis Merritt
-*   [Concise Intro to Prolog](https://www.cis.upenn.edu/\~matuszek/Concise%20Guides/Concise%20Prolog.html) - David Matuszek
-*   [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/) - David Matuszek
-*   [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) - Daniel Diaz (PDF)
-*   [Prolog Tutorial](https://www.cpp.edu/\~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
-*   [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
-*   [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
-*   [The Power of Prolog](https://www.metalevel.at/prolog) - Markus Triska
-
-### Ruby / Ruby on Rails
-
-*   [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails) - Abraham Kuri Vargas
-
-### Scratch / Play Scala
-
-*   [Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - The MagPi magazine (PDF)
-
-### Swift / Play Scala
-
-*   [Essential Swift](https://www.programming-books.io/essential/swift/) - Krzysztof Kowalczyk (Compiled from StackOverflow Documentation)
-
-### Windows Phone / Vulkan
-
-*   [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](https://web.archive.org/web/20150709045622/http://download.microsoft.com/download/C/4/6/C4635738-5E06-4DF7-904E-BDC22AED2E58/Developing%20an%20Advanced%20Windows%20Phone%207.5%20App%20that%20Connects%20to%20the%20Cloud.pdf) - MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma (PDF) (:card\_file\_box: *archived*)
+*   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
 
 ## [62. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -750,7 +699,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐123)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐132)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [65. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 

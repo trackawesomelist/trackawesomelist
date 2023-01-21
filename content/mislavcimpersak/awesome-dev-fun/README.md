@@ -2,7 +2,7 @@
 
 A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mislavcimpersak/awesome-dev-fun/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) · ⭐ 532 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mislavcimpersak/awesome-dev-fun/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) · ⭐ 532 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/mislavcimpersak/awesome-dev-fun/week/README.md) / [Overview](/content/mislavcimpersak/awesome-dev-fun/readme/README.md) ]
 

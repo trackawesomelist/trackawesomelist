@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -58,7 +58,7 @@
 
 ### Sequence Processing
 
-*   **[SeqFu (⭐71)](https://github.com/telatin/seqfu2)** - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. \[ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
+*   **[SeqFu (⭐76)](https://github.com/telatin/seqfu2)** - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. \[ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
 
 ## [6. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome open source sysadmin resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-foss/awesome-sysadmin/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) · ⭐ 16K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-foss/awesome-sysadmin/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) · ⭐ 16K · 🏷️ Development Environment
 
 [ [Daily](/content/awesome-foss/awesome-sysadmin/README.md) / Weekly / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
@@ -752,12 +752,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Books / Web
 
-*   [Codex](http://www.starkandwayne.com/codex/) - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
 *   [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
-*   [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
-*   [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
-*   [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
-*   UNIX and Linux System Administration Handbook (ISBN-13: 978-0131480056) - Approaches system administration from a practical perspective.
 
 ### Communities / Forums / Web
 

@@ -2,7 +2,7 @@
 
 31 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -125,8 +125,8 @@
 
 ### Programming / R
 
-*   [nat: NeuroAnatomy Toolbox (⭐58)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
-*   [brainGraph (⭐130)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
+*   [nat: NeuroAnatomy Toolbox (⭐57)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
+*   [brainGraph (⭐137)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
 
 ### Resources / Ebooks
 
@@ -181,12 +181,12 @@
 
 ### Wrappers
 
-*   [cl-sqlite (⭐62)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
+*   [cl-sqlite (⭐64)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
 *   [cl-memcached (⭐20)](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-mongo (⭐134)](https://github.com/fons/cl-mongo) - MongoDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [cl-redis (⭐172)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-redis (⭐173)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-disque (⭐12)](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-rethinkdb (⭐44)](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-rethinkdb (⭐46)](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Tools
 
@@ -194,17 +194,17 @@
 
 ### C
 
-*   👍[cl-autowrap (⭐191)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   👍[cl-autowrap (⭐195)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Miscellaneous
 
-*   [common-cv (⭐51)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
-*   [ftw (⭐49)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [common-cv (⭐52)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
+*   [ftw (⭐50)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Mobile
 
 *   [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
-*   [CLASP (⭐2.2k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).
+*   [CLASP (⭐2.3k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).
 *   [Allegro CL](https://franz.com/products/allegro-common-lisp/) - provides the full ANSI Common Lisp standard with many extensions.
 
 ### Community
@@ -213,15 +213,15 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   👍 [spinneret (⭐229)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [spinneret (⭐238)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Utils / Third-party APIs
 
-*   [lfarm (⭐97)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
+*   [lfarm (⭐98)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
 
 ### Emacs / Third-party APIs
 
-*   👍 [Sly (⭐995)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it.
+*   👍 [Sly (⭐1k)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it.
 *   👍 [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
 
 ### Configuration / Third-party APIs
@@ -403,7 +403,6 @@ Wifi pw: `ilovenicolau`
 
 *   [De Appels en Peren Show](http://appelsenperenshow.nl/) - Een talkshow over en uit de toekomst. Technologie, media, cultuur en alles wat verder de toekomst mogelijk maakt.
 *   [Tech45](https://tech45.eu/) - Tech45 is een wekelijkse technologiepodcast. In ongeveer 45 minuten loodst een panel geeks je door het interessantste technieuws van de voorbije week.
-*   [TechSnacks](https://techsnacks.nl/) - De enige techpodcast op snackformaat!
 *   [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/) - Wekelijkse podcast waarin nerds Spa Rood drinken en praten over tech-onderwerpen. Met regelmatig gastnerds en vaste tafelnerds Daniel Kegel, Floris Diemel, Joost Schellevis, Jurian Ubachs en Randal Peelen.
 *   [ZeepCast](https://twitter.com/Zeepcast) - Een podcast over de laatste ontwikkelingen in wetenschap, technologie & popculture. Gehost door Sander Bijleveld & David van Dorsten.
 
@@ -465,7 +464,7 @@ Wifi pw: `ilovenicolau`
 
 ### Software / Money, Budgeting & Management
 
-*   [SilverStrike](https://silverstrike.org/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.org/), [Source Code (⭐336)](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`
+*   [SilverStrike](https://silverstrike.org/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.org/), [Source Code (⭐344)](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`
 
 ---
 

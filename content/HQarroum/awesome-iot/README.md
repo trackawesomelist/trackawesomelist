@@ -2,7 +2,7 @@
 
 🤖 A curated list of awesome Internet of Things projects and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/HQarroum/awesome-iot/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) · ⭐ 2.7K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/HQarroum/awesome-iot/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) · ⭐ 2.7K · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 

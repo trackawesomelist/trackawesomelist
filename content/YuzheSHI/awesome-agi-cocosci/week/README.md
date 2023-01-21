@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 112 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 112 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
@@ -716,7 +716,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Theory of Mind / Science Education
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
-*   [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM.
 *   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
 *   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025\&hl=en\&as_sdt=0,5)].
 *   [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***Ph.D. Dissertation MIT***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224\&hl=en\&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.

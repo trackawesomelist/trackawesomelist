@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -229,7 +229,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 ### Components & Libraries / UI Components
 
-*   [vue-datetime (⭐983)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
+*   [vue-datetime (⭐982)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 
 ---
 

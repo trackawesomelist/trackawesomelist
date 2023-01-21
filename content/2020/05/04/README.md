@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Navigation / Image Picker
 
-*   [Get (⭐7.6k)](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
+*   [Get (⭐7.9k)](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 
 ### Media / Video
 
-*   [Video Trimmer (⭐334)](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04)
+*   [Video Trimmer (⭐348)](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -30,7 +30,7 @@
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Diagramming
+### Software / Diagramming
 
 *   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
 *   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
@@ -98,7 +98,7 @@
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
-*   [FeedMe (⭐694)](https://github.com/seazon/FeedMe/blob/master/README.md) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐735)](https://github.com/seazon/FeedMe/blob/master/README.md) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 *   [Cosmicast](https://twitter.com/cosmicastapp) <sup>[564](https://t.me/s/aboutrss/564)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/gb/app/cosmicast/id1435195637)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Tigorn/Cosmicast)
 
 ### RSS2ARCHIVE / For Android device
@@ -135,7 +135,7 @@
 
 ### E-Commerce and Payments
 
-*   [credit\_card\_validations (⭐216)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
+*   [credit\_card\_validations (⭐217)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 
 ### Security
 

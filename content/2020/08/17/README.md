@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -65,15 +65,15 @@
 
 ### API Builder and Discovery
 
-*   [Blueprinter (⭐902)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Blueprinter (⭐908)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 
 ### GUI
 
-*   [Glimmer (⭐313)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐315)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
-*   [Kimurai (⭐933)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
+*   [Kimurai (⭐939)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-component-media-queries (⭐66)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
+*   [vue-component-media-queries (⭐68)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,11 +14,11 @@
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [Hacker Tab (⭐335)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Hacker Tab (⭐337)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Replace browser new tab screen with GitHub trending projects.
 
-Installs: 2000 | Stars: 335 | Last update: n/a
+Installs: 2000 | Stars: 337 | Last update: n/a
 
 ## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -51,25 +51,25 @@ Installs: 2000 | Stars: 335 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐5.8k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐6k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐25)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐31)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [txtai (⭐2.9k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐3.1k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐772)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐804)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

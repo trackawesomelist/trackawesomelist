@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Utility / Diagnostics
 
-*   [jghauser/fold-cycle.nvim (⭐40)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
+*   [jghauser/fold-cycle.nvim (⭐47)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 
 ## [4. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -54,25 +54,25 @@
 ### Domain
 
 *   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐261)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+*   [cluster.ws & wip.la (⭐274)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
 
 ## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [Typetta (⭐62)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
+*   [Typetta (⭐63)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 
 ## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Type Theory and Mathematics
 
-*   [Four Color Theorem (⭐121)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
+*   [Four Color Theorem (⭐122)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web framework
 
-*   [faster (⭐18)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐19)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [goblin (⭐46)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
+*   [goblin (⭐48)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
 
 ## [14. GoBooks](/content/dariubs/GoBooks/README.md)
 

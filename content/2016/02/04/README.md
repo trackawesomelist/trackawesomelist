@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐169k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
+*   [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Applications / Directory Navigation
 
-*   [moviemon (⭐183)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+*   [moviemon (⭐186)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐140k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐141k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -56,15 +56,15 @@
 
 ### Code Analysis and Metrics
 
-*   [Scientist (⭐6.8k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
+*   [Scientist (⭐6.9k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UITableView / Barcode
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
-*   [PullToRefreshSwift (⭐534)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
-*   [Shoyu (⭐278)](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
+*   [PullToRefreshSwift (⭐535)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
+*   [Shoyu (⭐277)](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
 
 ## [10. Awesome Music](/content/ciconia/awesome-music/README.md)
 

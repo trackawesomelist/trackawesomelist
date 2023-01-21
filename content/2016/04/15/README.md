@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,11 +22,11 @@
 
 ### Command-Line Productivity
 
-*   [sman (⭐275)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
+*   [sman (⭐277)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 
 ### Shell Script Development / Directory Navigation
 
-*   [is.sh (⭐147)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
+*   [is.sh (⭐151)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

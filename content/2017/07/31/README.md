@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐308)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐310)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [5. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -55,7 +55,7 @@
 ### Shell Script Development / Directory Navigation
 
 *   [sh-semver (⭐29)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
-*   [zunit (⭐173)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+*   [zunit (⭐175)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
 ## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

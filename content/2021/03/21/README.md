@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Libraries / New Libraries
 
-*   [Optimal Transport Tools (⭐217)](https://github.com/google-research/ott) - Toolbox that bundles utilities to solve optimal transport problems.
+*   [Optimal Transport Tools (⭐216)](https://github.com/google-research/ott) - Toolbox that bundles utilities to solve optimal transport problems.
 
 ## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Python / Natural Language Processing
 
-*   [DL Translate (⭐237)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
+*   [DL Translate (⭐244)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-simple-acl (⭐84)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
+*   [vue-simple-acl (⭐87)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 ---
 

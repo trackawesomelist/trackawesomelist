@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 13, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,13 +37,13 @@
 
 ### Tools & Software / Curation
 
-*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐9)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐181)](https://github.com/leonkt/zotero-memento).
+*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐10)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐199)](https://github.com/leonkt/zotero-memento).
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐651)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐718)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
 ## [6. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -61,35 +61,29 @@
 
 *   [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
-
-### Getting Started
-
-*   [iOS Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) - Online program meticulously thought out for iOS developers who want to become world-class senior developers and be part of the highest-paid iOS devs in the world. Focuses on key concepts like Swift, TDD, BDD, DDD, Clean Architecture, Design Patterns, Git, Automation, CI/CD, and Modular Design.
-
-## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### FIAT
 
-*   [Debitum (⭐57)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐59)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. 1 website for free.
 
-## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Get Started
 
-*   [create-vite (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Libraries / Community
 
 *   [vite-plugin-ssr](https://vite-plugin-ssr.com) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
 
-## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### SwiftUI
 

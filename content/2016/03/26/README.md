@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 26, 2016
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -136,13 +136,7 @@
 
 *   [Smali/Baksmali (⭐5.6k)](https://github.com/JesusFreke/smali) – apk decompilation
 
-## [3. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Boston](http://www.meetup.com/Papers-We-Love-Boston-Cambridge/)
-
-## [4. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Packages / Video Tutorials
 
@@ -154,7 +148,7 @@
 
 ### *Basics*
 
-*   [Stackage (⭐488)](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+*   [Stackage (⭐495)](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 
 ### Websites
 
@@ -181,13 +175,13 @@
 *   [Conferences](https://wiki.haskell.org/Conferences) - Official list of conferences
 *   [Haskell Implementors' Workshop 2015](https://www.youtube.com/playlist?list=PLnqUlCo055hVfNkQHP7z43r10yNo-mc7B)
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
 *   [ex\_unit\_notifier (⭐115)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 
-## [6. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
@@ -197,13 +191,13 @@
 
 *   [Awesome Music Production (⭐553)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2015
 
 *   [Brain Ford: **Problem solving in the open source world**](https://www.youtube.com/watch?v=9iIRZrxK1vA) \[29:57]
 
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Data Science / Windows
 

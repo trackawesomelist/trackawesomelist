@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,13 +17,13 @@
 
 ### UI / Effect
 
-*   [PhotoFilters (⭐333)](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
+*   [PhotoFilters (⭐336)](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
-*   [C++ REST SDK (⭐7.1k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
+*   [C++ REST SDK (⭐7.2k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
 
 ## [4. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐297)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐303)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Tools
 
-*   [Pwnagotchi (⭐5.3k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
+*   [Pwnagotchi (⭐5.4k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -151,11 +151,11 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐78)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐79)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
-*   [Kyapchar (⭐56)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kyapchar (⭐58)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 

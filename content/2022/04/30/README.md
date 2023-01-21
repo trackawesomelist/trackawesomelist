@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Final Fantasy Adventure (⭐12)](https://github.com/daid/FFA-disassembly)
+*   [Final Fantasy Adventure (⭐13)](https://github.com/daid/FFA-disassembly)
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Tutorials / Getting Started
 
-*   [Scene2D.UI From the Ground Up (⭐353)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+*   [Scene2D.UI From the Ground Up (⭐358)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
 
 ### Tutorials / Advanced
 
@@ -71,7 +71,7 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐598)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐241)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐241)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐608)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐246)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐246)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -79,7 +79,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [bref (⭐2)](https://github.com/mpostaire/bref-zsh-prompt) - A simple prompt. It includes decorators to display `git` status asynchronously, a notification if the `ssh` session is remote, the battery level and the number of background jobs.
+*   [bref (⭐3)](https://github.com/mpostaire/bref-zsh-prompt) - A simple prompt. It includes decorators to display `git` status asynchronously, a notification if the `ssh` session is remote, the battery level and the number of background jobs.
 *   [winline (⭐2)](https://github.com/khuei/winline) - Async version of Greg Hurrell's [prompt (⭐1.1k)](https://github.com/wincent/wincent/blob/master/aspects/dotfiles/files/.zshrc). Includes decorators for `git` status, duration of last command, current directory, nested shells, root status.
 *   [zen (⭐9)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, vcs status information,
 *   [zshify (⭐1)](https://github.com/nrjdalal/zshify) - A minimalistic, one command installation to customize your prompt. Requires [npx](https://docs.npmjs.com/getting-started/installing-npm-packages-locally).

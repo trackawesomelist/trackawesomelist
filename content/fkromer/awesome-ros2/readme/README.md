@@ -2,7 +2,7 @@
 
 The Robot Operating System Version 2.0 is awesome!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fkromer/awesome-ros2/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2) · ⭐ 1.2K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fkromer/awesome-ros2/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2) · ⭐ 1.2K · 🏷️ Platforms
 
 [ [Daily](/content/fkromer/awesome-ros2/README.md) / [Weekly](/content/fkromer/awesome-ros2/week/README.md) / Overview ]
 

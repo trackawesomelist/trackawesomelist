@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,8 +21,8 @@
 
 ### Other Awesome Projects
 
-*   [awesome (⭐229k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-*   [nothings/single\_file\_libs (⭐7.7k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+*   [awesome (⭐234k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [nothings/single\_file\_libs (⭐7.8k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 

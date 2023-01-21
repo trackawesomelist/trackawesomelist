@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -355,7 +355,7 @@
 *   [Instagram](https://www.instagram.com)
 *   [Mixi (Japan)](https://mixi.jp)
 *   [Odnoklassniki (Russia)](http://ok.ru)
-*   [Pinterest](http://www.pinterest.com)
+*   [Pinterest](http://www.pinterest.com) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
 *   [Qzone (China)](http://qzone.qq.com)
 *   [Reddit](https://www.reddit.com)
 *   [Taringa (Latin America)](http://www.taringa.net)
@@ -580,7 +580,7 @@
 
 ### Expert Search / Telegram
 
-*   [Academia](http://academia.edu)
+*   [Academia](http://academia.edu) - is a platform for sharing academic research.
 *   [CanLaw](http://www.canlaw.com)
 *   [ExpertiseFinder](http://www.expertisefinder.com)
 *   [ExpertPages](http://expertpages.com)
@@ -708,7 +708,7 @@
 *   [Apertium](https://www.apertium.org)
 *   [Babelfish](https://www.babelfish.com)
 *   [Bablic](https://www.bablic.com)
-*   [Bing Translator](http://www.bing.com/translator)
+*   [Bing Translator](http://www.bing.com/translator) - is a user facing translation portal provided by Microsoft as part of its Bing services to translate texts or entire web pages into different languages.
 *   [Dict.cn](http://dict.cn)
 *   [Dictionary.com: Translation](http://translate.reference.com)
 *   [Free Translator](http://www.free-translator.com)
@@ -752,7 +752,6 @@
 *   [KarmaDecay](http://karmadecay.com)
 *   [MyPicsMap](http://www.mypicsmap.com)
 *   [PhotoBucket](http://photobucket.com)
-*   [Picsearch](http://www.picsearch.com)
 *   [PicTriev](http://www.pictriev.com)
 *   [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 *   [Websta](http://websta.me)
@@ -823,7 +822,7 @@
 
 *   [Academia](https://www.academia.edu)
 *   [Academic Journals](http://www.academicjournals.org)
-*   [African Journal Online](http://www.ajol.info)
+*   [African Journal Online](http://www.ajol.info) -  is the world's largest and preeminent platform of African-published scholarly journals
 *   [American Society of Civil Engineers](http://ascelibrary.org)
 *   [Base](http://www.base-search.net)
 *   [Cambridge Journals](http://journals.cambridge.org)
@@ -1001,7 +1000,7 @@
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.2k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.3k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
 *   [dygraphs](http://dygraphs.com)
@@ -1168,10 +1167,10 @@
 
 ### Offline Browsing / Telegram
 
-*   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy)
-*   [gmapcatcher (⭐185)](https://github.com/heldersepu/gmapcatcher)
+*   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
+*   [gmapcatcher (⭐190)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
-*   [Offliberty](http://offliberty.com)
+*   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
 *   [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html)
 *   [WebAssistant](http://www.proxy-offline-browser.com/download.html)
@@ -1784,7 +1783,7 @@
 
 ### Math / Other
 
-*   [Learning Maths again (⭐188)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+*   [Learning Maths again (⭐187)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 
 ## [7. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 

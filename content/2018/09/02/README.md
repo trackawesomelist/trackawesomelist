@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Algorithms and Data structures
 
-*   [ksuid.cr (⭐14)](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
+*   [ksuid.cr (⭐15)](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Visualization
 
-*   [jupyter-gmaps (⭐748)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
+*   [jupyter-gmaps (⭐747)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

@@ -2,7 +2,7 @@
 
 23 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Preprocessing
 
-*   [svelte-switch-case (⭐86)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
+*   [svelte-switch-case (⭐94)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ## [3. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
@@ -122,20 +122,11 @@
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.blu-blu.com%2F)
 
 
-- Name: [**Blue Cadet**](https://www.bluecadet.com/)
-
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
-
-  Keywords: experience design across digital and physical environments, visitor centers
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.bluecadet.com%2F)
-
-
 - Name: [**Bluecadet**](https://www.bluecadet.com/)
 
   Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
 
-  Keywords: digital products and environments
+  Keywords: experience design across digital and physical environments, visitor centers
 
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.bluecadet.com%2F)
 
@@ -241,7 +232,7 @@
 
 - Name: [**Dimensional Innovations**](https://dimin.com/)
 
-  Locations: ![Kansas City](https://img.shields.io/badge/-Kansas%20City-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat) ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat) ![Los Angeles](https://img.shields.io/badge/-Los%20Angeles-lightgrey?style=flat) ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
+  Locations: ![Kansas City](https://img.shields.io/badge/-Kansas%20City-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat) ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
 
   Keywords: experience design, interactive experiences, brand activation
 
@@ -1360,7 +1351,7 @@
 
 ### Shopify / Community
 
-*   [vite-plugin-shopify (⭐52)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+*   [vite-plugin-shopify (⭐64)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
 ## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -1404,26 +1395,26 @@
 ### Software / E-commerce
 
 *   [Reaction Commerce](https://reactioncommerce.com/) - Customizable, real-time reactive, Javascript commerce platform. ([Source Code (⭐12k)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
-*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐472)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
+*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐480)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
 *   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.getsaleor.com/), [Source Code (⭐18k)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐565)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
+*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐575)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
 
 ### Software / Note-taking & Editors
 
-*   [Memos (⭐4.3k)](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Demo](https://memos.onrender.com/)) `MIT` `Docker/Go`
+*   [Memos (⭐5.4k)](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Demo](https://memos.onrender.com/)) `MIT` `Docker/Go`
 
 ### Software / Personal Dashboards
 
 *   [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code (⭐9.5k)](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs`
-*   [Jump (⭐300)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `PHP`
-*   [Web-Portal (⭐78)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
+*   [Jump (⭐317)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `PHP`
+*   [Web-Portal (⭐90)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 
 ### Software / Proxy
 
-*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐4.8k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
+*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐4.9k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -1431,7 +1422,7 @@
 
 ## [10. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)] / [Dawn](https://www.goodreads.com/book/show/36694961-dawn)   (1987) [4.1]
+### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)]
 
 *   [Leviathan Falls](https://www.goodreads.com/book/show/28335699-leviathan-falls) \[4.5]
 
@@ -1439,7 +1430,7 @@
 
 ### Crates / Hooks
 
-*   [Bounce (⭐73)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐59k)](https://github.com/reduxjs/redux) and [Recoil (⭐18k)](https://github.com/facebookexperimental/Recoil).
+*   [Bounce (⭐74)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐59k)](https://github.com/reduxjs/redux) and [Recoil (⭐18k)](https://github.com/facebookexperimental/Recoil).
 
 ## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -1463,7 +1454,7 @@
 
 ### Math / Other / unknown licence
 
-*   [geo-energy-math (⭐4)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018)
+*   [geo-energy-math (⭐6)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018)
 
 ## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -1475,18 +1466,18 @@
 
 ### Form Components / Toggle
 
-*   [react-triple-toggle (⭐6)](https://github.com/geobde/react-triple-toggle) - React multi toggle component.
+*   [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component.
 *   [ui-switch (⭐1)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
 
 ## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / LSP Installer
 
-*   [williamboman/mason.nvim (⭐2.8k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [williamboman/mason.nvim (⭐3.3k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Everblush/everblush.nvim (⭐115)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
+*   [Everblush/everblush.nvim (⭐124)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
 
 ## [19. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / URL Shorteners
 
-*   [reduc.io (⭐69)](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
+*   [reduc.io (⭐70)](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
 
 ## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -40,30 +40,23 @@
 
 ### Charts
 
-*   [cirrusjs (⭐94)](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library \[area, line, stacked]
 *   [c3 (⭐9.2k)](https://github.com/c3js/c3) - Reusable chart library \[line, spline, step, area, stacked, bar, pie, donut]
-*   [dimple (⭐2.7k)](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics \[bubble, area, stacked]
 *   [D3xter (⭐341)](https://github.com/NathanEpstein/D3xter) - Straight forward plotting \[plot, timeline, bar, histogram, pie]
-*   [firespray (⭐105)](https://github.com/boundary/firespray) - Streaming charts \[bar, line, stacked]
 *   [nvd3 (⭐7.2k)](https://github.com/novus/nvd3) - Re-usable charts and chart components \[box plot, buttlet, candlestick, line, bar, pie, scatter, sparkline]
 *   [plotly.js (⭐15k)](https://github.com/plotly/plotly.js/) - High level charting library \[scatter, line, bar, pie, box plot, histogram, heatmap]
 *   [taucharts (⭐1.9k)](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility \[line, bar, area, stacked]
-*   [techan.js (⭐2.3k)](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis \[candlestick, ohlc]
-*   [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types \[bar, area, pie, stacked, line, polar, donut]
 *   [xkcdgraphs (⭐443)](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs \[line]
 
 ### Charts / Third Party
 
 *   [nivo (⭐11k)](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability \[bar, line, area, bubble, chord, heatmap]
-*   [semiotic (⭐5)](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3 \[scatter, line, area]
 *   [victory (⭐10k)](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations \[area, bar, candlestick, pie, line, scatter, voronoi]
-*   [vx (⭐16k)](https://github.com/hshoff/vx) - Visualization components for React \[bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
+*   [vx (⭐17k)](https://github.com/hshoff/vx) - Visualization components for React \[bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
 
 ### Maps / Third Party
 
 *   [leaflet-d3 (⭐238)](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet \[map, geo]
-*   [react-d3-basic (⭐217)](https://github.com/react-d3/react-d3-basic) - Library For Building Composable And Declarative Maps \[map, geo]
-*   [Wikimaps-D3js Atlas (⭐42)](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps \[map, geo]
+*   [Wikimaps-D3js Atlas (⭐45)](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps \[map, geo]
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -73,7 +66,7 @@
 
 ### Apps / Third-party APIs
 
-*   [lake (⭐85)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐83)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

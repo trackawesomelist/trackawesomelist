@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Development / Newsletters
 
-*   [pre-commit-hooks.nix (⭐226)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐242)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -56,17 +56,13 @@
 
 *   [CodyFire (⭐252)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 
-### UI / Barcode
-
-*   [PPAssetsActionController (⭐72)](https://github.com/pavelpantus/PPAssetsActionController) - Highly customizable Action Sheet Controller with assets preview.
-
 ### Alert / Barcode
 
-*   [SPAlert (⭐1.7k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+*   [SPAlert (⭐1.8k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 
 ### Button / Barcode
 
-*   [IGStoryButtonKit (⭐34)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
+*   [IGStoryButtonKit (⭐35)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
 
 ### Permissions / Barcode
 
@@ -81,7 +77,7 @@
 
 ### Topic Areas / Web Scraping
 
-*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐323)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
+*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐337)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
 
 ### Topic Areas / Uncategorized
 

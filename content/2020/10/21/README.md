@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 21, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -529,7 +529,7 @@
 
 ### Charts / Third Party
 
-*   [reaviz (⭐707)](https://github.com/reaviz/reaviz) - Data visualization library for React based on D3
+*   [reaviz (⭐743)](https://github.com/reaviz/reaviz) - Data visualization library for React based on D3
 
 ## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -555,7 +555,7 @@
 
 ### Username Check / Telegram
 
-*   [Sherlock (⭐37k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐39k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### DNS / Telegram
 
@@ -588,7 +588,7 @@
 ### Components & Libraries / UI Components
 
 *   [bee-grid-table (⭐45)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
-*   [vnodes (⭐75)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
+*   [vnodes (⭐78)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 
 ## [16. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -600,17 +600,7 @@
 
 *   [WrapperValueObject (⭐42)](https://github.com/martinothamar/WrapperValueObject) - Creates boilerplate free wrappers around types. Especially useful for creating [strongly typed wrappers around primitive types](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/).
 
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Java / Spring Boot
-
-*   [Building modern Web Apps with Spring Boot and Vaadin](https://v.vaadin.com/hubfs/Pdfs/Building%20Modern%20Web%20Apps%20with%20Spring%20Boot%20and%20Vaadin.pdf) (PDF)
-
-### JavaScript / Wicket
-
-*   [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
-
-## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 

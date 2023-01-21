@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 17 - Mar 23, 2014
 
-4 awesome lists updated this week.
+3 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,13 +16,7 @@
 
 *   [let-er (⭐186)](https://github.com/getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (not accepted into ES6) into either ES3 or ES6
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### PHP / PicoLisp
-
-*   [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-
-## [3. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [2. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Tools / Every painter needs a brush. Well... Most do.
 
@@ -32,7 +26,7 @@
 
 *   [Invoice Ninja](https://www.invoiceninja.com) - Open source invoicing platform.
 
-## [4. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [3. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / How To Read a Paper
 

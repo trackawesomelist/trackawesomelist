@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -78,10 +78,6 @@
 
 *   [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
 
-### CDN and Protection
-
-*   [GraphCDN](https://graphcdn.io/) - Scale, inspect & protect your GraphQL API. 5m requests per month for free.
-
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Machine Learning
@@ -102,7 +98,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [EdenEast/nightfox.nvim (⭐1.6k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
+*   [EdenEast/nightfox.nvim (⭐1.7k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
 
 ## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -117,17 +113,20 @@
 
 ## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
 *   [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY\&list=LL\&index=1\&t=17s) by Dr Alan D. Thompson. The following references came from this video description
-*   [InferKit](https://app.inferkit.com/demo)
-*   [CopyHat](https://copyhat.com/)
 *   [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
 *   [Jurassic-1](https://studio.ai21.com/)
 *   [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
 *   [AIx](https://apps.aixsolutionsgroup.com/)
 *   [Wudao](https://pretrain.aminer.cn/os/qa)
 *   [Emerson on Telegram](https://www.quickchat.ai/emerson)
+
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+
+*   [InferKit](https://app.inferkit.com/demo)
+*   [CopyHat](https://copyhat.com/)
 
 ---
 

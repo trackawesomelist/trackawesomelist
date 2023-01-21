@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -289,7 +289,7 @@
 
 ### MVVM
 
-*   [Gemini (⭐969)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+*   [Gemini (⭐976)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 
 ### Windows Services
 
@@ -311,12 +311,12 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐458)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐101)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐466)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐104)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.1k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐188)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
-*   [passivedns (⭐1.5k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+*   [passivedns-client (⭐190)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
 *   [smbmap (⭐1.4k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ## [15. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)

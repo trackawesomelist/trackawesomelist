@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Game Engine
 
-*   [PixelGameEngine (⭐3.3k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
+*   [PixelGameEngine (⭐3.4k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
 
 ## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Components / Themes
 
-*   [ngx-recursive-form (⭐37)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
+*   [ngx-recursive-form (⭐36)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

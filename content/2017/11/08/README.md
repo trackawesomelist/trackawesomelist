@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [quri (⭐96)](https://github.com/fukamachi/quri) - Another URI library for
+*   [quri (⭐97)](https://github.com/fukamachi/quri) - Another URI library for
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
     utilities,… [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -50,7 +50,7 @@
 
 ### Cartridges / Opcodes
 
-*   [AntonioND's docs (⭐167)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
+*   [AntonioND's docs (⭐171)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
 
 ### Related projects / Syntax highlighting packages
 
@@ -96,7 +96,7 @@
 
 ### Web Frameworks
 
-*   [websockets (⭐4.2k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+*   [websockets (⭐4.3k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 
 ## [12. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 

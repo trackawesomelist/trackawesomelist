@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -150,11 +150,11 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [crash (⭐52)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
+*   [crash (⭐54)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 
 ### Shell Script Development / See also
 
-*   [awesome-fish (⭐3.1k)](https://github.com/jorgebucaran/awsm.fish)
+*   [awesome-fish (⭐3.2k)](https://github.com/jorgebucaran/awsm.fish)
 *   [awesome-zsh (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## [8. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)

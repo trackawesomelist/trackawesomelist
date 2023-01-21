@@ -2,7 +2,7 @@
 
 A curated list of GitHub's awesomeness
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phillipadsmith/awesome-github/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) · ⭐ 726 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phillipadsmith/awesome-github/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) · ⭐ 726 · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/phillipadsmith/awesome-github/week/README.md) / [Overview](/content/phillipadsmith/awesome-github/readme/README.md) ]
 

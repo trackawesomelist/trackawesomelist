@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,29 +19,29 @@
 ### Applications / Database
 
 *   [Skytable (⭐1.4k)](https://github.com/skytable/skytable) — A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
-*   [TerminusDB (⭐306)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
+*   [TerminusDB (⭐307)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
 
 ### Applications / System tools
 
-*   [Peltoche/lsd (⭐8.8k)](https://github.com/Peltoche/lsd) — An ls with a lot of pretty colors and awesome icons [![build](https://github.com/Peltoche/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/Peltoche/lsd/actions)
+*   [Peltoche/lsd (⭐9k)](https://github.com/Peltoche/lsd) — An ls with a lot of pretty colors and awesome icons [![build](https://github.com/Peltoche/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/Peltoche/lsd/actions)
 *   [sharkdp/bat (⭐39k)](https://github.com/sharkdp/bat) — A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 
 ### Libraries / Distributed systems
 
 *   Apache Kafka
-    *   [fede1024/rust-rdkafka (⭐1.1k)](https://github.com/fede1024/rust-rdkafka) \[[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka (⭐6.4k)](https://github.com/edenhill/librdkafka) bindings [![build badge](https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master)](https://travis-ci.org/fede1024/rust-rdkafka)
-    *   [gklijs/schema\_registry\_converter (⭐68)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] — to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/) [![build badge](https://api.travis-ci.org/gklijs/schema_registry_converter.svg?branch=master)](https://travis-ci.org/gklijs/schema_registry_converter)
-    *   [kafka-rust/kafka-rust (⭐882)](https://github.com/kafka-rust/kafka-rust) — [![build badge](https://api.travis-ci.org/kafka-rust/kafka-rust.svg?branch=master)](https://travis-ci.org/kafka-rust/kafka-rust)
+    *   [fede1024/rust-rdkafka (⭐1.1k)](https://github.com/fede1024/rust-rdkafka) \[[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka (⭐6.5k)](https://github.com/confluentinc/librdkafka) bindings [![build badge](https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master)](https://travis-ci.org/fede1024/rust-rdkafka)
+    *   [gklijs/schema\_registry\_converter (⭐69)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] — to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/) [![build badge](https://api.travis-ci.org/gklijs/schema_registry_converter.svg?branch=master)](https://travis-ci.org/gklijs/schema_registry_converter)
+    *   [kafka-rust/kafka-rust (⭐906)](https://github.com/kafka-rust/kafka-rust) — [![build badge](https://api.travis-ci.org/kafka-rust/kafka-rust.svg?branch=master)](https://travis-ci.org/kafka-rust/kafka-rust)
 
 ### Libraries / Email
 
-*   [jdrouet/catapulte (⭐109)](https://github.com/jdrouet/catapulte) [![build badge](https://api.travis-ci.com/jdrouet/catapulte.svg?branch=main)](https://travis-ci.org/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐218)](https://github.com/jdrouet/mrml) templates.
-*   [jdrouet/jolimail (⭐99)](https://github.com/jdrouet/jolimail) [![pipeline status](https://gitlab.com/jeremie.drouet/jolimail/badges/main/pipeline.svg)](https://gitlab.com/jeremie.drouet/jolimail/-/commits/main) - A web application to build [MRML (⭐218)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/catapulte (⭐108)](https://github.com/jdrouet/catapulte) [![build badge](https://api.travis-ci.com/jdrouet/catapulte.svg?branch=main)](https://travis-ci.org/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐230)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/jolimail (⭐103)](https://github.com/jdrouet/jolimail) [![pipeline status](https://gitlab.com/jeremie.drouet/jolimail/badges/main/pipeline.svg)](https://gitlab.com/jeremie.drouet/jolimail/-/commits/main) - A web application to build [MRML (⭐230)](https://github.com/jdrouet/mrml) templates.
 
 ### Libraries / GUI
 
 *   [FLTK](https://www.fltk.org/)
-    *   [fltk-rs (⭐1k)](https://github.com/fltk-rs/fltk-rs) — FLTK Rust bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
+    *   [fltk-rs (⭐1.1k)](https://github.com/fltk-rs/fltk-rs) — FLTK Rust bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 
 ### Libraries / Network programming
 
@@ -66,14 +66,13 @@
 ### Libraries / Skeumorphic Icons
 
 *   [libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/) - Library that contain official GNOME patterns and widgets (GTK4)
-*   [libdazzle](https://gitlab.gnome.org/GNOME/libdazzle) - Companion library to GObject and Gtk+, providing various new features. (GTK3)
 *   [libhandy](https://gitlab.gnome.org/GNOME/libhandy) - Building blocks for modern adaptive GNOME apps (GTK3)
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Artificial Intelligence
 
-*   [flashlight (⭐4.6k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
+*   [flashlight (⭐4.7k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
 
 ## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome creative tech events from around the world
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/danvoyce/awesome-creative-tech-events/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 danvoyce/awesome-creative-tech-events](https://github.com/danvoyce/awesome-creative-tech-events) · ⭐ 113 · 🏷️ Events
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/danvoyce/awesome-creative-tech-events/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 danvoyce/awesome-creative-tech-events](https://github.com/danvoyce/awesome-creative-tech-events) · ⭐ 113 · 🏷️ Events
 
 [ [Daily](/content/danvoyce/awesome-creative-tech-events/README.md) / Weekly / [Overview](/content/danvoyce/awesome-creative-tech-events/readme/README.md) ]
 

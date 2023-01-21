@@ -2,19 +2,15 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Haskell / Spock Framework
+### Data Science
 
-*   [Haskell Tutorial and Cookbook](https://markwatson.com/books/haskell-cookbook-site/) - Mark Watson
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Introduction to Scientific Programming with Python](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) - Joakim Sundnes (PDF)
+*   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
 
 ## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -32,7 +28,7 @@
 
 ### Examples
 
-*   [ankitwasankar/mftool-java (⭐6)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
+*   [ankitwasankar/mftool-java (⭐11)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
 
 ## [5. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -58,21 +54,21 @@
 
 ### Libraries/Frameworks / Game Development
 
-*   [zeganstyl/thelema-engine (⭐60)](https://github.com/zeganstyl/thelema-engine) - 3d graphics engine in Kotlin, based on sources of libGDX. Platforms: JVM, TeaVM, Kotlin/JS, Kotlin/Native. See live demo: <a href="https://zeganstyl.github.io/thelema-teavm-tests/">TeaVM</a>, <a href="https://zeganstyl.github.io/thelema-kxjs-demo/">Kotlin/JS</a>
+*   [zeganstyl/thelema-engine (⭐61)](https://github.com/zeganstyl/thelema-engine) - 3d graphics engine in Kotlin, based on sources of libGDX. Platforms: JVM, TeaVM, Kotlin/JS, Kotlin/Native. See live demo: <a href="https://zeganstyl.github.io/thelema-teavm-tests/">TeaVM</a>, <a href="https://zeganstyl.github.io/thelema-kxjs-demo/">Kotlin/JS</a>
 
 ### Libraries/Frameworks / Data Science
 
-*   [Kotlin/multik (⭐479)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
+*   [Kotlin/multik (⭐488)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/neumorphic-compose (⭐256)](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI on Android with Jetpack Compose. Just add one modifier = Modifier.neumorphic()
+*   [CuriousNikhil/neumorphic-compose (⭐262)](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI on Android with Jetpack Compose. Just add one modifier = Modifier.neumorphic()
 
 ### Android / Libraries
 
-*   [line/clay (⭐118)](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
+*   [line/clay (⭐119)](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
 *   [WindSekirun/RichUtilsKt (⭐169)](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
-*   [TradeMe/MapMe (⭐848)](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
+*   [TradeMe/MapMe (⭐849)](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
 *   [duanhong169/DrawableToolbox (⭐1.1k)](https://github.com/duanhong169/DrawableToolbox) - The missing drawable toolbox for Android.
 
 ### Android / Frameworks
@@ -84,12 +80,12 @@
 
 *   [BanDev/Buddha-Quotes (⭐21)](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
 *   [MakinGiants/todayhistory (⭐29)](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history.
-*   [RxKotlin/Pocket (⭐30)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
+*   [RxKotlin/Pocket (⭐31)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 *   [SidneyXu/AndroidDemoIn4Languages (⭐196)](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison between Java, Groovy, Scala, Kotlin in Android Development.
-*   [AllanWang/KAU (⭐206)](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
-*   [hanjoongcho/aaf-easydiary (⭐312)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
-*   [cuongpm/youtube-dl-android (⭐440)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
-*   [PatilShreyas/Foodium (⭐2.1k)](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+*   [AllanWang/KAU (⭐207)](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
+*   [hanjoongcho/aaf-easydiary (⭐318)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
+*   [cuongpm/youtube-dl-android (⭐445)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
+*   [PatilShreyas/Foodium (⭐2.2k)](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 *   [android-password-store/Android-Password-Store (⭐2.2k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
 
 ### Android / Extensions

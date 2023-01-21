@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -59,15 +59,11 @@
 
 ## [3. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
-### Datasets / Chemical Perturbations
-
-*   [Haghighi et al. 2021](https://doi.org/10.1101/2021.09.08.459417) - Cell painting matched to L1000 profiles in 4 experiments, including compound and genetic screens ([Details on GitHub (⭐9)](https://github.com/carpenterlab/2021_Haghighi_submitted)).
-
 ### Software / Genetic Perturbations
 
-*   [Cytominer (⭐39)](https://github.com/cytomining/cytominer) - Methods for image-based cell profiling in R.
-*   [BioProfiling.jl (⭐11)](https://github.com/menchelab/BioProfiling.jl) - Toolkit for filtering and curation of morphological profiles in Julia.
-*   [PyCytominer (⭐32)](https://github.com/cytomining/pycytominer) - Methods for image-based cell profiling in Python.
+*   [Cytominer (⭐41)](https://github.com/cytomining/cytominer) - Methods for image-based cell profiling in R.
+*   [BioProfiling.jl (⭐12)](https://github.com/menchelab/BioProfiling.jl) - Toolkit for filtering and curation of morphological profiles in Julia.
+*   [PyCytominer (⭐35)](https://github.com/cytomining/pycytominer) - Methods for image-based cell profiling in Python.
 *   [ImJoy](https://imjoy.io) - A platform compiling tool for deep-learning based image analyses with a GUI.
 
 ### Publications / Reviews
@@ -85,12 +81,10 @@
 *   [Predicting cell health phenotypes using image-based morphology profiling](https://doi.org/10.1091/mbc.E20-12-0784) - Image-based profiles as predictors of apoptosis, proliferation and other cell health descriptors.
 *   [Systematic genetics and single‐cell imaging reveal widespread morphological pleiotropy and cell‐to‐cell variability](https://doi.org/10.15252/msb.20199243) - Analysis of single-cell profiles to characterize variability, pleiotropy and incomplete penetrance.
 *   [Large‐scale image‐based profiling of single‐cell phenotypes in arrayed CRISPR‐Cas9 gene perturbation screens](https://doi.org/10.15252/msb.20178064) - Demonstrates feasibility of imaging arrayed CRISPR screens and offers a way to characterize transfection efficacy in individual cells.
-*   [Multiparametric phenotyping of compound effects on patient derived organoids](https://doi.org/10.1101/660993) - Profiling chemical effects on patient-derived organoids.
 *   [A chemical-genetic interaction map of small molecules using high-throughput imaging in cancer cells](https://doi.org/10.15252/MSB.20156400) - Profiling the morphological changes induced in 1280 compounds in 12 knockout cell lines.
 *   [Time-resolved mapping of genetic interactions to model rewiring of signaling pathways](https://doi.org/10.7554/eLife.40174) - Changes in genetic interactions across time based on multiple morphological descriptors.
 *   [High-Content Imaging of Unbiased Chemical Perturbations Reveals that the Phenotypic Plasticity of the Actin Cytoskeleton Is Constrained](https://doi.org/10.1016/j.cels.2019.09.002) - Defining morphological clusters in a large compound screen.
 *   [A map of directional genetic interactions in a metazoan cell](https://doi.org/10.7554/eLife.05464) - Characterizing genetic interactions by integrating 21 phenotypic descriptors.
-*   [The phenotypic landscape of essential human genes](https://doi.org/10.1101/2021.11.28.470116) - Comparing morphological descriptors in a pooled CRISPR screen with in-situ sequencing
 *   [Evaluation of Gene Expression and Phenotypic Profiling Data as Quantitative Descriptors for Predicting Drug Targets and Mechanisms of Action](https://doi.org/10.1101/580654) - Benchmarking profiling modalities, including image-based profiles, for mechanism of action prediction.
 
 ### Publications / Methods
@@ -102,9 +96,6 @@
 *   [Improving Phenotypic Measurements in
     High-Content Imaging Screens](https://doi.org/10.1101/161422) - Embedding single-cell and compound profiles using transfer learning, examplified on mechanism of action prediction.
 *   [The Multidimensional Perturbation Value](https://doi.org/10.1177/1087057112469257) - Proposing a score to define significant activity in screens.
-*   [Label-Free Prediction of Cell Painting from Brightfield Images](https://doi.org/10.1101/2021.11.05.467394) - Reconstructing images for Cell Painting dyes and ensuring corresponding morphological measurements are preserved.
-*   [ShapoGraphy: a glyph-oriented visualisation approach for creating pictorial
-    representations of bioimaging data](https://doi.org/10.1101/2021.04.07.438792) - Method to visualize morphological profiles.
 *   [CytoGAN: Generative Modeling of Cell Images](https://doi.org/10.1101/227645) - Generative network displaying potential for learning latent representation of biological conditions from cell images.
 *   [Self-supervised feature extraction from image time series in plant phenotyping using triplet networks](https://doi.org/https://doi.org/10.1093/bioinformatics/btaa905) - Direct extraction of phenotypic features from plant images.
 
@@ -128,12 +119,12 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐1.7k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++`
+*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐1.8k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++`
 
 ### Software / Money, Budgeting & Management
 
 *   [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
-*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐820)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
+*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐831)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Password Managers
 
@@ -141,7 +132,7 @@
 
 ### Software / Polls and Events
 
-*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap. Alternative to Canny, UserVoice, Upvoty. ([Demo](https://product.clearflask.com), [Source Code (⭐112)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
+*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap. Alternative to Canny, UserVoice, Upvoty. ([Demo](https://product.clearflask.com), [Source Code (⭐115)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -151,14 +142,14 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-emoji-picker (⭐44)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+*   [vue3-emoji-picker (⭐51)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Forms / Image Picker
 
 *   [Form Builder (⭐1.2k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
-*   [Reactive Forms (⭐327)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
+*   [Reactive Forms (⭐342)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
 ## [9. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -171,7 +162,7 @@
 
 ### Svelte / Integrations
 
-*   [vite-plugin-svelte (⭐591)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+*   [vite-plugin-svelte (⭐612)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 ## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -193,7 +184,7 @@
 
 ## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Papers and references for reading and understanding / OpenAI GPT-3
+### Papers and References / Papers Collections
 
 *   [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52)
 *   [The Methods Corpus | Papers With Code](https://paperswithcode.com/methods)
@@ -201,7 +192,7 @@
 *   [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/\~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
 *   [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
 
-### Improving Google Colab experience / OpenAI GPT-3
+### Miscellaneous / Improving Google Colab experience
 
 *   [7 ways to load external data into Google Colab | by B. Chen | Towards Data Science](https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7)
 *   [10 tricks for a better Google Colab experience | by Cyprien NIELLY | Towards Data Science](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)

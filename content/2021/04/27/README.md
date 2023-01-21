@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -75,7 +75,7 @@
 
   Documentation: [Documentation](https://kraken.ci/docs/)
 
-  Price: [Open Source (⭐83)](https://github.com/kraken-ci/kraken)
+  Price: [Open Source (⭐84)](https://github.com/kraken-ci/kraken)
 
   Stars: [![Stars](https://img.shields.io/github/stars/kraken-ci/kraken)](https://github.com/kraken-ci/kraken)
 

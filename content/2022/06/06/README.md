@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,12 +14,9 @@
 
 ## [2. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
-### Game Engines
+### Game Engines / Popular
 
-*   ### Popular
-    *   🎉 [Godot](https://godotengine.org) [:octocat: (⭐56k)](https://github.com/godotengine/godot#readme) - 🔥 Feature-packed, open source engine. Excellent! \[[Awesome Godot (⭐3.9k)](https://github.com/godotengine/awesome-godot#readme)]
-    *   💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. \[[Awesome Unity (⭐5.4k)](https://github.com/RyanNielson/awesome-unity)]
-    *   💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. \[[Awesome UE4 (⭐589)](https://github.com/insthync/awesome-ue4#readme)]
+*   🎉 [Godot](https://godotengine.org) [:octocat: (⭐56k)](https://github.com/godotengine/godot#readme) - 🔥 Feature-packed, open source engine. Excellent! \[[Awesome Godot (⭐4k)](https://github.com/godotengine/awesome-godot#readme)]
 
 ## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -49,14 +46,14 @@
 
 ### Messaging
 
-*   [Quamina (⭐291)](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
+*   [Quamina (⭐296)](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gugulenok (⭐0)](https://github.com/gugulen0k/gugulenok/) - Has both a dark and a light mode. Includes decorators for `git` status, time and current directory.
-*   [ivabus (⭐3)](https://github.com/ivabus/ivabus-zsh-theme) - Inspired by the GitHub Codespaces prompt. Includes decorators for `git` status, username and current directory.
+*   [ivabus (⭐5)](https://github.com/ivabus/ivabus-zsh-theme) - Inspired by the GitHub Codespaces prompt. Includes decorators for `git` status, username and current directory.
 
 ## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
@@ -72,7 +69,7 @@
 
 ### C, C++
 
-*   ⭐ [Ironclad (⭐131)](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [Ironclad (⭐137)](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### ORMs
 
@@ -84,18 +81,18 @@
 
 ### C
 
-*   ⭐ [CFFI (⭐365)](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [CFFI (⭐373)](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Miscellaneous
 
-*   ⭐ [Sketch (⭐1.2k)](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT](https://opensource.org/licenses/MIT).
+*   ⭐ [Sketch (⭐1.3k)](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT](https://opensource.org/licenses/MIT).
 *   ⭐ [CommonQt (⭐108)](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Mobile
 
 *   ⭐ [CCL](https://github.com/CodyReichert/awesome-cl/blob/master//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL](http://opensource.franz.com/preamble.html).
 *   ⭐ [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
-*   ⭐ [trivia (⭐260)](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL](http://opensource.franz.com/preamble.html).
+*   ⭐ [trivia (⭐269)](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
 
@@ -132,9 +129,9 @@
 
 ### Apps / Third-party APIs
 
-*   ⭐ [esrap (⭐61)](https://github.com/scymtym/esrap) - Packrat parser. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   ⭐ [FiveAM (⭐160)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-    *   [fiveam-matchers (⭐5)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   ⭐ [esrap (⭐63)](https://github.com/scymtym/esrap) - Packrat parser. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [FiveAM (⭐162)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+    *   [fiveam-matchers (⭐6)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Caching / Third-party APIs
 
@@ -142,7 +139,7 @@
 
 ### CSV / Third-party APIs
 
-*   ⭐ [cl-csv (⭐102)](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   ⭐ [cl-csv (⭐103)](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Date and time / Third-party APIs
 
@@ -150,29 +147,29 @@
 
 ### Documentation builders / Third-party APIs
 
-*   [mgl-pax (⭐49)](https://github.com/melisgl/mgl-pax) - Exploratory
+*   [mgl-pax (⭐50)](https://github.com/melisgl/mgl-pax) - Exploratory
     programming environment and documentation generator. one may
     accomplish similar effects as with Literate Programming, but
     documentation is generated from code, not vice versa. Code is first,
     code must look pretty, documentation is code. [MIT](https://opensource.org/licenses/MIT).
-    *   see this [40ants fork (⭐10)](https://github.com/40ants/doc) for: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
+    *   see this [40ants fork (⭐11)](https://github.com/40ants/doc) for: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
 *   [Declt (⭐33)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
-*   [Codex (⭐81)](https://github.com/CommonDoc/codex) - A beautiful
+*   [Codex (⭐83)](https://github.com/CommonDoc/codex) - A beautiful
     documentation system for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [QBook (⭐5)](https://github.com/mmontone/qbook) - generates HTML (or LaTeX) formatted code listings of Common Lisp source files. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [QBook (⭐6)](https://github.com/mmontone/qbook) - generates HTML (or LaTeX) formatted code listings of Common Lisp source files. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   all comments started with 4 `;` (";;;;") are interpreted as documentation. Enhance the documentation with headings and directives.
     *   QBook acts as "a lightweight literate programming system, where Lisp code is not rendered inline, but in separate sections, and that makes the document more pleasant to navigate." @mmontone
-*   [sphinxcontrib-cldomain (⭐13)](https://github.com/russell/sphinxcontrib-cldomain) -
+*   [sphinxcontrib-cldomain (⭐14)](https://github.com/russell/sphinxcontrib-cldomain) -
     Extending Sphinx to cover Common Lisp. To build documentation with
     the same ease as sphinx would a Python project. [GPL3](http://www.gnu.org/copyleft/gpl.html)
 *   [cl-bibtex (⭐23)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
-*   [docbrowser (⭐13)](https://github.com/lokedhs/docbrowser) - a server that generates documentation for the loaded systems on the fly.
+*   [docbrowser (⭐14)](https://github.com/lokedhs/docbrowser) - a server that generates documentation for the loaded systems on the fly.
     *   Its main page presents a list of all loaded systems in your Lisp image. Click on one system, and you get a page with three panes: functions, classes and variables. Click on a function to see its source, in context, with line numbers. Click on classes to see their slots and specializing functions.
 
 ### Literate programming / Third-party APIs
 
 *   [literate-lisp (⭐45)](https://github.com/jingtaozf/literate-lisp) -  Load Common Lisp code blocks from Emacs' Org files. [MIT](https://opensource.org/licenses/MIT).
-*   [erudite (⭐56)](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT](https://opensource.org/licenses/MIT).
+*   [erudite (⭐57)](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT](https://opensource.org/licenses/MIT).
 
 ### Other / Third-party APIs
 
@@ -189,11 +186,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [smjonas/inc-rename.nvim (⭐244)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
+*   [smjonas/inc-rename.nvim (⭐261)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [imbacraft/dusk.nvim (⭐14)](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
+*   [imbacraft/dusk.nvim (⭐17)](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
 
 ## [13. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
@@ -219,7 +216,7 @@
 
 ### Graphics
 
-*   [Harfang 3D (⭐265)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐307)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
 
 ## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐895)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐904)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -88,7 +88,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Third-party APIs
 
-*   [kube-client.cr (⭐19)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
+*   [kube-client.cr (⭐20)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -110,7 +110,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐252)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐257)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

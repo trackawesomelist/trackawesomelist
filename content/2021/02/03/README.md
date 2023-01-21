@@ -2,7 +2,7 @@
 
 25 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -82,7 +82,7 @@
 
 ### Apps
 
-*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐295)](https://github.com/kachkaev/njt), thanks to Now integration.
+*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐296)](https://github.com/kachkaev/njt), thanks to Now integration.
 
 ## [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -90,7 +90,7 @@
 
 *   [gatling-bolt (⭐2)](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
 *   [gatling-zeromq (⭐5)](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
-*   [gatling-dubbo (⭐147)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
+*   [gatling-dubbo (⭐151)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
 *   [gatling-cql (⭐52)](https://github.com/gatling-cql/GatlingCql) - Gatling support for Apache Cassandra CQL.
 
 ### Tools / Miscellaneous
@@ -131,7 +131,7 @@
 ### Tutorials and Blog Posts / NumPyro
 
 *   [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - Implements different methods for OOD detection.
-*   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐237)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
+*   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐239)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -156,12 +156,12 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Destructible Objects (⭐309)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
-*   [CRT Shader (⭐242)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
+*   [2D Destructible Objects (⭐320)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
+*   [CRT Shader (⭐250)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 
 ### Other / Godot version unknown
 
-*   [RetroPie Godot Game Engine "Emulator" (⭐68)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
+*   [RetroPie Godot Game Engine "Emulator" (⭐70)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 
 ## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -191,7 +191,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [LibrePhotos (⭐4.9k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
+*   [LibrePhotos (⭐5k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
 ## [22. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

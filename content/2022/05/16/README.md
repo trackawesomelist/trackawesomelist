@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,7 +46,7 @@
 
 ### Modules / Various Godot versions
 
-*   [GodotHook (⭐8)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
+*   [GodotHook (⭐11)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
 
 ## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐28)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐31)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ### Framework-agnostic Plugins / Transformers
 

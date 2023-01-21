@@ -2,7 +2,7 @@
 
 Promoting Solutions that Improve Wellbeing, Freedom and Society
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/humanetech-community/awesome-humane-tech/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) · ⭐ 2.8K · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/humanetech-community/awesome-humane-tech/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) · ⭐ 2.8K · 🏷️ Health and Social Science
 
 [ [Daily](/content/humanetech-community/awesome-humane-tech/README.md) / Weekly / [Overview](/content/humanetech-community/awesome-humane-tech/readme/README.md) ]
 

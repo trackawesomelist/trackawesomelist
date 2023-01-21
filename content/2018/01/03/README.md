@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐807)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐809)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -80,7 +80,7 @@
 
 ### GUI
 
-*   [QtSharp (⭐557)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
+*   [QtSharp (⭐558)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 
 ### IDE
 

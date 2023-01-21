@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### UI / Bottom bars
 
-*   [Titled Navigation Bar (⭐322)](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
+*   [Titled Navigation Bar (⭐326)](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [next-boilerplate (⭐1.4k)](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle
+*   [next-boilerplate (⭐1.5k)](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle
 *   [Next-Postgres-With-Typescript (⭐20)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) - 🚀 The perfect starter code for your blog based on Next.js framework. ⚡️ Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 

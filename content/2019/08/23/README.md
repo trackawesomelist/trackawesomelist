@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐48k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐49k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Libraries / Python
 
-*   [Mongo-Thingy (⭐59)](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
+*   [Mongo-Thingy (⭐63)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 
 ### Tools / Monitoring
 
@@ -107,7 +107,7 @@
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐633)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐648)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

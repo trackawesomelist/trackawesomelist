@@ -2,7 +2,7 @@
 
 A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Richienb/awesome-ponyfills/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Richienb/awesome-ponyfills](https://github.com/Richienb/awesome-ponyfills) · ⭐ 46 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Richienb/awesome-ponyfills/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Richienb/awesome-ponyfills](https://github.com/Richienb/awesome-ponyfills) · ⭐ 46 · 🏷️ Programming Languages
 
 [ [Daily](/content/Richienb/awesome-ponyfills/README.md) / Weekly / [Overview](/content/Richienb/awesome-ponyfills/readme/README.md) ]
 

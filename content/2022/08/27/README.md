@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,14 +10,14 @@
 
 ### :books: Literature / Scientific Research
 
-*   :mortar\_board: [Detecting packed PE files: Executable file analysis for the Windows operating system](https://uia.brage.unit.no/uia-xmlui/handle/11250/2823655) (June 2021)  :star: :star:
-*   :mortar\_board: [Experimental toolkit for studying executable packing - Analysis of the state-of-the-art packing detection techniques](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A35692) (June 2022)  :star2: :star2: :star2:
+*   :mortar\_board: [Detecting packed PE files: Executable file analysis for the Windows operating system](https://uia.brage.unit.no/uia-xmlui/handle/11250/2823655) (June 2021)  :star:
+*   :mortar\_board: [Experimental toolkit for studying executable packing - Analysis of the state-of-the-art packing detection techniques](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A35692) (June 2022)  :star: :star:
 *   :notebook: [A generic approach to automatic deobfuscation of executable code](https://ieeexplore.ieee.org/document/7163054) (May 2015)  :star:
 *   :newspaper: [Malware analysis using multiple API sequence mining control flow graph](https://arxiv.org/abs/1707.02691) (July 2017)
-*   :notebook: [Obfuscation-resilient executable payload extraction from packed malware](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-binlin) (August 2021)  :star: :star:
-*   :notebook: [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) (December 2006)
-*   :notebook: [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://doi.org/10.1145/3422337.3447848) (April 2021)  :star: :star:
-*   :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star: :star: :star:
+*   :notebook: [Obfuscation-resilient executable payload extraction from packed malware](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-binlin) (August 2021)  :star:
+*   :notebook: [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) (December 2006)  :star:
+*   :notebook: [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://doi.org/10.1145/3422337.3447848) (April 2021)  :star:
+*   :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star: :star:
 *   :notebook: [When malware is packin' heat; limits of machine learning classifiers based on static analysis features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310.pdf) (January 2020)  :star:
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
@@ -28,7 +28,7 @@
 
 ### Other Tools / Telegram
 
-*   [BeVigil-CLI (⭐53)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐60)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [nanika (⭐0)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐0)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -73,15 +73,15 @@
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/limited-wip (⭐101)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
+*   [dkandalov/limited-wip (⭐102)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
 *   [dkandalov/pomodoro-tm (⭐126)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐462)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [emedinaa/kotlin-mvvm (⭐467)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Client Libraries
 
-*   [.NET Toolchain/SDK (⭐11)](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET (⭐5)](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
+*   [.NET Toolchain/SDK (⭐11)](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET (⭐4)](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
 *   [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate Go (de)serialization/client code from Substrate metadata.
 
 ### Tools
@@ -133,11 +133,11 @@
 
 ### Applications
 
-*   [fend (⭐117)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐148)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐4.8k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo [![build badge](https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master)](https://app.travis-ci.com/github/rust-lang/rustfmt)
+*   [rustfmt (⭐4.9k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo [![build badge](https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master)](https://app.travis-ci.com/github/rust-lang/rustfmt)
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -149,7 +149,7 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [EnvVar (⭐23k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
+*   [EnvVar (⭐24k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

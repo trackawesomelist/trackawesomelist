@@ -2,7 +2,7 @@
 
 A list of awesome ESLint plugins, configs, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dustinspecker/awesome-eslint/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) · ⭐ 3.4K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dustinspecker/awesome-eslint/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) · ⭐ 3.4K · 🏷️ Programming Languages
 
 [ [Daily](/content/dustinspecker/awesome-eslint/README.md) / Weekly / [Overview](/content/dustinspecker/awesome-eslint/readme/README.md) ]
 

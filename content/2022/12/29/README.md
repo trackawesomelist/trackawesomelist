@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 29, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Geographic
 
-*   [H3 (⭐207)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+*   [H3 (⭐209)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 
 ## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -26,20 +26,20 @@
 
 ## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### VM-Hardening
+### Darknet
 
-*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
+
+### VM-Hardening / Web articles
+
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
-
-### TOR
-
-*   [Whonix](https://www.whonix.org/wiki/Qubes)
+*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Project / Diagnostics
 
-*   [natecraddock/workspaces.nvim (⭐115)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [natecraddock/workspaces.nvim (⭐117)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -47,17 +47,7 @@
 
 *   [pspsdk (⭐654)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-## [8. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Databases / Genome
 
@@ -65,7 +55,7 @@
 *   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
 *   [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
 
-## [9. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [8. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Integration
 
@@ -81,7 +71,7 @@
 *   [Learn Directus](https://learndirectus.com/)
 *   [How to Work With Many to Many Relationships (M2M) On Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
@@ -90,4 +80,5 @@
 
 ---
 
+- Prev: [Dec 30, 2022](/content/2022/12/30/README.md)
 - Next: [Dec 28, 2022](/content/2022/12/28/README.md)

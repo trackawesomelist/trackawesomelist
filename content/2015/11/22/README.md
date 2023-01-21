@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,11 +22,11 @@
     *   [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
         *   [ppx\_pgsql (⭐51)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
     *   [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
-    *   [SQLite3 (⭐95)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
+    *   [SQLite3 (⭐98)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
     *   [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
-    *   [ocaml-redis (⭐73)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
+    *   [ocaml-redis (⭐72)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
     *   [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
-    *   [pgx (⭐116)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library
+    *   [pgx (⭐117)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library
         .
     *   [mysql\_protocol (⭐12)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 

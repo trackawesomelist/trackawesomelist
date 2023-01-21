@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,27 +10,27 @@
 
 ### Libraries and Tools / C
 
-*   [dbcc (⭐231)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
+*   [dbcc (⭐238)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
 
 ### Libraries and Tools / Python
 
-*   [CanCat (⭐159)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
+*   [CanCat (⭐161)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Visualization
 
-*   [itk-jupyter-widgets (⭐481)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
+*   [itk-jupyter-widgets (⭐483)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
 
 ### Testing
 
-*   [ipytest (⭐243)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
+*   [ipytest (⭐244)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [CrOTP (⭐60)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
+*   [CrOTP (⭐62)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
 
 ## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -77,33 +77,33 @@
 
 ### Command-Line Productivity
 
-*   [fd (⭐25k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
+*   [fd (⭐26k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 *   [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
-*   [shell-history (⭐99)](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
+*   [shell-history (⭐100)](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
 *   [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 
 ### Customization / Directory Navigation
 
-*   [polyglot (⭐144)](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, dash, and busybox sh
+*   [polyglot (⭐148)](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, dash, yash, and busybox sh
 
 ### For Developers / Directory Navigation
 
-*   [add-gitignore (⭐549)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+*   [add-gitignore (⭐563)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 *   [mr](https://myrepos.branchable.com) - Multiple Repository management tool
 
 ### System Utilities / Directory Navigation
 
-*   [rng (⭐27)](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
-*   [wifi-wand (⭐59)](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
+*   [rng (⭐28)](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
+*   [wifi-wand (⭐60)](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [korkut (⭐351)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+*   [korkut (⭐352)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 
 ### Applications / Directory Navigation
 
 *   [md2png (⭐24)](https://github.com/weaming/md2png) - Convert markdown to PNG image
-*   [whales (⭐348)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
+*   [whales (⭐353)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 
 ---
 

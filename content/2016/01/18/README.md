@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Data Generators
 
-*   [faker (⭐143)](https://github.com/askn/faker) - A library for generating fake data
+*   [faker (⭐142)](https://github.com/askn/faker) - A library for generating fake data
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 
-*   [.NET-libraries-that-make-your-life-easier (⭐716)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
+*   [.NET-libraries-that-make-your-life-easier (⭐721)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

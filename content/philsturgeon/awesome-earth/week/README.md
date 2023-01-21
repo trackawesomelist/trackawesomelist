@@ -2,7 +2,7 @@
 
 "What can I do about the climate crisis?" Here are 326 things you can do.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/philsturgeon/awesome-earth/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) · ⭐ 1.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/philsturgeon/awesome-earth/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) · ⭐ 1.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/philsturgeon/awesome-earth/README.md) / Weekly / [Overview](/content/philsturgeon/awesome-earth/readme/README.md) ]
 

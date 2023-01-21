@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,8 +22,8 @@
 
 ### Packages / Containerization
 
-*   [osrf/docker\_images (⭐362)](https://github.com/osrf/docker_images) - Dockerfiles of [Official Library on Docker Hub](https://hub.docker.com/_/ros) and [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
-*   [docker-ros2-desktop-vnc (⭐194)](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
+*   [osrf/docker\_images (⭐366)](https://github.com/osrf/docker_images) - Dockerfiles of [Official Library on Docker Hub](https://hub.docker.com/_/ros) and [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
+*   [docker-ros2-desktop-vnc (⭐204)](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
 
 ## [4. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 
@@ -37,8 +37,8 @@
 
 ### Tools / Administration
 
-*   [k8s-backup-mongodb (⭐24)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
-*   [mgob (⭐769)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
+*   [k8s-backup-mongodb (⭐26)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
+*   [mgob (⭐770)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -104,37 +104,37 @@
 
 ### Syntax / Diagnostics
 
-*   [m-demare/hlargs.nvim (⭐237)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [m-demare/hlargs.nvim (⭐250)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
 ### Utility / Diagnostics
 
-*   [toppair/reach.nvim (⭐146)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
+*   [toppair/reach.nvim (⭐162)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [mvysny/vaadin-on-kotlin (⭐164)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
+*   [mvysny/vaadin-on-kotlin (⭐166)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [Vue Naive (⭐561)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+*   [Vue Naive (⭐593)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-load-css-module (⭐10)](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
+*   [vite-plugin-load-css-module (⭐11)](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
 
 ## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Official Resources
 
-*   [Community Help Board (⭐18k)](https://github.com/directus/directus/discussions/categories/q-a)
+*   [Community Help Board (⭐19k)](https://github.com/directus/directus/discussions/categories/q-a)
 
 ## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Learning / Crash Courses
+### Crash Courses
 
 *   [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal crash course video lectures.
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Projects / Messaging
 
-*   [Redpanda (⭐5.4k)](https://github.com/vectorizedio/redpanda) - A streaming platform for mission critical workloads. Kafka® compatible, No Zookeeper®, no JVM, and no code changes required.
+*   [Redpanda (⭐5.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform for mission critical workloads. Kafka® compatible, No Zookeeper®, no JVM, and no code changes required.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Resources / Course Material
 
-*   [Floating-Point Numbers and Formal Proof (⭐5)](https://github.com/thery/FlocqLecture) - Introductory course on Coq real numbers and floating-point numbers from the Flocq library.
+*   [Floating-Point Numbers and Formal Proof (⭐6)](https://github.com/thery/FlocqLecture) - Introductory course on Coq real numbers and floating-point numbers from the Flocq library.
 
 ## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐278)](https://github.com/novitae/sterraxcyl)
+*   [Sterra (⭐318)](https://github.com/novitae/sterraxcyl)
 
 ---
 

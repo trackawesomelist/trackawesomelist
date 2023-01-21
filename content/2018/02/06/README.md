@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Security and Cryptography
 
-*   [Digestif (⭐81)](https://github.com/mirage/digestif) - Hash algorithms (like SHA\* or BLAKE2\*) in OCaml and C.
+*   [Digestif (⭐80)](https://github.com/mirage/digestif) - Hash algorithms (like SHA\* or BLAKE2\*) in OCaml and C.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Miscellaneous
 
-*   [dufy (⭐40)](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT](https://opensource.org/licenses/MIT).
+*   [dufy (⭐41)](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -89,7 +89,7 @@
 ### Database
 
 *   [SQLiteC++ (⭐1.6k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐717)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [sqlite\_modern\_cpp (⭐719)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
 ## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

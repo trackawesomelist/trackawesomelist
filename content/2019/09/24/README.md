@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -211,11 +211,11 @@
 
 ### Internationalization
 
-*   [Camomile (⭐117)](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
+*   [Camomile (⭐118)](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
 *   [ocaml-m17n (⭐48)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
 *   [Uucd (⭐12)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
 *   [Uucp (⭐20)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
-*   [Uunf (⭐19)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
+*   [Uunf (⭐20)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
 *   [Uuseg (⭐15)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
 *   [Uutf (⭐28)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
@@ -229,7 +229,7 @@
 
 ### Auth / Image Picker
 
-*   [Flutter AppAuth (⭐221)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
+*   [Flutter AppAuth (⭐230)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
 
 ### 🇦🇺 Australia / Misc
 
@@ -306,17 +306,13 @@
 
 ## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Deep Learning / PyTorch
-
-*   [PyTorchNet (⭐1.4k)](https://github.com/pytorch/tnt) - An abstraction to train neural networks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-
 ### Deep Learning / TensorFlow
 
-*   [tensorpack (⭐6.2k)](https://github.com/ppwwyyxx/tensorpack) - A Neural Net Training Interface on TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [tensorpack (⭐6.3k)](https://github.com/ppwwyyxx/tensorpack) - A Neural Net Training Interface on TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
 ### Probabilistic Methods / NLP
 
-*   [MXFusion (⭐101)](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
+*   [MXFusion (⭐100)](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 
 ## [19. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 

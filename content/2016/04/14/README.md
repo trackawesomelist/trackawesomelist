@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,13 +34,13 @@
 
 ### Geolocation
 
-*   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
+*   [segseg (⭐6)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Authorization
 
-*   [AccessGranted (⭐748)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐757)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -48,14 +48,14 @@
 
 ### Queues and Messaging
 
-*   [Gush (⭐988)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
+*   [Gush (⭐987)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
 
 ## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [dvulkan (⭐16)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*   [VulkanSharp (⭐492)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
+*   [VulkanSharp (⭐495)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
 *   [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. \[BSD]
 
 ## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)

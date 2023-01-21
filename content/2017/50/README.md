@@ -2,7 +2,7 @@
 
 37 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,7 +47,7 @@
 
 ### Tools and Apps / Task Management
 
-*   [Pomolectron (⭐562)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐568)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 
 ## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -67,7 +67,9 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐234)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html). [ninglex (⭐30)](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (mostly easier handling of query parameters). [MIT](https://opensource.org/licenses/MIT).
+*   [ningle (⭐243)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐34)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+        *   includes an OpenAPI and Swagger UI demo.
 
 ### Other / Third-party APIs
 
@@ -189,7 +191,7 @@
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐411)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
+*   [ocaml-containers (⭐418)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
 
 ## [21. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -200,7 +202,7 @@
 
 ### Apps
 
-*   [Snape (⭐780)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+*   [Snape (⭐786)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
 ## [22. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
@@ -261,7 +263,7 @@
 
 ### CMS
 
-*   [BlogEngine.NET (⭐903)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐907)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 

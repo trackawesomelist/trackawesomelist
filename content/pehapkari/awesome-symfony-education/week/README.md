@@ -2,7 +2,7 @@
 
 Useful sources around Symfony - articles, series and books (not Bundles)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pehapkari/awesome-symfony-education/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 pehapkari/awesome-symfony-education](https://github.com/pehapkari/awesome-symfony-education) · ⭐ 316 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pehapkari/awesome-symfony-education/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pehapkari/awesome-symfony-education](https://github.com/pehapkari/awesome-symfony-education) · ⭐ 316 · 🏷️ Back-End Development
 
 [ [Daily](/content/pehapkari/awesome-symfony-education/README.md) / Weekly / [Overview](/content/pehapkari/awesome-symfony-education/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,23 +26,23 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [ellisonleao/glow.nvim (⭐761)](https://github.com/ellisonleao/glow.nvim) - Markdown preview using glow.
+*   [ellisonleao/glow.nvim (⭐801)](https://github.com/ellisonleao/glow.nvim) - Markdown preview using glow.
 
 ### Lua Colorscheme / Diagnostics
 
-*   [ellisonleao/gruvbox.nvim (⭐722)](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox community colorscheme Lua port.
+*   [ellisonleao/gruvbox.nvim (⭐796)](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox community colorscheme Lua port.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
-*   [UpBlazor (⭐45)](https://github.com/Hona/UpBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Hona/UpBlazor?style=flat-square\&cacheSeconds=604800) - ![last commit](https://img.shields.io/github/last-commit/Hona/UpBlazor?style=flat-square\&cacheSeconds=86400) Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and [Marten DB](https://martendb.io/).
+*   [UpBlazor (⭐48)](https://github.com/Hona/UpBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Hona/UpBlazor?style=flat-square\&cacheSeconds=604800) - ![last commit](https://img.shields.io/github/last-commit/Hona/UpBlazor?style=flat-square\&cacheSeconds=86400) Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and [Marten DB](https://martendb.io/).
 
 ## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Notification
 
-*   [@zerodevx/svelte-toast (⭐431)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+*   [@zerodevx/svelte-toast (⭐476)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
 ## [5. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -70,7 +70,7 @@
 *   `MSYS2` included, `zsh` and necessary software preinstalled, uses zsh-grml-config
 *   Uses [Antigen (⭐7.4k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
 *   Git-for-Windows repo with proper `git` and `git lfs` support for `MSYS2` environment is configured, `git` client already installed.
-*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐243)](https://github.com/agkozak/agkozak-zsh-prompt)
+*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐245)](https://github.com/agkozak/agkozak-zsh-prompt)
 *   Command-not-found handler customized for `MSYS2` suggests what package to install
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
@@ -122,7 +122,7 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [FUU (⭐39)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
+*   [FUU (⭐41)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -131,10 +131,6 @@
 *   [redislabs](https://redislabs.com/try-free/) - Free 30MB redis instance
 
 ## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Modules / Utils
-
-*   [canonify (⭐6)](https://github.com/truestamp/truestamp-canonify) - Stringify data structures to deterministically ordered JSON for consistent hashing and digital signatures per JCS [RFC8785](https://datatracker.ietf.org/doc/html/rfc8785).
 
 ### Resources in Other Languages / Kurdish (Central)
 
@@ -145,9 +141,9 @@
 ### Libraries / New Libraries
 
 *   Neural Network Libraries
-    *   [FedJAX (⭐205)](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
-    *   [Equivariant MLP (⭐196)](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
-    *   [jax-resnet (⭐78)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
+    *   [FedJAX (⭐209)](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
+    *   [Equivariant MLP (⭐206)](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
+    *   [jax-resnet (⭐84)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
     *   [Parallax (⭐156)](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 
 ## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)

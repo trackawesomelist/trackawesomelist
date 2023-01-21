@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -90,7 +90,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐161)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐162)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

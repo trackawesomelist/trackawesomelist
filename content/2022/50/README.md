@@ -2,7 +2,7 @@
 
 58 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Algorithms and Data structures
 
-*   [Goban (⭐7)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
+*   [Goban (⭐16)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -33,12 +33,12 @@
 
 ### Emulator Development / Misc
 
-*   [Game Boy Doctor (⭐66)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
+*   [Game Boy Doctor (⭐71)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
 
 ### Tools / Development tools
 
 *   [evscript (⭐2)](https://github.com/eievui5/evscript) - A scripting language for the Game Boy, useful for enemy AI, dialogue, animations, and coroutines.
-*   [evunit (⭐6)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
+*   [evunit (⭐8)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -63,22 +63,22 @@
 
 *   [jax (⭐21k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 
-### Data Manipulation / Data Containers
+### Data Manipulation / Data Frames
 
 *   [xarray (⭐2.8k)](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
 *   [sk-transformer (⭐3)](https://github.com/chrislemke/sk-transformers) - A collection of various pandas & scikit-learn compatible transformers for all kinds of preprocessing and feature engineering steps <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ### Data Manipulation / Pipelines
 
-*   [Hamilton (⭐718)](https://github.com/stitchfix/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
+*   [Hamilton (⭐762)](https://github.com/stitchfix/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
 
 ### Data Manipulation / Synthetic Data
 
-*   [ydata-synthetic (⭐843)](https://github.com/ydataai/ydata-synthetic) - A package to generate synthetic tabular and time-series data leveraging the state of the art generative models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [ydata-synthetic (⭐850)](https://github.com/ydataai/ydata-synthetic) - A package to generate synthetic tabular and time-series data leveraging the state of the art generative models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ### Model Explanation / NLP
 
-*   [dalex (⭐1.1k)](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation. img height="20" src="img/sklearn\_big.png" alt="sklearn"><img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired/ported lib">
+*   [dalex (⭐1.2k)](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"><img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired/ported lib">
 
 ### Optimization / NLP
 
@@ -100,10 +100,6 @@
 
 ## [7. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
-### Visual Changes / Design Tooling
-
-*   [Useless Gaps (⭐30)](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
-
 ### Libraries / Skeumorphic Icons
 
 *   [Relm4](https://relm4.org/) - Building native applications with Rust and GTK4
@@ -118,17 +114,17 @@
 
 ### Deployment Tools / Newsletters
 
-*   [Nixinate (⭐71)](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
+*   [Nixinate (⭐75)](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
-*   [Supabase (⭐104)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [Supabase (⭐133)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ### Business
 
-*   [Engineering Strategy (⭐153)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+*   [Engineering Strategy (⭐270)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
 ## [11. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -170,9 +166,9 @@
 
 *   [ente Auth](https://ente.io/auth) - A free, cross platform, end-to-end encrypted and open source app for managing your 2-step verification tokens. From the makers of [ente Photos](https://ente.io), and uses the same battle tested infrastructure. Needs an ente.io account.
 
-### Decentralized social networks
+### Decentralized
 
-*   [Nostr (⭐1.8k)](https://github.com/nostr-protocol/nostr) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
+*   [Nostr (⭐4k)](https://github.com/nostr-protocol/nostr) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
 
 ## [17. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
@@ -184,7 +180,7 @@
 
 ### Yaml
 
-*   [rapidyaml (⭐377)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML \[MIT]
+*   [rapidyaml (⭐384)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML \[MIT]
 
 ## [19. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -236,26 +232,26 @@
 
 ### Miscellaneous
 
-*   [passbook (⭐2)](https://github.com/Bounceapp/ex_passbook) - Elixir library to create Apple Wallet (.pkpass) files.
+*   [passbook (⭐5)](https://github.com/Bounceapp/ex_passbook) - Elixir library to create Apple Wallet (.pkpass) files.
 
 ## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Testing
 
-*   [Testcontainers (⭐2.4k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+*   [Testcontainers (⭐2.5k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 
 ## [25. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
-*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsloved murder cases. Rulebook in Polish.
+*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish.
 
 ## [26. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [colors (⭐1)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
-*   [monke (⭐2)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
+*   [monke (⭐1)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 
 ## [27. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -293,24 +289,23 @@
 
 ## [32. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
+### Prompting
+
+*   [ChatGPT prompts](https://prompts.chat/)
+
 ### Using ChatGPT in other apps
 
-*   [ChatGPT for Slack bot (⭐56)](https://github.com/pedrorito/ChatGPTSlackBot)
-*   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
+*   [ChatGPT for Slack bot (⭐79)](https://github.com/pedrorito/ChatGPTSlackBot)
+*   [GPT-3.5 powered terminal commands (⭐358)](https://github.com/Methexis-Inc/terminal-copilot)
 
 ### Coding
 
-*   [Explain runtime error message with ChatGPT (⭐267)](https://github.com/shobrook/stackexplain)
-*   [PR code review using ChatGPT (⭐86)](https://github.com/kxxt/chatgpt-action)
-
-### Conversational
-
-*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+*   [Explain runtime error message with ChatGPT (⭐318)](https://github.com/shobrook/stackexplain)
+*   ⭐️ [PR code review using ChatGPT (⭐181)](https://github.com/kxxt/chatgpt-action)
 
 ### Other
 
-*   [ChatGPT prompts](https://prompts.chat/)
-*   [Share your wildest ChatGPT conversations with one click (⭐186)](https://github.com/domeccleston/sharegpt)
+*   [Share your wildest ChatGPT conversations with one click (⭐221)](https://github.com/domeccleston/sharegpt)
 
 ## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -330,7 +325,7 @@
 
 ### Mobile
 
-*   [shasht (⭐23)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
+*   [shasht (⭐27)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
     *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Colleton.
 
 ## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -405,7 +400,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [AIaC (⭐119)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
+*   [AIaC (⭐627)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 
 ## [39. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
@@ -420,7 +415,7 @@
 
 *   [PATA: Fuzzing with Path Aware Taint Analysis, 2022](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/sp22.pdf)
 *   [Jigsaw: Efficient and Scalable Path Constraints Fuzzing, 2022](https://www.cs.ucr.edu/\~csong/oakland22-jigsaw.pdf)
-*   [FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks, 2022 (⭐19)](https://github.com/purseclab/fuzzusb/blob/main/paper/fuzzusb.pdf)
+*   [FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks, 2022 (⭐20)](https://github.com/purseclab/fuzzusb/blob/main/paper/fuzzusb.pdf)
 *   [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, 2022](https://arxiv.org/pdf/2203.12064.pdf)
 *   [BEACON : Directed Grey-Box Fuzzing with Provable Path Pruning, 2022](https://qingkaishi.github.io/public_pdfs/SP22.pdf)
 
@@ -443,7 +438,6 @@
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
-*   SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities. 2022]\(<https://compsec.snu.ac.kr/papers/jaewon-specdoctor.pdf>)
 *   [SFuzz: Slice-based Fuzzing for Real-Time Operating Systems, 2022](https://huhong789.github.io/papers/chen:sfuzz.pdf)
 *   [MC^2: Rigorous and Efficient Directed Greybox Fuzzing, 2022](https://arxiv.org/pdf/2208.14530.pdf)
 *   [LibAFL: A Framework to Build Modular and Reusable Fuzzers, 2022](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)
@@ -496,10 +490,6 @@
 *   [Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard](https://fabiensanglard.net/b/gebbwolf3d.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carcmack, Tom Hall and John Romero.
 *   [Game Engine Black Book: Doom - by Fabien Sanglard](https://fabiensanglard.net/b/gebbdoom.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carcmack, Dave Taylor and John Romero.
 
-### Open source DOS libraries / Sound Blaster/OPL3
-
-*   [DIGIPAK sound drivers source code (⭐20)](https://github.com/jratcliff63367/digpak) - Original source code for the DIGIPAK sound drivers uploaded to GitHub by John W. Ratcliff.
-
 ### Homebrew games with source code / Sound Blaster/OPL3
 
 *   [Plutonium Caverns (⭐9)](https://github.com/jani-nykanen/plutonium-caverns) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten (⭐1.1k)](https://github.com/dreamlayers/em-dosbox) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
@@ -512,11 +502,11 @@
 
 ### Camera
 
-*   [ExyteMediaPicker (⭐31)](https://github.com/exyte/mediapicker) - Customizable media picker
+*   [ExyteMediaPicker (⭐35)](https://github.com/exyte/mediapicker) - Customizable media picker
 
 ### Location
 
-*   [AsyncLocationKit (⭐77)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
+*   [AsyncLocationKit (⭐88)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 
 ### Layout
 
@@ -524,7 +514,7 @@
 
 ### Localization
 
-*   [locheck (⭐72)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
+*   [locheck (⭐73)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
 
 ### Logging
 
@@ -532,36 +522,36 @@
 
 ### Math
 
-*   [Matft (⭐79)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
+*   [Matft (⭐80)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
 
 ### Image
 
-*   [Harbeth (⭐185)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.🔥💥
+*   [Harbeth (⭐197)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.🔥💥
 
 ### Networking
 
-*   [Get (⭐733)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
+*   [Get (⭐745)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
 
 ### Other Parsing
 
-*   [CreateAPI (⭐284)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
+*   [CreateAPI (⭐286)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 
 ### UI
 
-*   [Popovers (⭐876)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
+*   [Popovers (⭐890)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 
 ### Activity Indicator
 
-*   [ProgressIndicatorView (⭐74)](https://github.com/exyte/ProgressIndicatorView) - A number of preset progress indicators created with SwiftUI.
+*   [ProgressIndicatorView (⭐79)](https://github.com/exyte/ProgressIndicatorView) - A number of preset progress indicators created with SwiftUI.
 
 ### Transition
 
-*   [NavigationTransitions (⭐51)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
-*   [LiquidSwipe (⭐270)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
+*   [NavigationTransitions (⭐59)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
+*   [LiquidSwipe (⭐275)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
 
 ### Alert & Action Sheet
 
-*   [BottomSheet (⭐95)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+*   [BottomSheet (⭐100)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ### Keyboard
 
@@ -573,7 +563,7 @@
 
 ### Utility / Collection View Layout
 
-*   [SwiftBoost (⭐117)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐119)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ### Reference / Collection View Layout
 
@@ -593,7 +583,7 @@
 
 ### Other Awesome Lists / Collection View Layout
 
-*   [awesome-ios-books (⭐177)](https://github.com/bystritskiy/awesome-ios-books) - A list of books for iOS developers.
+*   [awesome-ios-books (⭐185)](https://github.com/bystritskiy/awesome-ios-books) - A list of books for iOS developers.
 
 ## [44. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -623,7 +613,7 @@
 
 ### Software / Automation
 
-*   [Accelerated Text (⭐637)](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐637)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
+*   [Accelerated Text (⭐664)](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐664)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -631,19 +621,19 @@
 
 ### Software / Miscellaneous
 
-*   [IconCaptcha](https://www.fabianwennink.nl/projects/IconCaptcha/) - IconCaptcha is a self-hosted, fast, simple and user-friendly captcha for PHP. ([Source Code (⭐45)](https://github.com/fabianwennink/IconCaptcha-Plugin-jQuery-PHP)) `MIT` `PHP`
+*   [IconCaptcha](https://www.fabianwennink.nl/projects/IconCaptcha/) - IconCaptcha is a self-hosted, fast, simple and user-friendly captcha for PHP. ([Source Code (⭐48)](https://github.com/fabianwennink/IconCaptcha-Plugin-jQuery-PHP)) `MIT` `PHP`
 
 ### Software / Money, Budgeting & Management
 
-*   [OpenBudgeteer (⭐515)](https://github.com/TheAxelander/OpenBudgeteer) - A budgeting app based on the Bucket Budgeting Principle. `MIT` `Docker/C#`
+*   [OpenBudgeteer (⭐535)](https://github.com/TheAxelander/OpenBudgeteer) - A budgeting app based on the Bucket Budgeting Principle. `MIT` `Docker/C#`
 
 ### Software / Ticketing
 
-*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐257)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
+*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐275)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
 
 ### Software / Time Tracking
 
-*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐565)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
+*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐656)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
 ## [47. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -659,7 +649,6 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [aguiar (⭐0)](https://github.com/aguiar-us/aguiar.zsh-theme) - Includes decorators for user\@hostname and current working directory.
 *   [gitneko (⭐1)](https://github.com/gynamics/zsh-gitneko/) - Has a neko `(^>ω<^)` prompt with `git` status information.
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
 
@@ -673,7 +662,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vutron (⭐30)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+*   [Vutron (⭐37)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
 ## [51. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -687,7 +676,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-xs-admin (⭐10)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
+*   [vue-xs-admin (⭐18)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
 *   [vue-component-template (⭐16)](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
 *   [ionic-vue-vite (⭐0)](https://github.com/reslear/ionic-vue-vite) - Vue 3 + Vue Router + Vite + Ionic.
 *   [ionic-vue-pnpm-monorepo (⭐1)](https://github.com/reslear/ionic-vue-pnpm-monorepo) - Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo.
@@ -696,11 +685,11 @@
 
 ### Templates / React
 
-*   [react-vite-template (⭐10)](https://github.com/985563349/react-vite-template) - A react project template.
+*   [react-vite-template (⭐11)](https://github.com/985563349/react-vite-template) - A react project template.
 
 ### Templates / Electron
 
-*   [vite-electron-plugin (⭐22)](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
+*   [vite-electron-plugin (⭐31)](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -708,21 +697,21 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-css-export (⭐8)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
-*   [vite-plugin-optimize-css-modules (⭐3)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
+*   [vite-plugin-css-export (⭐11)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
+*   [vite-plugin-optimize-css-modules (⭐4)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mock-dev-server (⭐2)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
+*   [vite-plugin-mock-dev-server (⭐8)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 *   [vite-plugin-externals-extension (⭐2)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 
 ### Vue / Ecosystem
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐148)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐155)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
 
 ### Preact / Presets
 
-*   [@preact/preset-vite (⭐175)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
+*   [@preact/preset-vite (⭐183)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
 
 ### React / Community
 
@@ -732,46 +721,46 @@
 
 ### Marks / Diagnostics
 
-*   [cbochs/grapple.nvim (⭐83)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+*   [cbochs/grapple.nvim (⭐113)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
 ### Project / Diagnostics
 
-*   [nyngwang/suave.lua (⭐3)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
-*   [desdic/telescope-rooter.nvim (⭐7)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
+*   [nyngwang/suave.lua (⭐16)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
+*   [desdic/telescope-rooter.nvim (⭐8)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ramojus/mellifluous.nvim (⭐51)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
-*   [Yazeed1s/oh-lucy.nvim (⭐82)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
+*   [ramojus/mellifluous.nvim (⭐58)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
+*   [Yazeed1s/oh-lucy.nvim (⭐88)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
 
 ### Cursorline / Diagnostics
 
-*   [nyngwang/murmur.lua (⭐51)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
+*   [nyngwang/murmur.lua (⭐64)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 
 ### Utility / Diagnostics
 
-*   [chrisgrieser/nvim-genghis (⭐46)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
-*   [chrisgrieser/nvim-recorder (⭐2)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
+*   [chrisgrieser/nvim-genghis (⭐54)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
+*   [chrisgrieser/nvim-recorder (⭐59)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
 
 ### Terminal Integration / Diagnostics
 
-*   [nyngwang/NeoTerm.lua (⭐17)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+*   [nyngwang/NeoTerm.lua (⭐27)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 
 ### Quickfix / Diagnostics
 
-*   [nyngwang/NeoWell.lua (⭐3)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
+*   [nyngwang/NeoWell.lua (⭐6)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 
 ### Motion / Diagnostics
 
-*   [cbochs/portal.nvim (⭐98)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+*   [cbochs/portal.nvim (⭐115)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
 ### Editing Support / Diagnostics
 
-*   [shortcuts/no-neck-pain.nvim (⭐54)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
+*   [shortcuts/no-neck-pain.nvim (⭐139)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
 
 ### Formatting / Diagnostics
 
-*   [emileferreira/nvim-strict (⭐1)](https://github.com/emileferreira/nvim-strict) - Strictly enforce configurable, best-practice code style by exposing deep nesting, overlong lines, trailing whitespace, trailing empty lines and inconsistent indentation.
+*   [emileferreira/nvim-strict (⭐21)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
 
 ## [53. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -807,42 +796,43 @@
 
 ## [55. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
 *   [The Ultimate Stable Diffusion Prompt Guide by PromptHero](https://prompthero.com/stable-diffusion-prompt-guide)
 *   [list of artists for SD v1.4 A-C / D-I / J-N / O-Z](https://rentry.org/artists_sd-v1-4)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
-*   [DETEXTIFY (⭐8)](https://github.com/iuliaturc/detextify): A Python library to remove unwanted pseudo-text from images generated by your favorite generative AI models (Stable Diffusion, Midjourney, DALL·E)
+*   [DETEXTIFY (⭐68)](https://github.com/iuliaturc/detextify): A Python library to remove unwanted pseudo-text from images generated by your favorite generative AI models (Stable Diffusion, Midjourney, DALL·E)
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [AITWO.CO](https://aitwo.co/): a AI-powered design platform with multiple features
 
-### Courses and Educational Materials / References Collection about Stable Diffusion
+### Courses and Educational Materials / Deforum
 
 *   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
 *   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
+
+### Papers and References / Papers Collections
+
+*   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
 
 ### Image Synthesis / Promptism
 
 *   [pyttitools-PYTTI.ipynb - Colaboratory](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
 
-### Online Tools and Applications / Text-to-image Google Colab Notebooks (Multiple Models)
-
-*   [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
-
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Online Tools and Applications / Generative Adversarial Networks (GANs)
 
 *   [Scenario AI](https://www.scenario.gg/): AI-generated game assets
+*   [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
 
-### Text-to-video / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
 
-*   [THUDM/CogVideo (⭐2.2k)](https://github.com/THUDM/CogVideo): Text-to-video generation
+*   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
 
-### Inbox: Music-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music and Audio projects / Text-related Generative Tools
 
 *   \[🔥🔥🔥] [Riffusion](https://www.riffusion.com/): an app for real-time music generation with stable diffusion
 *   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
@@ -851,15 +841,11 @@
 *   [Jukebox](https://openai.com/blog/jukebox/): "a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles"
 *   [Magenta](https://magenta.tensorflow.org/): Music and Art Generation with Machine Intelligence
 *   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
-*   [archinetai/audio-diffusion-pytorch (⭐534)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
+*   [archinetai/audio-diffusion-pytorch (⭐575)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Video AI tools / Text-related Generative Tools
 
-*   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
-
-### Papers and references for reading and understanding / OpenAI GPT-3
-
-*   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
+*   [THUDM/CogVideo (⭐2.3k)](https://github.com/THUDM/CogVideo): text-to-video generation
 
 ## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -893,4 +879,5 @@
 
 ---
 
+- Prev: [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 - Next: [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)

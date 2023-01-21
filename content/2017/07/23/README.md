@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐270)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐272)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -55,18 +55,18 @@
 
 ### Authentication
 
-*   [LoginKit (⭐654)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
+*   [LoginKit (⭐653)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 
 ### UITableView / Barcode
 
-*   [SwipeCellKit (⭐5.9k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
+*   [SwipeCellKit (⭐6k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
 ## [7. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
 ### Tools / JavaScript
 
-*   [smokestack (⭐244)](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
-*   [chutney (⭐5)](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack (⭐244)](https://github.com/hughsk/smokestack) alternative.
+*   [smokestack (⭐246)](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
+*   [chutney (⭐5)](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack (⭐246)](https://github.com/hughsk/smokestack) alternative.
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Queue
 
-*   [CAP (⭐5.8k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐5.9k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ---
 

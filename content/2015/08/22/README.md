@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,8 +17,8 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [ansi (⭐438)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
-*   [mo (⭐463)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+*   [ansi (⭐454)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+*   [mo (⭐477)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,11 +22,11 @@
 
 ### Deployment / Isomorphic web frameworks
 
-*   [s2i-lisp (⭐29)](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [s2i-lisp (⭐28)](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0)
 
 ### Others / Third-party APIs
 
-*   [Petalisp (⭐260)](https://github.com/marcoheisig/Petalisp) - an attempt to
+*   [Petalisp (⭐271)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
     JIT-compiling array definitions. It works on a more
     fundamental level than NumPy, by providing even more powerful
@@ -35,7 +35,7 @@
 
 ### Matrix libraries / Third-party APIs
 
-*   [clem (⭐37)](https://github.com/slyrus/clem) - a matrix library. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [clem (⭐36)](https://github.com/slyrus/clem) - a matrix library. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### REPLs / Third-party APIs
 
@@ -48,7 +48,7 @@
 
 ### Security / Third-party APIs
 
-*   [cl-isolated (⭐33)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
+*   [cl-isolated (⭐34)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -61,7 +61,7 @@
 
 ### UI Layout / Syntax Highlight
 
-*   [muuri-react (⭐270)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
+*   [muuri-react (⭐274)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -97,7 +97,8 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome JMeter (⭐570)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+*   [Awesome Tsung (⭐16)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+*   [Awesome JMeter (⭐584)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 
 ## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -125,8 +126,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Tsung (⭐15)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-*   [Awesome Gatling (⭐41)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
+*   [Awesome Gatling (⭐45)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
@@ -138,9 +138,9 @@
 
 ### Tools / Dolby
 
-*   [slhck/ffmpeg-bitrate-stats (⭐55)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
-*   [slhck/ffmpeg-debug-qp (⭐62)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
-*   [slhck/ffmpeg-quality-metrics (⭐205)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+*   [slhck/ffmpeg-bitrate-stats (⭐57)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+*   [slhck/ffmpeg-debug-qp (⭐63)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
+*   [slhck/ffmpeg-quality-metrics (⭐214)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
 *   [slhck/scenecut-extractor (⭐41)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
 
 ## [17. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
@@ -153,19 +153,19 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐248)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐255)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Bluetooth
 
-*   [BerkananSDK (⭐186)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
+*   [BerkananSDK (⭐188)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
 
 ## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [Klein (⭐629)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐634)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ---
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐52)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.1k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐55)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.1k)](https://github.com/seek-oss/capsize).
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-highcharts (⭐40)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
+*   [vue3-highcharts (⭐41)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
 
 ### Components & Libraries / Integrations
 

@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Packages / RMW (ROS middleware)
 
-*   [rmw\_zenoh (⭐21)](https://github.com/atolab/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io).
+*   [rmw\_zenoh (⭐22)](https://github.com/atolab/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io).
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Front-End Development
 
-*   [MDBootstrap (⭐23)](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
+*   [MDBootstrap (⭐28)](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
 
 ## [4. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Freenet) and chat on forums. ([Source Code (⭐854)](https://github.com/freenet/fred)) `GPL-2.0` `Java`
+*   [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Freenet) and chat on forums. ([Source Code (⭐862)](https://github.com/freenet/fred)) `GPL-2.0` `Java`
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -53,11 +53,11 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [teikei (⭐44)](https://github.com/teikei/teikei) - A web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`
+*   [teikei (⭐46)](https://github.com/teikei/teikei) - A web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`
 
 ### Software / Feed Readers
 
-*   [newsdash (⭐42)](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes. `AGPL-3.0` `Nodejs`
+*   [newsdash (⭐43)](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes. `AGPL-3.0` `Nodejs`
 
 ### Software / File Transfer & Synchronization
 
@@ -65,9 +65,9 @@
 
 ### Software / Games
 
-*   [QuakeJS (⭐75)](https://github.com/begleysm/quakejs) - QuakeJS is a port of ioquake3 to Javascript that can be played in a browser. `MIT` `Nodejs`
+*   [QuakeJS (⭐79)](https://github.com/begleysm/quakejs) - QuakeJS is a port of ioquake3 to Javascript that can be played in a browser. `MIT` `Nodejs`
 *   [The Battle for Wesnoth (⭐4.2k)](https://github.com/wesnoth/wesnoth) - The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++`
-*   [Zero-K](https://zero-k.info/) - Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ([Source Code (⭐548)](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
+*   [Zero-K](https://zero-k.info/) - Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ([Source Code (⭐553)](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
 
 ### Software / Groupware
 
@@ -84,24 +84,24 @@
 ### Software / Miscellaneous
 
 *   [CyberChef (⭐20k)](https://github.com/gchq/CyberChef) - Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`
-*   [oTranscribe (⭐740)](https://github.com/oTranscribe/oTranscribe) - Free web app to take the pain out of transcribing recorded interviews. ([Demo](https://otranscribe.com/)) `MIT` `Javascript`
+*   [oTranscribe (⭐757)](https://github.com/oTranscribe/oTranscribe) - Free web app to take the pain out of transcribing recorded interviews. ([Demo](https://otranscribe.com/)) `MIT` `Javascript`
 *   [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code (⭐63k)](https://github.com/hakimel/reveal.js)) `MIT` `Javascript`
 
 ### Software / Note-taking & Editors
 
-*   [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code (⭐32k)](https://github.com/jgraph/drawio)) `Apache-2.0` `Javascript`
+*   [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code (⭐33k)](https://github.com/jgraph/drawio)) `Apache-2.0` `Javascript`
 
 ### Software / Photo and Video Galleries
 
-*   [HomeGallery](https://home-gallery.org) - Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code (⭐269)](https://github.com/xemle/home-gallery)) `MIT` `Nodejs`
+*   [HomeGallery](https://home-gallery.org) - Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code (⭐305)](https://github.com/xemle/home-gallery)) `MIT` `Nodejs`
 
 ### Software / Polls and Events
 
-*   [Croodle (⭐142)](https://github.com/jelhan/croodle) - Croodle is an end-to-end encrypted web application to schedule a date or to do a poll on any topic. `MIT` `Javascript`
+*   [Croodle (⭐144)](https://github.com/jelhan/croodle) - Croodle is an end-to-end encrypted web application to schedule a date or to do a poll on any topic. `MIT` `Javascript`
 
 ### Software / Proxy
 
-*   [socks5-proxy-server (⭐47)](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Nodejs`
+*   [socks5-proxy-server (⭐51)](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Nodejs`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

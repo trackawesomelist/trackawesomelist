@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -42,7 +42,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [CoreUI for React (⭐500)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
+*   [CoreUI for React (⭐519)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -51,14 +51,10 @@
 *   [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 *   [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 
-### Development / PHP
+### Languages / PHP
 
 *   [php-algorand-sdk (⭐18)](https://github.com/ffsolutions/php-algorand-sdk) - Algorand PHP SDK created by [@ffsolutions](https://github.com/ffsolutions).
 *   [algorand-php (⭐40)](https://github.com/RootSoft/algorand-php) - Algorand PHP SDK created by [@RootSoft](https://github.com/RootSoft).
-
-### Development / Python
-
-*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
 
 ### IDEs / vim
 
@@ -68,9 +64,13 @@
 
 *   [algoDEA](https://algodea-docs.bloxbean.com/) - Algorand IntelliJ Plugin.
 
-### Tools / Docker
+### Other Development Tools / Smart Contracts
 
-*   [Algorand Sandbox (⭐196)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
+*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
+
+### Other Development Tools / Docker
+
+*   [Algorand Sandbox (⭐202)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
 
 ### DeFi Platforms / Wallets
 
@@ -78,7 +78,7 @@
 *   [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 *   [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
 
-### Bridges / Wallets
+### Blockchain Bridges / Wallets
 
 *   [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
 *   [QUIGON](https://bridge.quigon.com/) - Centralized cross-chain NFT bridge.
@@ -87,7 +87,7 @@
 
 *   [Algoracle](https://www.algoracle.ai/) - Decentralized oracle networks that connect the Algorand blockchain with the real world.
 
-### Community / Projects
+### Projects / Wallets
 
 *   [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
 *   [minter (⭐10)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).

@@ -2,11 +2,17 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Mathematics
+
+*   [Introduction to Modern Statistics](https://openintro-ims.netlify.app) - Mine Çetinkaya-Rundel, Johanna Hardin (HTML, PDF) (email address required for PDF)
+
+## [2. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Articles by   [Happy Makadiya at Simform Solutions](https://medium.com/@happy.m)
 
@@ -35,31 +41,31 @@
 *   [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
 *   [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
 
-## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [3. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
-*   [htmlbeautifier (⭐266)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+*   [htmlbeautifier (⭐268)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
-## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Editors
+### Software / Editors
 
-*   [Atom Community (⭐428)](https://github.com/atom-community/atom) - A fork of [atom (⭐59k)](https://github.com/atom/atom) A hackable text editor from Github.
+*   [Atom Community (⭐548)](https://github.com/atom-community/atom) - A fork of [atom (⭐59k)](https://github.com/atom/atom) A hackable text editor from Github.
 
-### Remote Management / Metric & Metric Collection
+### Software / Remote Management
 
 *   [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Wayback (⭐391)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
+*   [Wayback (⭐423)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
 
 ### Software / Knowledge Management Tools
 
-*   [Atomic Server (⭐181)](https://github.com/atomicdata-dev/atomic-data-rust) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
+*   [Atomic Server (⭐222)](https://github.com/atomicdata-dev/atomic-data-rust) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -73,14 +79,14 @@
 
 *   [Clink](https://short.swurl.xyz/) - Dead-simple, super minimal URL shortener in C. ([Source Code](https://git.swurl.xyz/swirl/clink)) `AGPL-3.0` `C`
 
-## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [Vencord (⭐356)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
+*   [Vencord (⭐468)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
 *   [Replugged](https://replugged.dev/) - A continuation of the deprecated client mod [Powercord](https://powercord.dev).
 
-## [6. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/README.md)
+## [7. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/README.md)
 
 ### 3D Printing
 
@@ -144,25 +150,25 @@
 
 *   [Was Bitcoin bringt](https://github.com/quilloughbee/awesome-pleb-projects/blob/main/README.md/wasbitcoinbringt.com/) - Der Bitcoin-Podcast mit Niko Jilch
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [znvm (⭐0)](https://github.com/Ajnasz/znvm) - A [nodejs](https://nodejs.org) version manager for ZSH similar to [nvm.sh (⭐63k)](https://github.com/nvm-sh/nvm) but faster.
+*   [znvm (⭐0)](https://github.com/Ajnasz/znvm) - A [nodejs](https://nodejs.org) version manager for ZSH similar to [nvm.sh (⭐64k)](https://github.com/nvm-sh/nvm) but faster.
 
-## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### CSS / Style / Mouse Events
 
-*   [stitches (⭐6.6k)](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support.
+*   [stitches (⭐6.8k)](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support.
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Boilerplate
 
 *   [bufferapp/clean-architecture-components-boilerplate (⭐1.3k)](https://github.com/bufferapp/clean-architecture-components-boilerplate) - A clean architecture boilerplate using andorid architecture components for android written in Kotlin
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -179,7 +185,7 @@
 ### Email
 
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
-*   [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which also partially [open source (⭐5k)](https://github.com/tutao/tutanota), so you can opt to self-host.
+*   [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which also partially [open source (⭐5.1k)](https://github.com/tutao/tutanota), so you can opt to self-host.
 
 ### Storage and Media Processing
 
@@ -187,48 +193,33 @@
 *   [freetools.site](https://freetools.site/) — Free online tools. Convert or edit documents, images, audio, video and more.
 *   [GoFile.io](https://gofile.io/) - Free file sharing and storage platform, can be used via web based UI & also API. unlimited file size, bandwidth, download count, etc. But when a file becomes inactive (no download for more than 10 days), it will be deleted.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ray-x/starry.nvim (⭐91)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
+*   [ray-x/starry.nvim (⭐102)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
 
 ### Cursorline / Diagnostics
 
-*   [melkster/modicator.nvim (⭐59)](https://github.com/melkster/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
+*   [melkster/modicator.nvim (⭐65)](https://github.com/melkster/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
 
-## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Icons
 
 *   [svelte-unicons (⭐1)](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
 *   [vite-vue-box (⭐7)](https://github.com/NelsonYong/vite-vue-box) - Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint.
 
-## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Courses / Frameworks
 
-*   [full-stack-todo-rust-course (⭐76)](https://github.com/brooks-builds/full-stack-todo-rust-course) - Full stack rust course including course for Yew.
-
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Wicket
-
-*   [DOM Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Linley
-
-### R / Tornado
-
-*   [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson
-*   [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - Roger D. Peng
-
-### Ruby / Ruby on Rails
-
-*   [Learn Ruby on Rails: Book One](https://learn-rails.com/content/learnrails1) - Daniel Kehoe
+*   [full-stack-todo-rust-course (⭐92)](https://github.com/brooks-builds/full-stack-todo-rust-course) - Full stack rust course including course for Yew.
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

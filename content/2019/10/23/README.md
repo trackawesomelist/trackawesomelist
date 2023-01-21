@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 23, 2019
 
-22 awesome lists updated today.
+21 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,40 +43,40 @@
 
 ### Shells
 
-*   [ksh93 (⭐460)](https://github.com/att/ast) - Korn Shell
-*   [mksh (⭐171)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
-*   [oksh (⭐265)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
+*   [ksh93 (⭐464)](https://github.com/att/ast) - Korn Shell
+*   [mksh (⭐176)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+*   [oksh (⭐278)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 *   [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
-*   [shell++ (⭐111)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
+*   [shell++ (⭐115)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 *   [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 *   [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 
 ### Command-Line Productivity
 
-*   [autoenv (⭐5k)](https://github.com/inishchith/autoenv) - Directory-based environments
+*   [autoenv (⭐5.1k)](https://github.com/inishchith/autoenv) - Directory-based environments
 *   [browsh (⭐15k)](https://github.com/browsh-org/browsh) - The modern text-based browser
 *   [googlr (⭐35)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-*   [mcfly (⭐4.5k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
-*   [sqlline (⭐534)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
-*   [td-cli (⭐152)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+*   [mcfly (⭐4.7k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
+*   [sqlline (⭐543)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+*   [td-cli (⭐155)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [z.lua (⭐2.4k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
+*   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
 ### For Developers / Directory Navigation
 
 *   [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-*   [bitwise (⭐468)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
-*   [forgit (⭐3.5k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
+*   [bitwise (⭐484)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
+*   [forgit (⭐3.7k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
 *   [overcommit (⭐3.7k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
-*   [wipe-modules (⭐325)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
+*   [wipe-modules (⭐327)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
 
 ### System Utilities / Directory Navigation
 
-*   [bat (⭐38k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
+*   [bat (⭐39k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
 *   [exa (⭐20k)](https://github.com/ogham/exa) - A modern version of `ls`.
-*   [nmtui (⭐257)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
+*   [nmtui (⭐270)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -84,7 +84,7 @@
 
 ### Applications / Directory Navigation
 
-*   [jrnl (⭐5.6k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
+*   [jrnl (⭐5.7k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 
 ### Shell Package Management / Directory Navigation
 
@@ -92,9 +92,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashful (⭐567)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [bashful (⭐575)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 *   [Bashlets (⭐64)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
-*   [Fishtape (⭐310)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+*   [Fishtape (⭐314)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 
 ## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -102,44 +102,38 @@
 
 *   [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) Some guidelines for giving and getting code reviews.
 
-## [8. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
-
-### Blockchains for AI in medicine / Blockchain projects for AI algorithms
-
-*   [Vytalyx](https://vytalyx.io/) - Vytalyx is a health technology company that plans to use AI and blockchain to store and analyse medical data.
-
-## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
 *   [PiAware](https://uk.flightaware.com/adsb/piaware/install) - Live flight tracking using a Raspberry Pi.
 *   [PiFmRds (⭐1.3k)](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using a Raspberry Pi.
 
-## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Videos / Unspecified License
 
 *   [VYOO](http://www.veed.io/vyoo) - [:copyright:](http://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
 *   [Lazy](https://www.lazy-app.com/) - Keyboard-driven commands to manage your surroundings directly from your mac.
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [11. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### CMS
 
 *   [Strapi](https://strapi.io) - The open source Headless CMS Front-End Developers love.
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
-*   [nef (⭐186)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐187)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
-## [14. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [13. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
@@ -149,7 +143,7 @@
 *   [Train Reservation kata (⭐104)](https://github.com/emilybache/KataTrainReservation)
 *   [Password-strength Checker TDD Kata (⭐5)](https://github.com/xpepper/PasswordStrengthChecker)
 
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -179,25 +173,25 @@
 
 
 
-## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### String / Runner
 
 *   [plexis (⭐145)](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
 
-## [17. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [16. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Notation
 
 *   [Abjad](http://abjad.mbrsi.org/) - a Python API for Formalized Score Control, based on Lilypond.
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
 
-## [19. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [18. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages
 
@@ -226,7 +220,7 @@
 *   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐352)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
 *   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐59)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
-## [20. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [19. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Standalone Components
 
@@ -236,15 +230,15 @@
 *   [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 *   [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 
-## [21. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [20. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐53)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐54)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
 *   [tmux-weather (⭐40)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
-## [22. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Deployment / Code Coverage
 

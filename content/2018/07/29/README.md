@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### C++ Libraries
 
-*   [libwally-core (⭐222)](https://github.com/ElementsProject/libwally-core)
+*   [libwally-core (⭐230)](https://github.com/ElementsProject/libwally-core)
 *   [secp256k1 (⭐1.6k)](https://github.com/bitcoin-core/secp256k1)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
@@ -173,7 +173,7 @@
 
 ### Miscellaneous
 
-*   [Captcha (⭐920)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Captcha (⭐936)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ---
 

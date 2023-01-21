@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 19, 2021
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,8 +22,8 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [smartcore (⭐410)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
-*   [linfa (⭐2.1k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
+*   [smartcore (⭐420)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
+*   [linfa (⭐2.2k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -142,59 +142,44 @@
 
 *   [Vizzu (⭐1.6k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Airbnb CSS / Sass Styleguide (⭐6.6k)](https://github.com/airbnb/css) - Airbnb
-*   [Airbnb CSS-in-JavaScript Style Guide](https://airbnb.io/javascript/css-in-javascript/) - Airbnb
-
-### JavaScript / React
-
-*   [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
-
-### Ruby / Tornado
-
-*   [Ruby Style Guide (⭐3.5k)](https://github.com/airbnb/ruby) - Airbnb
-
-## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-react-ts-starter (⭐87)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
+*   [vite-react-ts-starter (⭐93)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-follow-tooltip (⭐2)](https://github.com/gVguy/vue-follow-tooltip) - Tiny tooltip directive for Vue 3.
-*   [vue-icomoon (⭐19)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [vue-icomoon (⭐20)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 
-## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [12. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Dependency Management
 
 *   [Deepfence ThreatMapper (⭐2.3k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
-## [14. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [13. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
-*   [pixie (⭐4.1k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
+*   [pixie (⭐4.2k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
 
-## [15. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Tooling
 
 *   [REVISE: REvealing VIsual biaSEs (⭐91)](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
 
-## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [RubyLichtenstein/RxTest (⭐283)](https://github.com/RubyLichtenstein/RxTest) - Kotlin DSL for testing RxJava2
 
-## [17. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [16. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Resources
 
@@ -223,6 +208,7 @@
 
 *   [Parity YouTube](https://www.youtube.com/c/paritytech)
     *   [Substrate Seminar (YouTube Archive)](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
+    *   [Sub0 Conference Nov. 2022](https://youtube.com/playlist?list=PLOyWqupZ-WGvywLqJDsMIYdCn8QEa2ShQ)
     *   [Sub0 Conference Oct. 2020](https://www.youtube.com/playlist?list=PLp0_ueXY_enUZk1RuEAU9ly5h0wy5FuLs)
     *   [Sub0 Conference Dec. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWZ4UZE7rM0hdT8Z_ZTjU5V)
     *   [Sub0 Conference Apr. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)
@@ -246,13 +232,13 @@
 
 *   [Scales (⭐7)](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
-*   [al8n/stretto (⭐305)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
+*   [al8n/stretto (⭐313)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [18. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Admin Interface
 
@@ -260,7 +246,7 @@
 
 ### Core Extensions
 
-*   [Bitwise (⭐41)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
+*   [Bitwise (⭐42)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
 
 ### Email
 

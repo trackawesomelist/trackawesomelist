@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,7 +53,7 @@
 
 ### Eventhandling
 
-*   [event\_bus (⭐656)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐658)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 
@@ -61,7 +61,7 @@
 
 ### Networking
 
-*   [download (⭐31)](https://github.com/asiniy/download) - Download files from the internet easily.
+*   [download (⭐32)](https://github.com/asiniy/download) - Download files from the internet easily.
 
 ### Third Party APIs
 
@@ -111,7 +111,7 @@
 
 ### Colors
 
-*   [ChromaColorPicker (⭐535)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐538)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Utility / Barcode
 

@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -258,7 +258,7 @@
 *   Can manage everything
     *   ZSH plugins/UNIX commands on [GitHub](https://github.com) and [Bitbucket](https://bitbucket.org)
     *   Gist files ([gist.github.com](https://gist.github.com/discover))
-    *   Externally managed plugins e.g., [oh-my-zsh (⭐153k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) plugins/themes
+    *   Externally managed plugins e.g., [oh-my-zsh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) plugins/themes
     *   Binary artifacts on [GitHub Releases](https://help.github.com/articles/about-releases/)
     *   Local plugins
     *   etc. (you can add your [own sources (⭐5.3k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)

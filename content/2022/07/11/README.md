@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,13 +16,13 @@
 
 ### Notification
 
-*   [react-local-toast (⭐117)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
+*   [react-local-toast (⭐119)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
 
 ## [3. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
-*   [Python 835 Parser (⭐37)](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
+*   [Python 835 Parser (⭐39)](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [CubicBezier (⭐135)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/isaced/CubicBezier) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
+*   [CubicBezier (⭐136)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/isaced/CubicBezier) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 
 ## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -51,14 +51,14 @@
 ### Mobile
 
 *   ⭐ [SBCL](http://www.sbcl.org/index.html) - Steel Bank Common Lisp. A fork of CMUCL; compiles to machine code. [Standard compliance](http://www.sbcl.org/manual/index.html#ANSI-Conformance). Public domain, with some parts under [Expat](https://directory.fsf.org/wiki/License:Expat) and [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-    *   see also: [sbcl-librarian (⭐58)](https://github.com/quil-lang/sbcl-librarian) -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Full example (⭐58)](https://github.com/quil-lang/sbcl-librarian/tree/main/example).
+    *   see also: [sbcl-librarian (⭐66)](https://github.com/quil-lang/sbcl-librarian) -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Full example (⭐66)](https://github.com/quil-lang/sbcl-librarian/tree/main/example).
 
 ### Changing the syntax
 
-*   ⭐ [cl-interpol (⭐46)](https://github.com/edicl/cl-interpol/) - A set of reader modifications to allow string interpolation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   ⭐ [cl-interpol (⭐47)](https://github.com/edicl/cl-interpol/) - A set of reader modifications to allow string interpolation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [mstrings](https://git.sr.ht/\~shunter/mstrings) -  a reader macro to provide visually appealing multiline blocks. An M-string trims leading whitespace, concatenates lines together, etc. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [pythonic-string-reader (⭐14)](https://github.com/smithzvk/pythonic-string-reader) - A simple and unobtrusive read table modification inspired by Python's three quote strings. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-heredoc (⭐10)](https://github.com/outergod/cl-heredoc) - a ["heredocs" (⭐10)](https://github.com/outergod/cl-heredoc) dispatcher. [GPL3](http://www.gnu.org/copyleft/gpl.html). Allows to write: `#>eof>Write whatever (you) "want", no matter what characters, until the magic end sequence has been reached.eof`
+*   [cl-heredoc (⭐11)](https://github.com/outergod/cl-heredoc) - a ["heredocs" (⭐11)](https://github.com/outergod/cl-heredoc) dispatcher. [GPL3](http://www.gnu.org/copyleft/gpl.html). Allows to write: `#>eof>Write whatever (you) "want", no matter what characters, until the magic end sequence has been reached.eof`
 
 ### HTTP Servers / Hunchentoot plugins
 
@@ -68,15 +68,15 @@
 
 ### Templates / Petite-Vue
 
-*   [vite-petite-vue-starter (⭐12)](https://github.com/misitebao/vite-petite-vue-starter) - Starter template.
+*   [vite-petite-vue-starter (⭐13)](https://github.com/misitebao/vite-petite-vue-starter) - Starter template.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-web-update-notification (⭐55)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
+*   [vite-plugin-web-update-notification (⭐91)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest (⭐7.2k)](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
+*   [vitest (⭐7.5k)](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
 
 ## [9. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
@@ -127,7 +127,7 @@
 ### Search Engines
 
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
-    *   [SearxNG (⭐3.7k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
+    *   [SearxNG (⭐3.9k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 
 ## [14. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

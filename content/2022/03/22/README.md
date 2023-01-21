@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Apps
 
-*   [DDraceNetwork (⭐365)](https://github.com/ddnet/ddnet/) - Cooperative 2D platformer with optional [Vulkan backend (⭐365)](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib (⭐365)](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
+*   [DDraceNetwork (⭐371)](https://github.com/ddnet/ddnet/) - Cooperative 2D platformer with optional [Vulkan backend (⭐371)](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib (⭐371)](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
 
 ## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -71,17 +71,17 @@
 ### Starter apps and CLIs
 
 *   [awesome-arcgis (⭐21)](https://github.com/esri-es/awesome-arcgis/) - Awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
-*   [awesome-earthobservation-code (⭐895)](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
+*   [awesome-earthobservation-code (⭐933)](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
 *   [awesome-geojson (⭐1.9k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
 *   [awesome-geospatial (⭐3k)](https://github.com/sacridini/Awesome-Geospatial) - Databases, radar, lidar, web map development, etc.
-*   [awesome-gis (⭐3.1k)](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-*   [awesome-json-datasets (⭐2.6k)](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
+*   [awesome-gis (⭐3.2k)](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
+*   [awesome-json-datasets (⭐2.7k)](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
 *   [awesome-open-geoscience (⭐1k)](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
 *   [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets.
-*   [awesome-remote-sensing-change-detection (⭐943)](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
-*   [awesome-satellite-imagery-datasets (⭐2.9k)](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
-*   [awesome-semantic-segmentation (⭐9.6k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
-*   [awesome-vector-tiles (⭐1.8k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
+*   [awesome-remote-sensing-change-detection (⭐997)](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
+*   [awesome-satellite-imagery-datasets (⭐3k)](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
+*   [awesome-semantic-segmentation (⭐9.7k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
+*   [awesome-vector-tiles (⭐1.9k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

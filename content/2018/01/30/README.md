@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,11 +26,11 @@
 
 ### Software / Games
 
-*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐12k)](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`
+*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐13k)](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`
 
 ### Software / Proxy
 
-*   [Redbird (⭐4.3k)](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt, and Docker support. `BSD-2-Clause` `Javascript`
+*   [Redbird (⭐4.4k)](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt, and Docker support. `BSD-2-Clause` `Javascript`
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Cryptography
 
-*   [digestpp (⭐149)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐150)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

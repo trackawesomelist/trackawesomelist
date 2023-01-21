@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [Polyglot (⭐318)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+*   [Polyglot (⭐323)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 *   [Globalize (⭐4.7k)](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
@@ -18,10 +18,6 @@
 ### Styling
 
 *   [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
-
-### Tools
-
-*   [shadow-dom-utils (⭐10)](https://github.com/43081j/shadow-dom-utils) - Set of useful utilities for dealing with shadow DOM, primarily for test environment.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -70,20 +66,20 @@
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid (⭐271)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+*   [vite-plugin-solid (⭐285)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
 ### Rollup Plugins / Included in Vite
 
-*   [@rollup/plugin-alias (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
-*   [@rollup/plugin-commonjs (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
-*   [@rollup/plugin-dynamic-import-vars (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
-*   [@rollup/plugin-json (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+*   [@rollup/plugin-alias (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
+*   [@rollup/plugin-commonjs (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
+*   [@rollup/plugin-dynamic-import-vars (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
+*   [@rollup/plugin-json (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-dsv (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
-*   [@rollup/plugin-graphql (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
-*   [@rollup/plugin-replace (⭐2.9k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
+*   [@rollup/plugin-dsv (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+*   [@rollup/plugin-graphql (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
+*   [@rollup/plugin-replace (⭐3k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
 
 ---
 

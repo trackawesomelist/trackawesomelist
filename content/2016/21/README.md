@@ -1,8 +1,8 @@
 # Awesome List Updates on May 23 - May 29, 2016
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -172,11 +172,11 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Misc
 
-*   [circuit\_breaker (⭐24)](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+*   [circuit\_breaker (⭐26)](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐747)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐751)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ### Web Frameworks
 
@@ -526,25 +526,19 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 *   [mciparelli/cycle-hmr-example ★0 (⭐0)](https://github.com/mciparelli/cycle-hmr-example) - A Cycle.js starter project using browserify and cycle-hmr
 
-## [28. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
-
-### Charts
-
-*   [insights (⭐198)](https://github.com/ignacioola/insights) -  Library to visualize and navigate graphs
-
-## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
 
-## [30. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [29. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Augmented & Virtual Reality
 
 *   [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 
-## [31. Typography](/content/deanhume/typography/week/README.md)
+## [30. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -562,13 +556,13 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 *   [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 
-## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [31. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / V companies
 
 *   Vena Solutions <https://engineering.vena.io/>
 
-## [33. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [32. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
@@ -578,19 +572,19 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 *   [ErupteD (⭐46)](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
 
-## [34. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [33. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Semantic Segmentation
 
 *   [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
 
-## [35. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [34. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Tools / Slides and Notes
 
 *   [Build with Flexbox](http://flexbox.buildwithreact.com/)
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Email
 
@@ -598,15 +592,15 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Framework Components
 
-*   [dayron (⭐155)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐156)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Coding Style
 
 *   [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
-## [38. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [37. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
@@ -624,7 +618,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 *   [Bloomery (⭐15)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
 
-## [39. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [38. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### Architecture
 
@@ -636,7 +630,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 *   **[Version Control](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/workflow/version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
-## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -646,19 +640,19 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 *   [Hanna (⭐29)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
-## [41. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [40. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [Bento4 (⭐1.5k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 
-## [42. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [41. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Boilerplates / Other
 
-*   [bozon (⭐752)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐753)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
-## [43. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [42. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 

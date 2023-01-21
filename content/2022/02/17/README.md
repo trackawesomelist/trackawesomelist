@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,11 +30,11 @@
 ### Programming Languages / PHP
 
 *   [composer-plugin-nixify (⭐12)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐66)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [nix-shell (⭐79)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### NixOS Modules / Scala
 
-*   [base16.nix (⭐73)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐102)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐80)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐129)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

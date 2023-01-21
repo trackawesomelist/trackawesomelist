@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 14, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Petra (⭐26)](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
+*   📁 [Petra (⭐27)](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Threat intelligence / Threat signature packages and collections
 
-*   [FireEye's Sunburst Countermeasures (⭐549)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
+*   [FireEye's Sunburst Countermeasures (⭐548)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 
 ## [15. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -154,19 +154,13 @@
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### OCaml / PicoLisp
-
-*   [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) (:construction: *in process*)
-
-## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-toasts (⭐134)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
-*   [vue-use-sound (⭐306)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
-*   [@vueform/multiselect (⭐551)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
+*   [vue-my-toasts (⭐133)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
+*   [vue-use-sound (⭐311)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
+*   [@vueform/multiselect (⭐562)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 
 ### Components & Libraries / Frameworks
 

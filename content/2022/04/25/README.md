@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -129,7 +129,7 @@
 
 ### Applications
 
-*   [shuttle (⭐1.4k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐1.6k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
 
 ### Development tools / Build system
 
@@ -137,7 +137,7 @@
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
-### Twitter
+### Alternative Frontends
 
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
 
@@ -145,7 +145,7 @@
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐27)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [ViTauri (⭐28)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -157,15 +157,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [junnplus/nvim-lsp-setup (⭐191)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+*   [junnplus/nvim-lsp-setup (⭐192)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐152)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐168)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐313)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐329)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ---
 

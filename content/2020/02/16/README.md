@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Awesome Biomarkers (⭐217)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [Awesome Biomarkers (⭐230)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Front-End Development
 
-*   [Yew (⭐1k)](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+*   [Yew (⭐1.1k)](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 
 ## [9. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

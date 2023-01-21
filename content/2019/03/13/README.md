@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -110,8 +110,8 @@
 
 ### Tools / Community Chat Rooms
 
-*   [xargo (⭐988)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
-    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐239)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
+*   [xargo (⭐991)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
+    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐241)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
 
 ---
 

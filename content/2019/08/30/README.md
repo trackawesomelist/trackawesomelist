@@ -2,24 +2,24 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Data Manipulation / Data Containers
+### Data Manipulation / Data Frames
 
-*   [swifter (⭐2.1k)](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
+*   [swifter (⭐2.2k)](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 
 ### Data Manipulation / Pipelines
 
-*   [meza (⭐399)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
+*   [meza (⭐402)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 
 ### Model Explanation / NLP
 
-*   [Auralisation (⭐40)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
-*   [CapsNet-Visualization (⭐388)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
+*   [Auralisation (⭐39)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
+*   [CapsNet-Visualization (⭐387)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
 *   [lucid (⭐4.5k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 *   [Netron (⭐21k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
 *   [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
@@ -41,7 +41,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code (⭐1.6k)](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`
+*   [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code (⭐1.7k)](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`
 
 ### Software / Miscellaneous
 
@@ -57,11 +57,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Crypto Dashboard (⭐211)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
+*   [Vue Crypto Dashboard (⭐212)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweetalert2 (⭐582)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
+*   [vue-sweetalert2 (⭐586)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 *   [vue-modality (⭐5)](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)

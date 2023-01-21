@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,12 +16,12 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [completions (clarketm) (⭐43)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐5.7k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐91)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐8)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
+*   [completions (clarketm) (⭐44)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐5.8k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐91)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐9)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
 *   [completions (zchee) (⭐91)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
-*   [completions (zsh-users) (⭐5.7k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
-*   [fzshell (⭐55)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
-*   [osx-zsh-completions (⭐8)](https://github.com/nilsonholger/osx-zsh-completions) - Tab completions for some macOS-specific commands like `launchctl`.
-*   [pipx (⭐1)](https://github.com/omBratteng/zsh-plugin-pipx) - Tab completions for [pipx (⭐5.8k)](https://github.com/pypa/pipx).
+*   [completions (zsh-users) (⭐5.8k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
+*   [fzshell (⭐57)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
+*   [osx-zsh-completions (⭐9)](https://github.com/nilsonholger/osx-zsh-completions) - Tab completions for some macOS-specific commands like `launchctl`.
+*   [pipx (⭐1)](https://github.com/omBratteng/zsh-plugin-pipx) - Tab completions for [pipx (⭐5.9k)](https://github.com/pypa/pipx).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -35,7 +35,7 @@
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Video AI tools / Text-related Generative Tools
 
 *   [baowenbo/DAIN (⭐7.7k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 *   [Dain-App 1.0 \[Nvidia Only\] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
@@ -44,13 +44,13 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [godot-ply (⭐151)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
+*   [godot-ply (⭐169)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [Apache Ballista (⭐412)](https://github.com/apache/arrow-ballista) \[Rust] - distributed compute platform powered by Apache Arrow.
+*   [Apache Ballista (⭐450)](https://github.com/apache/arrow-ballista) \[Rust] - distributed compute platform powered by Apache Arrow.
 
 ---
 

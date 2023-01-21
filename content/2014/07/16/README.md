@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,12 +41,12 @@
 
 ### API
 
-*   [WebAPI Contrib (⭐772)](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+*   [WebAPI Contrib (⭐773)](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
 
 ### Assets
 
-*   [Cassette (⭐535)](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
-*   [Bundler (⭐266)](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
+*   [Cassette (⭐537)](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
+*   [Bundler (⭐265)](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
 
 ### Authentication and Authorization
 
@@ -58,7 +58,7 @@
 
 ### Caching
 
-*   [CacheCow (⭐813)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
+*   [CacheCow (⭐815)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
 
 ### Code Analysis and Metrics
 
@@ -70,12 +70,12 @@
 
 ### Internationalization
 
-*   [i18n (⭐542)](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
+*   [i18n (⭐543)](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
 
 ### IoC
 
 *   [Castle Windsor (⭐1.4k)](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
-*   [Autofac (⭐4k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+*   [Autofac (⭐4.1k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 
 ### Logging
 
@@ -83,7 +83,7 @@
 
 ### ORM
 
-*   [Dapper Extensions (⭐1.6k)](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
+*   [Dapper Extensions (⭐1.7k)](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 *   [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 
 ### Queue
@@ -98,7 +98,7 @@
 
 ### Testing
 
-*   [AutoFixture (⭐2.8k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
+*   [AutoFixture (⭐2.9k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 
 ### Web Servers
 
@@ -106,7 +106,7 @@
 
 ### WebSocket
 
-*   [Fleck (⭐2k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
+*   [Fleck (⭐2.1k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
 *   [Websocket-Sharp (⭐4.9k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 
 ## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
@@ -151,7 +151,7 @@
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Spark (⭐34k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐35k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -165,7 +165,7 @@
 
 ### Julia / Data Analysis / Data Visualization
 
-*   [Distributions (⭐939)](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
+*   [Distributions (⭐948)](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
 
 ### Lua / General-Purpose Machine Learning
 
@@ -202,7 +202,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐564)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐566)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -216,7 +216,7 @@
 
 *   [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 *   [BigML](https://bigml.com) - A library that contacts external servers.
-*   [Restricted Boltzmann Machines (⭐923)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
+*   [Restricted Boltzmann Machines (⭐928)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -229,7 +229,7 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [CardMagic-Classifier (⭐651)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
+*   [CardMagic-Classifier (⭐652)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 
 ### Ruby / Data Analysis / Data Visualization
 
@@ -245,9 +245,9 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [adam (⭐936)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
+*   [adam (⭐937)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 *   [bioscala (⭐105)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
-*   [BIDMach (⭐914)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [BIDMach (⭐915)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ---
 

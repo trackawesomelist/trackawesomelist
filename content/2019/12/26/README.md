@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,16 +46,16 @@
     *   [js\_of\_ocaml](http://ocsigen.org/js_of_ocaml) – Js\_of\_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
         *   [commonjs\_of\_ocaml (⭐13)](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js\_of\_ocaml project.
     *   [ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
-    *   [ocaml-uri (⭐86)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
+    *   [ocaml-uri (⭐87)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
     *   [Goji (⭐44)](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
-    *   [Syndic (⭐31)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
-    *   [ocaml-mustache (⭐73)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
+    *   [Syndic (⭐32)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
+    *   [ocaml-mustache (⭐74)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
     *   [atdjs (⭐9)](https://github.com/barko/atdjs) – atd code generator for OCaml/js\_of\_ocaml.
-    *   [jingoo (⭐104)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
+    *   [jingoo (⭐105)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
     *   [dispatch (⭐43)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
-    *   [Lambda Soup (⭐333)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
-    *   [Markup.ml (⭐139)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
-    *   [gen\_js\_api (⭐167)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
+    *   [Lambda Soup (⭐336)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+    *   [Markup.ml (⭐141)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
+    *   [gen\_js\_api (⭐170)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
     *   [routes (⭐111)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
 ## [3. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)

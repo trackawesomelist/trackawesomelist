@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -122,7 +122,7 @@
 
 ## [7. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / Utility
+### Utility
 
 *   [random (⭐15)](https://github.com/Delta456/random) - An all purpose random library written in V.
 
@@ -136,7 +136,7 @@
 
 ### UI / Barcode
 
-*   [ContainerController (⭐418)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
+*   [ContainerController (⭐421)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

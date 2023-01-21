@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,7 +47,7 @@
 
 ### Containers
 
-*   [dynamic\_bitset (⭐117)](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. \[MIT]
+*   [dynamic\_bitset (⭐118)](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. \[MIT]
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Communication / Collaboration and Team Tools
 
-*   [Caprine (⭐6.5k)](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Caprine (⭐6.6k)](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
@@ -83,32 +83,32 @@
 
 ### Learn
 
-*   [Product Management (⭐898)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
+*   [Product Management (⭐944)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 
 ## [8. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Entity Component System (ECS)
 
-*   [Artemis-odb (⭐722)](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
-*   [Ashley (⭐790)](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
+*   [Artemis-odb (⭐725)](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
+*   [Ashley (⭐796)](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
 
 ### Resources / Services
 
-*   [gdx-facebook (⭐63)](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
-*   [gdx-fireapp (⭐60)](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
+*   [gdx-facebook (⭐62)](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
+*   [gdx-fireapp (⭐61)](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
 *   [gdx-firebase (⭐34)](https://github.com/TomGrill/gdx-firebase) - Cross-platform (only Desktop/Android) API for Firebase.
-*   [gdx-gamesvcs (⭐105)](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
-*   [gdx-pay (⭐206)](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
+*   [gdx-gamesvcs (⭐106)](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
+*   [gdx-pay (⭐207)](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
 
 ### Resources / User Interface
 
-*   [gdx-skins (⭐441)](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
+*   [gdx-skins (⭐450)](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
 *   [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free Scene2D.UI skins with example code, custom drawables, and experimental features.
 
 ### Tutorials / Getting Started
 
 *   [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - General tutorial on using JSON for storing data.
-*   [Progress Bar Design (⭐353)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
+*   [Progress Bar Design (⭐358)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
 
 ### Community / Advanced
 
@@ -116,19 +116,19 @@
 
 ### Other Lists / Advanced
 
-*   [Game Networking (⭐5.2k)](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources.
-*   [Game Talks (⭐926)](https://github.com/hzoo/awesome-gametalks) - A curated list of gaming talks (development, design, etc).
+*   [Game Networking (⭐5.3k)](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources.
+*   [Game Talks (⭐929)](https://github.com/hzoo/awesome-gametalks) - A curated list of gaming talks (development, design, etc).
 *   [Java (⭐35k)](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 *   [Kotlin (⭐10k)](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff.
 *   [Magic Tools (⭐11k)](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 
 ## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509) - By Kim Scott.
 
-### Conferences / Hellonext
+### Conferences / Screeb
 
 *   [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 *   [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.

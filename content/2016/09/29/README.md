@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -71,8 +71,8 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-mysql (⭐100)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐117)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-mysql (⭐101)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
+*   [crystal-sqlite3 (⭐119)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

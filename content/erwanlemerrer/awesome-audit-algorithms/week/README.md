@@ -2,7 +2,7 @@
 
 A curated list of algorithms and papers for auditing black-box algorithms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 51 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 51 · 🏷️ Theory
 
 [ [Daily](/content/erwanlemerrer/awesome-audit-algorithms/README.md) / Weekly / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 

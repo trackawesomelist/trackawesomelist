@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 02, 2017
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-readline (⭐35)](https://github.com/vindarel/cl-readline) - a set of
+*   [cl-readline (⭐36)](https://github.com/vindarel/cl-readline) - a set of
     functions to edit lines as they are typed in, to maintain a list of
     previously-entered command lines, to recall and reedit them and
     perform csh-like history expansion.  Emacs and vi editing
@@ -38,7 +38,7 @@
 
 ### Documentation
 
-*   [RDoc (⭐740)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+*   [RDoc (⭐742)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -69,31 +69,25 @@
 
 *   [RxBinding (⭐9.7k)](https://github.com/JakeWharton/RxBinding)- RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.
 
-## [10. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Kyiv](https://www.facebook.com/groups/PapersWeLoveKyiv)
-
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Examples and funny stuff
 
-*   [crystal-patterns (⭐275)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
+*   [crystal-patterns (⭐280)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
 
-## [12. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [11. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Free fonts / Collections
 
 *   [Indestructible Type](https://github.com/indestructible-type) - An open-source font foundry
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Keyboard / Barcode
 
 *   [IQKeyboardManager (⭐16k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 
-## [14. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [13. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Utilities
 

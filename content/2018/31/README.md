@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 30 - Aug 05, 2018
 
-67 awesome lists updated this week.
+66 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -158,7 +158,7 @@
 *   NoSQL Databases
     *   [cassandra-driver (⭐1.3k)](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
     *   [happybase (⭐598)](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
-    *   [kafka-python (⭐5k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
+    *   [kafka-python (⭐5.1k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
     *   [py2neo](https://py2neo.org/) - A client library and toolkit for working with Neo4j.
     *   [pymongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
     *   [redis-py (⭐11k)](https://github.com/andymccurdy/redis-py) - The Python client for Redis.
@@ -346,7 +346,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 ### Authentication & OAuth
 
-*   [Padlock (⭐21)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
+*   [Padlock (⭐22)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
 
 ## [24. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -361,13 +361,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 *   [inconvergent](http://buy.inconvergent.net)
 
-## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Scratch / Play Scala
-
-*   [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html) (HTML)
-
-## [26. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [25. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -375,19 +369,19 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [MailCore (⭐80)](https://github.com/LiveUI/MailCore) – Sending e-mails via SMTP, MailGun and SendGrid.
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [XMLCoding (⭐8)](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
 
-## [27. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [26. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Utilities
 
 *   [shfrmn/cycle-lot (⭐2)](https://github.com/shfrmn/cycle-lot) - Handle dynamic lists of Cycle.js components with ease (full typesript support)
 
-## [28. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [27. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Azure Tools for Visual Studio Code (⭐29)](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
 
-## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [28. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -397,13 +391,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Appium-Native-Crawler (⭐48)](https://github.com/isonic1/Appium-Native-Crawler) - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / Special Purpose
 
 *   [`betafpv-f3`](https://github.com/JoshMcguigan/betafpv-f3) - For the BetaFPV F3 drone flight controller
 
-## [31. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [30. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra Distributions / Cassandra Compliant Databases on C++
 
@@ -440,13 +434,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [cqlmigrate (⭐45)](https://github.com/sky-uk/cqlmigrate) -  Cassandra CQL migration tool. cqlmigrate is a library for performing schema migrations on a cassandra cluster.
 *   [CassanddraRestfulAPI (⭐12)](https://github.com/rohitsakala/CassandraRestfulAPI) - CassandraRestfulAPI project exposes the cassandra data tables with the help of Restful API.
 
-## [32. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Video
 
 *   [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2 (⭐15k)](https://github.com/xbmc/xbmc/blob/master/README.md))
 
-## [33. Awesome](/content/craftcms/awesome/week/README.md)
+## [32. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Getting Started
 
@@ -457,30 +451,30 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [How to check for undefined variables](https://cruftlesscraft.com/how-to-check-for-undefined-variables) by Ben Rogerson - `24 July 2018`
 *   [Passing data from Twig to JavaScript](https://cruftlesscraft.com/passing-data-from-twig-to-javascript) by Ben Rogerson - `1 Aug 2018`
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
-*   [crystal-json-socket (⭐12)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐154)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐3)](https://github.com/foi/ruby-json-socket)
+*   [crystal-json-socket (⭐12)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐155)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐3)](https://github.com/foi/ruby-json-socket)
 
 ### Processes and Threads
 
-*   [await\_async (⭐75)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
+*   [await\_async (⭐76)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
 
-## [35. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+## [34. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
 ### Related Lists
 
 *   [awesome-pcaptools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 *   [awesome-malware-analysis (⭐9.3k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
-## [36. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [35. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Starter Story - <https://starterstory.com/>
 
-## [37. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [36. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Podcasts / Other Tools
 
@@ -491,13 +485,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [lit-ntml (⭐77)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
-## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
 *   [The Site Reliability Workbook: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
 
-## [39. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation / Code libraries and bindings
 
@@ -509,7 +503,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 ### Host-based tools / Tarpits
 
-*   [Artillery (⭐930)](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
+*   [Artillery (⭐942)](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
 
 ### Incident Response tools / IR management consoles
 
@@ -517,11 +511,11 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
-*   [DumpsterFire (⭐882)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
+*   [DumpsterFire (⭐889)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
 
 ### Security monitoring / Service and performance monitoring
 
-*   [osquery (⭐19k)](https://github.com/facebook/osquery) - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
+*   [osquery (⭐20k)](https://github.com/facebook/osquery) - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
 
 ### Threat intelligence / Threat hunting
 
@@ -532,15 +526,15 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 ### Tor Onion service defenses / Threat signature packages and collections
 
 *   [OnionBalance](https://onionbalance.readthedocs.io/) - Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.
-*   [Vanguards (⭐148)](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
+*   [Vanguards (⭐152)](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [HardenTools (⭐2.3k)](https://github.com/securitywithoutborders/hardentools) - Utility that disables a number of risky Windows features.
-*   [NotRuler (⭐81)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.8k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
+*   [HardenTools (⭐2.4k)](https://github.com/securitywithoutborders/hardentools) - Utility that disables a number of risky Windows features.
+*   [NotRuler (⭐83)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.9k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 *   [WMI Monitor (⭐113)](https://github.com/realparisi/WMI_Monitor) - Log newly created WMI consumers and processes to the Windows Application event log.
 
-## [40. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [39. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
@@ -558,7 +552,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/mgramin/awesome-db-tools/blob/master/README.md/contributing.md) first.
 
-## [41. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [40. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### General Architecture
 
@@ -594,7 +588,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 *   [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -602,7 +596,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 ### UI
 
-*   [Flushbar (⭐882)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+*   [Flushbar (⭐898)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 
 ### UI / Material Design
 
@@ -612,7 +606,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [WebView (⭐1.4k)](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 
-## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -646,13 +640,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐376)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐379)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
-*   [is (⭐19)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
+*   [is (⭐20)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 
-## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [43. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -673,21 +667,17 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up.
 *   [React Native - Building Mobile Apps with JavaScript](https://www.packtpub.com/application-development/react-native-building-mobile-apps-javascript) - Your go-to guide to creating truly native iOS and Android mobile applications using React and JavaScript.
 
-## [45. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Events
-
-*   [EasyFutures (⭐40)](https://github.com/DimaMishchenko/EasyFutures) - 🔗Futures & Promises. Easy to use. Highly combinable.
+## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐135)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐137)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ### Video / Barcode
 
 *   [Cabbage (⭐1.4k)](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
 
-## [46. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [45. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -769,7 +759,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [CRDTs discussion (⭐385)](https://github.com/ipfs/notes/issues/23)
 
-## [47. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -788,20 +778,20 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [CakeMail.RestClient (⭐8)](https://github.com/Jericho/CakeMail.RestClient) - Client for CakeMail's API. Allows you to send transactional emails, bulk emails, manage lists and contacts, etc.
 
-## [48. Guides](/content/NARKOZ/guides/week/README.md)
+## [47. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / Machine Learning
 
 *   [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
-## [49. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [48. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Posts
 
 *   [On Toxic Jobs, Low Self-Esteem, & Interviewing](https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a) - By Rachel Thomas.
 *   [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - By Tobbe Gyllebring.
 
-## [50. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [49. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
@@ -811,7 +801,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools is a toolkit for constructing robust, scalable and distributed applications leveraging Vert.x including modules for authentication, cluster management, Firebase Cloud Messaging, DynamoDB, fully generic queries, REST, and more.
 
-## [51. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [50. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### Mobile
 
@@ -821,19 +811,19 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
-## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [Vue + TypeScript Cookbook (⭐269)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 
-## [53. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [52. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
-*   [Typescript React With Mobx Starter (⭐349)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
+*   [Typescript React With Mobx Starter (⭐353)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 
-## [54. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [53. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -849,7 +839,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 ### GIS
 
-*   [CoordinateSharp (⭐277)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+*   [CoordinateSharp (⭐282)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
 
 ### IDE
 
@@ -864,7 +854,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Catel](https://www.catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 
-## [55. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [54. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / D companies
 
@@ -883,13 +873,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   Timescale <https://blog.timescale.com/>
 
-## [56. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [55. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Contributors
 
 *   [Sergey Pikhovkin](https://github.com/pikhovkin)
 
-## [57. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [56. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -913,7 +903,7 @@ Learn about security and performance.
 
 Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
 
-## [58. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [57. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -923,7 +913,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 *   [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 
-## [59. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [58. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Courses / Build system (ROS2)
 
@@ -947,23 +937,23 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   Node.js Client & Web Bridge Ready for ROS 2.0
 *   RCLAda: the Ada client library for ROS2
 
-## [60. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [59. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [transwarp (⭐591)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐592)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
 ### Math
 
 *   [Geometric Tools](https://www.geometrictools.com) - C++ library for computing in the fields of mathematics, graphics, image analysis and physics. \[Boost] [website](https://www.geometrictools.com)
 
-## [61. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [60. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Crypto Papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [62. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [61. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### CSP
 
@@ -975,31 +965,31 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   [DOMPurify (⭐9.8k)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
 
-## [63. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [62. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Security / Other
 
 *   [Themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 
-## [64. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [63. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Other lists / Hash functions
 
 *   [Awesome crypto-papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [65. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [64. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Video Production
 
 *   [MOS-connection (⭐13)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
-## [66. Typography](/content/deanhume/typography/week/README.md)
+## [65. Typography](/content/deanhume/typography/week/README.md)
 
 ### Web Fonts & Web Performance
 
 *   [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 
-## [67. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [66. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Types of QA
 

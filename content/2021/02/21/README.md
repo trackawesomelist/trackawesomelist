@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,16 +32,16 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐372)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [Anima (⭐399)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot GamePad (⭐100)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐726)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+*   [Godot GamePad (⭐103)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
+*   [SmartShape2D (⭐745)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 
-*   [Godex (⭐733)](https://github.com/GodotECS/godex) - An entity component system library.
+*   [Godex (⭐760)](https://github.com/GodotECS/godex) - An entity component system library.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -60,13 +60,13 @@
 
 ### Software / Miscellaneous
 
-*   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐10)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
+*   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐12)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
 
 ## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [Maki Nage (⭐31)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
+*   [Maki Nage (⭐32)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
 
 ## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Overlay
 
-*   [reboron (⭐26)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
+*   [reboron (⭐27)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
 
 ---
 

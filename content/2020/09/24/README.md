@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,7 +53,7 @@
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Applications / Serialization
+### Serialization
 
 *   [vproto (⭐46)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
@@ -61,13 +61,13 @@
 
 ### Utilities
 
-*   [Nigiri (⭐175)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+*   [Nigiri (⭐188)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 *   [Nigiri in Travis (⭐2)](https://github.com/vulpemventures/nigiri-travis) - Travis template for adding Nigiri to your Travis (or Github Action) pipeline.
-*   [hal (⭐80)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
+*   [hal (⭐90)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 
 ### Blockchain API and Web services
 
-*   [Esplora (⭐702)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
+*   [Esplora (⭐722)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 
 ### Blockchain Explorers
 
@@ -75,7 +75,7 @@
 
 ### Full nodes
 
-*   [btcd (⭐5k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
+*   [btcd (⭐5.1k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [echarts-for-vue (⭐64)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
+*   [echarts-for-vue (⭐65)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 
 ### Components & Libraries / Utilities
 
@@ -104,7 +104,7 @@
 ### Developer Tools / Command Line Tools
 
 *   [xonsh](https://xon.sh/contents.html) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [xxh (⭐4k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [xxh (⭐4.1k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Email Clients
 

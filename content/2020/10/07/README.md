@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -150,7 +150,7 @@
 
 ### Tools / Network protocol
 
-*   [dtls-fuzzer (⭐18)](https://github.com/assist-project/dtls-fuzzer) - A Java tool which performs protocol state fuzzing of DTLS servers.
+*   [dtls-fuzzer (⭐20)](https://github.com/assist-project/dtls-fuzzer) - A Java tool which performs protocol state fuzzing of DTLS servers.
 
 ## [20. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -172,11 +172,11 @@
 
 ### Runtimes / Other / unknown licence
 
-*   [adawebpack (⭐34)](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
+*   [adawebpack (⭐37)](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
 
 ### Terminal User Interface / Other / unknown licence
 
-*   [curses (⭐11)](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
+*   [curses (⭐10)](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
 *   [ncurses-ada95](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 
 ### 3D / Other / unknown licence
@@ -189,17 +189,17 @@
 
 ### Generation / Other / unknown licence
 
-*   [record-flux (⭐86)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+*   [record-flux (⭐94)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 
 ### Math / Other / unknown licence
 
-*   [lalg (⭐1)](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
+*   [lalg (⭐3)](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 
 ### Cryptography / Other / unknown licence
 
 *   [threefish (⭐5)](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
-*   [ada-crypto-library (⭐84)](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86\_64 hardware architecture.
-*   [spark-nacl (⭐81)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
+*   [ada-crypto-library (⭐83)](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86\_64 hardware architecture.
+*   [spark-nacl (⭐84)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 *   [libsodium-ada (⭐7)](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 *   [ada-libsecret (⭐1)](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 
@@ -209,7 +209,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
 
-*   [libadalang (⭐122)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+*   [libadalang (⭐125)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 
 ### Format Readers and Writers / Other / unknown licence
 
@@ -217,7 +217,7 @@
 
 ### Networking and Communication Middleware / Other / unknown licence
 
-*   [adasockets (⭐12)](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
+*   [adasockets (⭐13)](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
 *   [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D\_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
 *   [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
 
@@ -226,13 +226,13 @@
 *   [axmpp (⭐7)](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
 *   [weechat-ada (⭐3)](https://github.com/onox/weechat-ada) - Ada 2012 library for WeeChat plug-ins.
 *   [weechat-canberra (⭐1)](https://github.com/onox/weechat-canberra) - A WeeChat plug-in written in Ada 2012 that plays sounds using Canberra.
-*   [weechat-emoji (⭐1)](https://github.com/onox/weechat-emoji) - A WeeChat plug-in written in Ada 2012 that displays emoji.
+*   [weechat-emoji (⭐2)](https://github.com/onox/weechat-emoji) - A WeeChat plug-in written in Ada 2012 that displays emoji.
 
 ### Graphics and Multimedia / Other / unknown licence
 
-*   [orka (⭐47)](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
+*   [orka (⭐50)](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 *   [adagl (⭐7)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
-*   [sdlada (⭐89)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+*   [sdlada (⭐93)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 *   [ada-nanovg (⭐1)](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 *   [free-type-ada (⭐1)](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 
@@ -245,7 +245,7 @@
 
 *   [opus-ada (⭐2)](https://github.com/onox/opus-ada) - Ada 2012 bindings for the Opus audio codec.
 *   [canberra-ada (⭐4)](https://github.com/onox/canberra-ada) - Ada 2012 bindings for libcanberra, an implementation of the XDG Sound Theme and Name Specifications.
-*   [ada-soundio (⭐5)](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio.
+*   [ada-soundio (⭐6)](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio.
 *   [oto (⭐3)](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
 
 ### Localization / Other / unknown licence
@@ -274,7 +274,7 @@
 *   [win32ada (⭐16)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
 *   [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - Ada bindings for the Microsft NetFramework Api.
 *   [ada-net-framework (⭐5)](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
-*   [ada-winrt (⭐8)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
+*   [ada-winrt (⭐10)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 *   [ada-win32 (⭐4)](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
 
 ### Drivers / Other / unknown licence

@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,9 +14,9 @@
 
 ## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Continuous Integration & Continuous Deployment
+### Software / Continuous Integration & Continuous Deployment
 
-*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐6.6k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
+*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐6.7k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Validation
 
-*   [validator (⭐25)](https://github.com/Nicolab/crystal-validator) - Data check and validation
+*   [validator (⭐27)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ## [6. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Wireless Network Tools
 
-*   [PSKracker (⭐299)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
+*   [PSKracker (⭐308)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
 
 ---
 

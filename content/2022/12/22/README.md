@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 22, 2022
 
-26 awesome lists updated today.
+25 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Using ChatGPT in other apps
 
-*   [GPT AI Assistant using LINE and Vercel (⭐390)](https://github.com/memochou1993/gpt-ai-assistant)
+*   [GPT AI Assistant using LINE and Vercel (⭐552)](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Self-hosted
 
-*   [Memos (⭐4.3k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐5.4k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Driver crates / Other
 
-*   [ADE791x](https://crates.io/crates/ade791x) - SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - [github (⭐0)](https://github.com/GrepitAB/ade791x-rs) - ![crates.io](https://img.shields.io/crates/v/ade791x.svg)
+*   [ADE791x](https://crates.io/crates/ade791x) - SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - [github (⭐1)](https://github.com/GrepitAB/ade791x-rs) - ![crates.io](https://img.shields.io/crates/v/ade791x.svg)
 *   [ebyte-e32](https://crates.io/crates/ebyte-e32) - SERIAL - Ebyte E32 LoRa module driver - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-EBYTE-E32-LoRa-Modules/) - ![crates.io](https://img.shields.io/crates/v/ebyte-e32.svg)
 
 ### Driver crates / WIP
@@ -49,7 +49,7 @@
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Applications / Web
+### Web
 
 *   [Heroku Buildpack for V (⭐0)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
 
@@ -57,7 +57,7 @@
 
 ### View components
 
-*   [Phlex (⭐637)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐648)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -66,8 +66,8 @@
 *   [great\_expectations (⭐7.8k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 *   [pandera (⭐1.9k)](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library.
 *   [deepchecks (⭐2.3k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [evidently (⭐3k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐686)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [evidently (⭐3.1k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
+*   [TensorFlow Data Validation (⭐688)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -81,7 +81,7 @@
 
 ### MongoDB
 
-*   [MongoKitten (⭐646)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐647)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -89,11 +89,11 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐349)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐350)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐41)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐42)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 
@@ -117,7 +117,7 @@
 
 ### Tools
 
-*   [rpi-cookstrap (⭐5)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+*   [rpi-cookstrap (⭐6)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
 
 ## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -260,25 +260,28 @@
 
 ### JupyterLab Extensions
 
-*   [jupyter-panel-proxy (⭐6)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server.
+*   [jupyter-panel-proxy (⭐6)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->
 
 ## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480)
 
-### Stable Diffusion Inbox / Web UI for Stable Diffusion via Google Colab
+### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [camenduru/stable-diffusion-webui-colab (⭐215)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+*   [camenduru/stable-diffusion-webui-colab (⭐362)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
 
 ### Image Synthesis / Promptism
 
-*   [openai/point-e (⭐2k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐3.9k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / ChatGPT
 
-*   [Awesome ChatGPT Prompts](https://prompts.chat/): a repo that includes curated ChatGPT prompts
+*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+
 *   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
 
 ## [17. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
@@ -312,7 +315,7 @@
 
 ### Front-End Development
 
-*   [Web Components (⭐2k)](https://github.com/web-padawan/awesome-web-components#readme)
+*   [Web Components (⭐2.1k)](https://github.com/web-padawan/awesome-web-components#readme)
 
 ## [21. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
@@ -331,13 +334,7 @@
 
 *   [Honda Civic Type R](https://www.honda.co.jp/CIVICTYPE-R/configurator/) - Configurator (Japanese).
 
-## [23. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Snow Forged](https://drive.google.com/file/d/1--u-E0RiBN-1kw8opo4JfPNlXNz7QBoe/view?usp=sharing) - A stripped-down ruleset for playing short, fun, Christmas-themed adventures
-
-## [24. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
@@ -347,7 +344,7 @@
 
 *   [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
-## [25. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [24. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Components
 
@@ -358,7 +355,7 @@
 *   Created by [@mateusortiz](https://github.com/mateusortiz) in 2014.
 *   Maintained by [@web-padawan](https://github.com/web-padawan) since 2018.
 
-## [26. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [25. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Official Resources
 
@@ -405,4 +402,5 @@
 
 ---
 
+- Prev: [Dec 23, 2022](/content/2022/12/23/README.md)
 - Next: [Dec 21, 2022](/content/2022/12/21/README.md)

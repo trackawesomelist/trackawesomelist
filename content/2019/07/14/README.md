@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [croc (⭐21k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
+*   [croc (⭐22k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 *   [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
 *   [twtxt (⭐37)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
 

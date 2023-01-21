@@ -2,7 +2,7 @@
 
 Useful resources for Drupal CMS 💧
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/nirgn975/awesome-drupal/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal) · ⭐ 79 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/nirgn975/awesome-drupal/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal) · ⭐ 79 · 🏷️ Content Management Systems
 
 [ [Daily](/content/nirgn975/awesome-drupal/README.md) / Weekly / [Overview](/content/nirgn975/awesome-drupal/readme/README.md) ]
 

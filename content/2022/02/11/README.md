@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Templates / React
 
-*   [vite-react-tailwind-v3 (⭐6)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+*   [vite-react-tailwind-v3 (⭐7)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 
 ## [2. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -26,17 +26,17 @@
 
 ### Libraries / Go
 
-*   [sleepinggenius2/gosmi) (⭐64)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
-*   [posteo/go-agentx (⭐43)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
+*   [sleepinggenius2/gosmi) (⭐66)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
+*   [posteo/go-agentx (⭐47)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
 
 ### Libraries / Python
 
-*   [pysnmp (⭐489)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
-*   [pysmi (⭐110)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
+*   [pysnmp (⭐502)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
+*   [pysmi (⭐113)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
 *   [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default.
-*   [puresnmp (⭐70)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
-*   [snimpy (⭐170)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
-*   [python-netsnmpagent (⭐62)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python.
+*   [puresnmp (⭐71)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
+*   [snimpy (⭐172)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
+*   [python-netsnmpagent (⭐64)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python.
 *   [hnmp (⭐45)](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.
 
 ### Libraries / Ruby
@@ -45,14 +45,14 @@
 
 ### Libraries / Rust
 
-*   [snmp-parser (⭐37)](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
+*   [snmp-parser (⭐38)](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
 
 ### Tools / CLIs
 
-*   [snmpsim (⭐308)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
+*   [snmpsim (⭐315)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 *   [snmpfwd (⭐61)](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
-*   [snmpclitools (⭐38)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
-*   [snmpwn (⭐204)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
+*   [snmpclitools (⭐39)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
+*   [snmpwn (⭐207)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
 *   [trapperkeeper (⭐79)](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
 
 ### Tools / GUIs
@@ -81,8 +81,8 @@
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Merlin (⭐4.1k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
-*   [SharPyShell (⭐705)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
+*   [Merlin (⭐4.2k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
+*   [SharPyShell (⭐726)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
 
 ## [6. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -106,13 +106,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [swiper (⭐33k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
+*   [swiper (⭐34k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [gpanders/editorconfig.nvim (⭐256)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
+*   [gpanders/editorconfig.nvim (⭐279)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 
 ## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Libraries / New Libraries
 
-*   [PGMax (⭐58)](https://github.com/vicariousinc/PGMax) - A framework for building discrete Probabilistic Graphical Models (PGM's) and running inference inference on them via JAX. <img src="https://img.shields.io/github/stars/vicariousinc/pgmax?style=social" align="center">
+*   [PGMax (⭐62)](https://github.com/vicariousinc/PGMax) - A framework for building discrete Probabilistic Graphical Models (PGM's) and running inference inference on them via JAX. <img src="https://img.shields.io/github/stars/vicariousinc/pgmax?style=social" align="center">
 
 ## [14. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -152,15 +152,15 @@
 ### Breadcrumbs
 
 *   [Breadcrumbs on Rails (⭐918)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
-*   [Gretel (⭐891)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
+*   [Gretel (⭐890)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
 *   [loaf (⭐404)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
-*   [Simple Navigation (⭐875)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
+*   [Simple Navigation (⭐876)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
 ### Business logic
 
 *   [ActiveInteraction (⭐1.9k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
 *   [Interactor (⭐3.1k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
-*   [Light Service (⭐752)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
+*   [Light Service (⭐760)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 *   [Mutations (⭐1.4k)](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
 *   [Surrounded (⭐224)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
 *   [Waterfall (⭐607)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
@@ -214,11 +214,11 @@
 
 *   [Cells (⭐3k)](https://github.com/trailblazer/cells) - View Components for Rails.
 *   [Komponent (⭐425)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
-*   [ViewComponent (⭐2.7k)](https://github.com/github/view_component) - View components for Rails.
+*   [ViewComponent (⭐2.8k)](https://github.com/github/view_component) - View components for Rails.
 
 ### View helpers
 
-*   [active\_link\_to (⭐826)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
+*   [active\_link\_to (⭐824)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
 
 ### Web Frameworks
 

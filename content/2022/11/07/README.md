@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,19 +10,19 @@
 
 ### Applications / Web
 
-*   [libreddit (⭐3.8k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
+*   [libreddit (⭐4k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Transition / Barcode
 
-*   [NavigationTransitions (⭐51)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
+*   [NavigationTransitions (⭐65)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 
 ## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Native audio (⭐0)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+*   [Native audio (⭐3)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 *   [Native market (⭐3)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [Camera preview (⭐0)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 
@@ -30,7 +30,7 @@
 
 ### Modules / Web framework
 
-*   [danet (⭐80)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+*   [danet (⭐107)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 
 ## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -44,19 +44,19 @@
 
 ### Audio
 
-*   [MoeGoe (⭐734)](https://github.com/CjangCjengh/MoeGoe) - Anime character voice synthesizer. \[English/中文]
+*   [MoeGoe (⭐1.1k)](https://github.com/CjangCjengh/MoeGoe) - Anime character voice synthesizer. \[English/中文]
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [bluz71/vim-nightfly-colors (⭐528)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
+*   [bluz71/vim-nightfly-colors (⭐544)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [yt-dlp (⭐1)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐36k)](https://github.com/yt-dlp/yt-dlp).
+*   [yt-dlp (⭐1)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐38k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -67,24 +67,24 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [GalvinGao/gofiber-template (⭐3)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
+*   [GalvinGao/gofiber-template (⭐14)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [OpenMetricLearning (⭐316)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
-*   [SKBEL (⭐14)](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
+*   [OpenMetricLearning (⭐406)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
+*   [SKBEL (⭐16)](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
 
 ### Tools / Misc
 
-*   [DockerDL (⭐13)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
+*   [DockerDL (⭐15)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 
 ## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [sato (⭐33)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
+*   [sato (⭐36)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
 
 ---
 

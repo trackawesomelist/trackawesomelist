@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐83)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐90)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -117,7 +117,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pgSCV (⭐140)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
+*   [pgSCV (⭐141)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
 *   [postgres\_exporter (⭐1.9k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
@@ -180,7 +180,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Contents / Health and Fitness
 
-*   [QuitSmoke (⭐37)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
+*   [QuitSmoke (⭐42)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 
 ---
 

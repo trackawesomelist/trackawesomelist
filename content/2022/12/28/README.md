@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Community / Interfaces to other package managers
 
-*   [alien-works-delivery (⭐12)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
+*   [alien-works-delivery (⭐30)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Social media
+### Social media / Web articles
 
 *   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
 
@@ -56,8 +56,9 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [minimal-terminal (⭐32)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
+*   [minimal-terminal (⭐33)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
 
 ---
 
+- Prev: [Dec 29, 2022](/content/2022/12/29/README.md)
 - Next: [Dec 27, 2022](/content/2022/12/27/README.md)

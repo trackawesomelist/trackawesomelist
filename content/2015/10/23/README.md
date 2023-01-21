@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐473)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐476)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

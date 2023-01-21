@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 19, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,16 +10,16 @@
 
 ### CLI
 
-*   [spectre.console (⭐6.3k)](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
+*   [spectre.console (⭐6.5k)](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
 
 ### Distributed Computing
 
-*   [Orleankka (⭐473)](https://github.com/OrleansContrib/Orleankka) - Orleankka is a functional API for Microsoft Orleans framework. It is highly suitable for scenarios where having composable, uniform communication interface is preferable, such as: CQRS, event-sourcing, re-routing, FSM, etc. Additional API available for F# called Orleankka.FSharp.
+*   [Orleankka (⭐474)](https://github.com/OrleansContrib/Orleankka) - Orleankka is a functional API for Microsoft Orleans framework. It is highly suitable for scenarios where having composable, uniform communication interface is preferable, such as: CQRS, event-sourcing, re-routing, FSM, etc. Additional API available for F# called Orleankka.FSharp.
 
 ### Testing
 
-*   [ArchUnitNET (⭐339)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
-*   [Snapshooter (⭐209)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
+*   [ArchUnitNET (⭐356)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [Snapshooter (⭐211)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 
 ## [2. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -53,19 +53,13 @@
 
 *   [Privacy Enhancing Technologies Decision Tree](https://www.private-ai.ca/PETs_Decision_Tree.png) - A flowchart to select the right tool depending on data type and context.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Basic / Non-X86
-
-*   [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
-
-## [7. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [6. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Zero Waste
 
 *   [Kent Zero Water Wastage Technology](https://www.kent.co.in/water-purifiers/zero-water-wastage-technology) - KENT RO Purifiers equipped with the ‘Zero Water Wastage’ Technology push back the rejected water to the overhead tank, thereby rendering wastage to zero. As a result, instead of wasting the rejected water, it gets diluted and reused as normal tap water for household purposes.<!-- links:end -->
 
-## [8. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Getting Started
 
@@ -75,14 +69,14 @@
 
 *   [Gatling Academy](https://gatling.io/academy/)
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📁 [Resume (⭐40)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
 *   📁 [Simple Light (⭐1.7k)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Widgets
 
@@ -96,13 +90,13 @@
 
 *   [Wagtail Content Import (⭐26)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
 
-## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Client management
+### Software / Client management
 
 *   [just-install](https://just-install.github.io/) – Python script for downloading and silently installing MSI files.
 
-## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -134,13 +128,13 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  20m |
 
-## [13. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [12. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Web Applications
 
 *   [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3 (⭐2.4k)](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 
-## [14. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
+## [13. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
 ### Node.js / Trading
 
@@ -150,37 +144,37 @@
 
 *   [steamapis (⭐4)](https://github.com/itsjfx/node-steamapis) - Module to use the API of [steamapis.com](https://steamapis.com).
 
-## [15. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [14. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Tools
 
 *   [RPC PoolBoy](https://manosbatsis.github.io/corda-rpc-poolboy/) - RPC connection pool with support for multiple Corda nodes.
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [15. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### CSV
 
 *   [csv2sql (⭐45)](https://github.com/Arp-G/csv2sql) - A fast and fully automated CSV to database importer.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Nuclino](https://www.nuclino.com) - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes. Free plan with all essential features, up to 50 items, 5GB total storage.
 
-## [18. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [17. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / JVM
 
 *   [DDDplus framework (⭐866)](https://github.com/funkygao/cp-ddd-framework) - A lightweight flexible development framework for complex business architecture based on DDD.
 
-## [19. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [H2O AutoML: Scalable Automatic Machine Learning](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf). Erin LeDell, Sebastien Poirier.  (2020)
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 

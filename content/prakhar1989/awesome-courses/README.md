@@ -2,7 +2,7 @@
 
 :books: List of awesome university courses for learning Computer Science!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/prakhar1989/awesome-courses/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) · ⭐ 43K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/prakhar1989/awesome-courses/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) · ⭐ 43K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/prakhar1989/awesome-courses/week/README.md) / [Overview](/content/prakhar1989/awesome-courses/readme/README.md) ]
 

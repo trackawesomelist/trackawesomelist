@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@
 
 ### Mock / Barcode
 
-*   [Mocker (⭐890)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+*   [Mocker (⭐902)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Libraries / General Purpose
 
-*   [MolecularGraph.jl (⭐151)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
+*   [MolecularGraph.jl (⭐154)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 
 ---
 

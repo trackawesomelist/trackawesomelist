@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 09, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,13 +34,7 @@
 
 *   [Into the Borg – SSRF inside Google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/) - Written by [opnsec](https://opnsec.com/).
 
-## [5. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
-
-## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Base / Reset / Normalize
 
@@ -115,11 +109,11 @@
     [Repo (⭐976)](https://github.com/Slicejack/bojler)
     \| #SCSS
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Tab / Barcode
 
-*   [ESTabBarController (⭐4.8k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
+*   [ESTabBarController (⭐4.9k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 
 ---
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,13 +44,13 @@
 
 ### Core Data
 
-*   [CloudCore (⭐117)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+*   [CloudCore (⭐122)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Core Data
 
-*   [CloudCore (⭐122)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
+*   [CloudCore (⭐123)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐306)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐307)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ---
 

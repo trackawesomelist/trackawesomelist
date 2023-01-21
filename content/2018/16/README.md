@@ -2,7 +2,7 @@
 
 55 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -407,11 +407,11 @@
 
 ### Images / Barcode
 
-*   [ImageScout (⭐957)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐970)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐278)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐279)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
@@ -433,7 +433,7 @@
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐2.8k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐2.9k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
@@ -443,8 +443,8 @@
 
 ### Related lists / Miscellaneous
 
-*   [awesome-npm (⭐4.1k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
-*   [awesome-cross-platform-nodejs (⭐1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
+*   [awesome-npm (⭐4.2k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+*   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -560,7 +560,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐491)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐500)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [26. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
@@ -738,12 +738,12 @@
 
 ### System Utilities / Directory Navigation
 
-*   [catcli (⭐158)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
-*   [logdissect (⭐122)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [catcli (⭐160)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
+*   [logdissect (⭐124)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ### Downloading and Serving / Directory Navigation
 
-*   [HTTPLab (⭐3.8k)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
+*   [HTTPLab (⭐3.9k)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
 
 ## [31. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -1049,7 +1049,7 @@
 ### Applications
 
 *   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
-*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐378)](https://github.com/ssbc/patchbay).
+*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐379)](https://github.com/ssbc/patchbay).
 *   [PeerTube (⭐11k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
 *   [Syncthing-GTK (⭐1.2k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
 

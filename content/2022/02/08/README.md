@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,8 +11,8 @@
 ### Tools
 
 *   [ndm (⭐31)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
-*   [pistrong (⭐34)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
-*   [sdm (⭐124)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
+*   [pistrong (⭐35)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
+*   [sdm (⭐132)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 
 ## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Regular Expression
 
-*   [RegExtract (⭐659)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+*   [RegExtract (⭐666)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
 
 ### Tools
 
@@ -43,11 +43,11 @@
 
 ### Templates / Others
 
-*   [P5.js Starter Template (⭐20)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
+*   [P5.js Starter Template (⭐22)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
 
 ### CakePHP / Community
 
-*   [cakephp-vite (⭐7)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
+*   [cakephp-vite (⭐9)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
 
 ## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -63,7 +63,7 @@
 
 ### UI
 
-*   [Helium (⭐81)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
+*   [Helium (⭐82)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 *   [ListBox (⭐14)](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 *   [Plan (⭐15)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
@@ -113,13 +113,13 @@
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Theory of Mind / Scientific Writing
+### Theory of Mind / Science Education
 
 *   [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150\&hl=en\&as_sdt=0,5)]. \[[Project](https://tshu.io/PHASE/)].
 
 ## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
 

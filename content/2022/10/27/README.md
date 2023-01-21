@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [Litote/kmongo (⭐723)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
+*   [Litote/kmongo (⭐729)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -44,11 +44,11 @@
 ### Emulators
 
 *   [Blzhawk (⭐1.6k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
-*   [Ryujinx (⭐15k)](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+*   [Ryujinx (⭐16k)](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 ### Image Processing
 
-*   [MagicScaler (⭐408)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
+*   [MagicScaler (⭐419)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

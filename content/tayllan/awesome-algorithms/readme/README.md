@@ -2,7 +2,7 @@
 
 A curated list of awesome places to learn and/or practice algorithms.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 13K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 13K · 🏷️ Theory
 
 [ [Daily](/content/tayllan/awesome-algorithms/README.md) / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / Overview ]
 

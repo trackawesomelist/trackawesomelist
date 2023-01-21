@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@
 ### Cookbooks
 
 *   [pizza-dough (⭐3k)](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
-*   [mozzarella (⭐54)](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella.
+*   [mozzarella (⭐55)](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella.
 
 ## [5. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐29)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐30)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -144,7 +144,7 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Flux (⭐372)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
+*   [Flux (⭐374)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 
 ### Top / Game Engine resources
 

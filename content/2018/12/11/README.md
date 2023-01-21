@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,7 +37,7 @@
 ### OS and Kernels / Other / unknown licence
 
 *   [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
-*   [bare-bones (⭐74)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
+*   [bare-bones (⭐75)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 
 ### Games / Other / unknown licence
 
@@ -63,7 +63,7 @@
 
 ### Graphics
 
-*   [Yocto/GL (⭐2.4k)](https://github.com/xelatihy/yocto-gl) - Tiny C++ Libraries for Data-Driven Physically-based Graphics. \[MIT]
+*   [Yocto/GL (⭐2.5k)](https://github.com/xelatihy/yocto-gl) - Tiny C++ Libraries for Data-Driven Physically-based Graphics. \[MIT]
 
 ### Logging
 
@@ -75,11 +75,11 @@
 
 ### Miscellaneous
 
-*   [DynaMix (⭐550)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐555)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 
-*   [Cget (⭐415)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
+*   [Cget (⭐417)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

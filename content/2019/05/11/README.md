@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,35 +41,35 @@
 
 ### Software / Automation
 
-*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐512)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐525)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐4.7k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP`
+*   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐4.8k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP`
 
 ### Software / Communication - XMPP - Servers
 
-*   [Metronome IM](https://metronome.im/) - Fork of Prosody IM. ([Source Code (⭐155)](https://github.com/maranda/metronome)) `MIT` `Lua`
+*   [Metronome IM](https://metronome.im/) - Fork of Prosody IM. ([Source Code (⭐157)](https://github.com/maranda/metronome)) `MIT` `Lua`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐50k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
+*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐51k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code (⭐18k)](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
+*   [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code (⭐19k)](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [IFM (⭐274)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
+*   [IFM (⭐282)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
 
 ### Software / Human Resources Management (HRM)
 
-*   [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php), [Source Code (⭐453)](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
+*   [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php), [Source Code (⭐457)](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
 
 ### Software / Learning and Courses
 
-*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐309)](https://github.com/inducer/relate)) `MIT` `Python`
+*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐314)](https://github.com/inducer/relate)) `MIT` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -77,28 +77,28 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.1k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
+*   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.2k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
 
 ### Software / Software Development - Project Management
 
-*   [Klaus (⭐635)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python`
+*   [Klaus (⭐637)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python`
 
 ### Software / Wikis
 
-*   [Pepperminty Wiki (⭐135)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
+*   [Pepperminty Wiki (⭐138)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 
 ## [6. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
-*   [system-modes (⭐28)](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
+*   [system-modes (⭐30)](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
 
 ### Packages / Middleware
 
-*   [Micro XRCE-DDS Agent (⭐58)](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - Micro XRCE-DDS Agent acts as a server between DDS Network and Micro XRCE-DDS Clients.
+*   [Micro XRCE-DDS Agent (⭐61)](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - Micro XRCE-DDS Agent acts as a server between DDS Network and Micro XRCE-DDS Clients.
 *   [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - Docker image containing the Micro XRCE-DDS Agent.
-*   [Micro XRCE-DDS Client (⭐84)](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS implements a client-server protocol to enable resource-constrained devices (clients) to take part in DDS communications.
-*   [micro-ROS-Agent (⭐51)](https://github.com/micro-ROS/micro-ROS-Agent) - ROS 2 package using Micro XRCE-DDS Agent.
+*   [Micro XRCE-DDS Client (⭐88)](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS implements a client-server protocol to enable resource-constrained devices (clients) to take part in DDS communications.
+*   [micro-ROS-Agent (⭐58)](https://github.com/micro-ROS/micro-ROS-Agent) - ROS 2 package using Micro XRCE-DDS Agent.
 
 ### Packages / Driver layer
 

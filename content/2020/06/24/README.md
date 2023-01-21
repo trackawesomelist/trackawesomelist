@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Network perimeter defenses / Evidence collection
 
-*   [Gatekeeper (⭐860)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
+*   [Gatekeeper (⭐897)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 
 ## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -34,13 +34,13 @@
 
 ### CLI Utils
 
-*   [climate (⭐13)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
+*   [climate (⭐12)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [dmux (⭐232)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐237)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Image Processing
 
-*   [PyMatting (⭐1.3k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
+*   [PyMatting (⭐1.4k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
 
 ## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

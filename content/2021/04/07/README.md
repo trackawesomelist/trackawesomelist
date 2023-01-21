@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -97,7 +97,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nix-tree (⭐254)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nix-tree (⭐291)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -115,8 +115,8 @@
 
 ### Plugins
 
-*   🧩 [CSS Variables (⭐109)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
-*   🛑💼 [Filters (⭐163)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
+*   🧩 [CSS Variables (⭐114)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
+*   🛑💼 [Filters (⭐161)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
 *   🛑💼 [CSS Filters (⭐23)](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
 *   🛑💼 [Blend Mode (⭐68)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
 *   🛑💼 [Colorize (⭐10)](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.

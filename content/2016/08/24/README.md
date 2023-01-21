@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -103,8 +103,8 @@
 
 ### Misc
 
-*   [Aeron.NET (⭐430)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
-*   [TypeShape (⭐265)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
+*   [Aeron.NET (⭐438)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
+*   [TypeShape (⭐269)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

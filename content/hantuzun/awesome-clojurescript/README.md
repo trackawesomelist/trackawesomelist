@@ -2,7 +2,7 @@
 
 A community driven list of ClojureScript frameworks, libraries and wrappers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hantuzun/awesome-clojurescript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript) · ⭐ 955 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hantuzun/awesome-clojurescript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript) · ⭐ 955 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/hantuzun/awesome-clojurescript/week/README.md) / [Overview](/content/hantuzun/awesome-clojurescript/readme/README.md) ]
 

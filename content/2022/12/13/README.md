@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 13, 2022
 
-22 awesome lists updated today.
+21 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Using ChatGPT in other apps
 
-*   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
+*   [GPT-3.5 powered terminal commands (⭐358)](https://github.com/Methexis-Inc/terminal-copilot)
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Mobile
 
-*   [shasht (⭐23)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
+*   [shasht (⭐27)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
     *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Colleton.
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
@@ -63,11 +63,11 @@
 
 ### Templates / React
 
-*   [react-vite-template (⭐10)](https://github.com/985563349/react-vite-template) - A react project template.
+*   [react-vite-template (⭐11)](https://github.com/985563349/react-vite-template) - A react project template.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-optimize-css-modules (⭐3)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
+*   [vite-plugin-optimize-css-modules (⭐4)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 
 ### React / Community
 
@@ -77,7 +77,7 @@
 
 ### Motion / Diagnostics
 
-*   [cbochs/portal.nvim (⭐98)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+*   [cbochs/portal.nvim (⭐115)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [AIaC (⭐119)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
+*   [AIaC (⭐627)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 
 ## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -144,7 +144,7 @@
 
 *   [PATA: Fuzzing with Path Aware Taint Analysis, 2022](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/sp22.pdf)
 *   [Jigsaw: Efficient and Scalable Path Constraints Fuzzing, 2022](https://www.cs.ucr.edu/\~csong/oakland22-jigsaw.pdf)
-*   [FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks, 2022 (⭐19)](https://github.com/purseclab/fuzzusb/blob/main/paper/fuzzusb.pdf)
+*   [FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks, 2022 (⭐20)](https://github.com/purseclab/fuzzusb/blob/main/paper/fuzzusb.pdf)
 *   [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, 2022](https://arxiv.org/pdf/2203.12064.pdf)
 *   [BEACON : Directed Grey-Box Fuzzing with Provable Path Pruning, 2022](https://qingkaishi.github.io/public_pdfs/SP22.pdf)
 
@@ -167,7 +167,6 @@
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
-*   SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities. 2022]\(<https://compsec.snu.ac.kr/papers/jaewon-specdoctor.pdf>)
 *   [SFuzz: Slice-based Fuzzing for Real-Time Operating Systems, 2022](https://huhong789.github.io/papers/chen:sfuzz.pdf)
 *   [MC^2: Rigorous and Efficient Directed Greybox Fuzzing, 2022](https://arxiv.org/pdf/2208.14530.pdf)
 *   [LibAFL: A Framework to Build Modular and Reusable Fuzzers, 2022](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)
@@ -220,10 +219,6 @@
 *   [Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard](https://fabiensanglard.net/b/gebbwolf3d.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carcmack, Tom Hall and John Romero.
 *   [Game Engine Black Book: Doom - by Fabien Sanglard](https://fabiensanglard.net/b/gebbdoom.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carcmack, Dave Taylor and John Romero.
 
-### Open source DOS libraries / Sound Blaster/OPL3
-
-*   [DIGIPAK sound drivers source code (⭐20)](https://github.com/jratcliff63367/digpak) - Original source code for the DIGIPAK sound drivers uploaded to GitHub by John W. Ratcliff.
-
 ### Homebrew games with source code / Sound Blaster/OPL3
 
 *   [Plutonium Caverns (⭐9)](https://github.com/jani-nykanen/plutonium-caverns) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten (⭐1.1k)](https://github.com/dreamlayers/em-dosbox) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
@@ -236,35 +231,25 @@
 
 ### Localization
 
-*   [locheck (⭐72)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
+*   [locheck (⭐73)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
 
-## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-## [16. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [15. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
 
-## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
 
-### Courses and Educational Materials / References Collection about Stable Diffusion
+### Courses and Educational Materials / Deforum
 
 *   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
 
-## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [17. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Websites and Resources
 
@@ -282,25 +267,25 @@
 
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Ticketing
 
-*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐257)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
+*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐275)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
 
-## [20. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [19. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Arcade
 
 *   Oh Dash! - [Android](https://play.google.com/store/apps/details?id=br.arkd.owdash), [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan)
 
-## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
 
-## [22. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
+## [21. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
 ### Courses 🎓 / Articles
 
@@ -308,4 +293,5 @@
 
 ---
 
+- Prev: [Dec 14, 2022](/content/2022/12/14/README.md)
 - Next: [Dec 12, 2022](/content/2022/12/12/README.md)

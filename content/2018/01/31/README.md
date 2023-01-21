@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bats (⭐3.5k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [bats (⭐3.7k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## [5. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.3k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust [![Build status](https://api.travis-ci.org/lalrpop/lalrpop.svg?branch=master)](https://travis-ci.org/lalrpop/lalrpop)
+*   [lalrpop/lalrpop (⭐2.4k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust [![Build status](https://api.travis-ci.org/lalrpop/lalrpop.svg?branch=master)](https://travis-ci.org/lalrpop/lalrpop)
 
 ## [7. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

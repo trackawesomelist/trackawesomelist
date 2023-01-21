@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,7 +21,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐381)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐395)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -51,7 +51,7 @@
 
 ### File Management and Sharing
 
-*   [OnionShare (⭐5.4k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+*   [OnionShare (⭐5.5k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
 ## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

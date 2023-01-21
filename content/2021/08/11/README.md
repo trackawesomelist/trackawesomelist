@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Plugins
 
-*   [muxile (⭐71)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
+*   [muxile (⭐72)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit3 (⭐232)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
+*   [GdUnit3 (⭐246)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -28,21 +28,21 @@
 
 ### Extensions
 
-*   [Destack for Next.js (⭐708)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+*   [Destack for Next.js (⭐758)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Game / Open source games
 
-*   [Space Empires (⭐60)](https://github.com/satyamx64/space_empires) <!--stargazers:satyamx64/space_empires--> - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+*   [Space Empires (⭐64)](https://github.com/satyamx64/space_empires) <!--stargazers:satyamx64/space_empires--> - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 ### Top / Game Engine resources
 
-*   [Harpy (⭐1.6k)](https://github.com/robertodoering/harpy) <!--stargazers:robertodoering/harpy--> - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
+*   [Harpy (⭐1.7k)](https://github.com/robertodoering/harpy) <!--stargazers:robertodoering/harpy--> - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
 
 ### Utilities / Game Engine resources
 
-*   [Very Good Cli (⭐1.7k)](https://github.com/VeryGoodOpenSource/very_good_cli) <!--stargazers:VeryGoodOpenSource/very_good_cli--> - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource)
+*   [Very Good Cli (⭐1.8k)](https://github.com/VeryGoodOpenSource/very_good_cli) <!--stargazers:VeryGoodOpenSource/very_good_cli--> - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource)
 *   [Flutter Sidekick (⭐1.1k)](https://github.com/leoafarias/sidekick)  <!--stargazers:leoafarias/sidekick--> - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias)
 
 ## [6. Awesome Json](/content/burningtree/awesome-json/README.md)

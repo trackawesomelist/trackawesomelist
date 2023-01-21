@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,7 +27,7 @@
 
 ### State Machines
 
-*   [state\_machines (⭐668)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐674)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoGameBoy (⭐116)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
+*   [ArduinoGameBoy (⭐117)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 
 ## [11. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

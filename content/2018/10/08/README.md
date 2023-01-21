@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,10 +19,6 @@
 *   [Dedupe (⭐3.6k)](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 
 ## [3. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
-
-### Tools
-
-*   [Ansible Tower](https://www.ansible.com/products/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 
 ### Playbooks, Roles and Collections / French
 
@@ -64,7 +60,7 @@
 
 ### Utility / Barcode
 
-*   [Lumos (⭐135)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
+*   [Lumos (⭐140)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -111,13 +107,13 @@
 ### Articles
 
 *   [CppCon 2018 Presentation Materials (⭐1.4k)](https://github.com/CppCon/CppCon2018) - CppCon 2018 Presentation Materials.
-*   [C++Now 2018 Presentations (⭐123)](https://github.com/boostcon/cppnow_presentations_2018) - Presentation materials presented at C++Now 2018.
+*   [C++Now 2018 Presentations (⭐125)](https://github.com/boostcon/cppnow_presentations_2018) - Presentation materials presented at C++Now 2018.
 
 ## [16. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐442)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐444)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [17. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -129,7 +125,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐463)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐472)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

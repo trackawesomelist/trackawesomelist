@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -74,7 +74,7 @@
 
 ### Boilerplates
 
-*   [Next Blog Firestore (⭐254)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+*   [Next Blog Firestore (⭐255)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -96,13 +96,12 @@
 ### Charts
 
 *   [cubism (⭐4.9k)](https://github.com/square/cubism) - Time series visualization
-*   [d2b (⭐94)](https://github.com/d2bjs/d2b) - Chart library for axis, pie, sankey, sunburst charts
+*   [d2b (⭐95)](https://github.com/d2bjs/d2b) - Chart library for axis, pie, sankey, sunburst charts
 
 ### Maps / Third Party
 
-*   [d3-composite-projections (⭐93)](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together
+*   [d3-composite-projections (⭐95)](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together
 *   [d3-topogram (⭐316)](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON
-*   [earthjs (⭐150)](https://github.com/earthjs/earthjs) - Building orthographic globe with SVG, Canvas & WebGL
 *   [maptable (⭐57)](https://github.com/Packet-Clearing-House/maptable) - Convert datasets to a set of visual components (Map, Filters, Table)
 
 ### Utils / Third Party
@@ -115,16 +114,9 @@
 
 ### Miscellaneous / Third Party
 
-*   [comic.js (⭐153)](https://github.com/balint42/comic.js) - Cartoon style drawing. Works also for canvas, Raphael & SVG.js
 *   [d3-force-gravity (⭐21)](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion)
-*   [mermaid (⭐51k)](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
+*   [mermaid (⭐53k)](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
 *   [netvis (⭐16)](https://github.com/dborzov/netvis) - Visualize network communication for arbitrary protocols
-
-### Code Editors / Third Party
-
-*   [d3-snippets (⭐36)](https://github.com/martgnz/d3-snippets) - Snippets for Atom
-*   [d3-snippets-for-sublime-text-2 (⭐13)](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - Snippets for Sublime
-*   [d3Snippets (⭐3)](https://github.com/Ledragon/d3Snippets) - Snippets for VS Code
 
 ## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -148,7 +140,7 @@
 
 ### Gesture
 
-*   [ShowTime (⭐456)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐459)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 

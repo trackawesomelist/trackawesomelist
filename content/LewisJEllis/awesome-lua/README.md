@@ -2,7 +2,7 @@
 
 A curated list of quality Lua packages and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/LewisJEllis/awesome-lua/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) · ⭐ 3.2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/LewisJEllis/awesome-lua/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) · ⭐ 3.2K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/LewisJEllis/awesome-lua/week/README.md) / [Overview](/content/LewisJEllis/awesome-lua/readme/README.md) ]
 

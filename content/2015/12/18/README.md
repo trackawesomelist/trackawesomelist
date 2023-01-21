@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -128,12 +128,12 @@
 
 ### Testing
 
-*   [CakePHP CodeSniffer rules (⭐229)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
+*   [CakePHP CodeSniffer rules (⭐230)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 *   [Faker plugin (⭐17)](https://github.com/gourmet/faker) - [Faker (⭐27k)](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 
 ### Development Environment
 
-*   [CakePHP.gitignore (⭐141k)](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
+*   [CakePHP.gitignore (⭐142k)](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 
 ### Help
 

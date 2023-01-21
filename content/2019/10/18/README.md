@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -15,7 +15,7 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   [fast-http (⭐330)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-http (⭐331)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Interfaces to other package managers
 
@@ -29,22 +29,22 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐65)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
-    *   [paren6 (⭐18)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
+*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐67)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
+    *   [paren6 (⭐19)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
 
 ### Others / Third-party APIs
 
-*   [avm (⭐49)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
+*   [avm (⭐50)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
-*   [cl-coroutine (⭐56)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-coroutine (⭐57)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
 
 ### Actors pattern / Third-party APIs
 
-*   [erlangen (⭐65)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [erlangen (⭐64)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 *   [Actors (⭐9)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
-*   [common-lisp-actors (⭐99)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [common-lisp-actors (⭐97)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [memento-mori (⭐30)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
 
 ### Date and time / Third-party APIs
@@ -67,7 +67,7 @@
 
 ### ORM/ODM Extensions
 
-*   [crecto (⭐340)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
+*   [crecto (⭐341)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -208,7 +208,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Static Code Analysis
 
-*   [IKOS (⭐1.7k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
+*   [IKOS (⭐1.8k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
 ## [20. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 

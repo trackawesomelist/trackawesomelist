@@ -2,7 +2,7 @@
 
 ✂A collection of useful .htaccess snippets.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phanan/htaccess/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phanan/htaccess](https://github.com/phanan/htaccess) · ⭐ 12K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phanan/htaccess/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phanan/htaccess](https://github.com/phanan/htaccess) · ⭐ 12K · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/phanan/htaccess/week/README.md) / [Overview](/content/phanan/htaccess/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [V·oogle (⭐41)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
+*   [V·oogle (⭐42)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
 
 ## [2. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
@@ -28,7 +28,7 @@
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Backups
+### Software / Backups
 
 *   [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
 
@@ -48,7 +48,7 @@
 
 ### Database Drivers
 
-*   [aioinflux (⭐157)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
+*   [aioinflux (⭐159)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 
 ## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,12 +21,12 @@
 ### Frameworks
 
 *   [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. \[MIT]
-*   [ffead-cpp (⭐537)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
+*   [ffead-cpp (⭐540)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
 *   [Folly (⭐24k)](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. \[Apache2]
 *   [JUCE (⭐4.7k)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
 *   [libPhenom (⭐1.7k)](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. \[Apache2]
-*   [LibSourcey (⭐1.2k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
-*   [LibU (⭐397)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
+*   [LibSourcey (⭐1.3k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
+*   [LibU (⭐400)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
 *   [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. \[MIT]
 *   [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. \[Boost]
 *   [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. \[BSD]
@@ -49,7 +49,7 @@
 *   [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. \[BSD/LGPL/Commercial]
 *   [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. \[BSD]
 *   [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. \[BSD]
-*   [Tonic (⭐480)](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. \[Unlicense]
+*   [Tonic (⭐482)](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. \[Unlicense]
 *   [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. \[BSD]
 
 ### Compression
@@ -58,7 +58,7 @@
 *   [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. \[zlib]
 *   [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. \[BSD]
 *   [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library. \[GPL]
-*   [Minizip (⭐964)](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. \[zlib]
+*   [Minizip (⭐970)](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. \[zlib]
 *   [ZLib](http://zlib.net/) - A very compact compression library for data streams. \[zlib]
 *   [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives. \[MPL/LGPL]
 
@@ -85,7 +85,7 @@
 
 ### Web Application Framework
 
-*   [QDjango (⭐248)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
+*   [QDjango (⭐249)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
 
 ---
 

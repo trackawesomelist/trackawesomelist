@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Theme Variants (⭐136)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
+*   🎨🧬 [Theme Variants (⭐137)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-capacitor (⭐135)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
+*   [vue-cli-plugin-capacitor (⭐136)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -76,14 +76,14 @@
 
 ### Others
 
-*   [eShopOnBlazor (⭐343)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
-*   [BlazorCRUD (⭐231)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
+*   [eShopOnBlazor (⭐355)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
+*   [BlazorCRUD (⭐237)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
-*   [json-struct (⭐268)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
+*   [json-struct (⭐275)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 
 ## [10. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -95,22 +95,22 @@
 
 ### Retrieving images / Syntax highlighting packages
 
-*   [Arduino Gameboy Printer Emulator (⭐248)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
+*   [Arduino Gameboy Printer Emulator (⭐255)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
 *   [ESP8266 Game Boy Printer (⭐39)](https://github.com/applefreak/esp8266-gameboy-printer) -  A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.
-*   [WiFi GBP Emulator (⭐40)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
-*   [Game Boy WiFi Printer - D1 Mini Shield (⭐16)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
+*   [WiFi GBP Emulator (⭐41)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
+*   [Game Boy WiFi Printer - D1 Mini Shield (⭐17)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
 *   [Game Boy Printer Sniffer (⭐7)](https://github.com/mofosyne/GameboyPrinterSniffer) - Sniff packet communications between a Game Boy and the Printer.
 
 ### Changing the camera's behavior / Syntax highlighting packages
 
 *   [Game Boy Camera Canon EF Lens Mount](http://ekeler.com/game-boy-camera-canon-ef-mount)
 *   [Game Boy Camera to Canon Lens mount](https://www.thingiverse.com/thing:4337362) - based on the above.
-*   [game-boy-camera-frame-replacer (⭐12)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
+*   [game-boy-camera-frame-replacer (⭐14)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
 
 ### Post processing / Syntax highlighting packages
 
-*   [Game Boy Printer Paper Simulation (⭐45)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
-*   [Game Boy Printer Web (⭐33)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
+*   [Game Boy Printer Paper Simulation (⭐47)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
+*   [Game Boy Printer Web (⭐37)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
 
 ---
 

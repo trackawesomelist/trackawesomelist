@@ -1,14 +1,14 @@
 # Awesome List Updates on Aug 16, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***Journal of Experimental Psychology***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939\&hl=en\&as_sdt=0,5)]. Experimental evidences for distincting causality and association.
 
@@ -38,22 +38,16 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-persistedstate-2 (⭐63)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
+*   [pinia-persistedstate-2 (⭐65)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
 
-## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
-
-### Jobs / Other external resources
-
-*   [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
-
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GraphQL
 
 *   [GraphQL.NET (⭐5.4k)](https://github.com/graphql-dotnet/graphql-dotnet) - Implementation of [Facebook's GraphQL (⭐14k)](https://github.com/graphql/graphql-spec) in .Net
 *   [HotChocolate (⭐4.1k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server compatible to all GraphQL compliant clients like Strawberry Shake, Relay, Apollo Client, and various other clients and tools.
-*   [graphql-net (⭐883)](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
-*   [EntityGraphQL (⭐308)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
+*   [graphql-net (⭐884)](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
+*   [EntityGraphQL (⭐312)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
 
 ---
 

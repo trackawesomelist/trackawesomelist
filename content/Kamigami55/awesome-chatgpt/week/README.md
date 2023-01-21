@@ -2,7 +2,7 @@
 
 Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kamigami55/awesome-chatgpt/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) · ⭐ 223 · 🏷️ ChatGPT
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kamigami55/awesome-chatgpt/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) · ⭐ 223 · 🏷️ ChatGPT
 
 [ [Daily](/content/Kamigami55/awesome-chatgpt/README.md) / Weekly / [Overview](/content/Kamigami55/awesome-chatgpt/readme/README.md) ]
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 13, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Tools
 
-*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐36)](https://github.com/opengento/magento2-downgrade-ee-ce)
+*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐38)](https://github.com/opengento/magento2-downgrade-ee-ce)
 
 ### Adminhtml / Backend
 
-*   [Clean Admin Menu (⭐106)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
+*   [Clean Admin Menu (⭐109)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-snap (⭐150)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
+*   [vue-snap (⭐159)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -38,26 +38,19 @@
 
 *   [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Articles / XML
-
-*   [Create interactive mail utility CLI Tool using Deno
-    ](https://www.soubai.me/posts/create-interactive-mail-utility-cli-with-deno)
-
-## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [5. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Other
 
 *   [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - Shake the dependency tree until all the dead parts are falling off and you end up with a nice lean tree.
 
-## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   AngelList - <https://angel.co/>
 
-## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 18 - Mar 24, 2019
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,31 +40,25 @@
 
 *   [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Android
-
-*   [Google Android Developer Training](https://developer.android.com/guide)
-
-## [6. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [5. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Plotter-Specific
 
 *   [MP2300-Tools (⭐5)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
 *   [aristidb/aws :fire::fire: (⭐224)](https://github.com/aristidb/aws)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [mRemoteNG (⭐6.9k)](https://github.com/mRemoteNG/mRemoteNG) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager
 
-## [9. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [8. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### MusaicFM
 
@@ -76,19 +70,19 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
-## [10. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [9. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [Legion (⭐803)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
-## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Alertmanager / Miscellaneous
 
 *   [Karma (⭐1.8k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
-## [12. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [11. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### JavaScript References
 
@@ -121,7 +115,7 @@ Free
 
 *   [Exploring ES6](http://exploringjs.com/es6.html) - Good introduction with in-depth chapters.
 
-## [13. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [12. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Education / Articles
 
@@ -131,13 +125,13 @@ Free
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor - Beginner to Advanced](https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw/videos)
 
-## [14. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 
-*   [BinData (⭐39)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐40)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
-## [15. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [14. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Browser Extensions
 
@@ -255,13 +249,13 @@ Free
 *   [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
 *   [MacGuffin (⭐84)](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
 
-## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Testing / Scala
 
 *   [Hikaku (⭐182)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
-## [17. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [16. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Theory
 
@@ -271,7 +265,7 @@ Free
 
 *   [do (⭐25)](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
-## [18. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -287,7 +281,7 @@ Free
 
 
 
-## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [18. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Supported Distributions / Pengwin
 
@@ -302,13 +296,13 @@ Free
 
 *   [wsldl (⭐1.3k)](https://github.com/yuk7/wsldl) - General purpose WSL installer and launcher. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [20. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [19. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [ipfs-common](https://github.com/arsyun) - Some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools. [Source (⭐3)](https://github.com/arsyun/ipfs-common)
 
-## [21. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Social Media
 
@@ -318,7 +312,7 @@ Free
 
 *   [clog (⭐772)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -334,20 +328,20 @@ Free
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐466)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐475)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 
 *   [vue-direction (⭐35)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
 *   [vue-unique-id (⭐47)](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 
-## [23. Amas](/content/sindresorhus/amas/week/README.md)
+## [22. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Eduards Sizovs (⭐0)](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
 
-## [24. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [23. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Frameworks
 
@@ -407,13 +401,13 @@ Free
 *   [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
 *   [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 
-## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [24. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [SRE Adoption Report](https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering)
 
-## [26. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [25. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### API
 
@@ -429,7 +423,7 @@ Free
 
 *   [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games. [Play](https://openhtml5games.com/).
 
-## [27. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [26. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 
@@ -437,7 +431,7 @@ Free
     automated threat intel pipelines sourcing from Twitter, RSS, GitHub, and
     more.
 
-## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Utils / Third-party APIs
 
@@ -445,12 +439,12 @@ Free
     a Common Lisp library offering a way of spawning threads and being
     informed when one any of them crash and die. [MIT](https://opensource.org/licenses/MIT).
 
-## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [28. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
-*   [xargo (⭐988)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
-    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐239)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
+*   [xargo (⭐991)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
+    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐241)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
 
 ### HAL implementation crates / STMicroelectronics
 
@@ -461,13 +455,13 @@ Free
 
 *   [light-cli (⭐14)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface ![crates.io](https://img.shields.io/crates/v/light_cli.svg)
 
-## [30. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [29. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Frontend Tools / Terraform
 
 *   [Runs a WebPageTest audit and prints the results as commit comment (⭐53)](https://github.com/JCofman/webPagetestAction)
 
-## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -475,20 +469,20 @@ Free
 
 ### Interoperability
 
-*   [Pyrolite (⭐168)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
+*   [Pyrolite (⭐170)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
     the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ### Scheduling
 
 *   [Workflow Core (⭐4.3k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐601)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐602)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
-## [33. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [32. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -498,7 +492,7 @@ Free
 
 *   [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.
 
-## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [33. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Data Management
 
@@ -508,7 +502,7 @@ Free
 
 *   [ember-style-modifier (⭐31)](https://github.com/jelhan/ember-style-modifier) - This addon provides a {{style}} element modifier to set element's style.
 
-## [35. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [34. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
@@ -516,14 +510,14 @@ Free
 *   [arrow functions (⭐290)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
 *   [no-loops (⭐116)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 
-## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [next-i18next (⭐3.9k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
-*   [Serverless Framework plugin for Next.js (⭐3.9k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
+*   [next-i18next (⭐4k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
+*   [Serverless Framework plugin for Next.js (⭐4k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -531,14 +525,14 @@ Free
 
 ### Math
 
-*   [SymEngine (⭐919)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
+*   [SymEngine (⭐926)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
 
 ### Networking
 
-*   [Restinio (⭐916)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
-*   [cpp-netlib/uri (⭐127)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[BSL-1.0]
+*   [Restinio (⭐923)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [cpp-netlib/uri (⭐129)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[BSL-1.0]
 *   [restclient-cpp (⭐1.4k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
-*   [uriparser (⭐258)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [uriparser (⭐260)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ### Build Systems
 
@@ -552,70 +546,70 @@ Free
 
 *   [30 Seconds of C++ (⭐1.3k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
-## [38. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Bindings / Other / unknown licence
 
 *   [boehmgc-ada (⭐5)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 
-## [39. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [38. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cmake-examples (⭐977)](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [40. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [39. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [nnn (⭐15k)](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
 *   [tiv (⭐1.2k)](https://github.com/stefanhaustein/TerminalImageViewer) - Text mode terminal image viewer.
 
-## [41. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [40. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
-*   [JupyterWith (⭐400)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
+*   [JupyterWith (⭐406)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 
-## [42. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [41. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation / Code libraries and bindings
 
-*   [censys-python (⭐297)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
+*   [censys-python (⭐305)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - Audit a Windows host's root certificate store against Microsoft's [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 
-## [43. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [42. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Reverse Engineering / Reverse Engineering Tools
 
 *   [Ghidra](https://www.ghidra-sre.org/) - Suite of free software reverse engineering tools developed by NSA's Research Directorate originally exposed in WikiLeaks's "Vault 7" publication and now maintained as open source software.
 
-## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Utilities / Game Engine resources
 
-*   [FVM (⭐3k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+*   [FVM (⭐3.2k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ### VSCode / Game Engine resources
 
 *   [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
 
-## [45. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [44. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
 *   [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
 
-## [46. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### People / Twitter
 
 *   [Sander Mak](https://twitter.com/Sander_Mak) - Java Champion, author.
 
-## [47. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [46. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -625,7 +619,7 @@ Free
 
 *   [Pi Audio Monitor (⭐93)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 
-## [48. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [47. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
@@ -636,7 +630,7 @@ Free
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 *   [Blog](https://blog.npmjs.org)
 
-## [49. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [48. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -644,7 +638,7 @@ Free
 *   [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
 *   [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
 
-## [50. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [49. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 

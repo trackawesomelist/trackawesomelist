@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -69,8 +69,8 @@
 
 ### WebSocket
 
-*   [CableReady (⭐635)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
-*   [StimulusReflex (⭐2k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
+*   [CableReady (⭐639)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [StimulusReflex (⭐2.1k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
 ## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Cards
 
-*   [Shuffle (⭐732)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder
+*   [Shuffle (⭐754)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder
 
 ---
 

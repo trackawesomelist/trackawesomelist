@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,13 +50,13 @@
 
 ### E-commerce
 
-*   [alipay (⭐319)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
+*   [alipay (⭐321)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
 
 ### HTML Manipulation
 
-*   [html5lib (⭐998)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
+*   [html5lib (⭐1k)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 *   [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
-*   [pyquery (⭐2.1k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
+*   [pyquery (⭐2.2k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
 *   [xmltodict (⭐5k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ### Processes
@@ -66,7 +66,7 @@
 ### Science
 
 *   [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
-*   [bccb (⭐559)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
+*   [bccb (⭐560)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
 *   [Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
 *   [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
@@ -76,9 +76,9 @@
 
 ### Third-party APIs
 
-*   [google-api-python-client (⭐6.1k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
+*   [google-api-python-client (⭐6.2k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
 *   [gspread (⭐6.2k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
-*   [twython (⭐1.8k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
+*   [twython (⭐1.9k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

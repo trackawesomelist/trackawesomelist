@@ -2,7 +2,7 @@
 
 :scream: A curated list of amazingly awesome OSINT
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jivoi/awesome-osint/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ⭐ 11K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jivoi/awesome-osint/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ⭐ 11K · 🏷️ Theory
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 

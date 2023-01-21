@@ -2,7 +2,7 @@
 
 49 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -201,7 +201,7 @@
 
 ### ASM / Music drivers and trackers
 
-*   [hardware.inc (⭐90)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
+*   [hardware.inc (⭐92)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
 
 ## [19. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -295,11 +295,11 @@
 
 ### Software / Ticketing
 
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐729)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
+*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐749)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
 
 ### External Links / Wikis
 
-*   [Awesome Public Datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+*   [Awesome Public Datasets (⭐53k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 
 ## [27. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -365,21 +365,21 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐415)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐419)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐7.3k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐7.4k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chat
 
-*   [MessengerKit (⭐1.4k)](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
+*   [MessengerKit (⭐1.5k)](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 
 ### Cards / Barcode
 
-*   [VerticalCardSwiper (⭐1.1k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
+*   [VerticalCardSwiper (⭐1.2k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
 
 ### Utility / Barcode
 
@@ -456,7 +456,7 @@ Webpage: <http://ogniwo.org/>
 ### Applications / Directory Navigation
 
 *   [awless (⭐4.9k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
-*   [ranger (⭐12k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [ranger (⭐13k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 
 ## [41. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
@@ -468,7 +468,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Caching
 
-*   [nebulex (⭐964)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐981)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
@@ -527,7 +527,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Converters
 
-*   [money (⭐26)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.5k)](https://github.com/RubyMoney/money))
+*   [money (⭐25)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
 
 ### Framework Components
 
@@ -563,7 +563,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐245)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [pganalyze collector (⭐248)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
 *   [PgHero (⭐6.8k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 *   [pgstats (⭐103)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
@@ -589,12 +589,12 @@ Webpage: <http://ogniwo.org/>
 
 ### UI
 
-*   [Flip Panel (⭐531)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
-*   [Facebook Reactions (⭐301)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
+*   [Flip Panel (⭐551)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
+*   [Facebook Reactions (⭐313)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 
 ### Text & Rich Content / Image Picker
 
-*   [Masked Text (⭐261)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+*   [Masked Text (⭐264)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
 ## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -613,8 +613,8 @@ Webpage: <http://ogniwo.org/>
 ### Projects Using Vue.js / Open Source
 
 *   [Ride Receipts (⭐138)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
-*   [Laqu-l (⭐131)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
-*   [Minimal Notes (⭐124)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Laqu-l (⭐130)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
+*   [Minimal Notes (⭐125)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ### Components & Libraries / UI Utilities
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,14 +10,14 @@
 
 ### Blur / Barcode
 
-*   [VisualEffectView (⭐952)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
+*   [VisualEffectView (⭐959)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
-*   [fix-path (⭐249)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐469)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [fix-path (⭐251)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐473)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 
 ### Components / Other
 
@@ -32,7 +32,7 @@
 
 ### Packages / Filesystem
 
-*   [chokidar (⭐9.5k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
+*   [chokidar (⭐9.6k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 
 ## [4. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 

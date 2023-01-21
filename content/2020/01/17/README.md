@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,15 +38,15 @@
 
 ### Command-Line Productivity
 
-*   [eureka (⭐568)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
-*   [gitmux (⭐345)](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
+*   [eureka (⭐595)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
+*   [gitmux (⭐358)](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 *   [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 *   [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
 
 ### Customization / Directory Navigation
 
-*   [geometry (⭐850)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
-*   [synth-shell (⭐555)](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
+*   [geometry (⭐857)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
+*   [synth-shell (⭐604)](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
 
 ### System Utilities / Directory Navigation
 
@@ -82,7 +82,7 @@
     *   [Ocaml-sklearn (⭐26)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
     *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
     *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐18)](https://github.com/owlbarn/owl_mask_rcnn).
-    *   [PyTorch bindings (⭐360)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [PyTorch bindings (⭐367)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
 
 ## [9. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

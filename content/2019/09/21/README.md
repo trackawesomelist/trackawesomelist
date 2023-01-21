@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,20 +50,20 @@
 
 ### Office
 
-*   [Foliate (⭐3.8k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Pdftag (⭐58)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
-*   [Marker (⭐758)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+*   [Foliate (⭐3.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+*   [Pdftag (⭐59)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
+*   [Marker (⭐771)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
 *   [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
-*   [GTimeLog (⭐222)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+*   [GTimeLog (⭐225)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
 ### Multimedia
 
-*   [Celluloid (⭐813)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
+*   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 *   [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 
 ### Graphics
@@ -72,11 +72,11 @@
 
 ### Gaming
 
-*   [Lutris (⭐5.9k)](https://github.com/lutris/lutris) - Open Source gaming platform.
+*   [Lutris (⭐6.1k)](https://github.com/lutris/lutris) - Open Source gaming platform.
 
 ### System and Customization
 
-*   [Tilix (⭐4.9k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
+*   [Tilix (⭐5k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 *   [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
 ### Utilities
@@ -85,7 +85,7 @@
 *   [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 *   [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 
-### Complete overhaul / Design Tooling
+### Docks and Panels / Design Tooling
 
 *   [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
 
@@ -97,25 +97,20 @@
 ### Applets / Design Tooling
 
 *   [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
-*   [GSConnect (⭐2.5k)](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
 *   [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
 
 ### Windows / Design Tooling
 
-*   [PaperWM (⭐1.9k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Docks and Panels / Design Tooling
-
-*   [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
+*   [PaperWM (⭐2k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
 ### Services integration / Design Tooling
 
-*   [GMail Message Tray (⭐71)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
+*   [GMail Message Tray (⭐74)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
 ### Icons / Upstream Style
 
-*   [GNOME++ (⭐132)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐159)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [GNOME++ (⭐138)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐160)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ### Cursors / Skeumorphic Icons
 

@@ -2,20 +2,20 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Codelabs
-
-*   [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
-
 ### Class Based
 
 *   [DNA (⭐27)](https://github.com/chialab/dna) - Progressive Web Components library.
-*   [Tonic (⭐710)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+*   [Tonic (⭐722)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+
+### Tutorials
+
+*   [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
 
 ## [2. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
@@ -91,11 +91,11 @@
 *   [RealWorld Example App - mongo (⭐369)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.2k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Python / General-Purpose Machine Learning
+### Machine Learning / General Purpouse Machine Learning
 
-*   [Little Ball of Fur (⭐615)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐619)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Algorithms and Data structures
 
-*   [blurhash.cr (⭐14)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐12k)](https://github.com/woltapp/blurhash) implementation
+*   [blurhash.cr (⭐16)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐12k)](https://github.com/woltapp/blurhash) implementation
 
 ## [16. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -154,9 +154,9 @@
 
 ### CAD Specific / KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐609)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐625)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-*   [Footprint Collection (⭐276)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+*   [Footprint Collection (⭐285)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 
 ### Project Sharing Platforms / Eagle
 
@@ -186,11 +186,11 @@
 
 ### Other Lists / Help
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐271)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
-*   [intajay/open-electronics (⭐370)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐243)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐233)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐580)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐279)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [intajay/open-electronics (⭐399)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐251)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐244)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐598)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 *   [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
 
 ## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
@@ -200,7 +200,7 @@
 *   [deno-context (⭐6)](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
 *   [invert-kv (⭐2)](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 *   [online (⭐5)](https://github.com/denorg/online) - Check if you're currently online in Deno.
-*   [qrcode (⭐28)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
+*   [qrcode (⭐29)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 *   [recursive-readdir (⭐7)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 
 ### Modules / Web utils
@@ -213,7 +213,7 @@
 *   [dedep (⭐66)](https://github.com/egoist/dedep) - Manage dependency versions.
 *   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 *   [pika Deno plugin (⭐165)](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
-*   [starter (⭐20)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
+*   [starter (⭐21)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 
 ### Articles / XML
 
@@ -221,7 +221,7 @@
 
 ### Resources in Other Languages / Chinese
 
-*   [Deno 手册 (⭐302)](https://github.com/Nugine/deno-manual-cn/)
+*   [Deno 手册 (⭐299)](https://github.com/Nugine/deno-manual-cn/)
 
 ## [18. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 

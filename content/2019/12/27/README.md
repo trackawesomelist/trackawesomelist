@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Code Analysis
 
-*   :strawberry: [IdeHelper plugin (⭐162)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   :strawberry: [IdeHelper plugin (⭐164)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 
 ### I18n
 
@@ -45,7 +45,7 @@
 
 ### Miscellaneous
 
-*   :strawberry: [Flash plugin (⭐11)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
+*   :strawberry: [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
 *   :strawberry: [Shim plugin (⭐37)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 
 ### ORM / Database / Datamapping
@@ -65,12 +65,12 @@
 
 ### SEO
 
-*   :strawberry: [Muffin/Slug plugin (⭐32)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
+*   :strawberry: [Muffin/Slug plugin (⭐33)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 
 ### Templating
 
 *   :strawberry: [Bake plugin (⭐94)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   :strawberry: [BootstrapUI plugin (⭐319)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
+*   :strawberry: [BootstrapUI plugin (⭐322)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 *   :strawberry: [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)

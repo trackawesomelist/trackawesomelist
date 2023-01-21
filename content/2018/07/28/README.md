@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,12 +10,12 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐527)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐535)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-*   [Calculators (⭐110)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+*   [Calculators (⭐117)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -36,7 +36,7 @@
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Monitoring / Single Sign-On (SSO)
+### Software / Monitoring
 
 *   [EdMon (⭐4)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 

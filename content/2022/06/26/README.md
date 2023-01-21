@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,8 +10,8 @@
 
 ### Network / HTTP
 
-*   [truemedian/zfetch (⭐59)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
-*   [ducdetronquito/requestz (⭐82)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
+*   [truemedian/zfetch (⭐61)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
+*   [ducdetronquito/requestz (⭐90)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfedit (⭐69)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
+*   [tfedit (⭐71)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
 ### Terraform Enterprise / Vendor supported providers
 
@@ -43,7 +43,7 @@
 
 ### Editor Plugins / Vendor supported providers
 
-*   [Terraform-ls (⭐759)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
+*   [Terraform-ls (⭐783)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -84,19 +84,19 @@
 
 ### Audio
 
-*   [VOICEVOX (⭐1.3k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
+*   [VOICEVOX (⭐1.4k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
-*   [react-animatable (⭐10)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
+*   [react-animatable (⭐12)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [phuslu/log (⭐463)](https://github.com/phuslu/log) - High performance structured logging.
+*   [phuslu/log (⭐465)](https://github.com/phuslu/log) - High performance structured logging.
 
 ---
 

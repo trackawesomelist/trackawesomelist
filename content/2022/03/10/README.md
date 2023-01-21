@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool. Alternative to proprietary services like Mailchimp or Sendinblue. ([Demo](https://app.keila.io), [Source Code (⭐704)](https://github.com/pentacent/keila)) `AGPL-3.0` `Elixir`
+*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool. Alternative to proprietary services like Mailchimp or Sendinblue. ([Demo](https://app.keila.io), [Source Code (⭐731)](https://github.com/pentacent/keila)) `AGPL-3.0` `Elixir`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -26,7 +26,7 @@
 
 ### Charts / Checkbox
 
-*   [svelte-frappe-charts (⭐229)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
+*   [svelte-frappe-charts (⭐246)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -51,13 +51,13 @@
 
 ### Software / Libraries and Tools
 
-*   [Chaos Genius (⭐495)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
+*   [Chaos Genius (⭐525)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [Chaos Genius (⭐502)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐512)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

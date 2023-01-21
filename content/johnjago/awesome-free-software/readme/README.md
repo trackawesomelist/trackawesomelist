@@ -2,7 +2,7 @@
 
 Curated list of free as in freedom software
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/johnjago/awesome-free-software/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/johnjago/awesome-free-software/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) · ⭐ 1.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/johnjago/awesome-free-software/README.md) / [Weekly](/content/johnjago/awesome-free-software/week/README.md) / Overview ]
 

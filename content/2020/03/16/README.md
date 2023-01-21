@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Online Resources / Other Lists Online
 
-*   [Red Teaming (⭐5k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources.
+*   [Red Teaming (⭐5.2k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources.
 
 ## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -42,11 +42,11 @@
 
 ### Automation
 
-*   [Clevis (⭐575)](https://github.com/latchset/clevis) - Plugable framework for automated decryption, often used as a Tang client.
+*   [Clevis (⭐594)](https://github.com/latchset/clevis) - Plugable framework for automated decryption, often used as a Tang client.
 
 ### DevSecOps / Policy enforcement
 
-*   [Tang (⭐320)](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
+*   [Tang (⭐331)](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Time / Date / Age
 
-*   [react-google-flight-datepicker (⭐358)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
+*   [react-google-flight-datepicker (⭐362)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
 
 ### CSS / Style / Mouse Events
 

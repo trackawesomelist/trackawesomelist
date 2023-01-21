@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### ASM / Music drivers and trackers
 
-*   [hardware.inc (⭐90)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
+*   [hardware.inc (⭐92)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
 
 ## [5. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -106,8 +106,8 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Ride Receipts (⭐138)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
-*   [Laqu-l (⭐131)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
-*   [Minimal Notes (⭐124)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Laqu-l (⭐130)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
+*   [Minimal Notes (⭐125)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

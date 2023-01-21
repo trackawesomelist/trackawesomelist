@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,7 +48,7 @@
 ### Benchmarking
 
 *   [benchee (⭐1.2k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir!
-*   [benchfella (⭐497)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
+*   [benchfella (⭐498)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 *   [bmark (⭐68)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography
@@ -61,7 +61,7 @@
 
 ### ORM and Datamapping
 
-*   [shards (⭐285)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
+*   [shards (⭐286)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
 
 ### Queue
 

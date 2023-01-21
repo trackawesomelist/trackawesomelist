@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -54,7 +54,7 @@
 
 ### Logging / Third-party APIs
 
-*   ⭐ [log4cl (⭐60)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
+*   ⭐ [log4cl (⭐61)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
     *   [log4cl-json (⭐2)](https://github.com/40ants/log4cl-json) - JSON appender extension. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
@@ -93,7 +93,7 @@
 
 ### Libraries / Molecular Descriptors
 
-*   [DescriptaStorus (⭐146)](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
+*   [DescriptaStorus (⭐149)](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
 
 ### Libraries / Docking
 
@@ -121,7 +121,7 @@
 
 ### DevSecOps / Service meshes
 
-*   [SOPS (⭐11k)](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
+*   [SOPS (⭐12k)](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
 *   [Vault](https://www.vaultproject.io/) - Tool for securely accessing secrets such as API keys, passwords, or certificates through a unified interface.
 *   [git-crypt](https://www.agwa.name/projects/git-crypt/) - Transparent file encryption in git; files which you choose to protect are encrypted when committed, and decrypted when checked out.
 

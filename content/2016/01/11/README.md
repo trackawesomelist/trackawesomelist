@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Framework Components
 
-*   [phoenix\_slime (⭐304)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
+*   [phoenix\_slime (⭐305)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
 *   [plug\_redirect\_https (⭐6)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ### HTTP
@@ -42,7 +42,7 @@
 ### ORM and Datamapping
 
 *   [arc\_ecto (⭐251)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
-*   [exnumerator (⭐66)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
+*   [exnumerator (⭐65)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Utilities
 

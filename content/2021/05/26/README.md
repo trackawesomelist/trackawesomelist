@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐517)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐520)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
 ## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Links / Official Links
 
-*   [JetBrains/kotlin (⭐43k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+*   [JetBrains/kotlin (⭐44k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐42)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐43)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

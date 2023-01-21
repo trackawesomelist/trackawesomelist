@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 11, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,11 +33,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐98)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐99)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐282)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐286)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 
 ## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -45,20 +45,7 @@
 
 *   [*Intermediate iOS 12 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Tutorials
-
-*   "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
-    *   [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
-    *   [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
-    *   [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
-    *   [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
-    *   [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
-    *   [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
-    *   [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
-
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Exceptions
 

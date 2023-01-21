@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,22 +18,22 @@
 
 ### Tools
 
-*   💼 [Tailwind CSS Figma Kit (⭐710)](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
-*   💼 [Tailwind CSS Figma Plugin (⭐253)](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
+*   💼 [Tailwind CSS Figma Kit (⭐714)](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
+*   💼 [Tailwind CSS Figma Plugin (⭐256)](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 
 ### Starters & Themes
 
-*   🚀 [Gatsby Starter + TypeScript (⭐76)](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
+*   🚀 [Gatsby Starter + TypeScript (⭐77)](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management
 
-*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐114)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
+*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐117)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 
 ### Software / Password Managers
 
-*   [Vaultwarden (⭐20k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`
+*   [Vaultwarden (⭐22k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -77,8 +77,8 @@
 
 ### Packages / Middleware
 
-*   [Eclipse Zenoh (⭐609)](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh>)
-*   [Eclipse Zenoh-Plugin-DDS (⭐82)](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds>)
+*   [Eclipse Zenoh (⭐648)](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh>)
+*   [Eclipse Zenoh-Plugin-DDS (⭐86)](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds>)
 
 ## [9. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 

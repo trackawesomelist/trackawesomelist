@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Send (⭐2.8k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐2.8k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
+*   [Send (⭐2.9k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐2.9k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -26,8 +26,8 @@
 
 ### Tools / Ansible
 
-*   [dotbare (⭐527)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
-*   [toml-bombadil (⭐122)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+*   [dotbare (⭐549)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
+*   [toml-bombadil (⭐131)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

@@ -2,7 +2,7 @@
 
 51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 *   [sparforte](http://sparforte.com/) - SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
 *   [gsh (⭐89)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
-*   [gnatcoll-scripts-shell (⭐36)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
+*   [gnatcoll-scripts-shell (⭐42)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
 
 ### Programming Languages / Other / unknown licence
 
@@ -39,7 +39,7 @@
 
 ### Text & Rich Content / Image Picker
 
-*   [AutoSizeText (⭐1.7k)](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
+*   [AutoSizeText (⭐1.8k)](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -147,9 +147,9 @@
 
 ### Recommended reading / Wikipedia
 
-*   [Blockchain](https://en.wikipedia.org/wiki/Blockchain): "A blockchain is a growing list of records, called blocks, which are linked using cryptography."
-*   [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence): "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
-*   [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead."
+*   [Blockchain](https://en.wikipedia.org/wiki/Blockchain) - "A blockchain is a growing list of records, called blocks, which are linked using cryptography."
+*   [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
+*   [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) - "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead."
 
 ## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
@@ -159,18 +159,18 @@
 
 ### Tools / Web, JavaScript
 
-*   [jsfunfuzz (⭐600)](https://github.com/MozillaSecurity/funfuzz) - JavaScript engine fuzzers.
+*   [jsfunfuzz (⭐604)](https://github.com/MozillaSecurity/funfuzz) - JavaScript engine fuzzers.
 *   [IFuzzer (⭐90)](https://github.com/vspandan/IFuzzer) - An Evolutionary Interpreter Fuzzer Using Genetic Programming.
 *   [domato (⭐1.5k)](https://github.com/googleprojectzero/domato) - DOM fuzzer from [Google Project Zero](https://github.com/googleprojectzero). [Blog Post.](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)
 
 ### Tools / Network protocol
 
-*   [TLS-Attacker (⭐665)](https://github.com/RUB-NDS/TLS-Attacker) - A Java-based framework for analyzing TLS libraries.
+*   [TLS-Attacker (⭐684)](https://github.com/RUB-NDS/TLS-Attacker) - A Java-based framework for analyzing TLS libraries.
 
 ### Platform / Driver
 
 *   [Peach Fuzzer Platform](https://www.peach.tech/products/peach-fuzzer/) - An automated security testing platform that prevents zero day attacks by finding vulnerabilities in hardware and software systems.
-*   [Blackhat USA 2018 AFL workshop training materials (⭐18)](https://github.com/wrauner/afl-fuzzing-training) - From @wrauner at Samsung Research.
+*   [Blackhat USA 2018 AFL workshop training materials (⭐19)](https://github.com/wrauner/afl-fuzzing-training) - From @wrauner at Samsung Research.
 
 ## [18. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -302,20 +302,20 @@
 ### Platforms
 
 *   [IBM Cloud (⭐75)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-*   [Firebase (⭐610)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+*   [Firebase (⭐619)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐445)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐452)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐544)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐566)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Food (⭐122)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-*   [Bitcoin Payment Processors (⭐275)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Food (⭐128)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+*   [Bitcoin Payment Processors (⭐284)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ### Related
 
@@ -325,7 +325,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Espial (⭐583)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
+*   [Espial (⭐599)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -358,7 +358,7 @@
 
 ### Tools
 
-*   [cl-data-structures (⭐39)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-data-structures (⭐40)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -390,7 +390,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [pwndbg (⭐5k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
+*   [pwndbg (⭐5.2k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
 
 ## [35. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -529,7 +529,7 @@
 ### Algorithms and Data Structures
 
 *   [Decompress (⭐105)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐45)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Ke (⭐44)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 ## [48. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
@@ -546,7 +546,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐215)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐218)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ### Form / Barcode
 

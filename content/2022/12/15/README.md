@@ -2,17 +2,13 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
-### Conversational
-
-*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
-
-### Other
+### Prompting
 
 *   [ChatGPT prompts](https://prompts.chat/)
 
@@ -37,11 +33,7 @@
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Text-to-video / Text-to-image Google Colab Notebooks (Multiple Models)
-
-*   [THUDM/CogVideo (⭐2.2k)](https://github.com/THUDM/CogVideo): Text-to-video generation
-
-### Inbox: Music-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music and Audio projects / Text-related Generative Tools
 
 *   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
 *   [Dance Diffusion](https://huggingface.co/spaces/harmonai/dance-diffusion): the Hugging Face Space by harmonai
@@ -49,7 +41,11 @@
 *   [Jukebox](https://openai.com/blog/jukebox/): "a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles"
 *   [Magenta](https://magenta.tensorflow.org/): Music and Art Generation with Machine Intelligence
 *   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
-*   [archinetai/audio-diffusion-pytorch (⭐534)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
+*   [archinetai/audio-diffusion-pytorch (⭐575)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
+
+### Inbox: Video AI tools / Text-related Generative Tools
+
+*   [THUDM/CogVideo (⭐2.3k)](https://github.com/THUDM/CogVideo): text-to-video generation
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -75,13 +71,13 @@
 
 ### Miscellaneous
 
-*   [passbook (⭐2)](https://github.com/Bounceapp/ex_passbook) - Elixir library to create Apple Wallet (.pkpass) files.
+*   [passbook (⭐5)](https://github.com/Bounceapp/ex_passbook) - Elixir library to create Apple Wallet (.pkpass) files.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 
-*   [Testcontainers (⭐2.4k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+*   [Testcontainers (⭐2.5k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -91,19 +87,19 @@
 
 ### Math
 
-*   [Matft (⭐79)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
+*   [Matft (⭐80)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
 
 ### Networking
 
-*   [Get (⭐733)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
+*   [Get (⭐745)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
 
 ### Other Parsing
 
-*   [CreateAPI (⭐284)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
+*   [CreateAPI (⭐286)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 
 ### Alert & Action Sheet
 
-*   [BottomSheet (⭐95)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+*   [BottomSheet (⭐100)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ### Keyboard
 
@@ -111,31 +107,31 @@
 
 ### Utility / Collection View Layout
 
-*   [SwiftBoost (⭐117)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐119)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
-*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsloved murder cases. Rulebook in Polish.
+*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Project / Diagnostics
 
-*   [nyngwang/suave.lua (⭐3)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
+*   [nyngwang/suave.lua (⭐16)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
 
 ### Cursorline / Diagnostics
 
-*   [nyngwang/murmur.lua (⭐51)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
+*   [nyngwang/murmur.lua (⭐64)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 
 ### Terminal Integration / Diagnostics
 
-*   [nyngwang/NeoTerm.lua (⭐17)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+*   [nyngwang/NeoTerm.lua (⭐27)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 
 ### Quickfix / Diagnostics
 
-*   [nyngwang/NeoWell.lua (⭐3)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
+*   [nyngwang/NeoWell.lua (⭐6)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -149,4 +145,5 @@
 
 ---
 
+- Prev: [Dec 16, 2022](/content/2022/12/16/README.md)
 - Next: [Dec 14, 2022](/content/2022/12/14/README.md)

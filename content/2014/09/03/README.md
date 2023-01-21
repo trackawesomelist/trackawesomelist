@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -42,8 +42,8 @@
 
 *   [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. \[LGPL]
 *   [cxx-prettyprint (⭐535)](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. \[Boost]
-*   [libcpuid (⭐356)](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. \[BSD]
-*   [libevil (⭐27)](https://github.com/avati/libevil) - The Evil License Manager. \[GPLv3]
+*   [libcpuid (⭐358)](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. \[BSD]
+*   [libevil (⭐28)](https://github.com/avati/libevil) - The Evil License Manager. \[GPLv3]
 *   [SDS (⭐4.1k)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. \[BSD]
 
 ### API Design

@@ -2,7 +2,7 @@
 
 A curated list of CTF frameworks, libraries, resources and softwares
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/apsdehal/awesome-ctf/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) · ⭐ 7.4K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/apsdehal/awesome-ctf/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) · ⭐ 7.4K · 🏷️ Security
 
 [ Daily / [Weekly](/content/apsdehal/awesome-ctf/week/README.md) / [Overview](/content/apsdehal/awesome-ctf/readme/README.md) ]
 

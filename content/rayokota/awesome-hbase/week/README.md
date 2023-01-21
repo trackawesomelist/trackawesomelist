@@ -2,7 +2,7 @@
 
 A curated list of awesome HBase projects and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rayokota/awesome-hbase/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rayokota/awesome-hbase](https://github.com/rayokota/awesome-hbase) · ⭐ 157 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rayokota/awesome-hbase/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rayokota/awesome-hbase](https://github.com/rayokota/awesome-hbase) · ⭐ 157 · 🏷️ Databases
 
 [ [Daily](/content/rayokota/awesome-hbase/README.md) / Weekly / [Overview](/content/rayokota/awesome-hbase/readme/README.md) ]
 

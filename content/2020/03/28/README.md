@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -115,7 +115,7 @@
 
 ### Demo
 
-*   [Sitecore.HabitatHome.Utilities (⭐40)](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance etc.
+*   [Sitecore.HabitatHome.Utilities (⭐41)](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance etc.
 *   [Sitecore.HabitatHome.Commerce (⭐28)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - Demo assets with external contributors and partners.
 *   [Sitecore.HabitatHome.Omni (⭐22)](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
 *   [Sitecore User Group UK (⭐5)](https://github.com/steviemcg/scuguk) - A demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.
@@ -142,7 +142,7 @@
 
 *   [Sitecore.Foundation.Fields (⭐1)](https://github.com/MartinMiles/Sitecore.Foundation.Fields) - A collection of custom fields ready-to-use with your Sitecore solution.
 *   [CrossDatabaseTreeListField (⭐0)](https://github.com/ivansharamok/CrossDatabaseTreeListField) - An extended Treelist field to support cross database references.
-*   [LimitedText Field (⭐2)](https://github.com/ParTech/LimitedText-Field-Controls) - Adds two new field types to the Sitecore Content Editor, Single-Line Text Limited and Multi-Line Text Limited. Both inherit all functionality from the existing text field controls and add the posibility to configure a maximum allowed value for the field, also inform the user of the number of remaining characters while they are editing.
+*   [LimitedText Field (⭐3)](https://github.com/ParTech/LimitedText-Field-Controls) - Adds two new field types to the Sitecore Content Editor, Single-Line Text Limited and Multi-Line Text Limited. Both inherit all functionality from the existing text field controls and add the posibility to configure a maximum allowed value for the field, also inform the user of the number of remaining characters while they are editing.
 *   [CustomFields (⭐2)](https://github.com/AlexanderDavyduk/CustomFields) - A selection of NameValueDropLists, NameValueDropListsField, NameValueDroplist, NameValueDroplistField, SortableMultilist, SortableMultilistField, TimeZonesDropList fields.
 *   [YouTube Video Picker Field (⭐2)](https://github.com/pveller/BrainJocks.YouTubeVideoField) - Fully workable solution for YouTube video picker field for Sitecore.
 *   [Hide Dependent Fields Controls (⭐2)](https://github.com/jammykam/Hide-Dependent-Fields) - Adds new Checkbox, Droplist and Droplink field type to the Sitecore Content Editor which depending on the selected value will hide the proceeding sibling fields. All controls inherit from their equivalent Sitecore counterpart and add the required UI enhancements.
@@ -151,10 +151,10 @@
 
 ### JSS
 
-*   [JSS (⭐221)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
+*   [JSS (⭐228)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 *   [sugcon-2019-jss-examples (⭐0)](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 *   [SitecoreQL (⭐15)](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example you can query against Sitecore's Content Search API.
-*   [JSS React Starter Application (⭐2)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
+*   [JSS React Starter Application (⭐3)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
 *   ['Hello World' Starter for Sitecore JSS Tech Preview 4 (⭐10)](https://github.com/altola/sitecore-jss-react-starter) - A hello world starter for Sitecore JSS without GraphQL bits.
 *   [Extensible JSON Renderings (⭐3)](https://github.com/coreyasmith/jss-extensible-json-renderings) - Extending JSON renderings in Sitecore JavaScript Services.
 *   [JavaScript Services Anti-Forgery Tokens (⭐0)](https://github.com/coreyasmith/jss-anti-forgery-tokens) - A sample repository to demonstrate how to use .NET anti-forgery tokens in Sitecore JavaScript Services with both MVC and Web API controllers using out-of-the-box anti-forgery token validators. The demo API is also completely mocked in disconnected mode to show how this functionality can work in both disconnected and connected modes.
@@ -163,7 +163,7 @@
 ### Helix
 
 *   [Sitecore Helix Documentation (⭐28)](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practises for developing in Sitecore for Sitecore Helix.
-*   [Helixbase (⭐101)](https://github.com/muso31/Helixbase) - Sitecore Helix based solution for Greenfield projects.
+*   [Helixbase (⭐102)](https://github.com/muso31/Helixbase) - Sitecore Helix based solution for Greenfield projects.
 *   [Helix example Module & Solution templates (⭐3)](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
 *   [Helix frontend development example (⭐4)](https://github.com/LaubPlusCo/helix-frontend-example) - A simple frontend development setup for a Sitecore Helix solution.
 *   [CustomLinkProvider (⭐0)](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
@@ -215,7 +215,7 @@
 ### Packaging
 
 *   [Package Autoloader (⭐3)](https://github.com/JeffDarchuk/PackageAutoloader) - A tool to automatically apply a Sitecore package to hydrate some content as part of a deployment.
-*   [Sitecore.Ship (⭐75)](https://github.com/kevinobee/Sitecore.Ship) - A lightweight means to install Sitecore Update packages via HTTP requests.
+*   [Sitecore.Ship (⭐74)](https://github.com/kevinobee/Sitecore.Ship) - A lightweight means to install Sitecore Update packages via HTTP requests.
 
 ### Pipelines
 
@@ -244,7 +244,7 @@
 ### SEO
 
 *   [301 Redirect Module (⭐30)](https://github.com/thecadams/301RedirectModule) - An improved version of the Sitecore 301 redirect module.
-*   [SitecoreSitemapXML (⭐9)](https://github.com/JimmieOverby/SitecoreSitemapXML) - Generates the Sitemap compliant with the schema defined by sitemaps.org and submits it to search engines.
+*   [SitecoreSitemapXML (⭐8)](https://github.com/JimmieOverby/SitecoreSitemapXML) - Generates the Sitemap compliant with the schema defined by sitemaps.org and submits it to search engines.
 *   [Sitemap Generator (⭐4)](https://github.com/jermdavis/SitemapGenerator) - An example Sitecore / FakeDB / TDS / Cloud Build project for sitemap generation.
 *   [Sitecore Solr (⭐1)](https://github.com/bigredmachine/sitecore-solr) - An example code of how you could extend the Sitecore Solr provider.
 *   [URL Rewriter Module (⭐3)](https://github.com/ParTech/Url-Rewriter) - Enables administrator or editors to manage URL rewrite rules from within the Sitecore client, supporting rewriting of hostnames, relative URL's and absolute URL's.
@@ -253,8 +253,8 @@
 ### Serialization
 
 *   [Rainbow (⭐31)](https://github.com/SitecoreUnicorn/Rainbow) - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
-*   [Unicorn (⭐258)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
-*   [Sidekick (⭐47)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs based microservice architecture operations.
+*   [Unicorn (⭐260)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
+*   [Sidekick (⭐46)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs based microservice architecture operations.
 *   [Rhino (⭐12)](https://github.com/kamsar/Rhino) - An experimental serialization data provider for Sitecore.
 
 ### Sitecore Host
@@ -272,7 +272,7 @@
 *   [SXA Styleguide (⭐13)](https://github.com/markvanaalst/SXA.Styleguide) - An education site based on SXA that helps explaining the inner working and illustrating best practices.
 *   [SXA.Styleguide.Frontend (⭐1)](https://github.com/markvanaalst/SXA.Styleguide.Frontend) - A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the seperate scriban templates.
 *   [SXA.Foundation.Variants (⭐4)](https://github.com/MartinMiles/SXA.Foundation.Variants) - A collection of custom SXA rendering variants and some other useful things that may be helpful in your solution.
-*   [SXA Reference (⭐17)](https://github.com/alan-null/XA.Reference) - An example Sitecore project build on top of Sitecore Experience Accelerator.
+*   [SXA Reference (⭐18)](https://github.com/alan-null/XA.Reference) - An example Sitecore project build on top of Sitecore Experience Accelerator.
 *   [SXA.HealthCheck (⭐5)](https://github.com/alan-null/SXA.HealthCheck) - A Power Shell script used to determine health status of SXA site, consists of validation steps, each of them checks different thing in SXA solution and provides possible solution.
 *   [Global Field Validator (⭐1)](https://github.com/JeffDarchuk/SxaGlobalFieldValidator) - An SXA module to validate fields at a site level rather than at the template field level.
 *   [Westco SXA Extensions (⭐8)](https://github.com/michaellwest/westco-sxa-extensions) - Sitecore Experience Accelerator (SXA) extensions.

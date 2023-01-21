@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -57,7 +57,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐721)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐726)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [6. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -69,8 +69,8 @@
 
 ### Hardware
 
-*   [keyboard (⭐3.2k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-*   [mouse (⭐710)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
+*   [keyboard (⭐3.3k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+*   [mouse (⭐724)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 
 ---
 

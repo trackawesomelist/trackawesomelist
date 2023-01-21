@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [rshijack (⭐368)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
+*   [rshijack (⭐376)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Widgets / Redux / ELM / Dependency Injection
 
-*   [Hooks (⭐2.5k)](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
+*   [Hooks (⭐2.6k)](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

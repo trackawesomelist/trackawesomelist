@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -55,13 +55,13 @@
 
 ### Miscellaneous / Third Party
 
-*   [d3-force-reuse (⭐108)](https://github.com/twosixlabs/d3-force-reuse) - Faster force-directed graph layouts by reusing force approximations
+*   [d3-force-reuse (⭐110)](https://github.com/twosixlabs/d3-force-reuse) - Faster force-directed graph layouts by reusing force approximations
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
-*   [assimp (⭐8.5k)](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
+*   [assimp (⭐8.6k)](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

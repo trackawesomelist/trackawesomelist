@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,11 +38,11 @@
 
 ### Contents / Social Network
 
-*   [Fedi (⭐75)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
+*   [Fedi (⭐97)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### People and works / Artists and Artworks
 
 *   [Alien Dreams: An Emerging Art Scene - ML@B Blog](https://ml.berkeley.edu/blog/posts/clip-art/)
 
@@ -50,7 +50,7 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clath (⭐30)](https://github.com/BnMcGn/clath) - a single sign-on
+*   [clath (⭐33)](https://github.com/BnMcGn/clath) - a single sign-on
     middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
     and OpenID. At the time of writing, it supports authentication from
     Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
@@ -61,14 +61,14 @@
 
 ### Apps / Third-party APIs
 
-*   [Slite (⭐41)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [Slite (⭐42)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
     *   Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Map / Image Picker
 
-*   [Map (⭐93)](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
+*   [Map (⭐100)](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -100,17 +100,17 @@
 
 ## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://twitter.com/stevesi).
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - By Jessica Rich and Travis Lowdermilk.
 *   [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - By Melissa Perri.
 *   [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - By Camille Fournier.
 
-### Communities / Hellonext
+### Communities / Screeb
 
 *   [Ladder](https://ladder.to/)
 
@@ -134,7 +134,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-ucloud (⭐62)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
+*   [terraform-provider-ucloud (⭐64)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 
 ---
 

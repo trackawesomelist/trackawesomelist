@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,15 +27,15 @@
 
 ### Software / Automation
 
-*   [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code (⭐350)](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Python`
+*   [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code (⭐376)](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Python`
 
 ### Software / Money, Budgeting & Management
 
-*   [EasyQuickImport (⭐12)](https://github.com/karser/EasyQuickImport) `⚠` - A tool that helps you import transactions, invoices and bills into QuickBooks Desktop from Excel or CSV. `MIT` `PHP`
+*   [EasyQuickImport (⭐13)](https://github.com/karser/EasyQuickImport) `⚠` - A tool that helps you import transactions, invoices and bills into QuickBooks Desktop from Excel or CSV. `MIT` `PHP`
 
 ### Software / Pastebins
 
-*   [LogPaste (⭐259)](https://github.com/mtlynch/logpaste) - Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend. ([Demo](https://logpaste.com/)) `MIT` `Go`
+*   [LogPaste (⭐270)](https://github.com/mtlynch/logpaste) - Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend. ([Demo](https://logpaste.com/)) `MIT` `Go`
 
 ## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Example Projects
 
-*   [Keycloak Project Example (Customizations, Extensions, Configuration) (⭐186)](https://github.com/thomasdarimont/keycloak-project-example)
+*   [Keycloak Project Example (Customizations, Extensions, Configuration) (⭐210)](https://github.com/thomasdarimont/keycloak-project-example)
 
 ### Miscellaneous
 
@@ -85,13 +85,13 @@
 
 ### Tools
 
-*   [READMINE (⭐31)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
+*   [READMINE (⭐33)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [sunjon/Shade.nvim (⭐364)](https://github.com/sunjon/Shade.nvim) - Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance.
+*   [sunjon/Shade.nvim (⭐379)](https://github.com/sunjon/Shade.nvim) - Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance.
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -104,7 +104,7 @@
 ### DevSecOps / Supply chain security
 
 *   [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern your software supply chain.
-*   [Helm GPG (GnuPG) Plugin (⭐23)](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
+*   [Helm GPG (GnuPG) Plugin (⭐22)](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
 *   [Notary (⭐2.9k)](https://github.com/theupdateframework/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
 
 ---

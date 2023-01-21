@@ -2,7 +2,7 @@
 
 Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dive-into-machine-learning/dive-into-machine-learning/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) · ⭐ 11K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dive-into-machine-learning/dive-into-machine-learning/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) · ⭐ 11K · 🏷️ Learn
 
 [ [Daily](/content/dive-into-machine-learning/dive-into-machine-learning/README.md) / Weekly / [Overview](/content/dive-into-machine-learning/dive-into-machine-learning/readme/README.md) ]
 

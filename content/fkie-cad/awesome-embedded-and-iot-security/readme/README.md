@@ -2,7 +2,7 @@
 
 A curated list of awesome embedded and IoT security resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fkie-cad/awesome-embedded-and-iot-security/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) · ⭐ 966 · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fkie-cad/awesome-embedded-and-iot-security/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) · ⭐ 966 · 🏷️ Security
 
 [ [Daily](/content/fkie-cad/awesome-embedded-and-iot-security/README.md) / [Weekly](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/writing-resources/awesome-scientific-writing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) · ⭐ 458 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/writing-resources/awesome-scientific-writing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) · ⭐ 458 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/writing-resources/awesome-scientific-writing/week/README.md) / [Overview](/content/writing-resources/awesome-scientific-writing/readme/README.md) ]
 

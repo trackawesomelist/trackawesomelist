@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,20 +16,20 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐427)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐428)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐915)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐923)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐599)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐601)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐702)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
-*   [generator-nm (⭐733)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
+*   [node-module-boilerplate (⭐704)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [generator-nm (⭐735)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [3. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
@@ -72,15 +72,15 @@
 
 ### CSV
 
-*   [csv (⭐444)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐446)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Debugging
 
-*   [eper (⭐439)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐438)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
-*   [fs (⭐215)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐217)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### HTTP
 
@@ -88,7 +88,7 @@
 
 ### Miscellaneous
 
-*   [huex (⭐60)](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
+*   [huex (⭐62)](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 
 ### Queue
 

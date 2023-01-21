@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,14 +22,14 @@
 
 ### Packages / Image
 
-*   [probe-image-size (⭐830)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
+*   [probe-image-size (⭐837)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 
 ### Packages / URL
 
-*   [normalize-url (⭐761)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+*   [normalize-url (⭐765)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 *   [speakingurl (⭐1.1k)](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-*   [linkify-it (⭐568)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
-*   [url-pattern (⭐560)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
+*   [linkify-it (⭐573)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+*   [url-pattern (⭐565)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 ---
 

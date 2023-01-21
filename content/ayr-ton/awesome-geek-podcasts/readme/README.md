@@ -2,7 +2,7 @@
 
 A curated list of podcasts we like to listen to. 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 411 · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 423 · 🏷️ Entertainment
 
 [ [Daily](/content/ayr-ton/awesome-geek-podcasts/README.md) / [Weekly](/content/ayr-ton/awesome-geek-podcasts/week/README.md) / Overview ]
 
@@ -80,7 +80,6 @@ A curated list of podcasts we like to listen to.
 *   [AdminAdmin Podcast](https://adminadminpodcast.co.uk) - A podcast about system administration and (increasingly) DevOps and Cloud operations.
 *   [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 *   [Around IT In 256 Seconds](https://256.nurkiewicz.com/) - Podcast for developers, testers, SREs… and their managers. I explain complex and convoluted technologies in a clear way, avoiding buzzwords and hype. Never longer than 4 minutes and 16 seconds.
-*   [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
 *   [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) - Away From The Keyboard is where technologists tell their stories of how they started, how they grew, how they learned, and how they unwind.
 *   [Away from Keyboard](https://changelog.com/afk) – Exploring the human side of creative work.
 *   [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short manageable chunks.
@@ -94,7 +93,6 @@ A curated list of podcasts we like to listen to.
 *   [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
 *   [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 *   [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
-*   [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
 *   [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux. (Ceased production 2020)
 *   [Citizen Cosmos](https://www.citizencosmos.space/) - A podcast discovering the masterminds of the Cosmos blockchain ecosystem and web3 .
 *   [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
@@ -160,7 +158,6 @@ A curated list of podcasts we like to listen to.
 *   [Linear Digressions](http://lineardigressions.com/) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 *   [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
 *   [Linux For Everyone](https://linuxforeveryone.fireside.fm/) - A show about the thrilling world of desktop Linux, open source software and the community creating it. For beginners and veterans alike! Hosted by Forbes' Jason Evangelho and friends.
-*   [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) - Weekly Linux live and open talk show
 *   [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
 *   [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
 *   [Makers](https://crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
@@ -170,8 +167,6 @@ A curated list of podcasts we like to listen to.
 *   [New Rustacean](https://newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
 *   [Note To Self](https://www.wnycstudios.org/shows/notetoself) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
 *   [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
-*   [Omega tau science & engineering podcast](https://omegataupodcast.net/) - A science and engineering podcast. Bilingual podcast, some episodes are in german.
-*   [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) - Tales from the Hardware/Software Interface: “the nerdiest podcast on the face of the planet”.
 *   [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) - A security podcast geared towards those looking to better understand security topics of the day.
 *   [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
 *   [Our Ludicrous Future](https://ourludicrousfuture.com/) - Mostly talks abut space, technology and Elon Musk.
@@ -222,7 +217,6 @@ A curated list of podcasts we like to listen to.
 *   [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
 *   [The Amp Hour](https://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
 *   [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
-*   [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 *   [The Bug Bounty Podcast](https://anchor.fm/bugbountypodcast) - A Podcast about bugs, bounties and its researchers. Hosted by Fisher.
 *   [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of software development.
 *   [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
@@ -234,7 +228,6 @@ A curated list of podcasts we like to listen to.
 *   [The Hanselminutes podcast](https://hanselminutes.com/) - Fresh Air for Developers.
 *   [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 *   [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
-*   [The Linux Action Show](https://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
 *   [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
 *   [The Manifest](https://manifest.fm) - A podcast all about package management.
 *   [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
@@ -288,12 +281,10 @@ A curated list of podcasts we like to listen to.
 *   [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
 *   [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 *   [PodProgramar](https://podprogramar.com.br/) - Podcast sobre desenvolvimento técnologia comando pela Jessi Zanelato e Ana Eliza, abordam temas iniciantes e avançados.
-*   [PodTag](https://podtag.com.br/) - Podcast comando pelo Luiz Gonçalves que abordam diversos temas sobre tecnologia desde de carreira a techs em si com vários convidades diferentes.
 *   [Podtrash](http://www.td1p.com/) - Um podcast sobre filmes trash, feito por adoradores do trash.
 *   [Quebradev](https://quebradev.com.br/) - Um podcast de origem periférica e com destino voltado à origem.
 *   [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
 *   [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
-*   [Reloading](http://reloading.com.br/) - Podcast semanal que traz as notícias, acontecimentos e curiosidades mais importantes do mundo dos videogames.
 *   [Souforce.cloud](https://souforce.cloud/podcast/) - O primeiro podcast voltado ao mundo Salesforce no idioma Português, aqui batemos um papo de Desenvolvimento, Administração da Plataforma, Produtos Salesforce além de assuntos como Carreira entre outros.
 *   [Start Coding](https://anchor.fm/start-coding) - Start Coding é uma iniciativa online com o objetivo de inserir mulheres na tecnologia. O podcast apresenta temas da computação e a equidade de gênero na área.
 *   [Tecnocast](https://tecnoblog.net/categoria/podcast/) - Podcast do Tecnoblog, sobre tecnologia.
@@ -325,12 +316,9 @@ A curated list of podcasts we like to listen to.
 *   [deployando.me](https://deployando.me/) - Podcast de tecnologia para sysadmins y devops.
 *   [Eduardo Collado](https://www.eduardocollado.com/) - Administración de redes. No sólo de hosting y redes vive el hombre.
 *   [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - Aquí encontraras informacion en español sobre producción y postproducción de audio y vídeo con herramientas libres.
-*   [La Pingüina Increíblemente Curiosa](https://podcast.voidnull.es/) - Un podcast sobre LPIC, contenido de la certificación y explicaciones de los capitulos que hay que estudiar.
 *   [Más Allá de la Innovación](https://masalladelainnovacion.com) - Entrevistas tech de OpenExpo.
 *   [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - Reflexiones sobre tecnología, ordenadores, chromebooks, smartphones, tablets, software, sistemas operativos:Linux, Windows y otros y apps.
-*   [NeoSiteLinux Podcast](https://www.neositelinux.com/tags/#podcasts) - Donde lo principal es el Software Libre, GNU/Linux y la Tecnologia.
 *   [NOlegaltech Radio](https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html) - El mundo legal no mola nada... Píldoras de tecnología y derecho en 10 minutos.
-*   [Podcast Linux](https://avpodcast.net/podcastlinux) - Un podcast del mundo GNU/Linux para usuarios dómesticos de escritorio.
     *   [Linux Express, de Podcast Linux](https://podcastlinux.gitlab.io) - Resumen más personal de Podcast Linux.
 *   [Podcast oficial KDE España](https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html) - Podcast de la Asociación Cultural KDE España.
 *   [Salmorejo Geek](https://www.ivoox.com/podcast-salmorejo-geek_sq_f1206500_1.html) - Batiburrillo Digital. Sobre todo Linux.
@@ -371,7 +359,6 @@ A curated list of podcasts we like to listen to.
 ## In French
 
 *   [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
-*   [La Dev Team](https://www.radiokawa.com/episode/la-dev-team-hs2/) - Monthly podcast hosted by developers and talking about the video game industry.
 *   [Les Cast Codeurs](https://lescastcodeurs.com) — Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
 *   [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 *   [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
@@ -402,10 +389,6 @@ A curated list of podcasts we like to listen to.
 *   [Just4Fun](https://just4fun.io/) - Biweekly tech podcast hosted by Rafal Warzycha and Piotr Leszczynski. Main topics are JavaScript and frontend.
 *   [ChwastIT](https://chwast.it//) - The worst programming podcast in Poland. Casually, unbearably and possibly flippantly about software engineering. With [@kwasniew](https://twitter.com/kwasniew), [@kubek2k](https://twitter.com/kubek2k), [@peel](https://twitter.com/peel) and their guests - the weeds of polish IT.
 
-## In Turkish
-
-*   [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology, programming languages, conferences, Linux, Unix, iOS, MacOS, Python, Ruby, Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
-
 ## In Finnish
 
 *   [Webbidevaus.fi](https://webbidevaus.fi/) - Weekly podcast about web-development. Hosted by Antti Mattila and Riku Rouvila.
@@ -423,7 +406,6 @@ A curated list of podcasts we like to listen to.
 
 *   [De Appels en Peren Show](http://appelsenperenshow.nl/) - Een talkshow over en uit de toekomst. Technologie, media, cultuur en alles wat verder de toekomst mogelijk maakt.
 *   [Tech45](https://tech45.eu/) - Tech45 is een wekelijkse technologiepodcast. In ongeveer 45 minuten loodst een panel geeks je door het interessantste technieuws van de voorbije week.
-*   [TechSnacks](https://techsnacks.nl/) - De enige techpodcast op snackformaat!
 *   [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/) - Wekelijkse podcast waarin nerds Spa Rood drinken en praten over tech-onderwerpen. Met regelmatig gastnerds en vaste tafelnerds Daniel Kegel, Floris Diemel, Joost Schellevis, Jurian Ubachs en Randal Peelen.
 *   [ZeepCast](https://twitter.com/Zeepcast) - Een podcast over de laatste ontwikkelingen in wetenschap, technologie & popculture. Gehost door Sander Bijleveld & David van Dorsten.
 

@@ -2,7 +2,7 @@
 
 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 2.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 2.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/agarrharr/awesome-macos-screensavers/README.md) / [Weekly](/content/agarrharr/awesome-macos-screensavers/week/README.md) / Overview ]
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on May 28, 2019
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,13 +24,7 @@
 
 *   [Polypane](http://polypane.rocks)
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Calendar & Contacts - CalDAV or CardDAV Servers
-
-*   [DecSync CC](https://f-droid.org/packages/org.decsync.cc/) - Serverless contacts, calendar synchronization using your own file syncing method i.e Syncthing, Nextcloud etc. ([Source Code (⭐188)](https://github.com/39aldo39/DecSyncCC)) `GPL-3.0` `Kotlin`
-
-## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization / Graph Based approach
 
@@ -38,19 +32,19 @@
 *   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
 *   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
 
-## [6. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
+## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
 ### Typography / Storyboard
 
 *   [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - Typography Terms Cheat Sheet.
 
-## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Should You Learn TypeScript? (Benefits & Resources)](https://snipcart.com/blog/learn-typescript-why-use-ts)
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
@@ -58,15 +52,15 @@
 
 ### Tools / Communication
 
-*   [Matrix (⭐895)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐897)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Scroll / Other
 
 *   [simpleParallax (⭐1.5k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
-## [10. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
+## [9. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
 ### Games
 
@@ -83,7 +77,7 @@
 *   [awesome snowkit (⭐123)](https://github.com/anissen/awesome-snowkit)
 *   [awesome haxe js (⭐26)](https://github.com/MatthijsKamstra/awesome-haxe-js)
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -97,7 +91,7 @@
 
 *   [Manta](https://getmanta.app/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hql287/Manta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [12. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [11. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools
 
@@ -119,18 +113,18 @@
 
 *   [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick \*\*\*.
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / IoT SDK
 
 *   [Repo for C :fire::fire::fire: (⭐856)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 
-## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Editable data grid / spreadsheet
 
-*   [gigatables-react (⭐131)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐5.7k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [gigatables-react (⭐135)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
+*   [react-data-grid (⭐5.8k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Menu
 
@@ -142,15 +136,15 @@
 
 ### Chart
 
-*   [rumble-charts (⭐337)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
+*   [rumble-charts (⭐338)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 
 ### Audio / Video
 
-*   [react-player (⭐7.1k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐7.2k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐387)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐388)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
@@ -158,11 +152,11 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-simple-timefield (⭐95)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
+*   [react-simple-timefield (⭐96)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
 
 ### Form Components / Sortable List
 
-*   [react-anything-sortable (⭐456)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
+*   [react-anything-sortable (⭐455)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
 
 ### Form Components / Image Editing
 
@@ -170,7 +164,7 @@
 
 ### Form Components / Form Component Collections
 
-*   [formsy-react-components (⭐289)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
+*   [formsy-react-components (⭐288)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 
 ### Component Collections / Material Design
 
@@ -182,7 +176,7 @@
 
 ### Reporter / Measurement Reporter
 
-*   [react-container-dimensions (⭐226)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
+*   [react-container-dimensions (⭐227)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
 
 ### Meta Tags / Mouse Events
 
@@ -190,7 +184,7 @@
 
 ### Portal / Mouse Events
 
-*   [react-layer-stack (⭐157)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
+*   [react-layer-stack (⭐158)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
 
 ### Data Store / Mouse Events
 
@@ -199,11 +193,11 @@
 
 ### Form Logic / Mouse Events
 
-*   [formcat (⭐113)](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
+*   [formcat (⭐112)](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 
 ### Props from server / Mouse Events
 
-*   [redux-async-connect (⭐650)](https://github.com/Rezonans/redux-async-connect) - Request async data, store in redux state, and connect to your component.
+*   [redux-async-connect (⭐649)](https://github.com/Rezonans/redux-async-connect) - Request async data, store in redux state, and connect to your component.
 *   [redux-connect (⭐549)](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
 
 ### Isomorphic Apps / Mouse Events
@@ -223,16 +217,16 @@
 
 ### i18n / Mouse Events
 
-*   [react-intl (⭐13k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
+*   [react-intl (⭐14k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [backbone-react-component (⭐815)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
+*   [backbone-react-component (⭐814)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
 *   [gl-react (⭐264)](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
 
 ### UI / Mouse Events
 
-*   [react-static-container (⭐222)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
+*   [react-static-container (⭐221)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
 ### App Size / Lazy Load
 
@@ -244,7 +238,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsonx (⭐138)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [jsonx (⭐144)](https://github.com/repetere/jsonx) - React JSON Syntax.
 
 ---
 

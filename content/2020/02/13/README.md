@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / Vector Creation
 
-*   [cozyvec (⭐66)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
+*   [cozyvec (⭐64)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
 
 ### Plotter Art For Sale / Ephemera
 
@@ -18,7 +18,7 @@
 
 ## [2. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
-### Software Engineering
+### Web
 
 *   [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 

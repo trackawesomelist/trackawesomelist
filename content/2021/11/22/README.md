@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -111,7 +111,7 @@
 
 ### Tools
 
-*   [Open Capture and Analytics Tool (OCAT) (⭐219)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
+*   [Open Capture and Analytics Tool (OCAT) (⭐229)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
 
 ## [9. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 

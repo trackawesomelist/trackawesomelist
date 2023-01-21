@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Packages / Application layer
 
-*   [octomap\_server2 (⭐10)](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap. Port of the ROS1 [octomap\_mapping (⭐228)](https://github.com/OctoMap/octomap_mapping) package. ![octomap\_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
+*   [octomap\_server2 (⭐13)](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap. Port of the ROS1 [octomap\_mapping (⭐231)](https://github.com/OctoMap/octomap_mapping) package. ![octomap\_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

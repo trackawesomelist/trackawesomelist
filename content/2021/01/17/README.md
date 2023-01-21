@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,8 +31,8 @@
 
 ### Apps
 
-*   [Argos Translate (⭐1.4k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
-*   [LibreTranslate (⭐2.9k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+*   [Argos Translate (⭐1.6k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+*   [LibreTranslate (⭐3.5k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Front-End Development
 
-*   [Design systems (⭐501)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+*   [Design systems (⭐526)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

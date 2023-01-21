@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### File Upload
 
-*   [attache (⭐205)](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
+*   [attache (⭐204)](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -22,7 +22,17 @@
 
 *   [Incidents + Outages at CircleCI: Our Playbook and What We’ve Learned](https://circleci.com/blog/incidents-outages-at-circleci-our-playbook-and-what-we-ve-learned/)
 
-## [3. Awesome Choo](/content/choojs/awesome-choo/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+
+### AI
+
+*   [CoreML-Models (⭐5.6k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+
+### UITableView / Barcode
+
+*   [AZTableViewController (⭐73)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
+
+## [4. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
 ### Contents / Dependencies
 
@@ -34,7 +44,7 @@
 *   [nanoquery (⭐48)](https://github.com/choojs/nanoquery) - Tiny querystring module.
 *   [nanotiming (⭐34)](https://github.com/choojs/nanotiming) - Small timing library.
 
-## [4. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Angular / Themes
 
@@ -42,25 +52,7 @@
 
 ### Components / Themes
 
-*   [antd-data-table (⭐124)](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
-
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### AI
-
-*   [CoreML-Models (⭐5.6k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
-
-### Concurrency
-
-*   [Kommander (⭐173)](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
-
-### Network / Barcode
-
-*   [NetClient (⭐124)](https://github.com/intelygenz/NetClient-iOS) - Versatile HTTP networking library.
-
-### UITableView / Barcode
-
-*   [AZTableViewController (⭐73)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
+*   [antd-data-table (⭐125)](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 
 ## [6. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 

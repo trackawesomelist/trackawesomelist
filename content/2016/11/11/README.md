@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -101,8 +101,8 @@
 
 *   [aiopg (⭐1.3k)](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 *   [aiomysql (⭐1.5k)](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
-*   [aioodbc (⭐250)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
-*   [motor (⭐2k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+*   [aioodbc (⭐253)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+*   [motor (⭐2.1k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 *   [aiocouchdb (⭐53)](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 
 ### Networking
@@ -111,12 +111,12 @@
 
 ### Testing
 
-*   [asynctest (⭐302)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
-*   [pytest-asyncio (⭐1k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+*   [asynctest (⭐301)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
+*   [pytest-asyncio (⭐1.1k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 
 ### Alternative Loops
 
-*   [uvloop (⭐9k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+*   [uvloop (⭐9.1k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
 ### Misc
 

@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,13 +18,13 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐67)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐68)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Image Processing
 
-*   [pywal (⭐6.8k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
+*   [pywal (⭐6.9k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 
 ## [4. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -42,7 +42,7 @@
 
 ### GitHub
 
-*   [github-stats-box (⭐74)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+*   [github-stats-box (⭐86)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Communities of Practice / Uncategorized
 
-*   [TidyTuesday (⭐5.1k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
+*   [TidyTuesday (⭐5.2k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
 ## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -103,13 +103,13 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐365)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐371)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Component Libraries
 
-*   [Smart Web Components (⭐314)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
+*   [Smart Web Components (⭐317)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 
 ### Tools
 

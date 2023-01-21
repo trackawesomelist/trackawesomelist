@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,7 +44,7 @@
 
 ### Others / Others
 
-*   [EventHorizon Blazor TypeScript Interop Generator (⭐109)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
+*   [EventHorizon Blazor TypeScript Interop Generator (⭐111)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
 
 ## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,15 +32,15 @@
 
 ### Tutorials and Blog Posts / How-To
 
-*   [Google Cloud Platform for 10$ a month using terraform (⭐23)](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
+*   [Google Cloud Platform for 10$ a month using terraform (⭐25)](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
 
 ### Private Provider Registries / Miscellaneous
 
-*   [terustry (⭐52)](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
+*   [terustry (⭐53)](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-openstack (⭐297)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
+*   [terraform-provider-openstack (⭐303)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 
 ### Boilerplates / Vendor supported providers
 
@@ -62,7 +62,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Locust (⭐38)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+*   [Awesome Locust (⭐43)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx.atomicfu (⭐620)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
+*   [Kotlin/kotlinx.atomicfu (⭐633)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 
 ## [10. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
@@ -100,7 +100,7 @@
 
 *   [Adversarial Model Extraction on Graph Neural Networks](https://arxiv.org/abs/1912.07721) - (AAAI Workshop on Deep Learning on Graphs: Methodologies and Applications) *Introduces GNN model extraction and presents a preliminary approach for this.*
 *   [Remote Explainability faces the bouncer problem](https://rdcu.be/b6qB4) - (Nature Machine Intelligence volume 2, pages529–539)  [(Code) (⭐4)](https://github.com/erwanlemerrer/bouncer_problem) *Shows the impossibility (with one request) or the difficulty to spot lies on the explanations of a remote AI decision.*
-*   [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) - (CVPR)  [(Code) (⭐25)](https://github.com/thisisalirah/GeoDA) *Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only).*
+*   [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) - (CVPR)  [(Code) (⭐27)](https://github.com/thisisalirah/GeoDA) *Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only).*
 *   [The Imitation Game: Algorithm Selectionby Exploiting Black-Box Recommender (⭐2)](https://github.com/erwanlemerrer/erwanlemerrer.github.io/raw/master/files/imitation_blackbox_recommenders_netys-2020.pdf) - (Netys)  [(Code) (⭐1)](https://github.com/gdamaskinos/RecRank) *Parametrize a local recommendation algorithm by imitating the decision of a remote and better trained one.*
 *   [Auditing News Curation Systems:A Case Study Examining Algorithmic and Editorial Logic in Apple News](https://ojs.aaai.org/index.php/ICWSM/article/view/7277) - (ICWSM) *Audit study of Apple News as a sociotechnical news curation system (trending stories section).*
 *   [Auditing Algorithms:  On Lessons Learned and the Risks of DataMinimization](https://dl.acm.org/doi/pdf/10.1145/3375627.3375852) - (AIES) *A practical audit for a well-being recommendation app developed by Telefónica (mostly on bias).*
@@ -108,7 +108,7 @@
 
 ### Papers / 2019
 
-*   [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) - (Neural Computing and Applications) [(Alternative implementation) (⭐13)](https://github.com/dunky11/adversarial-frontier-stitching) *Check if a remote machine learning model is a "leaked" one: through standard API requests to a remote model, extract (or not) a zero-bit watermark, that was inserted to watermark valuable models (eg, large deep neural networks).*
+*   [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) - (Neural Computing and Applications) [(Alternative implementation) (⭐18)](https://github.com/dunky11/adversarial-frontier-stitching) *Check if a remote machine learning model is a "leaked" one: through standard API requests to a remote model, extract (or not) a zero-bit watermark, that was inserted to watermark valuable models (eg, large deep neural networks).*
 *   [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766.pdf) - (CVPR) *Ask to what extent can an adversary steal functionality of such "victim" models based solely on blackbox interactions: image in, predictions out.*
 *   [Opening Up the Black Box:Auditing Google's Top Stories Algorithm](https://par.nsf.gov/servlets/purl/10101277) - (Flairs-32) *Audit of the Google's Top stories panel that pro-vides insights into its algorithmic choices for selectingand ranking news publisher*
 *   [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) - (arXiv) *Investigates how an adversary can optimally use its query budget for targeted evasion attacks against deep neural networks.*
@@ -126,7 +126,7 @@
 *   [Learning Networks from Random Walk-Based Node Similarities](https://arxiv.org/pdf/1801.07386) - (NIPS) *Reversing graphs by observing some random walk commute times.*
 *   [Identifying the Machine Learning Family from Black-Box Models](https://rd.springer.com/chapter/10.1007/978-3-030-00374-6_6) - (CAEPIA) *Determines which kind of machine learning model is behind the returned predictions.*
 *   [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) - (arXiv) *Stealing/approximating a model through timing attacks usin queries.*
-*   [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) - (IJCNN)  [(Code) (⭐13)](https://github.com/jeiks/Stealing_DL_Models) *Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO).*
+*   [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) - (IJCNN)  [(Code) (⭐14)](https://github.com/jeiks/Stealing_DL_Models) *Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO).*
 
 ### Papers / 2017
 
@@ -138,8 +138,8 @@
 ### Papers / 2016
 
 *   [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) - (dat workshop) *Measures the TaskRabbit's search algorithm rank.*
-*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐307)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
-*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐271)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
+*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐311)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
+*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐274)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
 *   [Back in Black: Towards Formal, Black Box Analysis of Sanitizers and Filters](http://ieeexplore.ieee.org/document/7546497/) - (Security and Privacy) *Black-box analysis of sanitizers and filters.*
 *   [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) - (Security and Privacy) *Introduces measures that capture the degree of influence of inputs on outputs of the observed system.*
 
@@ -171,13 +171,13 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-orm (⭐143)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
+*   [pinia-orm (⭐172)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 
 ## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
-*   [ThePrimeagen/harpoon (⭐1.5k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
+*   [ThePrimeagen/harpoon (⭐1.8k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 
 ## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Trees
 
-*   [treemap (⭐26)](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
+*   [treemap (⭐27)](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
 
 ### Email
 
@@ -228,9 +228,9 @@
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [awesome-dataviz (⭐3.2k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [awesome-datasets (⭐53k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Awesome Data Science Ideas (⭐617)](https://github.com/JosPolfliet/awesome-ai-usecases)
-*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐76)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐79)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
 ## [19. Public Apis](/content/public-apis/public-apis/README.md)
 

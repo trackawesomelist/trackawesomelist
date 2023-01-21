@@ -2,7 +2,7 @@
 
 An Awesome List of computer history videos, documentaries and related folklore
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/watson/awesome-computer-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) · ⭐ 2.3K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/watson/awesome-computer-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) · ⭐ 2.3K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/watson/awesome-computer-history/week/README.md) / [Overview](/content/watson/awesome-computer-history/readme/README.md) ]
 

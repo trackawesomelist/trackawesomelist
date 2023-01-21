@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,9 +49,9 @@
 
 ### Maps / Third Party
 
-*   [d3-geo-polygon (⭐93)](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons
-*   [d3-geo-voronoi (⭐199)](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere
-*   [d3-inertia (⭐57)](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia
+*   [d3-geo-polygon (⭐96)](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons
+*   [d3-geo-voronoi (⭐201)](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere
+*   [d3-inertia (⭐58)](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia
 
 ---
 

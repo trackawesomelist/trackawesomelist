@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Libraries / Python
 
-*   [aiosnmp (⭐35)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported.
+*   [aiosnmp (⭐36)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported.
 
 ### Libraries / Rust
 
-*   [davedufresne/modern\_snmp (⭐12)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
+*   [davedufresne/modern\_snmp (⭐13)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
 *   [Svedrin/sunt (⭐24)](https://github.com/Svedrin/sunt) - This repository implements an SNMP Agent written in Rust.
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-side-panel (⭐17)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
+*   [vue3-side-panel (⭐20)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -40,19 +40,19 @@
 
 ### Libraries / GUI
 
-*   [DioxusLabs/dioxus (⭐5.6k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+*   [DioxusLabs/dioxus (⭐6.7k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 
 ## [6. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 
-*   [Get started with JAX by Aleksa Gordić (⭐358)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
+*   [Get started with JAX by Aleksa Gordić (⭐377)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Core Extensions
 
-*   [Trick Bag (⭐35)](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
+*   [Trick Bag (⭐34)](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 
 ### Image Processing
 

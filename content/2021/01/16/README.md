@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,9 +16,9 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Code Snapshot (⭐40)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
-*   [Dialogic (⭐1.9k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
-*   [Scatter (⭐1k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
+*   [Code Snapshot (⭐42)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
+*   [Dialogic (⭐2k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
+*   [Scatter (⭐1.1k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -26,7 +26,7 @@
 
 *   Other Relational Databases
     *   [pymssql](https://pymssql.readthedocs.io/en/latest/) - A simple database interface to Microsoft SQL Server.
-    *   [clickhouse-driver (⭐946)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
+    *   [clickhouse-driver (⭐961)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

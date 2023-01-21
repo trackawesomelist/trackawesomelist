@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Plugins
 
-*   [tmux-menus (⭐115)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
+*   [tmux-menus (⭐125)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Authentication and OAuth
 
-*   [API Guard (⭐237)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+*   [API Guard (⭐239)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [Kotlin/kotlinx-kover (⭐784)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
+*   [Kotlin/kotlinx-kover (⭐801)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
 
 ## [5. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Sequence Alignment / Pairwise
 
-*   **[DIAMOND (⭐745)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
+*   **[DIAMOND (⭐758)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
 
 ## [6. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Explainability / Strong Machine Learning
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐793)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐796)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Motion / Diagnostics
 
-*   [ggandor/leap.nvim (⭐2.3k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
+*   [ggandor/leap.nvim (⭐2.4k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Domain
 
-*   [js.cool (⭐286)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
+*   [js.cool (⭐300)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
 
 ## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

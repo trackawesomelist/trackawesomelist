@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 24, 2016
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,13 +23,7 @@
 *   [msbuild (⭐4.8k)](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
 *   [vsts-agent (⭐1.4k)](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-### Web Frameworks
-
-*   [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
-
-## [4. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [3. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Examples / Aurelia Articles
 
@@ -38,7 +32,7 @@
 *   [discosultan/aurelia-minesweeper (⭐8)](https://github.com/discosultan/aurelia-minesweeper/) \* Classic Minesweeper game built with Aurelia by @discosultan.
 *   [aurelia-webapi-example (⭐3)](https://github.com/jimschubert/aurelia-webapi-example) \* An example WebAPI written with C# and Aurelia
 
-## [5. Awesome Standard](/content/standard/awesome-standard/README.md)
+## [4. Awesome Standard](/content/standard/awesome-standard/README.md)
 
 ### pretty terminal output (reporters)
 

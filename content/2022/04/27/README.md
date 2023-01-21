@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Parser / Package managers
 
-*   [Arwalk/zig-protobuf (⭐52)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+*   [Arwalk/zig-protobuf (⭐57)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-router-webcache (⭐2)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
+*   [vue-router-webcache (⭐3)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 
 ## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Applications
 
-*   [SocialHome (⭐331)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
+*   [SocialHome (⭐332)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
 *   [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
 *   [Ticktack ☠ (⭐55)](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 
@@ -68,8 +68,8 @@
 
 ### System Utilities / Directory Navigation
 
-*   [btop (⭐9.2k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
-*   [lsd (⭐8.6k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
+*   [btop (⭐9.9k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
+*   [lsd (⭐8.9k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -83,16 +83,16 @@
 
 ### Logging
 
-*   [slf4g (⭐2)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
+*   [slf4g (⭐3)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
 
 ### Microsoft Excel
 
-*   [exl (⭐15)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
+*   [exl (⭐13)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
 
 ### Parsers/Encoders/Decoders
 
 *   [encdec (⭐8)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
-*   [go-fasttld (⭐12)](https://github.com/elliotwutingfeng/go-fasttld) - High performance top level domains (TLD) extraction module.
+*   [go-fasttld (⭐14)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -104,7 +104,7 @@
 
 ### SQL / Parsers
 
-*   [SQLGlot (⭐1.9k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
+*   [SQLGlot (⭐2.1k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
 ## [11. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 

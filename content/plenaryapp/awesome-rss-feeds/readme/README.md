@@ -2,7 +2,7 @@
 
 Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/plenaryapp/awesome-rss-feeds/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) · ⭐ 159 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/plenaryapp/awesome-rss-feeds/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) · ⭐ 159 · 🏷️ Miscellaneous
 
 [ [Daily](/content/plenaryapp/awesome-rss-feeds/README.md) / [Weekly](/content/plenaryapp/awesome-rss-feeds/week/README.md) / Overview ]
 

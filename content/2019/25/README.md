@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 24 - Jun 30, 2019
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Memory Allocation
 
-*   [mimalloc (⭐7.5k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
+*   [mimalloc (⭐7.6k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
 
 ## [2. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Server side / Third Party
 
-*   [Kyrix (⭐133)](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support.
+*   [Kyrix (⭐135)](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support.
 
 ## [5. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [surveyjs (⭐3.4k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
+*   [surveyjs (⭐3.5k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -70,7 +70,7 @@
 
 ### For Electron / Other
 
-*   [trilogy (⭐243)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
+*   [trilogy (⭐244)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 
 ## [11. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
@@ -98,7 +98,7 @@
 
 ## [15. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - By Jake Knapp, John Zeratsky, Braden Kowitz.
 
@@ -176,7 +176,7 @@
 
 ### .Net Core
 
-*   [Bike (⭐114)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
+*   [Bike (⭐115)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 
@@ -188,7 +188,7 @@
 
 ### Other scripting utilities / Third-party APIs
 
-*   [WCL (⭐68)](https://github.com/wadehennessey/wcl) \[stalled] - allow hundreds of Lisp
+*   [WCL (⭐72)](https://github.com/wadehennessey/wcl) \[stalled] - allow hundreds of Lisp
     applications to be realistically available at once, while allowing
     several of them to run concurrently.  WCL accomplishes this by
     providing Common Lisp as a Unix shared library that can be linked with
@@ -198,10 +198,11 @@
     supports a full development environment, including dynamic file
     loading and debugging.  A modified version of GDB is used to debug WCL
     programs, providing support for mixed language debugging.
+    *   a [paper](https://dl.acm.org/doi/abs/10.1145/141478.141560): "Delivering efficient Common Lisp applications under Unix".
 
 ### Developer utilities / Third-party APIs
 
-*   [repl-utilities (⭐47)](https://github.com/m-n/repl-utilities) - Ease
+*   [repl-utilities (⭐48)](https://github.com/m-n/repl-utilities) - Ease
     common tasks at the REPL (print documentation, print external symbols,
     call hooks when loading a package,…). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
@@ -213,11 +214,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐399)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐408)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
-*   [phoenix\_meta\_tags (⭐24)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
+*   [phoenix\_meta\_tags (⭐25)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 
 ### Games
 
@@ -229,11 +230,11 @@
 
 ### Office
 
-*   [elixlsx (⭐234)](https://github.com/xou/elixlsx) - A writer for XLSX files.
+*   [elixlsx (⭐235)](https://github.com/xou/elixlsx) - A writer for XLSX files.
 
 ### Security
 
-*   [clamxir (⭐7)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
+*   [clamxir (⭐8)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 
 ### SMS
 
@@ -252,25 +253,19 @@
 
 *   [ex\_nric (⭐2)](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 
-## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### TEI / Vapor
-
-*   [What is the Text Encoding Initiative?](https://books.openedition.org/oep/426) - Lou Bernard
-
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Security
 
 *   [Netflix/bless :fire::fire::fire::fire::fire: (⭐2.7k)](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Knowledge Management Tools
 
 *   [My Mind (⭐3.1k)](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Hiring
 
@@ -288,20 +283,20 @@
 
 *   [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
-## [30. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [29. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tutorials / React General Tutorials
 
 *   [Setup Flow with React](https://flow.org/en/docs/react/)
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Abp vNext (⭐8.7k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
     Follows best practices and conventions to provide you a SOLID development experience.
 
-## [32. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [31. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Books
 
@@ -315,15 +310,15 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐809)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐833)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
-## [33. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [32. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Examples
 
 *   [Rust Package Registry (⭐2.3k)](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 
-## [34. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [33. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -334,13 +329,13 @@
 *   [react-native-google-pay ★2 (⭐84)](https://github.com/busfor/react-native-google-pay) - Accept Payments with Google Pay for React Native apps.
 *   [react-native-apay ★2 (⭐50)](https://github.com/busfor/react-native-apay) - React Native bridge for Apple Pay
 
-## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
 *   [API Security in Action](https://www.manning.com/books/api-security-in-action) - Book covering API security including secure development, token-based authentication, JSON Web Tokens, OAuth 2, and Macaroons. (early access, published continuously, final release summer 2020)
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Dependency Injection
 
@@ -352,14 +347,14 @@
 
 ### Text / Barcode
 
-*   [Tagging (⭐109)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
+*   [Tagging (⭐110)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### Transition / Barcode
 
 *   [PanSlip (⭐101)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
-*   [SamuraiTransition (⭐274)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
+*   [SamuraiTransition (⭐273)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 
-## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
 
@@ -373,44 +368,44 @@ Webpage: <http://zeitgeistcoffee.com/>
 | ---- | ----- | ------ | ----------------------------------------------------------------------- | -------------------------------------------------- |
 | open | ✔     | ✔      | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00 |
 
-## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [ChainX (⭐259)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+*   [ChainX (⭐262)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Polkadot (⭐6.4k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
-*   [Substrate (⭐7.7k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
+*   [Polkadot (⭐6.5k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
+*   [Substrate (⭐7.8k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / UI Helpers
 
-*   [Scroll To Index (⭐403)](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
-*   [In View Notifier List (⭐497)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
+*   [Scroll To Index (⭐415)](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
+*   [In View Notifier List (⭐512)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
 
 ### Charts / Image Picker
 
-*   [Bezier Chart (⭐422)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
+*   [Bezier Chart (⭐428)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 
 ### Hardware / Game Engine resources
 
 *   [Matrix2 (⭐20)](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
 
-## [40. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [39. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Sliders / Runner
 
 *   [Embla Carousel (⭐2.8k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 
-## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
 *   [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
 
-## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 

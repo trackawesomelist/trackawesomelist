@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Misc
 
-*   [ToolJet (⭐15k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐17k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ipychart (⭐67)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
 ## [3. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
@@ -28,15 +28,15 @@
 
 ### Tools
 
-*   [kics (⭐1.3k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
+*   [kics (⭐1.4k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Debanding Material Shader (⭐21)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
-*   [Dijkstra map for Godot (⭐56)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
-*   [Discord.gd (⭐82)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
+*   [Debanding Material Shader (⭐22)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
+*   [Dijkstra map for Godot (⭐60)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
+*   [Discord.gd (⭐88)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Libraries / Format Checking
 
-*   [pdb-tools (⭐230)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
+*   [pdb-tools (⭐236)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
 
 ---
 

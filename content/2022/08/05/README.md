@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -35,32 +35,32 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Scramjet Cloud Platform (⭐49)](https://github.com/scramjetorg/transform-hub) \[Python/JavaScript/Node.js] - data processing engine for running multiple data processing apps (sequences) written in Python, JavaScript or TypeScript
+*   [Scramjet Cloud Platform (⭐50)](https://github.com/scramjetorg/transform-hub) \[Python/JavaScript/Node.js] - data processing engine for running multiple data processing apps (sequences) written in Python, JavaScript or TypeScript
 
 ### Table of Contents / Streaming Library
 
-*   [Scramjet Node.js (⭐31)](https://github.com/scramjetorg/framework-js) - \[Node.js] functional reactive stream programming framework written on top of Node.js object streams + [the legacy Scramjet.js version (⭐240)](https://github.com/scramjetorg/scramjet)
-*   [Scramjet Python (⭐27)](https://github.com/scramjetorg/framework-python) - \[Python] functional reactive stream programming framework written from scratch operating on object, string and buffer streams.
+*   [Scramjet Node.js (⭐32)](https://github.com/scramjetorg/framework-js) - \[Node.js] functional reactive stream programming framework written on top of Node.js object streams + [the legacy Scramjet.js version (⭐242)](https://github.com/scramjetorg/scramjet)
+*   [Scramjet Python (⭐28)](https://github.com/scramjetorg/framework-python) - \[Python] functional reactive stream programming framework written from scratch operating on object, string and buffer streams.
 *   [Scramjet C++ (⭐2)](https://github.com/scramjetorg/framework-cpp) - \[C++] functional reactive stream programming framework written on top of Node.js object streams.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Novu](https://novu.co/) - Self-hosted / cloud notification infrastructure for developers. ([Source Code (⭐14k)](https://github.com/novuhq/novu/)) `MIT` `Docker/Nodejs`
+*   [Novu](https://novu.co/) - Self-hosted / cloud notification infrastructure for developers. ([Source Code (⭐18k)](https://github.com/novuhq/novu/)) `MIT` `Docker/Nodejs`
 *   [WBO (⭐1.5k)](https://github.com/lovasoa/whitebophir#wbo) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Video Conferencing
 
-*   [Galene](https://galene.org/) - Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources. ([Source Code (⭐713)](https://github.com/jech/galene)) `MIT` `Go`
+*   [Galene](https://galene.org/) - Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources. ([Source Code (⭐718)](https://github.com/jech/galene)) `MIT` `Go`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audiobookshelf](https://www.audiobookshelf.org/) - Fully open-source self-hosted audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ([Source Code (⭐1.9k)](https://github.com/advplyr/audiobookshelf), [Clients (⭐1.9k)](https://github.com/advplyr/audiobookshelf#android-app-beta)) `GPL-3.0` `Docker/Nodejs`
+*   [Audiobookshelf](https://www.audiobookshelf.org/) - Fully open-source self-hosted audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ([Source Code (⭐2k)](https://github.com/advplyr/audiobookshelf), [Clients (⭐2k)](https://github.com/advplyr/audiobookshelf#android-app-beta)) `GPL-3.0` `Docker/Nodejs`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Invidious (⭐9k)](https://github.com/iv-org/invidious) `⚠` - Invidious is an alternative front-end to YouTube. ([Demo](https://docs.invidious.io/instances/)) `AGPL-3.0` `Crystal`
+*   [Invidious (⭐9.2k)](https://github.com/iv-org/invidious) `⚠` - Invidious is an alternative front-end to YouTube. ([Demo](https://docs.invidious.io/instances/)) `AGPL-3.0` `Crystal`
 
 ### Software / Miscellaneous
 
@@ -69,7 +69,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐2.9k)](https://github.com/coder/coder)) `AGPL-3.0` `Go`
+*   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐3.3k)](https://github.com/coder/coder)) `AGPL-3.0` `Go`
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -137,15 +137,15 @@
 
 ### Contents / Imaging
 
-*   [Kaapana (⭐92)](https://github.com/kaapana/kaapana) - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
+*   [Kaapana (⭐94)](https://github.com/kaapana/kaapana) - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
 
 ### Contents / Frameworks
 
-*   [LinuxForHealth FHIR Server (⭐246)](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
+*   [LinuxForHealth FHIR Server (⭐252)](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
 
 ### Contents / Libraries
 
-*   [Asymmetrik FHIR API Server (⭐337)](https://github.com/bluehalo/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
+*   [Asymmetrik FHIR API Server (⭐342)](https://github.com/bluehalo/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
 
 ## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

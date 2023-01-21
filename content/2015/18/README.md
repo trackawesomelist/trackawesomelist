@@ -2,7 +2,7 @@
 
 22 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,7 +51,7 @@
 
 ### Machine Learning
 
-*   [MeTA (⭐658)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐656)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [8. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -254,7 +254,7 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Queue
 
-*   [amqp (⭐625)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐628)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 

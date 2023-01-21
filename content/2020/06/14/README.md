@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,11 +28,11 @@
 
 ### Themes
 
-*   [tmux-power (⭐285)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐297)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐340)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐346)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
 ## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Command-Line Productivity
 
-*   [tldr (⭐663)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
+*   [tldr (⭐667)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 
 ## [11. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 

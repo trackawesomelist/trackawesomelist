@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 22 - Mar 28, 2021
 
-60 awesome lists updated this week.
+59 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,27 +51,27 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐1.2k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
+*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐1.3k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Svelte
 
-*   [svelte-vite-ssr (⭐40)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+*   [svelte-vite-ssr (⭐42)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-radar (⭐60)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+*   [vite-plugin-radar (⭐66)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-imp (⭐183)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
+*   [vite-plugin-imp (⭐185)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
 
 ## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Kubernetes
 
-*   [kube-forensics (⭐169)](https://github.com/keikoproj/kube-forensics) - Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.
+*   [kube-forensics (⭐171)](https://github.com/keikoproj/kube-forensics) - Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.
 
 ### Communications security (COMSEC) / Service meshes
 
@@ -126,7 +126,7 @@
 
 ### Standalone apps / Playground
 
-*   :octocat: [App Outlet (⭐321)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+*   :octocat: [App Outlet (⭐326)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 
 ## [14. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [AckslD/nvim-revJ.lua (⭐104)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
+*   [AckslD/nvim-revJ.lua (⭐105)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
 
 ## [16. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -203,10 +203,10 @@
 ### Tools / Community Chat Rooms
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems](https://ferrous-systems.com) to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
-    *   [Probe Run (⭐467)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
-    *   [defmt (⭐464)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [flip-link (⭐146)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐194)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [Probe Run (⭐482)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
+    *   [defmt (⭐476)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+    *   [flip-link (⭐151)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐202)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐8)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
@@ -222,7 +222,7 @@
 
 ### Visualization / Interactive plots
 
-*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐53k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
+*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐54k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
 
 ## [25. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -234,32 +234,32 @@
 
 ### Contents / Education
 
-*   [Mathematics (⭐49)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [Mathematics (⭐56)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 
 ### Contents / Finance
 
-*   [Be Thrifty Today (⭐114)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
+*   [Be Thrifty Today (⭐119)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
 
 ### Contents / Health and Fitness
 
-*   [Smooth App (⭐221)](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
+*   [Smooth App (⭐258)](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
 
 ### Contents / Media
 
-*   [Flutter Music (⭐103)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
+*   [Flutter Music (⭐109)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
 
 ### Contents / Social Network
 
-*   [Fwitter (⭐2.1k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
-*   [GroupChatApp (⭐219)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
+*   [Fwitter (⭐2.3k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
+*   [GroupChatApp (⭐221)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
 
 ### Contents / Shopping
 
-*   [LaCoro Q-commerce app (⭐50)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
+*   [LaCoro Q-commerce app (⭐51)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
 
 ### Contents / Tools
 
-*   [Flutter Browser App (⭐251)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Flutter Browser App (⭐263)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ## [27. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -315,20 +315,20 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-signature (⭐28)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+*   [vue3-signature (⭐29)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
 *   [vue-signature (⭐185)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 
 ### Components & Libraries / UI Utilities
 
-*   [Reforms.js (⭐11)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
+*   [Reforms.js (⭐12)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-elements (⭐527)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
+*   [vue-stripe-elements (⭐528)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
 
 ### Components & Libraries / Dev Tools
 
-*   [Volar (⭐4.1k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+*   [Volar (⭐4.2k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ## [30. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -338,7 +338,7 @@
 
 ### Plugins
 
-*   [tmux-copytk (⭐34)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
+*   [tmux-copytk (⭐37)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 
 ## [31. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -418,11 +418,11 @@
 
 ### Automation
 
-*   [Runbook (⭐676)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐678)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
-*   [Mittsu (⭐479)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+*   [Mittsu (⭐481)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 
 ### Internationalization
 
@@ -431,7 +431,7 @@
 ### Machine Learning
 
 *   [TensorFlow (⭐336)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐466)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [Torch.rb (⭐470)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
 ## [41. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -453,21 +453,21 @@
 
 ### UI / Calendar
 
-*   [Time Planner (⭐134)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
+*   [Time Planner (⭐150)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
 
 ### Rendering / Redux / ELM / Dependency Injection
 
-*   [Graphx (⭐364)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
+*   [Graphx (⭐382)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
 
 ### Game / Open source games
 
-*   [Ghost Rigger (⭐181)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
+*   [Ghost Rigger (⭐183)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
 
 ## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Resume (⭐93)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
+*   📁 [Resume (⭐97)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
 
 ## [45. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -496,7 +496,7 @@
 
 ### Installation Media / Newsletters
 
-*   [nixos-generators (⭐725)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
+*   [nixos-generators (⭐768)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 
 ### Channel History / Newsletters
 
@@ -506,62 +506,62 @@
 ### Deployment Tools / Newsletters
 
 *   [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
-*   [KubeNix (⭐288)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
-*   [KuberNix (⭐658)](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
+*   [KubeNix (⭐294)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
+*   [KuberNix (⭐673)](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
 *   [NixOps (⭐1.2k)](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
-*   [terraform-nixos (⭐226)](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
+*   [terraform-nixos (⭐230)](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 
 ### Command-Line Tools / Newsletters
 
-*   [nixfmt (⭐315)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
-*   [nix-index (⭐388)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
-*   [nix-prefetch (⭐72)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
+*   [nixfmt (⭐327)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nix-index (⭐420)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
+*   [nix-prefetch (⭐76)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 
 ### Development / Newsletters
 
-*   [Arion (⭐332)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
-*   [cached-nix-shell (⭐136)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
+*   [Arion (⭐354)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
+*   [cached-nix-shell (⭐140)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 *   [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
-*   [gitignore.nix (⭐174)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
+*   [gitignore.nix (⭐176)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 *   [niv (⭐1.1k)](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
-*   [nix-direnv (⭐675)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
-*   [nixpkgs-review (⭐203)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
+*   [nix-direnv (⭐725)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+*   [nixpkgs-review (⭐214)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 
 ### Programming Languages / Haskell
 
-*   [cabal2nix (⭐305)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐444)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [cabal2nix (⭐315)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+*   [haskell.nix (⭐453)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Programming Languages / PureScript
 
-*   [Easy PureScript Nix (⭐172)](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
+*   [Easy PureScript Nix (⭐174)](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
 
 ### Programming Languages / Python
 
-*   [mach-nix (⭐655)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
-*   [poetry2nix (⭐382)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
-*   [pypi2nix (⭐190)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
+*   [mach-nix (⭐684)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
+*   [poetry2nix (⭐406)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
+*   [pypi2nix (⭐189)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
 ### Programming Languages / Ruby
 
-*   [Bundix (⭐120)](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
+*   [Bundix (⭐123)](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
 
 ### Programming Languages / Rust
 
-*   [naersk (⭐438)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
-*   [rust-nix-templater (⭐44)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+*   [naersk (⭐455)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
+*   [rust-nix-templater (⭐46)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 
 ### NixOS Modules / Scala
 
-*   [musnix (⭐269)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
-*   [nixcloud-webservices (⭐126)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
+*   [musnix (⭐275)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
+*   [nixcloud-webservices (⭐130)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 *   [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
+*   [nix-bitcoin (⭐283)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 
 ### Overlays / Webinterface
 
-*   [awesome-nix-hpc (⭐40)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
-*   [nix-bitcoin (⭐272)](https://github.com/fort-nix/nix-bitcoin) - Nix packages and NixOS modules for Bitcoin nodes with higher-layer protocols with an emphasis on security.
-*   [NUR (⭐735)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
+*   [awesome-nix-hpc (⭐41)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
+*   [NUR (⭐771)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 
 ### Community / Webinterface
 
@@ -740,28 +740,26 @@
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐175)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐174)](https://github.com/change/linguist) - Elixir Internationalization library.
 
-## [57. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
-
-### Table of Contents / Streaming Engine
-
-*   [HStreamDB (⭐561)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
-*   [Kuiper (⭐823)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
-
-## [58. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
-
-### Software / Middlewares
-
-*   [NanoMQ (⭐617)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
-
-## [59. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [57. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tutorials / React Interview Questions
 
 *   [React Coding Challenges (⭐2.5k)](https://github.com/alexgurr/react-coding-challenges/)
 
-## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [58. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+
+### Software / Frameworks
+
+*   [HStreamDB (⭐580)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+
+### Software / Middlewares
+
+*   [Kuiper (⭐870)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
+*   [NanoMQ (⭐703)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
+
+## [59. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 

@@ -2,7 +2,7 @@
 
 35 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -167,7 +167,7 @@ git shortlog
 
 ### For Electron / Other
 
-*   [electron-devtools-installer (⭐973)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
+*   [electron-devtools-installer (⭐981)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 
 ## [14. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -231,7 +231,7 @@ git shortlog
 
 ### Algorithms and Data structures
 
-*   [ecto\_state\_machine (⭐91)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
+*   [ecto\_state\_machine (⭐92)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 *   [simhash (⭐22)](https://github.com/UniversalAvenue/simhash-ex) - Simhash implementation using Siphash and N-grams.
 
 ### Framework Components
@@ -263,7 +263,7 @@ git shortlog
 
 ### Third Party APIs
 
-*   [pigeon (⭐552)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
+*   [pigeon (⭐555)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
 
 ### Translations and Internationalizations
 
@@ -271,7 +271,7 @@ git shortlog
 
 ### Utilities
 
-*   [sitemap (⭐99)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
+*   [sitemap (⭐98)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
 
 ### Newsletters
 
@@ -337,13 +337,9 @@ git shortlog
 
 *   [Cache (⭐2.7k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 
-### Chart
-
-*   [PNChart-Swift (⭐1.4k)](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
-
 ### Dependency Injection
 
-*   [Dip (⭐946)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+*   [Dip (⭐949)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 
 ### Device
 
@@ -356,30 +352,25 @@ git shortlog
 
 ### Camera
 
-*   [ALCameraViewController (⭐2k)](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
 *   [Fusuma (⭐2.4k)](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐237)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐240)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 
 *   [Live (⭐2.4k)](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 
-### Alert / Barcode
-
-*   [KRAlertController (⭐52)](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
-
 ### HUD / Barcode
 
-*   [EZLoadingActivity (⭐610)](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
-*   [KRProgressHUD (⭐634)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+*   [EZLoadingActivity (⭐612)](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
+*   [KRProgressHUD (⭐638)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 *   [PKHUD (⭐3.7k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 ### Utility / Barcode
 
-*   [Solar (⭐491)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐494)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 
@@ -545,11 +536,11 @@ Webpage: <https://www.bop.pt>
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [gifgen (⭐492)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+*   [gifgen (⭐496)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 
 ### Applications / Directory Navigation
 
-*   [vl (⭐17)](https://github.com/ellisonleao/vl) - URL link checker on text documents
+*   [vl (⭐20)](https://github.com/ellisonleao/vl) - URL link checker on text documents
 
 ---
 

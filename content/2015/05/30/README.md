@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,11 +46,11 @@
 
 ### Command Line Applications
 
-*   [getopt (⭐241)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+*   [getopt (⭐242)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ### Framework Components
 
-*   [phoenix\_pubsub\_redis (⭐165)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
+*   [phoenix\_pubsub\_redis (⭐166)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 *   [scaffold (⭐6)](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 
 ### Frameworks
@@ -62,11 +62,11 @@
 *   [database\_url (⭐8)](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
 *   [isn (⭐8)](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 *   [level (⭐5)](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
-*   [sqlite\_ecto (⭐75)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
+*   [sqlite\_ecto (⭐76)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
 
 ### Testing
 
-*   [proper (⭐846)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐845)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Third Party APIs
 

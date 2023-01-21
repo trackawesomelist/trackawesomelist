@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -405,7 +405,6 @@
 
 ### IDE and Code Editing
 
-*   [Atom](https://atom.io/) - Atom is a hackable text editor built on Electron.
 *   [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages.
 *   [cocalc.com](https://cocalc.com/) — (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
 *   [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web.
@@ -427,7 +426,7 @@
 
 ### Visitor Session Recording
 
-*   [hotjar.com](https://www.hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
+*   [hotjar.com](https://www.hotjar.com/) — Per site: 1,050 pages views/month, unlimited heatmaps, data stored for 3 months,...
 *   [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
 
 ### Payment and Billing Integration
@@ -446,10 +445,6 @@
 *   [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 *   [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
 
-### Other Free Resources
-
-*   [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
-
 ## [6. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Books
@@ -464,7 +459,7 @@
 
 ### Extensions
 
-*   [Next Cookie (⭐189)](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
+*   [Next Cookie (⭐190)](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -482,11 +477,11 @@
 
 ### File Manipulation
 
-*   :strawberry: [Josbeir/Filesystem plugin (⭐18)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
+*   :strawberry: [Josbeir/Filesystem plugin (⭐19)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
 
 ### Queue
 
-*   :strawberry: [Queue plugin (⭐282)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+*   :strawberry: [Queue plugin (⭐283)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ## [11. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 

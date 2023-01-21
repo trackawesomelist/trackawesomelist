@@ -2,7 +2,7 @@
 
 :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/leomaurodesenv/game-datasets/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) · ⭐ 423 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/leomaurodesenv/game-datasets/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) · ⭐ 423 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/leomaurodesenv/game-datasets/week/README.md) / [Overview](/content/leomaurodesenv/game-datasets/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 :speech_balloon: A curated list of gaming talks (development, design, etc)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hzoo/awesome-gametalks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hzoo/awesome-gametalks](https://github.com/hzoo/awesome-gametalks) · ⭐ 919 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hzoo/awesome-gametalks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hzoo/awesome-gametalks](https://github.com/hzoo/awesome-gametalks) · ⭐ 919 · 🏷️ Gaming
 
 [ [Daily](/content/hzoo/awesome-gametalks/README.md) / [Weekly](/content/hzoo/awesome-gametalks/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,8 +18,6 @@
 ### Utils / Third Party
 
 *   [d3scription (⭐29)](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
-*   [d3-tip (⭐1.2k)](https://github.com/Caged/d3-tip) - Tooltip helper
-*   [d3-tipy (⭐94)](https://github.com/tj/d3-tipy) - Tooltip helper
 
 ## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 

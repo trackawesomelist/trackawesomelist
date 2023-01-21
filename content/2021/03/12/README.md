@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Text & Rich Content / Image Picker
 
-*   [Code Field (⭐150)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
+*   [Code Field (⭐162)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐471)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
+*   [Gokapi (⭐503)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Miscellaneous
 
-*   [react-darkreader (⭐247)](https://github.com/Turkyden/react-darkreader) - 🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.
+*   [react-darkreader (⭐251)](https://github.com/Turkyden/react-darkreader) - 🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-typical (⭐153)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
+*   [vue-typical (⭐152)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
 
 ## [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 

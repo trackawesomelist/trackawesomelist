@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,13 +28,13 @@
 
 ### Testing
 
-*   [mockery (⭐84)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐86)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Design
 
-*   [API-Security-Checklist (⭐19k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+*   [API-Security-Checklist (⭐20k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

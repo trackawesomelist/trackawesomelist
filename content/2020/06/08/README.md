@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 08, 2020
 
-22 awesome lists updated today.
+21 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -121,13 +121,13 @@
 
 ### Libraries and Tools / Python
 
-*   [Scapy (⭐8.1k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
+*   [Scapy (⭐8.2k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
 ## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
-*   [vulkan (⭐121)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
+*   [vulkan (⭐122)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -139,8 +139,7 @@
 
 ### External Services
 
-*   [waka-box-go (⭐143)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
-*   [steam-box (⭐118)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐126)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -318,13 +317,7 @@
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐44)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
-
-## [22. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Docs / Online Playgrounds
-
-*   [DenoBR Playground](https://playground.denobr.com/)
+*   [Yew Fullstack Boilerplate (⭐46)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 
 ---
 

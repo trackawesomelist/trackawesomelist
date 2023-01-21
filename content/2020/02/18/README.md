@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Bindings
 
-*   [PasVulkan (⭐161)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
+*   [PasVulkan (⭐165)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -92,15 +92,15 @@
 
 ### Tools / XML
 
-*   [deno.mk (⭐13)](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
+*   [deno.mk (⭐14)](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
 *   maxmcd's [deno-docker (⭐74)](https://github.com/maxmcd/deno-docker) A docker image.
-*   hayd's [deno-docker (⭐705)](https://github.com/hayd/deno-docker) Several docker images.
+*   hayd's [deno-docker (⭐729)](https://github.com/hayd/deno-docker) Several docker images.
 
 ## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Boilerplate / Mouse Events
 
-*   [phoenix (⭐147)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
+*   [phoenix (⭐150)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
 ## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐152)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐153)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ---
 

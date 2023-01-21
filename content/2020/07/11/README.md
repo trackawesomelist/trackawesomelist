@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐594)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library [![Build Status](https://api.travis-ci.org/ramosbugs/oauth2-rs.svg?branch=main)](https://travis-ci.org/ramosbugs/oauth2-rs)
+*   [oauth2 (⭐613)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library [![Build Status](https://api.travis-ci.org/ramosbugs/oauth2-rs.svg?branch=main)](https://travis-ci.org/ramosbugs/oauth2-rs)
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -51,49 +51,34 @@
 
 *   [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment,
     task-execution, and multinode orchestration engine.
-*   [dotstow (⭐92)](https://github.com/codejamninja/dotstow) - Manage dotfiles with stow.
-*   [emplace (⭐197)](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines using a dotfiles
-    repository.
 *   [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases,
     functions, etc) from others into your own configuration files.
 *   [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or
     data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
-*   [homesick (⭐2.4k)](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your
-    dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)).
-*   [Pearl (⭐200)](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
+*   [Pearl (⭐203)](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
     packages automatically activated during shells or editors startup. There is a wide range of packages already available
     in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 *   [rcm (⭐2.9k)](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
-*   [themer (⭐4.9k)](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within
-    your dotfiles.
-*   [yadm (⭐3.7k)](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
+*   [yadm (⭐3.8k)](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
     using a shared Git repository and some additional features.
 
 ### Tools / macOS
 
-*   [zero (⭐211)](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
+*   [zero (⭐225)](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 
 ### Miscellaneous / macOS
 
-*   [OS X Defaults (⭐1.1k)](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by
-    [@mathiasbynens on .macos (⭐28k)](https://github.com/mathiasbynens/dotfiles#sensible-macos-defaults).
 *   [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) - Directory structure and
     directory contents in Linux distributions.
 *   [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) -
-    [Summary](https://wiki.archlinux.org/index.php/XDG_Base_Directory)
-*   [A lesson in shortcuts](https://www.reddit.com/r/linux/comments/at05xh/why_do_hidden_files_in_unix_begin_with_a_dot/egyj6lr/) -
-    How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+)
+    [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
 
 ### Related Lists / macOS
 
 *   [Awesome Dev Env (⭐2.4k)](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow
     tips making an awesome development environment.
-*   [Awesome Fish (⭐3.1k)](https://github.com/jorgebucaran/awesome-fish) - Curated list of packages, prompts, and resources for
-    the fish shell.
-*   [Awesome Shell (⭐25k)](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits,
+*   [Awesome Shell (⭐26k)](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits,
     guides and gizmos.
-*   [Awesome Sysadmin (⭐15k)](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source
-    sysadmin resources.
 *   [Awesome Zsh Plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with
     oh-my-zsh, antigen & Prezto.
 *   [Terminals Are Sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins &
@@ -101,12 +86,15 @@
 
 ### Archive/abandoned projects / macOS
 
-*   [Bork (⭐221)](https://github.com/mattly/bork)
-*   [Cider (⭐845)](https://github.com/msanders/cider)
-*   [dev-setup (⭐5.8k)](https://github.com/donnemartin/dev-setup)
-*   [dotfiles (⭐553)](https://github.com/jbernard/dotfiles)
-*   [ellipsis (⭐345)](https://github.com/ellipsis/ellipsis)
-*   [holman does dotfiles (⭐6.7k)](https://github.com/holman/dotfiles)
+*   [Bork (⭐222)](https://github.com/mattly/bork)
+*   [Cider (⭐846)](https://github.com/msanders/cider)
+*   [dev-setup (⭐5.9k)](https://github.com/donnemartin/dev-setup)
+*   [dotfiles (⭐555)](https://github.com/jbernard/dotfiles)
+*   [ellipsis (⭐347)](https://github.com/ellipsis/ellipsis)
+*   [emplace (⭐203)](https://github.com/tversteeg/emplace)
+*   [holman does dotfiles (⭐6.8k)](https://github.com/holman/dotfiles)
+*   [homesick (⭐2.4k)](https://github.com/technicalpickles/homesick)
+*   [OS X Defaults (⭐1.1k)](https://github.com/kevinSuttle/macOS-Defaults)
 *   [vcsh (⭐2k)](https://github.com/RichiH/vcsh)
     ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html),
     [article](https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/))
@@ -119,7 +107,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lumino (⭐60)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+*   [vue-lumino (⭐62)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

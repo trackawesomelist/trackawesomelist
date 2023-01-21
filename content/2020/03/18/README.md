@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### FPS
 
-*   [BStone (⭐235)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+*   [BStone (⭐236)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
 ## [4. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐52)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐54)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
 ## [11. Amas](/content/sindresorhus/amas/README.md)
 

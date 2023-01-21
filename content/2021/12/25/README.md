@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [darkredz/Zeko-SQL-Builder (⭐84)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
+*   [darkredz/Zeko-SQL-Builder (⭐86)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
 
 ## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -49,16 +49,16 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [EAF RSS (⭐14)](https://github.com/emacs-eaf/eaf-rss-reader) <sup>[1124](https://t.me/s/aboutrss/1124)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/emacs-eaf/eaf-rss-reader)
+*   [EAF RSS (⭐15)](https://github.com/emacs-eaf/eaf-rss-reader) <sup>[1124](https://t.me/s/aboutrss/1124)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/emacs-eaf/eaf-rss-reader)
 
 ### RSS services powered by utilizing Notion / Outline Processor Markup Language
 
-*   [NotionFeeder (⭐175)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
+*   [NotionFeeder (⭐186)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
 *   [Notion-Feed](https://notion-feed.com/) <sup>[1149](https://t.me/s/aboutrss/1149)</sup>
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obisidian-RSS (⭐161)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obisidian-RSS (⭐201)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### 😎 Services that support RSS / Outline Processor Markup Language
 
@@ -74,7 +74,7 @@
 
 ### universally from / multiple sources
 
-*   [RSSerpent (⭐212)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
+*   [RSSerpent (⭐211)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
 
 ### universally from / search results
 

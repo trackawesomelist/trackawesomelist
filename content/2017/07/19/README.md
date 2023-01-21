@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -68,7 +68,7 @@
 
 ### Server side / Third Party
 
-*   [d3-node (⭐661)](https://github.com/d3-node/d3-node) - Static chart and map generation
+*   [d3-node (⭐662)](https://github.com/d3-node/d3-node) - Static chart and map generation
 
 ## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -98,7 +98,7 @@
 ### Applications / Episodes
 
 *   [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-*   [mazda\_getInfo (⭐142)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
+*   [mazda\_getInfo (⭐143)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
 ## [10. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

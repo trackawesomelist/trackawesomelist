@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 29, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐160)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐172)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Typescript Project Starters
 
-*   [nd.ts (⭐25)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
+*   [nd.ts (⭐27)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
-*   [Learning Vue 3.0 (⭐465)](https://github.com/chengpeiquan/learning-vue3)
+*   [Learning Vue 3.0 (⭐494)](https://github.com/chengpeiquan/learning-vue3)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -52,15 +52,15 @@
 
 ### Databases
 
-*   [TypeDB (⭐46)](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
+*   [TypeDB (⭐47)](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 
 ### Decentralized Systems
 
-*   [Stacks (⭐74)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+*   [Stacks (⭐76)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ### Miscellaneous
 
-*   [Scriptable (⭐722)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+*   [Scriptable (⭐751)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## [9. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -91,18 +91,6 @@
 *   ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 *   ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 *   ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
-
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Fastify
-
-*   [Fastify - Latest Documentation](https://www.fastify.io/docs/latest) (HTML)
-
-### Rust / Sinatra
-
-*   [Rust For Systems Programmers (⭐3k)](https://github.com/nrc/r4cppp) - Nick Cameron
-*   [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
-*   [The Rust Language Reference (⭐846)](https://github.com/rust-lang/reference)
 
 ---
 

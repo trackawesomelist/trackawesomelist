@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -56,7 +56,7 @@
 
 ### View helpers
 
-*   [auto\_html (⭐785)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
+*   [auto\_html (⭐784)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 
 ---
 

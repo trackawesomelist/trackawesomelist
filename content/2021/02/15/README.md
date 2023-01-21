@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot experiments (⭐254)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐310)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-checkly (⭐37)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
+*   [terraform-provider-checkly (⭐40)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 

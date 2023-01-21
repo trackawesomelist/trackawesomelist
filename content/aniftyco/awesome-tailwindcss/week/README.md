@@ -2,7 +2,7 @@
 
 😎 Awesome things related to Tailwind CSS
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aniftyco/awesome-tailwindcss/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) · ⭐ 10K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aniftyco/awesome-tailwindcss/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) · ⭐ 10K · 🏷️ Front-End Development
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 

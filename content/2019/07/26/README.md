@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,8 +26,8 @@
 *   [WireEdit](https://wireedit.com/) - Full stack WYSIWYG pcap editor (requires a free license to edit packets).
 *   [bittwist](http://bittwist.sourceforge.net/) - Simple yet powerful libpcap-based Ethernet packet generator useful in simulating networking traffic or scenario, testing firewall, IDS, and IPS, and troubleshooting various network problems.
 *   [hping3 (⭐1.2k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
-*   [pig (⭐426)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
-*   [scapy (⭐8.1k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
+*   [pig (⭐432)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
+*   [scapy (⭐8.3k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
 *   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic.
 
 ## [4. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
@@ -46,18 +46,18 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Analytics (⭐114)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
-*   [BlazorPrettyCode (⭐34)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
-*   [Blazor.EventAggregator (⭐98)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
-*   [Blazor Gamepad (⭐19)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
-*   [Blazor Hotkeys (⭐112)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
-*   [Blazor.LocalFiles (⭐44)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
+*   [Blazor Analytics (⭐118)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
+*   [BlazorPrettyCode (⭐35)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
+*   [Blazor.EventAggregator (⭐101)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
+*   [Blazor Gamepad (⭐20)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
+*   [Blazor Hotkeys (⭐115)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
+*   [Blazor.LocalFiles (⭐45)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 
 ## [7. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 
-*   [The Green Meal (⭐84)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
+*   [The Green Meal (⭐83)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
 
 ## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 

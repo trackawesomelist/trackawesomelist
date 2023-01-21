@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,9 +16,9 @@
 
 ### Persistent object databases
 
-*   [bknr.datastore (⭐84)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+*   [bknr.datastore (⭐86)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
     *   see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
-    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐146)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐155)](https://github.com/screenshotbot/screenshotbot-oss).
 
 ### Utils / Third-party APIs
 
@@ -26,7 +26,7 @@
 
 ### Command-line options parsers / Third-party APIs
 
-*   👍 [Clingon (⭐51)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+*   👍 [Clingon (⭐56)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
     *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)

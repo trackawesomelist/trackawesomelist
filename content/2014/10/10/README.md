@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,11 +23,11 @@
 *   [Jansson (⭐2.7k)](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. \[MIT]
 *   [jbson (⭐40)](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. \[Boost]
 *   [JeayeSON (⭐128)](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. \[BSD]
-*   [JSON++ (⭐496)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
+*   [JSON++ (⭐498)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
 *   [json11 (⭐2.4k)](https://github.com/dropbox/json11) - A tiny JSON library for C++11. \[MIT]
 *   [libjson (⭐260)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
 *   [PicoJSON (⭐1k)](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. \[BSD]
-*   [qt-json (⭐304)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
+*   [qt-json (⭐305)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
 
 ### Logging
 
@@ -57,7 +57,7 @@
 ### Other Awesome Projects
 
 *   [lists (⭐8.6k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
-*   [free-programming-books (⭐258k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
+*   [free-programming-books (⭐259k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
 ---
 

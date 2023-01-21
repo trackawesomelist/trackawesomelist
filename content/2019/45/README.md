@@ -2,7 +2,7 @@
 
 50 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,13 +28,13 @@
 
 ### Data Manipulation / Pipelines
 
-*   [dopanda (⭐432)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [dopanda (⭐431)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [nefarious (⭐686)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
+*   [nefarious (⭐705)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -55,7 +55,7 @@
 
 ## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Build and software organization tools
+### Software / Build and software organization tools
 
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
@@ -97,13 +97,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Zeithub (⭐57)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
+*   [Zeithub (⭐58)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
-*   [CNL (⭐552)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐554)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Buttons
 
-*   [react-awesome-button (⭐1.1k)](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
+*   [react-awesome-button (⭐1.2k)](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
 
 ## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -236,7 +236,7 @@
 
 ### RESTful
 
-*   [REST API (⭐80)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐81)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ### Shop & Ecommerce
 
@@ -261,7 +261,7 @@
 ### Python / Reinforcement Learning
 
 *   [garage (⭐1.6k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐802)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [metaworld (⭐816)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [25. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
-*   [Mamonsu (⭐173)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
+*   [Mamonsu (⭐175)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 *   [pg\_monz (⭐162)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 *   [ZabbixDBA (⭐81)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
@@ -327,7 +327,7 @@
 
 ### Others
 
-*   [Blazor Tour of Heroes (⭐17)](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐379)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
+*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐387)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
 ## [33. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -425,7 +425,7 @@
 
 ### UI
 
-*   [Image Sequence Animator (⭐129)](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+*   [Image Sequence Animator (⭐134)](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 
 ### Desktop / Game Engine resources
 
@@ -439,7 +439,7 @@
 
 ### Web Crawling
 
-*   [Spidr (⭐701)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐704)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [38. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -592,11 +592,11 @@
 ### GraphQL
 
 *   [tartiflette-aiohttp (⭐60)](https://github.com/tartiflette/tartiflette-aiohttp/) - An `aiohttp`-based wrapper for Tartiflette to expose GraphQL APIs over HTTP.
-*   [tartiflette-asgi (⭐101)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
+*   [tartiflette-asgi (⭐99)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
 
 ### Network Virtualization
 
-*   [pox (⭐590)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐591)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
@@ -607,7 +607,7 @@
 *   Framework agnostic
     *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
     *   [falcon (⭐9k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐52k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    *   [fastapi (⭐53k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
     *   [hug (⭐6.7k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
     *   [sandman2 (⭐1.9k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
     *   [sanic (⭐17k)](https://github.com/huge-success/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
@@ -617,7 +617,7 @@
 
 *   [huey (⭐4.3k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 *   [mrq (⭐871)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐8.6k)](https://github.com/rq/rq) - Simple job queues for Python.
+*   [rq (⭐8.7k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### Web Frameworks
 
@@ -657,15 +657,12 @@
 
 ### Articles / Other external resources
 
-*   [Protecting your users data from Rails application using cryptography (⭐1.1k)](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App)
 *   [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
 *   [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
 *   [Working with the SQL ‘time’ type in Ruby on Rails](https://engineering.ezcater.com/youre-not-in-the-zone)
 *   [Upgrading Rails apps with dual boot](https://medium.com/oreilly-engineering/upgrading-rails-apps-with-dual-boot-e5c271e68a6e)
 *   [What Are Rails Parameters & How to Use Them Correctly](https://www.rubyguides.com/2019/06/rails-params/)
 *   [How to Remove Single Table Inheritance from Your Rails Monolith](https://medium.com/flatiron-labs/how-to-remove-single-table-inheritance-from-your-rails-monolith-c6009239defb)
-*   [Build a Rails application with VueJS using JSX](https://nebulab.it/blog/build-rails-application-vuejs-using-jsx/)
-*   [Fetching millions of rows from PostgreSQL with Rails](https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5)
 *   [Implementing Multi-Table Full Text Search with Postgres in Rails](https://thoughtbot.com/blog/implementing-multi-table-full-text-search-with-postgres)
 *   [Ruby on Rails ActiveRecord PostgreSQL Data Integrity and Validations](https://pawelurbanek.com/rails-postgresql-data-integrity)
 *   [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
@@ -677,14 +674,14 @@
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
-*   [Prowler (⭐6.8k)](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
-*   [Scout Suite (⭐4.8k)](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+*   [Prowler (⭐7k)](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+*   [Scout Suite (⭐4.9k)](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [CertSpotter (⭐582)](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
-*   [mailspoof (⭐78)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
-*   [phishing\_catcher (⭐1.4k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
+*   [CertSpotter (⭐589)](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
+*   [mailspoof (⭐80)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
+*   [phishing\_catcher (⭐1.5k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
 
 ## [49. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 

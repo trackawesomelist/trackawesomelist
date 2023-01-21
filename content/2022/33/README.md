@@ -2,7 +2,7 @@
 
 45 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Contents / Tools
 
-*   [NetworkArch (⭐6)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
+*   [NetworkArch (⭐8)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -54,9 +54,9 @@
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [casbin (⭐55)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
-*   [fibernewrelic (⭐55)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
-*   [opafiber (⭐55)](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
+*   [casbin (⭐66)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
+*   [fibernewrelic (⭐66)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
+*   [opafiber (⭐66)](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
 
 ## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -71,17 +71,17 @@
 *   [bettermap (⭐13)](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
 *   [cubic-bezier (⭐1)](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 *   [durationjs (⭐19)](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
-*   [fortuna (⭐13)](https://github.com/retraigo/fortuna) - Weighted gacha system.
+*   [fortuna (⭐14)](https://github.com/retraigo/fortuna) - Weighted gacha system.
 
 ### Showcases / XML
 
-*   [Saleor Deno Merch (⭐21)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor (⭐17k)](https://github.com/saleor/saleor).
+*   [Saleor Deno Merch (⭐22)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor (⭐18k)](https://github.com/saleor/saleor).
 
 ## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Related Awesome Lists / Galleries
 
-*   [amrzv/awesome-colab-notebooks (⭐618)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
+*   [amrzv/awesome-colab-notebooks (⭐646)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-sigsci (⭐20)](https://github.com/signalsciences/terraform-provider-sigsci) - Provider for Signal Sciences.
+*   [terraform-provider-sigsci (⭐21)](https://github.com/signalsciences/terraform-provider-sigsci) - Provider for Signal Sciences.
 
 ## [16. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
@@ -138,7 +138,7 @@
 
 ### PowerShell / Symfony2
 
-*   [Pode (⭐556)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
+*   [Pode (⭐561)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
 
 ## [20. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -164,13 +164,19 @@
 *   [Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games) - Information about 27,000 games scraped from Steam and SteamSpy APIs.
 *   [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from games.
 
-## [21. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [21. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+
+### Jobs / Other external resources
+
+*   [rails jobs on web3.career](https://web3.career/ruby-jobs)
+
+## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Coordination & Governance / Scala
 
 *   [Zeebe](https://camunda.com/platform/zeebe/) - Define, orchestrate, and monitor business processes across microservices.
 
-## [22. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [23. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
@@ -184,26 +190,26 @@
 
 
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
-*   [Popovers (⭐876)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
+*   [Popovers (⭐974)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Static Code Analysis
 
 *   [Trunk](https://trunk.io) - Toolkit to check, test, merge, and monitor code.
 
-## [25. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [26. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals and Ephemera / Manuals
 
 *   [Houston Instrument HIPLOT DMP-51/52 Operation Manual (1985)](https://archive.org/details/hi-dmp-51-52-operation-manual)
 *   [Houston Instrument Stand Assembly Procedure DMP-50 Series Plotter](https://archive.org/details/hi-stand-assembly-procedure-dmp-50-series-plotter)
 
-## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [27. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Other Resources / Telegram
 
@@ -211,7 +217,7 @@
 *   [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey.
 *   [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
 
-## [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [28. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -219,11 +225,11 @@
 *   [Ubuntu Desktop](https://ubuntu.com/raspberry-pi/desktop) - Ubuntu Desktop distribution for the Raspberry Pi. Supports Raspberry Pi 4.
 *   [Ubuntu Server](https://ubuntu.com/raspberry-pi/server) - Ubuntu Server distribution for the Raspberry Pi. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code (⭐9.1k)](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
+*   [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code (⭐9.3k)](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -231,30 +237,30 @@
 
 ### Software / Communication - IRC
 
-*   [Glowing Bear (⭐894)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
+*   [Glowing Bear (⭐896)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
 
 ### Software / Communication - SIP
 
-*   [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code (⭐987)](https://github.com/fonoster/routr)) `MIT` `Docker`
+*   [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code (⭐1k)](https://github.com/fonoster/routr)) `MIT` `Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐405)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
+*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐410)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
 *   [Isso](https://posativ.org/isso/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.7k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 
 ### Software / Software Development - Low Code
 
-*   [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code (⭐23k)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
+*   [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code (⭐24k)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
 *   [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes. Budibase is the open source alternative to Outsystems, Retool, Mendix, Appian. ([Source Code (⭐17k)](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs`
-*   [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code (⭐15k)](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
+*   [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code (⭐17k)](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
 
-## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [30. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [react-pipeline (⭐2)](https://github.com/maifeeulasad/react-pipeline) - React 18 + TS + AntD + GitHub Pages + Tailwind + Sass + React Router DOM + ESLint.
 
-## [30. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [31. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Fonts:
 
@@ -270,17 +276,17 @@
 
 
 
-## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Courses
 
 *   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. \[[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450\&hl=en\&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***Journal of Experimental Psychology***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939\&hl=en\&as_sdt=0,5)]. Experimental evidences for distincting causality and association.
 
-## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
@@ -290,7 +296,7 @@
 
 *   [MQTT X](https://mqttx.app/) - MQTT X is a cross-platform MQTT 5.0 client tool open sourced by EMQ, which supports macOS, Linux, and Windows.
 
-## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -298,18 +304,11 @@
 
 ### Relational Database Drivers
 
-*   [KSQL (⭐204)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
+*   [KSQL (⭐205)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
 
 ### Financial
 
-*   [bbgo (⭐758)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
-
-## [34. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
-
-### Jobs / Other external resources
-
-*   [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
-*   [rails jobs on web3.career](https://web3.career/ruby-jobs)
+*   [bbgo (⭐773)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
 
 ## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -317,8 +316,8 @@
 
 *   [GraphQL.NET (⭐5.4k)](https://github.com/graphql-dotnet/graphql-dotnet) - Implementation of [Facebook's GraphQL (⭐14k)](https://github.com/graphql/graphql-spec) in .Net
 *   [HotChocolate (⭐4.1k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server compatible to all GraphQL compliant clients like Strawberry Shake, Relay, Apollo Client, and various other clients and tools.
-*   [graphql-net (⭐883)](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
-*   [EntityGraphQL (⭐308)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
+*   [graphql-net (⭐884)](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
+*   [EntityGraphQL (⭐312)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
 
 ## [36. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
@@ -336,7 +335,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [AnySniper (⭐16)](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
+*   [AnySniper (⭐15)](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
 
 ### Components & Libraries / UI Layout
 
@@ -344,7 +343,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-persistedstate-2 (⭐63)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
+*   [pinia-persistedstate-2 (⭐65)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
 
 ## [39. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -356,7 +355,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olivercederborg/poimandres.nvim (⭐71)](https://github.com/olivercederborg/poimandres.nvim) - Neovim port of [poimandres VSCode theme (⭐160)](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua.
+*   [olivercederborg/poimandres.nvim (⭐88)](https://github.com/olivercederborg/poimandres.nvim) - Neovim port of [poimandres VSCode theme (⭐170)](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua.
 
 ### Debugging / Diagnostics
 
@@ -366,12 +365,12 @@
 
 ### Development tools / Formatters
 
-*   [dprint (⭐1.6k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
-*   [Prettier Rust (⭐83)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
+*   [dprint (⭐1.7k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
+*   [Prettier Rust (⭐86)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
 
 ### Libraries / Data structures
 
-*   [becheran/grid (⭐43)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] —  Provide a two dimensional data structure for rust that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
+*   [becheran/grid (⭐46)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] —  Provide a two dimensional data structure for rust that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
 
 ## [42. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 

@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Office
 
-*   [NetOffice (⭐567)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
+*   [NetOffice (⭐576)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
 
 ## [2. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Memory Allocation
 
-*   [Hoard (⭐923)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
+*   [Hoard (⭐925)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
 *   [jemalloc (⭐7.6k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ## [8. Tips](/content/git-tips/tips/README.md)
@@ -95,7 +95,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue2-perfect-scrollbar (⭐268)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
+*   [vue2-perfect-scrollbar (⭐269)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 
 ## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

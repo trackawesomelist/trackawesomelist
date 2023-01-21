@@ -2,7 +2,7 @@
 
 56 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐518)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐562)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -83,12 +83,6 @@
 *   [Comparison of approaches to multitenancy in Rails apps](https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/)
 *   [Managing Rails Event Store Subscriptions — How To](https://blog.arkency.com/managing-rails-event-store-subscriptions-how-to/)
 *   [Rails connections, pools and handlers](https://blog.arkency.com/rails-connections-pools-and-handlers/)
-*   [File Upload in Rails with PaperClip](https://scotch.io/tutorials/file-upload-in-rails-with-paperclip)
-*   [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1) - [Part 2](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-2)
-*   [Uploading Files With Rails and ActionCable](https://scotch.io/tutorials/uploading-files-with-rails-and-actioncable)
-*   [Create an Online Streaming Radio With Rails and Icecast](https://scotch.io/tutorials/creating-online-streaming-radio-with-rails-and-icecast)
-*   [Integrating Social Login in a Ruby on Rails Application](https://scotch.io/tutorials/integrating-social-login-in-a-ruby-on-rails-application)
-*   [Asynchronous Chat With Rails and ActionCable](https://scotch.io/tutorials/asynchronous-chat-with-rails-and-actioncable)
 *   [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
 *   [Building APIs with Ruby on Rails and GraphQL](https://www.sitepoint.com/building-apis-ruby-rails-graphql/)
 *   [Understanding the Model-View-Controller (MVC) Architecture in Rails](https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/)
@@ -116,7 +110,6 @@
 *   [Danger on Rails: make robots do some code review for you!](https://evilmartians.com/chronicles/danger-on-rails-make-robots-do-some-code-review-for-you)
 *   [GraphQL on Rails: From zero to the first query](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query)
 *   [A fixture-based approach to interface testing in Rails](https://evilmartians.com/chronicles/a-fixture-based-approach-to-interface-testing-in-rails)
-*   [Five Practices for Robust Ruby on Rails Applications](https://www.cloudbees.com/blog/five-practices-for-robust-ruby-on-rails-applications/)
 
 ## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -134,7 +127,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐165)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
+*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐169)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -229,11 +222,11 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Forest (⭐496)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+*   [Forest (⭐511)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools (⭐313)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐329)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
 ## [15. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -258,22 +251,22 @@
 
 ### Templates / Vue 3
 
-*   [Vitesse (⭐6.5k)](https://github.com/antfu/vitesse) - Opinionated starter template.
-*   [vite-ts-tailwind-starter (⭐281)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+*   [Vitesse (⭐6.7k)](https://github.com/antfu/vitesse) - Opinionated starter template.
+*   [vite-ts-tailwind-starter (⭐284)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-rsw (⭐300)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
-*   [vite-imagetools (⭐388)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+*   [vite-plugin-rsw (⭐307)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
+*   [vite-imagetools (⭐432)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 ### React / Framework
 
-*   [vite-plugin-react-pages (⭐306)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+*   [vite-plugin-react-pages (⭐313)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-image (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-*   [@rollup/plugin-strip (⭐2.9k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
+*   [@rollup/plugin-image (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+*   [@rollup/plugin-strip (⭐3k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
 
 ### Apps/Websites / Community
 
@@ -283,11 +276,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LogChimp (⭐371)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
+*   [LogChimp (⭐380)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ### Components & Libraries / UI Components
 
-*   [oh-vue-icons (⭐182)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
+*   [oh-vue-icons (⭐188)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
 ## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -363,7 +356,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Shaders (⭐1.8k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
+*   [Godot Shaders (⭐1.9k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 
 ## [25. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -454,7 +447,7 @@
 
 ### Tools / Binary
 
-*   [Jazzer (⭐655)](https://github.com/CodeIntelligenceTesting/jazzer) - A coverage-guided, in-process fuzzer for the Java Virtual Machine. It is based on libFuzzer and can be applied directly to compiled applications.
+*   [Jazzer (⭐694)](https://github.com/CodeIntelligenceTesting/jazzer) - A coverage-guided, in-process fuzzer for the Java Virtual Machine. It is based on libFuzzer and can be applied directly to compiled applications.
 
 ### Platform / Driver
 
@@ -493,7 +486,7 @@
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐230)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐232)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
 ## [31. Awesome Italy Events](/content/ildoc/awesome-italy-events/week/README.md)
 
@@ -598,7 +591,7 @@
 
 ### Frameworks
 
-*   [C++ Workflow (⭐9.6k)](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
+*   [C++ Workflow (⭐9.7k)](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
 
 ## [37. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
@@ -610,7 +603,7 @@
 
 ### Utility / Barcode
 
-*   [SwiftPlantUML (⭐363)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
+*   [SwiftPlantUML (⭐391)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
 
 ## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -840,9 +833,8 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐425)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐427)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
-*   [Falsehoods about Cars (⭐6)](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
 
 ### Dates and Time
 
@@ -882,7 +874,7 @@
 
 ### Phone Numbers
 
-*   [Falsehoods about Phone Numbers (⭐14k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
+*   [Falsehoods about Phone Numbers (⭐15k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
 
 ### Postal Addresses
 
@@ -905,11 +897,15 @@
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
 *   [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An attempt to establish a list of falsehoods about testing.
 *   [Falsehoods about Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why search (including analysis, tokenization, highlighting) is deceptively complex.
-*   [Falsehoods about Bitcoin (⭐36)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐37)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 *   [Falsehoods about Pagination](https://www.hezmatt.org/\~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - Why your pagination algorithm is giving someone (possibly you) a headache.
 *   [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - Diversity of file-systems and OSes makes file paths a little harder than we might think of.
 *   [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 *   [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There are a few things about `/dev/urandom` and `/dev/random` that are repeated again and again. Still they are false.
+
+### Transportation
+
+*   [Falsehoods about Cars (⭐6)](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
 
 ### Typography
 

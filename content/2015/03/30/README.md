@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -35,11 +35,11 @@
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐98)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐99)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐306)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐309)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

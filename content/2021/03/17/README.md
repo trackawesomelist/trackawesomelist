@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -170,12 +170,11 @@
 *   [asakusaSatellite (⭐101)](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers (using Rails 6.0). - [:earth\_africa:](https://www.codefirst.org/AsakusaSatellite/)
 *   [catarse (⭐1.6k)](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth\_africa:](https://www.catarse.me/)
 *   [commudle (⭐242)](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
-*   [eol (⭐57)](https://github.com/EOL/eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
-*   [kanban (⭐637)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
+*   [kanban (⭐638)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
 *   [opensourcefriday (⭐1.1k)](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
 *   [peatio (⭐3.6k)](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
 *   [reservations (⭐132)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
-*   [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0). - [:earth\_africa:](https://www.rletters.net)
+*   [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0).
 *   [sanataro (⭐52)](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2).
 
 ### Gems / Other external resources
@@ -215,7 +214,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Tailwind Cards (⭐454)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
+*   🧩 [Tailwind Cards (⭐467)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
 ## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -240,8 +239,8 @@
 
 ### Contents / News and Magazine
 
-*   [NewsApp (⭐127)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs  by [J-J-GAJJAR](https://github.com/j-j-gajjar).
-*   [InNews (⭐10)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
+*   [NewsApp (⭐143)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs  by [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [InNews (⭐12)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
 
 ## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -259,7 +258,7 @@
 
 ### UI / Bottom bars
 
-*   [Google Nav Bar (⭐521)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
+*   [Google Nav Bar (⭐530)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
 
 ---
 

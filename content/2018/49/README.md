@@ -2,7 +2,7 @@
 
 46 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,10 +11,6 @@
 ### Recommended reading / Blockchain, AI and Machine Learning
 
 *   [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam, March 13, 2018.
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Synapse AI](https://blog.synapse.ai/) - A decentralized global data marketplace built on the Ethereum blockchain.
 
 ## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -210,11 +206,11 @@
 
 ### Applications / Other / unknown licence
 
-*   [railway-simulation (⭐4)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
+*   [railway-simulation (⭐5)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 
 ### Bindings / Other / unknown licence
 
-*   [svd2ada (⭐50)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐53)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
 ## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -231,7 +227,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐635)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐637)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ## [23. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -524,15 +520,15 @@
 
 ### UI / Effect
 
-*   [Wave (⭐860)](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
+*   [Wave (⭐887)](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 
 ### State management / Standard
 
-*   [Bloc (⭐9.7k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
+*   [Bloc (⭐9.9k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
 
 ### Top / Game Engine resources
 
-*   [Transform Widget (⭐28)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
+*   [Transform Widget (⭐27)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 
 ## [37. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
@@ -613,7 +609,7 @@
 
 ### Community Extensions
 
-*   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐69)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
+*   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐70)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
 
 ## [46. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 

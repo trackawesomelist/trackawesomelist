@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,12 +39,12 @@
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐58)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐96)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐218)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐221)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
@@ -68,16 +68,11 @@
 
 ### Crypto
 
-*   [awesome-desci (⭐17)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
-*   [Split Bitcoin Wallet (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md)
+*   [Split Bitcoin Wallet (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 
-### Kernels
+### Kernels / Microkernels
 
-*   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
-
-### Exploitation Tools
-
-*   [awesome-fuzzing (⭐611)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -99,4 +94,5 @@
 
 ---
 
+- Prev: [Jan 09, 2023](/content/2023/01/09/README.md)
 - Next: [Jan 07, 2023](/content/2023/01/07/README.md)

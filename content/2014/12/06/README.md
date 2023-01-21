@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,7 +21,7 @@
     *   [CQL (⭐22)](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
     *   [cuke\_modeler (⭐19)](https://github.com/enkessler/cuke_modeler) - An modeling library for `.feature` files that is an abstration layer on top of the `gherkin` gem, providing a stable base upon which to build other Gherkin related tools.
     *   [gitarro (⭐15)](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
-    *   [Knapsack (⭐475)](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
+    *   [Knapsack (⭐480)](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
     *   [mutant (⭐1.9k)](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.
     *   [Parallel Tests (⭐3.2k)](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
     *   [power\_assert (⭐1)](https://github.com/k-tsj/power_assert) - Power Assert for Ruby.

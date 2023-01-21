@@ -2,7 +2,7 @@
 
 51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,13 +38,13 @@
 
 ### services
 
-*   [featureserver (⭐96)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐95)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [rg (⭐34k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
+*   [rg (⭐35k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 
 ### Shell Script Development / See also
 
@@ -62,7 +62,7 @@
 
 ### Testing
 
-*   [Fluent Assertions (⭐3k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
+*   [Fluent Assertions (⭐3.1k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -242,13 +242,13 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐188)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐190)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐13k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐15k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [30. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 21, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,15 +22,9 @@
 
 ### Tools & Software / Utilities
 
-*   [webarchive-indexing (⭐35)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
+*   [webarchive-indexing (⭐36)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### UITableView / Barcode
-
-*   [ExpyTableView (⭐359)](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
-
-## [5. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [4. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Gradient boosting
 
@@ -44,7 +38,7 @@
     *   *bayes\_motel – Bayesian classification for Ruby* by [Mike Perham](https://twitter.com/mperham) <sup>\[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
     *   *Intelligent Ruby: Getting Started with Machine Learning* by [Ilya Grigorik](https://twitter.com/igrigorik) <sup>\[[video](https://vimeo.com/22513786)]</sup>
 
-## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -119,19 +113,19 @@
 *   [Digital Signal Processing Course](http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html) - Masters Course Material (University of Rostock) with many Python examples.
 *   [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
-## [7. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+## [6. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
 ### Vendors
 
 *   [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Request For Commits #12 - Crowdfunding Open Source (Vue.js) (06-15-2017)](https://changelog.com/rfc/12)
 
-## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Tutorials
 

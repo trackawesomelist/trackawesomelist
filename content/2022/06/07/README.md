@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 07, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,29 +10,29 @@
 
 ### validation
 
-*   [Jest-GeoJSON (⭐5)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
+*   [Jest-GeoJSON (⭐6)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
-*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐320)](https://github.com/aaronleopold/stump)) `MIT` `Rust`
+*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐344)](https://github.com/aaronleopold/stump)) `MIT` `Rust`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
 *   [ARRCON (⭐12)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
 *   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐3.5k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
-*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐4.4k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
-*   [RconCli (⭐112)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
+*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐4.6k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
+*   [RconCli (⭐119)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
 ### Software / Pastebins
 
-*   [MicroBin (⭐993)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust`
-*   [Pastila](https://pastila.nl/) - Minimalistic paste service. Single page, zero click experience. ([Source Code (⭐28)](https://github.com/ClickHouse/pastila)) `Apache-2.0` `SQL`
+*   [MicroBin (⭐1.1k)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust`
+*   [Pastila](https://pastila.nl/) - Minimalistic paste service. Single page, zero click experience. ([Source Code (⭐30)](https://github.com/ClickHouse/pastila)) `Apache-2.0` `SQL`
 
 ### Software / Personal Dashboards
 
-*   [Newtelco Tab (⭐30)](https://github.com/ndom91/newtelco-tab) - Beautiful dashboard and new tab launcher with support for App Shortcuts as well as GDrive, Contacts, and notes. ([Demo](https://portal.newtelco.de/)) `MIT` `Nodejs`
+*   [Newtelco Tab (⭐36)](https://github.com/ndom91/newtelco-tab) - Beautiful dashboard and new tab launcher with support for App Shortcuts as well as GDrive, Contacts, and notes. ([Demo](https://portal.newtelco.de/)) `MIT` `Nodejs`
 
 ### Software / Self-hosting Solutions
 
@@ -63,53 +63,46 @@
 
 ### Software / Plotter-Specific
 
-*   [axidraw (⭐363)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
-*   [Line-us Inkscape Plugin (⭐6)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
-*   [Line-us API Examples (⭐98)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
-*   [@beardicus/line-us (⭐22)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
+*   [axidraw (⭐365)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+*   [Line-us Inkscape Plugin (⭐7)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
+*   [Line-us API Examples (⭐99)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
+*   [@beardicus/line-us (⭐24)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
 
 ### Inspiration, Instruction, and Research / Fonts
 
-*   [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters .
+*   [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
-
-### C++ / General-Purpose Machine Learning
-
-*   [Nebulgym (⭐183)](https://github.com/nebuly-ai/nebulgym) - Easy-to-use library to accelerate AI training. \[DEEP LEARNING]
-*   [Nebullvm (⭐1.5k)](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference. \[DEEP LEARNING]
-
-## [6. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [5. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Workflow Managers
 
-*   **[SciPipe (⭐964)](https://github.com/scipipe/scipipe)** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
+*   **[SciPipe (⭐972)](https://github.com/scipipe/scipipe)** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
 
-## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [HADWIN (⭐24)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
+*   [HADWIN (⭐31)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
 
-## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [tsurugi](https://tsurugi-linux.org/) - heavily customized Linux distribution that designed to support DFIR investigations, malware analysis and OSINT activities. It is based on Ubuntu 20.04(64-bit with a 5.15.12 custom kernel)
 
-## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Game engine
 
-*   [caviar (⭐89)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
+*   [caviar (⭐98)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
 *   [neko (⭐42)](https://github.com/load1n9/neko) - 🐈 caviar's twin frame buffer deno module with a framebuffer canvas implementation
-*   [sdl2 (⭐97)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
+*   [sdl2 (⭐102)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [sortablejs-vue3 (⭐158)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
+*   [sortablejs-vue3 (⭐175)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 
 ### Components & Libraries / UI Utilities
 

@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,14 +16,12 @@
 
 ### External Services
 
-*   [codestats-box (⭐4)](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
-*   [codestats-box-python (⭐5)](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
-*   [typeracer-box (⭐6)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 *   [chess-com-box-py (⭐7)](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
+*   [typeracer-box (⭐5)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 
 ### GitHub
 
-*   [productive-box (⭐408)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
+*   [productive-box (⭐420)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -42,7 +40,7 @@
 
 ### Chart
 
-*   [ChartView (⭐4.6k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
+*   [ChartView (⭐4.7k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -154,7 +152,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazm.Bluetooth (⭐70)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
+*   [Blazm.Bluetooth (⭐71)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
 
 ## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -166,12 +164,12 @@
 
 ### Packages / Application layer
 
-*   [ros2-ORB\_SLAM2 (⭐59)](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library. ![ros2-ORB\_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
+*   [ros2-ORB\_SLAM2 (⭐62)](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library. ![ros2-ORB\_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
 *   [basalt\_ros2 (⭐15)](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO. ![basalt\_ros2](https://img.shields.io/github/stars/berndpfrommer/basalt_ros2.svg)
-*   [slam\_gmapping (⭐55)](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam\_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
-*   [slam\_toolbox (⭐914)](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS. ![slam\_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-*   [lidarslam\_ros2 (⭐214)](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam\_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
-*   [li\_slam\_ros2 (⭐139)](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li\_slam\_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
+*   [slam\_gmapping (⭐57)](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam\_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
+*   [slam\_toolbox (⭐932)](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS. ![slam\_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
+*   [lidarslam\_ros2 (⭐222)](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam\_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+*   [li\_slam\_ros2 (⭐143)](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li\_slam\_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 
 ### Packages / Driver layer
 

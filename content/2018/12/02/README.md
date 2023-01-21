@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,13 +17,13 @@
 
 ### Libraries
 
-*   [pytorch2keras (⭐821)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
+*   [pytorch2keras (⭐827)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Class Based
 
-*   [slim.js (⭐937)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
+*   [slim.js (⭐942)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -78,7 +78,7 @@
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐984)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket (⭐985)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 

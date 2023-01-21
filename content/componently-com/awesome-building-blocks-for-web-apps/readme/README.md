@@ -2,7 +2,7 @@
 
 Standalone features to be integrated into web applications
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/componently-com/awesome-building-blocks-for-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) · ⭐ 100 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/componently-com/awesome-building-blocks-for-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) · ⭐ 100 · 🏷️ Front-End Development
 
 [ [Daily](/content/componently-com/awesome-building-blocks-for-web-apps/README.md) / [Weekly](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome computer vision resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jbhuang0604/awesome-computer-vision/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) · ⭐ 17K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jbhuang0604/awesome-computer-vision/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) · ⭐ 17K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/jbhuang0604/awesome-computer-vision/week/README.md) / [Overview](/content/jbhuang0604/awesome-computer-vision/readme/README.md) ]
 

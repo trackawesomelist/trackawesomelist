@@ -2,7 +2,7 @@
 
 Awesome list of Draft.js resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nikgraf/awesome-draft-js/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) · ⭐ 2.5K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nikgraf/awesome-draft-js/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) · ⭐ 2.5K · 🏷️ Front-End Development
 
 [ [Daily](/content/nikgraf/awesome-draft-js/README.md) / [Weekly](/content/nikgraf/awesome-draft-js/week/README.md) / Overview ]
 

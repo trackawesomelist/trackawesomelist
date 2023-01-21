@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐3.9k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

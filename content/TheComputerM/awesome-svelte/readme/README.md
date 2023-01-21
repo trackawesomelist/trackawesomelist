@@ -2,7 +2,7 @@
 
 ⚡ A curated list of awesome Svelte resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/TheComputerM/awesome-svelte/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) · ⭐ 786 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/TheComputerM/awesome-svelte/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) · ⭐ 786 · 🏷️ Front-End Development
 
 [ [Daily](/content/TheComputerM/awesome-svelte/README.md) / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / Overview ]
 

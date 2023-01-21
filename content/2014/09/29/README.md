@@ -1,18 +1,12 @@
 # Awesome List Updates on Sep 29, 2014
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
-
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Actors
 
@@ -26,11 +20,11 @@
 
 ### Caching
 
-*   [con\_cache (⭐846)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐850)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
-*   [coverex (⭐98)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
+*   [coverex (⭐97)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 *   [excoveralls (⭐751)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Date and Time
@@ -50,7 +44,7 @@
 
 ### Geolocation
 
-*   [geo (⭐563)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐565)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Miscellaneous
 
@@ -75,7 +69,7 @@
 
 ### Static Page Generation
 
-*   [coil (⭐67)](https://github.com/badosu/coil) - Minimalistic static content engine.
+*   [coil (⭐66)](https://github.com/badosu/coil) - Minimalistic static content engine.
 
 ### Testing
 
@@ -91,7 +85,7 @@
 
 *   [Elixir Github Repository (⭐21k)](https://github.com/elixir-lang/elixir) - The project repository.
 
-## [3. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
+## [2. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 
 ### Workflow Overviews
 
@@ -101,13 +95,13 @@
 *   [CSS at Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/), by Ian Feather (7/24/14)
 *   [Github's CSS](http://markdotto.com/2014/07/23/githubs-css/), by Mark Otto (7/23/14)
 
-## [4. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
+## [3. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
 ### Tips and Tricks
 
 *   [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
 
-## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shell Script Development / Directory Navigation
 

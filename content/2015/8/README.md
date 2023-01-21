@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 23 - Mar 01, 2015
 
-12 awesome lists updated this week.
+11 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,13 +26,7 @@
     *   [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) \[40:44]
     *   [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) \[53:04]
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Date
-
-*   [SwiftMoment (⭐1.6k)](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
-
-## [4. Typography](/content/deanhume/typography/week/README.md)
+## [3. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -44,7 +38,7 @@
 *   [Better @font-face with Font Load Events](https://dev.opera.com/articles/better-font-face/)
 *   [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html)
 
-## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### OpenCV Programming
 
@@ -73,7 +67,7 @@
 
 *   [Intrinsic Image Evaluation on Synthetic Complex Scenes](http://www.cic.uab.cat/Datasets/synthetic_intrinsic_image_dataset/)
 
-## [6. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [5. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Transpilers
 
@@ -128,13 +122,13 @@
 
 *   [core-js (⭐18k)](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel (⭐42k)](https://github.com/babel/babel).
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Machine Learning and Data Science
 
-*   [Accord.NET Extensions (⭐333)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
+*   [Accord.NET Extensions (⭐332)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 
-## [8. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Queues and Messaging
 
@@ -143,10 +137,10 @@
 ### Rails Application Generators
 
 *   [Bootstrappers (⭐312)](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
-*   [Hobo (⭐102)](https://github.com/Hobo/hobo) - The web app builder for Rails.
+*   [Hobo (⭐103)](https://github.com/Hobo/hobo) - The web app builder for Rails.
 *   [orats (⭐673)](https://github.com/nickjj/orats) - Opinionated rails application templates.
 *   [Rails Composer (⭐3.4k)](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
-*   [Raygun (⭐207)](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
+*   [Raygun (⭐209)](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 *   [Suspenders (⭐3.8k)](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
 
 ### Spreadsheets and Documents
@@ -156,9 +150,9 @@
 
 ### Third-party APIs
 
-*   [gmail (⭐382)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
+*   [gmail (⭐383)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 
-## [9. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [8. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -167,7 +161,7 @@
     *   [Lectures](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html)
     *   [Assignments, Tests, and Solutions](http://courses.cs.washington.edu/courses/csep501/09au/homework/index.html)
 
-## [10. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [9. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Packages, libraries and scripts
 
@@ -184,7 +178,7 @@
 
 *   [dijit-claro-stylus (⭐24)](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
 
-## [11. Htaccess](/content/phanan/htaccess/week/README.md)
+## [10. Htaccess](/content/phanan/htaccess/week/README.md)
 
 ### Miscellaneous / Disable Internet Explorer Compatibility View
 
@@ -199,7 +193,7 @@ Compatibility View in IE may affect how some websites are displayed. The followi
 </IfModule>
 ```
 
-## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Button
 

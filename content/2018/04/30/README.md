@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [GenVue (⭐127)](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
+*   [GenVue (⭐128)](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
 
 ## [4. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -87,22 +87,22 @@
     *   [click](http://click.pocoo.org/dev/) - A package for creating beautiful command line interfaces in a composable way.
     *   [cliff](https://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
     *   [docopt](http://docopt.org/) - Pythonic command line arguments parser.
-    *   [python-fire (⭐23k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
+    *   [python-fire (⭐24k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
     *   [python-prompt-toolkit (⭐8.1k)](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
 
 ### Command-line Tools
 
 *   Productivity Tools
-    *   [copier (⭐789)](https://github.com/pykong/copier) - A library and command-line utility for rendering projects templates.
+    *   [copier (⭐808)](https://github.com/pykong/copier) - A library and command-line utility for rendering projects templates.
     *   [cookiecutter (⭐19k)](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
     *   [doitlive (⭐3.2k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-    *   [howdoi (⭐9.8k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
+    *   [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
     *   [Invoke (⭐3.8k)](https://github.com/pyinvoke/invoke#readme) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
     *   [PathPicker (⭐4.8k)](https://github.com/facebook/PathPicker) - Select files out of bash output.
     *   [percol (⭐3.2k)](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
     *   [thefuck (⭐75k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    *   [tmuxp (⭐3.5k)](https://github.com/tony/tmuxp) - A [tmux (⭐27k)](https://github.com/tmux/tmux) session manager.
-    *   [try (⭐655)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
+    *   [tmuxp (⭐3.6k)](https://github.com/tony/tmuxp) - A [tmux (⭐27k)](https://github.com/tmux/tmux) session manager.
+    *   [try (⭐659)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 
 ### GUI Development
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 13, 2020
 
-25 awesome lists updated today.
+24 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,19 +10,19 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Godot (⭐54k)](https://github.com/godotengine/godot) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
+*   [Godot (⭐57k)](https://github.com/godotengine/godot) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Business
 
-*   [Social Enterprise (⭐47)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+*   [Social Enterprise (⭐48)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐656)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
+*   [2FAuth (⭐686)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
 
 ## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -83,8 +83,8 @@
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo (⭐63k)](https://github.com/sveltejs/svelte)
-*   [Changelog (⭐63k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
+*   [GitHub Repo (⭐65k)](https://github.com/sveltejs/svelte)
+*   [Changelog (⭐65k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
 
 ### Community
 
@@ -105,20 +105,20 @@
 
 ### Preprocessing
 
-*   [svelte-preprocess-markdown (⭐125)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
+*   [svelte-preprocess-markdown (⭐126)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
 *   [svelte-preprocess-postcss (⭐24)](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
 
 ### UI Libraries
 
-*   [carbon-components-svelte (⭐1.8k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
+*   [carbon-components-svelte (⭐1.9k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 
 ### Notification
 
-*   [svelte-favicon-badge (⭐93)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
+*   [svelte-favicon-badge (⭐95)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
 ### Calendar
 
-*   [svelte-calendar (⭐473)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+*   [svelte-calendar (⭐478)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 ### Docs / Checkbox
 
@@ -126,7 +126,7 @@
 
 ### Test / Checkbox
 
-*   [jest-transform-svelte (⭐36)](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
+*   [jest-transform-svelte (⭐35)](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
 
 ### Editors / Visual Studio Code
 
@@ -134,7 +134,7 @@
 
 ### Editors / Vim
 
-*   [vim-svelte (⭐257)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+*   [vim-svelte (⭐269)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 
 ## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Form Components / Select
 
-*   [react-functional-select (⭐170)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
+*   [react-functional-select (⭐173)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
 
 ## [22. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -220,53 +220,23 @@
 
 *   [Gooba](https://goobapp.com/) - Writing app and task manager with a simple and interactive design.
 
-## [24. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Flutter / Phoenix
-
-*   [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
-
-### Haskell / Spock Framework
-
-*   [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - Stephen Diehl (PDF)
-
-### HTML and CSS / Spock Framework
-
-*   [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
-*   [Magic of CSS](https://adamschwartz.co/magic-of-css/) - Adam Schwartz (HTML) (:construction: *in process*)
-
-### PHP / PicoLisp
-
-*   [Clean Code PHP (⭐11k)](https://github.com/jupeter/clean-code-php)
-
-### PHP / Symfony
-
-*   [Symfony 5: The Fast Track](https://symfony.com/doc/5.0/the-fast-track/en/index.html)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)
-
-## [25. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [24. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Nautilus Terminal (⭐286)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Nautilus Terminal (⭐294)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+
+### Windows / Design Tooling
+
+*   [Coverflow Alt-Tab (⭐307)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio / Design Tooling
 
-*   [Application Volume Mixer (⭐83)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
-*   [Sound Input & Output Device Chooser (⭐667)](https://github.com/kgshank/gse-sound-output-device-chooser) - Quickly switch between different input and output devices.
-
-### Usage Experience / Design Tooling
-
-*   [Simple Off Menu](https://gitlab.com/K3rcus/simpler-off-menu) - Removes selected power options from system menu.
-*   [Coverflow Alt-Tab (⭐280)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [Application Volume Mixer (⭐86)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
 
 ### Visual Changes / Design Tooling
 
-*   [Transparent Shell (⭐12)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
-*   [Compiz alike windows effect (⭐89)](https://github.com/hermes83/compiz-alike-windows-effect) - Adds wobbly effects to windows.
+*   [Transparent Shell (⭐13)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 
 ---
 

@@ -2,7 +2,7 @@
 
 🤖 A curated list of awesome Internet of Things projects and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/HQarroum/awesome-iot/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) · ⭐ 2.7K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/HQarroum/awesome-iot/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) · ⭐ 2.7K · 🏷️ Hardware
 
 [ [Daily](/content/HQarroum/awesome-iot/README.md) / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / Overview ]
 
@@ -366,6 +366,10 @@ OPC-UA is a not only a protocol for industrial automation but also a technology 
 #### [Designing the Internet of Things](http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8\&qid=1444905007\&sr=8-1) (2013) *by [Adrian McEwen](http://www.amazon.co.uk/Adrian-McEwen/e/B00FF7V2VY/ref=dp_byline_cont_book_1) and [Hakim Cassimally](http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614)* \[4.0]
 
 > Whether it's called physical computing, ubiquitous computing, or the Internet of Things, it's a hot topic in technology: how to channel your inner Steve Jobs and successfully combine hardware, embedded software, web services, electronics, and cool design to create cutting-edge devices that are fun, interactive, and practical. If you'd like to create the next must-have product, this unique book is the perfect place to start.
+
+#### [Edge Computing Technology and Application](https://www.manning.com/books/edge-computing-technology-and-applications) (2023) \*by [Perry Lea](https://www.linkedin.com/in/perrylea/)
+
+> This no-nonsense guide from veteran technologist Perry Lea slices through the buzzwords and reveals how edge computing affects your business and IT decisions, from hardware and software systems to the way you interact with customers, clients, and employees.
 
 #### [Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511) (2014) *by [Kevin Townsend](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Carles Cufí](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Akiba](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription) and [Robert Davidson](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription)* \[4.5]
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,14 +23,14 @@
 ### Status Bar
 
 *   [tmux-clima (⭐1)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
-*   [tmux-cpu (⭐322)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
+*   [tmux-cpu (⭐326)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
 *   [tmux-kripto (⭐1)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nanotee/luv-vimdocs (⭐68)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
+*   [nanotee/luv-vimdocs (⭐69)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
 *   [milisims/nvim-luaref (⭐110)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
@@ -43,24 +43,24 @@
 
 ### Samples
 
-*   [Hello triangle, (⭐43)](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
+*   [Hello triangle,](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Templates / Godot 3.2+
 
-*   [Godot First Person Camera (⭐35)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
+*   [Godot First Person Camera (⭐36)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   ZX Spectrum
-    *   [rustzx/rustzx (⭐158)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+    *   [rustzx/rustzx (⭐163)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
 ### Libraries / Authentication
 
-*   [constantoine/totp-rs (⭐45)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
+*   [constantoine/totp-rs (⭐54)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -106,15 +106,15 @@
 
 ### Extensions
 
-*   [Search Sync (⭐61)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
-*   [Dictionary (⭐18)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
-*   [WordPress-like Slug (⭐45)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
-*   [Link Meta (⭐16)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
-*   [Group Modal (⭐21)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
-*   [Display Link (⭐25)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
+*   [Search Sync (⭐66)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
+*   [Dictionary (⭐19)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
+*   [WordPress-like Slug (⭐51)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
+*   [Link Meta (⭐15)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
+*   [Group Modal (⭐29)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
+*   [Display Link (⭐30)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
 *   [SQL Panel (⭐14)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
-*   [Websocket Subscribe (⭐51)](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket.
-*   [SVG Map Picker Interface (⭐12)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
+*   [Websocket Subscribe (⭐61)](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket.
+*   [SVG Map Picker Interface (⭐15)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 *   [SES (⭐4)](https://github.com/ryntab/Directus-SES) - An extension for sending emails with AWS SES.
 
 ## [12. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
@@ -177,21 +177,21 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-compression-plugin (⭐21)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
+*   [vite-compression-plugin (⭐23)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 
 ## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Internationalisation / Checkbox
 
-*   [svelte-fluent (⭐46)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
-*   [svelte-i18n (⭐824)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
-*   [sveltekit-i18n (⭐172)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+*   [svelte-fluent (⭐48)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+*   [svelte-i18n (⭐868)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+*   [sveltekit-i18n (⭐198)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
 ## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Toolkit
 
-*   [Nussknacker (⭐340)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
+*   [Nussknacker (⭐347)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
 
 ---
 

@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Algorithms and Data structures
 
-*   [loom (⭐217)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
+*   [loom (⭐218)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 
 ### Debugging
 
-*   [eflame (⭐402)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐404)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
@@ -30,12 +30,12 @@
 
 ### Testing
 
-*   [blacksmith (⭐182)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
+*   [blacksmith (⭐183)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 *   [factory\_girl\_elixir (⭐42)](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory\_girl in Elixir.
 
 ### Text and Numbers
 
-*   [simetric (⭐59)](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
+*   [simetric (⭐58)](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

@@ -2,7 +2,7 @@
 
 44 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -101,7 +101,7 @@
 
 ### Packages / Command-line apps
 
-*   [wifi-password (⭐272)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+*   [wifi-password (⭐275)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 
 ## [12. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
@@ -390,8 +390,8 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [WebGL Lessons — ThreeJS Shaders (⭐353)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
-*   [ThreeJS post-proces example (⭐25)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
+*   [WebGL Lessons — ThreeJS Shaders (⭐352)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
+*   [ThreeJS post-proces example (⭐24)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
 ## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -422,7 +422,7 @@
 
 ### data
 
-*   [world-atlas (⭐936)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+*   [world-atlas (⭐950)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
 *   [us-atlas (⭐803)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
 ## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)

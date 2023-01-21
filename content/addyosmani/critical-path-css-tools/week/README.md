@@ -2,7 +2,7 @@
 
 Tools to prioritize above-the-fold (critical-path) CSS
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/addyosmani/critical-path-css-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 addyosmani/critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools) · ⭐ 1.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/addyosmani/critical-path-css-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 addyosmani/critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools) · ⭐ 1.1K · 🏷️ Front-End Development
 
 [ [Daily](/content/addyosmani/critical-path-css-tools/README.md) / Weekly / [Overview](/content/addyosmani/critical-path-css-tools/readme/README.md) ]
 

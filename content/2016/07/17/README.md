@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,12 +37,7 @@
 
 ### Camera
 
-*   [ALCameraViewController (⭐2k)](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
 *   [Fusuma (⭐2.4k)](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
-
-### Alert / Barcode
-
-*   [KRAlertController (⭐52)](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
 
 ## [5. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 

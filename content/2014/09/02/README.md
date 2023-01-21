@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 *   [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. \[Boost]
 *   [Dyad.c (⭐1.4k)](https://github.com/rxi/dyad) - Asynchronous networking for C. \[MIT]
 *   [Muduo (⭐12k)](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. \[BSD]
-*   [WebSocket++ (⭐5.9k)](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. \[BSD]
+*   [WebSocket++ (⭐6k)](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. \[BSD]
 
 ### Physics
 

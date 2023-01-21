@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Email
 
-*   [MailForm (⭐870)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐869)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
@@ -72,11 +72,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Darkwire.io (⭐757)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
+*   [Darkwire.io (⭐769)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐995)](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
+*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1k)](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -84,20 +84,20 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [b2evolution CMS](https://b2evolution.net/) - The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community. ([Source Code (⭐163)](https://github.com/b2evolution/b2evolution)) `GPL-2.0` `PHP`
+*   [b2evolution CMS](https://b2evolution.net/) - The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community. ([Source Code (⭐164)](https://github.com/b2evolution/b2evolution)) `GPL-2.0` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [goploader (⭐238)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
+*   [goploader (⭐242)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
 
 ### Software / Note-taking & Editors
 
-*   [Markdown Edit (⭐200)](https://github.com/georgeOsdDev/markdown-edit/) - Online markdown editor/viewer. `MIT` `HTML5`
+*   [Markdown Edit (⭐203)](https://github.com/georgeOsdDev/markdown-edit/) - Online markdown editor/viewer. `MIT` `HTML5`
 
 ### Software / Pastebins
 
 *   [MokinToken (⭐5)](https://github.com/nexus-uw/mokintoken) - Clientside encrypted pastebin using tweetnacl. `Unlicense` `PHP`
-*   [SocksBin (⭐9)](https://github.com/magnumdingusedu/socksbin) - Simple and fast terminal based pastebin, with optional code highlighting. No specific client required, all you need is netcat. `GPL-3.0` `Python`
+*   [SocksBin (⭐10)](https://github.com/magnumdingusedu/socksbin) - Simple and fast terminal based pastebin, with optional code highlighting. No specific client required, all you need is netcat. `GPL-3.0` `Python`
 
 ### Software / Photo and Video Galleries
 
@@ -115,7 +115,7 @@
 
 ### Text / Barcode
 
-*   [TextBuilder (⭐179)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+*   [TextBuilder (⭐180)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -140,11 +140,11 @@
 ### Contents / Libraries
 
 *   [Evil-DICOM (⭐143)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
-*   [Python SMART on FHIR client (⭐465)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
+*   [Python SMART on FHIR client (⭐471)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
 
 ### Contents / Applications
 
-*   [Intervention Engine (⭐27)](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
+*   [Intervention Engine (⭐28)](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
 
 ### Contents / Datasets
 
@@ -178,7 +178,7 @@
 ### Resources / Examples
 
 *   [Vuetify Swipeout (⭐136)](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
-*   [Vuetify Todo PWA (⭐188)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
+*   [Vuetify Todo PWA (⭐190)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 
 ---
 

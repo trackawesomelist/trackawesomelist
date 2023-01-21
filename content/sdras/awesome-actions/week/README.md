@@ -2,7 +2,7 @@
 
 A curated list of awesome actions to use on GitHub
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sdras/awesome-actions/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sdras/awesome-actions](https://github.com/sdras/awesome-actions) · ⭐ 20K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sdras/awesome-actions/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdras/awesome-actions](https://github.com/sdras/awesome-actions) · ⭐ 20K · 🏷️ Development Environment
 
 [ [Daily](/content/sdras/awesome-actions/README.md) / Weekly / [Overview](/content/sdras/awesome-actions/readme/README.md) ]
 

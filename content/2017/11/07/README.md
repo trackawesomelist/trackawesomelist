@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,13 +40,9 @@
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Authentication
-
-*   [InstagramLogin (⭐67)](https://github.com/AnderGoig/InstagramLogin) - Simple way to authenticate Instagram accounts.
-
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐590)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐596)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

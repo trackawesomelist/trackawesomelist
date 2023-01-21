@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,13 +45,13 @@
 
 ### Software / Automation
 
-*   [MeTube (⭐1.2k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐1.4k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Customization / Directory Navigation
 
-*   [powerlevel10k (⭐32k)](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
+*   [powerlevel10k (⭐33k)](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 
 ### System Utilities / Directory Navigation
 
@@ -59,15 +59,15 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [httpie (⭐24k)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+*   [httpie (⭐25k)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 
 ### Applications / Directory Navigation
 
-*   [kanban.bash (⭐756)](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
+*   [kanban.bash (⭐771)](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
 
 ### Shell Script Development / Directory Navigation
 
-*   [powscript (⭐120)](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
+*   [powscript (⭐130)](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
 *   [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 *   [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 *   [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
@@ -170,7 +170,7 @@
 
 ### C, C++
 
-*   [with-c-syntax (⭐114)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
+*   [with-c-syntax (⭐118)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 
 ### Function extensions
 
@@ -196,7 +196,7 @@
 
 ### Scripts / GitHub
 
-*   [GitHub collapse markdown (⭐1.4k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
+*   [GitHub collapse markdown (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
 
 ## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -214,12 +214,12 @@
 
 ### Quantification / Clustering
 
-*   **[Cufflinks (⭐268)](https://github.com/cole-trapnell-lab/cufflinks)** - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. \[ [paper-2010](https://www.nature.com/articles/nbt.1621) ]
-*   **[RSEM (⭐332)](https://github.com/deweylab/RSEM)** - A software package for estimating gene and isoform expression levels from RNA-Seq data. \[ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
+*   **[Cufflinks (⭐273)](https://github.com/cole-trapnell-lab/cufflinks)** - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. \[ [paper-2010](https://www.nature.com/articles/nbt.1621) ]
+*   **[RSEM (⭐338)](https://github.com/deweylab/RSEM)** - A software package for estimating gene and isoform expression levels from RNA-Seq data. \[ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
 
 ### VCF File Utilities / Structural variant callers
 
-*   **[bcftools (⭐495)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
+*   **[bcftools (⭐504)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

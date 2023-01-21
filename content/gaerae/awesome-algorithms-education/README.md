@@ -2,7 +2,7 @@
 
 A curated list to learning and practicing about algorithm.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gaerae/awesome-algorithms-education/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 gaerae/awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) · ⭐ 436 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gaerae/awesome-algorithms-education/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gaerae/awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) · ⭐ 436 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/gaerae/awesome-algorithms-education/week/README.md) / [Overview](/content/gaerae/awesome-algorithms-education/readme/README.md) ]
 

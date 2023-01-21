@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### E-Commerce and Payments
 
-*   [SimplCommerce (⭐3.7k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
+*   [SimplCommerce (⭐3.8k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -68,10 +68,10 @@ Webpage: <http://www.lerdevagar.com/>
 ### Components & Libraries / UI Components
 
 *   [vuedals (⭐106)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
-*   [vue-masked-input (⭐452)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
+*   [vue-masked-input (⭐451)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐25)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐425)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐427)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 

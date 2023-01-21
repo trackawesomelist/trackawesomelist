@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Learning / More Awesome
 
-*   📚 [Awesome JS Books (⭐53)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   📚 [Awesome JS Books (⭐54)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

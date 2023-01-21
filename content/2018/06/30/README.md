@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [Alcotest (⭐331)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
+*   [Alcotest (⭐340)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
 
 ## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Framework Components
 
-*   [Exception Page (⭐63)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+*   [Exception Page (⭐64)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

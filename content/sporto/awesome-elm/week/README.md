@@ -2,7 +2,7 @@
 
 A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sporto/awesome-elm/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sporto/awesome-elm](https://github.com/sporto/awesome-elm) · ⭐ 3.5K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sporto/awesome-elm/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sporto/awesome-elm](https://github.com/sporto/awesome-elm) · ⭐ 3.5K · 🏷️ Programming Languages
 
 [ [Daily](/content/sporto/awesome-elm/README.md) / Weekly / [Overview](/content/sporto/awesome-elm/readme/README.md) ]
 

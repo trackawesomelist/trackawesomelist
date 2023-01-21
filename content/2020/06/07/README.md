@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -63,7 +63,7 @@
 *   [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 *   [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 *   [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
-*   [Docker Kubernetes Lab Handbook (⭐194)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
+*   [Docker Kubernetes Lab Handbook (⭐197)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 *   [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 *   [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 *   [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-form-builder (⭐374)](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api, popular ui frameworks such as Element UI, View UI, Ant Design Vue are supported. [Online Demo](https://openfext.github.io/vue-form-builder)
+*   [vue-form-builder (⭐375)](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api, popular ui frameworks such as Element UI, View UI, Ant Design Vue are supported. [Online Demo](https://openfext.github.io/vue-form-builder)
 
 ### Components & Libraries / Utilities
 
@@ -87,7 +87,7 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [huggingface/tokenizers (⭐6.1k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
+*   [huggingface/tokenizers (⭐6.3k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 
 ### Registries / Web programming
 
@@ -103,7 +103,7 @@
 
 ### UI / Barcode
 
-*   [UltraDrawerView (⭐204)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
+*   [UltraDrawerView (⭐206)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
 
 ## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

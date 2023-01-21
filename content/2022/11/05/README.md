@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [MrcJkb/haskell-tools.nvim (⭐127)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [MrcJkb/haskell-tools.nvim (⭐134)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -42,7 +42,7 @@
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [Img To Music](https://huggingface.co/spaces/fffiloni/img-to-music) a Hugging Face Space by fffiloni
 

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,7 @@
 
 ### Development tools
 
-*   [Open Watcom](http://openwatcom.org/) - Formerly commercial C/C++ development environment for 16- and 32-bit DOS and
-    Windows. The current official version is 1.9. A GitHub fork is also available. Used for Doom I-II, Warcraft I-II, Duke Nukem 3D, Full Throttle, Dark Forces and Retro City Rampage.
-    *   The [documentation](http://openwatcom.org/doc.php) is very valuable in order to understand working with both version 1.9 and the V2 fork.
-    *   [Arch Wiki page](https://wiki.archlinux.org/index.php/Open_Watcom)
-*   [Open Watcom V2 (⭐690)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
+*   [Open Watcom V2 (⭐719)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
 ## [2. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
@@ -45,7 +41,7 @@
 
 ### Guide & Interviews / Game Engine resources
 
-*   [Interview Questions (⭐320)](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders (⭐41)](https://github.com/whatsupcoders/Whatsupcoders-flutter)
+*   [Interview Questions (⭐325)](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders (⭐41)](https://github.com/whatsupcoders/Whatsupcoders-flutter)
 
 ### 🇯🇵 Japan / Misc
 
@@ -73,7 +69,7 @@
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐869)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐889)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
 ## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 

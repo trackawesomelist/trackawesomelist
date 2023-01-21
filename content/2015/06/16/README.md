@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,12 +22,12 @@
 
 ### Command-Line Productivity
 
-*   [fzf (⭐48k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [fzf (⭐49k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 *   [marker (⭐1.9k)](https://github.com/pindexis/marker) - Bookmark your shell commands
 
 ### System Utilities / Directory Navigation
 
-*   [procdog (⭐73)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
+*   [procdog (⭐74)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

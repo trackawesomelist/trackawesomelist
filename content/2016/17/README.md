@@ -2,7 +2,7 @@
 
 42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -323,11 +323,11 @@ git show <branch_name>:<file_name>
 
 ### Frameworks
 
-*   [EASTL (⭐6.8k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐6.9k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ### Machine Learning
 
-*   [Fido (⭐412)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐413)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -373,10 +373,6 @@ git show <branch_name>:<file_name>
 ### Images / Barcode
 
 *   [SwiftyGif (⭐1.7k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
-
-### UI / Barcode
-
-*   [Hexacon (⭐340)](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
 
 ## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -470,7 +466,7 @@ git show <branch_name>:<file_name>
 
 ### ORM and Datamapping
 
-*   [redix (⭐980)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
+*   [redix (⭐982)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
 *   [riak\_ecto (⭐30)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ### Testing
@@ -520,7 +516,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Miscellaneous / Third Party
 
-*   [d3plus-text (⭐96)](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
+*   [d3plus-text (⭐97)](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 
 ## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -538,7 +534,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐383)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐390)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 

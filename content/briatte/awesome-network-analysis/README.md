@@ -2,7 +2,7 @@
 
 A curated list of awesome network analysis resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/briatte/awesome-network-analysis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) · ⭐ 2.8K · 🏷️ Networking
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/briatte/awesome-network-analysis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) · ⭐ 2.8K · 🏷️ Networking
 
 [ Daily / [Weekly](/content/briatte/awesome-network-analysis/week/README.md) / [Overview](/content/briatte/awesome-network-analysis/readme/README.md) ]
 

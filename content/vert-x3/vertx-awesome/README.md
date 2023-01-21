@@ -2,7 +2,7 @@
 
 A curated list of awesome Vert.x resources, libraries, and other nice things.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vert-x3/vertx-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) · ⭐ 2K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vert-x3/vertx-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) · ⭐ 2K · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/vert-x3/vertx-awesome/week/README.md) / [Overview](/content/vert-x3/vertx-awesome/readme/README.md) ]
 

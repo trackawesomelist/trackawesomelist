@@ -2,7 +2,7 @@
 
 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 864 · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 905 · 🏷️ Learn
 
 [ [Daily](/content/dend/awesome-product-management/README.md) / [Weekly](/content/dend/awesome-product-management/week/README.md) / Overview ]
 
@@ -33,6 +33,7 @@ By definition, a product manager is an individual who drives the product vision 
     *   [productboard](#productboard)
     *   [logchimp](#logchimp)
     *   [Hellonext](#hellonext)
+    *   [Screeb](#screeb)
 *   [Articles](#articles)
 *   [Books](#books)
 *   [Podcasts](#podcasts)
@@ -217,6 +218,19 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 | Platform  | Web                                     |
 | URL       | <https://hellonext.co>                  |
 
+### Screeb
+
+Screeb is a product-led user research platform helping product teams to build better products by helping understand their users.
+
+![screeb](https://github.com/dend/awesome-product-management/raw/master/media/screeb.png)
+
+| Property  | Value                              |
+| --------- | ---------------------------------- |
+| Developer | [Screeb, Inc.](https://screeb.app) |
+| Cost      | Freemium (*start $0-39/month*)     |
+| Platform  | Web                                |
+| URL       | <https://screeb.app>               |
+
 ## Articles
 
 *   [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
@@ -262,8 +276,8 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 *   [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 *   [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - By [Roy Cobby](https://twitter.com/roycobby).
 *   [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).
-*   [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://twitter.com/kennethn).
-*   [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - By [Ken Norton](https://twitter.com/kennethn).
+*   [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://www.bringthedonuts.com/).
+*   [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - By [Ken Norton](https://www.bringthedonuts.com/).
 
 ## Books
 

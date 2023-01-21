@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,13 +12,13 @@
 
 *   Visual Studio
     *   [dgriffen/rls-vs2017 (⭐111)](https://github.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
-    *   [PistonDevelopers/VisualRust (⭐696)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
+    *   [PistonDevelopers/VisualRust (⭐697)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
 
 ## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Deployment Tools / Newsletters
+### Virtualisation / Newsletters
 
-*   [nixos-shell (⭐357)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [nixos-shell (⭐369)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -28,11 +28,11 @@
 
 ### E-Commerce and Payments
 
-*   [Workarea (⭐323)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
+*   [Workarea (⭐324)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐577)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐580)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -44,7 +44,7 @@
 
 *   [Practical Business Python](https://pbpython.com) - A blog collecting and spreading ideas on how to use Python more effectively in the business setting.
 *   [`redash`](https://github.com/getredash/redash) - Connect and query your data sources, build dashboards to visualize data and share them with your company.
-*   [Apache Superset (⭐49k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
+*   [Apache Superset (⭐50k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
 *   [Meltano](https://gitlab.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
 *   [`insights`](https://github.com/mariusandra/insights) - Insights is a tool to visually explore a PostgreSQL database, with an emphasis on generating graphs that show business performance over time.
 
@@ -92,21 +92,21 @@
 
 ### Shell Script Development
 
-*   [ansi (⭐450)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+*   [ansi (⭐454)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 *   [argbash (⭐1.2k)](https://github.com/matejak/argbash) - Bash argument parsing code generator
 *   [assert.sh (⭐466)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
-*   [async-bash (⭐116)](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
+*   [async-bash (⭐118)](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
 *   [bats (⭐7.1k)](https://github.com/sstephenson/bats) - Bash Automated Testing System
 *   [bash3boilerplate (⭐2k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
-*   [bashful (⭐572)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [bashful (⭐575)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 *   [bashify (⭐96)](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
 *   [bashing (⭐70)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
 *   [bashmanager (⭐86)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 *   [BashScriptTestingLibrary (⭐186)](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 *   [Bash Infinity (⭐5.4k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
 *   [bash\_unit (⭐526)](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
-*   [mo (⭐473)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
-*   [semver\_bash (⭐228)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+*   [mo (⭐477)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+*   [semver\_bash (⭐229)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 *   [shfmt (⭐5.3k)](https://github.com/mvdan/sh) - Format bash programs
 *   [shunit2 (⭐1.4k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 
@@ -120,7 +120,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [data-driven-forms (⭐228)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
+*   [data-driven-forms (⭐235)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 
 ## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

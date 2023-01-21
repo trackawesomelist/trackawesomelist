@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,7 +50,7 @@
 
 ### Built-in Classes Enhancement
 
-*   [attrs (⭐4.5k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [attrs (⭐4.6k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 *   [bidict (⭐1.2k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
 *   [Box (⭐2.1k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
 
@@ -58,7 +58,7 @@
 
 *   MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
     *   [mysqlclient (⭐2.2k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
-    *   [PyMySQL (⭐7.1k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
+    *   [PyMySQL (⭐7.2k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

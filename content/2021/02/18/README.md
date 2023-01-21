@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ### CSV
 
-*   [Csv::Parser (⭐15)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
+*   [Csv::Parser (⭐16)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
 
 ## [6. Awesome React](/content/enaqx/awesome-react/README.md)
 

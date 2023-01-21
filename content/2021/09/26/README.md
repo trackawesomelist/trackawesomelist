@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### To third parties
 
-*   [pzmq (⭐33)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
+*   [pzmq (⭐32)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Packages / Image
 
-*   [ImageScript (⭐461)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐463)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

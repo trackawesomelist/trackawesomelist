@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -54,7 +54,7 @@
 ### Node.js Clients
 
 *   [restler (⭐2k)](https://github.com/danwrong/restler) - REST client library for node.js.
-*   [unirest for Node.js (⭐943)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+*   [unirest for Node.js (⭐944)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
 
 ### Directly On Top Of A RMDB
 
@@ -66,7 +66,7 @@
 *   [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 *   [mers (⭐344)](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
 *   [Baucis (⭐651)](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
-*   [flatiron/resourceful (⭐354)](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
+*   [flatiron/resourceful (⭐353)](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 *   [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 
 ### PHP
@@ -77,13 +77,13 @@
 *   [Restler (⭐1.4k)](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
 *   [HAL (⭐204)](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
 *   [Apigility (⭐450)](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
-*   [phprest (⭐313)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
+*   [phprest (⭐312)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 *   [Hateoas (⭐998)](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 
 ### PHP / Symfony2
 
 *   [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
-*   [FOSRestBundle (⭐2.7k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
+*   [FOSRestBundle (⭐2.8k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 *   [stanlemon/rest-bundle (⭐123)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 *   [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
 *   [BazingaHateoasBundle (⭐292)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐998)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
@@ -119,7 +119,7 @@
 
 ### Mocking / Symfony2
 
-*   [FakeRest (⭐396)](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
+*   [FakeRest (⭐397)](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
 *   [json-server (⭐65k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 *   [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
 

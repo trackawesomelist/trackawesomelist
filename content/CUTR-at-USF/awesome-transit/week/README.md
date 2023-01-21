@@ -2,7 +2,7 @@
 
 Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/CUTR-at-USF/awesome-transit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 CUTR-at-USF/awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) · ⭐ 908 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/CUTR-at-USF/awesome-transit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 CUTR-at-USF/awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) · ⭐ 908 · 🏷️ Miscellaneous
 
 [ [Daily](/content/CUTR-at-USF/awesome-transit/README.md) / Weekly / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 

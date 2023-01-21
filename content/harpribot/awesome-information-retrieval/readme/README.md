@@ -2,7 +2,7 @@
 
 A curated list of awesome information retrieval resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/harpribot/awesome-information-retrieval/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) · ⭐ 855 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/harpribot/awesome-information-retrieval/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) · ⭐ 855 · 🏷️ Computer Science
 
 [ [Daily](/content/harpribot/awesome-information-retrieval/README.md) / [Weekly](/content/harpribot/awesome-information-retrieval/week/README.md) / Overview ]
 

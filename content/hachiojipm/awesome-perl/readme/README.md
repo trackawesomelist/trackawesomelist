@@ -2,7 +2,7 @@
 
 A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hachiojipm/awesome-perl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) · ⭐ 621 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hachiojipm/awesome-perl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) · ⭐ 621 · 🏷️ Programming Languages
 
 [ [Daily](/content/hachiojipm/awesome-perl/README.md) / [Weekly](/content/hachiojipm/awesome-perl/week/README.md) / Overview ]
 

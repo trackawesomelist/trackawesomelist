@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 20 - Dec 26, 2021
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -349,16 +349,16 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [EAF RSS (⭐14)](https://github.com/emacs-eaf/eaf-rss-reader) <sup>[1124](https://t.me/s/aboutrss/1124)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/emacs-eaf/eaf-rss-reader)
+*   [EAF RSS (⭐15)](https://github.com/emacs-eaf/eaf-rss-reader) <sup>[1124](https://t.me/s/aboutrss/1124)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/emacs-eaf/eaf-rss-reader)
 
 ### RSS services powered by utilizing Notion / Outline Processor Markup Language
 
-*   [NotionFeeder (⭐175)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
+*   [NotionFeeder (⭐186)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
 *   [Notion-Feed](https://notion-feed.com/) <sup>[1149](https://t.me/s/aboutrss/1149)</sup>
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obisidian-RSS (⭐161)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obisidian-RSS (⭐201)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### 😎 Services that support RSS / Outline Processor Markup Language
 
@@ -374,7 +374,7 @@
 
 ### universally from / multiple sources
 
-*   [RSSerpent (⭐212)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
+*   [RSSerpent (⭐211)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
 
 ### universally from / search results
 
@@ -477,7 +477,7 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐115)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐34k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐116)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐35k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -524,7 +524,7 @@
 *   [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 *   [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
 *   [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
-*   [Preserver (⭐212)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
+*   [Preserver (⭐213)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 *   [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 *   [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 *   [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
@@ -546,7 +546,7 @@
 *   [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 *   [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 *   [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
-*   [Topydo (⭐629)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+*   [Topydo (⭐643)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 *   [Trello](https://trello.com) - Kanban method task board.
 *   [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
@@ -557,7 +557,7 @@
 
 ### Tools and Apps / Task Automation
 
-*   [Awesome AutoHotKey (⭐2.1k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
+*   [Awesome AutoHotKey (⭐2.2k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 *   [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called *recipes*) between web services in order to make the web work for you and boost your productivity.
 *   [Tasker](http://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (*e.g.* automatically turn on wifi when you arrive home).
 *   [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
@@ -625,7 +625,7 @@
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-wayland (⭐290)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
+*   [nixpkgs-wayland (⭐300)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -647,7 +647,7 @@
 
 ### Misc
 
-*   [ToolJet (⭐15k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐17k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [18. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
@@ -659,15 +659,15 @@
 
 ### Tools
 
-*   [kics (⭐1.3k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
+*   [kics (⭐1.4k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
 
 ## [20. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Debanding Material Shader (⭐21)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
-*   [Dijkstra map for Godot (⭐56)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
-*   [Discord.gd (⭐82)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
+*   [Debanding Material Shader (⭐22)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
+*   [Dijkstra map for Godot (⭐60)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
+*   [Discord.gd (⭐88)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 
 ## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -719,7 +719,7 @@
 
 ### Libraries / Format Checking
 
-*   [pdb-tools (⭐230)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
+*   [pdb-tools (⭐236)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
 
 ## [28. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -727,23 +727,18 @@
 
 *   [Decentralizing AI: Dreamers vs. Pragmatists.](https://www.linkedin.com/pulse/decentralizing-ai-dreamers-vs-pragmatists-jesus-rodriguez) - Jesus Rodriguez, May 23, 2019.
 
-### Deadpool / Blockchain projects for AI algorithms
-
-*   [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
-*   [Computable](https://www.computable.io/) - A decentralized data marketplace for artificial intelligence applications.
-
 ## [29. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Event IDs (⭐392)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+*   [Awesome Event IDs (⭐434)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
 ## [30. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Data Mapping Solution
 
 *   [JOLT (⭐1.3k)](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java where the "specification" for the transform is itself a JSON document.
-*   [JSLT (⭐499)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
+*   [JSLT (⭐512)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
 
 ## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -881,13 +876,7 @@
 
 
 
-## [32. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Utilities
-
-*   [Junction](https://junction.sonny.re/) - Junction lets you choose the application to open files and links. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -895,9 +884,9 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ipychart (⭐67)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
-## [34. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [33. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Vimeo Design System](https://vimeo.github.io/iris/)
 
@@ -911,7 +900,7 @@
 
 
 
-## [35. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [34. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -920,36 +909,36 @@
 *   [k6 introduces browser automation and Prometheus support in k6 OSS](https://grafana.com/blog/2021/11/24/k6-introduces-browser-automation-and-prometheus-support-in-k6-oss/) - From the Grafana blog: feature announcements at ObservabilityCON 2021.
 *   [Testing shift left observability with the Grafana Stack, OpenTelemetry, and k6](https://grafana.com/blog/2021/12/06/testing-shift-left-observability-with-the-grafana-stack-opentelemetry-and-k6/) - From the Grafana blog: a summary of Executive Director of Platform Engineering at JPMorgan Chase, Vinodh Ravi's talk at ObservabilityCON 2021.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Blogs
 
 *   [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐303)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐313)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
-## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [darkredz/Zeko-SQL-Builder (⭐84)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
+*   [darkredz/Zeko-SQL-Builder (⭐86)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
 *   [TouK/krush (⭐232)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
 
 ### Libraries/Frameworks / Misc
 
-*   [Jire/Strukt (⭐70)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
+*   [Jire/Strukt (⭐71)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 
-## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -957,15 +946,15 @@
 
 ### Components & Libraries / Utilities
 
-*   [hami-vuex (⭐19)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
+*   [hami-vuex (⭐20)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐40)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐45)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
-## [42. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [41. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### People Investigations / Telegram
 
@@ -975,17 +964,17 @@
 
 *   [OpenOwnership Register](https://register.openownership.org/)
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### SVG / Barcode
 
-*   [SVGView (⭐259)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐273)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ### Tab / Barcode
 
-*   [CardTabBar (⭐159)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
+*   [CardTabBar (⭐162)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
 
-## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Books
 
@@ -993,27 +982,27 @@
 
 ### Logging
 
-*   [ULogViewer (⭐77)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
+*   [ULogViewer (⭐81)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
-## [45. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [44. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / JavaScript
 
 *   [React Jobs](https://reactjsjob.com)
 
-## [46. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [45. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Playgrounds
 
 *   [Bitauth IDE](https://ide.bitauth.com/) – An interactive development environment for Bitcoin contracts.
 
-## [47. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [46. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Machine Learning Extension
 
 *   [MLflow](https://mlflow.org/docs/latest/python_api/mlflow.spark.html#module-mlflow.spark) <img src="https://img.shields.io/github/last-commit/mlflow/mlflow.svg"> - Machine learning orchestration platform.
 
-## [48. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [47. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
@@ -1023,7 +1012,7 @@
 
 *   [Prisma Client Python (⭐838)](https://github.com/RobertCraigie/prisma-client-py)
 
-## [49. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [48. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Resources
 
@@ -1031,15 +1020,15 @@
     *   [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
     *   [Polkadot: Vision for a heterogeneous multi-chain framework (⭐187)](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
     *   [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
-        *   [Chinese Translation (⭐30)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
+        *   [Chinese Translation (⭐31)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
 
-## [50. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [49. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
 *   [cargo-flash](https://probe.rs/docs/tools/cargo-flash/) A small cargo subcommand to download your binary to your target chip. - ![crates.io](https://img.shields.io/crates/v/cargo-flash.svg)
 *   [cargo-embed](https://probe.rs/docs/tools/cargo-embed/) A superset of cargo-flash with additional useful features like configuration file support, a RTT terminal or a GDB server. - ![crates.io](https://img.shields.io/crates/v/cargo-embed.svg)
-*   [Embassy start (⭐16)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐1.3k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [Embassy start (⭐17)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐1.4k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 ### Real-time / Real-time Operating System (RTOS)
 
@@ -1070,7 +1059,7 @@
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-## [51. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [50. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Call to Action
 
@@ -1182,13 +1171,13 @@
 
 *   [Matrix.org's Synapse (⭐10k)](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
 
-## [52. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
-*   :octocat: [samchon/backend (⭐530)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐411)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐179)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
+*   :octocat: [samchon/backend (⭐533)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐457)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐182)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
 
-## [53. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [52. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / MIDI
 

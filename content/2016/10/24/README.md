@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -65,8 +65,8 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 *   [DQN-tensorflow (⭐2.4k)](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 *   [Highway Network (⭐56)](https://github.com/fomorians/highway-cnn) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
 *   [Sentence Classification with CNN (⭐5.5k)](https://github.com/dennybritz/cnn-text-classification-tf) - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-*   [Character-Aware Neural Language Models (⭐732)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
-*   [YOLO TensorFlow ++ (⭐6k)](https://github.com/thtrieu/yolotf) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
+*   [Character-Aware Neural Language Models (⭐751)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
+*   [YOLO TensorFlow ++ (⭐6.1k)](https://github.com/thtrieu/yolotf) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
 ## [7. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

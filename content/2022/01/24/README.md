@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Communications / Ethernet
 
-*   [RP2040 Ethernet example (⭐3)](https://github.com/SteveSEK/Raspberry-Pi-Pico-MicroPython-Ethernet) - Ethernet driver, example python code and YouTube.
+*   [RP2040 Ethernet example (⭐4)](https://github.com/SteveSEK/Raspberry-Pi-Pico-MicroPython-Ethernet) - Ethernet driver, example Python code and YouTube.
 
 ## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Metrics / Projects
+### Metrics and Analytics Services / Wallets
 
 *   [How Big is Algorand?](https://howbigisalgorand.com/) - Algorand's networks size monitor.
 *   [Algorand Mempool](https://www.iamnotabot.com/pool) - Algorand mempool explorer.
@@ -36,12 +36,12 @@
 
 ### Food-related projects
 
-*   [diy-proofing-box (⭐3)](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
+*   [diy-proofing-box (⭐4)](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
 
 ### Cookbooks
 
 *   [lactofermentation (⭐3)](https://github.com/tirimia/lactofermentation) - Experiments with wild lactobacillus.
-*   [bread (⭐49)](https://github.com/dgryski/bread) - Notes on bread baking.
+*   [bread (⭐51)](https://github.com/dgryski/bread) - Notes on bread baking.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -55,8 +55,8 @@
 
 *   Sony Vegas
 *   DaVinci Resolve
-*   [Olive Video Editor](https://olivevideoeditor.org/) - Free open-source advanced non-linear video editor currently in Alpha state.
 *   [kdenlive](https://kdenlive.org/) - Open source video editor. Free and easy to use for any purpose, forever.
+*   [Olive Video Editor](https://olivevideoeditor.org/) - Free open-source advanced non-linear video editor currently in Alpha state.
 *   [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source and simple cross-platform video editor.
 
 ## [8. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
@@ -68,7 +68,7 @@
 
 ### Resources / Packages
 
-*   [Navigation (⭐333)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
+*   [Navigation (⭐343)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -91,20 +91,20 @@
 
 ### Official plugins
 
-*   [Toast (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
+*   [Toast (⭐308)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
 
 ### Community plugins
 
-*   [Keep awake (⭐72)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
+*   [Keep awake (⭐73)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
 *   Microsoft
-    *   [Appcenter (⭐24)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
-    *   [Analytics (⭐24)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
-    *   [Crashes (⭐24)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
+    *   [Appcenter (⭐25)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
+    *   [Analytics (⭐25)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
+    *   [Crashes (⭐25)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
 
 ### Other plugins
 
-*   [Healthkit (⭐23)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
-*   [UDP (⭐2)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
+*   [Healthkit (⭐24)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
+*   [UDP (⭐3)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 
 ## [12. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Platforms
 
-*   [Low Code (⭐130)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
+*   [Low Code (⭐138)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -128,8 +128,8 @@
 
 ### Libraries / New Libraries
 
-*   [tree-math (⭐134)](https://github.com/google/tree-math) - Convert functions that operate on arrays into functions that operate on PyTrees. <img src="https://img.shields.io/github/stars/google/tree-math?style=social" align="center">
-*   [jax-models (⭐100)](https://github.com/DarshanDeshpande/jax-models) - Implementations of research papers originally without code or code written with frameworks other than JAX. <img src="https://img.shields.io/github/stars/DarshanDeshpande/jax-modelsa?style=social" align="center">
+*   [tree-math (⭐138)](https://github.com/google/tree-math) - Convert functions that operate on arrays into functions that operate on PyTrees. <img src="https://img.shields.io/github/stars/google/tree-math?style=social" align="center">
+*   [jax-models (⭐107)](https://github.com/DarshanDeshpande/jax-models) - Implementations of research papers originally without code or code written with frameworks other than JAX. <img src="https://img.shields.io/github/stars/DarshanDeshpande/jax-modelsa?style=social" align="center">
 
 ---
 

@@ -2,7 +2,7 @@
 
 21 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -35,11 +35,7 @@
 
 ## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Bridges / Wallets
-
-*   [GlitterFinance](https://glitter.finance/) - Centralized (soon to be decentralized upon TEAL 6) bridge for Solana, Polygon, Terra and Cudos to Algorand.
-
-### Community / Projects
+### Projects / Wallets
 
 *   [QRCode Generator (⭐20)](https://github.com/emg110/algorand-qrcode)
 
@@ -47,11 +43,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [SimpleX Chat (⭐2k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
+*   [SimpleX Chat (⭐2.3k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client. (It is an actively developed fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐452)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
+*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client. (It is an actively developed fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐475)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 
@@ -59,14 +55,14 @@
 
 ### Software / Learning and Courses
 
-*   [Vocascan](https://vocascan.com/) - A highly configurable vocabulary trainer. ([Source Code (⭐21)](https://github.com/vocascan/vocascan-server), [Clients (⭐4)](https://github.com/vocascan/vocascan-desktop)) `Apache-2.0` `Nodejs`
+*   [Vocascan](https://vocascan.com/) - A highly configurable vocabulary trainer. ([Source Code (⭐23)](https://github.com/vocascan/vocascan-server), [Clients (⭐4)](https://github.com/vocascan/vocascan-desktop)) `Apache-2.0` `Nodejs`
 
 ## [6. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Libraries / PHP
 
 *   [php.net/SNMP](https://www.php.net/manual/en/book.snmp.php) - This is an SNMP extension for PHP, which is a wrapper around the net-snmp library.
-*   [FreeDSx/SNMP (⭐46)](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
+*   [FreeDSx/SNMP (⭐47)](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
 
 ### Tools / CLIs
 
@@ -81,7 +77,7 @@
 
 ### MIB repositories / Tutorials
 
-*   [hsnodgrass/snmp\_mib\_archive (⭐162)](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
+*   [hsnodgrass/snmp\_mib\_archive (⭐161)](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
 *   [kcsinclair/mibs (⭐42)](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
 *   [mibdepot.com](http://www.mibdepot.com) - mibDepot is a free service to the SNMP community and offers a dictionary of MIBs and a unique-in-the-industry Search Engine with over 12,000 SNMP MIBs representing over 1,800,000 MIB object definitions.
 *   [oid-info.com](http://oid-info.com) - This OID repository gathers information about Object Identifiers (OIDs), and provides tools to display, update and search for this information.
@@ -104,41 +100,42 @@
 *   Drug Gene Interaction
     *   [DGIdb](https://www.dgidb.org/) - A database of drug-gene interactions and the druggable genome.
     *   [Comparative Toxicogenomics Database](http://ctdbase.org/) - A database of Chemical-gene interactions, Chemical-disease associations, Gene-disease associations, and Chemical-phenotype associations.
+    *   [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:\~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - A dataset which contains Drug-gene interactions.
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DRKG (⭐431)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DRKG (⭐452)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [shift-select (⭐32)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
+*   [shift-select (⭐36)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
 *   [zservice-py3http (⭐4)](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 
 ## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / News and Magazine
 
-*   [Hacki (⭐400)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
+*   [Hacki (⭐419)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vite-vue-ts-storybook (⭐49)](https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook) - Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier.
+*   [vite-vue-ts-storybook (⭐53)](https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook) - Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier.
 
 ### WordPress / Community
 
-*   [wordpress-vite-assets (⭐53)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐60)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [evosax (⭐209)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
+*   [evosax (⭐244)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -173,7 +170,7 @@
 
 ### Snippet / Diagnostics
 
-*   [ellisonleao/carbon-now.nvim (⭐60)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
+*   [ellisonleao/carbon-now.nvim (⭐62)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
 ## [17. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -216,11 +213,11 @@
 
 ### Cryptography
 
-*   [CryptoNet (⭐22)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
+*   [CryptoNet (⭐24)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
 
 ### Image Processing
 
-*   [PixelViewer (⭐62)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
+*   [PixelViewer (⭐68)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
 
 ---
 

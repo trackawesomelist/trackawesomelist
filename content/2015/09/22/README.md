@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -151,7 +151,7 @@
 
 ### Static Site Generators
 
-*   [Pretzel (⭐594)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐598)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -171,7 +171,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐329)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐330)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

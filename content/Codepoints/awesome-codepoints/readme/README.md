@@ -2,7 +2,7 @@
 
 Awesome Code Points
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Codepoints/awesome-codepoints/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) · ⭐ 724 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Codepoints/awesome-codepoints/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) · ⭐ 724 · 🏷️ Miscellaneous
 
 [ [Daily](/content/Codepoints/awesome-codepoints/README.md) / [Weekly](/content/Codepoints/awesome-codepoints/week/README.md) / Overview ]
 

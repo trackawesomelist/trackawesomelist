@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,19 +10,19 @@
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [Ghunt (⭐12k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+*   [Ghunt (⭐13k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Routing
 
-*   [SwiftCurrent (⭐284)](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
+*   [SwiftCurrent (⭐290)](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [fluent-vue (⭐163)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
+*   [fluent-vue (⭐168)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Web development utilities / Web project skeletons and generators
 
-*   [cl-cookieweb (⭐20)](https://github.com/vindarel/cl-cookieweb) - a  Cookiecutter template to start a web project. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
+*   [cl-cookieweb (⭐21)](https://github.com/vindarel/cl-cookieweb) - a  Cookiecutter template to start a web project. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
     *   Provides a working toy web app with the Hunchentoot web server, easy-routes, Djula templates, styled with Bulma, based on SQLite, with migrations, an example table definition and a test suite using FiveAM.
 *   [make-like (⭐9)](https://github.com/container-lisp/make-like) - an application template builder for LIKE (Lisp In Kubernetes + Emacs) applications. [Apache2.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
     *   Makefile, podman support, GitHub Actions, Prometheus metrics support, TOML-style config.ini, easy-route preconfigured with health-check and more.
@@ -50,7 +50,7 @@
 
 ### Command-line options parsers / Third-party APIs
 
-*   [Adopt (⭐22)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT](https://opensource.org/licenses/MIT).
+*   [Adopt (⭐23)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -74,17 +74,17 @@
 
 ### Adapters / Server-side
 
-*   [Rust (⭐15)](https://github.com/stuarth/inertia-rs)
+*   [Rust (⭐16)](https://github.com/stuarth/inertia-rs)
 
 ### Resources / Examples
 
-*   [Ping CRM / Clojure (⭐77)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
+*   [Ping CRM / Clojure (⭐78)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
 ## [9. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
 
-*   [Waifu2x-Extension-GUI (⭐8.3k)](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. \[English/中文]
+*   [Waifu2x-Extension-GUI (⭐8.8k)](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. \[English/中文]
 
 ---
 

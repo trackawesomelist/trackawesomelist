@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,8 +44,8 @@
 
 ### Applications / Directory Navigation
 
-*   [isitup (⭐53)](https://github.com/lord63/isitup) - Check whether a website is up or down
-*   [licen (⭐33)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
+*   [isitup (⭐54)](https://github.com/lord63/isitup) - Check whether a website is up or down
+*   [licen (⭐34)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

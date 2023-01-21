@@ -2,7 +2,7 @@
 
 A curated list of awesome Prometheus resources, projects and tools.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/roaldnefs/awesome-prometheus/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) · ⭐ 1.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/roaldnefs/awesome-prometheus/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) · ⭐ 1.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/roaldnefs/awesome-prometheus/README.md) / [Weekly](/content/roaldnefs/awesome-prometheus/week/README.md) / Overview ]
 

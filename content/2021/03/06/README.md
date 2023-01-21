@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -93,7 +93,7 @@
 
 ### Others
 
-*   [TypinExamples (⭐205)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐205)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
+*   [TypinExamples (⭐213)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐213)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -111,7 +111,7 @@
 
 *   [Website](https://nodejs.org)
 *   [Documentation](https://nodejs.org/dist/latest/docs/api/)
-*   [Repository (⭐92k)](https://github.com/nodejs/node)
+*   [Repository (⭐93k)](https://github.com/nodejs/node)
 
 ### Resources / Videos
 

@@ -2,7 +2,7 @@
 
 23 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Network Protocols
 
-*   [crystal-json-socket (⭐12)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐154)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐3)](https://github.com/foi/ruby-json-socket)
+*   [crystal-json-socket (⭐12)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐155)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐3)](https://github.com/foi/ruby-json-socket)
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -62,20 +62,20 @@
 
 ### Host-based tools / Tarpits
 
-*   [Artillery (⭐930)](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
+*   [Artillery (⭐942)](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
-*   [DumpsterFire (⭐882)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
+*   [DumpsterFire (⭐889)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
 
 ### Tor Onion service defenses / Threat signature packages and collections
 
 *   [OnionBalance](https://onionbalance.readthedocs.io/) - Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.
-*   [Vanguards (⭐148)](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
+*   [Vanguards (⭐152)](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [NotRuler (⭐81)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.8k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
+*   [NotRuler (⭐83)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.9k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -135,7 +135,7 @@
 
 ### UI
 
-*   [Flushbar (⭐882)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+*   [Flushbar (⭐898)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 
 ### Device / Augmented Reality
 
@@ -171,11 +171,11 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐376)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐379)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
-*   [is (⭐19)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
+*   [is (⭐20)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -198,7 +198,7 @@
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐135)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐137)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -338,7 +338,7 @@
 
 ### Boilerplates / Themes
 
-*   [Typescript React With Mobx Starter (⭐349)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
+*   [Typescript React With Mobx Starter (⭐353)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 
 ---
 

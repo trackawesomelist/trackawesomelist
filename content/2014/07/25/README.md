@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 25, 2014
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,15 +10,9 @@
 
 ### Packages / Text
 
-*   [detect-indent (⭐176)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐178)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
-## [2. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [London](http://www.meetup.com/papers-we-love-london)
-
-## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Driver / Desktop (browsers)
 
@@ -33,13 +27,13 @@
 *   [Sauce Labs](https://saucelabs.com) - Cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on 300+ OS/browser platforms. Get started for free.
 *   [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [SKLL (⭐527)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+*   [SKLL (⭐528)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
@@ -53,27 +47,27 @@
 
 *   [contra (⭐764)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
-## [6. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 
 *   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐415)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Database
 
 *   [cravendb (⭐61)](https://github.com/robashton/cravendb)
 
-## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Application Libraries
 
-*   [Batteries Included (⭐443)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+*   [Batteries Included (⭐458)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
 
 ### Developer Tools
 
-*   [ghim (⭐18)](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
+*   [ghim (⭐19)](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 
 ### Exercises and Short Examples
 
@@ -90,7 +84,7 @@
 
 ### Testing
 
-*   [QCheck (⭐288)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+*   [QCheck (⭐290)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ---
 

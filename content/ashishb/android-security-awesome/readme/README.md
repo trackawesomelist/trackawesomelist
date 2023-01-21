@@ -2,7 +2,7 @@
 
 A collection of android security related resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ashishb/android-security-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) · ⭐ 6.4K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ashishb/android-security-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) · ⭐ 6.4K · 🏷️ Security
 
 [ [Daily](/content/ashishb/android-security-awesome/README.md) / [Weekly](/content/ashishb/android-security-awesome/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 A collaborative list of great resources about RESTful API architecture, development, test, and performance
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marmelab/awesome-rest/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) · ⭐ 3.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marmelab/awesome-rest/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) · ⭐ 3.3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/marmelab/awesome-rest/README.md) / Weekly / [Overview](/content/marmelab/awesome-rest/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 58 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Sklearn-genetic-opt (⭐173)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
+*   [Sklearn-genetic-opt (⭐180)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
 
 ## [2. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -41,8 +41,8 @@
 
 ### Motion / Diagnostics
 
-*   [phaazon/hop.nvim (⭐1.8k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
-*   [ggandor/lightspeed.nvim (⭐1.4k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
+*   [phaazon/hop.nvim (⭐1.9k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [ggandor/lightspeed.nvim (⭐1.5k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -60,15 +60,15 @@
 
 ### Application Frameworks
 
-*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐131)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐59)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐132)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐59)](https://github.com/alexyakunin/BoardGames)
 
 ### Caching
 
-*   [FusionCache (⭐378)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
+*   [FusionCache (⭐409)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 
 ### E-Commerce and Payments
 
-*   [GrandNode (⭐632)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
+*   [GrandNode (⭐654)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -86,9 +86,9 @@
 
 ### Scripting languages and interpreters for DOS
 
-*   [DOjS (⭐391)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
+*   [DOjS (⭐492)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
 *   [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
-*   [Micropython for FreeDOS (⭐17)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐15k)](https://github.com/micropython/micropython).
+*   [Micropython for FreeDOS (⭐17)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐16k)](https://github.com/micropython/micropython).
 *   [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 *   [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
 
@@ -102,7 +102,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Polygon 2D Fracture (⭐185)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
+*   [Godot Polygon 2D Fracture (⭐191)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 
 ### GDScript/C# editor support / Godot version unknown
 
@@ -113,10 +113,6 @@
 ### Accessibility
 
 *   [Web Components punch list](https://www.tpgi.com/web-components-punch-list/)
-
-### Codelabs
-
-*   [Open Web Components: Codelabs](https://open-wc.org/guides/developing-components/codelabs/)
 
 ### Examples
 
@@ -138,13 +134,13 @@
 
 ### Packages / RMW (ROS middleware)
 
-*   [rmw\_iceoryx (⭐92)](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
+*   [rmw\_iceoryx (⭐98)](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
 
 ## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Playbooks
 
-*   [AWS Incident Response Runbook Samples (⭐661)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
+*   [AWS Incident Response Runbook Samples (⭐695)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 
 ## [18. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -176,14 +172,14 @@
 
 ### Math
 
-*   [CXXGraph (⭐182)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐184)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 *   [NumCpp (⭐2.7k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
 
 ## [21. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [gaia (⭐597)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
+*   [gaia (⭐630)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
 
 ## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -215,7 +211,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [budgetzero (⭐491)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
+*   [budgetzero (⭐507)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
 
 ### Software / Note-taking & Editors
 
@@ -230,8 +226,8 @@
 ### Libraries / Command-line
 
 *   Data visualization
-    *   [nukesor/comfy-table (⭐507)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
-    *   [zhiburt/tabled (⭐1.2k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums.  [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
+    *   [nukesor/comfy-table (⭐529)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+    *   [zhiburt/tabled (⭐1.3k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums.  [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
 ## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -320,8 +316,8 @@
 
 ### Tools & Software / Acquisition
 
-*   [WAIL (⭐289)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐107)](https://github.com/n0tan3rd/wail). *(Stable)*
-*   [Warcprox (⭐318)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
+*   [WAIL (⭐296)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐108)](https://github.com/n0tan3rd/wail). *(Stable)*
+*   [Warcprox (⭐331)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
 
 ## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -386,7 +382,7 @@
 
 ### Starters & Themes
 
-*   📟 [new-tailwind-app (⭐234)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+*   📟 [new-tailwind-app (⭐238)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 
 ## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -408,7 +404,7 @@
 
 ### Bindings
 
-*   [Vortice.Vulkan (⭐176)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
+*   [Vortice.Vulkan (⭐187)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
 
 ## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -461,13 +457,13 @@
 
 ### Utils / Third Party
 
-*   [d3-interpolate-path (⭐289)](https://github.com/pbeshai/d3-interpolate-path) - Interpolates paths with different number of points
+*   [d3-interpolate-path (⭐294)](https://github.com/pbeshai/d3-interpolate-path) - Interpolates paths with different number of points
 
 ## [50. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
-*   [ipychart (⭐67)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
@@ -517,7 +513,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐2.9k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐3k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -526,25 +522,25 @@
 ### Components & Libraries / UI Components
 
 *   [@egjs/vue-flicking (⭐2.2k)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
-*   [vue3-openlayers (⭐389)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
+*   [vue3-openlayers (⭐395)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 
 ### Components & Libraries / Frameworks
 
-*   [Qui-max (⭐207)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
+*   [Qui-max (⭐217)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 
 ### Components & Libraries / Utilities
 
-*   [v-google-translate (⭐132)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
+*   [v-google-translate (⭐194)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 
 ### Components & Libraries / Integrations
 
-*   [vue-tweet (⭐25)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+*   [vue-tweet (⭐26)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 ## [56. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [SCIM for keycloak (⭐108)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*   [SCIM for keycloak (⭐123)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
 ## [57. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 

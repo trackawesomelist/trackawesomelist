@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐311)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
+*   [guoxbin/dtool (⭐314)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐3k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
+*   [bheisler/criterion.rs (⭐3.1k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -30,7 +30,7 @@
 
 ## [4. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / Command line interface (CLI) / Terminal / Shell
+### Command line interface (CLI) / Terminal / Shell
 
 *   [lol (⭐15)](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
 
@@ -50,7 +50,7 @@
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐88)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Formalised Undecidable Problems (⭐87)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
 *   [Regular Language Representations (⭐29)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Plugins
@@ -73,19 +73,19 @@
 ### Command-Line Productivity
 
 *   [boom (⭐1.2k)](https://github.com/holman/boom) - Store links and snippets in the command line
-*   [cod (⭐433)](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
+*   [cod (⭐445)](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
 *   [dnote (⭐2.4k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
 *   [foxy (⭐38)](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
-*   [resh (⭐753)](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
-*   [snips (⭐63)](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
+*   [resh (⭐819)](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
+*   [snips (⭐65)](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
 
 ### For Developers / Directory Navigation
 
-*   [mkdkr (⭐303)](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
+*   [mkdkr (⭐315)](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 
 ### Downloading and Serving / Directory Navigation
 
-*   [bashhub-server (⭐249)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
+*   [bashhub-server (⭐252)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
 
 ## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

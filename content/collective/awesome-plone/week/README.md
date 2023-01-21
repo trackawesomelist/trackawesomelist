@@ -2,7 +2,7 @@
 
 Add-ons and resources for the CMS Plone
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 19 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 19 · 🏷️ Content Management Systems
 
 [ [Daily](/content/collective/awesome-plone/README.md) / Weekly / [Overview](/content/collective/awesome-plone/readme/README.md) ]
 

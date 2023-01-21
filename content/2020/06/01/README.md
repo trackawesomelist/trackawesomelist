@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Apps
 
-*   [CourseLit (⭐305)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [CourseLit (⭐315)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Libraries
 
-*   [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython) - This filter shows just the MicroPython libraries on PyPi. Note: You cannot pip install micropython libraries. See [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html?highlight=upip) for more information on upip.
+*   [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython) - This filter shows just the MicroPython libraries on PyPi. Note: You cannot `pip install` MicroPython libraries. See the [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.htm) for more information on managing packages with MicroPython.
 *   [GitHub Search](https://github.com/search?q=micropython) - Search GitHub for repositories containing MicroPython.
 *   [GitHub Topic - MicroPython](https://github.com/topics/micropython) - Browse GitHub Topics for projects tagged with MicroPython.
 *   [Libraries.io](https://libraries.io/search?q=micropython) - Libraries.io query for MicroPython.
@@ -130,7 +130,7 @@
 
 ### Third-party APIs
 
-*   [stripe.cr (⭐42)](https://github.com/confact/stripe.cr) - Stripe api wrapper
+*   [stripe.cr (⭐44)](https://github.com/confact/stripe.cr) - Stripe api wrapper
 
 ## [14. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -251,13 +251,13 @@ Language: English
 
 ### Tools / XML
 
-*   [vscode-deno (⭐1.3k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
+*   [vscode-deno (⭐1.4k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
 ## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
-*   [implot (⭐2.8k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
+*   [implot (⭐2.9k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
 ## [17. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

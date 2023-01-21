@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,7 +48,7 @@
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Generative Adversarial Networks (GANs)
 
 *   [Real GANs in AI | Hacker Noon](https://hackernoon.com/real-gans-in-ai): deep dive into what the generative models are, the recent developments in the field, and the usage of GANs in business
 
@@ -68,13 +68,13 @@
 
 ### Username Check / Telegram
 
-*   [Snoop (⭐1.6k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [Snoop (⭐1.7k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Sources
 
-*   [DeadCScroll (⭐4)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
+*   [DeadCScroll (⭐6)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

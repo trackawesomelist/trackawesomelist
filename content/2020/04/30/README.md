@@ -2,7 +2,7 @@
 
 23 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Applications / Database
 
-*   [ParityDB (⭐169)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
+*   [ParityDB (⭐174)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -84,12 +84,12 @@
 
 ### Migration tools
 
-*   [cl-migratum (⭐34)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-migratum (⭐35)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [postmodern-passenger-pigeon (⭐5)](https://github.com/fisxoj/postmodern-passenger-pigeon/) - a migration manager for postmodern. No licence specified.
 
 ### Web frameworks / Clack plugins
 
-*   [cl-rest-server (⭐58)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-rest-server (⭐59)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
@@ -117,7 +117,7 @@
 
 ### Helix
 
-*   [Helix Publishing Pipeline (⭐63)](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
+*   [Helix Publishing Pipeline (⭐64)](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 
 ### Media
 
@@ -125,7 +125,7 @@
 
 ### xConnect and xDB
 
-*   [XConnectHelper (⭐22)](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
+*   [XConnectHelper (⭐21)](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
 
 ## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Gazette (⭐452)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
+*   [Gazette (⭐455)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
 ## [23. Public Apis](/content/public-apis/public-apis/README.md)
 

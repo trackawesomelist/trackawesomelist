@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Packages / Testing
 
-*   [nve (⭐602)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+*   [nve (⭐607)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Front-End Development
 
-*   [Seed (⭐187)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+*   [Seed (⭐189)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
 ## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 

@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐79)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐85)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
 ## [4. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Individual components / Others
 
-*   [BlazorMergely (⭐5)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.
+*   [BlazorMergely (⭐6)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐251)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐253)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -113,11 +113,11 @@
 
 ### Media
 
-*   [VLC (⭐66)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐69)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Work
 
-*   [Internships (⭐242)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐259)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ---
 

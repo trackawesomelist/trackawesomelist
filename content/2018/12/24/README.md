@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,11 +41,11 @@
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [Graphql (⭐3k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+*   [Graphql (⭐3.1k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Cloud Computing
+### Software / Cloud Computing
 
 *   [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
 
@@ -53,7 +53,7 @@
 
 ### Database Drivers
 
-*   [Tortoise ORM (⭐3.2k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
+*   [Tortoise ORM (⭐3.3k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -62,7 +62,7 @@
 
 ### Static Site Generators
 
-*   [FsBlog (⭐131)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
+*   [FsBlog (⭐133)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 
 ### Testing
 
@@ -122,7 +122,7 @@
 
 ### Third-party APIs
 
-*   [Pusher (⭐655)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+*   [Pusher (⭐654)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
 ## [6. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md)
 

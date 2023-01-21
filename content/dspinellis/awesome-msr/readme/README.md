@@ -2,7 +2,7 @@
 
 A curated repository of software engineering repository mining data sets
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dspinellis/awesome-msr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr) · ⭐ 346 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dspinellis/awesome-msr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr) · ⭐ 346 · 🏷️ Computer Science
 
 [ [Daily](/content/dspinellis/awesome-msr/README.md) / [Weekly](/content/dspinellis/awesome-msr/week/README.md) / Overview ]
 

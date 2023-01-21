@@ -2,7 +2,7 @@
 
 41 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -71,28 +71,17 @@
 
 ### Routing
 
-*   [orion (⭐120)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
+*   [orion (⭐121)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Backups
+### Software / Backups
 
 *   [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
 
-### Editors
+### Software / Editors
 
 *   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
-
-### Monitoring / Metric & Metric Collection
-
-*   Collectors only
-    *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
-    *   [Collectd](http://collectd.org/) - System statistic collection daemon.
-    *   [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
-    *   [PGObserver (⭐310)](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
-    *   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Application statistic listener.
-    *   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
-    *   [Telegraf (⭐12k)](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
 ## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -128,7 +117,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐44)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐45)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 
@@ -138,7 +127,7 @@
 
 ### Documentation / Build system (ROS2)
 
-*   [ROS 2 Tutorials (⭐2.4k)](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
+*   [ROS 2 Tutorials (⭐2.5k)](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
 
 ### Community / Build system (ROS2)
 
@@ -258,11 +247,11 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐209)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐216)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
-*   [Giraffe (⭐1.8k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
+*   [Giraffe (⭐1.9k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -292,8 +281,8 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐846)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐908)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐929)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [32. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -347,7 +336,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐267)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐269)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -363,41 +352,33 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐789)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐798)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [37. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
-*   [d3-circle (⭐129)](https://github.com/tj/d3-circle) - Circle chart \[donut]
-*   [d3-gridding (⭐103)](https://github.com/romsson/d3-gridding) - Chart mockups using grids
+*   [d3-gridding (⭐102)](https://github.com/romsson/d3-gridding) - Chart mockups using grids
 *   [d3fc (⭐1.1k)](https://github.com/d3fc/d3fc) - A collection of interactive chart components \[line, bar, stacked, scatter, candlestick, ohlc]
 *   [d3panels (⭐28)](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing \[dot, scatter, line, heatmap, histogram]
-*   [D4 (⭐430)](https://github.com/heavysixer/d4) - Re-usable charts DSL \[bar, donut, line, scatter, stacked, waterfall]
-*   [epoch (⭐5k)](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library \[area, bar, line, pie, scatter]
-*   [Fancycharts.js (⭐113)](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values \[bar, circles, donut]
-*   [forest-d3 (⭐53)](https://github.com/robinfhu/forest-d3) - A time series charting library \[line, area, stacked, bar, scatter, pie ohlc]
-*   [peek (⭐65)](https://github.com/mtmacdonald/peek) - Object-oriented chart library \[scatter, line, area, bar, pie, donut]
+*   [D4 (⭐429)](https://github.com/heavysixer/d4) - Re-usable charts DSL \[bar, donut, line, scatter, stacked, waterfall]
 *   [plottable (⭐2.9k)](https://github.com/palantir/plottable) - Flexible, interactive charts for the web \[area, bar, line, pie, scatter, stacked]
 *   [rickshaw (⭐6.5k)](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs \[line, scatter, bar]
-*   [vizabi (⭐264)](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools \[bubble, map, line, bar, sankey, donut]
+*   [vizabi (⭐266)](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools \[bubble, map, line, bar, sankey, donut]
 
 ### Charts / Third Party
 
-*   [d3act (⭐302)](https://github.com/AnSavvides/d3act) - d3 with React \[bar, bubble, pie]
-*   [ember-charts (⭐793)](https://github.com/Addepar/ember-charts/) - Charts for Ember \[line, bar, stacked, pie, scatter]
 *   [ngx-charts (⭐4.2k)](https://github.com/swimlane/ngx-charts) - Chart framework for Angular \[bar, pie, line, area, polar, stacked, bubble]
-*   [react-d3 (⭐1.8k)](https://github.com/esbullington/react-d3) - Charts for React \[area, bar, candlestick, line, pie, scatter]
 *   [react-d3-components (⭐1.6k)](https://github.com/codesuki/react-d3-components) - D3 Components \[bar, stacked, scatter, line, area, pie]
 *   [react-d3-library (⭐1.4k)](https://github.com/react-d3-library/react-d3-library) - Library to use D3 in React \[area, bar, line, pie, scatter]
-*   [react-stockcharts (⭐3.5k)](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts \[area, line, scatter, bubble, bar, stacked, candlestick]
+*   [react-stockcharts (⭐3.6k)](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts \[area, line, scatter, bubble, bar, stacked, candlestick]
 *   [react-vis (⭐8.4k)](https://github.com/uber/react-vis) - A collection of react components to render visualizations \[area, bar, heatmap, line, scatter]
 
 ### Maps / Third Party
 
-*   [d3-geo-polygon (⭐93)](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons
-*   [d3-geo-voronoi (⭐199)](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere
-*   [d3-inertia (⭐57)](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia
+*   [d3-geo-polygon (⭐96)](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons
+*   [d3-geo-voronoi (⭐201)](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere
+*   [d3-inertia (⭐58)](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia
 *   [react-simple-maps (⭐2.7k)](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo \[map, geo]
 
 ## [38. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
@@ -431,7 +412,7 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐360)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Next Redux Starter (⭐358)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 *   [Staart (⭐315)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 
 ---

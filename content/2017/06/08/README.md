@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -103,7 +103,7 @@ Webpage: <https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/>
 
 ### UI / Barcode
 
-*   [Dodo (⭐873)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
+*   [Dodo (⭐874)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
 *   [SectionedSlider (⭐361)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)

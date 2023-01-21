@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 19 - Dec 25, 2022
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -161,7 +161,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐593)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -231,7 +231,7 @@
 
 ### Applications
 
-*   [Sniffnet (⭐2.3k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐2.7k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 
 ## [14. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -262,7 +262,7 @@
 
 ### Self-hosted
 
-*   [Memos (⭐4.3k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐5.4k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ### Blogging platforms (Medium)
 
@@ -284,7 +284,7 @@
 
 ### Driver crates / Other
 
-*   [ADE791x](https://crates.io/crates/ade791x) - SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - [github (⭐0)](https://github.com/GrepitAB/ade791x-rs) - ![crates.io](https://img.shields.io/crates/v/ade791x.svg)
+*   [ADE791x](https://crates.io/crates/ade791x) - SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - [github (⭐1)](https://github.com/GrepitAB/ade791x-rs) - ![crates.io](https://img.shields.io/crates/v/ade791x.svg)
 *   [ebyte-e32](https://crates.io/crates/ebyte-e32) - SERIAL - Ebyte E32 LoRa module driver - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-EBYTE-E32-LoRa-Modules/) - ![crates.io](https://img.shields.io/crates/v/ebyte-e32.svg)
 
 ### Driver crates / WIP
@@ -293,7 +293,7 @@
 
 ## [20. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Applications / Web
+### Web
 
 *   [Heroku Buildpack for V (⭐0)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
 
@@ -304,8 +304,8 @@
 *   [great\_expectations (⭐7.8k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 *   [pandera (⭐1.9k)](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library.
 *   [deepchecks (⭐2.3k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [evidently (⭐3k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐686)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [evidently (⭐3.1k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
+*   [TensorFlow Data Validation (⭐688)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### MongoDB
 
-*   [MongoKitten (⭐646)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐647)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -327,11 +327,11 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐349)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐350)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐41)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐42)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 
@@ -349,7 +349,7 @@
 
 ### Tools
 
-*   [rpi-cookstrap (⭐5)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+*   [rpi-cookstrap (⭐6)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
 
 ## [24. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -500,25 +500,28 @@
 
 ## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
-
-*   [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480)
-
-### Stable Diffusion Inbox / Web UI for Stable Diffusion via Google Colab
-
-*   [camenduru/stable-diffusion-webui-colab (⭐215)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
-
-### History and Mapping the Area / References Collection about Stable Diffusion
+### The Generative AI Area: history, maps, and definitions
 
 *   \[🔥🔥🔥] [Mapping the Generative AI landscape | Antler](https://www.antler.co/blog/generative-ai)
 
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
+
+*   [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480)
+
+### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
+
+*   [camenduru/stable-diffusion-webui-colab (⭐362)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+
 ### Image Synthesis / Promptism
 
-*   [openai/point-e (⭐2k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐3.9k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / ChatGPT
 
-*   [Awesome ChatGPT Prompts](https://prompts.chat/): a repo that includes curated ChatGPT prompts
+*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+
 *   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
 
 ## [29. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
@@ -531,7 +534,7 @@
 
 ### Front-End Development
 
-*   [Web Components (⭐2k)](https://github.com/web-padawan/awesome-web-components#readme)
+*   [Web Components (⭐2.1k)](https://github.com/web-padawan/awesome-web-components#readme)
 
 ## [31. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
@@ -650,11 +653,11 @@
 
 ### Templates / Solid
 
-*   [vitesse-solid (⭐5)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+*   [vitesse-solid (⭐13)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-solid-markdown (⭐2)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
+*   [vite-plugin-solid-markdown (⭐4)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -662,32 +665,32 @@
 
 ### React / Helpers
 
-*   [vite-plugin-react-click-to-component (⭐3)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+*   [vite-plugin-react-click-to-component (⭐4)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐577)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐582)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.animate (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+*   [echasnovski/mini.nvim#mini.animate (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐42)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐109)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim (⭐27)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐34)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [aws (⭐0)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
-*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐11)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
+*   [aws (⭐0)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐16)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
 *   [valuca (⭐0)](https://github.com/keyaedisa/Valuca) - Variant of [ducula (⭐33)](https://github.com/janjoswig/Ducula). Includes decorators for background job status, username, hostname, virtualenv, current directory, last command's exit code, `git` information and the current time.
 
 ## [42. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
@@ -771,11 +774,11 @@
 ### Using ChatGPT in other apps
 
 *   [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
-*   [GPT AI Assistant using LINE and Vercel (⭐390)](https://github.com/memochou1993/gpt-ai-assistant)
+*   [GPT AI Assistant using LINE and Vercel (⭐552)](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)].
 
@@ -783,7 +786,7 @@
 
 ### Social Networking
 
-*   [Retrospring (⭐115)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐121)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
@@ -795,7 +798,7 @@
 
 ### View components
 
-*   [Phlex (⭐637)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐648)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -804,39 +807,7 @@
 *   [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET **\[Free for OSS]**
 *   *   [CSharp Analyzer by MongoDB (⭐8)](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
 
-## [52. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐37)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐65)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐31)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐571)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [53. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [52. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -848,36 +819,35 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐42)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐60)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐896)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
+*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐912)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 
 ### Software / Miscellaneous
 
-*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐0)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
+*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐2)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto (⭐45)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐45)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+*   [Chevereto (⭐68)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐68)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
 
 ### Software / Software Development - Low Code
 
-*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐332)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
+*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐349)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
 
 ### Software / URL Shorteners
 
-*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang `MIT` `Go`
+*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang. `MIT` `Go`
 
-## [54. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [53. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Ironcrunch](https://www.patreon.com/LudicPen/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
-*   [Snow Forged](https://drive.google.com/file/d/1--u-E0RiBN-1kw8opo4JfPNlXNz7QBoe/view?usp=sharing) - A stripped-down ruleset for playing short, fun, Christmas-themed adventures
 
-## [55. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [54. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Data Science
 
@@ -893,4 +863,5 @@
 
 ---
 
+- Prev: [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 - Next: [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,7 +31,7 @@
 
 ### Concurrency
 
-*   [async+ (⭐127)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
+*   [async+ (⭐132)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Media / Image Picker
 
-*   [photo\_manager (⭐503)](https://github.com/fluttercandies/flutter_photo_manager) <!--stargazers:fluttercandies/flutter_photo_manager--> - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
+*   [photo\_manager (⭐521)](https://github.com/fluttercandies/flutter_photo_manager) <!--stargazers:fluttercandies/flutter_photo_manager--> - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

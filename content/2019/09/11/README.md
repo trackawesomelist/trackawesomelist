@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Resources / Examples
 
-*   [A one-on-one chat app in Vue with CometChat (⭐5)](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
+*   [A one-on-one chat app in Vue with CometChat (⭐6)](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐417)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐438)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

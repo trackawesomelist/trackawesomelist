@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,8 +10,8 @@
 
 ### Reddit
 
-*   [Libreddit (⭐3.8k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
-    *   [Ferrit (⭐63)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
+*   [Libreddit (⭐4k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+    *   [Ferrit (⭐59)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
@@ -21,7 +21,7 @@
 
 ### Third-party APIs
 
-*   [swag (⭐26)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
+*   [swag (⭐27)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Development Environment / Other
 
-*   [DockerDL (⭐11)](https://github.com/matifali/dockerdl) - Deep Learning Docker Images. Don't waste time setting up a deep learning env when you can get a deep learning environment with everything pre-installed.
+*   [DockerDL (⭐15)](https://github.com/matifali/dockerdl) - Deep Learning Docker Images. Don't waste time setting up a deep learning env when you can get a deep learning environment with everything pre-installed.
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -68,25 +68,25 @@
 
 ### Wrappers
 
-*   [cl-ndbapi (⭐11)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
+*   [cl-ndbapi (⭐13)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Dendrite](https://matrix.org/docs/projects/server/dendrite) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4.2k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
+*   [Dendrite](https://matrix.org/docs/projects/server/dendrite) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4.3k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
 
 ### Software / Groupware
 
-*   [tine - Community Edition (⭐140)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
+*   [tine - Community Edition (⭐142)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
 
 ### Software / Remote Access
 
-*   [RustDesk](https://rustdesk.com/) - An open source TeamViewer alternative, works out of the box, no configuration required. ([Source Code (⭐2.9k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker`
+*   [RustDesk](https://rustdesk.com/) - An open source TeamViewer alternative, works out of the box, no configuration required. ([Source Code (⭐3.2k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker`
 
 ### Software / Status / Uptime pages
 
-*   [Gatus (⭐3.2k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
+*   [Gatus (⭐3.4k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Others
 
-*   [BlazorServerImageRecognitionApp (⭐0)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
+*   [BlazorServerImageRecognitionApp (⭐1)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
 *   [FootballBlazorApp (⭐1)](https://github.com/johnt84/FootballBlazorApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/FootballBlazorApp) Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search.  [Demo](https://premierleagueblazorapp.azurewebsites.net/).
 
 ### Component bundles
@@ -105,7 +105,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.FileSystemAccess (⭐192)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
+*   [Blazor.FileSystemAccess (⭐215)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
 
 ### Videos / Others
 
@@ -119,14 +119,14 @@
 ### Community / Others
 
 *   [Discord](https://discord.com/channels/732297728826277939/732297874062311424) - Blazor channel on the DotNetEvolution discord server.
-*   [I Love DotNet (⭐17)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
+*   [I Love DotNet (⭐19)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
 *   [Reddit](https://www.reddit.com/r/Blazor/) - Blazor subreddit.
 
 ## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-fzf-session-switch (⭐5)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
+*   [tmux-fzf-session-switch (⭐8)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
 
 ## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Frameworks
 
-*   [CGraph (⭐428)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
+*   [CGraph (⭐437)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
 
 ## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fancy-completions (⭐4)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
+*   [fancy-completions (⭐6)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -158,11 +158,11 @@
 
 ## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [Atlas KREA Stable Diffusion](https://atlas.nomic.ai/map/809ef16a-5b2d-4291-b772-a913f4c8ee61/9ed7d171-650b-4526-85bf-3592ee51ea31): An explorable map of KREA AI's Stable Diffusion Search Engine
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [DiffusionBee](https://diffusionbee.com/): stable diffusion GUI App
 

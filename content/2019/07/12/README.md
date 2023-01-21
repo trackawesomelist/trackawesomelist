@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,11 +50,11 @@
 
 ### Packages / Containerization
 
-*   [micro-ROS/docker (⭐32)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
+*   [micro-ROS/docker (⭐33)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 
 ### Packages / Application layer
 
-*   [apriltag\_ros (⭐46)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
+*   [apriltag\_ros (⭐55)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 
 ### Packages / Driver layer
 
@@ -67,11 +67,11 @@
 
 ### Operating systems / Build system (ROS2)
 
-*   [NuttX (⭐74)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
+*   [NuttX (⭐75)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
 
 ### Services / Robotics Capture the Flag (RCTF)
 
-*   [rctf-list (⭐28)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
+*   [rctf-list (⭐29)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

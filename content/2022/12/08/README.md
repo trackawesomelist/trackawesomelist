@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,12 +21,12 @@
 ### Conversational
 
 *   [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
-*   [ChatGPT-conversation: talk to ChatGPT using your voice (⭐120)](https://github.com/platelminto/chatgpt-conversation)
+*   [ChatGPT-conversation: talk to ChatGPT using your voice (⭐215)](https://github.com/platelminto/chatgpt-conversation)
 
 ### Other
 
 *   [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-*   [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐624)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
+*   [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐707)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
 
 ---
 

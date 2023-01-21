@@ -2,7 +2,7 @@
 
 55 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,13 +18,7 @@
 
 *   [GNNs for Solving Combinatorial Optimization Problems (⭐1)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [Algorithms Design (in C)](https://www.ime.usp.br/\~pf/algorithms/) - Paulo Feofiloff (HTML)
-
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -51,20 +45,20 @@
 
 *   [PukiWiki](https://pukiwiki.osdn.jp/) - PukiWiki is a free, simple, open-source wiki management system. Minimalistic and simple design with many tools for collaborative work. Created in Japanese, so translator needed. ([Source Code](https://ja.osdn.net/projects/pukiwiki/scm/git/pukiwiki/)) `GPL-2.0` `PHP`
 
-## [5. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [4. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Programming languages
 
 *   [PikaPython (⭐913)](https://github.com/pikastech/pikapython) - Python runs with only 4KB of RAM, zero dependencies, easy to bind with C.
 
-## [6. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [5. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts / Third Party
 
 *   [Layer Cake (⭐735)](https://github.com/mhkeller/layercake) - A graphics framework built on top of Svelte.
 *   [semiotic (⭐2.3k)](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3 \[scatter, line, area]
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -74,19 +68,19 @@
 
 *   [Kamagari (⭐78)](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
 
-## [8. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [Automation Controller](https://www.ansible.com/products/controller) - Automation Controller (formally Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 *   [Packer Ansible Provisioner](https://www.packer.io/plugins/provisioners/ansible/ansible-local) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
 *   [vite-vue-h5-app (⭐2)](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
-*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia,  APIs\&Mock, ESLint, Prettier, auto-importing.
+*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -105,13 +99,13 @@
 
 *   [vite-plugin-entry-shaking (⭐12)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 
-## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [DB3 Network (⭐78)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
 
-## [11. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Transistor Software plugins](https://www.transistorsoft.com//)
 
@@ -119,34 +113,34 @@
 *   [Background Fetch (⭐45)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
 *   [Background Geolocation Firebase (⭐6)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
-## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Game Boy Color / Opcodes
 
 *   [Boot ROM Disassembly](https://gist.github.com/drhelius/6063265)
 *   [GBC Hicolour notes](https://romhack.github.io/doc/gbcHiColour/) - A technical note regarding Hicolour mode trick for Game Boy Color and its realization in the GBC game “Crystalis”.
 
-## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Projects / Godot 3.5+
 
 *   [GATT - Godot Autotile Texture Templater (⭐11)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
 
-## [14. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [13. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
-### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle)   (2019-2021)   *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)*   \[4.2] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle)   (2019-2021)   *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)*   \[4.2] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) \[4.1]
 *   [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) \[4.3]
 *   [Aurora's End](https://www.goodreads.com/book/show/40516976-aurora-s-end) \[4.2]
 
-## [15. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [14. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
 *   [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Writing
 
@@ -156,13 +150,13 @@
 
 *   [Lighten](https://lighten-test.xmind.net) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
 
-## [17. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [16. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Software Engineering
 
 *   [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) - YAML is full of obscure complexity like accidental numbers and non-string keys.
 
-## [18. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [17. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### Prompting
 
@@ -176,6 +170,12 @@
 ### Conversational
 
 *   [(Another) Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+
+## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Misc
+
+*   [KotUniL (⭐27)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 
 ## [19. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -286,27 +286,17 @@
 
 ## [28. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Applications / Command-line
+### Command-line
 
 *   [vcli (⭐0)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 
-### Libraries / Text processing
+### Text processing
 
 *   [pcre2 (⭐1)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 
-## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Libraries/Frameworks / Misc
-
-*   [KotUniL (⭐27)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
-
-### The Generative AI Area: history and maps
+### The Generative AI Area: history, maps, and definitions
 
 *   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 *   [AI exploded on the scene at the end of 2022 / Twitter](https://twitter.com/RamaswmySridhar/status/1613271413020037120): categories for analyzing tools of Generative AI
@@ -338,17 +328,17 @@
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) tools / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / ChatGPT
+
+*   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
+
+### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
 *   [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
-
-*   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
-
-## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Search / Diagnostics
 
@@ -380,11 +370,11 @@
 
 *   [gennaro-tedesco/nvim-possession (⭐8)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 
-## [32. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [31. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐1.4k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐1.5k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
@@ -400,13 +390,13 @@
 
 *   [zig.pm](https://zig.pm/) - A community-maintained repository of Zig packages.
 
-## [33. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [32. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Databases / Data Sources
 
 *   [MyAnimeList APIv2](https://myanimelist.net/apiconfig/references/api/v2) - Official API for [MyAnimeList](https://myanimelist.net/). \[English]
 
-## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [33. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Articles & Blogs
 
@@ -420,13 +410,13 @@
 
 *   [Firefly III (⭐9.5k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
-## [35. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [34. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Automotive
 
 *   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG022) - Kia configurator (Korean).
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -448,7 +438,7 @@
 
 *   [vue-web-otp (⭐1)](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
@@ -463,7 +453,7 @@
 *   This list is currently empty, but you can add to it by opening a merge request.
 *   Please reach out if you are interested in sponsoring this repo. Your company's name and logo will be prominently displayed here.
 
-## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -471,7 +461,7 @@
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐200)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐222)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
 
 ### Applications / Security tools
 
@@ -484,7 +474,7 @@
 *   Serial Port
     *   [serialport/serialport-rs (⭐129)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Caching
 
@@ -494,13 +484,13 @@
 
 *   [SecTester (⭐0)](https://github.com/NeuraLegion/sectester-net) - SecTester is a new tool that integrates [Bright](https://brightsec.com/) enterprise-grade scan engine directly into your integration or e2e tests. **\[Proprietary]** **\[Free]**
 
-## [40. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [39. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / eunomia-bpf
 
 *   [eunomia-bpf (⭐161)](https://github.com/eunomia-bpf/eunomia-bpf) - A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.
 
-## [41. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [40. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines / Awesome Collections
 
@@ -1621,13 +1611,13 @@
 *   📚 [Retro3DGraphicsCollection (⭐794)](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro style 3D graphic assets (think PS1).
 *   💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
 
-## [42. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [41. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Validation / Playground
 
 *   [typia (⭐2.1k)](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
 
-## [43. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [42. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Wallets
 
@@ -1651,25 +1641,25 @@
 *   [SliceSwap](https://app.sliceswap.com) - One place to trade your assets across major Dex's. All swaps are powered by @deflexfi.
 *   [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
 
-## [44. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [43. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Miscellaneous
 
 *   [Upgrade Adviser (⭐7)](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
 
-## [45. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [44. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Other
 
 *   [GILT Forum (⭐30)](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - A Guide for Localization and Globalization Professionals.
 
-## [46. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [45. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
 *   [magento2docker (⭐0)](https://github.com/aliuosio/magento2docker) - MariaDB, PHP , Redis, ElasticSearch in one dockerfile for fast demo and deveopment enviroment
 
-## [47. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [46. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Qubes OS Websites
 
@@ -1703,7 +1693,7 @@
 
 *   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
 *   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-*   [Suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
+*   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ### VPN
 
@@ -1731,28 +1721,28 @@
 
 *   [Awesome-Virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
-### Kernels
+### Kernels / Microkernels
 
 *   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
 
-### Unikernels
+### Kernels / Unikernels
 
-*   [Awesome-Unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
+*   [Awesome-Unikernels (⭐22)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
 *   [Qubes-Mirage-Firewall (⭐184)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
-### Exploitation Tools
+### Exploitation Tools / Unikernel-like
 
 *   [Awesome-Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
 *   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-*   [Memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+*   [Memflow (⭐414)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
     *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
     *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
     *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-    *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+    *   [Qemu\_procfs (⭐22)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
     *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
@@ -1778,9 +1768,8 @@
 
 *   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories)
-    *   [templates](https://qubes.3isec.org/Templates_4.1/)
-    *   [Core Team](https://www.qubes-os.org/team/#core-team)
-*   You can be one too! You've got this! Keep Qubing!
+    *   [Templates](https://qubes.3isec.org/Templates_4.1/)
+    *   [Unman Install Scripts (⭐12)](https://github.com/unman/shaker)
 
 ### Training and Materials / Web articles
 
@@ -1799,7 +1788,7 @@
 *   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -1825,7 +1814,7 @@
 
 *   [Kody Tools](https://www.kodytools.com/dev-tools) — 100+ dev tools including formatter, minifier, and converter.
 
-## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [48. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
@@ -1833,19 +1822,19 @@
 *   [Next-Fire-Auth (⭐0)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 *   [NextJS Chargebee Subscription (⭐0)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
-## [50. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [49. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [react-vite-admin (⭐151)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
 
-## [51. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [50. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER.
 
-## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [51. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Knowledge Management
 
@@ -1865,11 +1854,11 @@
 
 *   [Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework](https://link.springer.com/article/10.1007/s10994-022-06142-7) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10321228117236432485\&hl=en\&as_sdt=0,5)]. A neuro-symbolic framework that integrates meta-policy learning in inductive logic programming.
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679\&hl=en\&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
 
-## [53. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [52. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Commenting Engines
 
@@ -1890,13 +1879,13 @@
 
 *   [LosslessCut (⭐15k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
 
-## [54. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [53. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Security
 
 *   [Ronin (⭐315)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 
-## [55. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [54. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
@@ -1906,7 +1895,17 @@
 
 *   [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
 
+## [55. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Open Source Ecosystem
+
+*   [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Nadia Eghbal
+
+### Professional Development
+
+*   [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
+
 ---
 
-- Prev: [Sep 10 - Sep 16, 2012](/content/2012/37/README.md)
+- Prev: [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 - Next: [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)

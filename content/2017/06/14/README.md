@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,17 +10,17 @@
 
 ### For Electron / Other
 
-*   [got (⭐12k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
+*   [got (⭐13k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 
 ## [2. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / C++
 
-*   [Brayns (⭐270)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
+*   [Brayns (⭐275)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
 
 ### Programming / JavaScript
 
-*   [Brainbrowser (⭐311)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
+*   [Brainbrowser (⭐316)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

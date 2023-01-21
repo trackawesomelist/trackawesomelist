@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 06, 2020
 
-21 awesome lists updated today.
+20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,14 +30,7 @@
 
 *   [Vendr\*](https://vendr.net/) - eCommerce built on top of Umbraco.
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Articles / XML
-
-*   [Creating a Web Application using Deno](https://www.loginradius.com/engineering/blog/a-webapp-in-deno/)
-*   [Read and Write in a local file with Deno](https://www.loginradius.com/engineering/blog/read-and-write-in-a-local-file-with-deno/)
-
-## [6. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [5. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Open Courses
 
@@ -49,7 +42,7 @@
 
 
 
-## [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Libraries
 
@@ -61,13 +54,13 @@
 
 *   [GraphQL (⭐610)](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
 
-## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### No-Code Platforms
 
 *   [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
 
-## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -81,15 +74,15 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  90m |
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Examples and funny stuff
 
-*   [phoenix-ecto-encryption-example (⭐237)](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
+*   [phoenix-ecto-encryption-example (⭐240)](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
 
 ### ORM and Datamapping
 
-*   [ecto\_psql\_extras (⭐303)](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights.
+*   [ecto\_psql\_extras (⭐319)](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights.
 
 ### Testing
 
@@ -103,13 +96,13 @@
 
 *   [uef-lib (⭐14)](https://github.com/DOBRO/uef-lib) - Useful Erlang Functions Library that provides modules for manipulating lists, binaries, maps, numbers, date and time. It  contains some functions optimized for performance in specific cases (e.g. for file I/O operations or binary transformations).
 
-## [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / JavaScript
 
-*   [DeriveJS (⭐53)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
+*   [DeriveJS (⭐54)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
 
-## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Online database creator apps
 
@@ -119,14 +112,14 @@
 
 *   [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 
-## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [12. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Programming languages
 
 *   [MicroPython](https://docs.micropython.org/) - a lean and efficient Python implementation for microcontrollers and constrained systems
-*   [PharoThings (⭐90)](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on [Pharo](https://pharo.org/) (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).
+*   [PharoThings (⭐88)](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on [Pharo](https://pharo.org/) (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).
 
-## [14. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [13. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Tools
 
@@ -138,13 +131,13 @@
     *   EU, The Hague, September.
     *   USA, Santa Clara, June.
 
-## [15. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [14. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Dashboards / Custom Cards
 
 *   [Restriction Card (⭐161)](https://github.com/iantrich/restriction-card) - A card to provide restrictions on Lovelace cards defined within.
 
-## [16. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [15. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Version Control System / Online Git Service
 
@@ -152,7 +145,7 @@
     *   GitLab includes unlimited free private repositories.
     *   GitLab comes with a continuous integration tool that is more powerful than GitHub Actions.
 
-## [17. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [16. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / EHR
 
@@ -190,7 +183,7 @@
 
 *   [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
 *   [Opal](https://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
-*   [Spark (⭐214)](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
+*   [Spark (⭐216)](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
 
 ### Contents / Libraries
 
@@ -198,11 +191,11 @@
 
 ### Contents / Integration
 
-*   [NextGen Connect Integration Engine (⭐614)](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
+*   [NextGen Connect Integration Engine (⭐629)](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
 
 ### Contents / Bioinformatics
 
-*   [Bcbio (⭐915)](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+*   [Bcbio (⭐917)](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
 *   [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Contents / Data
@@ -210,13 +203,13 @@
 *   [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
 *   [Snow Owl (⭐225)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
 
-## [18. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Inclusion / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [IETF Inclusive Language](https://tools.ietf.org/html/draft-knodel-terminology-04) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ietf/terminology) - Terminology for inclusive language conventions (latest version on github).
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -224,7 +217,7 @@
 
 ### Monitoring
 
-*   [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10 minutes interval. monitor SSH, HTTP, HTTPS, and any custom TCP ports.
+*   [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10 minutes interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
 
 ### Analytics, Events and Statistics
 
@@ -235,13 +228,13 @@
 *   [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, 3 heatmaps, 3 widgets, free bug tracking
 *   [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
 
-## [20. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [19. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Frameworks
 
-*   [Trunk (⭐2.1k)](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
+*   [Trunk (⭐2.2k)](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

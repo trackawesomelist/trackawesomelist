@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐74)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐85)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
 ## [7. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐74)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐88)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ### UI Libraries, Components & Templates
 
@@ -65,7 +65,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [titanzero/zephyrium (⭐16)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
+*   [titanzero/zephyrium (⭐19)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nix-alien (⭐140)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-alien (⭐155)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
 ## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Git Tools
 
-*   [Husky.Net (⭐354)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
+*   [Husky.Net (⭐367)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
 
 ## [15. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

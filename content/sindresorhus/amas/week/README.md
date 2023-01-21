@@ -2,7 +2,7 @@
 
 Awesome & Marvelous Amas
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/amas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/amas](https://github.com/sindresorhus/amas) · ⭐ 1.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/amas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/amas](https://github.com/sindresorhus/amas) · ⭐ 1.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/sindresorhus/amas/README.md) / Weekly / [Overview](/content/sindresorhus/amas/readme/README.md) ]
 

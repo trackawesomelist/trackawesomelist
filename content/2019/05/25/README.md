@@ -1,34 +1,24 @@
 # Awesome List Updates on May 25, 2019
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
-
-### Foundations / Blockchain, AI and Machine Learning
-
-*   [Decentralized AI Alliance (DAIA).](https://daia.foundation/) DAIA is an alliance of serious participants in the AI & blockchain related ecosystem, coming together to collectively solve common challenges and create an amazing future.
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Neuromation.](https://neuromation.io/) - Distributed synthetic data platform for Deep Learning Applications.
-
-## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [1. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Storage / Preferences
 
-*   [Streaming Shared Preferences (⭐238)](https://github.com/roughike/streaming_shared_preferences)<!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
+*   [Streaming Shared Preferences (⭐244)](https://github.com/roughike/streaming_shared_preferences)<!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
 
-## [3. Amas](/content/sindresorhus/amas/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Brad Garropy](https://bradgarropy.com/ama) - Self-taught frontender at [Adobe](https://www.adobe.com), [blogger](https://bradgarropy.com), [streamer](https://youtube.com/bradgarropy), [tweeter](https://twitter.com/bradgarropy).
 
-## [4. Awesome Python](/content/vinta/awesome-python/README.md)
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Admin Panels
 
@@ -46,7 +36,7 @@
 
 ### Cryptography
 
-*   [paramiko (⭐8k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
+*   [paramiko (⭐8.1k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 
 ### Data Visualization
 
@@ -54,7 +44,7 @@
 
 ### E-commerce
 
-*   [money (⭐212)](https://github.com/carlospalol/money) - `Money` class with optional CLDR-backed locale-aware formatting and an extensible currency exchange.
+*   [money (⭐215)](https://github.com/carlospalol/money) - `Money` class with optional CLDR-backed locale-aware formatting and an extensible currency exchange.
 
 ### Editor Plugins and IDEs
 
@@ -63,7 +53,7 @@
 
 ### Environment Management
 
-*   [virtualenv (⭐4.3k)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
+*   [virtualenv (⭐4.4k)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
 ### Foreign Function Interface
 
@@ -71,9 +61,9 @@
 
 ### GUI Development
 
-*   [Eel (⭐5.3k)](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
+*   [Eel (⭐5.4k)](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
 *   [PySimpleGUI (⭐11k)](https://github.com/PySimpleGUI/PySimpleGUI) - Wrapper for tkinter, Qt, WxPython and Remi.
-*   [pywebview (⭐3.2k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
+*   [pywebview (⭐3.3k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 
 ### Game Development
 
@@ -92,12 +82,12 @@
 ### Implementations
 
 *   [Cython](http://cython.org/) - Optimizing Static Compiler for Python.
-*   [IronPython (⭐1.9k)](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
+*   [IronPython (⭐2k)](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 *   [Jython](https://hg.python.org/jython) - Implementation of Python programming language written in Java for the JVM.
 *   [MicroPython (⭐16k)](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
 *   [PeachPy (⭐1.7k)](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 *   [Pyston (⭐4.9k)](https://github.com/dropbox/pyston) - A Python implementation using JIT techniques.
-*   [Stackless Python (⭐881)](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language.
+*   [Stackless Python (⭐891)](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language.
 
 ### Job Scheduler
 
@@ -127,7 +117,7 @@
     *   [Levenshtein (⭐1.2k)](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
     *   [pangu.py (⭐194)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
     *   [pyfiglet (⭐1.1k)](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
-    *   [pypinyin (⭐4.1k)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
+    *   [pypinyin (⭐4.2k)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
     *   [textdistance (⭐3k)](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms.
     *   [unidecode](https://pypi.org/project/Unidecode/) - ASCII transliterations of Unicode text.
 
@@ -135,7 +125,7 @@
 
 *   [webargs (⭐1.3k)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Experts on Twitter
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,14 +38,14 @@
 
 ### C, C++
 
-*   [cmacro (⭐829)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
-*   [C-mera (⭐342)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [lispc (⭐509)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
+*   [cmacro (⭐835)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
+*   [C-mera (⭐348)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [lispc (⭐511)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
 
 ### Tools
 
 *   [pileup](http://nikodemus.github.io/pileup/) - a portable, performant, and thread-safe binary heap for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [sycamore (⭐102)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [sycamore (⭐104)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Emacs / Third-party APIs
 

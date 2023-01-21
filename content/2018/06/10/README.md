@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,11 +19,11 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Sequence Animation (⭐379)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Sequence Animation (⭐380)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
-*   [Meme Chat (⭐523)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+*   [Meme Chat (⭐527)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 

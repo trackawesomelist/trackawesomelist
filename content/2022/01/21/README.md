@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / Serial Communications
+### Serial Communications
 
 *   [vserialport (⭐9)](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
 *   [vserialx (⭐8)](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
@@ -81,7 +81,7 @@
 
 ### Motion / Diagnostics
 
-*   [rlane/pounce.nvim (⭐245)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+*   [rlane/pounce.nvim (⭐254)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -102,15 +102,15 @@
 ### Applications / Emulators
 
 *   CHIP-8
-    *   [ColinEberhardt/wasm-rust-chip8 (⭐237)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator written with Rust
-    *   [starrhorne/chip8-rust (⭐101)](https://github.com/starrhorne/chip8-rust) — Yet another rust chip8 emulator
+    *   [ColinEberhardt/wasm-rust-chip8 (⭐240)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator written with Rust
+    *   [starrhorne/chip8-rust (⭐104)](https://github.com/starrhorne/chip8-rust) — Yet another rust chip8 emulator
 
 ### Development tools / IDEs
 
 *   [Visual Studio Code](https://code.visualstudio.com/)
     *   [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - TOML support in vscode
     *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension
-    *   [crates (⭐162)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates) [![build badge](https://api.travis-ci.org/serayuzgur/crates.svg?branch=master)](https://travis-ci.org/serayuzgur/crates)
+    *   [crates (⭐166)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates) [![build badge](https://api.travis-ci.org/serayuzgur/crates.svg?branch=master)](https://travis-ci.org/serayuzgur/crates)
     *   [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
     *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — An alternative rust language server to the RLS
     *   [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — Rust support for Visual Studio Code (supports both RLS and rust-analyzer)

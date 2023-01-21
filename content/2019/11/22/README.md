@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -77,11 +77,11 @@
 
 ### Programming Languages
 
-*   [Vala (⭐91)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+*   [Vala (⭐96)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 
 ### Business
 
-*   [Wardley Maps (⭐512)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+*   [Wardley Maps (⭐517)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
 ### Miscellaneous
 

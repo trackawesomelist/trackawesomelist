@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 13, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Boilerplates / Themes
 
-*   [CRA-TS-Antd (⭐109)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+*   [CRA-TS-Antd (⭐108)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 
 ## [3. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
@@ -90,13 +90,7 @@
 *   [Exoplayer (⭐20k)](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
     Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Socket / Barcode
-
-*   [SwiftDSSocket (⭐65)](https://github.com/csujedihy/SwiftDSSocket) - Asynchronous socket framework built atop DispatchSource.
-
-## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Linters / More
 

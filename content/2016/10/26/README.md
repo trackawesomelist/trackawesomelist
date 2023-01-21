@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 
 ### Querying / Symfony2
 
-*   [rest-assured (⭐6.1k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+*   [rest-assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Database
 
-*   [LevelDB (⭐31k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+*   [LevelDB (⭐32k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -120,11 +120,11 @@
 
 ### Frameworks
 
-*   [kitto (⭐946)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [kitto (⭐947)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐241)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [appsignal-elixir (⭐242)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
 *   [prometheus-phoenix (⭐66)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 
@@ -147,10 +147,6 @@
 *   [ElixirSublime (⭐368)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
 ## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Websites and Resources
-
-*   [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
 
 ### Articles & Blogs
 

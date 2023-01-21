@@ -2,7 +2,7 @@
 
 52 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -141,7 +141,7 @@
 
 ### Miscellaneous
 
-*   [Web Archiving (⭐1.3k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+*   [Web Archiving (⭐1.4k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
 ## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -149,38 +149,38 @@
 
 *   JSON
     *   [importcjj/rust-ajson (⭐90)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
-    *   [maciejhirsz/json-rust (⭐497)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
-    *   [pikkr/pikkr (⭐610)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
-    *   [serde-rs/json (⭐3.5k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.4k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
-    *   [simd-lite/simd-json (⭐720)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
+    *   [maciejhirsz/json-rust (⭐501)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
+    *   [pikkr/pikkr (⭐614)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
+    *   [serde-rs/json (⭐3.6k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.6k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
+    *   [simd-lite/simd-json (⭐738)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
 ## [19. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [archivenow (⭐335)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
-*   [Chronicler (⭐73)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
+*   [archivenow (⭐341)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
+*   [Chronicler (⭐75)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
 *   [Crawl](https://git.autistici.org/ale/crawl) - A simple web crawler in Golang. *(Stable)*
-*   [crocoite (⭐38)](https://github.com/promyloph/crocoite) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files. *(In Development)*
+*   [crocoite (⭐39)](https://github.com/promyloph/crocoite) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files. *(In Development)*
 *   [F(b)arc (⭐75)](https://github.com/justinlittman/fbarc) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api). *(Stable)*
-*   [freeze-dry (⭐237)](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
-*   [grab-site (⭐918)](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
+*   [freeze-dry (⭐244)](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
+*   [grab-site (⭐959)](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
 *   [html2warc (⭐8)](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
 *   [HTTrack](http://www.httrack.com/) - An open source website copying utility. *(Stable)*
-*   [monolith (⭐4.8k)](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
-*   [SingleFile (⭐9.4k)](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
+*   [monolith (⭐5k)](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
+*   [SingleFile (⭐10k)](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 *   [SiteStory](http://mementoweb.github.com/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server. *(Stable)*
 *   [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs. *(Stable)*
-*   [Squidwarc (⭐148)](https://github.com/N0taN3rd/Squidwarc) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
+*   [Squidwarc (⭐153)](https://github.com/N0taN3rd/Squidwarc) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
 *   [StormCrawler](http://stormcrawler.net/) - A collection of resources for building low-latency, scalable web crawlers on Apache Storm. *(Stable)*
-*   [twarc (⭐1.2k)](https://github.com/docnow/twarc) - A command line tool and Python library for archiving Twitter JSON data. *(Stable)*
+*   [twarc (⭐1.3k)](https://github.com/docnow/twarc) - A command line tool and Python library for archiving Twitter JSON data. *(Stable)*
 *   [WARCreate](http://matkelly.com/warcreate/) - A [Google Chrome](https://www.google.com/intl/en/chrome/browser/) extension for archiving an individual webpage or website to a WARC file. *(Stable)*
 *   [Warcworker (⭐48)](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI. *(Stable)*
 *   [Web2Warc (⭐22)](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
 *   [Webrecorder](https://webrecorder.io/) - Create high-fidelity, interactive recordings of any web site you browse. *(Stable)*
 *   [Wget](http://www.gnu.org/software/wget/) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output). *(Stable)*
 *   [Wget-lua (⭐22)](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
-*   [Wpull (⭐458)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
+*   [Wpull (⭐465)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
 
 ### Tools & Software / Search & Discovery
 
@@ -191,28 +191,28 @@
 
 *   [httpreserve.info](http://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. Returns JSON via browser or command line via CURL using GET (Golang Package). *(Stable)*
 *   [HTTPreserve Workbench (⭐2)](https://github.com/httpreserve/workbench) - Tool and API to describe the status of a web page encoded in a simple JSON output describing current status, and earliest and latest links on wayback.org. Save a web page to the Internet Archive. Audit lists of URIs and output a CSV with the data described above (Golang). *(In Development)*
-*   [MementoMap (⭐5)](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python). *(In Development)*
-*   [MemGator (⭐43)](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang). *(Stable)*
+*   [MementoMap (⭐6)](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python). *(In Development)*
+*   [MemGator (⭐45)](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang). *(Stable)*
 *   [node-cdxj (⭐0)](https://github.com/N0taN3rd/node-cdxj) - [CDXJ (⭐15)](https://github.com/oduwsdl/ORS/wiki/CDXJ) file parser (Node.js). *(Stable)*
-*   [OutbackCDX (⭐25)](https://github.com/nla/outbackcdx) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and [Heritrix (⭐7)](https://github.com/ukwa/ukwa-heritrix/blob/master/src/main/java/uk/bl/wap/modules/uriuniqfilters/OutbackCDXRecentlySeenUriUniqFilter.java). *(Stable)*
+*   [OutbackCDX (⭐27)](https://github.com/nla/outbackcdx) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and [Heritrix (⭐8)](https://github.com/ukwa/ukwa-heritrix/blob/master/src/main/java/uk/bl/wap/modules/uriuniqfilters/OutbackCDXRecentlySeenUriUniqFilter.java). *(Stable)*
 *   [py-wasapi-client (⭐12)](https://github.com/unt-libraries/py-wasapi-client) - Command line application to download crawls from WASAPI (Python). *(Stable)*
 *   [tikalinkextract (⭐7)](https://github.com/httpreserve/tikalinkextract) - Extract hyperlinks as a seed for web archiving from folders of document types that can be parsed by Apache Tika (Golang, Apache Tika Server). *(In Development)*
-*   [wasapi-downloader (⭐4)](https://github.com/sul-dlss/wasapi-downloader) - Java command line application to download crawls from WASAPI. *(Stable)*
+*   [wasapi-downloader (⭐5)](https://github.com/sul-dlss/wasapi-downloader) - Java command line application to download crawls from WASAPI. *(Stable)*
 *   [WarcPartitioner (⭐1)](https://github.com/helgeho/WarcPartitioner) - Partition (W)ARC Files by MIME Type and Year. *(Stable)*
-*   [wikiteam (⭐530)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
+*   [wikiteam (⭐559)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
 
 ### Tools & Software / WARC I/O Libraries
 
 *   [HadoopConcatGz (⭐9)](https://github.com/helgeho/HadoopConcatGz) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and `*.warc.gz`). *(Stable)*
 *   [Jwat](https://sbforge.org/display/JWAT/JWAT) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files (Java). *(Stable)*
-*   [node-warc (⭐76)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐3.8k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
-*   [Warcat (⭐114)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
+*   [node-warc (⭐80)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐3.9k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
+*   [Warcat (⭐118)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
 
 ### Tools & Software / Analysis
 
-*   [ArchiveSpark (⭐125)](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation. *(Stable)*
+*   [ArchiveSpark (⭐127)](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation. *(Stable)*
 *   [Archives Unleashed Notebooks (⭐18)](https://github.com/archivesunleashed/notebooks) - Notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit. *(Stable)*
-*   [Archives Unleashed Toolkit (⭐121)](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
+*   [Archives Unleashed Toolkit (⭐125)](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
 *   [Tweet Archvies Unleashed Toolkit (⭐8)](https://github.com/archivesunleashed/twut) - An open-source toolkit for analyzing line-oriented JSON Twitter archives with Apache Spark. *(In Development)*
 
 ## [20. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
@@ -227,9 +227,8 @@
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [ChopShop (⭐468)](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
-*   [Maltrail (⭐4.8k)](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
-*   [Moloch (⭐5.3k)](https://github.com/aol/moloch) - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
+*   [ChopShop (⭐471)](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
+*   [Maltrail (⭐4.9k)](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
 *   [OwlH](https://www.owlh.net/) - Helps manage network IDS at scale by visualizing Suricata, Zeek, and Moloch life cycles.
 *   [Snort](https://snort.org/) - Widely-deployed, Free Software IPS capable of real-time packet analysis, traffic logging, and custom rule-based triggers.
 *   [SpoofSpotter (⭐46)](https://github.com/NetSPI/SpoofSpotter) - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
@@ -239,15 +238,15 @@
 
 ### Security monitoring / Threat hunting
 
-*   [CimSweep (⭐610)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.
+*   [CimSweep (⭐611)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.
 *   [DeepBlueCLI (⭐1.6k)](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
 *   [GRR Rapid Response (⭐4.2k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
 *   [Hunting ELK (HELK) (⭐3.4k)](https://github.com/Cyb3rWard0g/HELK) - All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook.
 *   [MozDef (⭐2.2k)](https://github.com/mozilla/MozDef) - Automate the security incident handling process and facilitate the real-time activities of incident handlers.
 *   [PSHunt (⭐237)](https://github.com/Infocyte/PSHunt) - PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.
-*   [PSRecon (⭐453)](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
+*   [PSRecon (⭐458)](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
 *   [PowerForensics (⭐1.2k)](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
-*   [rastrea2r (⭐203)](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
+*   [rastrea2r (⭐206)](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
 *   [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
 ## [21. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
@@ -268,13 +267,13 @@
 
 ### Platformer
 
-*   [Omnispeak (⭐265)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
+*   [Omnispeak (⭐269)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 
 ## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Experimental / Redux / ELM / Dependency Injection
 
-*   [styled\_widget (⭐925)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
+*   [styled\_widget (⭐975)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 ## [24. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -286,7 +285,7 @@
 
 ### Plugins
 
-*   [tmux-thumbs (⭐578)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐594)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [26. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -364,8 +363,8 @@
 
 ### Demo
 
-*   [Sitecore Habitat (⭐417)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
-*   [Sitecore.HabitatHome.Utilities (⭐40)](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance etc.
+*   [Sitecore Habitat (⭐416)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
+*   [Sitecore.HabitatHome.Utilities (⭐41)](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance etc.
 *   [Sitecore.HabitatHome.Commerce (⭐28)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - Demo assets with external contributors and partners.
 *   [Sitecore.HabitatHome.Omni (⭐22)](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
 *   [Sitecore.Demo.Group (⭐18)](https://github.com/Sitecore/Sitecore.Demo.Group) - Habitat Group Demo site - a developer example of a Habitat Based Demo.
@@ -394,7 +393,7 @@
 *   [Sitecore.Foundation.Fields (⭐1)](https://github.com/MartinMiles/Sitecore.Foundation.Fields) - A collection of custom fields ready-to-use with your Sitecore solution.
 *   [LinkList (⭐0)](https://github.com/josedbaez/Monoco.CMS.FieldTypes) - Sitecore LinkList Field Type.
 *   [CrossDatabaseTreeListField (⭐0)](https://github.com/ivansharamok/CrossDatabaseTreeListField) - An extended Treelist field to support cross database references.
-*   [LimitedText Field (⭐2)](https://github.com/ParTech/LimitedText-Field-Controls) - Adds two new field types to the Sitecore Content Editor, Single-Line Text Limited and Multi-Line Text Limited. Both inherit all functionality from the existing text field controls and add the posibility to configure a maximum allowed value for the field, also inform the user of the number of remaining characters while they are editing.
+*   [LimitedText Field (⭐3)](https://github.com/ParTech/LimitedText-Field-Controls) - Adds two new field types to the Sitecore Content Editor, Single-Line Text Limited and Multi-Line Text Limited. Both inherit all functionality from the existing text field controls and add the posibility to configure a maximum allowed value for the field, also inform the user of the number of remaining characters while they are editing.
 *   [CustomFields (⭐2)](https://github.com/AlexanderDavyduk/CustomFields) - A selection of NameValueDropLists, NameValueDropListsField, NameValueDroplist, NameValueDroplistField, SortableMultilist, SortableMultilistField, TimeZonesDropList fields.
 *   [YouTube Video Picker Field (⭐2)](https://github.com/pveller/BrainJocks.YouTubeVideoField) - Fully workable solution for YouTube video picker field for Sitecore.
 *   [Hide Dependent Fields Controls (⭐2)](https://github.com/jammykam/Hide-Dependent-Fields) - Adds new Checkbox, Droplist and Droplink field type to the Sitecore Content Editor which depending on the selected value will hide the proceeding sibling fields. All controls inherit from their equivalent Sitecore counterpart and add the required UI enhancements.
@@ -403,10 +402,10 @@
 
 ### JSS
 
-*   [JSS (⭐221)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
+*   [JSS (⭐228)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 *   [sugcon-2019-jss-examples (⭐0)](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 *   [SitecoreQL (⭐15)](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example you can query against Sitecore's Content Search API.
-*   [JSS React Starter Application (⭐2)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
+*   [JSS React Starter Application (⭐3)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
 *   ['Hello World' Starter for Sitecore JSS Tech Preview 4 (⭐10)](https://github.com/altola/sitecore-jss-react-starter) - A hello world starter for Sitecore JSS without GraphQL bits.
 *   [Extensible JSON Renderings (⭐3)](https://github.com/coreyasmith/jss-extensible-json-renderings) - Extending JSON renderings in Sitecore JavaScript Services.
 *   [JavaScript Services Anti-Forgery Tokens (⭐0)](https://github.com/coreyasmith/jss-anti-forgery-tokens) - A sample repository to demonstrate how to use .NET anti-forgery tokens in Sitecore JavaScript Services with both MVC and Web API controllers using out-of-the-box anti-forgery token validators. The demo API is also completely mocked in disconnected mode to show how this functionality can work in both disconnected and connected modes.
@@ -415,7 +414,7 @@
 ### Helix
 
 *   [Sitecore Helix Documentation (⭐28)](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practises for developing in Sitecore for Sitecore Helix.
-*   [Helixbase (⭐101)](https://github.com/muso31/Helixbase) - Sitecore Helix based solution for Greenfield projects.
+*   [Helixbase (⭐102)](https://github.com/muso31/Helixbase) - Sitecore Helix based solution for Greenfield projects.
 *   [Helix example Module & Solution templates (⭐3)](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
 *   [Helix frontend development example (⭐4)](https://github.com/LaubPlusCo/helix-frontend-example) - A simple frontend development setup for a Sitecore Helix solution.
 *   [CustomLinkProvider (⭐0)](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
@@ -468,7 +467,7 @@
 ### Packaging
 
 *   [Package Autoloader (⭐3)](https://github.com/JeffDarchuk/PackageAutoloader) - A tool to automatically apply a Sitecore package to hydrate some content as part of a deployment.
-*   [Sitecore.Ship (⭐75)](https://github.com/kevinobee/Sitecore.Ship) - A lightweight means to install Sitecore Update packages via HTTP requests.
+*   [Sitecore.Ship (⭐74)](https://github.com/kevinobee/Sitecore.Ship) - A lightweight means to install Sitecore Update packages via HTTP requests.
 
 ### Pipelines
 
@@ -497,7 +496,7 @@
 ### SEO
 
 *   [301 Redirect Module (⭐30)](https://github.com/thecadams/301RedirectModule) - An improved version of the Sitecore 301 redirect module.
-*   [SitecoreSitemapXML (⭐9)](https://github.com/JimmieOverby/SitecoreSitemapXML) - Generates the Sitemap compliant with the schema defined by sitemaps.org and submits it to search engines.
+*   [SitecoreSitemapXML (⭐8)](https://github.com/JimmieOverby/SitecoreSitemapXML) - Generates the Sitemap compliant with the schema defined by sitemaps.org and submits it to search engines.
 *   [Sitemap Generator (⭐4)](https://github.com/jermdavis/SitemapGenerator) - An example Sitecore / FakeDB / TDS / Cloud Build project for sitemap generation.
 *   [Sitecore Solr (⭐1)](https://github.com/bigredmachine/sitecore-solr) - An example code of how you could extend the Sitecore Solr provider.
 *   [URL Rewriter Module (⭐3)](https://github.com/ParTech/Url-Rewriter) - Enables administrator or editors to manage URL rewrite rules from within the Sitecore client, supporting rewriting of hostnames, relative URL's and absolute URL's.
@@ -506,8 +505,8 @@
 ### Serialization
 
 *   [Rainbow (⭐31)](https://github.com/SitecoreUnicorn/Rainbow) - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
-*   [Unicorn (⭐258)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
-*   [Sidekick (⭐47)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs based microservice architecture operations.
+*   [Unicorn (⭐260)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
+*   [Sidekick (⭐46)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs based microservice architecture operations.
 *   [Rhino (⭐12)](https://github.com/kamsar/Rhino) - An experimental serialization data provider for Sitecore.
 
 ### Sitecore Host
@@ -529,7 +528,7 @@
 *   [SXA Styleguide (⭐13)](https://github.com/markvanaalst/SXA.Styleguide) - An education site based on SXA that helps explaining the inner working and illustrating best practices.
 *   [SXA.Styleguide.Frontend (⭐1)](https://github.com/markvanaalst/SXA.Styleguide.Frontend) - A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the seperate scriban templates.
 *   [SXA.Foundation.Variants (⭐4)](https://github.com/MartinMiles/SXA.Foundation.Variants) - A collection of custom SXA rendering variants and some other useful things that may be helpful in your solution.
-*   [SXA Reference (⭐17)](https://github.com/alan-null/XA.Reference) - An example Sitecore project build on top of Sitecore Experience Accelerator.
+*   [SXA Reference (⭐18)](https://github.com/alan-null/XA.Reference) - An example Sitecore project build on top of Sitecore Experience Accelerator.
 *   [SXA.HealthCheck (⭐5)](https://github.com/alan-null/SXA.HealthCheck) - A Power Shell script used to determine health status of SXA site, consists of validation steps, each of them checks different thing in SXA solution and provides possible solution.
 *   [Global Field Validator (⭐1)](https://github.com/JeffDarchuk/SxaGlobalFieldValidator) - An SXA module to validate fields at a site level rather than at the template field level.
 *   [Scriban syntax coloring and auto completion (⭐2)](https://github.com/AdamNaj/SitecoreScriban-vscode) - Scriban syntax coloring and intellisense for known objects extension for Visual Studio Code.
@@ -591,11 +590,11 @@
 
 ### UI / Barcode
 
-*   [ActivityIndicatorView (⭐940)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐971)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### CSV
 
-*   [CodableCSV (⭐366)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CodableCSV (⭐370)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
 *   [CSVParser (⭐86)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ## [30. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
@@ -872,11 +871,11 @@
 
 ### Architecture
 
-*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐62)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐63)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ### Geolocation
 
-*   :strawberry: [Geo plugin (⭐46)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
+*   :strawberry: [Geo plugin (⭐47)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
 ### HTTP
 
@@ -896,7 +895,7 @@
 
 ### Menu
 
-*   [SwiftyMenu (⭐497)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
+*   [SwiftyMenu (⭐502)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
 
 ### Utility / Collection View Layout
 
@@ -904,7 +903,7 @@
 
 ### User Consent / Collection View Layout
 
-*   [PrivacyFlash Pro (⭐138)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
+*   [PrivacyFlash Pro (⭐141)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
 ## [37. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -959,7 +958,7 @@
 
 ### Network Protocols
 
-*   [amqp-client.cr (⭐59)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
+*   [amqp-client.cr (⭐61)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
 
 ### Web Frameworks
 
@@ -997,7 +996,7 @@
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐34k)](https://github.com/gorhill/uBlock)
 
 ## [49. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -1013,7 +1012,7 @@
 
 ### Tools / XML
 
-*   [denomander (⭐128)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐129)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
 ## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -1027,21 +1026,21 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐333)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐341)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
+*   [vuetify-dialog (⭐197)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ## [52. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Theming
 
-*   [dynamic-antd-theme (⭐249)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
+*   [dynamic-antd-theme (⭐254)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
 
 ### Icons / Themes
 
-*   [Material Design Icons (⭐19)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
+*   [Material Design Icons (⭐21)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
 
 ---
 

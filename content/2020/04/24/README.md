@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -77,10 +77,6 @@ Language: English
 
 *   [Streama (⭐9.2k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
 
-### Software / Wikis
-
-*   [MoinMoin](https://moinmo.in/) - Advanced, easy to use and extensible WikiEngine with a large community of users. ([Source Code (⭐126)](https://github.com/moinwiki/moin-1.9)) `GPL-2.0` `Python`
-
 ## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Component Libraries
@@ -91,7 +87,7 @@ Language: English
 
 ### Python / General-Purpose Machine Learning
 
-*   [bayeso (⭐73)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
+*   [bayeso (⭐74)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -139,7 +135,7 @@ Language: English
 
 ### ORM
 
-*   [EntityFramework.Exceptions (⭐622)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
+*   [EntityFramework.Exceptions (⭐649)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
 
 ---
 

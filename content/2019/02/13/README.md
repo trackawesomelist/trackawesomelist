@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Templates / Preferences
 
-*   [Feather (⭐547)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
+*   [Feather (⭐559)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -38,12 +38,12 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Beep (⭐154)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
-*   [Vue CRUD (⭐775)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
+*   [Vue CRUD (⭐777)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 
 ### Components & Libraries / UI Components
 
 *   [vue-date-picker (⭐101)](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
-*   [vue-ctk-date-time-picker (⭐824)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
+*   [vue-ctk-date-time-picker (⭐830)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
 
 ### Components & Libraries / UI Utilities
 
@@ -53,9 +53,9 @@
 
 ### Other Tools / Telegram
 
-*   [Belati (⭐474)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐482)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-*   [Pown Recon (⭐411)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [Pown Recon (⭐412)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 
 ## [6. Awesome Dart](/content/yissachar/awesome-dart/README.md)
@@ -75,21 +75,21 @@
 ### Tools / General-purpose
 
 *   [radamsa](https://gitlab.com/akihe/radamsa) - A general-purpose fuzzer.
-*   [zzuf (⭐393)](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer.
+*   [zzuf (⭐401)](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer.
 
 ### Tools / Binary
 
 *   [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - A security-oriented fuzzer that employs a novel type of compile-time instrumentation and genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary.
 *   [WinAFL (⭐2k)](https://github.com/googleprojectzero/winafl) - A fork of AFL for fuzzing Windows binaries.
-*   [Driller (⭐771)](https://github.com/shellphish/driller) - An implementation of the [driller paper](https://www.cs.ucsb.edu/\~vigna/publications/2016_NDSS_Driller.pdf). This implementation was built on top of AFL with angr being used as a symbolic tracer.
+*   [Driller (⭐790)](https://github.com/shellphish/driller) - An implementation of the [driller paper](https://www.cs.ucsb.edu/\~vigna/publications/2016_NDSS_Driller.pdf). This implementation was built on top of AFL with angr being used as a symbolic tracer.
 
 ### Tools / Network protocol
 
-*   [boofuzz (⭐1.6k)](https://github.com/jtpereyda/boofuzz) - Network Protocol Fuzzing for Humans. Documentation is available at <http://boofuzz.readthedocs.io/>, including nifty quickstart guides.
-*   [LL-Fuzzer (⭐125)](https://github.com/mit-ll/LL-Fuzzer) - An automated NFC fuzzing framework for Android devices.
-*   [tlsfuzzer (⭐432)](https://github.com/tomato42/tlsfuzzer) - A SSL and TLS protocol test suite and fuzzer.
-*   [TumbleRF (⭐143)](https://github.com/riverloopsec/tumblerf) - A framework that orchestrates the application of fuzzing techniques to RF systems.
-*   [PULSAR (⭐321)](https://github.com/hgascon/pulsar) - A method for stateful black-box fuzzing of proprietary network protocols.
+*   [boofuzz (⭐1.7k)](https://github.com/jtpereyda/boofuzz) - Network Protocol Fuzzing for Humans. Documentation is available at <http://boofuzz.readthedocs.io/>, including nifty quickstart guides.
+*   [LL-Fuzzer (⭐126)](https://github.com/mit-ll/LL-Fuzzer) - An automated NFC fuzzing framework for Android devices.
+*   [tlsfuzzer (⭐441)](https://github.com/tomato42/tlsfuzzer) - A SSL and TLS protocol test suite and fuzzer.
+*   [TumbleRF (⭐145)](https://github.com/riverloopsec/tumblerf) - A framework that orchestrates the application of fuzzing techniques to RF systems.
+*   [PULSAR (⭐324)](https://github.com/hgascon/pulsar) - A method for stateful black-box fuzzing of proprietary network protocols.
 
 ### Tools / Driver
 
@@ -97,7 +97,7 @@
 
 ### Platform / Driver
 
-*   [certfuzz (⭐251)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
+*   [certfuzz (⭐252)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
 
 ## [9. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

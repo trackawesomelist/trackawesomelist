@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [MinUnit (⭐453)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐455)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -48,11 +48,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐42k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐43k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐42k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐43k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -75,7 +75,7 @@
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Log Management / Single Sign-On (SSO)
+### Software / Log Management
 
 *   [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 
@@ -83,8 +83,8 @@
 
 ### Command-Line Productivity
 
-*   [how2 (⭐5.5k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
-*   [hss (⭐305)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
+*   [how2 (⭐5.6k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
+*   [hss (⭐309)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 
 ### For Developers / Directory Navigation
 

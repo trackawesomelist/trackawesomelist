@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,14 +16,14 @@
 
 ### JSON
 
-*   [Sextant (⭐29)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
+*   [Sextant (⭐30)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [bartib (⭐311)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-*   [lowcharts (⭐108)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
+*   [bartib (⭐337)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+*   [lowcharts (⭐113)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 
 ### Customization / Directory Navigation
 
@@ -36,10 +36,10 @@
 ### Shell Script Development / Directory Navigation
 
 *   [bashly](https://bashly.dannyb.co/) - Bash command line framework and CLI generator
-*   [bash-modules (⭐94)](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled.
-*   [composure (⭐302)](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
+*   [bash-modules (⭐97)](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled.
+*   [composure (⭐303)](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 *   [dispatch (⭐88)](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
-*   [getopts.fish (⭐196)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
+*   [getopts.fish (⭐201)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 
 ## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -52,17 +52,17 @@
 
 ### Forms
 
-*   [httpin (⭐123)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
+*   [httpin (⭐128)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vite-vue3-typescript-webcomponent (⭐7)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
+*   [vite-vue3-typescript-webcomponent (⭐8)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-chunk-split (⭐116)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
+*   [vite-plugin-chunk-split (⭐141)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -72,7 +72,7 @@
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
-*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐47)](https://github.com/deepmind/dm_fast_mapping?s=05)].
+*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐48)](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
 ---
 

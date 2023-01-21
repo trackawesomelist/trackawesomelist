@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 20, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Cabal (⭐768)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐769)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -68,31 +68,25 @@
 
 *   [compare-mt (⭐418)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 
-## [7. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Cyber](http://cyber.page/) - A decentralized search engine, able to learn from knowledge graphs and provide predictive models.
-
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-jump (⭐203)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
+*   [tmux-jump (⭐213)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
-*   [PrivacyFlash Pro (⭐140)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
+*   [PrivacyFlash Pro (⭐141)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
-## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Side-channel Tools / Reverse Engineering Tools
 
-*   [SGX-Step (⭐353)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
+*   [SGX-Step (⭐367)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
 
-## [11. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Data Management
 

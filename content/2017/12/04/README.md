@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,15 +47,15 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [mGB (⭐170)](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module.
-*   [GBVisualizer (⭐25)](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
+*   [mGB (⭐180)](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module.
+*   [GBVisualizer (⭐27)](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
 *   [gbcpu (⭐9)](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Game Boy instruction set and functionality.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### ORM/ODM Extensions
 
-*   [clear (⭐267)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
+*   [clear (⭐269)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
 
 ## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐674)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐678)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

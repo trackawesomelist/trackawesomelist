@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [ZhiyuanLck/smart-pairs (⭐116)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
+*   [ZhiyuanLck/smart-pairs (⭐119)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
 
 ## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Game tools and libraries
 
-*   [hazeycode/brucelib (⭐48)](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platforms games, simulations, engines & editors.
+*   [hazeycode/brucelib (⭐49)](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platforms games, simulations, engines & editors.
 
 ## [3. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Chart
 
-*   [Flowchart React (⭐17)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
+*   [Flowchart React (⭐21)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 
 ### Form Components / Toggle
 
-*   [@anatoliygatt/heart-switch (⭐405)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
+*   [@anatoliygatt/heart-switch (⭐414)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 
 ## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -103,7 +103,7 @@
 ### Development tools / Embedded
 
 *   Arduino
-    *   [avr-rust/ruduino (⭐602)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
+    *   [avr-rust/ruduino (⭐610)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
 
 ---
 

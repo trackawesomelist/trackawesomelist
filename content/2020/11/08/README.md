@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### TextField / Barcode
 
-*   [iTextField ⌨️ (⭐88)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
+*   [iTextField ⌨️ (⭐89)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-lottie-player (⭐351)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
+*   [react-lottie-player (⭐362)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
 
 ## [3. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
@@ -54,7 +54,7 @@
 
 ### State management / Standard
 
-*   [Provider (⭐4.5k)](https://github.com/rrousselGit/provider) <!--stargazers:rrousselGit/provider--> - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
+*   [Provider (⭐4.6k)](https://github.com/rrousselGit/provider) <!--stargazers:rrousselGit/provider--> - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
 
 ## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datagrid (⭐156)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
+*   [vue-datagrid (⭐158)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 
 ## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

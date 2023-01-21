@@ -2,7 +2,7 @@
 
 A curated list of delightfully amusing and facetious Markov chain output.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sublimino/awesome-funny-markov/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sublimino/awesome-funny-markov](https://github.com/sublimino/awesome-funny-markov) · ⭐ 186 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sublimino/awesome-funny-markov/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sublimino/awesome-funny-markov](https://github.com/sublimino/awesome-funny-markov) · ⭐ 186 · 🏷️ Miscellaneous
 
 [ [Daily](/content/sublimino/awesome-funny-markov/README.md) / [Weekly](/content/sublimino/awesome-funny-markov/week/README.md) / Overview ]
 

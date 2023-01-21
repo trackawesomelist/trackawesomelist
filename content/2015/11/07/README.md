@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐612)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐614)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -45,7 +45,7 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐278)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐282)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ## [5. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

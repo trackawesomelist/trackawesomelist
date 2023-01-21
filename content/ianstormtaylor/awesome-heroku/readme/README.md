@@ -2,7 +2,7 @@
 
 A curated list of helpful Heroku resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ianstormtaylor/awesome-heroku/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ianstormtaylor/awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku) · ⭐ 280 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ianstormtaylor/awesome-heroku/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ianstormtaylor/awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku) · ⭐ 280 · 🏷️ Platforms
 
 [ [Daily](/content/ianstormtaylor/awesome-heroku/README.md) / [Weekly](/content/ianstormtaylor/awesome-heroku/week/README.md) / Overview ]
 

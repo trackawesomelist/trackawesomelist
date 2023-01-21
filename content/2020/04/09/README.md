@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### VPN / Metric & Metric Collection
+### Software / VPN
 
 *   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 
@@ -85,7 +85,7 @@
 
 ### Packages / Miscellaneous
 
-*   [husky (⭐28k)](https://github.com/typicode/husky) - Create Git hook scripts.
+*   [husky (⭐29k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Command-Line Productivity
 
-*   [xxh (⭐3.9k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+*   [xxh (⭐4k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### System Utilities / Directory Navigation
 

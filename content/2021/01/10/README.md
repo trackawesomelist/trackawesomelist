@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Scheduling
 
-*   [Simple Scheduler (⭐133)](https://github.com/simplymadeapps/simple_scheduler) - An enhancement for Heroku Scheduler + Sidekiq for scheduling jobs at specific times with a readable YML file.
+*   [Simple Scheduler (⭐132)](https://github.com/simplymadeapps/simple_scheduler) - An enhancement for Heroku Scheduler + Sidekiq for scheduling jobs at specific times with a readable YML file.
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -72,7 +72,7 @@
 
 ### specifically from (  *a certain platform*  ) / ProductHunt
 
-*   [ProductHunt daily RSS feed (⭐24)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
+*   [ProductHunt daily RSS feed (⭐27)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
 
 ### specifically from (  *a certain platform*  ) / YouTube
 
@@ -93,7 +93,7 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSAid (⭐483)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSAid (⭐561)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
@@ -121,7 +121,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Your Spotify (⭐1k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+*   [Your Spotify (⭐1.2k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 ## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -163,7 +163,7 @@
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐102)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐109)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

@@ -2,17 +2,17 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) - By Joshua Seiden.
 
@@ -45,14 +45,14 @@
 *   [Ironsworn Campaign Manager](https://nboughton.uk/apps/ironsworn-campaign/) - A lightweight app for supporting solo Ironsworn games
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
-*   [Ironsworn for Foundry VTT (⭐50)](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
+*   [Ironsworn for Foundry VTT (⭐49)](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 *   [Starforged for Foundry VTT (⭐13)](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
-*   [TheOracle (⭐28)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
+*   [TheOracle (⭐29)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐127)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataForged (⭐131)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
 *   [DataSworn (⭐79)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 
@@ -61,7 +61,6 @@
 *   [Bloodsworn](http://www.atlas-rpg.com/bloodsworn/) - A tabletop roleplaying game in which you play the role of a vampire
 *   [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
 *   [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
-*   [Ironcrunch](https://www.patreon.com/SamuelRondon/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
 *   [Ironsworn Flavor Packs](http://www.playeveryrole.com/?p=592) - Japanese, South American and Norse setting card packs
 *   [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
 *   [Silently Sworn](https://silentlysworn.wordpress.com/) - A cosmic horror supplement
@@ -82,7 +81,7 @@
 
 ### Functional programming
 
-*   [Curryfy (⭐51)](https://github.com/leandromoh/Curryfy) - Provides strongly typed extensions methods for C# delegates to take advantages of functional programming techniques, like currying and partial application.
+*   [Curryfy (⭐52)](https://github.com/leandromoh/Curryfy) - Provides strongly typed extensions methods for C# delegates to take advantages of functional programming techniques, like currying and partial application.
 *   [MoreLinq (⭐3.1k)](https://github.com/MoreLinq/MoreLinq) - Provides extra methods to LINQ to Objects.
 
 ### Machine Learning and Data Science
@@ -91,7 +90,7 @@
 
 ### Misc
 
-*   [RecordParser (⭐157)](https://github.com/leandromoh/recordparser) - Library to help reading and writing CSV and Flat files with zero heap allocation.
+*   [RecordParser (⭐158)](https://github.com/leandromoh/recordparser) - Library to help reading and writing CSV and Flat files with zero heap allocation.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -147,11 +146,11 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [kdheepak/panvimdoc (⭐118)](https://github.com/kdheepak/panvimdoc) - A pandoc to vimdoc GitHub action.
+*   [kdheepak/panvimdoc (⭐130)](https://github.com/kdheepak/panvimdoc) - A pandoc to vimdoc GitHub action.
 
 ### Syntax / Diagnostics
 
-*   [RRethy/nvim-treesitter-textsubjects (⭐314)](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*.
+*   [RRethy/nvim-treesitter-textsubjects (⭐330)](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*.
 
 ### Editing Support / Diagnostics
 

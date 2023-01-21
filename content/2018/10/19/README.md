@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -97,7 +97,7 @@
 
 *   [fetch-my-cookie (⭐1)](https://github.com/jzarca01/fetch-my-cookie) - Node app to claim your free cookie at Subway.
 *   [whoffer (⭐0)](https://github.com/jzarca01/whoffer) - React Native OCR app to claim free cookie at Subway.
-*   [Food-Recipe-CNN (⭐519)](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef : Classification of Cooking Dishes with Machine Learning.
+*   [Food-Recipe-CNN (⭐520)](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef : Classification of Cooking Dishes with Machine Learning.
 *   [TooManyChefs (⭐49)](https://github.com/navignaw/TooManyChefs) - A text-based cooperative cooking game.
 
 ### Cookbooks

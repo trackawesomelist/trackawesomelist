@@ -2,24 +2,20 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
-### Menus / Design Tooling
+### Customization and Tweaks / Design Tooling
 
-*   [Fly-Pie (⭐757)](https://github.com/Schneegans/Fly-Pie) - Mouse-based menu.
-
-### Usage Experience / Design Tooling
-
-*   [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
 *   [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
+*   [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
 
 ### Visual Changes / Design Tooling
 
-*   [Blur-my-shell (⭐786)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
+*   [Blur-my-shell (⭐886)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -64,7 +60,7 @@
 
 ### Exfiltration Tools / Zealandia
 
-*   [QueenSono (⭐105)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
+*   [QueenSono (⭐115)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
 
 ---
 

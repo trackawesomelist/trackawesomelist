@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Learning / General courses
+### General courses
 
 *   [Foundations of Blockchains](https://www.youtube.com/watch?v=KNJGPI0fuFA\&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA) - A video course by Tim Roughgarden a Professor of Computer Science at Columbia University highlighting the fundamental principles, concepts and properties of Blockchain protocols.
 
@@ -36,7 +36,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [h0tk3y/kotlin-monads (⭐113)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+*   [h0tk3y/kotlin-monads (⭐114)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

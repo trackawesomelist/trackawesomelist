@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -62,7 +62,7 @@
 
 ### Tools
 
-*   [Translate (⭐713)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+*   [Translate (⭐727)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 
 ## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -73,12 +73,12 @@
 ### Web Programming • Libraries
 
 *   [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG
-*   [Oimo.js (⭐2.7k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
-*   [Ammo.js (⭐3.3k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
+*   [Oimo.js (⭐2.8k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
+*   [Ammo.js (⭐3.5k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 
 ### Other
 
-*   [Konstrukt (⭐57)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+*   [Konstrukt (⭐58)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

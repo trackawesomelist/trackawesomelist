@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,7 +21,7 @@
 
 ### Concurrency
 
-*   [Intel Games Task Scheduler (⭐423)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
+*   [Intel Games Task Scheduler (⭐424)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
 
 ## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -42,7 +42,7 @@
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://twitter.com/Wayne).
 *   [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://twitter.com/jasonfried).
@@ -64,7 +64,7 @@
 *   [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 *   [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - By Chip Heath and Dan Heath.
 *   [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - By Chip Heath and Dan Heath.
@@ -81,7 +81,7 @@
 *   [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - By John Doerr.
 *   [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - By Don Norman.
 
-### Communities / Hellonext
+### Communities / Screeb
 
 *   [Women in Product](https://www.womenpm.org/) (*using [Facebook](https://facebook.com)*)
 *   [Product School](https://www.productschool.com/) (*using [Slack](https://slack.com/)*)

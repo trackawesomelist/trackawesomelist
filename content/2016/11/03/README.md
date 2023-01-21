@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 03, 2016
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,41 +18,31 @@
 
 *   [The Irreproducibility Of Bugs In Large-Scale Production Systems](http://www.susanjfowler.com/blog/2016/11/2/the-irreproducibility-of-bugs-in-large-scale-production-systems)
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Jenkins / Vue.js
-
-*   [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) - Jake VanderPlas (PDF) [(EPUB, MOBI)](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp?download=yes)
-
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Instrumenting / Monitoring
 
 *   [newrelic.ex (⭐62)](https://github.com/romul/newrelic.ex) - Collects metrics from your Elixir/Phoenix application and sends them to [NewRelic](https://newrelic.com/).
 
-## [5. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### System
 
 *   [SSH (⭐96)](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 
-## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [5. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Blog Posts & Articles
 
 *   [This Blog Post Was Written Using Draft.js](https://dev.to/ben/this-blog-post-was-written-using-draftjs)
 
-## [7. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [6. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Guides / General screencasts
 
 *   [Switch to Sketch](https://www.switchtosketchapp.com/)
 
-## [8. Awesome Browserify](/content/browserify/awesome-browserify/README.md)
+## [7. Awesome Browserify](/content/browserify/awesome-browserify/README.md)
 
 ### Tutorials
 
@@ -80,25 +70,25 @@
 
 *   [crypto-browserify (⭐579)](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Gesture
 
 *   [SwipyCell (⭐249)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 
-## [10. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Blogs
 
 *   \[Useful Appium Series] (<http://bitbar.com/tag/appium/>) - Appium Tip Series
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [TestCafe (⭐9.5k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 
-## [12. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [11. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Videos
 
@@ -108,15 +98,15 @@
 
 *   [ChatOps with Jason Hand](http://softwareengineeringdaily.com/2016/11/02/chatops-with-jason-hand/) - An episode about ChatOps in general.
 
-## [13. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Extraterm (⭐2.1k)](https://github.com/sedwards2009/extraterm) - Terminal.
+*   [Extraterm (⭐2.2k)](https://github.com/sedwards2009/extraterm) - Terminal.
 
 ### For Electron / Other
 
-*   [electron-builder (⭐12k)](https://github.com/electron-userland/electron-builder) - Create installers.
+*   [electron-builder (⭐13k)](https://github.com/electron-userland/electron-builder) - Create installers.
 *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
 
 ### Using Electron / Other
@@ -127,7 +117,7 @@
 
 *   [menubar (⭐6.4k)](https://github.com/maxogden/menubar) - Menubar app framework.
 
-## [14. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [13. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Web Frameworks / Bare metal / kernel development
 

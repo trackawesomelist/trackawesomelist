@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2018
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -112,7 +112,7 @@
 
 ### Application Skeleton
 
-*   [Phalcon Composer (⭐34)](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
+*   [Phalcon Composer (⭐35)](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
 
 ## [15. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
@@ -135,11 +135,11 @@
 
 ### Open Source / Other
 
-*   [Nuclear (⭐9.6k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐9.7k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐561)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐562)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ### Community / Other
 
@@ -188,7 +188,7 @@
 
 ## [23. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Log Management / Single Sign-On (SSO)
+### Software / Log Management
 
 *   [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 
@@ -211,8 +211,8 @@
 
 ### Command-Line Productivity
 
-*   [how2 (⭐5.5k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
-*   [hss (⭐305)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
+*   [how2 (⭐5.6k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
+*   [hss (⭐309)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 
 ### For Developers / Directory Navigation
 
@@ -220,7 +220,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bats (⭐3.5k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [bats (⭐3.7k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## [27. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -260,7 +260,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.3k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust [![Build status](https://api.travis-ci.org/lalrpop/lalrpop.svg?branch=master)](https://travis-ci.org/lalrpop/lalrpop)
+*   [lalrpop/lalrpop (⭐2.4k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust [![Build status](https://api.travis-ci.org/lalrpop/lalrpop.svg?branch=master)](https://travis-ci.org/lalrpop/lalrpop)
 
 ## [29. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -294,11 +294,11 @@
 
 ### Software / Games
 
-*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐12k)](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`
+*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐13k)](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`
 
 ### Software / Proxy
 
-*   [Redbird (⭐4.3k)](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt, and Docker support. `BSD-2-Clause` `Javascript`
+*   [Redbird (⭐4.4k)](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt, and Docker support. `BSD-2-Clause` `Javascript`
 
 ## [33. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -380,12 +380,12 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Code Notes (⭐1k)](https://github.com/lauthieb/code-notes) - A simple code snippet manager for developers built with Electron & Vue.js.
+*   [Code Notes (⭐1.1k)](https://github.com/lauthieb/code-notes) - A simple code snippet manager for developers built with Electron & Vue.js.
 
 ### Components & Libraries / UI Components
 
 *   [vue-modaltor (⭐82)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
-*   [vue-datepicker-local (⭐299)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
+*   [vue-datepicker-local (⭐300)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
 
 ## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -395,7 +395,7 @@
 
 ### Cryptography
 
-*   [digestpp (⭐149)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐150)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
@@ -403,7 +403,7 @@
 
 ### Debug
 
-*   [MinUnit (⭐453)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐455)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -425,11 +425,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐42k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐43k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐42k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐43k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -506,30 +506,6 @@
 ### Products/Technologies / S technologies
 
 *   Sketch <https://blog.sketchapp.com/>
-
-## [50. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Go / Phoenix
-
-*   [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
-
-### Lisp / TeX
-
-*   [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
-*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
-
-### Ruby / Tornado
-
-*   [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
-*   [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
-
-### Ruby / Ruby on Rails
-
-*   [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
-
-### Workflow / Vulkan
-
-*   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
 ---
 

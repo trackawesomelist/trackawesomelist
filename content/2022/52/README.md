@@ -2,7 +2,7 @@
 
 45 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -69,7 +69,6 @@
 *   :notebook: [Evading machine learning malware detection](https://www.blackhat.com/us-17/briefings.html#bot-vs.-bot-for-evading-machine-learning-malware-detection) (July 2017)
 *   :newspaper: [Hashing-based encryption and anti-debugger support for packing multiple files into single executable](http://ijarcs.info/index.php/Ijarcs/article/view/5526/4622) (February 2018)
 *   :notebook: [Malware images: Visualization and automatic classification](https://doi.org/10.1145/2016904.2016908) (July 2011)
-*   :notebook: PE-Miner: Mining structural information to detect malicious executables in realtime (September 2009)
 *   :notebook: [PolyPack: An automated online packing service for optimal antivirus evasion](https://dl.acm.org/doi/10.5555/1855876.1855885) (August 2009)
 *   :newspaper: [Research and implementation of packing technology for PE files](https://www.semanticscholar.org/paper/Research-and-Implementation-of-Packing-Technology-Senlin/c973f26f2ac8c1861cc5d714f0d579135fa1491e) (January 2013)
 *   :notebook: [Research of software information hiding algorithm based on packing technology](https://link.springer.com/chapter/10.1007/978-981-15-8086-4_8) (September 2020)  :star:
@@ -127,11 +126,11 @@
 
 ### Libraries/Frameworks / Database
 
-*   [ctripcorp/SQLlin (⭐100)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
+*   [ctripcorp/SQLlin (⭐124)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ctripcorp/mmkv-kotlin (⭐65)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
+*   [ctripcorp/mmkv-kotlin (⭐68)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
 
 ## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
@@ -170,14 +169,10 @@
 ### External Services
 
 *   [mal-box (⭐1)](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
-*   [spotify-box (⭐7)](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
-*   [spotify-gist (⭐1)](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
-*   [leetcode-box (⭐4)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
-*   [shodan-exposure-box (⭐4)](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
-*   [trivia-box (⭐0)](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
-*   [leetcode-solved-box (⭐0)](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
-*   [stackoverflow-stats-box (⭐0)](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
 *   [mdl-watching-box (⭐0)](https://github.com/facalz/mdl-watching-box) - Update a pinned gist to contain your currently watching.
+*   [shodan-exposure-box (⭐4)](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
+*   [stackoverflow-stats-box (⭐0)](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
+*   [trivia-box (⭐0)](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
 
 ## [15. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
@@ -234,7 +229,7 @@
 
 ### Geographic
 
-*   [H3 (⭐207)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+*   [H3 (⭐209)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 
 ## [19. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
@@ -289,11 +284,11 @@
 
 ### Community / Interfaces to other package managers
 
-*   [alien-works-delivery (⭐12)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
+*   [alien-works-delivery (⭐30)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
 
 ### Actors pattern / Third-party APIs
 
-*   [lisp-actors (⭐52)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
+*   [lisp-actors (⭐58)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
     *   it was part of the [Emotiq blockchain (⭐96)](https://github.com/emotiq/emotiq/blob/dev/src/test/blockchain-test.lisp) (a discontinued project)
     *   does remoting, includes a threading abstraction layer library similar to Bordeaux-Threads.
     *   ! it lacks unit tests.
@@ -304,16 +299,16 @@
 
 ## [26. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
-### VM-Hardening
+### Darknet
 
-*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
+
+### VM-Hardening / Web articles
+
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening)
 
-### TOR
-
-*   [Whonix](https://www.whonix.org/wiki/Qubes)
-
-### Social media
+### Social media / Web articles
 
 *   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
 
@@ -349,7 +344,7 @@
 
 ### Libraries
 
-*   [Fortuna (⭐199)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
+*   [Fortuna (⭐369)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 
 ## [32. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
@@ -381,24 +376,24 @@
 
 ### Plugin Manager
 
-*   [folke/lazy.nvim (⭐1.1k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [folke/lazy.nvim (⭐1.8k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 
 ### Completion / Diagnostics
 
-*   [zbirenbaum/copilot.lua (⭐410)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐3.9k)](https://github.com/github/copilot.vim).
+*   [zbirenbaum/copilot.lua (⭐446)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐4k)](https://github.com/github/copilot.vim).
 
 ### Project / Diagnostics
 
-*   [pluffie/neoproj (⭐3)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
-*   [natecraddock/workspaces.nvim (⭐115)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [pluffie/neoproj (⭐11)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
+*   [natecraddock/workspaces.nvim (⭐117)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ### Keybinding / Diagnostics
 
-*   [Nexmean/caskey.nvim (⭐24)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
+*   [Nexmean/caskey.nvim (⭐54)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-various-textobjs (⭐10)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
+*   [chrisgrieser/nvim-various-textobjs (⭐83)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
 
 ## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -409,7 +404,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gnsprompt (⭐0)](https://github.com/gnsfujiwara/gnsprompt) - Minimal prompt with decorators for root status and current directory.
-*   [minimal-terminal (⭐32)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
+*   [minimal-terminal (⭐33)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
 *   [softblobby (⭐0)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
 
 ## [36. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
@@ -441,13 +436,13 @@
 
 ## [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
-
-*   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
-
-### Papers and references for reading and understanding / OpenAI GPT-3
+### Papers and References / Papers Collections
 
 *   [AI Reading List - Google Docs](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit): reading list organized by [Jack Soslow (@JackSoslow)](https://twitter.com/JackSoslow)
+
+### Inbox: Text and Natural Language Processing / ChatGPT
+
+*   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
 
 ## [40. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -473,11 +468,11 @@
 
 ### Security
 
-*   [Password Cracking (⭐147)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+*   [Password Cracking (⭐179)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 ## [43. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
-### Other
+### Featured
 
 *   [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
 
@@ -491,12 +486,13 @@
 
 ### Plugins
 
-*   🎨💼 [Accent (⭐1)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
+*   🎨💼 [Accent (⭐2)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
 
 ### Tools
 
-*   💼 [react-with-class (⭐4)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
+*   💼 [react-with-class (⭐6)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
 
 ---
 
+- Prev: [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 - Next: [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)

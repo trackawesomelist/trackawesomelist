@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Related
 
-*   [Awesome: Humane Tech (⭐2.8k)](https://github.com/humanetech-community/awesome-humane-tech#readme)
+*   [Awesome: Humane Tech (⭐2.9k)](https://github.com/humanetech-community/awesome-humane-tech#readme)
 
 ## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -38,11 +38,11 @@
 
 ### Packages / Debugging / Profiling
 
-*   [swagger-stats (⭐769)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
+*   [swagger-stats (⭐775)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
 
 ### Packages / Text
 
-*   [nanoid (⭐19k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+*   [nanoid (⭐20k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
 
 ### Resources / Miscellaneous
 
@@ -67,20 +67,20 @@
 
 ### Platforms
 
-*   [Actions on Google (⭐64)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
+*   [Actions on Google (⭐66)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 
 ### Security
 
-*   [GDPR (⭐117)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+*   [GDPR (⭐119)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 
 ### Business
 
-*   [Clean Tech (⭐372)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
+*   [Clean Tech (⭐375)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 
 ### Miscellaneous
 
-*   [Cytodata (⭐44)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
-*   [Advertising (⭐76)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
+*   [Cytodata (⭐52)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
+*   [Advertising (⭐79)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 
 ---
 

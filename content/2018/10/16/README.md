@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,11 +37,11 @@
 ### UI / Effect
 
 *   [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
-*   [Shimmer (⭐1.5k)](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
+*   [Shimmer (⭐1.6k)](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 
 ### UI / Calendar
 
-*   [Calendar Widget (⭐211)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
+*   [Calendar Widget (⭐223)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Platforms
 
-*   [Home Assistant (⭐4.2k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐4.3k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Apps
 
-*   [Urteile & Gesetze (⭐17)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+*   [Urteile & Gesetze (⭐16)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

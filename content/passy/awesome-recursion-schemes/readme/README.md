@@ -2,7 +2,7 @@
 
 Resources for learning and using recursion schemes.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/passy/awesome-recursion-schemes/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes) · ⭐ 1.1K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/passy/awesome-recursion-schemes/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes) · ⭐ 1.1K · 🏷️ Theory
 
 [ [Daily](/content/passy/awesome-recursion-schemes/README.md) / [Weekly](/content/passy/awesome-recursion-schemes/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 𝛌 Awesome Idris resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/joaomilho/awesome-idris/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) · ⭐ 353 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/joaomilho/awesome-idris/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) · ⭐ 353 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/joaomilho/awesome-idris/week/README.md) / [Overview](/content/joaomilho/awesome-idris/readme/README.md) ]
 

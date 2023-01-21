@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### YouTube
 
-*   [Youtube-Local (⭐297)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
+*   [Youtube-Local (⭐308)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -24,12 +24,12 @@
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### DreamBooth
+### Hypertechniques / DreamBooth
 
 *   [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb): train custom concepts from input images with this simplified DreamBooth colab
 *   [(1166) Como Criar Artes Incríveis com o seu Próprio Rosto Usando o Dreambooth! DE FORMA FÁCIL E DE GRAÇA! - YouTube](https://www.youtube.com/watch?v=3e4jwgqy-0A): tutorial in Portuguese on how to train DreamBooth with your own face
 
-### Discussions and Philosophy / References Collection about Stable Diffusion
+### Discussions and Philosophy / Papers Collections
 
 *   \[🔥🔥🔥] [Generative AI: A Creative New World | Sequoia Capital US/Europe](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/): report by Sequoia Capital about the possible applications of Generative AI
 *   [Synthetic Creativity - by Cavin - Deep Markets](https://deepmarkets.substack.com/p/synthetic-creativity)
@@ -46,11 +46,11 @@
 ### Pricing / Usage-based Pricing
 
 *   [Octane's Meter Types](https://docs.getoctane.io/docs/meter-types#gauges) - Nice illustrations of the quantization applied to time and value quantums on variable usages.
-*   [Lago (⭐907)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
+*   [Lago (⭐1.6k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
 
 ### Pricing / Subscription Plans
 
-*   [Lotus (⭐532)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
+*   [Lotus (⭐566)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
 
 ### Pricing / Strategy
 
@@ -62,7 +62,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐1.4k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+*   [TigerBeetle (⭐1.5k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 ### Invoice / Structure
 
@@ -110,7 +110,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/treesj (⭐210)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
+*   [Wansmer/treesj (⭐253)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

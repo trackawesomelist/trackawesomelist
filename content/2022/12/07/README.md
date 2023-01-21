@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,13 +16,12 @@
 
 ### ChatGPT API
 
-*   [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐1.7k)](https://github.com/rawandahmad698/PyChatGPT)
+*   [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐2.4k)](https://github.com/rawandahmad698/PyChatGPT)
 *   [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
 
 ### Other
 
-*   [ChatGPT prompts (⭐4k)](https://github.com/f/awesome-chatgpt-prompts)
-*   [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
+*   ⭐️ [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 *   [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 *   [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
 *   [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)

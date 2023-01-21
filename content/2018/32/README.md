@@ -2,7 +2,7 @@
 
 54 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -70,21 +70,21 @@
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [Wiz (⭐366)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
-*   [gbforth (⭐99)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
+*   [Wiz (⭐373)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
+*   [gbforth (⭐101)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
 *   [gbasm (⭐130)](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code.
 *   [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
-*   [Assembler (⭐114)](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
+*   [Assembler (⭐115)](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
 
 ### Tools / Engines
 
-*   [ZGB (⭐540)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
+*   [ZGB (⭐550)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 
 ### Tools / Graphics utilities
 
 *   [GBTiles (⭐15)](https://github.com/bashaus/gbtiles) - Converts .GBR files created with Harry Mulder's Tile Designer (GBTD) and .GBM files created with Harry Mulder's Map Builder (GBMB) to different formats for use with the Game Boy and GBDK.
 *   [bmp2cgb (⭐23)](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
-*   [png2gb (⭐19)](https://github.com/LuckyLights/png2gb) - CLI tool to convert image file to game boy .c array.
+*   [png2gb (⭐20)](https://github.com/LuckyLights/png2gb) - CLI tool to convert image file to game boy .c array.
 *   [GB-convert (⭐26)](https://github.com/exezin/gb-convert) - Game Boy tile conversion and map editor tool (converts to assembly).
 *   [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 
@@ -135,11 +135,11 @@
 
 ### Packages / Command-line utilities
 
-*   [sparkly (⭐398)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+*   [sparkly (⭐402)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
 
 ### Packages / Weird
 
-*   [cat-ascii-faces (⭐240)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+*   [cat-ascii-faces (⭐241)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 
 ## [12. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
@@ -194,13 +194,13 @@ Free
 
 ### Extensions
 
-*   [Nextein (⭐900)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
+*   [Nextein (⭐898)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 
 ## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Fuse (⭐319)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐321)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ### Content Management Systems
 
@@ -208,7 +208,7 @@ Free
 
 ### Miscellaneous
 
-*   [Jupyter (⭐3k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+*   [Jupyter (⭐3.1k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -414,7 +414,7 @@ Free
 
 ### Monetization / Preferences
 
-*   [Inapp Purchase (⭐498)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.2k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
+*   [Inapp Purchase (⭐504)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.3k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
 
 ### Animation / Redux / ELM / Dependency Injection
 
@@ -422,7 +422,7 @@ Free
 
 ### Top / Game Engine resources
 
-*   [Trace (⭐944)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
+*   [Trace (⭐976)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
 
 ## [28. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -440,7 +440,7 @@ Free
 
 ### Configuration
 
-*   [totem (⭐60)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+*   [totem (⭐62)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
 
 ## [30. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -475,54 +475,54 @@ Free
 
 *   [docker-stacks (⭐7k)](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 *   [Hydrogen (⭐3.8k)](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
-*   [Jupyter Notebook (⭐9.6k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
+*   [Jupyter Notebook (⭐9.7k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 *   [JupyterHub (⭐7k)](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 *   [JupyterLab (⭐13k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 *   [kaggle/docker-python (⭐2.1k)](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
-*   [nteract (⭐5.9k)](https://github.com/nteract/nteract) - Native desktop notebook frontend.
-*   [Stencila (⭐658)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
+*   [nteract (⭐5.9k)](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
+*   [Stencila (⭐659)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ### Collaboration/Education
 
-*   [callgraph (⭐61)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
+*   [callgraph (⭐62)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
 *   [jupyter-drive (⭐416)](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
 *   [jupyter-edx-grader-xblock (⭐42)](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.
 *   [LTI Launch JupyterHub Authenticator (⭐56)](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
-*   [nbautoeval (⭐17)](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
-*   [nbgrader (⭐1.1k)](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
-*   [nbtutor (⭐416)](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
+*   [nbautoeval (⭐18)](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
+*   [nbgrader (⭐1.2k)](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
+*   [nbtutor (⭐418)](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
 
 ### Visualization
 
-*   [Altair (⭐7.9k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐3.9k)](https://github.com/vega/vega-lite).
+*   [Altair (⭐8k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐4k)](https://github.com/vega/vega-lite).
 *   [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 *   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 *   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐54k)](https://github.com/apache/incubator-echarts) visualization library.
-*   [pythreejs (⭐842)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
+*   [pythreejs (⭐844)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 *   [Qgrid (⭐2.9k)](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 
 ### Rendering/Publishing/Conversion
 
 *   [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
-*   [Bookbook (⭐95)](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+*   [Bookbook (⭐96)](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
 *   [nbscan (⭐23)](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 *   [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
-*   [notedown (⭐838)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
+*   [notedown (⭐841)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 *   [Papermill (⭐5k)](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
-*   [pynb (⭐240)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
+*   [pynb (⭐242)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 *   [RISE (⭐3.4k)](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 *   [rst2ipynb (⭐15)](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 
 ### Testing
 
-*   [nbval (⭐392)](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
+*   [nbval (⭐393)](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 *   [nosebook (⭐79)](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests.
 
 ### Domain-Specific Projects
 
 *   [GenePattern Notebook](http://genepattern-notebook.org) - Integrating Genomic Analysis with Interactive Notebooks.
 *   [GeoNotebook (⭐1.1k)](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
-*   [lolviz (⭐785)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
+*   [lolviz (⭐786)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 *   [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 *   [vpython-jupyter (⭐65)](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
 
@@ -550,12 +550,12 @@ Free
 
 *   [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - Collection of notebooks covering scientific computing.
 *   [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
-*   [Interactive Web Plotting with Bokeh (⭐695)](https://github.com/bokeh/bokeh-notebooks)
+*   [Interactive Web Plotting with Bokeh (⭐700)](https://github.com/bokeh/bokeh-notebooks)
 *   [Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 *   [Jupyter Notebook Themes (⭐9.4k)](https://github.com/dunovank/jupyter-themes)
 *   [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 *   [Lectures on scientific computing with Python (⭐3.3k)](https://github.com/jrjohansson/scientific-python-lectures)
-*   [pytudes (⭐19k)](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
+*   [pytudes (⭐20k)](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
 *   [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 *   [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
 
@@ -590,7 +590,7 @@ Free
 
 *   [AVA (⭐20k)](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`).
 *   [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
-*   [mos (⭐109)](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
+*   [mos (⭐108)](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 
 ## [38. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
@@ -602,7 +602,7 @@ Free
 
 ### Open Source / Other
 
-*   [Mark Text (⭐37k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
+*   [Mark Text (⭐38k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 
 ### Boilerplates / Other
 
@@ -692,7 +692,7 @@ Free
 ### Applications
 
 *   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
-*   [Orion (⭐122)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
+*   [Orion (⭐123)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 
 ## [49. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -705,13 +705,13 @@ Free
 
 *   [Fast Incident Response (FIR) (⭐1.5k)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
 *   [TheHive](https://thehive-project.org/) - Scalable, free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, and CERTs, featuring tight integration with MISP.
-*   [threat\_note (⭐408)](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
+*   [threat\_note (⭐409)](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
 
 ### Incident Response tools / Evidence collection
 
 *   [OSXAuditor (⭐3.1k)](https://github.com/jipegit/OSXAuditor) - Free macOS computer forensics tool.
 *   [OSXCollector (⭐1.8k)](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit for macOS.
-*   [ir-rescue (⭐392)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [ir-rescue (⭐400)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ### Operating System distributions / Firewall appliances or distributions
 
@@ -722,13 +722,13 @@ Free
 
 *   [APTSimulator (⭐2k)](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
 *   [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
-*   [Metta (⭐973)](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
-*   [Network Flight Simulator (`flightsim`) (⭐772)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
+*   [Metta (⭐982)](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
+*   [Network Flight Simulator (`flightsim`) (⭐814)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
 *   [RedHunt OS (⭐1.1k)](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 
 ### Threat intelligence / Threat hunting
 
-*   [MLSec Combine (⭐629)](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
+*   [MLSec Combine (⭐630)](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
 
 ### Transport-layer defenses / Threat signature packages and collections
 
@@ -736,7 +736,7 @@ Free
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [Sticky Keys Slayer (⭐303)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
+*   [Sticky Keys Slayer (⭐308)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
 *   [Windows Secure Host Baseline (⭐1.4k)](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 
 ## [50. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
@@ -768,7 +768,7 @@ Free
 
 ### Utils / Third Party
 
-*   [d3-hsluv (⭐6)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
+*   [d3-hsluv (⭐7)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 
 ## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

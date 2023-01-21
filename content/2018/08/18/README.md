@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -126,15 +126,11 @@
 
 ### Third party Guides
 
-*   [swift-tips (⭐929)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
+*   [swift-tips (⭐933)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 
 ### Other Awesome Lists
 
-*   [Awesome iOS Interview (⭐986)](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
-
-### Animation
-
-*   [Kinieta (⭐44)](https://github.com/mmick66/kinieta) - An simple Animation Engine for iOS with an Intuitive API and Readable Code.
+*   [Awesome iOS Interview (⭐999)](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
 
 ### API
 
@@ -143,8 +139,6 @@
 ### Augmented Reality
 
 *   [ARVideoKit (⭐1.5k)](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, Live Photos, and GIFs.
-*   [ARVoxelKit (⭐78)](https://github.com/VoxxxelAR/ARVoxelKit) - Voxel graphic framework using ARKit.
-*   [Poly (⭐84)](https://github.com/piemonte/Poly) - Unofficial Google Poly SDK – explore the world of 3D.
 
 ### Colors
 
@@ -156,16 +150,15 @@
 
 ### JSON
 
-*   [EVReflection (⭐963)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
+*   [EVReflection (⭐964)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
 
 ### Key Value Store
 
-*   [Default (⭐474)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
-*   [UserDefaultsStore (⭐452)](https://github.com/omaralbeik/UserDefaultsStore) - Why not use UserDefaults to store Codable objects 😉.
+*   [Default (⭐475)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 
 ### Dependency Injection
 
-*   [Weaver (⭐683)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
+*   [Weaver (⭐685)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
 
 ### Images / Barcode
 
@@ -177,11 +170,11 @@
 
 ### Network / Barcode
 
-*   [MultiPeer (⭐197)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
+*   [MultiPeer (⭐199)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
 
 ### Cards / Barcode
 
-*   [CardParts (⭐2.4k)](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit for iOS developers.
+*   [CardParts (⭐2.5k)](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit for iOS developers.
 
 ### Menu / Barcode
 
@@ -193,11 +186,11 @@
 
 ### UITableView / Barcode
 
-*   [ExpandableCell (⭐726)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
+*   [ExpandableCell (⭐728)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
 
 ### Utility / Barcode
 
-*   [Vaccine (⭐297)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
+*   [Vaccine (⭐298)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
 
 ### Validation / Barcode
 

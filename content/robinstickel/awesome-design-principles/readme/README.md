@@ -2,7 +2,7 @@
 
 ✨ A curated list of awesome design principles
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/robinstickel/awesome-design-principles/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) · ⭐ 446 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/robinstickel/awesome-design-principles/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) · ⭐ 446 · 🏷️ Miscellaneous
 
 [ [Daily](/content/robinstickel/awesome-design-principles/README.md) / [Weekly](/content/robinstickel/awesome-design-principles/week/README.md) / Overview ]
 

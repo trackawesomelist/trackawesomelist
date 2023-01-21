@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 18, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,25 +31,19 @@
 *   [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 *   [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Ruby / Tornado
-
-*   [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html)
-
-## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Architecture
 
 *   [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
 
-## [7. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [6. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) Dec 10, 2019
 
-## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Torrenting
 
@@ -95,7 +89,7 @@
 
 *   [netflix-proxy (⭐3.4k)](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 
-## [9. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
@@ -106,7 +100,7 @@
 
 *   [Nick Higham's blog](https://nhigham.com/) - Mostly on MATLAB, general computing advice.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -90,10 +90,6 @@
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Introduction
-
-*   [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
-
 ### Custom Elements
 
 *   [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
@@ -120,7 +116,7 @@
 
 ### Date and Time Processing
 
-*   [holidays (⭐742)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐745)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ## [10. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 

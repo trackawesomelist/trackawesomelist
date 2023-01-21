@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [Sealed Secrets (⭐5.5k)](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
+*   [Sealed Secrets (⭐5.7k)](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
 
 ## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -161,7 +161,6 @@
 
 ### Transition To Pure Rigour Math / Monograph
 
-*   It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - Introductory proofs and mathematical maturity.
 *   [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
 *   [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/\~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
 *   [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
@@ -239,7 +238,7 @@
 *   [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Cryptography (⭐4.1k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Cryptography (⭐4.3k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 *   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
 
 ## [6. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
@@ -275,13 +274,13 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dynamic-base (⭐30)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
+*   [vite-plugin-dynamic-base (⭐31)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Project Layout
 
-*   [pagoda (⭐602)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
+*   [pagoda (⭐659)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
 
 ### Template Engines
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -58,17 +58,13 @@
 
 ### Applications / Directory Navigation
 
-*   [cointop (⭐3.4k)](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+*   [cointop (⭐3.5k)](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 
 ### Shell Package Management / Directory Navigation
 
-*   [shallow-backup (⭐968)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
+*   [shallow-backup (⭐995)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
 ## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
-
-### Training (Includes developer training for automation testers) / Other
-
-*   [BBST Testing Courses](http://testingeducation.org/BBST/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
 ### Blogs / Other
 

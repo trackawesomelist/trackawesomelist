@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,19 +33,19 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-dts (⭐494)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+*   [vite-plugin-dts (⭐516)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
-*   [Synth (⭐935)](https://github.com/getsynth/synth) - Open Source test data generator.
+*   [Synth (⭐989)](https://github.com/getsynth/synth) - Open Source test data generator.
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat hunting
 
-*   [Threat Bus (⭐228)](https://github.com/tenzir/threatbus) - Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.
+*   [Threat Bus (⭐233)](https://github.com/tenzir/threatbus) - Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.
 
 ## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [michaelbull/kotlin-result (⭐708)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
+*   [michaelbull/kotlin-result (⭐721)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 
 ## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Snippet / Diagnostics
 
-*   [L3MON4D3/LuaSnip (⭐1.6k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
+*   [L3MON4D3/LuaSnip (⭐1.7k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
 
 ### Color / Diagnostics
 
-*   [winston0410/range-highlight.nvim (⭐136)](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (\~ 120loc) that highlights ranges you have entered in commandline.
+*   [winston0410/range-highlight.nvim (⭐140)](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (\~ 120loc) that highlights ranges you have entered in commandline.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -89,20 +89,20 @@
 
 ### Editing Support / Diagnostics
 
-*   [nacro90/numb.nvim (⭐371)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
+*   [nacro90/numb.nvim (⭐379)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
 
 ### Formatting / Diagnostics
 
-*   [mhartington/formatter.nvim (⭐699)](https://github.com/mhartington/formatter.nvim) - A format runner written in Lua.
+*   [mhartington/formatter.nvim (⭐712)](https://github.com/mhartington/formatter.nvim) - A format runner written in Lua.
 
 ## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Long-read Assembly / Tools
 
-*   **[canu (⭐546)](https://github.com/marbl/canu)** - A single molecule sequence assembler for genomes large and small.
-*   **[flye (⭐554)](https://github.com/fenderglass/Flye)** - De novo assembler for single molecule sequencing reads using repeat graphs.
-*   **[hifiasm (⭐298)](https://github.com/chhylp123/hifiasm)** - A haplotype-resolved assembler for accurate Hifi reads.
-*   **[wtdbg2 (⭐457)](https://github.com/ruanjue/wtdbg2)** -  A fuzzy Bruijn graph approach to long noisy reads assembly
+*   **[canu (⭐559)](https://github.com/marbl/canu)** - A single molecule sequence assembler for genomes large and small.
+*   **[flye (⭐568)](https://github.com/fenderglass/Flye)** - De novo assembler for single molecule sequencing reads using repeat graphs.
+*   **[hifiasm (⭐309)](https://github.com/chhylp123/hifiasm)** - A haplotype-resolved assembler for accurate Hifi reads.
+*   **[wtdbg2 (⭐459)](https://github.com/ruanjue/wtdbg2)** -  A fuzzy Bruijn graph approach to long noisy reads assembly
 
 ## [12. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 

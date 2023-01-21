@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 28, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,11 +45,11 @@
 
 ### Individual components / API
 
-*   [Blazor.Canvas (⭐126)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
+*   [Blazor.Canvas (⭐129)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 
 ### Tools & Utilities / Others
 
-*   [bUnit - a testing library for Blazor components (⭐792)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
+*   [bUnit - a testing library for Blazor components (⭐814)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
 
 ### Others / Others
 
@@ -150,39 +150,33 @@
 
 *   [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/) - Written by [@ermil0v](https://twitter.com/ermil0v).
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### UI / Barcode
-
-*   [Streamoji (⭐243)](https://github.com/GetStream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
-
-## [9. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
 *   [FastAPI Cache (⭐186)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 
-## [10. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [9. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
 *   [red-chainer (⭐99)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
 *   [mxnet (⭐49)](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
-## [11. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Trust & Safety / Moderation
 
 *   [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/) - Moderation of huge social networks is performed by an army of outsourced subcontractors. These people are exposed to the worst and generally ends up with PTSD.
 *   [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - A documentary on these teams of underpaid people removing posts and deleting accounts.
 
-## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Playgrounds / Git
 
 *   [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
 
-## [13. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [12. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Demos / Program generation and analysis
 
@@ -206,19 +200,19 @@
 *   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.6k)](https://github.com/shreyashankar/gpt3-sandbox)
 *   [gpt-3-experiments by @minimaxir (⭐676)](https://github.com/minimaxir/gpt-3-experiments)
 
-## [14. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
-*   [denofn-selfhosted (⭐23)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
+*   [denofn-selfhosted (⭐24)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
-## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Boilerplate / Mouse Events
 
 *   [express-react-boilerplate (⭐44)](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
-## [16. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Application or Binary Hardening
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 26, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,13 +18,13 @@
 
 *   [`scale-value`](https://github.com/paritytech/scale-value) - Analogous to `serde_json` but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic `Value` given type info from `scale-info`.
 *   [`scale-decode`](https://github.com/paritytech/scale-decode) - Decode SCALE bytes into arbitrary custom types by implementing a visitor trait.
-*   [Typechain-Polkadot (⭐9)](https://github.com/Supercolony-net/typechain-polkadot) - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
+*   [Typechain-Polkadot (⭐10)](https://github.com/Supercolony-net/typechain-polkadot) - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Matano (⭐469)](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+*   [Matano (⭐630)](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -56,25 +56,19 @@
 
 *   [Discover Docker courses](https://bestcourses.io/results?q=docker\&size=n_20_n) - Easily discover Docker courses from various popular online learning platforms.
 
-## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### NewSQL / PicoLisp
-
-*   [TiDB Introduction](https://docs.pingcap.com/tidb/stable) - PingCAP [(PDF)](https://download.pingcap.org/tidb-stable-en-manual.pdf)
-
-## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Interview
 
 *   [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
 
-## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Books / NumPyro
 
 *   [Jax in Action](https://www.manning.com/books/jax-in-action) - A hands-on guide to using JAX for deep learning and other mathematically-intensive applications.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Logging
 
@@ -93,15 +87,15 @@
 
 *   dpm
     *   [BoltDoggy/deno#dpm (⭐11)](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
-    *   [dpmland/dpm (⭐41)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
+    *   [dpmland/dpm (⭐39)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Template Engine
 
 *   [Morestachio (⭐45)](https://github.com/JPVenson/morestachio) - A full sized {{mustache}} like template engine with focus on extendibility.
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Paper Writing
 

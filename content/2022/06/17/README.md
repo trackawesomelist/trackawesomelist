@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,13 +22,13 @@
 
 ### Utility / Diagnostics
 
-*   [m-demare/attempt.nvim (⭐56)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
+*   [m-demare/attempt.nvim (⭐57)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 
 ## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Others
 
-*   [Auto-QChem (⭐52)](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
+*   [Auto-QChem (⭐53)](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

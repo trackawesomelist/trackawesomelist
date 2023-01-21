@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,17 +38,17 @@
 
 ### Arcade
 
-*   [OpenTyrian (⭐281)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
+*   [OpenTyrian (⭐296)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
 
 ### Online
 
-*   [Ryzom Core (⭐259)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+*   [Ryzom Core (⭐263)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐11k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐12k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [BluetoothCommunicatorExample (⭐39)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐83)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
+*   [BluetoothCommunicatorExample (⭐40)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐87)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 
 ## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -79,7 +79,7 @@
 ### WebAssembly
 
 *   [lumen (⭐3.1k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
-*   [wasmex (⭐305)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+*   [wasmex (⭐316)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -252,7 +252,7 @@
 
 ### Miscellaneous
 
-*   [Veganism (⭐45)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+*   [Veganism (⭐47)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
 ---
 

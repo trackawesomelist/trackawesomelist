@@ -2,7 +2,7 @@
 
 12 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,12 +31,12 @@
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐384)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-*   [bcat (⭐326)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [is-up (⭐385)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [bcat (⭐328)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Debugging / Profiling
 
-*   [stackman (⭐241)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
+*   [stackman (⭐242)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 ### Packages / Build tools
 
@@ -71,7 +71,6 @@
 
 ### GUI
 
-*   [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. \[MIT]
 *   [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. \[GPLv3]
 
 ### Graphics

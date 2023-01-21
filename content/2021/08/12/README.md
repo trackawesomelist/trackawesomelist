@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -64,7 +64,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [aPureBase/KGraphQL (⭐259)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
+*   [aPureBase/KGraphQL (⭐261)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
 
 ## [7. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -124,18 +124,18 @@
 
 ### Contents / Imaging
 
-*   [DICOMcloud (⭐186)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
-*   [DICOM Server (⭐301)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
+*   [DICOMcloud (⭐190)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+*   [DICOM Server (⭐308)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
 *   [Fiji](https://imagej.net/software/fiji/) - Open-source platform for biological-image analysis.
 
 ### Contents / Frameworks
 
-*   [FHIR Proxy (⭐59)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
-*   [FHIR Works on AWS (⭐274)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
+*   [FHIR Proxy (⭐61)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
+*   [FHIR Works on AWS (⭐280)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
 
 ### Contents / Integration
 
-*   [FHIR Converter (⭐271)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
+*   [FHIR Converter (⭐276)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
 
 ### Contents / Hardware
 
@@ -149,7 +149,7 @@
 
 ### Contents / Games
 
-*   [Space Empires (⭐60)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+*   [Space Empires (⭐64)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 ## [15. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

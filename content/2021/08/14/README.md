@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,13 +21,13 @@
 
 ### DevSecOps / Policy enforcement
 
-*   [AllStar (⭐979)](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies.
+*   [AllStar (⭐1k)](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. ([Source Code (⭐33k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs`
+*   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. ([Source Code (⭐34k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs`
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Apps/Websites / Community
 
-*   [macOS in Svelte (⭐1.6k)](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web in Svelte.
+*   [macOS in Svelte (⭐1.7k)](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web in Svelte.
 
 ## [7. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -72,15 +72,15 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rose-pine/neovim (⭐529)](https://github.com/rose-pine/neovim) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+*   [rose-pine/neovim (⭐674)](https://github.com/rose-pine/neovim) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ### Utility / Diagnostics
 
-*   [rktjmp/paperplanes.nvim (⭐65)](https://github.com/rktjmp/paperplanes.nvim) - Post selections or buffers to online paste bins.
+*   [rktjmp/paperplanes.nvim (⭐66)](https://github.com/rktjmp/paperplanes.nvim) - Post selections or buffers to online paste bins.
 
 ### Fennel / Diagnostics
 
-*   [rktjmp/hotpot.nvim (⭐230)](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
+*   [rktjmp/hotpot.nvim (⭐243)](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
 
 ## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 

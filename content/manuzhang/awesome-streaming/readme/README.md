@@ -2,7 +2,7 @@
 
 a curated list of awesome streaming frameworks, applications, etc
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/manuzhang/awesome-streaming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) · ⭐ 2.2K · 🏷️ Big Data
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/manuzhang/awesome-streaming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) · ⭐ 2.2K · 🏷️ Big Data
 
 [ [Daily](/content/manuzhang/awesome-streaming/README.md) / [Weekly](/content/manuzhang/awesome-streaming/week/README.md) / Overview ]
 

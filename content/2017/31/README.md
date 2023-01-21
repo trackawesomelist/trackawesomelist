@@ -2,7 +2,7 @@
 
 42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -91,11 +91,11 @@
 
 ### GUI
 
-*   [WinApi (⭐746)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+*   [WinApi (⭐751)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### State machines
 
-*   [LiquidState (⭐220)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+*   [LiquidState (⭐222)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -287,7 +287,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐385)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐387)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [27. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -400,7 +400,7 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐308)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐310)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [35. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -415,7 +415,7 @@
 ### Shell Script Development / Directory Navigation
 
 *   [sh-semver (⭐29)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
-*   [zunit (⭐173)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+*   [zunit (⭐175)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
 ## [37. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -436,7 +436,7 @@
 
 *   [d3-area-label (⭐60)](https://github.com/curran/d3-area-label) - A library for placing labels in areas
 *   [d3-loom (⭐91)](https://github.com/nbremer/d3-loom) - Plugin to create a "loom" visualization
-*   [d3-sparql (⭐107)](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
+*   [d3-sparql (⭐109)](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
 
 ## [40. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 

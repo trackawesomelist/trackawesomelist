@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -70,21 +70,21 @@
 
 ### Preprocess / Interaction
 
-*   [Chemistry Development Kit (⭐370)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐1.8k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐387)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐1.9k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DeepPurpose (⭐655)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DeepPurpose (⭐683)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
 
 ### Machine Learning Tasks and Models / Drug Target Interaction
 
-*   [NeoDTI (⭐61)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐62)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Machine Learning Tasks and Models / Compound Protein Interaction
 
-*   [MCPINN (⭐2)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐80)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
+*   [TransformerCPI (⭐84)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -104,8 +104,8 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-resolve (⭐4)](https://github.com/vite-plugin/vite-plugin-resolve) - Custom resolve module content.
-*   [vite-plugin-dynamic-import (⭐52)](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
-*   [vite-plugin-commonjs (⭐29)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
+*   [vite-plugin-dynamic-import (⭐53)](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
+*   [vite-plugin-commonjs (⭐34)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
 
 ### Rust / Community
 

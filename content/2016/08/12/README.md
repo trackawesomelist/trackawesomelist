@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,11 +48,11 @@
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐618)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐620)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Images
 
-*   [ex\_image\_info (⭐88)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐87)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

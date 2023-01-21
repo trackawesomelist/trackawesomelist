@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Bloom and Cuckoo Filters
 
-*   [bloom (⭐1.7k)](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
+*   [bloom (⭐1.8k)](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-icons (⭐16)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+*   [vue-icons (⭐19)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 ## [12. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -114,13 +114,13 @@
 
 ### Templates
 
-*   [yew-template-for-github-io (⭐16)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
+*   [yew-template-for-github-io (⭐17)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
 
 ## [15. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Miscellaneous / React
 
-*   [supertest-graphql (⭐20)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
+*   [supertest-graphql (⭐21)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 
 ## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐570)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐579)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐144)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐145)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

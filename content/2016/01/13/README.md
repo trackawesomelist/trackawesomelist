@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Packages / Command-line apps
 
-*   [diff2html-cli (⭐402)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [diff2html-cli (⭐405)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ## [3. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Distributed Computing
 
-*   [Orleans (⭐9k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+*   [Orleans (⭐9.1k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 
 ## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

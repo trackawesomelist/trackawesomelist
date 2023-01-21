@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -63,8 +63,8 @@
 ### Projects / API Testing
 
 *   MQ clients
-    *   [JMSToolBox (⭐152)](https://github.com/jmstoolbox/jmstoolbox) - An universal JMS Client able to interact with the greatest number of JMS based message brokers.
-    *   [kcat (⭐4.5k)](https://github.com/edenhill/kcat) - A generic non-JVM producer and consumer for Apache Kafka, think of it as a netcat for Kafka. Formerly known as kafkacat.
+    *   [JMSToolBox (⭐160)](https://github.com/jmstoolbox/jmstoolbox) - An universal JMS Client able to interact with the greatest number of JMS based message brokers.
+    *   [kcat (⭐4.6k)](https://github.com/edenhill/kcat) - A generic non-JVM producer and consumer for Apache Kafka, think of it as a netcat for Kafka. Formerly known as kafkacat.
     *   [Offset Explorer](https://www.kafkatool.com) - A GUI application for managing and using Apache Kafka clusters. Formerly known as Kafka Tool.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
@@ -77,16 +77,16 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-use-places-autocomplete (⭐16)](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
-*   [v-perfect-signature (⭐133)](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
+*   [v-use-places-autocomplete (⭐17)](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
+*   [v-perfect-signature (⭐135)](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
 
 ### Components & Libraries / Utilities
 
-*   [pinia (⭐9.4k)](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
+*   [pinia (⭐9.6k)](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
 *   [mobx-vue-lite](https://github.com/wobsoriano/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
-*   [pinia-shared-state (⭐106)](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
-*   [pinia-undo (⭐23)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
-*   [pinia-xstate (⭐29)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
+*   [pinia-shared-state (⭐110)](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
+*   [pinia-undo (⭐25)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
+*   [pinia-xstate (⭐34)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

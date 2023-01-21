@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,19 +23,19 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐408)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐451)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [lazy (⭐31)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
+*   [lazy (⭐30)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### PDF / Third-party APIs
 
-*   [cl-typesetting (⭐64)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐100)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-typesetting (⭐65)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐102)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -47,11 +47,11 @@
 
 ### UI / Bottom bars
 
-*   [Circular Bottom Navigation (⭐513)](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
+*   [Circular Bottom Navigation (⭐522)](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [GeoFlutterFire (⭐278)](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
+*   [GeoFlutterFire (⭐282)](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -80,15 +80,15 @@
 
 ### Algorithms and Data structures
 
-*   [C# Algorithms (⭐5.2k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
+*   [C# Algorithms (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 
 ### Misc
 
-*   [ByteSize (⭐441)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
+*   [ByteSize (⭐445)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ### Template Engine
 
-*   [Mustache Sharp (⭐291)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
+*   [Mustache Sharp (⭐293)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 
 ### UI Automation
 
@@ -98,7 +98,7 @@
 
 ### Frameworks
 
-*   [exelli (⭐14)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
+*   [exelli (⭐15)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
 
 ### Instrumenting / Monitoring
 
@@ -114,7 +114,7 @@
 
 ### Editors
 
-*   [atom-elixir (⭐412)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [atom-elixir (⭐411)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of Ripple resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vhpoet/awesome-ripple/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vhpoet/awesome-ripple](https://github.com/vhpoet/awesome-ripple) · ⭐ 169 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vhpoet/awesome-ripple/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vhpoet/awesome-ripple](https://github.com/vhpoet/awesome-ripple) · ⭐ 169 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/vhpoet/awesome-ripple/README.md) / Weekly / [Overview](/content/vhpoet/awesome-ripple/readme/README.md) ]
 

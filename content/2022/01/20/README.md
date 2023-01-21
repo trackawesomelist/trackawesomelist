@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### General Purpose Computing / Other / unknown licence
 
-*   [cuda (⭐10)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
+*   [cuda (⭐17)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Applications / Productivity
 
-*   [Bartib (⭐330)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐350)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Component bundles
 
-*   [MASA Blazor (⭐473)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
+*   [MASA Blazor (⭐503)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
 
 ## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -75,7 +75,7 @@
 ### Projects
 
 *   [qubit](https://abhimanyu003.github.io/qubit) - A handy calculator, based on Rust and WebAssembly, [Live Demo](https://abhimanyu003.github.io/qubit/).
-*   [Paudle (⭐39)](https://github.com/pmsanford/paudle) - A reimplementation of the excellent word game Wordle by Josh Wardle.
+*   [Paudle (⭐40)](https://github.com/pmsanford/paudle) - A reimplementation of the excellent word game Wordle by Josh Wardle.
 
 ### Crates / Hooks
 

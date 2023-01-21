@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,8 +10,8 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [AntialiasedLine2D (⭐72)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
-*   [Godot VirtualJoystick (⭐5)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
+*   [AntialiasedLine2D (⭐76)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
+*   [Godot VirtualJoystick (⭐8)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -29,8 +29,8 @@
 
 ### Applications / Cryptocurrencies
 
-*   [electrumrs (⭐691)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server in Rust.
-*   [rust-lightning (⭐837)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
+*   [electrumrs (⭐707)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server in Rust.
+*   [rust-lightning (⭐858)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 
 ### Libraries / Cloud
 
@@ -40,24 +40,24 @@
 ### Libraries / Network programming
 
 *   MQTT
-    *   [bytebeamio/rumqtt (⭐795)](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
+    *   [bytebeamio/rumqtt (⭐837)](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-rtk-query (⭐38)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
+*   [vite-rtk-query (⭐43)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-dynamic-import-module (⭐11)](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
+*   [vite-plugin-dynamic-import-module (⭐12)](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [onsails/lspkind.nvim (⭐793)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
-*   [scalameta/nvim-metals (⭐263)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
+*   [onsails/lspkind.nvim (⭐831)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
+*   [scalameta/nvim-metals (⭐272)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
 
 ## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -69,7 +69,7 @@
 
 ### CSV
 
-*   [lazycsv (⭐54)](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. \[MIT]
+*   [lazycsv (⭐53)](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. \[MIT]
 
 ---
 

@@ -2,7 +2,7 @@
 
 29 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -517,7 +517,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [cmus (⭐4.7k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+*   [cmus (⭐4.8k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 
 ## [19. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
@@ -893,7 +893,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Text and Numbers
 
-*   [money (⭐688)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐692)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on May 01, 2017
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -13,13 +13,7 @@
 *   [X.Web.Sitemap (⭐3)](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
 *   [X.Web.RSS (⭐20)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 
-## [2. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Winnipeg](http://pwlwpg.ca/)
-
-## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Desktop
 
@@ -30,13 +24,13 @@
 *   [adminMongo (⭐3.8k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
 *   [Rockmongo (⭐1k)](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
-## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### WebGL 2 / Particles
 
 *   [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 

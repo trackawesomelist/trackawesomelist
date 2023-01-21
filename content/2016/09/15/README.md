@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐454)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐459)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

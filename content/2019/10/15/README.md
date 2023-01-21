@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -68,7 +68,7 @@
 ### Official Resources
 
 *   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐6.5k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [GitHub Repository (⭐6.7k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 *   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 *   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 
@@ -135,7 +135,7 @@
 
 ### CLI
 
-*   [Lyra (⭐385)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐389)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ## [14. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 

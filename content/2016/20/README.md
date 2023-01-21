@@ -2,7 +2,7 @@
 
 47 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [doctest (⭐4.4k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐4.5k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -140,7 +140,7 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐630)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
+    *   [llogiq/flame (⭐634)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
     *   [mrhooray/torch (⭐125)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
@@ -735,7 +735,7 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐6k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐6.3k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ### Open Source / Other
 
@@ -859,7 +859,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Hardware
 
-*   [nerves (⭐1.9k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
+*   [nerves (⭐2k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ### Images
 
@@ -910,11 +910,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐631)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
-
-### Realm
-
-*   [Realm+JSON (⭐669)](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
+*   [EVCloudKitDao (⭐633)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -926,11 +922,11 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### HTML / Barcode
 
-*   [Fuzi (⭐987)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
+*   [Fuzi (⭐996)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐844)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐843)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ### Utility / Barcode
 
@@ -1063,7 +1059,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Libraries
 
-*   [TensorFrames (⭐758)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
+*   [TensorFrames (⭐757)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 
 ### Books
 

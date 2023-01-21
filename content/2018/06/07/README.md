@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -110,7 +110,7 @@
 
 ### Charts / Third Party
 
-*   [Vs (⭐166)](https://github.com/GopherJ/Vs) - Declarative visualisation components for Vue.js \[bar, line, area, pie, donut, stacked, sankey, timeline]
+*   [Vs (⭐164)](https://github.com/GopherJ/Vs) - Declarative visualisation components for Vue.js \[bar, line, area, pie, donut, stacked, sankey, timeline]
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

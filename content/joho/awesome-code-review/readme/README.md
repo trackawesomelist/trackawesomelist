@@ -2,7 +2,7 @@
 
 An "Awesome" list of code review resources - articles, papers, tools, etc
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 3.6K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 3.6K · 🏷️ Work
 
 [ [Daily](/content/joho/awesome-code-review/README.md) / [Weekly](/content/joho/awesome-code-review/week/README.md) / Overview ]
 

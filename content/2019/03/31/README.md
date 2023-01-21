@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Utility / Collection View Layout
 
-*   [Eject (⭐526)](https://github.com/Rightpoint/Eject) - An eject button for Interface Builder to generate swift code.
+*   [Eject (⭐525)](https://github.com/Rightpoint/Eject) - An eject button for Interface Builder to generate swift code.
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Build and Package / Other / unknown licence
 
-*   [alire (⭐186)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+*   [alire (⭐201)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Honeypots / Tarpits
 
-*   [Endlessh (⭐5.6k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
+*   [Endlessh (⭐5.7k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
 *   [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - Program that answers ARP requests for unused IP space, creating the appearance of fake machines that answer further requests very slowly in order to slow down scanners, worms, etcetera.
 
 ## [8. Awesome Ava](/content/avajs/awesome-ava/README.md)

@@ -2,7 +2,7 @@
 
 9 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -85,7 +85,7 @@
 *   [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. \[Boost]
 *   [Dyad.c (⭐1.4k)](https://github.com/rxi/dyad) - Asynchronous networking for C. \[MIT]
 *   [Muduo (⭐12k)](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. \[BSD]
-*   [WebSocket++ (⭐5.9k)](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. \[BSD]
+*   [WebSocket++ (⭐6k)](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. \[BSD]
 
 ### Physics
 
@@ -125,8 +125,8 @@
 
 *   [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. \[LGPL]
 *   [cxx-prettyprint (⭐535)](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. \[Boost]
-*   [libcpuid (⭐356)](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. \[BSD]
-*   [libevil (⭐27)](https://github.com/avati/libevil) - The Evil License Manager. \[GPLv3]
+*   [libcpuid (⭐358)](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. \[BSD]
+*   [libevil (⭐28)](https://github.com/avati/libevil) - The Evil License Manager. \[GPLv3]
 *   [SDS (⭐4.1k)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. \[BSD]
 
 ### Online Compiler

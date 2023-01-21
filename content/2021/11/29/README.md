@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -96,7 +96,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [moia-dev/lambda-kotlin-request-router (⭐16)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
+*   [moia-dev/lambda-kotlin-request-router (⭐17)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
 
 ## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [imbalanced-ensemble (⭐168)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
+*   [imbalanced-ensemble (⭐175)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -1,24 +1,18 @@
 # Awesome List Updates on Nov 02, 2016
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
-
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [Fractalide (⭐785)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
+*   [Fractalide (⭐790)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -52,7 +46,7 @@
 
 *   [dotnet-win32-service (⭐443)](https://github.com/dasMulli/dotnet-win32-service) - Set up and run as Windows Service directly from .NET Core.
 
-## [4. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Media Consumption
 
@@ -64,26 +58,26 @@
 *   [23andMe](https://www.23andme.com/) - Genetic testing and analysis.
 *   [DNA land](http://dna.land/) - DNA imputation and scientific research.
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Articles
 
 *   [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) - A complete introduction to functional programming patterns by Chet Corcos with a lot of javascript examples.
 
-## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### ImageNet Classification
 
 *   VGG-Net [\[Web\]](http://www.robots.ox.ac.uk/\~vgg/research/very_deep/) [\[Paper\]](http://arxiv.org/pdf/1409.1556)
     *   Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
 
-## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### API
 
@@ -91,15 +85,14 @@
 
 ### Core Data
 
-*   [AlecrimCoreData (⭐782)](https://github.com/Alecrim/AlecrimCoreData) - Simple Core Data wrapper library.
-*   [CoreStore (⭐3.6k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
+*   [CoreStore (⭐3.7k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
 *   [DataKernel (⭐16)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
 *   [Graph (⭐875)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 
 ### UI / Barcode
 
-*   [AECoreDataUI (⭐306)](https://github.com/tadija/AERecord) - Core Data driven UI.
+*   [AECoreDataUI (⭐305)](https://github.com/tadija/AERecord) - Core Data driven UI.
 
 ---
 

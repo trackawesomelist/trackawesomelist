@@ -2,7 +2,7 @@
 
 DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/pmuens/awesome-serverless/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) · ⭐ 2.1K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/pmuens/awesome-serverless/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) · ⭐ 2.1K · 🏷️ Back-End Development
 
 [ [Daily](/content/pmuens/awesome-serverless/README.md) / [Weekly](/content/pmuens/awesome-serverless/week/README.md) / Overview ]
 

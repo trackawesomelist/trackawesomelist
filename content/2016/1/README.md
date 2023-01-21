@@ -2,7 +2,7 @@
 
 33 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -133,13 +133,13 @@
 
 ### Static Site Generation
 
-*   [Photish (⭐146)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+*   [Photish (⭐147)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
-*   [DotImaging (⭐309)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐310)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -215,10 +215,6 @@
 ### Images / Barcode
 
 *   [PassportScanner (⭐441)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
-
-### UI / Barcode
-
-*   [KDInteractiveNavigationController (⭐154)](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
 
 ### Utility / Barcode
 
@@ -546,7 +542,7 @@
 
 ### Software / Frameworks
 
-*   [Countly IoT Analytics (⭐5k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
+*   [Countly IoT Analytics (⭐5.1k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
 
 ## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -739,7 +735,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [goaccess (⭐15k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
+*   [goaccess (⭐16k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 
 ## [24. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
@@ -822,14 +818,14 @@
 ### Reporters / JavaScript
 
 *   [tap-dot (⭐35)](https://github.com/scottcorgan/tap-dot) - Dotted output.
-*   [tap-spec (⭐278)](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter.
+*   [tap-spec (⭐280)](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter.
 *   [tap-nyan (⭐144)](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat.
 *   [tap-difflet (⭐48)](https://github.com/namuol/tap-difflet) - Minimal output with diffing.
-*   [tap-diff (⭐92)](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
+*   [tap-diff (⭐93)](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
 *   [tap-simple (⭐6)](https://github.com/joeybaker/tap-simple) - Simple output.
-*   [faucet (⭐540)](https://github.com/substack/faucet) - Human-readable summarizer.
-*   [tap-mocha-reporter (⭐23)](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters (⭐23)](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
-*   [tap-summary (⭐42)](https://github.com/zoubin/tap-summary) - Summarized output.
+*   [faucet (⭐541)](https://github.com/substack/faucet) - Human-readable summarizer.
+*   [tap-mocha-reporter (⭐24)](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters (⭐24)](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
+*   [tap-summary (⭐43)](https://github.com/zoubin/tap-summary) - Summarized output.
 *   [tap-pessimist (⭐15)](https://github.com/clux/tap-pessimist) - Only shows failed tests.
 *   [tap-prettify (⭐34)](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
 *   [tap-colorize](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability.
@@ -841,17 +837,17 @@
 
 *   [tap (⭐2.1k)](https://github.com/isaacs/node-tap) - TAP test framework for Node.js.
 *   [tape (⭐5.7k)](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
-*   [qunit-tap (⭐73)](https://github.com/twada/qunit-tap) - TAP output for QUnit.
+*   [qunit-tap (⭐72)](https://github.com/twada/qunit-tap) - TAP output for QUnit.
 *   [jasmine-reporters (⭐397)](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 *   [karma-tap-reporter (⭐7)](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 
 ### Producers / Fish
 
-*   [Fishtape (⭐310)](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
+*   [Fishtape (⭐314)](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
 
 ### Consumers / JavaScript
 
-*   [tap-parser (⭐115)](https://github.com/substack/tap-parser) - TAP parser.
+*   [tap-parser (⭐116)](https://github.com/substack/tap-parser) - TAP parser.
 *   [tap-out (⭐23)](https://github.com/scottcorgan/tap-out) - TAP parser.
 *   [yamlish (⭐22)](https://github.com/isaacs/yamlish) - YAML-block parser.
 
@@ -862,11 +858,11 @@
 
 ### Tools / Python
 
-*   [tappy (⭐119)](https://github.com/mblayman/tappy) - Tools for working with TAP.
+*   [tappy (⭐120)](https://github.com/mblayman/tappy) - Tools for working with TAP.
 
 ### Tutorials / Python
 
-*   [test-anything (⭐167)](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop.
+*   [test-anything (⭐166)](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop.
 
 ### Documentation / Python
 
@@ -874,7 +870,7 @@
 
 ### Community / Python
 
-*   [Discuss (⭐67)](https://github.com/TestAnything/Specification/issues)
+*   [Discuss (⭐69)](https://github.com/TestAnything/Specification/issues)
 *   [Reddit](https://www.reddit.com/r/testanythingprotocol)
 
 ## [30. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
@@ -887,7 +883,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐490)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐491)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
@@ -909,7 +905,7 @@
 
 ### Utilities
 
-*   [quark (⭐316)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
+*   [quark (⭐318)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 
 ## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 

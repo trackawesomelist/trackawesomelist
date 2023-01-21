@@ -2,13 +2,13 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Applications / Graphics
+### Graphics
 
 *   [vRayTracer (⭐42)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
@@ -28,7 +28,7 @@
 
 ### Containers
 
-*   [Sitecore Docker Examples (⭐61)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
+*   [Sitecore Docker Examples (⭐63)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 
 ### Demo
 
@@ -36,7 +36,7 @@
 
 ### Maintenance
 
-*   [Sifon (⭐10)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has very powerful extension system with plugins covering many aspects of day-to-day activities.
+*   [Sifon (⭐11)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has very powerful extension system with plugins covering many aspects of day-to-day activities.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -54,11 +54,11 @@
 
 ### Tools / Music drivers and trackers
 
-*   [hUGETracker (⭐179)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
+*   [hUGETracker (⭐189)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-vwf (⭐29)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
+*   [gb-vwf (⭐30)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

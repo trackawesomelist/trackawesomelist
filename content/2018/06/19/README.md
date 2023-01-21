@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Software / Ticketing
 
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐729)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
+*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐749)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -56,19 +56,19 @@
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐7.3k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐7.4k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
-*   [MessengerKit (⭐1.4k)](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
+*   [MessengerKit (⭐1.5k)](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
-*   [Flip Panel (⭐531)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
+*   [Flip Panel (⭐551)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 
 ## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 

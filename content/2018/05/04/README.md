@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -336,7 +336,7 @@
 
 ### Applications / Operating systems
 
-*   [tock/tock (⭐4k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
+*   [tock/tock (⭐4.1k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -348,7 +348,7 @@
 
 ### Build Systems
 
-*   [clib (⭐4.4k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
+*   [clib (⭐4.5k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
 *   [waf](https://github.com/waf-project/waf) - Python-based framework for configuring, compiling and installing applications. \[BSD] [website](https://waf.io/)
 
 ## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
@@ -359,7 +359,7 @@
 
 ### Libraries / Molecular Dynamics
 
-*   [cclib (⭐258)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
+*   [cclib (⭐259)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
 
 ## [12. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

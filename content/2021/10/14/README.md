@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 14, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ## [4. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)] / [Dawn](https://www.goodreads.com/book/show/36694961-dawn)   (1987) [4.1]
+### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)]
 
 *   [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) \[4.2] 🔥
 *   [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) \[4.3] 🔥
@@ -85,7 +85,7 @@
 
 ### Contents / Finance
 
-*   [Auction (⭐24)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
+*   [Auction (⭐25)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
 
 ## [10. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -95,7 +95,7 @@
 
 ## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Generative Adversarial Networks (GANs)
 
 *   [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/): NVidia official StyleGAN3 release page
 
@@ -105,13 +105,7 @@
 
 *   [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C++ / Non-X86
-
-*   [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
-
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cloud Storage & File Sharing
 

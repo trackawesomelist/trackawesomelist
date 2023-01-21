@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,13 +14,17 @@
 
 ## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
+### GUI
+
+*   [fubark/cosmic (⭐253)](https://github.com/fubark/cosmic) - GUI toolkit.
+
 ### Misc libraries
 
-*   [natecraddock/ziglua (⭐41)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
+*   [natecraddock/ziglua (⭐55)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
 
 ### Web / HTTP
 
-*   [karlseguin/websocket.zig (⭐59)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
+*   [karlseguin/websocket.zig (⭐67)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
 
 ### Parser / Package managers
 
@@ -30,13 +34,12 @@
 ### Other / Package managers
 
 *   [All Your Codebase](https://allyourcodebase.com/) - Development status of Zig and its' ecosystem.
-*   [fubark/cosmic (⭐236)](https://github.com/fubark/cosmic) - A general purpose runtime for Javascript/WASM.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [base16 (⭐20)](https://github.com/base16-project/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
+*   [base16 (⭐21)](https://github.com/base16-project/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
 
 ## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -80,48 +83,39 @@
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Other / IDEs with V
+### IDEs with V / IntelliJ & CLion & GoLand etc
 
-*   [Vide (⭐61)](https://github.com/IsaiahPatton/Vide)
+*   [Vide (⭐64)](https://github.com/IsaiahPatton/Vide)
 
 ## [6. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
-### Tools / Software
+### Tools / Software / 2D Game Dev
 
-*   ### 2D Game Dev
-    *   🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
-    *   💰 [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) - Create stunning light effects with 2D sprites in your game engine.
-    *   💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
-    *   🆓 [Tiled](https://www.mapeditor.org) [:octocat: (⭐9.3k)](https://github.com/mapeditor/tiled) - General purpose tile map editor for all tile-based games.
-*   ### Level Editors
-    *   🆓 [Radiant](https://icculus.org/gtkradiant/) [:octocat: (⭐520)](https://github.com/TTimo/GtkRadiant) - Open source, cross platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games.
-    *   🆓 [TrenchBroom](https://trenchbroom.github.io) [:octocat: (⭐1.3k)](https://github.com/TrenchBroom/TrenchBroom) - Level editor for Quake-engine based games.
-*   ### Voxel
-    *   💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
-    *   🎉 [IsoVoxel (⭐329)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files.
-    *   🆓 [MagicaVoxel](https://ephtracy.github.io) - Free lightweight GPU-based voxel art editor.
-    *   💰 [Qubicle](https://www.getqubicle.com) - (used for Crossy Road, Pacman 256) Voxel editor, easy creation of 3D models.
+*   🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
 
-### Video Game Assets
+### Tools / Software / Level Editors
 
-*   ### Audio Assets
-    *   #### Music
-        *   🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - Download unlimited high-quality loops and packs used for music creation.
-        *   💸 [Bensound](https://www.bensound.com/royalty-free-music) - Wonderful, original music tracks, free with attribution. Perfect for games.
-        *   💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
-        *   💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Great mix of free and affordable music loops.
-        *   💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
-        *   💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
-    *   #### Sound Effects
-        *   🆓 [Freesound](https://freesound.org/browse/) - Community based archive of free sound effects.
-        *   💸 [Free Sound Effects](https://www.freesoundeffects.com/) - Large collection of sound effects.
-        *   💰 [Soundsnap](https://www.soundsnap.com) - Subscription based professional sound effects library.
+*   🆓 [Radiant](https://icculus.org/gtkradiant/) [:octocat: (⭐523)](https://github.com/TTimo/GtkRadiant) - Open source, cross platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games.
+
+### Tools / Software / Voxel
+
+*   💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
+
+### Video Game Assets / Audio Assets
+
+*   Music
+    *   🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - Download unlimited high-quality loops and packs used for music creation.
+    *   💸 [Bensound](https://www.bensound.com/royalty-free-music) - Wonderful, original music tracks, free with attribution. Perfect for games.
+    *   💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
+    *   💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Great mix of free and affordable music loops.
+    *   💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
+    *   💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
-*   [mprocs (⭐577)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
+*   [mprocs (⭐594)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -147,15 +141,15 @@
 
 ### Utility / Diagnostics
 
-*   [sitiom/nvim-numbertoggle (⭐36)](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers.
+*   [sitiom/nvim-numbertoggle (⭐48)](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [kkharji/sqlite.lua (⭐298)](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for Lua and Neovim.
+*   [kkharji/sqlite.lua (⭐311)](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for Lua and Neovim.
 
 ### Session / Diagnostics
 
-*   [olimorris/persisted.nvim (⭐114)](https://github.com/olimorris/persisted.nvim) - Simple session management with git branching, autosave/autoload and Telescope support.
+*   [olimorris/persisted.nvim (⭐137)](https://github.com/olimorris/persisted.nvim) - Simple session management with git branching, autosave/autoload and Telescope support.
 
 ---
 

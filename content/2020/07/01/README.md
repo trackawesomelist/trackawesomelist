@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 01, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Top / Game Engine resources
 
-*   [AuthPass (⭐1.4k)](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
+*   [AuthPass (⭐1.5k)](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -38,13 +38,13 @@
 *   [aliasme (⭐103)](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 *   [autojump (⭐14k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 *   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-*   [bd (⭐885)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
-*   [commacd (⭐334)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+*   [bd (⭐891)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
+*   [commacd (⭐339)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 *   [enhancd (⭐2.2k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
-*   [goto (⭐813)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
-*   [jump (⭐1.4k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
+*   [goto (⭐824)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
+*   [jump (⭐1.5k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 *   [lazy-cd (⭐20)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
-*   [up (⭐143)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
+*   [up (⭐147)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 
 ## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Other Testing
 
-*   [Mockingbird (⭐180)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
+*   [Mockingbird (⭐183)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -135,12 +135,6 @@
 ### Social Media Tools / Twitter
 
 *   [Nations24](https://nations24.com)
-
-## [14. Awesome V](/content/vlang/awesome-v/README.md)
-
-### Other / Online IDEs with V
-
-*   [V Playground](https://v-wasm.now.sh/)
 
 ---
 

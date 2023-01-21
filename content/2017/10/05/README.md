@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### MVVM
 
-*   [Win Application Framework (WAF) (⭐633)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
+*   [Win Application Framework (WAF) (⭐641)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 
 ## [2. Awesome Material](/content/sachin1092/awesome-material/README.md)
 

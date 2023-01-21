@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,8 +30,8 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐492)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
-*   [HDBScan (⭐89)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
+*   [SOMPY (⭐497)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [HDBScan (⭐91)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Environment Management
 
-*   [rcm.cr (⭐44)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
+*   [rcm.cr (⭐45)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
 ## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

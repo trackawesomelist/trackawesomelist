@@ -2,7 +2,7 @@
 
 48 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -57,16 +57,16 @@
 ### Other plugins
 
 *   Firebase
-    *   [AppCheck (⭐5)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
-    *   [Dynamic Links (⭐10)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
+    *   [AppCheck (⭐6)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
+    *   [Dynamic Links (⭐11)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     *   [Push (⭐26)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 *   [Photo library (⭐1)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
 ### Tools
 
 *   [Docgen (⭐9)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [Plugin generator (⭐44)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [Assets (⭐337)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Plugin generator (⭐47)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [Assets (⭐357)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ### Learning / Offical guides
 
@@ -94,8 +94,8 @@
 ### Demo apps / Case study
 
 *   [capacitor-testapp (⭐24)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
-*   [capacitor-plugin-demo (⭐40)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
-*   [capacitor-firebase-plugin-demo (⭐7)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
+*   [capacitor-plugin-demo (⭐47)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+*   [capacitor-firebase-plugin-demo (⭐8)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Type / React
 
-*   [pothos (⭐1.4k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
+*   [pothos (⭐1.5k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 
 ## [7. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Rallly](https://rallly.co) - Rallly is an open-source alternative to Doodle that lets you create polls to vote on dates and times. ([Source Code (⭐1.4k)](https://github.com/lukevella/Rallly)) `AGPL-3.0` `Nodejs`
+*   [Rallly](https://rallly.co) - Rallly is an open-source alternative to Doodle that lets you create polls to vote on dates and times. ([Source Code (⭐1.5k)](https://github.com/lukevella/Rallly)) `AGPL-3.0` `Nodejs`
 
 ### Software / Content Management Systems (CMS)
 
@@ -147,13 +147,13 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [PicoShare](https://pico.rocks) - A minimalist, easy-to-host service for sharing images and other files. ([Demo](https://demo.pico.rocks), [Source Code (⭐1k)](https://github.com/mtlynch/picoshare)) `AGPL-3.0` `Go`
+*   [PicoShare](https://pico.rocks) - A minimalist, easy-to-host service for sharing images and other files. ([Demo](https://demo.pico.rocks), [Source Code (⭐1.1k)](https://github.com/mtlynch/picoshare)) `AGPL-3.0` `Go`
 
 ## [11. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
-*   [Spotube (⭐1.7k)](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
+*   [Spotube (⭐2.1k)](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 
 ## [12. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -168,8 +168,8 @@
 ### :wrench: Tools / Before 2000
 
 *   [Capstone](https://www.capstone-engine.org) - Lightweight multi-platform, multi-architecture disassembly framework.
-*   [PANDA (⭐2.1k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
-*   [ShowStopper (⭐131)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
+*   [PANDA (⭐2.2k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
+*   [ShowStopper (⭐133)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 
 ## [13. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
@@ -188,7 +188,7 @@
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
-*   [Beginner's guide to eBPF (⭐413)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
+*   [Beginner's guide to eBPF (⭐426)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -200,7 +200,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [FAIRshare (⭐60)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
+*   [FAIRshare (⭐59)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
 ### Components & Libraries / Utilities
 
@@ -226,13 +226,13 @@
 
 ### Plugins
 
-*   [tmux-menus (⭐115)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
+*   [tmux-menus (⭐125)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
 
 ## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
-*   [API Guard (⭐237)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+*   [API Guard (⭐239)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
 ## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -246,13 +246,13 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [Kotlin/kotlinx-kover (⭐784)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
+*   [Kotlin/kotlinx-kover (⭐801)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
 
 ## [23. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Sequence Alignment / Pairwise
 
-*   **[DIAMOND (⭐745)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
+*   **[DIAMOND (⭐758)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
 
 ## [24. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -299,7 +299,7 @@
 
 ### Layout / Barcode
 
-*   [Scaling Header Scroll View (⭐380)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
+*   [Scaling Header Scroll View (⭐404)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
 ## [30. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -320,7 +320,7 @@
 ### Explainability / Strong Machine Learning
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐793)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐796)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [32. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -399,26 +399,26 @@
 
 ### Miscellaneous
 
-*   [file-select (⭐12)](https://github.com/Shinmera/file-select) -  A library to invoke the native system file dialog to select or create files. Zlib.
+*   [file-select (⭐13)](https://github.com/Shinmera/file-select) -  A library to invoke the native system file dialog to select or create files. Zlib.
 
 ### XML / Third-party APIs
 
-*   [Plump (⭐104)](https://github.com/Shinmera/plump) - A lenient XML parser. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Plump (⭐106)](https://github.com/Shinmera/plump) - A lenient XML parser. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [xpath (⭐5)](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (XPath) Version 1.0. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [s-xml](http://cliki.net/S-XML) - A basic parser. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [xmls (⭐15)](https://github.com/rpgoldman/xmls) - A small, simple, non-validating XML parser. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-feedparser (⭐25)](https://github.com/TBRSS/cl-feedparser) - A Common Lisp (RSS, Atom) feed parser. [LLGPL](http://opensource.franz.com/preamble.html)
+*   [cl-feedparser (⭐24)](https://github.com/TBRSS/cl-feedparser) - A Common Lisp (RSS, Atom) feed parser. [LLGPL](http://opensource.franz.com/preamble.html)
 *   [Buildnode (⭐18)](https://github.com/AccelerationNet/buildnode) - A common lisp library to ease interaction with CXML-dom, such as building Excel spreadsheets. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Emacs / Third-party APIs
 
-*   [slime-star (⭐12)](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
+*   [slime-star (⭐15)](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
     *   the Lisp system browser
     *   [SLIME doc contrib (⭐16)](https://github.com/mmontone/slime-doc-contribs) - enhance the default help buffer.
-    *   [Quicklisp systems (⭐28)](https://github.com/mmontone/quicklisp-systems) - Search, browse and load Quicklisp systems from Emacs.
-    *   [Quicksearch (⭐45)](https://github.com/tkych/quicksearch)
+    *   [Quicklisp systems (⭐27)](https://github.com/mmontone/quicklisp-systems) - Search, browse and load Quicklisp systems from Emacs.
+    *   [Quicksearch (⭐46)](https://github.com/tkych/quicksearch)
     *   [Slime breakpoints (⭐5)](https://github.com/mmontone/slime-breakpoints)
-    *   [Slite (⭐41)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
+    *   [Slite (⭐42)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
 
 ## [36. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -441,7 +441,7 @@
 
 ### Domain
 
-*   [js.cool (⭐286)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
+*   [js.cool (⭐300)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
 
 ## [39. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
@@ -468,7 +468,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [al-magic (⭐0)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
+*   [al-magic (⭐0)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
 *   [skill (asafaeirad) (⭐10)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
 *   [skill (frontendmonster) (⭐10)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 
@@ -476,19 +476,19 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot FPS Template (⭐37)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot FPS Template (⭐40)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 
 ### Plugins and scripts / Various Godot versions
 
 *   [GodotNotificationCenter (⭐55)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
-*   [Scrolling Background (⭐23)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
+*   [Scrolling Background (⭐24)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
 *   [SimpleGodotCRTShader (⭐290)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 *   [SMRT-Godot (⭐105)](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [AntialiasedLine2D (⭐72)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
-*   [Godot VirtualJoystick (⭐5)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
+*   [AntialiasedLine2D (⭐76)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
+*   [Godot VirtualJoystick (⭐8)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
 
 ## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -506,12 +506,12 @@
 
 ### Applications / Cryptocurrencies
 
-*   [electrumrs (⭐691)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server in Rust.
-*   [rust-lightning (⭐837)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
+*   [electrumrs (⭐707)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server in Rust.
+*   [rust-lightning (⭐858)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 
 ### Libraries / Audio and Music
 
-*   [Serial-ATA/lofty-rs (⭐66)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] — A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
+*   [Serial-ATA/lofty-rs (⭐68)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] — A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
 
 ### Libraries / Cloud
 
@@ -521,7 +521,7 @@
 ### Libraries / Network programming
 
 *   MQTT
-    *   [bytebeamio/rumqtt (⭐795)](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
+    *   [bytebeamio/rumqtt (⭐837)](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
 
 ## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -531,8 +531,8 @@
 
 ### Templates / React
 
-*   [vite-rtk-query (⭐38)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
-*   [React-PWA (⭐259)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
+*   [vite-rtk-query (⭐43)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
+*   [React-PWA (⭐285)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
 *   [vite-react-ts-minimal-template (⭐14)](https://github.com/alessandropisu/vite-react-ts-minimal-template) - React + TypeScript + Airbnb ESLint + Prettier + Husky.
 
 ### Templates / Others
@@ -541,7 +541,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-dynamic-import-module (⭐11)](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
+*   [vite-plugin-dynamic-import-module (⭐12)](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
 *   [vite-plugin-mp (⭐15)](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
 
 ### Framework-agnostic Plugins / Loaders
@@ -552,12 +552,12 @@
 
 ### (requires Neovim 0.5)
 
-*   [onsails/lspkind.nvim (⭐793)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
-*   [scalameta/nvim-metals (⭐263)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
+*   [onsails/lspkind.nvim (⭐831)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
+*   [scalameta/nvim-metals (⭐272)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
 
 ### Motion / Diagnostics
 
-*   [ggandor/leap.nvim (⭐2.3k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
+*   [ggandor/leap.nvim (⭐2.4k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 
 ## [47. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -569,7 +569,7 @@
 
 ### CSV
 
-*   [lazycsv (⭐54)](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. \[MIT]
+*   [lazycsv (⭐53)](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. \[MIT]
 
 ---
 

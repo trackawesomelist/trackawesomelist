@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 06 - Oct 12, 2014
 
-12 awesome lists updated this week.
+11 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Packages / Mad science
 
-*   [peercast (⭐502)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
+*   [peercast (⭐504)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 
 ## [2. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -28,7 +28,7 @@
 
 ### E-commerce
 
-*   [python-currencies (⭐63)](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies.
+*   [python-currencies (⭐64)](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -84,13 +84,7 @@
 *   [Repeat (⭐130)](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 *   [Table (⭐86)](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 
-## [8. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
-
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -108,16 +102,16 @@
 
 ### Caching
 
-*   [con\_cache (⭐846)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐850)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
-*   [coverex (⭐98)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
+*   [coverex (⭐97)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 *   [excoveralls (⭐751)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Configuration
 
-*   [conform (⭐380)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
+*   [conform (⭐379)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
 *   [ex\_conf (⭐34)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 
 ### CSV
@@ -143,22 +137,22 @@
 
 ### Geolocation
 
-*   [geo (⭐563)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐565)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Hardware
 
-*   [elixir\_ale (⭐337)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
+*   [elixir\_ale (⭐338)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
 
 ### JSON
 
 *   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐690)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [joken (⭐697)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 *   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐20)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐768)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐772)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### Miscellaneous
 
@@ -193,7 +187,7 @@
 
 ### Static Page Generation
 
-*   [coil (⭐67)](https://github.com/badosu/coil) - Minimalistic static content engine.
+*   [coil (⭐66)](https://github.com/badosu/coil) - Minimalistic static content engine.
 
 ### Statistics
 
@@ -208,7 +202,7 @@
 ### XML
 
 *   [quinn (⭐46)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐158)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [xml\_builder (⭐157)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ### Other Awesome Lists
 
@@ -218,7 +212,7 @@
 
 *   [Elixir Github Repository (⭐21k)](https://github.com/elixir-lang/elixir) - The project repository.
 
-## [10. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [9. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Workflow Overviews
 
@@ -232,13 +226,13 @@
 
 *   [CSS module system in Google+ (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list/issues/3) ([slides](https://docs.google.com/presentation/d/1_LpRI2_grOgTKyqodgg8yWGDhStgZHxnvjFOTJ6Jb3g/edit#slide=id.p)), Shubhie Panicker (2013)
 
-## [11. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [10. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tips and Tricks
 
 *   [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
 
-## [12. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 

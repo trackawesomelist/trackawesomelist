@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -76,7 +76,7 @@
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐34k)](https://github.com/gorhill/uBlock)
 
 ## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools / XML
 
-*   [denomander (⭐128)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐129)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -98,17 +98,17 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
+*   [vuetify-dialog (⭐197)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Theming
 
-*   [dynamic-antd-theme (⭐249)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
+*   [dynamic-antd-theme (⭐254)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
 
 ### Icons / Themes
 
-*   [Material Design Icons (⭐19)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
+*   [Material Design Icons (⭐21)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
 
 ---
 

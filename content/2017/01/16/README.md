@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### CAD Specific / KiCad
 
-*   [Keyboard PCB Guide (⭐3.5k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+*   [Keyboard PCB Guide (⭐3.6k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Blogs / Eagle
 
@@ -75,7 +75,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐755)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐757)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -122,12 +122,12 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Interactive / Other
 
-*   [Shader-school (⭐4k)](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
+*   [Shader-school (⭐4.1k)](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
 
 ### Math / Other
 
 *   [Math as code (⭐14k)](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
-*   [Eases (⭐369)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
+*   [Eases (⭐374)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 
 ### Inspiration / Other
 
@@ -135,10 +135,10 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Related / Other
 
-*   [Awesome opengl (⭐1.7k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*   [Awesome canvas (⭐1.2k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+*   [Awesome opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [Awesome canvas (⭐1.3k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 *   [Awesome audio visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-*   [Awesome computer vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+*   [Awesome computer vision (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

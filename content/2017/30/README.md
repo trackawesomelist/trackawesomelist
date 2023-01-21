@@ -2,7 +2,7 @@
 
 52 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -70,7 +70,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐85k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐86k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -427,8 +427,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐862)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
-*   [value-category-cheatsheet (⭐399)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐865)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
+*   [value-category-cheatsheet (⭐400)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -530,7 +530,7 @@
 
 *   [graphql-batch (⭐1.3k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐463)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-guard (⭐464)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [31. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
@@ -621,7 +621,7 @@
 
 ### Image Processing
 
-*   [Magick.NET (⭐2.5k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+*   [Magick.NET (⭐2.6k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
 
 ### JavaScript Engines
 
@@ -796,12 +796,11 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐775)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
-*   [Gemini (⭐3k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
+*   [ChainPageCollectionView (⭐777)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [Gemini (⭐3.1k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ### Network / Barcode
 
-*   [Dratini (⭐37)](https://github.com/kevin0571/Dratini) - A neat network layer.
 *   [ShadowsocksX-NG (⭐31k)](https://github.com/shadowsocks/ShadowsocksX-NG) - A fast tunnel proxy that helps you bypass firewalls.
 
 ## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)

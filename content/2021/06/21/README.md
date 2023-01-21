@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### Starters & Themes
 
-*   📟 [new-tailwind-app (⭐234)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+*   📟 [new-tailwind-app (⭐238)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 
 ## [7. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Bindings
 
-*   [Vortice.Vulkan (⭐176)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
+*   [Vortice.Vulkan (⭐187)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -84,13 +84,13 @@
 
 ### Utils / Third Party
 
-*   [d3-interpolate-path (⭐289)](https://github.com/pbeshai/d3-interpolate-path) - Interpolates paths with different number of points
+*   [d3-interpolate-path (⭐294)](https://github.com/pbeshai/d3-interpolate-path) - Interpolates paths with different number of points
 
 ## [12. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Visualization
 
-*   [ipychart (⭐67)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
@@ -132,13 +132,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐2.9k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐3k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [SCIM for keycloak (⭐108)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*   [SCIM for keycloak (⭐123)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
 ## [19. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

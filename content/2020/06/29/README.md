@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -15,7 +15,7 @@
 
 ### Tools
 
-*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐414)](https://github.com/adorsys/keycloak-config-cli)
+*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐447)](https://github.com/adorsys/keycloak-config-cli)
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -25,7 +25,7 @@
 
 ### Calendar / Barcode
 
-*   [ElegantCalendar (⭐547)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐564)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ### Label / Barcode
 
@@ -47,14 +47,14 @@
 
 ### Contents / Tools
 
-*   [Jagnik (⭐33)](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool  in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
+*   [Jagnik (⭐35)](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool  in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Authentication
 
-*   [TheIdServer (⭐512)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐51)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [TheIdServer (⭐527)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [Blorc.OpenIdConnect (⭐54)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 
 ### Courses / Others
 
@@ -68,7 +68,7 @@
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### VPN / Metric & Metric Collection
+### Software / VPN
 
 *   [Nebula (⭐11k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 

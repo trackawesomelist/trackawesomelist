@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,7 +53,7 @@
 
 ### Web Servers
 
-*   [Agoo (⭐804)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐812)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

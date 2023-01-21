@@ -2,7 +2,7 @@
 
 46 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 *   [Game Boy Link Cable Breakout Board (⭐57)](https://github.com/Palmr/gb-link-cable)
 *   [GBCartFlasher firmware (⭐22)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐386)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [VerilogBoy (⭐388)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -172,7 +172,7 @@
 
 ### R / Angular
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐547)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐553)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Angular
 
@@ -554,7 +554,7 @@
 
 ### Models/Projects
 
-*   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
+*   [Ladder Network (⭐102)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 
 ## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
@@ -566,7 +566,7 @@
 
 ### Integrations
 
-*   [remount (⭐618)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐623)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
@@ -637,7 +637,7 @@
 
 ### Non-JavaScript Libraries / Themes
 
-*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
+*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.6k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -702,7 +702,7 @@
 
 ### Package Repositories
 
-*   [bandersnatch (⭐340)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐347)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ## [32. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -723,11 +723,11 @@
 
 ### Date and Time Processing
 
-*   [timezone (⭐316)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐318)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐178)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐188)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -745,7 +745,7 @@
 
 ### Transport-layer defenses / Threat signature packages and collections
 
-*   [MITMEngine (⭐602)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
+*   [MITMEngine (⭐631)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -779,7 +779,7 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐7.7k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐7.8k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
@@ -787,7 +787,7 @@
 
 ### Package Management
 
-*   [Sleet (⭐286)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐293)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [42. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 

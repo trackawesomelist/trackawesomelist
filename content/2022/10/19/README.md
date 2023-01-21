@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Template Engine
 
-*   [Handlebars.Net (⭐946)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
+*   [Handlebars.Net (⭐959)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
 ## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [vint (⭐665)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
+*   [vint (⭐664)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [kunalsheth/units-of-measure (⭐84)](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
+*   [kunalsheth/units-of-measure (⭐85)](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Container Composition
 
-*   [box (⭐236)](https://github.com/box-builder/box) :skull: - Build Dockerfile images with a mruby DSL, includes flattening and layer manipulation
+*   [box (⭐235)](https://github.com/box-builder/box) :skull: - Build Dockerfile images with a mruby DSL, includes flattening and layer manipulation
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -178,7 +178,7 @@
 
 ## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Metascience / Literature Visualization
+### Science Logology / Literature Visualization
 
 *   [Galex: Exploring the evolution and intersection of disciplines](http://cic.tju.edu.cn/faculty/zhangjiawan/Jiawan_Zhang_files/paper/zeyuli2020.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13313104491218225635\&hl=en\&as_sdt=0,5)].
 
@@ -192,15 +192,19 @@
 
 *   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Python / Constraint Logic Programming (extended Prolog)
+### Data Science
 
-*   [Clean Architectures in Python - A practical approach to better software design (2022)](https://www.thedigitalcatbooks.com/pycabook-introduction/) - Leonardo Giordani (3.x) (PDF)
+*   [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)
 
-### Ruby / Ruby on Rails
+### Information Retrieval
 
-*   [Learn Ruby on Rails: Book Two](https://learn-rails.com/content/learnrails2) - Daniel Kehoe
+*   [Information Retrieval: Implementing and Evaluating Search Engines](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) - Stefan Böttcher, Charles L. A. Clarke, Gordon V. Cormack (PDF)
+
+### Mathematics For Computer Science
+
+*   [Isomorphism -- Mathematics of Programming (⭐2.5k)](https://github.com/liuxinyu95/unplugged) - Larry LIU Xinyu
 
 ## [19. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

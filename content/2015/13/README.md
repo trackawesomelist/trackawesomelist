@@ -2,7 +2,7 @@
 
 13 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -193,7 +193,7 @@
 
 ### Core Data
 
-*   [JSQCoreDataKit (⭐596)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
+*   [JSQCoreDataKit (⭐597)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 

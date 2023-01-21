@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,7 +19,7 @@
 
 *   [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
 *   [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
-*   [EHRServer (⭐144)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
+*   [EHRServer (⭐146)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
 *   [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
 
 ### Contents / Specifications
@@ -41,17 +41,17 @@
 
 ### Contents / Libraries
 
-*   [Archie (⭐47)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
+*   [Archie (⭐48)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
 *   [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-*   [dicom (⭐785)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
-*   [Fellow Oak DICOM (⭐871)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
-*   [FHIR protocol buffers (⭐680)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
-*   [php-fhir (⭐87)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
-*   [pynetdicom (⭐402)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
+*   [dicom (⭐794)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+*   [Fellow Oak DICOM (⭐879)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+*   [FHIR protocol buffers (⭐687)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
+*   [php-fhir (⭐88)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
+*   [pynetdicom (⭐407)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
 
 ### Contents / Data
 
-*   [Inferno (⭐88)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
+*   [Inferno (⭐89)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
 
 ### Contents / Machine learning
 

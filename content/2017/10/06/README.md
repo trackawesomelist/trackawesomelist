@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -111,13 +111,9 @@
 
 ## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Third party Guides
-
-*   [whats-new-in-swift-4 (⭐1.8k)](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
-
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐295)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐296)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

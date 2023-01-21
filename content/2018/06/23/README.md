@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### External Links / Wikis
 
-*   [Awesome Public Datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+*   [Awesome Public Datasets (⭐53k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 
 ## [3. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

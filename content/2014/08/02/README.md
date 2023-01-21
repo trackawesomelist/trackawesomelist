@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -112,7 +112,7 @@
 
 ### Clojure / Data Analysis
 
-*   [PigPen (⭐542)](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
+*   [PigPen (⭐541)](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
 
 ### Python / Data Analysis / Data Visualization
 
@@ -123,8 +123,8 @@
 
 *   [Allen Downey’s Data Science Course (⭐41)](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
 *   [Allen Downey’s Think Bayes Code (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
-*   [Allen Downey’s Think Complexity Code (⭐94)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
-*   [Allen Downey’s Think OS Code (⭐512)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
+*   [Allen Downey’s Think Complexity Code (⭐96)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
+*   [Allen Downey’s Think OS Code (⭐513)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 
 ---
 

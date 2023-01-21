@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 03, 2017
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -76,7 +76,7 @@
 
 ### Machine Learning
 
-*   [ai4cr (⭐26)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐709)](https://github.com/SergioFierens/ai4r))
+*   [ai4cr (⭐26)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐708)](https://github.com/SergioFierens/ai4r))
 
 ## [7. Bots](/content/hackerkid/bots/README.md)
 
@@ -2117,13 +2117,7 @@
 
 
 
-## [10. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Iowa City](https://www.meetup.com/techcorridorio)
-
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Testing / Barcode
 
@@ -2133,32 +2127,32 @@
 
 *   [Swift-Prompts (⭐736)](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
 
-## [12. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [11. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Other
 
 *   [framer-bootstrap (⭐31)](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment.
 
-## [13. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [12. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Gitential.com](https://gitential.com) - Measure and visualize coding hours, productivity, efficiency of projects, teams, repos or individual developers.
 
-## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Research Papers
 
 *   [A Car Hacking Experiment: When Connectivity Meets Vulnerability](http://ieeexplore.ieee.org/abstract/document/7413993/)
 *   [Security issues and vulnerabilities in connected car systems](http://ieeexplore.ieee.org/abstract/document/7223297/)
 
-## [15. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [14. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Services / Nice-to-have :thumbsup:
 
 *   [Abstract](https://www.goabstract.com/) - Version control and collaboration for Sketch files.
 
-## [16. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [15. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Backup
 

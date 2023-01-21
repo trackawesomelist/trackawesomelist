@@ -1,52 +1,46 @@
 # Awesome List Updates on Jul 27 - Aug 02, 2015
 
-28 awesome lists updated this week.
+27 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
-
-### Utils / Third Party
-
-*   [d3-Labeler (⭐211)](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
-
-## [2. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [1. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / Clojure
 
 *   [Why are Clojure's `let` and `for` both monads?](http://stackoverflow.com/a/21763329/1766338)
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
 *   [SELA (⭐207)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
-## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [3. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### R Development
 
 *   [drat (⭐142)](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
 
-## [5. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [4. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Articles / Other
 
 *   [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cryptography
 
-*   [StreamCryptor (⭐123)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
+*   [StreamCryptor (⭐122)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 
 ### ORM
 
 *   [LINQ to DB (⭐2.5k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 
-## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [6. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -76,13 +70,13 @@
 *   Please make an individual commit for each suggestion
 *   Add a new category if needed.
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐709)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐716)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
-## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [8. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Subjects / IOS Development
 
@@ -101,7 +95,7 @@
 
 *   [はてな教科書 (⭐2.2k)](https://github.com/hatena/Hatena-Textbook) (cc-nc-sa) - はてな研修用教科書
 
-## [10. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
@@ -109,31 +103,31 @@
 
 ### For Developers / Directory Navigation
 
-*   [bocker (⭐10k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+*   [bocker (⭐11k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 
 ### System Utilities / Directory Navigation
 
 *   [glances (⭐22k)](https://github.com/nicolargo/glances) - Glances an Eye on your system
 
-## [11. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [10. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### conversion
 
-*   [esri2open (⭐248)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+*   [esri2open (⭐247)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Podcasts / Other
 
 *   [enaqx/awesome-react (⭐53k)](https://github.com/enaqx/awesome-react)
 
-## [13. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [12. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Distributed Computing and Programming
 
 *   [Spark Packages](http://spark-packages.org/) - A community index of packages for Apache Spark
 
-## [14. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [13. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Community
 
@@ -142,7 +136,7 @@
 *   [Stack Overflow `purescript` tag](http://stackoverflow.com/questions/tagged/purescript)
 *   [Google Group](https://groups.google.com/forum/#!forum/purescript)
 
-## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Animations
 
@@ -156,7 +150,7 @@
 
 *   [KAndroid (⭐893)](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 
-## [16. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [15. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
@@ -166,7 +160,7 @@
 
 *   [Australia & New Zealand](http://devanz.co)
 
-## [17. Tips](/content/git-tips/tips/week/README.md)
+## [16. Tips](/content/git-tips/tips/week/README.md)
 
 ## What changed since two weeks?
 
@@ -196,14 +190,14 @@ git branch -a --contains <commit-ish>
 git branch --contains <commit-ish>
 ```
 
-## [18. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [17. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Testing / Dojo 2
 
 *   [Intern User guide](https://theintern.github.io/intern/#what-is-intern) - A quite complete manual about how to use The Intern
 *   [Intern Yeoman page objects (⭐1)](https://github.com/glamb/generator-internjs-pageobjects/) - A Yeoman generator to create unit test and suites
 
-## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [18. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / A individuals
 
@@ -225,7 +219,7 @@ git branch --contains <commit-ish>
 
 *   Nikolay Nemshilov <http://nikolay.rocks/>
 
-## [20. Typography](/content/deanhume/typography/week/README.md)
+## [19. Typography](/content/deanhume/typography/week/README.md)
 
 ### Books
 
@@ -235,7 +229,7 @@ git branch --contains <commit-ish>
 
 *   [Sessions with Typography](http://www.sessions-with-typography.com)
 
-## [21. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [20. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Design
 
@@ -267,7 +261,7 @@ git branch --contains <commit-ish>
 ### Node.js Clients
 
 *   [restler (⭐2k)](https://github.com/danwrong/restler) - REST client library for node.js.
-*   [unirest for Node.js (⭐943)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+*   [unirest for Node.js (⭐944)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
 
 ### Directly On Top Of A RMDB
 
@@ -279,7 +273,7 @@ git branch --contains <commit-ish>
 *   [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 *   [mers (⭐344)](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
 *   [Baucis (⭐651)](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
-*   [flatiron/resourceful (⭐354)](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
+*   [flatiron/resourceful (⭐353)](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 *   [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 
 ### PHP
@@ -290,13 +284,13 @@ git branch --contains <commit-ish>
 *   [Restler (⭐1.4k)](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
 *   [HAL (⭐204)](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
 *   [Apigility (⭐450)](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
-*   [phprest (⭐313)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
+*   [phprest (⭐312)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 *   [Hateoas (⭐998)](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 
 ### PHP / Symfony2
 
 *   [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
-*   [FOSRestBundle (⭐2.7k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
+*   [FOSRestBundle (⭐2.8k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 *   [stanlemon/rest-bundle (⭐123)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 *   [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
 *   [BazingaHateoasBundle (⭐292)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐998)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
@@ -332,7 +326,7 @@ git branch --contains <commit-ish>
 
 ### Mocking / Symfony2
 
-*   [FakeRest (⭐396)](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
+*   [FakeRest (⭐397)](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
 *   [json-server (⭐65k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 *   [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
 
@@ -357,14 +351,14 @@ git branch --contains <commit-ish>
 
 *   [ng-admin (⭐4k)](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 
-## [22. Amas](/content/sindresorhus/amas/week/README.md)
+## [21. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Kyle Robinson Young (⭐1)](https://github.com/shama/ama) - Makes stuff and likes bears.
 *   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐213)](https://github.com/nodejs/iojs.org).
 
-## [23. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Simultaneous localization and mapping / Tracking/Odometry:
 
@@ -374,7 +368,7 @@ git branch --contains <commit-ish>
 
 *   [AI Shack](http://aishack.in/) - Utkarsh Sinha
 
-## [24. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [23. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### References
 
@@ -385,7 +379,7 @@ git branch --contains <commit-ish>
 *   [gamedev (⭐10k)](https://github.com/ellisonleao/magictools) - A awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
 
-## [25. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
@@ -395,7 +389,7 @@ git branch --contains <commit-ish>
 
 *   [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** \[46:17]
 
-## [26. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
+## [25. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
 
 ### Monitor Color Correction / Sony
 
@@ -409,13 +403,13 @@ git branch --contains <commit-ish>
 
 *   [Flickr Open Source Photography Group](https://www.flickr.com/groups/83823859@N00/)
 
-## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Testing
 
 *   [mocks.cr (⭐50)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
 
-## [28. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [27. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Unofficial
 

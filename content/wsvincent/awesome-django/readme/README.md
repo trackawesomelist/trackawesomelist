@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to Django
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wsvincent/awesome-django/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) · ⭐ 6.2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wsvincent/awesome-django/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) · ⭐ 6.2K · 🏷️ Programming Languages
 
 [ [Daily](/content/wsvincent/awesome-django/README.md) / [Weekly](/content/wsvincent/awesome-django/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 A collection of awesome Ruby Gems for Rails development.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hothero/awesome-rails-gem/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) · ⭐ 2.8K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hothero/awesome-rails-gem/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) · ⭐ 2.8K · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/hothero/awesome-rails-gem/week/README.md) / [Overview](/content/hothero/awesome-rails-gem/readme/README.md) ]
 

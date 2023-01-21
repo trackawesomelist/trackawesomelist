@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 *   [sparforte](http://sparforte.com/) - SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
 *   [gsh (⭐89)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
-*   [gnatcoll-scripts-shell (⭐36)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
+*   [gnatcoll-scripts-shell (⭐42)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
 
 ### Programming Languages / Other / unknown licence
 
@@ -48,7 +48,7 @@
 
 ### Text & Rich Content / Image Picker
 
-*   [AutoSizeText (⭐1.7k)](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
+*   [AutoSizeText (⭐1.8k)](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

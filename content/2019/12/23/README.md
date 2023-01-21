@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,17 +10,17 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [Percona Monitoring and Management (⭐298)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
+*   [Percona Monitoring and Management (⭐305)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Citus (⭐7.7k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+*   [Citus (⭐7.8k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
 *   [patroni (⭐5.1k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
-*   [Percona XtraDB Cluster (⭐302)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
+*   [Percona XtraDB Cluster (⭐304)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
 *   [stolon (⭐4k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
-*   [pg\_auto\_failover (⭐848)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
-*   [pglookout (⭐156)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
-*   [PostgreSQL Automatic Failover (⭐316)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
+*   [pg\_auto\_failover (⭐850)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+*   [pglookout (⭐155)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
+*   [PostgreSQL Automatic Failover (⭐317)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 
 ### Kubernetes / Zabbix
 
@@ -76,7 +76,7 @@
 
 ### Other Hardware
 
-*   [NFCPassportReader (⭐568)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
+*   [NFCPassportReader (⭐581)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
 ## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -104,7 +104,7 @@
 
 ### 3D
 
-*   [3DreamEngine (⭐241)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+*   [3DreamEngine (⭐243)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

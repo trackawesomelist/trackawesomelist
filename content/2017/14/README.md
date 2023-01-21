@@ -2,7 +2,7 @@
 
 45 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -173,7 +173,7 @@ git checkout master@{yesterday}
 
 ### Database Drivers
 
-*   [asyncpgsa (⭐403)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
+*   [asyncpgsa (⭐404)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
 
 ## [20. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
@@ -441,16 +441,16 @@ $ git config --global merge.tool meld
 
 ### Programming / Python
 
-*   [Nengo (⭐715)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
-*   [Nitime (⭐210)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
-*   [MNE-Python (⭐2k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
-*   [NiBabel (⭐499)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+*   [Nengo (⭐730)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
+*   [Nitime (⭐212)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+*   [MNE-Python (⭐2.1k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+*   [NiBabel (⭐511)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
 *   [PsychoPy (⭐1.3k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
 *   [NuPic (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 
 ### Programming / Matlab
 
-*   [FieldTrip (⭐658)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
+*   [FieldTrip (⭐683)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 *   [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
 ### Resources / MOOCs
@@ -465,7 +465,7 @@ $ git config --global merge.tool meld
 
 ### Models/Projects
 
-*   [CNN visualization using Tensorflow (⭐776)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
+*   [CNN visualization using Tensorflow (⭐778)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
 
 ## [39. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 

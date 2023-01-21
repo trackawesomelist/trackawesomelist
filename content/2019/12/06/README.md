@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,10 +11,6 @@
 ### Software / Money, Budgeting & Management
 
 *   [InvoicePlane (⭐2.1k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
-
-### Software / Wikis
-
-*   [jingo (⭐1k)](https://github.com/claudioc/jingo) - Git based wiki engine written for node.js, with a decent design, a search capability and good typography. `MIT` `Nodejs`
 
 ## [2. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 
@@ -26,7 +22,7 @@
 
 ### UI
 
-*   [Beautiful\_Popup (⭐548)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
+*   [Beautiful\_Popup (⭐566)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
 
 ---
 

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Package Repositories
 
-*   [bandersnatch (⭐340)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐347)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ## [2. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐178)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐188)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Transport-layer defenses / Threat signature packages and collections
 
-*   [MITMEngine (⭐602)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
+*   [MITMEngine (⭐631)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

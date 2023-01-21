@@ -2,7 +2,7 @@
 
 61 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,13 +27,13 @@
 ### Open Sources Intelligence (OSINT) / Web application and resource analysis tools
 
 *   [BlindElephant](http://blindelephant.sourceforge.net/) - Web application fingerprinter.
-*   [EyeWitness (⭐3.8k)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
-*   [VHostScan (⭐984)](https://github.com/codingo/VHostScan) - Virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+*   [EyeWitness (⭐3.9k)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+*   [VHostScan (⭐1k)](https://github.com/codingo/VHostScan) - Virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [Wappalyzer](https://www.wappalyzer.com/) - Wappalyzer uncovers the technologies used on websites.
 *   [WhatWaf (⭐2.1k)](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
-*   [WhatWeb (⭐4.2k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
-*   [wafw00f (⭐3.7k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
-*   [webscreenshot (⭐595)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
+*   [WhatWeb (⭐4.3k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
+*   [wafw00f (⭐3.9k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
+*   [webscreenshot (⭐605)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
 
 ### Web Exploitation / Social Engineering Tools
 
@@ -48,33 +48,33 @@
 
 ### Web Exploitation / Web file inclusion tools
 
-*   [Kadimus (⭐484)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
-*   [LFISuite (⭐1.3k)](https://github.com/D35m0nd142/LFISuite) - Automatic LFI scanner and exploiter.
-*   [fimap (⭐369)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
-*   [liffy (⭐110)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
+*   [Kadimus (⭐487)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
+*   [LFISuite (⭐1.4k)](https://github.com/D35m0nd142/LFISuite) - Automatic LFI scanner and exploiter.
+*   [fimap (⭐386)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
+*   [liffy (⭐111)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
 
 ### Web Exploitation / Web injection tools
 
-*   [Commix (⭐3.5k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
-*   [NoSQLmap (⭐2.2k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
+*   [Commix (⭐3.6k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
+*   [NoSQLmap (⭐2.3k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
 *   [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
 
 ### Web Exploitation / Web path discovery and bruteforcing tools
 
-*   [dirsearch (⭐8.7k)](https://github.com/maurosoria/dirsearch) - Web path scanner.
+*   [dirsearch (⭐9k)](https://github.com/maurosoria/dirsearch) - Web path scanner.
 *   [recursebuster (⭐230)](https://github.com/c-sto/recursebuster) - Content discovery tool to perform directory and file bruteforcing.
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Browser Exploitation Framework (BeEF) (⭐7.8k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
+*   [Browser Exploitation Framework (BeEF) (⭐8k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
 *   [DAws (⭐567)](https://github.com/dotcppfile/DAws) - Advanced Web shell.
 
 ### Web Exploitation / Web-accessible source code ripping tools
 
 *   [DVCS Ripper (⭐1.5k)](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR.
 *   [GitTools (⭐3.2k)](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
-*   [git-dumper (⭐981)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
-*   [git-scanner (⭐271)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
+*   [git-dumper (⭐1k)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
+*   [git-scanner (⭐281)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
 
 ## [4. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [EffekseerForGodot3 (⭐104)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
+*   [EffekseerForGodot3 (⭐109)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
 
 ## [9. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -320,35 +320,35 @@
 
 ### UI
 
-*   [Timeline Tile (⭐529)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Timeline Tile (⭐544)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ### Text & Rich Content / Image Picker
 
-*   [Code Field (⭐150)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
+*   [Code Field (⭐162)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
 
 ### Templates / Preferences
 
-*   [Beautiful Timelines (⭐223)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Beautiful Timelines (⭐233)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐471)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
+*   [Gokapi (⭐503)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Source Code (⭐2.2k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Source Code (⭐2.3k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code (⭐33k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code (⭐34k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐333)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐352)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
 ## [27. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -410,8 +410,8 @@
 ### Demo
 
 *   [Sitecore.Demo.Headless (⭐22)](https://github.com/Sitecore/Sitecore.Demo.Headless) - Sitecore JSS PWA demo assets and future "Sitecore Headless" related demo assets.
-*   [Sitecore DXP Demo (⭐23)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
-*   [Sitecore Developer Portal (⭐10)](https://github.com/Sitecore/developer-portal) - Sitecore developer portal is built with Next.js, Typescript, Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
+*   [Sitecore DXP Demo (⭐24)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [Sitecore Developer Portal (⭐11)](https://github.com/Sitecore/developer-portal) - Sitecore developer portal is built with Next.js, Typescript, Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
 
 ### JSS
 
@@ -480,16 +480,16 @@
 ### Programming Languages
 
 *   [C (⭐3k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐578)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐581)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐630)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐632)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐3.2k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-*   [Alfred Workflows (⭐2.6k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+*   [Fish (⭐3.3k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Alfred Workflows (⭐2.7k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
 
@@ -497,21 +497,21 @@
 
 ### Business
 
-*   [Developer-First Products (⭐327)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐336)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐52k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐53k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Testing
 
-*   [Quality Assurance Roadmap (⭐1.2k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
+*   [Quality Assurance Roadmap (⭐1.3k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 
 ### Miscellaneous
 
-*   [Userscripts (⭐968)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-*   [Agriculture (⭐899)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-*   [Translations (⭐64)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Userscripts (⭐996)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
+*   [Agriculture (⭐922)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
+*   [Translations (⭐68)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [39. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -527,26 +527,26 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-diagram-editor (⭐71)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
+*   [vue-diagram-editor (⭐73)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-typical (⭐153)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
+*   [vue-typical (⭐152)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
 
 ## [41. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐120)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
-*   [vite-plugin-mpa (⭐158)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
+*   [vite-plugin-cesium (⭐123)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-mpa (⭐159)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐124)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐137)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ### Vue CLI / Community
 
-*   [vue-cli-plugin-vite (⭐376)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
+*   [vue-cli-plugin-vite (⭐379)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
 
 ## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -560,7 +560,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐3.8k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐4k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
 ## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -572,7 +572,7 @@
 
 ### App Routing
 
-*   [Composable Navigator (⭐531)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
+*   [Composable Navigator (⭐538)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 
 ## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -707,52 +707,52 @@
 ### Libraries
 
 *   2D
-    *   [imgui (⭐43k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. \[MIT]
-    *   [Skia](https://skia.googlesource.com/skia) - Google's 2D graphics library has a [Vulkan](https://skia.org/user/special/vulkan) [backend (⭐7k)](https://github.com/google/skia/tree/master/src/gpu/vk), demonstrated in a cross-platform [sample application](https://skia.org/user/sample/viewer) with its own [window library (⭐7k)](https://github.com/google/skia/tree/master/tools/viewer). \[BSD 3-clause] [website](https://skia.org)
-    *   [VKVG (⭐593)](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
+    *   [imgui (⭐44k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. \[MIT]
+    *   [Skia](https://skia.googlesource.com/skia) - Google's 2D graphics library has a [Vulkan](https://skia.org/user/special/vulkan) [backend (⭐7.1k)](https://github.com/google/skia/tree/master/src/gpu/vk), demonstrated in a cross-platform [sample application](https://skia.org/user/sample/viewer) with its own [window library (⭐7.1k)](https://github.com/google/skia/tree/master/tools/viewer). \[BSD 3-clause] [website](https://skia.org)
+    *   [VKVG (⭐604)](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
 *   Compute
-    *   [libvc (⭐127)](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  \[[LICENSE (⭐127)](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
+    *   [libvc (⭐126)](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  \[[LICENSE (⭐126)](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
     *   [Vulkan Kompute (⭐1k)](https://github.com/axsaucedo/vulkan-kompute) - Blazing fast and lightweight Vulkan Compute Framework optimized for advanced GPU processing usecases. \[Apache License 2.0]
     *   [ncnn (⭐16k)](https://github.com/Tencent/ncnn) - High-performance neural network inference framework with Vulkan based GPU inference. \[BSD 3-clause]
-    *   [vuh (⭐319)](https://github.com/Glavnokoman/vuh) - Vulkan-based C++ GPGPU computing framework. \[MIT]
-    *   [VkFFT (⭐940)](https://github.com/DTolm/VkFFT) - Efficient Vulkan FFT library \[MPL-2.0 License]
+    *   [vuh (⭐321)](https://github.com/Glavnokoman/vuh) - Vulkan-based C++ GPGPU computing framework. \[MIT]
+    *   [VkFFT (⭐960)](https://github.com/DTolm/VkFFT) - Efficient Vulkan FFT library \[MPL-2.0 License]
 *   Frameworks, Engines, Higher Level Rendering
-    *   [Auto-Vk (⭐113)](https://github.com/cg-tuwien/Auto-Vk) - Vulkan convenience and productivity layer for modern C++, atop Vulkan-Hpp, by the Research Unit of Computer Graphics, TU Wien. \[MIT]
-    *   [Auto-Vk-Toolkit (⭐217)](https://github.com/cg-tuwien/Auto-Vk-Toolkit) - C++ framework around [Auto-Vk (⭐113)](https://github.com/cg-tuwien/Auto-Vk) for rapid prototyping, research, and teaching, by the Research Unit of Computer Graphics, TU Wien. \[MIT for the framework's code]
-    *   [Falcor (⭐1.8k)](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting mainly DX12, with experimental Vulkan support. \[BSD 3-clause]
-    *   [The-Forge (⭐3.3k)](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. \[Apache License 2.0]
+    *   [Auto-Vk (⭐115)](https://github.com/cg-tuwien/Auto-Vk) - Vulkan convenience and productivity layer for modern C++, atop Vulkan-Hpp, by the Research Unit of Computer Graphics, TU Wien. \[MIT]
+    *   [Auto-Vk-Toolkit (⭐218)](https://github.com/cg-tuwien/Auto-Vk-Toolkit) - C++ framework around [Auto-Vk (⭐115)](https://github.com/cg-tuwien/Auto-Vk) for rapid prototyping, research, and teaching, by the Research Unit of Computer Graphics, TU Wien. \[MIT for the framework's code]
+    *   [Falcor (⭐1.9k)](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting mainly DX12, with experimental Vulkan support. \[BSD 3-clause]
+    *   [The-Forge (⭐3.4k)](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. \[Apache License 2.0]
     *   [Diligent Engine (⭐2.6k)](https://github.com/DiligentGraphics/DiligentEngine) - a modern cross-platform low-level graphics library that supports OpenGL/GLES, Direct3D11/12 and Vulkan. \[Apache License 2.0]
-    *   [DemoFramework (⭐180)](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 cross-platform demo framework including lots of samples for Vulkan, OpenGL ES, OpenVX, OpenCL, OpenVG and OpenCV. \[[BSD-3-clause (⭐180)](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
-    *   [bgfx (⭐12k)](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. \[[BSD-2-clause (⭐12k)](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
+    *   [DemoFramework (⭐184)](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 cross-platform demo framework including lots of samples for Vulkan, OpenGL ES, OpenVX, OpenCL, OpenVG and OpenCV. \[[BSD-3-clause (⭐184)](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
+    *   [bgfx (⭐13k)](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. \[[BSD-2-clause (⭐13k)](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
     *   [Cinder (⭐5k)](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). \[BSD]
     *   [openFrameworks (⭐65)](https://github.com/openframeworks-vk/openFrameworks) - the most famouse C++ creative coding framework. \[MIT]
     *   [bsf (⭐1.7k)](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. \[MIT]
-    *   [glfw (⭐9.8k)](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  \[[LICENSE (⭐9.8k)](https://github.com/glfw/glfw/blob/master/LICENSE.md)]
+    *   [glfw (⭐10k)](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  \[[LICENSE (⭐10k)](https://github.com/glfw/glfw/blob/master/LICENSE.md)]
     *   [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109) - added cross-platform Vulkan graphics support in SDL\_vulkan.h. \[zlib]
     *   [Acid (⭐1.4k)](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. \[MIT]
-    *   [liblava (⭐571)](https://github.com/liblava/liblava) - A modern C++ and easy-to-use framework. \[MIT]
-    *   [AMD's Anvil (⭐569)](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. \[[LICENSE (⭐569)](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
-    *   [Introductory Vulkan sample (⭐105)](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). \[MIT]
+    *   [liblava (⭐582)](https://github.com/liblava/liblava) - A modern C++ and easy-to-use framework. \[MIT]
+    *   [AMD's Anvil (⭐573)](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. \[[LICENSE (⭐573)](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
+    *   [Introductory Vulkan sample (⭐106)](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). \[MIT]
     *   [Intrinsic Engine (⭐1k)](https://github.com/begla/Intrinsic) - Intrinsic is a Vulkan based cross-platform graphics and game engine. \[Apache License 2.0]
     *   [Spectrum (⭐15)](https://github.com/mwalczyk/spectrum_core) - Work-in-progress framework and abstraction layer around Vulkan.
-    *   [VkHLF (⭐325)](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [\[LICENSE\] (⭐325)](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
-    *   [Lugdunum (⭐236)](https://github.com/Lugdunum3D/Lugdunum) - Modern cross-platform 3D rendering engine built with Vulkan and modern C++14. \[MIT]
-    *   [Pumex (⭐283)](https://github.com/pumexx/pumex) - cross-platform Vulkan renderer implementing frame graph and simple scene graph. Able to render on many surfaces at once \[MIT]
+    *   [VkHLF (⭐327)](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [\[LICENSE\] (⭐327)](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
+    *   [Lugdunum (⭐235)](https://github.com/Lugdunum3D/Lugdunum) - Modern cross-platform 3D rendering engine built with Vulkan and modern C++14. \[MIT]
+    *   [Pumex](https://github.com/pumexx/pumex) - cross-platform Vulkan renderer implementing frame graph and simple scene graph. Able to render on many surfaces at once \[MIT]
     *   [small3d](https://www.gamedev.net/projects/515-small3d/), Tiny Vulkan based C++ cross-platform game development framework \[BSD 3-clause]
     *   [Logi (⭐11)](https://github.com/UL-FRI-LGM/Logi) - Light-weight object oriented Vulkan abstraction framework. \[BSD 2-clause]
-    *   [PowerVR SDK (⭐589)](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. \[[LICENSE (⭐589)](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
+    *   [PowerVR SDK (⭐594)](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. \[[LICENSE (⭐594)](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 *   Raytracing
-    *   [Quartz (⭐412)](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. \[LGPL-3.0]
+    *   [Quartz (⭐415)](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. \[LGPL-3.0]
 *   Scientific
-    *   [datoviz (⭐404)](https://github.com/datoviz/datoviz) - High-performance GPU interactive scientific data visualization with Vulkan. \[MIT]
+    *   [datoviz (⭐416)](https://github.com/datoviz/datoviz) - High-performance GPU interactive scientific data visualization with Vulkan. \[MIT]
     *   [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK) - C++ toolkit for building surgical simulations with Vulkan and VTK backends. \[Apache License 2.0]
 *   Shaders
-    *   [glslang (⭐2.3k)](https://github.com/KhronosGroup/glslang) - Library for compiling glsl to spirv \[BSD 3-Clause]
+    *   [glslang (⭐2.4k)](https://github.com/KhronosGroup/glslang) - Library for compiling glsl to spirv \[BSD 3-Clause]
     *   [SPIRV-Cross (⭐1.6k)](https://github.com/KhronosGroup/SPIRV-Cross) - Library for reflection of spirv, simplify the creation of Vulkan pipeline layouts \[ Apache-2.0 License]
 
 ### Bindings
 
-*   [VK² (⭐100)](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power \[Apache License 2.0]
+*   [VK² (⭐101)](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power \[Apache License 2.0]
 
 ## [48. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
@@ -818,7 +818,7 @@
 
 ### Individual components / Others
 
-*   [BlazorTypewriter (⭐11)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
+*   [BlazorTypewriter (⭐12)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
 
 ## [56. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
@@ -875,7 +875,7 @@
 
 ### Projects
 
-*   [yew-train-ticket (⭐4)](https://github.com/anthhub/yew-train-ticket) - A Rust WebAssembly [Webapp](http://118.190.37.169:8002) example basing Yew newest hooks and functional API, the code style is extremely like React Function Component.
+*   [yew-train-ticket (⭐5)](https://github.com/anthhub/yew-train-ticket) - A Rust WebAssembly [Webapp](http://118.190.37.169:8002) example basing Yew newest hooks and functional API, the code style is extremely like React Function Component.
 
 ## [59. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -887,7 +887,7 @@
 
 ### Infinite Scroll
 
-*   [react-window (⭐13k)](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
+*   [react-window (⭐14k)](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
 
 ### Map
 
@@ -895,14 +895,14 @@
 
 ### Miscellaneous
 
-*   [react-darkreader (⭐247)](https://github.com/Turkyden/react-darkreader) - 🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.
+*   [react-darkreader (⭐251)](https://github.com/Turkyden/react-darkreader) - 🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.
 
 ### Form Components / Rich Text Editor
 
 *   [edtr-io (⭐695)](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
-*   [remirror (⭐1.9k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
+*   [remirror (⭐2k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
 *   [slate (⭐26k)](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
-*   [smartblock (⭐255)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
+*   [smartblock (⭐261)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
 
 ### Meta Tags / Mouse Events
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -236,7 +236,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning in MatLab/Octave (⭐753)](https://github.com/trekhleb/machine-learning-octave) - examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+*   [Machine Learning in MatLab/Octave (⭐764)](https://github.com/trekhleb/machine-learning-octave) - examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 ## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -246,7 +246,7 @@
 
 ### Scripting
 
-*   [sol2 (⭐3.2k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
+*   [sol2 (⭐3.3k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
 
 ---
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 24, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,12 +43,6 @@
 ### Traffic Analysis/Inspection
 
 *   [yaraprocessor (⭐94)](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
-
-## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Charts
-
-*   [d3.chart.sankey (⭐105)](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 
 ---
 

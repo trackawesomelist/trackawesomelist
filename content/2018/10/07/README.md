@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,7 +27,7 @@
 ### System Programming
 
 *   **Embedded systems**
-    *   [OMicroB (⭐103)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
+    *   [OMicroB (⭐110)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
     *   [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) - An OCaml virtual machine for PIC18 micro-controlers.
     *   [ocaml-esp32 (⭐17)](https://github.com/sadiqj/ocaml-esp32) - A compiler for ESP32 SoC.
 
@@ -35,12 +35,12 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [homebox (⭐335)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
+*   [homebox (⭐349)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
 *   [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code (⭐871)](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
+*   [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code (⭐882)](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
 *   [WordPress](https://wordpress.org/) - World's most-used blogging and CMS engine. ([Source Code (⭐17k)](https://github.com/WordPress/WordPress)) `GPL-2.0` `PHP`
 
 ### Software / Software Development - Project Management

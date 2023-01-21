@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Breadcrumbs (⭐41)](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
+*   [Breadcrumbs (⭐40)](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 
 ## [2. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Using Electron / Other
 
-*   [jest-electron (⭐137)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
+*   [jest-electron (⭐139)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -47,11 +47,11 @@
 ### Free EDA Packages / Installable
 
 *   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-*   [Horizon EDA (⭐774)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+*   [Horizon EDA (⭐849)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐2.6k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐2.8k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### PCB Batching Services / Eagle
 

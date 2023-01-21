@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,11 +20,11 @@
 
 ### Community Extensions
 
-*   [Keycloak Metrics SPI (⭐354)](https://github.com/aerogear/keycloak-metrics-spi)
+*   [Keycloak Metrics SPI (⭐377)](https://github.com/aerogear/keycloak-metrics-spi)
 
 ### Themes
 
-*   [Keywind: Component-based theme built with Tailwind CSS (⭐140)](https://github.com/lukin/keywind)
+*   [Keywind: Component-based theme built with Tailwind CSS (⭐190)](https://github.com/lukin/keywind)
 
 ### Commercial Offerings
 
@@ -51,22 +51,22 @@
 
 ### Tools / Network protocol
 
-*   [MTF-Storm (⭐2)](https://github.com/ntinosk-mtf/etfa2018) - A high performance fuzzer for Modbus/TCP.
+*   [MTF-Storm (⭐3)](https://github.com/ntinosk-mtf/etfa2018) - A high performance fuzzer for Modbus/TCP.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Wrappers
 
-*   [lmdb (⭐29)](https://github.com/antimer/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
+*   [lmdb (⭐30)](https://github.com/antimer/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
 
 ### Miscellaneous
 
-*   [cl-cffi-gtk (⭐130)](https://github.com/crategus/cl-cffi-gtk) - Binding for GTK+3. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+*   [cl-cffi-gtk (⭐132)](https://github.com/crategus/cl-cffi-gtk) - Binding for GTK+3. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
     *   a tutorial: [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
 
 ### Community / Interfaces to other package managers
 
-*   [MGL (⭐335)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐340)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
 
     <!---->
@@ -77,7 +77,7 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [netdiscover (⭐144)](https://github.com/netdiscover-scanner/netdiscover) - Network address discovery scanner, based on ARP sweeps, developed mainly for those wireless networks without a DHCP server.
+*   [netdiscover (⭐153)](https://github.com/netdiscover-scanner/netdiscover) - Network address discovery scanner, based on ARP sweeps, developed mainly for those wireless networks without a DHCP server.
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
@@ -85,23 +85,23 @@
 
 ### Web Exploitation / Social Engineering Tools
 
-*   [gobuster (⭐6.7k)](https://github.com/OJ/gobuster) - Lean multipurpose brute force search/fuzzing tool for Web (and DNS) reconnaissance.
+*   [gobuster (⭐7k)](https://github.com/OJ/gobuster) - Lean multipurpose brute force search/fuzzing tool for Web (and DNS) reconnaissance.
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Learning / Tutorials
+### Tutorials
 
 *   [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - Tutorial on how to build a lending pool using the Reach language.
 *   [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - Tutorial on utilizing PyTEAL and Inner Transactions.
 *   [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - Redux example using WalletConnect.
 
-### Community / Projects
+### Projects / Wallets
 
-*   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐12)](https://github.com/Ripe/algovanity).
+*   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐13)](https://github.com/Ripe/algovanity).
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Promptism
 
 *   [disco-diffusion/Local\_Disco\_Diffusion\_v4\_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
 
@@ -109,8 +109,8 @@
 
 ### GUI
 
-*   [Snektron/vulkan-zig (⭐187)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
-*   [Avokadoen/zig\_vulkan (⭐36)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
+*   [Snektron/vulkan-zig (⭐197)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
+*   [Avokadoen/zig\_vulkan (⭐35)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 
 ---
 

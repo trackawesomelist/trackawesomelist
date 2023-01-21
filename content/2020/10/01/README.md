@@ -2,7 +2,7 @@
 
 39 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -68,9 +68,9 @@
 
 ## [9. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Applications / Editors
+### Editors
 
-*   [ved (⭐1.1k)](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+*   [ved (⭐1.2k)](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 
 ## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-inline-svg (⭐146)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+*   [vue-inline-svg (⭐149)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 
 ## [16. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -228,7 +228,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Socket / Barcode
 
 *   [BlueSocket (⭐1.3k)](https://github.com/Kitura/BlueSocket) - IBM's cross platform low level socket framework.
-*   [BlueSSLService (⭐87)](https://github.com/Kitura/BlueSSLService) - SSL/TLS add-in for IBM's low level socket framework.
+*   [BlueSSLService (⭐88)](https://github.com/Kitura/BlueSSLService) - SSL/TLS add-in for IBM's low level socket framework.
 
 ### Webserver / Barcode
 
@@ -241,7 +241,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Cryptography / Barcode
 
 *   [BlueCryptor (⭐183)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
-*   [BlueRSA (⭐121)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
+*   [BlueRSA (⭐123)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
 
 ### System / Barcode
 
@@ -251,7 +251,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐444)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐445)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -302,13 +302,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
+*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2.1k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
 
 ## [26. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Iteration
 
-*   [trivial-do (⭐13)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [trivial-do (⭐14)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [picl (⭐15)](https://github.com/anlsh/picl) - An (almost) complete port of Python's itertools package, complete with laziness where applicable, and not relying on cl-cont. [MIT](https://opensource.org/licenses/MIT).
 
 ## [27. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
@@ -328,13 +328,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Package suites
 
 *   **[Rust-Bio (⭐1.2k)](https://github.com/rust-bio/rust-bio)** - Rust implementations of algorithms and data structures useful for bioinformatics. \[ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
-*   **[SeqAn (⭐307)](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
+*   **[SeqAn (⭐313)](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
 
 ### Sequence Alignment / Pairwise
 
-*   **[WFA (⭐191)](https://github.com/smarco/WFA)** - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment \[ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
-*   **[Parasail (⭐186)](https://github.com/jeffdaily/parasail)** - SIMD C library for global, semi-global, and local pairwise sequence alignments \[ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
-*   **[MUMmer (⭐327)](https://github.com/mummer4/mummer)** -  A system for rapidly aligning entire genomes, whether in complete or draft form. \[ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
+*   **[WFA (⭐194)](https://github.com/smarco/WFA)** - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment \[ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
+*   **[Parasail (⭐189)](https://github.com/jeffdaily/parasail)** - SIMD C library for global, semi-global, and local pairwise sequence alignments \[ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
+*   **[MUMmer (⭐333)](https://github.com/mummer4/mummer)** -  A system for rapidly aligning entire genomes, whether in complete or draft form. \[ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
 
 ### Sequence Alignment / Multiple Sequence Alignment
 
@@ -350,7 +350,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Contents / Health and Fitness
 
-*   [Covid19-Tracker (⭐31)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
+*   [Covid19-Tracker (⭐32)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
 
 ## [32. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -368,7 +368,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### C / General-Purpose Machine Learning
 
-*   [cONNXr (⭐137)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
+*   [cONNXr (⭐143)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 
 ### C / Computer Vision
 
@@ -376,8 +376,8 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### C++ / General-Purpose Machine Learning
 
-*   [skynet (⭐63)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
-*   [Hopsworks (⭐827)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
+*   [skynet (⭐62)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
+*   [Hopsworks (⭐843)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 
 ### Python / Natural Language Processing
 
@@ -423,20 +423,20 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Python / Computer Vision
 
 *   [face\_recognition (⭐47k)](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
-*   [imutils (⭐4.2k)](https://github.com/jrosebr1/imutils) - A library containing Convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
+*   [imutils (⭐4.3k)](https://github.com/jrosebr1/imutils) - A library containing Convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 
 ### Python / General-Purpose Machine Learning
 
 *   [ML Model building (⭐13)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
 *   [steppy (⭐134)](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces a very simple interface that enables clean machine learning pipeline design.
-*   [SimpleAI (⭐919)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
-*   [neuropredict (⭐92)](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
+*   [SimpleAI (⭐921)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
+*   [neuropredict (⭐93)](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
 *   [imbalanced-learn](https://imbalanced-learn.org/stable/) - Python module to perform under sampling and oversampling with various techniques.
 *   [stacked\_generalization (⭐114)](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technique as a handy library in Python.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [DataVisualization (⭐15)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
+*   [DataVisualization (⭐16)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
 *   [Mars (⭐2.5k)](https://github.com/mars-project/mars) - A tensor-based framework for large-scale data computation which is often regarded as a parallel and distributed version of NumPy.
 
 ### R / General-Purpose Machine Learning
@@ -494,7 +494,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Acabou o café](https://www.listennotes.com/podcasts/acabou-o-caf%C3%A9-archcode-3DQw-pYW_dx/) - Podcast sobre desenvolvimento de sistemas e tecnologia do ArchCode.
 *   [Amarelo Criativo](https://soundcloud.com/amarelocriativo) - Todos os podcasts da Amarelo criativo. Programas diferentes ao longo da semana para trazer informação sobre o mercado criativo, mundo geek e com o humor bem Amarelo.
 *   [PodProgramar](https://podprogramar.com.br/) - Podcast sobre desenvolvimento técnologia comando pela Jessi Zanelato e Ana Eliza, abordam temas iniciantes e avançados.
-*   [PodTag](https://podtag.com.br/) - Podcast comando pelo Luiz Gonçalves que abordam diversos temas sobre tecnologia desde de carreira a techs em si com vários convidades diferentes.
 *   [Start Coding](https://anchor.fm/start-coding) - Start Coding é uma iniciativa online com o objetivo de inserir mulheres na tecnologia. O podcast apresenta temas da computação e a equidade de gênero na área.
 
 ### In Russian

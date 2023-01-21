@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Security monitoring / Service and performance monitoring
 
-*   [osquery (⭐19k)](https://github.com/facebook/osquery) - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
+*   [osquery (⭐20k)](https://github.com/facebook/osquery) - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
 
 ### Threat intelligence / Threat hunting
 
@@ -28,7 +28,7 @@
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [HardenTools (⭐2.3k)](https://github.com/securitywithoutborders/hardentools) - Utility that disables a number of risky Windows features.
+*   [HardenTools (⭐2.4k)](https://github.com/securitywithoutborders/hardentools) - Utility that disables a number of risky Windows features.
 *   [WMI Monitor (⭐113)](https://github.com/realparisi/WMI_Monitor) - Log newly created WMI consumers and processes to the Windows Application event log.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)

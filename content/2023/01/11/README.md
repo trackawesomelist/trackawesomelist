@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 11, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,9 +22,9 @@
 
 ### Knowledge Management
 
-*   [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA.
+*   [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA (PDF only).
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679\&hl=en\&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
 
@@ -90,7 +90,7 @@
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐1.4k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐1.5k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
@@ -104,19 +104,13 @@
 
 ## [8. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / Text processing
+### Text processing
 
 *   [pcre2 (⭐1)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-### The Generative AI Area: history and maps
+### The Generative AI Area: history, maps, and definitions
 
 *   \[🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 
@@ -124,24 +118,22 @@
 
 *   [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting): e-book by Fatih Kadir Akın ([@fkadev](http://twitter.com/fkadev))
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / ChatGPT
 
 *   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
 
-## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Kernels
+### Kernels / Microkernels
 
-*   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel
+*   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 
 ### Training and Materials / Web articles
 
-*   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS
-*   [TGubes-diagrams (⭐13)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams
-*   [Tubes-artwork (⭐8)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS
+*   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 
-## [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Libraries / Haxe
 
@@ -153,7 +145,7 @@
 *   Wireframe
     *   📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - Flat shading / wireframes using Barycentric Coordinates.
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Search / Diagnostics
 
@@ -171,13 +163,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [tmillr/sos.nvim (⭐5)](https://github.com/tmillr/sos.nvim) -  Automatically save all your modified buffers according to a predefined timeout value.
+*   [tmillr/sos.nvim (⭐5)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
 
 ### Indent / Diagnostics
 
 *   [LucasTavaresA/simpleIndentGuides.nvim (⭐4)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
 
-## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### CLI
 
@@ -185,4 +177,5 @@
 
 ---
 
+- Prev: [Jan 12, 2023](/content/2023/01/12/README.md)
 - Next: [Jan 10, 2023](/content/2023/01/10/README.md)

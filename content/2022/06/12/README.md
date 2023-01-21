@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### API
 
-*   [WTelegramClient (⭐422)](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
+*   [WTelegramClient (⭐452)](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -39,11 +39,11 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [tschuchortdev/kotlin-compile-testing (⭐488)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+*   [tschuchortdev/kotlin-compile-testing (⭐514)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
 ### Libraries/Frameworks / Misc
 
-*   [charleskorn/kaml (⭐319)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
+*   [charleskorn/kaml (⭐324)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -71,8 +71,8 @@
 
 ### Network Groups / Monograph
 
-*   [Mathematics (⭐6.4k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐1.8k)](https://github.com/ossu/math) and [CS (⭐126k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   [Mathematics (⭐6.7k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐131k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -85,7 +85,7 @@
 ### Development tools / Embedded
 
 *   nRF
-    *   [nrf-rs/nrf-hal (⭐347)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
+    *   [nrf-rs/nrf-hal (⭐352)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
         [![build badge](https://api.travis-ci.org/nrf-rs/nrf-hal.svg?branch=master)](https://travis-ci.org/nrf-rs/nrf-hal)
 
 ---

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -55,7 +55,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Simple Animations (⭐848)](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
+*   [Simple Animations (⭐877)](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -94,11 +94,11 @@
 ### Types / Playground
 
 *   [typesync (⭐1.3k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [type-fest (⭐9.5k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+*   [type-fest (⭐9.7k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 
-*   :octocat: [armour/vue-typescript-admin-template (⭐4.9k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
+*   :octocat: [armour/vue-typescript-admin-template (⭐5k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Starters & Themes
 
-*   📟 [Next.js PWA (⭐66)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
+*   📟 [Next.js PWA (⭐67)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
 
 ## [2. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -26,11 +26,11 @@
 
 ### Plugin Manager
 
-*   [NTBBloodbath/cheovim (⭐234)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
+*   [NTBBloodbath/cheovim (⭐253)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [NTBBloodbath/doom-one.nvim (⭐127)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
+*   [NTBBloodbath/doom-one.nvim (⭐135)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -53,14 +53,14 @@
 
 ### Tools
 
-*   [Keycloak on AWS (⭐107)](https://github.com/aws-samples/keycloak-on-aws)
-*   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐62)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak on AWS (⭐116)](https://github.com/aws-samples/keycloak-on-aws)
+*   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐63)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [CR.Sparse (⭐48)](https://github.com/carnotresearch/cr-sparse) - XLA accelerated algorithms for sparse representations and compressive sensing. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
+*   [CR.Sparse (⭐53)](https://github.com/carnotresearch/cr-sparse) - XLA accelerated algorithms for sparse representations and compressive sensing. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
 
 ---
 

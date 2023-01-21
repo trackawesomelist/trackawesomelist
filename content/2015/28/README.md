@@ -2,7 +2,7 @@
 
 24 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Packages / Hardware
 
-*   [i2c-bus (⭐316)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
+*   [i2c-bus (⭐319)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 
 ### Packages / Testing
 
@@ -48,7 +48,7 @@
 
 ### Miscellaneous / Third Party
 
-*   [d3-context-menu (⭐133)](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
+*   [d3-context-menu (⭐134)](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

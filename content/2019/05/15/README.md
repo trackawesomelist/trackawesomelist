@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,14 +16,14 @@
 
 ### Others / Third-party APIs
 
-*   [numcl (⭐616)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [numcl (⭐618)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐198)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
-*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐331)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
+*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐201)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
+*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐333)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
 
 ## [4. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
@@ -222,7 +222,7 @@
 
 ### Themes
 
-*   [GOV.UK Theme (⭐96)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
+*   [GOV.UK Theme (⭐99)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 
 ---
 

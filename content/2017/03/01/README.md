@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,11 +20,11 @@
 
 ### Framework Components
 
-*   [rummage\_ecto (⭐207)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
+*   [rummage\_ecto (⭐206)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐349)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐348)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [3. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

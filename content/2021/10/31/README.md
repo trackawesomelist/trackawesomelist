@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,39 +23,31 @@
 
 *   [Game Boy home of Flavor](https://web.archive.org/web/20210427064949/www.personal.triticom.com/\~erm/GameBoy/) - Some full games and sources.
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### C / Non-X86
+### Networking
 
-*   [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
-
-### Elixir / Ecto
-
-*   [The Little Ecto Cookbook](https://dashbit.co/ebooks/the-little-ecto-cookbook) - José Valim, Dashbit (PDF) (email address *required*)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/) - Brian Heinold (HTML, PDF, Exercises sources)
+*   [Securing Wireless Networks for the Home User Guide](https://mohamedation.github.io/securing-wifi/index-en.html) - Mohamed Adel (HTML)
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Raveberry (⭐635)](https://github.com/raveberry/raveberry) - A multi-user music server with a focus on participation. ([Demo](https://demo.raveberry.party/)) `LGPL-3.0` `Python`
+*   [Raveberry (⭐640)](https://github.com/raveberry/raveberry) - A multi-user music server with a focus on participation. ([Demo](https://demo.raveberry.party/)) `LGPL-3.0` `Python`
 
 ### Software / Personal Dashboards
 
-*   [Dashy (⭐8.5k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
+*   [Dashy (⭐9k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 
 ### Software / Software Development - Testing
 
-*   [DeepfakeHTTP (⭐441)](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
+*   [DeepfakeHTTP (⭐448)](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
 
 ## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
-*   [SpikeInterface (⭐139)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
+*   [SpikeInterface (⭐162)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
 
 ### Resources / Miscellaneous
 
@@ -84,7 +76,7 @@
 
 ### Infinite Scroll
 
-*   [af-virtual-scroll (⭐54)](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
+*   [af-virtual-scroll (⭐58)](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
 
 ## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,11 +14,11 @@
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [Octohint (⭐949)](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Octohint (⭐950)](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 The missing IntelliSense hint for GitHub and GitLab
 
-Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
+Installs: 4000 | Stars: 953 | Last update: 4 Feb 2022
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -30,43 +30,53 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 ### Schema / Diagrams
 
-*   [Azimutt (⭐413)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
+*   [Azimutt (⭐434)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 
 ### SQL / Analyzers
 
-*   [SQLLineage (⭐482)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
+*   [SQLLineage (⭐505)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [conda (⭐274)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for conda.
+*   [conda (⭐279)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for conda.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
+*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### TypeScript / Vapor
-
-*   [TypeScript Notes for Professionals](https://goalkicker.com/TypeScriptBook2/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf))
-
-## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Developer Tools
 
 *   [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive and cross-platform web IDE with your OCaml code interpreted and running in your browser!
 
+## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Mathematics
+
+*   [Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1) - Edwin Herman, Gilbert Strang (PDF)
+*   [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) - Edwin Herman, Gilbert Strang (PDF)
+*   [Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3) - Edwin Herman, Gilbert Strang (PDF)
+
+### Networking
+
+*   [Mininet Walkthrough](https://mininet.org/walkthrough/)
+
+### Software Architecture
+
+*   [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Build and Package / Other / unknown licence
 
-*   [aura (⭐15)](https://github.com/annexi-strayline/AURA) - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
+*   [aura (⭐17)](https://github.com/annexi-strayline/AURA) - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
 
 ### Components / Other / unknown licence
 
-*   [asap (⭐3)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
+*   [asap (⭐4)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
 
 ## [9. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -106,7 +116,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 ### Applications
 
-*   [FilePizza ☠️ (⭐3.9k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+*   [FilePizza ☠️ (⭐4k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 
 ## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -116,7 +126,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 ## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 
@@ -124,7 +134,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 ### Templates / Electron
 
-*   [electron-vue-template (⭐216)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+*   [electron-vue-template (⭐233)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 
 ## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

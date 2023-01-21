@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 20, 2022
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,19 +38,19 @@
 
 ### Programming Languages
 
-*   [Move (⭐899)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
+*   [Move (⭐942)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 
 ### Front-End Development
 
-*   [Hydrogen (⭐95)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+*   [Hydrogen (⭐99)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
 
 ### Networking
 
-*   [Scapy (⭐91)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
+*   [Scapy (⭐100)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
 ### Miscellaneous
 
-*   [Computational Geometry (⭐21)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
+*   [Computational Geometry (⭐26)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 
 ## [6. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
@@ -65,13 +65,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [cycle-fav-dirs (⭐0)](https://github.com/cibinmathew/cycle-fav-dirs) - A plugin to cycle through your favourite directories.
-
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### TypeScript / Angular
-
-*   [Angular Material](https://material.angular.io/guides) (HTML)
+*   [cycle-fav-dirs (⭐1)](https://github.com/cibinmathew/cycle-fav-dirs) - A plugin to cycle through your favourite directories.
 
 ---
 

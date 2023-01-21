@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### System Utilities / Directory Navigation
 
-*   [hblock (⭐1.1k)](https://github.com/hectorm/hblock) - Hosts-file based adblocker
+*   [hblock (⭐1.2k)](https://github.com/hectorm/hblock) - Hosts-file based adblocker
 
 ### Shell Package Management / Directory Navigation
 
-*   [bashing (⭐69)](https://github.com/xsc/bashing) - Smashing Bash into Pieces
+*   [bashing (⭐70)](https://github.com/xsc/bashing) - Smashing Bash into Pieces
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐520)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐522)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Media
 
-*   [FFmpeg (⭐799)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐810)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -50,11 +50,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐820)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐822)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [19 Questions (⭐15)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
+*   [19 Questions (⭐16)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

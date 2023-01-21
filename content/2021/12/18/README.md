@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Plugins
 
-*   🧬 [Container Queries (⭐74)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
+*   🧬 [Container Queries (⭐77)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
 
 ## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Log Management / Single Sign-On (SSO)
+### Software / Log Management
 
 *   [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 
@@ -28,17 +28,17 @@
 
 ### ARKit
 
-*   [ARHeadsetKit (⭐73)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐79)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 
 ## [5. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Interaction Trees (⭐165)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [Interaction Trees (⭐166)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
 
 ### Projects / Tools
 
-*   [Sail (⭐398)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
+*   [Sail (⭐406)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
 
 ### Projects / Type Theory and Mathematics
 

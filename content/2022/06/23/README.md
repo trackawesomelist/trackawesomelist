@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [slog (⭐162)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
+*   [slog (⭐168)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
@@ -40,18 +40,18 @@
 
 ### Other Lists / Help
 
-*   [delftopenhardware/awesome-open-hardware (⭐112)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [delftopenhardware/awesome-open-hardware (⭐155)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [edluffy/specs.nvim (⭐319)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
-*   [abecodes/tabout.nvim (⭐428)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
+*   [edluffy/specs.nvim (⭐330)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+*   [abecodes/tabout.nvim (⭐446)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
 
 ### Treesitter Based / Diagnostics
 
-*   [mfussenegger/nvim-ts-hint-textobject (⭐279)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-ts-hint-textobject (⭐301)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 
 ## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -78,7 +78,7 @@
 ### Databases / Data Sources
 
 *   [anime-streaming (⭐48)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
-*   [manga-platform (⭐21)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
+*   [manga-platform (⭐22)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
 
 ### Web
 
@@ -92,7 +92,7 @@
 
 ### Templates / Vue 3
 
-*   [vue3-vant-mobile (⭐123)](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
+*   [vue3-vant-mobile (⭐131)](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Time Machine Inspector (⭐43)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Time Machine Inspector (⭐45)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

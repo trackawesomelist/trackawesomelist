@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,8 +60,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [@hscmap/vue-window (⭐289)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
-*   [vue-gallery (⭐433)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
+*   [@hscmap/vue-window (⭐293)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
+*   [vue-gallery (⭐434)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
 
 ---
 

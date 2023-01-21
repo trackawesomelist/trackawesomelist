@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -63,7 +63,7 @@
 
 ### Automation / DSL
 
-*   [jmeter-groovy-dsl (⭐10)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+*   [jmeter-groovy-dsl (⭐11)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

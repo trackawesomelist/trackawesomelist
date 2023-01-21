@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Packages / Filesystem
 
-*   [filehound (⭐208)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+*   [filehound (⭐209)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Game
 
-*   [MonoGame (⭐9k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐9.1k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ## [9. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md)
 

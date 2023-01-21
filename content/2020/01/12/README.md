@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Projects / Plugins
 
-*   [CoqHammer (⭐184)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
+*   [CoqHammer (⭐185)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
 *   [MetaCoq (⭐265)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
 *   [Unicoq (⭐45)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
 
@@ -27,11 +27,11 @@
 *   [Homotopy Type Theory (⭐1.1k)](https://github.com/HoTT/HoTT) - Development of homotopy-theoretic ideas.
 *   [Math Classes (⭐147)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
 *   [Odd Order Theorem (⭐21)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
-*   [UniMath (⭐788)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
+*   [UniMath (⭐803)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
 
 ### Projects / Verified Software
 
-*   [Fiat-Crypto (⭐519)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
+*   [Fiat-Crypto (⭐524)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
 *   [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.
 
 ## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)

@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 18 - Aug 24, 2014
 
-12 awesome lists updated this week.
+11 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -210,7 +210,7 @@
 
 ### Framework Components
 
-*   [webassembly (⭐74)](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
+*   [webassembly (⭐73)](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 
 ## [6. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -218,45 +218,19 @@
 
 *   [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) \[26:12]
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
-
-### Coq / Non-X86
-
-*   [Software Foundations](http://www.cis.upenn.edu/\~bcpierce/sf/)
-
-### Groovy / Gradle
-
-*   [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
-
-### Perl / PicoLisp
-
-*   [Template Toolkit Documentation](http://template-toolkit.org/docs/index.html)
-
-### Ruby / Ruby on Rails
-
-*   [Ruby on Rails Guides](http://guides.rubyonrails.org)
-
-### SQL Server / Play Scala
-
-*   [Introducing Microsoft SQL Server 2014](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx)
-
-## [8. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Database Drivers
 
-*   PostgreSQL - [awesome-postgres (⭐8.2k)](https://github.com/dhamaniasad/awesome-postgres)
+*   PostgreSQL - [awesome-postgres (⭐8.3k)](https://github.com/dhamaniasad/awesome-postgres)
     *   [psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
     *   [queries (⭐251)](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
 
 ### E-commerce
 
-*   [merchant (⭐995)](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors.
+*   [merchant (⭐997)](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Standard Libraries
 
@@ -265,12 +239,12 @@
 ### Frameworks
 
 *   [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. \[MIT]
-*   [ffead-cpp (⭐537)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
+*   [ffead-cpp (⭐540)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
 *   [Folly (⭐24k)](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. \[Apache2]
 *   [JUCE (⭐4.7k)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
 *   [libPhenom (⭐1.7k)](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. \[Apache2]
-*   [LibSourcey (⭐1.2k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
-*   [LibU (⭐397)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
+*   [LibSourcey (⭐1.3k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
+*   [LibU (⭐400)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
 *   [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. \[MIT]
 *   [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. \[Boost]
 *   [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. \[BSD]
@@ -293,7 +267,7 @@
 *   [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. \[BSD/LGPL/Commercial]
 *   [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. \[BSD]
 *   [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. \[BSD]
-*   [Tonic (⭐480)](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. \[Unlicense]
+*   [Tonic (⭐482)](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. \[Unlicense]
 *   [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. \[BSD]
 
 ### Compression
@@ -302,7 +276,7 @@
 *   [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. \[zlib]
 *   [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. \[BSD]
 *   [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library. \[GPL]
-*   [Minizip (⭐964)](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. \[zlib]
+*   [Minizip (⭐970)](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. \[zlib]
 *   [ZLib](http://zlib.net/) - A very compact compression library for data streams. \[zlib]
 *   [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives. \[MPL/LGPL]
 
@@ -325,7 +299,7 @@
 ### Serialization
 
 *   [cereal (⭐3.4k)](https://github.com/USCiLab/cereal) - A C++11 library for serialization. \[BSD]
-*   [SimpleBinaryEncoding (⭐2.7k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
+*   [SimpleBinaryEncoding (⭐2.8k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
 
 ### Video
 
@@ -337,10 +311,10 @@
 *   [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). \[LGPLv3]
 *   [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. \[ISC]
 *   [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. \[LGPLv3]
-*   [QDjango (⭐248)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
+*   [QDjango (⭐249)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
 *   [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. \[GPL/Commercial]
 
-## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 
@@ -362,7 +336,7 @@
 
 *   [Envoy (⭐1.5k)](https://github.com/laravel/envoy) - SSH Task Runner
 
-## [11. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [10. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Geolocation
 
@@ -370,7 +344,7 @@
 *   [GeoCouch (⭐513)](https://github.com/couchbase/geocouch) - A spatial extension for Couchbase and Apache CouchDB.
 *   [Teles (⭐15)](https://github.com/armon/teles) - An Erlang network service for manipulating geographic data.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 

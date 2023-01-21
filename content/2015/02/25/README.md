@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 ### ORM and Datamapping
 
 *   [ecto\_lazy\_float (⭐6)](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
-*   [riak (⭐198)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
+*   [riak (⭐197)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
 *   [tds\_ecto (⭐56)](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 
 ### Text and Numbers

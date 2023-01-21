@@ -2,7 +2,7 @@
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jondot/awesome-devenv/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) · ⭐ 2.4K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jondot/awesome-devenv/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) · ⭐ 2.4K · 🏷️ Development Environment
 
 [ [Daily](/content/jondot/awesome-devenv/README.md) / [Weekly](/content/jondot/awesome-devenv/week/README.md) / Overview ]
 

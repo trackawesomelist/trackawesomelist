@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### Accounting / Bookkeeping
 
-*   [Sequence (⭐427)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐430)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
 ## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -77,11 +77,11 @@
 
 ### HTTP Servers / Hunchentoot plugins
 
-*   👍 [easy-routes (⭐37)](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [easy-routes (⭐38)](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT](https://opensource.org/licenses/MIT).
 
 ### Linting, code formatting / Third-party APIs
 
-*   [sblint (⭐106)](https://github.com/fukamachi/sblint) - a linter for Common Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [sblint (⭐109)](https://github.com/fukamachi/sblint) - a linter for Common Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [trivial-formatter (⭐27)](https://github.com/hyotang666/trivial-formatter) - code formatter for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ---

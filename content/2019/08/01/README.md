@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐433)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐444)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Articles
 
-*   [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails
+*   [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails.
 
 ## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 

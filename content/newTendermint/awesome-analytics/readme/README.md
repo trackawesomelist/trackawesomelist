@@ -2,7 +2,7 @@
 
 A curated list of analytics frameworks, software and other tools.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/newTendermint/awesome-analytics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) · ⭐ 3.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/newTendermint/awesome-analytics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) · ⭐ 3.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/newTendermint/awesome-analytics/README.md) / [Weekly](/content/newTendermint/awesome-analytics/week/README.md) / Overview ]
 

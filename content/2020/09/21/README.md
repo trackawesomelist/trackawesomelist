@@ -2,7 +2,7 @@
 
 23 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,7 +49,7 @@
 
 ### Cost Forecast / Market Research
 
-*   [Forecasting with sktime (⭐5.8k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
+*   [Forecasting with sktime (⭐6k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
 
 ### Invoice / Generators
 
@@ -66,7 +66,7 @@
 *   [Noticed (⭐1.8k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
 *   [Ruby Push Notifications (⭐395)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 *   [Rpush (⭐2.1k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
-*   [webpush (⭐360)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+*   [webpush (⭐361)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Framework Components
 
-*   [Shield (⭐44)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
+*   [Shield (⭐46)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
 
 ### Misc
 
-*   [wafalyzer (⭐28)](https://github.com/NeuraLegion/wafalyzer) - Web Application Firewall (WAF) Detector - shard + cli
+*   [wafalyzer (⭐30)](https://github.com/NeuraLegion/wafalyzer) - Web Application Firewall (WAF) Detector - shard + cli
 
 ## [10. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -158,7 +158,7 @@
 
 ### CMS
 
-*   [BlazorShop (⭐223)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
+*   [BlazorShop (⭐224)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -178,7 +178,7 @@
 
 ### Recruitment / Job Boards
 
-*   [Awesome Job Boards (⭐678)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
+*   [Awesome Job Boards (⭐691)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 
 ### Recruitment / Hiring Process
 
@@ -293,7 +293,7 @@
 
 ### Contents / Business
 
-*   [Open E-Commerce App (⭐641)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
+*   [Open E-Commerce App (⭐666)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
 
 ---
 

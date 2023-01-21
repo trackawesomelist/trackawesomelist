@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Specs and Standards / MPEG
 
-*   [ISO Base Media File Format Reference Software (⭐84)](https://github.com/MPEGGroup/isobmff)  -
+*   [ISO Base Media File Format Reference Software (⭐87)](https://github.com/MPEGGroup/isobmff)  -
 *   [MPEG About](https://www.mpegstandards.org/about-mpeg/)  -
 *   [MPEG High Efficiency Image File Format (HEIF)](https://nokiatech.github.io/heif/)  -
 *   [MPEG Meetings](https://www.mpegstandards.org/meetings/)  -
@@ -34,11 +34,11 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Funexpected Flash Tools (⭐14)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
+*   [Funexpected Flash Tools (⭐15)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 
 ### Modules / Godot 3.2+
 
-*   [Flash Module (⭐23)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
+*   [Flash Module (⭐25)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -66,10 +66,6 @@
 
 *   [Translation.io](https://translation.io) - Free for Open Source
 
-### Web Hosting
-
-*   [hostman.com](https://hostman.com) — Deploy up to 3 static sites from your GitHub repository for free.
-
 ### Design and UI
 
 *   [Plasmic](https://www.plasmic.app/) - A fast, easy to use, powerful web design tool and page builder that integrates into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps.
@@ -84,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lunar-calendar-pro (⭐58)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
+*   [vue-lunar-calendar-pro (⭐62)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 
 ---
 

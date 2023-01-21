@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,8 +10,8 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Mono-basic (⭐99)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
-*   [Netjs (⭐938)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
+*   [Mono-basic (⭐101)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
+*   [Netjs (⭐944)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -56,16 +56,16 @@ git branch -m [<old-branch-name>] <new-branch-name>
 *   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
 *   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐680)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
-*   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
+*   [Responsive HTML Template (⭐681)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
+*   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 
 ### Tools
 
 *   [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
 
-### Workflows
+### Articles
 
-*   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 *   [Darylldoyle Gulp workflow (⭐166)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 
 ### Resources

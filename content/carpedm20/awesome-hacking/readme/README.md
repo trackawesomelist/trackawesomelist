@@ -2,7 +2,7 @@
 
 A curated list of awesome Hacking tutorials, tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/carpedm20/awesome-hacking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) · ⭐ 9.1K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/carpedm20/awesome-hacking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) · ⭐ 9.1K · 🏷️ Security
 
 [ [Daily](/content/carpedm20/awesome-hacking/README.md) / [Weekly](/content/carpedm20/awesome-hacking/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -115,7 +115,7 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [TensorFlow (⭐276)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+*   [TensorFlow (⭐277)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -133,13 +133,13 @@
 
 ### Questions
 
-*   [tensorflow-ocaml (⭐278)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+*   [tensorflow-ocaml (⭐277)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 
 ## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### For Developers / Directory Navigation
 
-*   [starring (⭐154)](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
+*   [starring (⭐155)](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [itunes-remote (⭐422)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [itunes-remote (⭐421)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 

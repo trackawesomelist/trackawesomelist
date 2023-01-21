@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Localization
 
-*   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+*   [attranslate (⭐272)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -188,7 +188,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Contents / Finance
 
-*   [Receipt Manager (⭐119)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
+*   [Receipt Manager (⭐129)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
 ---
 

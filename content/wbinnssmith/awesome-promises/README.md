@@ -2,7 +2,7 @@
 
 A curated list of useful resources for JavaScript Promises
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wbinnssmith/awesome-promises/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises) · ⭐ 1.5K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wbinnssmith/awesome-promises/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises) · ⭐ 1.5K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/wbinnssmith/awesome-promises/week/README.md) / [Overview](/content/wbinnssmith/awesome-promises/readme/README.md) ]
 

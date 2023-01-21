@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 23, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,25 +31,19 @@
 
 *   [ggplot (⭐3.6k)](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 
-## [5. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
-
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
 *   [defql (⭐102)](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 
-## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### User Groups / Ruby
 
 *   [Greece](https://www.meetup.com/dddgreece/)
 
-## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -58,7 +52,7 @@
     *   [Lecture notes](http://web.stanford.edu/class/cs276/index.html#syllabus)
     *   [Readings](http://web.stanford.edu/class/cs276/index.html#books)
 
-## [9. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+## [8. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Graphics
 
@@ -70,7 +64,7 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [9. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### API Builder and Discovery
 
@@ -84,13 +78,13 @@ Free
 
 ### Code Highlighting
 
-*   [CodeRay (⭐832)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [CodeRay (⭐833)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
 *   [pygments.rb (⭐558)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 *   [Rouge (⭐3.2k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐721)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐722)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -98,7 +92,7 @@ Free
 
 ### Feature Flippers and A/B Testing
 
-*   [Motorhead (⭐181)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
+*   [Motorhead (⭐180)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
 *   [flipper (⭐3.1k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 *   [Rollout (⭐2.8k)](https://github.com/FetLife/rollout) - Feature flippers.
 *   [Split (⭐2.6k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
@@ -112,7 +106,7 @@ Free
 
 *   [Video Transcoding (⭐2.3k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
-## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / T companies
 

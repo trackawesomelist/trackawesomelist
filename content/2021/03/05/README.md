@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,23 +53,22 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐103)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐104)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐534)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐550)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐160)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐163)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 
 ## [7. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Docker
 
-*   [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
 *   [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)
 
 ## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
@@ -123,7 +122,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐103)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐105)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

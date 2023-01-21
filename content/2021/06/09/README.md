@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐279)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
+*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐281)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
 *   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐31)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 
@@ -31,7 +31,7 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [DFIRTrack (⭐406)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
+*   [DFIRTrack (⭐409)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 
 ## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-rancher2 (⭐200)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
+*   [terraform-provider-rancher2 (⭐207)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sainnhe/everforest (⭐1.5k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
+*   [sainnhe/everforest (⭐1.6k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -104,8 +104,8 @@
 ### Command-Line Productivity
 
 *   [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
-*   [usql (⭐7.6k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
-*   [xplr (⭐2.4k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
+*   [usql (⭐7.7k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
+*   [xplr (⭐2.6k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 
 ### Customization / Directory Navigation
 
@@ -113,7 +113,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [just (⭐7.4k)](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
+*   [just (⭐8k)](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 
 ### System Utilities / Directory Navigation
 
@@ -121,12 +121,12 @@
 
 ### Applications / Directory Navigation
 
-*   [pcalc (⭐170)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
+*   [pcalc (⭐183)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashew (⭐153)](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
-*   [getoptions (⭐238)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+*   [bashew (⭐171)](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
+*   [getoptions (⭐254)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 *   [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 
 ## [12. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)

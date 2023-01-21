@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 10, 2023
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -86,7 +86,7 @@
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐200)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐222)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
 
 ### Libraries / Peripherals
 
@@ -109,13 +109,7 @@
 
 *   [eunomia-bpf (⭐161)](https://github.com/eunomia-bpf/eunomia-bpf) - A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-## [13. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [12. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Qubes OS Websites
 
@@ -140,7 +134,7 @@
 *   `#xen`      channel on irc.oftc.net via traditional IRC clients.
 *   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 
-## [14. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [13. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Game Engines / Awesome Collections
 
@@ -1257,19 +1251,19 @@
 *   📚 [Retro3DGraphicsCollection (⭐794)](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro style 3D graphic assets (think PS1).
 *   💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
 
-## [15. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [14. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Validation / Playground
 
 *   [typia (⭐2.1k)](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
 
-## [16. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [15. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Projects / Wallets
 
 *   [SliceSwap](https://app.sliceswap.com) - One place to trade your assets across major Dex's. All swaps are powered by @deflexfi.
 
-## [17. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [16. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Miscellaneous
 

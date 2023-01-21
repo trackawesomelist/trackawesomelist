@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Miscellaneous / React
 
-*   [GraphVinci (⭐41)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
+*   [GraphVinci (⭐42)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 
 ### Ruby Examples / React
 
@@ -38,8 +38,8 @@
 
 ### Julia / React
 
-*   [Diana.jl (⭐108)](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
-*   [GraphQLClient.jl (⭐36)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
+*   [Diana.jl (⭐110)](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
+*   [GraphQLClient.jl (⭐38)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
 
 ### Databases / React
 

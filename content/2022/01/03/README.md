@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,20 +21,21 @@
 *   Continuous Integration
     *   [trust (⭐1.2k)](https://github.com/japaric/trust) — A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 *   Frameworks and Runners
-    *   [AlKass/polish (⭐48)](https://github.com/AlKass/polish) — Mini Testing/Test-Driven Framework [![Build Status](https://api.travis-ci.org/AlKass/polish.svg?branch=master)](https://travis-ci.org/AlKass/polish) [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
+    *   [AlKass/polish (⭐49)](https://github.com/AlKass/polish) — Mini Testing/Test-Driven Framework [![Build Status](https://api.travis-ci.org/AlKass/polish.svg?branch=master)](https://travis-ci.org/AlKass/polish) [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
     *   [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - A cargo extension to simplify running library tests and benches on smartphones and other small processor devices.
     *   [cucumber](https://crates.io/crates/cucumber) [![Latest Version](https://img.shields.io/crates/v/cucumber.svg)](https://crates.io/crates/cucumber) — An implementation of the Cucumber testing framework for Rust. Fully native, no external test runners or dependencies. [![Build Status](https://github.com/cucumber-rs/cucumber/workflows/CI/badge.svg?branch=master)](https://github.com/cucumber-rs/cucumber)
     *   [demonstrate](https://crates.io/crates/demonstrate) — Declarative Testing Framework [![Build Status](https://github.com/aubaugh/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/aubaugh/demonstrate)
     *   [rstest](https://crates.io/crates/rstest) — Fixture-based test framework for Rust [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
     *   [speculate](https://crates.io/crates/speculate) — An RSpec inspired minimal testing framework for Rust
 *   Mocking and Test Data
-    *   [asomers/mockall (⭐908)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] — A powerful mock object library for Rust. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
-    *   [fake-rs (⭐543)](https://github.com/cksac/fake-rs) —  A library for generating fake data [![build badge](https://api.travis-ci.org/repositories/cksac/fake-rs.svg?branch=master)](https://travis-ci.org/cksac/fake-rs)
-    *   [goldenfile (⭐24)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing. [![build badge](https://api.travis-ci.org/calder/rust-goldenfile.svg?branch=master)](https://travis-ci.org/calder/rust-goldenfile)
-    *   [httpmock (⭐318)](https://github.com/alexliesenfeld/httpmock) — HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
+    *   [asomers/mockall (⭐942)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] — A powerful mock object library for Rust. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
+    *   [fake-rs (⭐559)](https://github.com/cksac/fake-rs) —  A library for generating fake data [![build badge](https://api.travis-ci.org/repositories/cksac/fake-rs.svg?branch=master)](https://travis-ci.org/cksac/fake-rs)
+    *   [goldenfile (⭐25)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing. [![build badge](https://api.travis-ci.org/calder/rust-goldenfile.svg?branch=master)](https://travis-ci.org/calder/rust-goldenfile)
+    *   [httpmock (⭐323)](https://github.com/alexliesenfeld/httpmock) — HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
     *   [mockiato](https://crates.io/crates/mockiato) — A strict, yet friendly mocking library for Rust 2018 [![build badge](https://api.travis-ci.com/mockiato/mockiato.svg?branch=master)](https://app.travis-ci.com/github/mockiato/mockiato)
     *   [mockito](https://crates.io/crates/mockito) — HTTP mocking [![build badge](https://api.travis-ci.org/lipanski/mockito.svg?branch=master)](https://travis-ci.org/lipanski/mockito)
-    *   [nrxus/faux (⭐321)](https://github.com/nrxus/faux/) [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) — A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)
+    *   [nrxus/faux (⭐330)](https://github.com/nrxus/faux/) [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) — A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)
+    *   [synth (⭐1k)](https://github.com/shuttle-hq/synth/) — Generate database data declaratively. [![build](https://github.com/shuttle-hq/synth/actions/workflows/synth-test.yml/badge.svg)](https://github.com/shuttle-hq/synth)
 *   Property Testing and Fuzzing
     *   [proptest](https://crates.io/crates/proptest) — property testing framework inspired by the [Hypothesis](https://hypothesis.works/) framework for Python [![build badge](https://api.travis-ci.org/altsysrq/proptest.svg?branch=master)](https://travis-ci.org/altsysrq/proptest)
     *   [quickcheck](https://crates.io/crates/quickcheck) — A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1) [![build badge](https://api.travis-ci.org/BurntSushi/quickcheck.svg?branch=master)](https://travis-ci.org/BurntSushi/quickcheck)
@@ -42,7 +43,7 @@
 
 ## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Official
+### Official Resources
 
 *   [Algorand](https://www.algorand.com/) - Official website.
 *   [Algorand Foundation](https://algorand.foundation/) - Official website of the Foundation.
@@ -52,10 +53,10 @@
 
 ### Wallets
 
-*   [MyAlgo Connect (⭐58)](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser.
-*   [AlgoSigner (⭐86)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
+*   [MyAlgo Connect (⭐56)](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser.
+*   [AlgoSigner (⭐88)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 
-### Learning / Tutorials
+### Tutorials
 
 *   [Swift iOS app using Augmented Reality for Algorand purchases](https://developer.algorand.org/tutorials/ios-app-using-augmented-reality-for-purchases/) - An iOS App Using Augmented Reality for Purchases.
 *   [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - Decentralised co-operative unions with Algorand Multisignature Account.
@@ -63,32 +64,35 @@
 *   [Adding Notes to Transactions](https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/) - Read and Write to the Transaction Note Field with Python.
 *   [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - Using Stateful Smart Contract To Create Algorand Standard Asset.
 
-### Development / Go
+### Languages / Go
 
 *   [go-algorand (⭐1.2k)](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
 *   [go-algorand-sdk (⭐164)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
 
-### Development / Python
+### Languages / Python
 
-*   [py-algorand-sdk (⭐221)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
-*   [pyteal (⭐239)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
+*   [py-algorand-sdk (⭐224)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
 
-### Development / Java
+### Languages / Java
 
-*   [java-algorand-sdk (⭐60)](https://github.com/algorand/java-algorand-sdk) - The Algorand Java SDK.
+*   [java-algorand-sdk (⭐62)](https://github.com/algorand/java-algorand-sdk) - The Algorand Java SDK.
 
-### Development / .NET
+### Languages / .NET
 
 *   [dotnet-algorand-sdk (⭐40)](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
 
-### Development / Swift
+### Languages / Swift
 
-*   [algorand-wallet (⭐157)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
+*   [algorand-wallet (⭐160)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
+
+### Other Development Tools / Smart Contracts
+
+*   [pyteal (⭐242)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 
 ### NFT Marketplaces / Wallets
 
 *   [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2\_gallery](https://twitter.com/AB2_Gallery).
-*   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and markeplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
+*   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
 *   [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 *   [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
 
@@ -98,10 +102,10 @@
 *   [Tinyman](https://tinyman.org/) - A decentralized trading protocol, AMM and platform.
 *   [Algofi](https://www.algofi.org/) - Decentralized lending market and stablecoin on the Algorand blockchain.
 
-### Community / Projects
+### Projects / Wallets
 
 *   [arc3.xyz (⭐19)](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
-*   [Auction Demo (⭐54)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
+*   [Auction Demo (⭐55)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
 *   [Algorand Session Wallet (⭐16)](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
 *   [WalletConnect Example DApp (⭐20)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
 *   [paytx (⭐5)](https://github.com/algorand-devrel/paytx) - Examples of common pay transaction scenarios using the Algorand Python SDK.
@@ -145,22 +149,25 @@
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Collections
 
 *   \[🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
-*   [ouhenio/StyleGAN3-CLIP-notebooks (⭐173)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
-*   [k-l-lambda/stylegan-web (⭐149)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
-*   [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
-*   [Authors A.I.](https://authors.ai/): AI-powered text analysis
+*   [ouhenio/StyleGAN3-CLIP-notebooks (⭐177)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
+*   [k-l-lambda/stylegan-web (⭐150)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
 
-### Inbox: Text and Natural Language Processing / OpenAI GPT-3
+### Inbox: Text and Natural Language Processing / GPT-3
 
 *   [GPT-3 playground](https://beta.openai.com/playground)
 *   [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
+
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+
+*   [Authors A.I.](https://authors.ai/): AI-powered text analysis
+*   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
+*   [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
 
 ## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
@@ -184,7 +191,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [booperlv/nvim-gomove (⭐143)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
+*   [booperlv/nvim-gomove (⭐148)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 
 ## [13. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 

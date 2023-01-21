@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -141,7 +141,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Documentation
 
-*   [bureaucrat (⭐320)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐321)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
@@ -153,7 +153,7 @@ Webpage: <http://hanahaus.com/>
 
 ### ORM and Datamapping
 
-*   [mongodb (⭐540)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐543)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 
 ### Protocols
 
@@ -174,7 +174,7 @@ Webpage: <http://hanahaus.com/>
 ### Rust / General-Purpose Machine Learning
 
 *   [deeplearn-rs (⭐199)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐542)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [rustlearn (⭐544)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ---
 

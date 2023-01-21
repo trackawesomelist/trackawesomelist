@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Charts / Image Picker
 
-*   [Echarts (⭐613)](https://github.com/entronad/flutter_echarts) <!--stargazers:entronad/flutter_echarts--> - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad)
+*   [Echarts (⭐626)](https://github.com/entronad/flutter_echarts) <!--stargazers:entronad/flutter_echarts--> - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad)
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -36,7 +36,7 @@
 ### Chemistry
 
 *   [d-SEAMS (⭐26)](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. \[GPL] [website](https://dseams.info)
-*   [LAMMPS (⭐1.5k)](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
+*   [LAMMPS (⭐1.6k)](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
 
 ### Game Engine
 
@@ -46,13 +46,13 @@
 
 ### External Services
 
-*   [neko-box (⭐23)](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
+*   [neko-box (⭐25)](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
 
 ## [7. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Tools
 
-*   [vscode-antd-rush (⭐108)](https://github.com/fi3ework/vscode-antd-rush) - Rush to Ant Design in VS Code
+*   [vscode-antd-rush (⭐111)](https://github.com/fi3ework/vscode-antd-rush) - Rush to Ant Design in VS Code
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -64,14 +64,14 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Pivottable (⭐102)](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
+*   [Vue Pivottable (⭐103)](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
 *   [Vue Datamaps (⭐14)](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 
 ## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
-*   [cl-competitive (⭐144)](https://github.com/privet-kitty/cl-competitive) - Common Lisp algorithms collection for competitive programming. Public domain, CCO or MIT.
+*   [cl-competitive (⭐148)](https://github.com/privet-kitty/cl-competitive) - Common Lisp algorithms collection for competitive programming. Public domain, CCO or MIT.
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
@@ -81,7 +81,7 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [tracer (⭐46)](https://github.com/TeMPOraL/tracer) - tracing profiler for Common Lisp, with output suitable for display in Chrome’s/Chromium’s Tracing Viewer. [MIT](https://opensource.org/licenses/MIT).
+*   [tracer (⭐47)](https://github.com/TeMPOraL/tracer) - tracing profiler for Common Lisp, with output suitable for display in Chrome’s/Chromium’s Tracing Viewer. [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -115,16 +115,16 @@
 
 ### CLI
 
-*   [CliFx (⭐1.2k)](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
+*   [CliFx (⭐1.3k)](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
 
 ### Database
 
-*   [StringDB (⭐61)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume tiny amounts of ram & produce tiny databases.
+*   [StringDB (⭐62)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume tiny amounts of ram & produce tiny databases.
 *   [Db4o-gpl (⭐25)](https://github.com/iboxdb/db4o-gpl) - Object-oriented database, embedded and remote connections supported.
 
 ### Event aggregator and messenger
 
-*   [FluentMediator (⭐175)](https://github.com/ivanpaulovich/FluentMediator) - FluentMediator is an unobtrusive library that allows developers to build custom pipelines for Commands, Queries and Events
+*   [FluentMediator (⭐174)](https://github.com/ivanpaulovich/FluentMediator) - FluentMediator is an unobtrusive library that allows developers to build custom pipelines for Commands, Queries and Events
 
 ### GUI
 
@@ -133,7 +133,7 @@
 ### Mathematics
 
 *   [MathNet](https://www.mathdotnet.com/) - Math.NET is an open source initiative to build and maintain toolkits covering fundamental mathematics, targeting advanced but also every day needs of .NET developers
-*   [GeometRi (⭐117)](https://github.com/RiSearcher/GeometRi.CSharp) - Simple and lightweight computational geometry library for .Net
+*   [GeometRi (⭐120)](https://github.com/RiSearcher/GeometRi.CSharp) - Simple and lightweight computational geometry library for .Net
 
 ### Misc
 
@@ -142,7 +142,7 @@
 
 ### MVVM
 
-*   [Smaragd (⭐30)](https://github.com/nkristek/Smaragd) - A platform-independent, lightweight library for developing .NET applications using the MVVM architecture.
+*   [Smaragd (⭐31)](https://github.com/nkristek/Smaragd) - A platform-independent, lightweight library for developing .NET applications using the MVVM architecture.
 
 ### Office
 
@@ -159,11 +159,11 @@
 
 ### SDK and API Clients
 
-*   [Dropbox.NET (⭐310)](https://github.com/dropbox/dropbox-sdk-dotnet) - Official .NET SDK for the Dropbox API
+*   [Dropbox.NET (⭐311)](https://github.com/dropbox/dropbox-sdk-dotnet) - Official .NET SDK for the Dropbox API
 
 ### Style Guide
 
-*   [C# Async Guidance (⭐5.8k)](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) - list of problematic asynchronous patterns for .NET Core with an explanation of how to solve those issues
+*   [C# Async Guidance (⭐6.1k)](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) - list of problematic asynchronous patterns for .NET Core with an explanation of how to solve those issues
 
 ### Testing
 

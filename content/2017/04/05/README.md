@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Database Drivers
 
-*   [asyncpgsa (⭐403)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
+*   [asyncpgsa (⭐404)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -133,13 +133,13 @@
 
 ### Programming / Python
 
-*   [Nengo (⭐715)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
+*   [Nengo (⭐730)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
 *   [PsychoPy (⭐1.3k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
 *   [NuPic (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 
 ### Programming / Matlab
 
-*   [FieldTrip (⭐658)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
+*   [FieldTrip (⭐683)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 
 ## [12. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

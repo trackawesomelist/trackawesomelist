@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐3.2k)](https://github.com/pret/pokered)
+*   [Pokémon Red/Blue (⭐3.3k)](https://github.com/pret/pokered)
 *   [Pokémon Crystal (⭐1.7k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages

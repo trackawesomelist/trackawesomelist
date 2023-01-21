@@ -2,7 +2,7 @@
 
 A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kazhnuz/awesome-gnome/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) · ⭐ 763 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kazhnuz/awesome-gnome/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) · ⭐ 763 · 🏷️ Platforms
 
 [ [Daily](/content/Kazhnuz/awesome-gnome/README.md) / Weekly / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 

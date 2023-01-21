@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,13 +27,13 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐304)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐318)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐178)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+*   [mongotail (⭐179)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ### Applications / Web
 

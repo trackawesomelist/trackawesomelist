@@ -2,7 +2,7 @@
 
 A curated list of awesome Umbraco packages, resources and tools
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 umbraco-community/awesome-umbraco](https://github.com/umbraco-community/awesome-umbraco) · ⭐ 202 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 umbraco-community/awesome-umbraco](https://github.com/umbraco-community/awesome-umbraco) · ⭐ 202 · 🏷️ Content Management Systems
 
 [ Daily / [Weekly](/content/umbraco-community/awesome-umbraco/week/README.md) / [Overview](/content/umbraco-community/awesome-umbraco/readme/README.md) ]
 

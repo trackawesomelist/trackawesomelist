@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,7 +45,7 @@
 
 ### Libraries / Audio and Music
 
-*   [pdeljanov/Symphonia (⭐992)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
+*   [pdeljanov/Symphonia (⭐1k)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
 
 ## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -57,30 +57,30 @@
 
 ### Libraries/Frameworks / Mocks and Fakes
 
-*   [bluegroundltd/kfactory (⭐50)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
+*   [bluegroundltd/kfactory (⭐51)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
 *   [moove-it/fakeit (⭐517)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
 
 ### Libraries/Frameworks / Misc
 
-*   [s1monw1/TLSLibrary (⭐75)](https://github.com/s1monw1/TLSLibrary) - Simple TlsLibrary written in Kotlin - Provides DSL for creating TLS connections
+*   [s1monw1/TLSLibrary (⭐74)](https://github.com/s1monw1/TLSLibrary) - Simple TlsLibrary written in Kotlin - Provides DSL for creating TLS connections
 
 ### Android / Tests
 
-*   [KakaoCup/Compose (⭐72)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
+*   [KakaoCup/Compose (⭐77)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mathematics
 
-*   [WPF-Math (⭐455)](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
+*   [WPF-Math (⭐462)](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
 
 ### Office
 
-*   [Toxy (⭐247)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
+*   [Toxy (⭐250)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
 
 ### ORM
 
-*   [SqlSugar (⭐4.2k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
+*   [SqlSugar (⭐4.3k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Utility / Barcode
 
-*   [Rugby (⭐477)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐490)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -42,7 +42,7 @@
 
 ### Other / Godot version unknown
 
-*   [strip-to-frames.pl (⭐26)](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
+*   [strip-to-frames.pl (⭐27)](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

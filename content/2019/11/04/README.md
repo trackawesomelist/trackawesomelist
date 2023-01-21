@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Web Crawling
 
-*   [Spidr (⭐701)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐704)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Network Virtualization
 
-*   [pox (⭐590)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐591)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
@@ -158,7 +158,7 @@
 *   Framework agnostic
     *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
     *   [falcon (⭐9k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐52k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    *   [fastapi (⭐53k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
     *   [hug (⭐6.7k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
     *   [sandman2 (⭐1.9k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
     *   [sanic (⭐17k)](https://github.com/huge-success/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
@@ -168,7 +168,7 @@
 
 *   [huey (⭐4.3k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 *   [mrq (⭐871)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐8.6k)](https://github.com/rq/rq) - Simple job queues for Python.
+*   [rq (⭐8.7k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### Web Frameworks
 
@@ -208,15 +208,12 @@
 
 ### Articles / Other external resources
 
-*   [Protecting your users data from Rails application using cryptography (⭐1.1k)](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App)
 *   [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
 *   [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
 *   [Working with the SQL ‘time’ type in Ruby on Rails](https://engineering.ezcater.com/youre-not-in-the-zone)
 *   [Upgrading Rails apps with dual boot](https://medium.com/oreilly-engineering/upgrading-rails-apps-with-dual-boot-e5c271e68a6e)
 *   [What Are Rails Parameters & How to Use Them Correctly](https://www.rubyguides.com/2019/06/rails-params/)
 *   [How to Remove Single Table Inheritance from Your Rails Monolith](https://medium.com/flatiron-labs/how-to-remove-single-table-inheritance-from-your-rails-monolith-c6009239defb)
-*   [Build a Rails application with VueJS using JSX](https://nebulab.it/blog/build-rails-application-vuejs-using-jsx/)
-*   [Fetching millions of rows from PostgreSQL with Rails](https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5)
 *   [Implementing Multi-Table Full Text Search with Postgres in Rails](https://thoughtbot.com/blog/implementing-multi-table-full-text-search-with-postgres)
 *   [Ruby on Rails ActiveRecord PostgreSQL Data Integrity and Validations](https://pawelurbanek.com/rails-postgresql-data-integrity)
 *   [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
@@ -228,7 +225,7 @@
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [phishing\_catcher (⭐1.4k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
+*   [phishing\_catcher (⭐1.5k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
 
 ## [15. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

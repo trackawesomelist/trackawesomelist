@@ -2,7 +2,7 @@
 
 Awesome resources for Relay
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/expede/awesome-relay/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 expede/awesome-relay](https://github.com/expede/awesome-relay) · ⭐ 257 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/expede/awesome-relay/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 expede/awesome-relay](https://github.com/expede/awesome-relay) · ⭐ 257 · 🏷️ Front-End Development
 
 [ [Daily](/content/expede/awesome-relay/README.md) / [Weekly](/content/expede/awesome-relay/week/README.md) / Overview ]
 

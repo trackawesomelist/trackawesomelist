@@ -2,7 +2,7 @@
 
 Curated list of projects that build non-financial applications of blockchain
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/machinomy/awesome-non-financial-blockchain/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) · ⭐ 574 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/machinomy/awesome-non-financial-blockchain/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) · ⭐ 574 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/machinomy/awesome-non-financial-blockchain/README.md) / Weekly / [Overview](/content/machinomy/awesome-non-financial-blockchain/readme/README.md) ]
 

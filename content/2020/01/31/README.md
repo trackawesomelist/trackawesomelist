@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Templates / Preferences
 
-*   [Flutter Samples (⭐2.7k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
+*   [Flutter Samples (⭐2.8k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Localization / Barcode
 
-*   [CrowdinSDK (⭐99)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐98)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Schema / Changes
 
-*   [SchemaHero (⭐699)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
+*   [SchemaHero (⭐711)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
 *   [Sqitch (⭐2.5k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 
 ### API / Samples
@@ -74,7 +74,7 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [ASH Viewer (⭐123)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+*   [ASH Viewer (⭐127)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 *   [mssql-monitoring (⭐80)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
 
 ### Testing / Zabbix
@@ -83,7 +83,7 @@
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [postgresql\_cluster (⭐646)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
+*   [postgresql\_cluster (⭐653)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
 
 ### Configuration Tuning / Zabbix
 
@@ -92,10 +92,10 @@
 
 ### Distributions / Zabbix
 
-*   [DBdeployer (⭐631)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
+*   [DBdeployer (⭐635)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
 *   [Postgres.app (⭐6.5k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 *   [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
-*   [Elephant Shed (⭐186)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+*   [Elephant Shed (⭐187)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 
 ### Security / Zabbix
 

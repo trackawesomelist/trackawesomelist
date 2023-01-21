@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,8 +10,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐574)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐944)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐573)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐948)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -42,7 +42,7 @@
 
 ### serialization
 
-*   [python-geojson (⭐757)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [python-geojson (⭐764)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
 *   [rust-geojson (⭐177)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
@@ -58,7 +58,7 @@
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐4.7k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐4.8k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [aruspex (⭐34)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
+*   [aruspex (⭐35)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Alert / Barcode
 
-*   [GSMessage (⭐705)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+*   [GSMessage (⭐704)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 
 ---
 

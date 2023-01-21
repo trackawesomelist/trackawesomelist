@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,21 +27,21 @@
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [Wiz (⭐366)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
-*   [gbforth (⭐99)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
+*   [Wiz (⭐373)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
+*   [gbforth (⭐101)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
 *   [gbasm (⭐130)](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code.
 *   [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
-*   [Assembler (⭐114)](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
+*   [Assembler (⭐115)](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
 
 ### Tools / Engines
 
-*   [ZGB (⭐540)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
+*   [ZGB (⭐550)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 
 ### Tools / Graphics utilities
 
 *   [GBTiles (⭐15)](https://github.com/bashaus/gbtiles) - Converts .GBR files created with Harry Mulder's Tile Designer (GBTD) and .GBM files created with Harry Mulder's Map Builder (GBMB) to different formats for use with the Game Boy and GBDK.
 *   [bmp2cgb (⭐23)](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
-*   [png2gb (⭐19)](https://github.com/LuckyLights/png2gb) - CLI tool to convert image file to game boy .c array.
+*   [png2gb (⭐20)](https://github.com/LuckyLights/png2gb) - CLI tool to convert image file to game boy .c array.
 *   [GB-convert (⭐26)](https://github.com/exezin/gb-convert) - Game Boy tile conversion and map editor tool (converts to assembly).
 *   [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 

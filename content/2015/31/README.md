@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 03 - Aug 09, 2015
 
-28 awesome lists updated this week.
+26 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -71,7 +71,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotfiler (⭐230)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
+*   [dotfiler (⭐233)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 
 ## [10. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -103,41 +103,23 @@
 
 *   [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 
-## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### Monitoring / Metric & Metric Collection
-
-*   Dashboards
-    *   [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-    *   [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
-    *   [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
-    *   [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
-    *   [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-    *   [Freeboard (⭐6.3k)](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
-
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
-*   [MIRACL (⭐517)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐521)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ### Miscellaneous
 
 *   [access\_profiler (⭐68)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Videos
 
 *   [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 
-## [16. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
-
-### Miscellaneous / Third Party
-
-*   [d3-resume (⭐40)](https://github.com/glena/d3-resume) - Resume visualizer
-
-## [17. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [15. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Videos / Tutorial-only
 
@@ -169,25 +151,25 @@
 *   [on Reddit](http://www.reddit.com/r/sketchapp)
 *   [SketchTalk](http://sketchtalk.io/), unofficial forum
 
-## [18. Amas](/content/sindresorhus/amas/week/README.md)
+## [16. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Rob Furlong (⭐1)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
 
-## [19. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
+## [17. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
 ### terminal
 
 *   [vantage.js (⭐3.5k)](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
 
-## [20. Tools](/content/lvwzhen/tools/week/README.md)
+## [18. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### CSS
 
 *   [sassme](http://sassme.arc90.com/)
 
-## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Configuration
 
@@ -199,7 +181,7 @@
 
 ### Text and Numbers
 
-*   [inet\_cidr (⭐39)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
+*   [inet\_cidr (⭐40)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 
 ### Third Party APIs
 
@@ -207,9 +189,9 @@
 
 ### YAML
 
-*   [yaml\_elixir (⭐148)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
+*   [yaml\_elixir (⭐150)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
-## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
@@ -236,7 +218,7 @@
 
 *   :octocat: [palantir/plottable (⭐2.9k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
 
-## [23. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [21. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### NoSQL
 
@@ -263,7 +245,7 @@
 
 *   [RHadoop (⭐762)](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
 
-## [24. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [22. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Android tools / Misc
 
@@ -285,7 +267,7 @@
 *   [NYT Graphics](https://twitter.com/nytgraphics)
 *   [Visualizing](https://twitter.com/VisualizingOrg)
 
-## [25. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [23. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Functional Programming
 
@@ -301,13 +283,13 @@
 
 *   [Are functions like map(), reduce() and filter() already optimized for traversing array?](http://qr.ae/Rsg6I0)
 
-## [26. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [24. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [Android Scripting (⭐2.3k)](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
 
-## [27. Tips](/content/git-tips/tips/week/README.md)
+## [25. Tips](/content/git-tips/tips/week/README.md)
 
 ## List of all files changed in a commit
 
@@ -408,7 +390,7 @@ git worktree add -b <branch-name> <path> <start-point>
 git worktree add --detach <path> HEAD
 ```
 
-## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 
@@ -416,7 +398,7 @@ git worktree add --detach <path> HEAD
 
 ### Scala / General-Purpose Machine Learning
 
-*   [H2O Sparkling Water (⭐935)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+*   [H2O Sparkling Water (⭐939)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 
 ---
 

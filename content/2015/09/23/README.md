@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -72,7 +72,7 @@
 
 ### Push Notifications
 
-*   [PushSharp (⭐4.4k)](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
+*   [PushSharp (⭐4.3k)](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -98,11 +98,11 @@
 
 ### Application Skeleton
 
-*   [MVC (⭐801)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐804)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 
-*   [phalcon-cron (⭐75)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
+*   [phalcon-cron (⭐76)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
 ## [13. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

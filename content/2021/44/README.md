@@ -2,7 +2,7 @@
 
 59 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -54,11 +54,11 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐1.9k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐2.1k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Void (⭐156)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐156)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
+*   [Void (⭐164)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐164)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
 
 ## [8. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Books
 
-*   [Free Mathematics Books (⭐255k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Software / Libraries and Tools
 
-*   [QuestDB (⭐9.7k)](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
+*   [QuestDB (⭐10k)](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
 
 ## [15. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Keras Tuner (⭐2.6k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
+*   [Keras Tuner (⭐2.7k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
 
 ## [19. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -296,7 +296,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐552)](https://github.com/mineral-ui/mineral-ui)
+  Source code \*: [:octocat: (⭐554)](https://github.com/mineral-ui/mineral-ui)
 
 
 - : [City of Boston Fleet](https://patterns.boston.gov/)
@@ -318,7 +318,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.3k)](https://github.com/DouyinFE/semi-design)
+  Source code \*: [:octocat: (⭐6.5k)](https://github.com/DouyinFE/semi-design)
 
 
 - : [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)
@@ -329,7 +329,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐80)](https://github.com/govtechsg/sgds)
+  Source code \*: [:octocat: (⭐87)](https://github.com/govtechsg/sgds)
 
 
 - : [VMware Clarity Design System](https://clarity.design/)
@@ -372,11 +372,11 @@
 
 ### Others
 
-*   [FFmpegBlazor (⭐87)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐9.2k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+*   [FFmpegBlazor (⭐86)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐9.5k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 
 ### Component bundles
 
-*   [MudBlazor (⭐4.4k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
+*   [MudBlazor (⭐4.6k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
 
 ### Real-World applications / Others
 
@@ -412,8 +412,8 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [artart222/CodeArt (⭐821)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
-*   [shaeinst/roshnivim (⭐128)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
+*   [artart222/CodeArt (⭐832)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
+*   [shaeinst/roshnivim (⭐138)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 
 ## [31. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -426,19 +426,19 @@
 
 ### Uncategorized
 
-*   [Vignette (⭐407)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
+*   [Vignette (⭐413)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
 
 ## [33. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Social Network
 
-*   [Skyfeed (⭐86)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
+*   [Skyfeed (⭐88)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
 
 ## [34. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Getting Started
 
-*   [ARHeadsetKit Tutorials (⭐73)](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
+*   [ARHeadsetKit Tutorials (⭐79)](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
 
 ## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -451,7 +451,7 @@
 
 ### Open Source / Community
 
-*   [îles (⭐864)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
+*   [îles (⭐874)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 
 ## [37. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -580,7 +580,7 @@
 ### Libraries/Frameworks / Game Development
 
 *   [libktx/ktx (⭐1.2k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
-*   [korlibs/KorGE (⭐1.5k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+*   [korlibs/KorGE (⭐1.6k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 
 ## [41. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
@@ -662,14 +662,9 @@
 
 ## [49. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Interesting Instagram Accounts, Posts and Reels / OpenAI GPT-3
+### People and works / Interesting Instagram Accounts, Posts and Reels
 
 *   [Deep Music Visualizer](https://www.instagram.com/deep_music_visualizer/)
-
-### Notes, ideas for projects / OpenAI GPT-3
-
-*   Video clip: music + lyrics => image + video
-*   Book: text => illustration
 
 ## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -679,19 +674,19 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-parser (⭐156)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-parser (⭐158)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 
 ### Libraries / Game development
 
 *   bracket-lib (previously RLTK)
-    *   [bracket-lib (⭐1.1k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK), implemented for Rust. [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
+    *   [bracket-lib (⭐1.2k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK), implemented for Rust. [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
 *   Tcod-rs
-    *   [tomassedovic/tcod-rs (⭐226)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
+    *   [tomassedovic/tcod-rs (⭐227)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
     *   Warning: Not maintained anymore
 
 ### Registries / Web programming
 
-*   [w4/chartered (⭐120)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
+*   [w4/chartered (⭐121)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
 ## [51. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -707,13 +702,13 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [statix (⭐295)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+*   [statix (⭐316)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ### Programming Languages / Rust
 
-*   [fenix (⭐204)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
-*   [nixpkgs-mozilla (⭐395)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
-*   [rust-overlay (⭐350)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
+*   [fenix (⭐218)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [nixpkgs-mozilla (⭐402)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
+*   [rust-overlay (⭐378)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ### Community / Webinterface
 
@@ -774,29 +769,16 @@
 
 *   [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
-## [58. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [58. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### Assembly Language / Blazor
+### Algorithms & Data Structures
 
-*   [A fundamental introduction to x86 assembly prorgamming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) - Project Nayuki (HTML)
-*   [Run Down On x86 Intel Assembly Course (⭐16)](https://github.com/Ret2LC/x86-assembly) - Ret2LC
+*   [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 
-### C++ / Non-X86
+### Containers
 
-*   [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) - Richard L. Halterman (PDF) *(:card\_file\_box: archived)*
-
-### CoffeeScript / Non-X86
-
-*   [Hard Rock CoffeeScript](https://alchaplinsky.github.io/hard-rock-coffeescript/) - Alex Chaplinsky (gitbook)
-*   [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/) - Alex MacCaw, David Griffiths, Satoshi Murakami, Jeremy Ashkenas
-
-### Java / Bootstrap
-
-*   [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)
-
-### JavaScript / Next.js
-
-*   [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) - Brad Traversy (Traversy Media)
+*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐67)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD with Docker and Kubernetes Book (⭐164)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
 ## [59. Public Apis](/content/public-apis/public-apis/week/README.md)
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 ### Introduction
 
 *   [A short history of video coding](https://www.slideshare.net/vcodex/a-short-history-of-video-coding?from_m_app=ios)  - Video coding is an essential component of video streaming, digital TV, video chat and many other technologies. This presentation, an invited lecture to the US …
-*   [Eyevinn/streaming-onboarding (⭐386)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
+*   [Eyevinn/streaming-onboarding (⭐392)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
 *   [leandromoreira/digital\_video\_introduction (⭐13k)](https://github.com/leandromoreira/digital_video_introduction)  - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). - leandromoreira/digital\_video\_introduction
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)

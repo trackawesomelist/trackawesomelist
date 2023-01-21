@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Network / Barcode
 
-*   [RxNetworks (⭐135)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+*   [RxNetworks (⭐146)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -34,15 +34,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [ranjithshegde/ccls.nvim (⭐35)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
+*   [ranjithshegde/ccls.nvim (⭐36)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [NFrid/markdown-togglecheck (⭐2)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
+*   [NFrid/markdown-togglecheck (⭐4)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [NFrid/treesitter-utils (⭐1)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
+*   [NFrid/treesitter-utils (⭐4)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
 
 ## [4. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -58,7 +58,7 @@
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/\~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
 
@@ -96,7 +96,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐139)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
+*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐147)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 
 ---
 

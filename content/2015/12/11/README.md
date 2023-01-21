@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -72,7 +72,7 @@
 
 ### YAML
 
-*   [fast\_yaml (⭐47)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
+*   [fast\_yaml (⭐48)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -94,15 +94,11 @@
 
 ### XML
 
-*   [AEXML (⭐973)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐976)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
 *   [Toucan (⭐2.4k)](https://github.com/gavinbunney/Toucan) - Image processing api.
-
-### Logging / Barcode
-
-*   [Puree (⭐149)](https://github.com/cookpad/puree-ios) - A log collector for iOS.
 
 ### Network / Barcode
 
@@ -116,7 +112,6 @@
 
 *   [ENSwiftSideMenu (⭐1.8k)](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 *   [GuillotineMenu (⭐2.9k)](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
-*   [MediumMenu (⭐322)](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 
 ### Transition / Barcode
 

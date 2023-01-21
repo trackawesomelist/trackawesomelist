@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 09 - Jan 15, 2017
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,38 +43,7 @@
 *   [chromepet (⭐30)](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 *   [chrome-ext-downloader (⭐46)](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Lisp / TeX
-
-*   [Learn Lisp The Hard Way (⭐3)](https://github.com/LispTO/llthw) - Colin J.E. Lupton
-
-### OpenMP / PicoLisp
-
-*   [A Guide To OpenMP](http://bisqwit.iki.fi/story/howto/openmp/)
-
-### Perl / PicoLisp
-
-*   [Embedding Perl in HTML with Mason](http://masonbook.houseabsolute.com/book/) - D. Rolsky, K. Williams
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
-
-### Python / Kivy
-
-*   [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)
-
-### Scratch / Play Scala
-
-*   [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/) - Michal Armoni, Moti Ben-Ari (PDF)
-
-### Standard ML / Play Scala
-
-*   [Introduction to Standard ML](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf) - Atsushi Ohori (PDF)
-*   [SML# Document](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/en/manual.xhtml) - Atsushi Ohori, Katsuhiro Ueno
-
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -87,7 +56,7 @@
     *   [Serverless Architecture using C# and AWS Amazon Gateway Api/Lambda](https://www.codeproject.com/Articles/1178781/Serverless-Architecture-using-Csharp-and-AWS-Amazo)
     *   [Using C# and .NET Core in Amazon Web Services (AWS) Lambda](https://aws.amazon.com/blogs/compute/announcing-c-sharp-support-for-aws-lambda/)
 
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -97,15 +66,15 @@
 
 *   [np (⭐6.9k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.5k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐461)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [clipboard-cli (⭐465)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 *   [Live Server (⭐4k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐121)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐631)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐630)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
-*   [got (⭐12k)](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
+*   [got (⭐13k)](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
 *   [superagent (⭐16k)](https://github.com/visionmedia/superagent) - HTTP request library.
 *   [http-fake-backend (⭐279)](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 
@@ -117,10 +86,10 @@
 
 *   [ora (⭐8.1k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [listr (⭐3.1k)](https://github.com/samverschueren/listr) - Terminal task list.
-*   [conf (⭐997)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-*   [cli-truncate (⭐78)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+*   [conf (⭐1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+*   [cli-truncate (⭐79)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
-*   [insight (⭐553)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+*   [insight (⭐552)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
@@ -131,7 +100,7 @@
 ### Packages / Templating
 
 *   [marko (⭐12k)](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
-*   [nunjucks (⭐7.9k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+*   [nunjucks (⭐8k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
 ### Packages / Web frameworks
 
@@ -141,8 +110,8 @@
 
 *   Observables
     *   [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-    *   [observable-to-promise (⭐319)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
-    *   [More… (⭐319)](https://github.com/sindresorhus/awesome-observables)
+    *   [observable-to-promise (⭐321)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+    *   [More… (⭐321)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -150,7 +119,7 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐7.4k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐7.5k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
@@ -158,7 +127,7 @@
 
 ### Packages / Date
 
-*   [date-fns (⭐30k)](https://github.com/date-fns/date-fns) - Modern date utility.
+*   [date-fns (⭐31k)](https://github.com/date-fns/date-fns) - Modern date utility.
 
 ### Packages / Parsing
 
@@ -168,8 +137,8 @@
 ### Packages / Compression
 
 *   [yazl (⭐307)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐622)](https://github.com/thejoshwolfe/yauzl) - Unzip.
-*   [decompress (⭐362)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+*   [yauzl (⭐626)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [decompress (⭐369)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Packages / Database
 
@@ -178,9 +147,9 @@
     *   [Redis (⭐12k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐575)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-    *   [Couchbase (⭐460)](https://github.com/couchbase/couchnode) - Couchbase client.
+    *   [couchdb-nano (⭐583)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐198)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [Couchbase (⭐458)](https://github.com/couchbase/couchnode) - Couchbase client.
     *   [MongoDB (⭐9.6k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
@@ -193,7 +162,7 @@
 
 ### Packages / Natural language processing
 
-*   [natural (⭐9.9k)](https://github.com/NaturalNode/natural) - Natural language facility.
+*   [natural (⭐10k)](https://github.com/NaturalNode/natural) - Natural language facility.
 
 ### Packages / Process management
 
@@ -202,11 +171,11 @@
 
 ### Packages / Weird
 
-*   [cows (⭐386)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐389)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐5k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐5.1k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 *   [Bottleneck (⭐1.4k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 *   [clipboardy (⭐1.5k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
@@ -215,24 +184,24 @@
 
 *   [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
 
-## [10. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Search Engines
 
 *   [Vert.x Elasticsearch Service (redesign) (⭐29)](https://github.com/hubrick/vertx-elasticsearch-service) - Vert.x 3 [Elasticsearch](https://www.elastic.co/) service with event bus proxying. Redesign of the [Vert.x Elasticsearch Service (⭐58)](https://github.com/englishtown/vertx-elasticsearch-service). Heavy usage of DTOs over eventbus and no more JsonObjects. Added support for ES plugins.
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Encryption
 
-*   [RbNaCl (⭐967)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐965)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐973)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
+*   [Awesome NLP with Ruby (⭐980)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Ruby Natural Language Processing Resources (⭐1.2k)](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
 
-## [12. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [11. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Physical Web
 
@@ -249,7 +218,7 @@
 
 *   [iBeacon Scanner](https://play.google.com/store/apps/details?id=be.createweb.beaconscanner) & [code (⭐5)](https://github.com/eliaslecomte/ibeacon-scanner-app)
 
-## [13. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [12. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -270,7 +239,7 @@
 *   [WizToWar (⭐40)](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps
 *   [wizard-in-a-box (⭐30)](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war
 
-## [14. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [13. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### More
 
@@ -282,7 +251,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
-## [15. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Review Articles / Archeological and Historical Networks
 
@@ -296,25 +265,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106) - Basic notions to remember when assembling and manipulating network data.
 
-## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Monitoring
 
 *   [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - Run a benchmark test on PostgreSQL.
 
-## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
 *   [awscr-signer (⭐18)](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
 
-## [18. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [17. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[standard-own](https://npmjs.com/package/standard-own)** - standard but with more customization and individual rules.
 
-## [19. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### CSharp
 
@@ -330,38 +299,38 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 *   [Microphone (⭐454)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
 *   [Registrator (⭐4.6k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 
-## [20. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [19. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Tips for Researchers / HTML+CSS+JS
 
 *   [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 
-## [21. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Implementations
 
 *   [Pyjion (⭐1.6k)](https://github.com/Microsoft/Pyjion) - A JIT for Python based upon CoreCLR.
 
-## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [21. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   [tinyrenderers (⭐437)](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
+*   [tinyrenderers (⭐439)](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
 
-## [23. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [22. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Articles & Blogs
 
 *   [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 
-## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [23. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
 *   [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 *   [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 
-## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / \# companies
 
@@ -516,25 +485,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   Rust <https://blog.rust-lang.org/>
 
-## [26. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [25. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
 *   [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - An ultra-low cost, hand-powered centrifuge inspired by the mechanics of a whirligig toy.
 
-## [27. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
-*   [Antd Init (⭐819)](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
+*   [Antd Init (⭐820)](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
 
 ### Boilerplates / Themes
 
-*   [Antd Admin (⭐9.1k)](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
+*   [Antd Admin (⭐9.2k)](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
 *   [Dva Antd Starter (⭐27)](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
-*   [Dva Antd Mobile Starter (⭐118)](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
+*   [Dva Antd Mobile Starter (⭐117)](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
 
-## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
@@ -548,7 +517,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Awesome Threat Intelligence (⭐5.5k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
 
-## [29. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
@@ -558,19 +527,19 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Interval plugin (⭐1)](https://github.com/LubosRemplik/CakePHP-Interval) - Converts seconds to human readable string (string to seconds), uses business hours (1 week = 5 days, 1 day = 8 hours).
 
-## [30. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [29. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/) - Learn about functional data structures and their uses in this overview of Facebook's popular library for JavaScript: Immutable.js.
 
-## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Database technologies / Postgres
 
 *   [PostgreSQL Interview Q\&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411)
 
-## [32. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [31. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines
 
@@ -600,13 +569,13 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
         [video](https://www.youtube.com/watch?v=sPkeeWnsMn0) |
         [slides](http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf)]</sup>
 
-## [33. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [SRE in the Small and in the Large](https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary)
 
-## [34. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [33. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Articles
 
@@ -629,25 +598,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 *   [Matryoshka (⭐795)](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
     Generalized folds, unfolds, and traversals for fixed point data structures.
 
-## [35. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [34. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Starter Kits
 
 *   [Node.js API Starter Kit (⭐3.6k)](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay
 
-## [36. Amas](/content/sindresorhus/amas/week/README.md)
+## [35. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Francis Sunday (⭐1)](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 
-## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -655,23 +624,23 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### CSV
 
-*   [nimble\_csv (⭐674)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
+*   [nimble\_csv (⭐678)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
 ### Protocols
 
-*   [protox (⭐223)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
+*   [protox (⭐225)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 
 ### Third Party APIs
 
 *   [dockerex (⭐18)](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
 
-## [39. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [38. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Community / Blogs
 
 *   [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 
-## [40. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [39. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Official resources
 

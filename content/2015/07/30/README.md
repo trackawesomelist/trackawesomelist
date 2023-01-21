@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 30, 2015
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,25 +29,13 @@ git worktree add --detach <path> HEAD
 
 ### Text and Numbers
 
-*   [inet\_cidr (⭐39)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
+*   [inet\_cidr (⭐40)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 
 ### YAML
 
-*   [yaml\_elixir (⭐148)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
+*   [yaml\_elixir (⭐150)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Monitoring / Metric & Metric Collection
-
-*   Dashboards
-    *   [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-    *   [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
-    *   [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
-    *   [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
-    *   [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-    *   [Freeboard (⭐6.3k)](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
-
-## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### R tools / Misc
 

@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -98,7 +98,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [boardgame.io (⭐9.3k)](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
+*   :tada: [boardgame.io (⭐9.4k)](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 *   :tada: [Solar2D](https://solar2d.com/) - A Lua based game engine with focus on ease of iterations and usage.
 
 ## [6. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
@@ -197,13 +197,13 @@
 
 ### Packages / Client libraries
 
-*   [ros2cs (⭐46)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
+*   [ros2cs (⭐47)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐573)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![Build Status](https://api.travis-ci.com/harlanc/xiu.svg?branch=master)](https://app.travis-ci.com/github/harlanc/xiu) [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐612)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![Build Status](https://api.travis-ci.com/harlanc/xiu.svg?branch=master)](https://app.travis-ci.com/github/harlanc/xiu) [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
 ## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -239,7 +239,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-timer-hook (⭐110)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [vue-timer-hook (⭐122)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 ### Components & Libraries / UI Layout
 
@@ -247,13 +247,13 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Materio-vuetify-vuejs-admin-template-free (⭐428)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+*   [Materio-vuetify-vuejs-admin-template-free (⭐443)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 
 ## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
-*   [Bytebase (⭐4.5k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐4.6k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
 ## [17. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

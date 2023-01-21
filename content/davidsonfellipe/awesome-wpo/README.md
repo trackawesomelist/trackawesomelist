@@ -2,7 +2,7 @@
 
 :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/davidsonfellipe/awesome-wpo/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) · ⭐ 7.7K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/davidsonfellipe/awesome-wpo/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) · ⭐ 7.7K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/davidsonfellipe/awesome-wpo/week/README.md) / [Overview](/content/davidsonfellipe/awesome-wpo/readme/README.md) ]
 

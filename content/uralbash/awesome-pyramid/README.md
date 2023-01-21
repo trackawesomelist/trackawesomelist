@@ -2,7 +2,7 @@
 
 A curated list of awesome Pyramid apps, projects and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uralbash/awesome-pyramid/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 uralbash/awesome-pyramid](https://github.com/uralbash/awesome-pyramid) · ⭐ 530 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uralbash/awesome-pyramid/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uralbash/awesome-pyramid](https://github.com/uralbash/awesome-pyramid) · ⭐ 530 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/uralbash/awesome-pyramid/week/README.md) / [Overview](/content/uralbash/awesome-pyramid/readme/README.md) ]
 

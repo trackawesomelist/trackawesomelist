@@ -2,7 +2,7 @@
 
 A collection of web typography resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 526 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 526 · 🏷️ Front-End Development
 
 [ [Daily](/content/deanhume/typography/README.md) / [Weekly](/content/deanhume/typography/week/README.md) / Overview ]
 

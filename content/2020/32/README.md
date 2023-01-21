@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 10 - Aug 16, 2020
 
-56 awesome lists updated this week.
+55 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Querying / Symfony2
 
-*   [Milkman (⭐853)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
+*   [Milkman (⭐855)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -144,7 +144,7 @@
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Prisma (⭐28k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-*   :octocat: [tsParticles (⭐4.5k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐4.7k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 ## [18. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Calendar
 
-*   [ElegantCalendar (⭐520)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐554)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
 
 ## [20. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -369,29 +369,19 @@
 
 *   [make-deno-edition (⭐42)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 
-## [27. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Interneting is Hard (But it Doesn't Have to Be)](https://www.internetingishard.com) - Oliver James
-
-### Perl / PicoLisp
-
-*   [Data Munging with Perl](https://datamungingwithperl.com) (PDF)
-
-## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [27. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Crowdsourced transit data
 
 *   [OpenStreetMap (OSM)](https://www.openstreetmap.org) - The collaborative platform for mapping the world, including transport, transit, and routing data.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
 *   [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluster, up to 5 topics, 10MB data per topic and 28 days of data retention.
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -401,7 +391,7 @@
 
 *   [vue-dom-hints (⭐15)](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
 
-## [31. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [30. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Drag and Drop
 
@@ -409,58 +399,58 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐4.4k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐4.7k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ### CSS / Style / Mouse Events
 
 *   [paperclip](https://paperclip.dev) - [docs](https://paperclip.dev/docs/) - Build UI primitivites with plain HTML & CSS.
 
-## [32. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [31. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [Everforo](https://www.everforo.com) - Everforo is the next generation of online community groups build on top of IPFS.
 
-## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [32. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Other Awesome Lists
 
 *   [awesome-docker (⭐23k)](https://github.com/veggiemonk/awesome-docker)\
     \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git)
 
-## [34. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Crowd-Sourced Information
 
 *   [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL) - Wikipedia entry on all things NoSQL databases.
 
-## [35. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [34. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [bilibili-box (⭐11)](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
+*   [bilibili-box (⭐13)](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
 
-## [36. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [35. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [Ciphey (⭐11k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Feed Readers
 
-*   [reader (⭐258)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+*   [reader (⭐271)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
 
 ### Software / Miscellaneous
 
-*   [Digital-Currency (⭐97)](https://github.com/Icesofty/Digital-Currency) - Create your own Self-Hosted Digital Currency. ([Demo](https://tonken.glitch.me/)) `GPL-3.0` `Nodejs`
+*   [Digital-Currency (⭐103)](https://github.com/Icesofty/Digital-Currency) - Create your own Self-Hosted Digital Currency. ([Demo](https://tonken.glitch.me/)) `GPL-3.0` `Nodejs`
 
 ### Software / Software Development - Project Management
 
-*   [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([Source Code (⭐48)](https://github.com/dgroup/lazylead)) `MIT` `Ruby`
+*   [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([Source Code (⭐51)](https://github.com/dgroup/lazylead)) `MIT` `Ruby`
 
-## [38. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [37. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
@@ -474,37 +464,37 @@
 
 *   [openscap (⭐985)](https://github.com/OpenSCAP/openscap) - The oscap program is a command line tool that allows users to load, scan, validate, edit, and export SCAP documents.
 
-## [39. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [38. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Travel
 
 *   [ShareACab (⭐67)](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
 
-## [40. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Skeleton
 
-*   :strawberry: [App template (⭐338)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+*   :strawberry: [App template (⭐339)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 
-## [41. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [40. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online / Other / unknown licence
 
 *   [compiler-explorer](https://godbolt.org/) - Run GNAT FSF compilers interactively from your web browser and interact with the assembly.
 
-## [42. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [41. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Analyzers / Meetups
 
 *   [Screpy](https://screpy.com) - AI-Based SEO Analysis & Monitoring Tool
 
-## [43. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Boilerplates / Vendor supported providers
 
-*   [Terraform Generator (⭐227)](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
+*   [Terraform Generator (⭐236)](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
 
-## [44. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [43. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Hybrid
 
@@ -512,10 +502,10 @@
 
 ### Machine Learning
 
-*   [Scalable sentiment analysis (⭐3.8k)](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=86400) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
-*   [optimizer.ml (⭐51)](https://github.com/jameschch/LeanParameterOptimization) - ![stars](https://img.shields.io/github/stars/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=86400) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean (⭐6.9k)](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
+*   [Scalable sentiment analysis (⭐3.9k)](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=86400) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
+*   [optimizer.ml (⭐51)](https://github.com/jameschch/LeanParameterOptimization) - ![stars](https://img.shields.io/github/stars/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=86400) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean (⭐7k)](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
 *   [Baseball Machine Learning Workbench (⭐38)](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) - ![stars](https://img.shields.io/github/stars/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=86400) A web application that showcases performing what-if analysis using in-memory Machine Learning models. [Live demo](https://baseballmlworkbench-v1.azurewebsites.net).
-*   [BlazorML5 (⭐44)](https://github.com/sps014/BlazorML5) - ![last-commit](https://img.shields.io/github/last-commit/sps014/BlazorML5?style=flat-square\&cacheSeconds=86400) ML5 Machine Learning for Blazor with JSInterop mechanism.
+*   [BlazorML5 (⭐45)](https://github.com/sps014/BlazorML5) - ![last-commit](https://img.shields.io/github/last-commit/sps014/BlazorML5?style=flat-square\&cacheSeconds=86400) ML5 Machine Learning for Blazor with JSInterop mechanism.
 
 ### ToDos
 
@@ -523,21 +513,21 @@
 
 ### Others
 
-*   [Oqtane Framework (⭐1.2k)](https://github.com/oqtane/oqtane.framework) - ![GitHub stars](https://img.shields.io/github/stars/oqtane/oqtane.framework?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/oqtane/oqtane.framework?style=flat-square\&cacheSeconds=86400) Modular Application Framework for Blazor.
+*   [Oqtane Framework (⭐1.3k)](https://github.com/oqtane/oqtane.framework) - ![GitHub stars](https://img.shields.io/github/stars/oqtane/oqtane.framework?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/oqtane/oqtane.framework?style=flat-square\&cacheSeconds=86400) Modular Application Framework for Blazor.
 *   [BlazorFileReader (⭐375)](https://github.com/Tewr/BlazorFileReader) - ![GitHub stars](https://img.shields.io/github/stars/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=86400) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
-*   [BlazorChatSample (⭐201)](https://github.com/conficient/blazorchatsample) - ![stars](https://img.shields.io/github/stars/conficient/blazorchatsample?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/conficient/blazorchatsample?style=flat-square\&cacheSeconds=86400) Blazor chat demo using SignalR JS client with interop.
-*   [Money (⭐158)](https://github.com/maraf/Money) - ![stars](https://img.shields.io/github/stars/maraf/Money?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/maraf/Money?style=flat-square\&cacheSeconds=86400) A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
+*   [BlazorChatSample (⭐205)](https://github.com/conficient/blazorchatsample) - ![stars](https://img.shields.io/github/stars/conficient/blazorchatsample?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/conficient/blazorchatsample?style=flat-square\&cacheSeconds=86400) Blazor chat demo using SignalR JS client with interop.
+*   [Money (⭐163)](https://github.com/maraf/Money) - ![stars](https://img.shields.io/github/stars/maraf/Money?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/maraf/Money?style=flat-square\&cacheSeconds=86400) A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
 *   [NethereumBlazor (⭐112)](https://github.com/Nethereum/NethereumBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Nethereum/NethereumBlazor?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Nethereum/NethereumBlazor?style=flat-square\&cacheSeconds=86400) Ethereum blockchain explorer and simple wallet.
-*   [Planning Poker (⭐49)](https://github.com/duracellko/planningpoker4azure) – ![Last commit](https://img.shields.io/github/last-commit/duracellko/planningpoker4azure?style=flat-square\&cacheSeconds=86400) An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change. [Demo](http://planningpoker.duracellko.net).
+*   [Planning Poker (⭐50)](https://github.com/duracellko/planningpoker4azure) – ![Last commit](https://img.shields.io/github/last-commit/duracellko/planningpoker4azure?style=flat-square\&cacheSeconds=86400) An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change. [Demo](http://planningpoker.duracellko.net).
 *   [C# Regex Tester online (⭐8)](https://github.com/lsvhome/regex-tester) - ![Last commit](https://img.shields.io/github/last-commit/lsvhome/regex-tester?style=flat-square\&cacheSeconds=86400) Online tool for verify .Net regex syntax. ([Demo](https://lsvhome.github.io/regex-tester/)).
 *   [C# Regex Online tool (⭐4)](https://github.com/MichaelSL/blazor-wasm-test-012020) - ![Last commit](https://img.shields.io/github/last-commit/MichaelSL/blazor-wasm-test-012020?style=flat-square\&cacheSeconds=86400) Online tool for verify .Net regex syntax, see splits list, table etc. ([Demo](https://dotnet-regex.com/)).
-*   [Blazor Wake-on-LAN (⭐21)](https://github.com/georg-jung/BlazorWoL) - ![Last commit](https://img.shields.io/github/last-commit/georg-jung/BlazorWoL?style=flat-square\&cacheSeconds=86400) Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI.
-*   [BlazingWaffles (⭐4)](https://github.com/gbiellem/BlazingWaffles) - ![last commit](https://img.shields.io/github/last-commit/gbiellem/BlazingWaffles?style=flat-square\&cacheSeconds=86400) A Blazor app that wraps [Waffle Generator (⭐80)](https://github.com/SimonCropp/WaffleGenerator). The generator outputs readable gibberish that can be used in place of Lorum Ipsum. [Demo](http://wafflegen.azurewebsites.net/).
+*   [Blazor Wake-on-LAN (⭐22)](https://github.com/georg-jung/BlazorWoL) - ![Last commit](https://img.shields.io/github/last-commit/georg-jung/BlazorWoL?style=flat-square\&cacheSeconds=86400) Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI.
+*   [BlazingWaffles (⭐4)](https://github.com/gbiellem/BlazingWaffles) - ![last commit](https://img.shields.io/github/last-commit/gbiellem/BlazingWaffles?style=flat-square\&cacheSeconds=86400) A Blazor app that wraps [Waffle Generator (⭐81)](https://github.com/SimonCropp/WaffleGenerator). The generator outputs readable gibberish that can be used in place of Lorum Ipsum. [Demo](http://wafflegen.azurewebsites.net/).
 *   [Nethereum Playground (⭐24)](https://github.com/Nethereum/Nethereum.Playground) - ![last commit](https://img.shields.io/github/last-commit/Nethereum/Nethereum.Playground?style=flat-square\&cacheSeconds=86400) Compile and run Nethereum snippets on the browser. You can run it here: <http://playground.nethereum.com/>.
 
 ### Tools & Utilities / Others
 
-*   [Blazor PDF (⭐66)](https://github.com/tossnet/Blazor-PDF) - ![stars](https://img.shields.io/github/stars/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=86400) Generate de PDF document with iTextSharp from a Blazor Server App.
+*   [Blazor PDF (⭐67)](https://github.com/tossnet/Blazor-PDF) - ![stars](https://img.shields.io/github/stars/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=86400) Generate de PDF document with iTextSharp from a Blazor Server App.
 *   [Blazor-Color-Picker (⭐25)](https://github.com/tossnet/Blazor-Color-Picker) - ![last commit](https://img.shields.io/github/last-commit/tossnet/Blazor-Color-Picker?style=flat-square\&cacheSeconds=86400) Opens a palette with the Material colors for Blazor application.
 
 ### Others / Others
@@ -548,16 +538,16 @@
 
 *   [Blazor Minimum Project Templates (⭐29)](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=86400) A project templates package of Blazor apps without JavaScript and CSS libraries.
 *   [Blazor REPL (⭐245)](https://github.com/BlazorRepl/BlazorRepl) - ![GitHub stars](https://img.shields.io/github/stars/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=86400) Write, compile, execute and share Blazor components entirely in the browser - <https://blazorrepl.com>.
-*   [WebCompiler (⭐114)](https://github.com/excubo-ag/WebCompiler) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=86400) A dotnet global tool for compilation, minification, and compression of scss, css and js.
-*   [Tracetool (⭐28)](https://github.com/capslock66/Tracetool#Blazor-client--server) - ![GitHub stars](https://img.shields.io/github/stars/capslock66/Tracetool?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/capslock66/Tracetool?style=flat-square\&cacheSeconds=86400) Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.
+*   [WebCompiler (⭐115)](https://github.com/excubo-ag/WebCompiler) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=86400) A dotnet global tool for compilation, minification, and compression of scss, css and js.
+*   [Tracetool (⭐29)](https://github.com/capslock66/Tracetool#Blazor-client--server) - ![GitHub stars](https://img.shields.io/github/stars/capslock66/Tracetool?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/capslock66/Tracetool?style=flat-square\&cacheSeconds=86400) Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.
 
-## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### 🇮🇳 India / Misc
 
 *   Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
 
-## [46. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [45. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
@@ -565,7 +555,7 @@
 *   [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - Service provider for intelligent automation.
 *   [synapticon](https://www.synapticon.com/technology) - ROS compatible motion control and drive products with efforts to support ROS2.
 
-## [47. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [46. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -574,7 +564,7 @@
 *   [DevUI Icons, by Huawei Cloud (⭐18)](https://github.com/DevCloudFE/devui-icons) - DevUI font icons.
 *   [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) - ⭐ Ant Design SVG Icons.
 
-## [48. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
@@ -589,19 +579,19 @@
 
 *   [keukenhof (⭐17)](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
 
-## [49. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [48. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Hackerspad - <https://hackerspad.net/submit-software/>
 
-## [50. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [49. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   **[gb asm tutorial](https://eldred.fr/gb-asm-tutorial)** - Step by step tutorial, building several ROMs to accompany its explanations.
 
-## [51. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [50. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
@@ -612,7 +602,7 @@
 
 *   [Devicon (⭐6.3k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 
-## [52. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [51. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering to Management Transition
 
@@ -626,13 +616,13 @@
 
 *   [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits across companies.
 
-## [53. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Software Sessions](https://www.softwaresessions.com/) - Practical conversations about building software.
 
-## [54. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [53. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage discovery / App catalogs
 
@@ -802,13 +792,13 @@
 *   [awesome-linuxdeploy (⭐23)](https://github.com/linuxdeploy/awesome-linuxdeploy) - Awesome list on linuxdeploy.
 *   [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 
-## [55. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [54. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Learning / Switzerland
 
 *   [The CTP Book](https://comp-think.github.io/) - A book for teaching Computational Thinking and Programming skills to people with a background in the Humanities.
 
-## [56. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [55. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 

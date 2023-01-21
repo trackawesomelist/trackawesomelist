@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,8 +46,8 @@
 
 ### Models/Projects
 
-*   [Neural Caption Generator (⭐509)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
-*   [Neural Caption Generator with Attention (⭐509)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
+*   [Neural Caption Generator (⭐510)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
+*   [Neural Caption Generator with Attention (⭐510)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
 *   [Weakly\_detector (⭐363)](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
 *   [Dynamic Capacity Networks (⭐8)](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
 *   [HMM in TensorFlow (⭐283)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
@@ -75,7 +75,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [rebash (⭐65)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
+*   [rebash (⭐66)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Examples and funny stuff
 
-*   [oop (⭐279)](https://github.com/wojtekmach/oop) - OOP in Elixir!
+*   [oop (⭐280)](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
 ## [8. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

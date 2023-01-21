@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 16 - Nov 22, 2015
 
-56 awesome lists updated this week.
+54 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -219,22 +219,7 @@
 
 *   [JSON Schema + Faker (⭐2.9k)](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 
-## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### Monitoring / Metric & Metric Collection
-
-*   Storage
-    *   [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-    *   [KairosDB (⭐1.7k)](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
-    *   [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
-
-### NoSQL / Metric & Metric Collection
-
-*   Graph
-    *   [FlockDB (⭐3.3k)](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
-    *   [Neo4j](http://neo4j.com/) - Graph database.
-
-## [12. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [11. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
@@ -248,7 +233,7 @@
 
 *   [httpie (⭐25k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 
-## [13. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [12. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Theory
 
@@ -338,13 +323,13 @@
 
 *   [suseapplication](https://www.suse.com/products/susestudio/) tools to create suse applications
 
-## [14. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :books: [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/) by [Basarat Ali Syed](https://twitter.com/basarat)
 
-## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Queue
 
@@ -357,9 +342,9 @@
 
 ### CMS and applications built on CakePHP
 
-*   [QuickApps-CMS (⭐162)](https://github.com/quickapps/cms) - Open source content management system.
+*   [QuickApps-CMS (⭐163)](https://github.com/quickapps/cms) - Open source content management system.
 
-## [16. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+## [15. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
 ### JS
 
@@ -370,7 +355,7 @@
 *   [quantum-colors (⭐40)](https://github.com/nkpfstr/quantum-colors) — Material Design color palette for your Sass projects.
 *   [quantum-shadows (⭐32)](https://github.com/nkpfstr/quantum-shadows) — Material Design drop shadows for your Sass projects.
 
-## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -422,7 +407,7 @@
 
 
 
-## [18. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [17. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Elements / Canvas
 
@@ -458,7 +443,7 @@
 
 *   [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
 
-## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
@@ -568,7 +553,7 @@
 
 *   [2010](http://leoneu.github.io/) - **Yahoo** - S4: Distributed Stream Computing Platform.
 
-## [20. Tools](/content/lvwzhen/tools/week/README.md)
+## [19. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Favicon
 
@@ -591,7 +576,7 @@
 
 *   [Jquery API](http://www.jquery123.com/)
 
-## [21. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [20. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Transpilers
 
@@ -622,7 +607,7 @@
 *   [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
 *   [Recast (⭐4.3k)](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator (⭐3.7k)](https://github.com/facebook/regenerator) and [es6-arrow-function (⭐52)](https://github.com/esnext/es6-arrow-function).
 
-## [22. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [21. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### File Uploading / Omniauth
 
@@ -632,13 +617,13 @@
 
 *   [elasticsearch-rails (⭐3k)](https://github.com/elastic/elasticsearch-rails) - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails.
 
-## [23. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [22. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Documentation
 
 *   [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 
-## [24. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [23. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Parsers
 
@@ -651,7 +636,7 @@
 
 *   [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
 
-## [25. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -669,7 +654,7 @@
 
 *   [mysql-native (⭐79)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 
-## [26. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [25. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Creation / These sites are good for building a basic framework for the site.
 
@@ -690,7 +675,7 @@
 *   [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
 *   [Mentor](http://www.mentor.so/) - Get random advice from other designers and developers.
 
-## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Standard Libraries
 
@@ -718,7 +703,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐56k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐57k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -730,11 +715,11 @@
 
 ### Machine Learning
 
-*   [Minerva (⭐680)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐682)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
-*   [Civetweb (⭐2.2k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
+*   [Civetweb (⭐2.3k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
 
 ### Online Compiler
 
@@ -767,7 +752,7 @@
 *   [Coding For Speed](https://codingforspeed.com/) - Coding For Speed DOT COM, Less Execution Time.
 *   [Sticky Bits](https://blog.feabhas.com/)
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -775,7 +760,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [sidetask (⭐71)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+*   [sidetask (⭐70)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
 ### Examples and funny stuff
 
@@ -788,7 +773,7 @@
 
 ### JSON
 
-*   [jsonapi (⭐451)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐452)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -809,7 +794,7 @@
 
 ### Queue
 
-*   [honeydew (⭐706)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐707)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -819,7 +804,7 @@
 
 *   [fitex (⭐2)](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 
-## [29. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [28. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / HTTP Handler
 
@@ -833,7 +818,7 @@
 
 *   [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 
-## [30. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [29. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Database
 
@@ -859,7 +844,7 @@
 
 *   [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 
-## [31. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [30. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### *Basics*
 
@@ -869,7 +854,6 @@
 *   [GHCi](https://downloads.haskell.org/\~ghc/latest/docs/html/users_guide/ghci.html) - a bytecode interpreter and interactive REPL environment for Haskell.
 *   [Haddock](https://www.haskell.org/haddock/) - a tool for automatically generating documentation from annotated Haskell source code.
 *   [Happy](https://www.haskell.org/happy/) - The Parser Generator for Haskell.
-*   [The Haskell Platform](https://www.haskell.org/platform/contents.html) - a comprehensive, robust development environment for programming in Haskell.
 
 ### Algorithmics
 
@@ -1071,7 +1055,7 @@
 *   [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
 *   [Revised report](https://www.haskell.org/onlinereport/) - Haskell 98 Language and Libraries. The Revised Report.
 
-## [32. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Package Managers
 
@@ -1135,7 +1119,7 @@
 
 *   [instanceofpro/awesome-backbone (⭐402)](https://github.com/sadcitizen/awesome-backbone)
 
-## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Android SDK
 
@@ -1177,7 +1161,7 @@
 
 *   [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
 
-## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [33. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -1211,7 +1195,7 @@
 *   [Mythbusting Modern Hardware to Gain 'Mechanical Sympathy'](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) - Martin Thompson.
 *   [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) - Martin Thompson.
 
-## [35. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### JSON / Field Validation
 
@@ -1245,20 +1229,20 @@
 
 *   [Groovy Language Support for Android (⭐855)](https://github.com/groovy/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
 
-## [36. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [35. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Security / Tools
 
 *   [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers/)\
     Open Source Vulnerability Analysis for your Containers.
 
-## [37. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [36. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Plugins / Nice-to-have :thumbsup:
 
 *   [User Flow (⭐1.4k)](https://github.com/abynim/UserFlows)
 
-## [38. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [37. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
@@ -1269,176 +1253,20 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [39. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### ASP.NET
-
-*   [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
-
-### C / Non-X86
-
-*   [Programming in C](http://ee.hawaii.edu/\~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
-*   [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
-
-### C++ / Non-X86
-
-*   [Game Programming Patterns](http://gameprogrammingpatterns.com)
-
-### Clojure / Non-X86
-
-*   [Clojure for the Brave and True](http://www.braveclojure.com)
-*   [Clojure Koans](http://clojurekoans.com)
-*   [ClojureScript Koans](http://clojurescriptkoans.com)
-*   [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
-
-### CoffeeScript / Non-X86
-
-*   [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
-
-### ColdFusion / Non-X86
-
-*   [Learn CF in a Week](http://learncfinaweek.com)
-
-### CUDA / Non-X86
-
-*   [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) (PDF)
-
-### Elixir / Non-X86
-
-*   [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML) (:construction: *in process*)
-
-### Embedded Systems / Phoenix
-
-*   [Control and Embedded Systems](http://www.learn-c.com) (HTML)
-
-### Forth / Phoenix
-
-*   [Thinking Forth](http://thinking-forth.sourceforge.net)
-
-### Go / Phoenix
-
-*   [An Introduction to Programming in Go](http://www.golang-book.com)
-*   [Go by Example](https://gobyexample.com)
-
-### Haskell / Spock Framework
-
-*   [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
-*   [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovača
-
-### HTML and CSS / Spock Framework
-
-*   [A free guide to learn HTML and CSS](http://marksheet.io)
-*   [HTML Dog Tutorials](http://www.htmldog.com)
-*   [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
-*   [Learn CSS Layout](http://learnlayout.com)
-
-### iOS / Bootstrap
-
-*   [Cocoa Dev Central](http://cocoadevcentral.com)
-
-### Java / Bootstrap
-
-*   [3D Programming in Java](http://www.mat.uniroma2.it/\~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
-*   [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
-
-### JavaScript / Node.js
-
-*   [The Node Beginner Book](http://nodebeginner.org)
-
-### Linux / TeX
-
-*   [Getting Started with Ubuntu](http://ubuntu-manual.org)
-*   [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
-*   [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
-*   [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
-
-### Lisp / TeX
-
-*   [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
-*   [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
-
-### MATLAB / PicoLisp
-
-*   [An Interactive Introduction to MATLAB](http://www.science.smith.edu/\~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
-
-### NoSQL / PicoLisp
-
-*   [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
-*   [Graph Databases](http://graphdatabases.com)
-*   [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
-
-### Perl / PicoLisp
-
-*   [Plack Handbook](http://handbook.plackperl.org)
-
-### PHP / PicoLisp
-
-*   [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
-*   [PHP Best Practices](https://phpbestpractices.org)
-*   [PHP Internals Book](http://www.phpinternalsbook.com)
-*   [PHP: The Right Way](http://www.phptherightway.com)
-
-### Prolog / Zend
-
-*   [Learn Prolog Now!](http://www.learnprolognow.org)
-*   [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
-
-### Prolog / Constraint Logic Programming (extended Prolog)
-
-*   [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Composing Programs](http://composingprograms.com) (3.x)
-*   [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
-*   [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
-*   [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
-
-### R / Tornado
-
-*   [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
-*   [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
-*   [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
-
-### Ruby / Tornado
-
-*   [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
-*   [Ruby Koans](http://www.rubykoans.com)
-*   [Ruby Learning](http://rubylearning.com)
-*   [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
-
-### Scala / Sinatra
-
-*   [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
-*   [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
-
-### Scala / Lift
-
-*   [Exploring Lift](http://exploring.liftweb.net) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
-*   [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
-
-### Teradata / Vapor
-
-*   [Teradata Books](http://www.info.teradata.com)
-
-### TLA / Vapor
-
-*   [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html) - Leslie Lamport (Postscript or PDF)
-
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Geospatial
 
 *   [Georust](https://github.com/georust) — geospatial tools and libraries written in Rust
 
-## [41. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [39. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
 *   [Git-it (⭐1.9k)](https://github.com/jlord/git-it) -- :computer: :mortar\_board: A workshopper for learning Git and GitHub.
 *   [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
 
-## [42. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -1507,7 +1335,7 @@ $0.99
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
-## [43. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [41. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / Ruby
 
@@ -1526,7 +1354,7 @@ $0.99
 
 *   [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) By Jeremy Ashkenas
 
-## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -1547,7 +1375,7 @@ $0.99
 *   [2012-paper-diginorm (⭐8)](https://github.com/dib-lab/2012-paper-diginorm)
 *   [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn (⭐11k)](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 
-## [45. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [43. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Audio
 
@@ -1611,7 +1439,7 @@ $0.99
 *   [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
 *   [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
 
-## [46. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [44. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -1620,7 +1448,7 @@ $0.99
 *   [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 *   [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
 
-## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [45. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Navigation
 
@@ -1630,7 +1458,7 @@ $0.99
 
 *   [ttystudio (⭐3.2k)](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 
-## [48. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [46. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -1645,13 +1473,13 @@ $0.99
 
 *   [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
 
-## [49. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [47. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Go / Erlang
 
 *   [Libchan (⭐2.5k)](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
 
-## [50. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [48. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Caching
 
@@ -1663,16 +1491,16 @@ $0.99
 
 ### IRB
 
-*   [irbtools (⭐883)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
-*   [Pry (⭐6.5k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
+*   [irbtools (⭐893)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
+*   [Pry (⭐6.6k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 
-## [51. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [49. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Twitter accounts / Misc
 
 *   [Nadieh Bremer](https://twitter.com/NadiehBremer)
 
-## [52. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [50. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript General Resources / Components
 
@@ -1683,13 +1511,13 @@ $0.99
 *   [ng2-play (⭐539)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
 *   [Spring Boot and Angular2 tutorial (⭐143)](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 
-## [53. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [51. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
 *   [Google2FA (⭐1.5k)](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 
-## [54. Amas](/content/sindresorhus/amas/week/README.md)
+## [52. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -1698,7 +1526,7 @@ $0.99
 *   [Arnaud Benard (⭐1)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 *   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
 
-## [55. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [53. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -1729,7 +1557,7 @@ $0.99
 
 *   [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 
-## [56. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Search
 

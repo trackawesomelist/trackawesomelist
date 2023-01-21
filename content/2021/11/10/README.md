@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [Haven (⭐491)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
+*   [Haven (⭐495)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaeinst/roshnivim-cs (⭐49)](https://github.com/shaeinst/roshnivim-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
+*   [shaeinst/roshnivim-cs (⭐50)](https://github.com/shaeinst/roshnivim-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

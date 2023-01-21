@@ -2,7 +2,7 @@
 
 50 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Learning / More Awesome
 
-*   📚 [Awesome JS Books (⭐53)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   📚 [Awesome JS Books (⭐54)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -415,7 +415,7 @@
 
 ### MVVM
 
-*   [Gemini (⭐969)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+*   [Gemini (⭐976)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 
 ### Windows Services
 
@@ -429,12 +429,12 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐458)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐101)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐466)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐104)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.1k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐188)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
-*   [passivedns (⭐1.5k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+*   [passivedns-client (⭐190)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
 *   [smbmap (⭐1.4k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ### Vulnerability Databases / Social Engineering Tools
@@ -534,10 +534,6 @@
 
 *   [CenteredCollectionView (⭐1.2k)](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 
-### Video / Barcode
-
-*   [VGPlayer (⭐397)](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.
-
 ## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
@@ -564,7 +560,7 @@ Wifi pw: `fermento`
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐27)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐26)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
@@ -572,7 +568,7 @@ Wifi pw: `fermento`
 
 ### Macros
 
-*   [expat (⭐173)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐174)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 
@@ -580,7 +576,7 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐639)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐640)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
@@ -696,7 +692,7 @@ Wifi pw: `fermento`
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐41)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐42)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -731,8 +727,8 @@ Wifi pw: `fermento`
 
 ### Example Projects
 
-*   [Red Hat Single Sign-On Labs (⭐11)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐185)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Red Hat Single Sign-On Labs (⭐12)](https://github.com/RedHatWorkshops/red-hat-sso)
+*   [Spring Boot Keycloak Tutorial (⭐188)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [43. Inspire](/content/noahbuscher/inspire/week/README.md)
 

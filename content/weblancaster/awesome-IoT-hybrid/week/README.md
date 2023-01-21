@@ -2,7 +2,7 @@
 
 The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/weblancaster/awesome-IoT-hybrid/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 weblancaster/awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid) · ⭐ 487 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/weblancaster/awesome-IoT-hybrid/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 weblancaster/awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid) · ⭐ 487 · 🏷️ Platforms
 
 [ [Daily](/content/weblancaster/awesome-IoT-hybrid/README.md) / Weekly / [Overview](/content/weblancaster/awesome-IoT-hybrid/readme/README.md) ]
 

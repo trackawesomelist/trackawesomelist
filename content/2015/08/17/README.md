@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -102,7 +102,7 @@
 
 ### Questions
 
-*   [oml (⭐113)](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
+*   [oml (⭐115)](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
 
 ### Testing
 
@@ -199,7 +199,7 @@
 
 ### Database
 
-*   [redis3m (⭐184)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
+*   [redis3m (⭐183)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

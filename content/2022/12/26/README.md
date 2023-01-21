@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / ChatGPT
 
 *   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
 
@@ -40,11 +40,11 @@
 
 ### Security
 
-*   [Password Cracking (⭐147)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+*   [Password Cracking (⭐179)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 ## [7. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
-### Other
+### Featured
 
 *   [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
 
@@ -58,8 +58,9 @@
 
 ### Tools
 
-*   💼 [react-with-class (⭐4)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
+*   💼 [react-with-class (⭐6)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
 
 ---
 
+- Prev: [Dec 27, 2022](/content/2022/12/27/README.md)
 - Next: [Dec 25, 2022](/content/2022/12/25/README.md)

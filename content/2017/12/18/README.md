@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -70,11 +70,11 @@
 
 ### Video
 
-*   [Vireo (⭐873)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐874)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐459)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2017 Presentations (⭐457)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
 *   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---

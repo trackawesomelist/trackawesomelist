@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### API Builder and Discovery
 
-*   [cache\_crispies (⭐138)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
+*   [cache\_crispies (⭐141)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
 
 ### Assets
 
-*   [Vite Ruby (⭐800)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
+*   [Vite Ruby (⭐815)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ### Automation
 
@@ -32,16 +32,16 @@
 
 ### Testing / Barcode
 
-*   [Mussel (⭐66)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
+*   [Mussel (⭐65)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 
 ## [3. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
-*   [Clojure (⭐82)](https://github.com/prestancedesign/inertia-clojure)
-*   [CodeIgniter (⭐17)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐69)](https://github.com/petaki/inertia-go)
+*   [Clojure (⭐83)](https://github.com/prestancedesign/inertia-clojure)
+*   [CodeIgniter (⭐18)](https://github.com/amiranagram/inertia-codeigniter-4)
+*   [Go (⭐74)](https://github.com/petaki/inertia-go)
 *   [PSR-15 (⭐28)](https://github.com/cherifGsoul/inertia-psr15)
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
@@ -52,8 +52,8 @@
 
 ### Development / Newsletters
 
-*   [devshell (⭐647)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐507)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [devshell (⭐697)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+*   [flake-utils (⭐540)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
 ## [5. Awesome React](/content/enaqx/awesome-react/README.md)
 
@@ -65,11 +65,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐86)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [XIV ToDo (⭐87)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-tiny-validate (⭐110)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+*   [vue-tiny-validate (⭐111)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐6.7k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐6.9k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ### Software / Task Management & To-do Lists
 
@@ -105,7 +105,7 @@
 
 ### Types / Playground
 
-*   [nominal (⭐45)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
+*   [nominal (⭐46)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
 
 ---
 

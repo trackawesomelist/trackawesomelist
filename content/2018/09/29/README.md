@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,8 +12,8 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐56k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐33k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Apps (⭐57k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐34k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [2. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -54,7 +54,7 @@ Rename Index.txt to Index.html
 
 ### Misc
 
-*   [aioserial (⭐107)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
+*   [aioserial (⭐109)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.8k)](https://github.com/pyserial/pyserial).
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -87,17 +87,17 @@ Rename Index.txt to Index.html
 
 ### Device / Augmented Reality
 
-*   [Downloader (⭐757)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
-*   [AppAvailability (⭐88)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Downloader (⭐786)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+*   [AppAvailability (⭐89)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Device / Scanner
 
-*   [QR Code Reader (⭐225)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+*   [QR Code Reader (⭐226)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 *   [Fast QR Reader View (⭐287)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Blue (⭐2.1k)](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
+*   [Blue (⭐2.2k)](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 *   [Beacons (⭐76)](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
 
 ### Storage / Bluetooth / NFC / Beacon
@@ -106,7 +106,7 @@ Rename Index.txt to Index.html
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [Place Dialog (⭐46)](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
+*   [Place Dialog (⭐44)](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 *   [App Rating (⭐37)](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 
 ### Communication / Game Engine resources

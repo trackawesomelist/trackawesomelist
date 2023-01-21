@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,10 +11,10 @@
 ### Cloud Platform Attack Tools / Malware Analysis Books
 
 *   [Cloud Container Attack Tool (CCAT)](https://rhinosecuritylabs.com/aws/cloud-container-attack-tool/) - Tool for testing security of container environments.
-*   [CloudHunter (⭐51)](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
+*   [CloudHunter (⭐57)](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
 *   [Cloudsplaining](https://cloudsplaining.readthedocs.io/) - Identifies violations of least privilege in AWS IAM policies and generates a pretty HTML report with a triage worksheet.
 *   [Endgame](https://endgame.readthedocs.io/) - AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account.
-*   [GCPBucketBrute (⭐339)](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+*   [GCPBucketBrute (⭐352)](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -53,22 +53,17 @@
 
 *   [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Go / Phoenix
+### Machine Learning
 
-*   [Go for Python Programmers](https://golang-for-python-programmers.readthedocs.io/en/latest) - Jason McVetta (HTML, PDF, EPUB)
-*   [Practical Go Lessons](https://www.practical-go-lessons.com) - Maximilien Andile
-
-### HTML and CSS / Spock Framework
-
-*   [RTL Styling 101](https://rtlstyling.com) - Ahmad Shadeed
+*   [Approaching Almost Any Machine Learning Problem (⭐3.5k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Icons
 
-*   [react-icomoon (⭐141)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [react-icomoon (⭐153)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
 
 ## [7. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -384,7 +379,7 @@
 
 ### Storage / Database
 
-*   [uSQLite (⭐38)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
+*   [uSQLite (⭐42)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
 ## [10. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
@@ -400,7 +395,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vitailse (⭐107)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
+*   🚀 [Vitailse (⭐112)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -410,45 +405,47 @@
 
     *   [ArangoDB](https://www.arangodb.com)
         *   [Aragog](https://gitlab.com/qonfucius/aragog) \[[aragog](https://crates.io/crates/aragog)] - A Lightweight ArangoDB Object document, relational and graph mapper [![pipeline status](https://gitlab.com/qonfucius/aragog/badges/master/pipeline.svg)](https://gitlab.com/qonfucius/aragog/-/commits/master)
-        *   [Arangors (⭐113)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver for Rust
+        *   [Arangors (⭐116)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver for Rust
     *   [Cassandra](https://cassandra.apache.org/_/index.html) \[[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
-        *   [AlexPikalov/cdrs (⭐339)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] — native client written in Rust [![build badge](https://api.travis-ci.org/AlexPikalov/cdrs.svg?branch=master)](https://travis-ci.org/AlexPikalov/cdrs)
-        *   [krojew/cdrs-tokio (⭐69)](https://github.com/krojew/cdrs-tokio) \[[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - production-ready async Apache Cassandra driver written in pure Rust [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
-        *   [Metaswitch/cassandra-rs (⭐92)](https://github.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client [![build badge](https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master)](https://travis-ci.org/Metaswitch/cassandra-rs)
+        *   [AlexPikalov/cdrs (⭐338)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] — native client written in Rust [![build badge](https://api.travis-ci.org/AlexPikalov/cdrs.svg?branch=master)](https://travis-ci.org/AlexPikalov/cdrs)
+        *   [krojew/cdrs-tokio (⭐73)](https://github.com/krojew/cdrs-tokio) \[[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - production-ready async Apache Cassandra driver written in pure Rust [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
+        *   [Metaswitch/cassandra-rs (⭐93)](https://github.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client [![build badge](https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master)](https://travis-ci.org/Metaswitch/cassandra-rs)
     *   CouchDB \[[couchdb](https://crates.io/keywords/couchdb)]
         *   [chill-rs/chill (⭐35)](https://github.com/chill-rs/chill) \[[couchdb](https://crates.io/crates/chill)] — A Rust client for the CouchDB REST API [![build badge](https://api.travis-ci.org/chill-rs/chill.svg?branch=master)](https://travis-ci.org/chill-rs/chill)
     *   [DynamoDB](https://aws.amazon.com/dynamodb/) \[[dynamodb](https://crates.io/keywords/dynamodb)]
-        *   [softprops/dynomite (⭐196)](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [![build badge](https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master)](https://github.com/softprops/dynomite/actions)
+        *   [softprops/dynomite (⭐198)](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [![build badge](https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master)](https://github.com/softprops/dynomite/actions)
     *   Elasticsearch \[[elasticsearch](https://crates.io/keywords/elasticsearch)]
-        *   [benashford/rs-es (⭐216)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] — A Rust client for the [Elastic](https://www.elastic.co/) REST API [![build badge](https://api.travis-ci.org/benashford/rs-es.svg?branch=master)](https://travis-ci.org/benashford/rs-es)
+        *   [benashford/rs-es (⭐218)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] — A Rust client for the [Elastic](https://www.elastic.co/) REST API [![build badge](https://api.travis-ci.org/benashford/rs-es.svg?branch=master)](https://travis-ci.org/benashford/rs-es)
         *   [elastic-rs/elastic (⭐249)](https://github.com/elastic-rs/elastic) \[[elastic](https://crates.io/crates/elastic)] — elastic is an efficient, modular API client for Elasticsearch written in Rust [![build badge](https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true)](https://ci.appveyor.com/project/KodrAus/elastic)
     *   etcd
-        *   [jimmycuadra/rust-etcd (⭐136)](https://github.com/jimmycuadra/rust-etcd) \[[etcd](https://crates.io/crates/etcd)] — A client library for CoreOS's etcd. [![build badge](https://api.travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master)](https://travis-ci.org/jimmycuadra/rust-etcd)
-        *   [lodrem/etcd-rs (⭐155)](https://github.com/lodrem/etcd-rs) — An asynchronous etcd client for rust [![CI](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml)
+        *   [jimmycuadra/rust-etcd (⭐139)](https://github.com/jimmycuadra/rust-etcd) \[[etcd](https://crates.io/crates/etcd)] — A client library for CoreOS's etcd. [![build badge](https://api.travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master)](https://travis-ci.org/jimmycuadra/rust-etcd)
+        *   [lodrem/etcd-rs (⭐160)](https://github.com/lodrem/etcd-rs) — An asynchronous etcd client for rust [![CI](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml)
     *   ForestDB
         *   [vhbit/sherwood (⭐8)](https://github.com/vhbit/sherwood) — [ForestDB (⭐1.2k)](https://github.com/couchbase/forestdb) bindings [![build badge](https://api.travis-ci.org/vhbit/sherwood.svg?branch=master)](https://travis-ci.org/vhbit/sherwood)
     *   [InfluxDB](https://www.influxdata.com/)
-        *   [driftluo/InfluxDBClient-rs (⭐75)](https://github.com/driftluo/InfluxDBClient-rs) — Synchronization interface [![build badge](https://api.travis-ci.org/driftluo/InfluxDBClient-rs.svg?branch=master)](https://travis-ci.org/driftluo/InfluxDBClient-rs)
+        *   [driftluo/InfluxDBClient-rs (⭐74)](https://github.com/driftluo/InfluxDBClient-rs) — Synchronization interface [![build badge](https://api.travis-ci.org/driftluo/InfluxDBClient-rs.svg?branch=master)](https://travis-ci.org/driftluo/InfluxDBClient-rs)
     *   LevelDB
-        *   [skade/leveldb (⭐161)](https://github.com/skade/leveldb) — [LevelDB (⭐31k)](https://github.com/google/leveldb) bindings [![build badge](https://api.travis-ci.org/skade/leveldb.svg?branch=master)](https://travis-ci.org/skade/leveldb)
+        *   [skade/leveldb (⭐163)](https://github.com/skade/leveldb) — [LevelDB (⭐32k)](https://github.com/google/leveldb) bindings [![build badge](https://api.travis-ci.org/skade/leveldb.svg?branch=master)](https://travis-ci.org/skade/leveldb)
     *   LMDB \[[lmdb](https://crates.io/keywords/lmdb)]
         *   [vhbit/lmdb-rs (⭐104)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] — [LMDB](https://www.symas.com/symas-embedded-database-lmdb) bindings [![build badge](https://api.travis-ci.org/vhbit/lmdb-rs.svg?branch=master)](https://travis-ci.org/vhbit/lmdb-rs)
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
-        *   [mongodb/mongo-rust-driver (⭐1.1k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] — [MongoDB](https://www.mongodb.com/) bindings
+        *   [mongodb/mongo-rust-driver (⭐1.2k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] — [MongoDB](https://www.mongodb.com/) bindings
     *   [PickleDB](https://pythonhosted.org/pickleDB/)
-        *   [seladb/pickledb-rs (⭐153)](https://github.com/seladb/pickledb-rs) — a lightweight and simple key-value store, heavily inspired by Python's PickleDB. [![build badge](https://api.travis-ci.org/seladb/pickledb-rs.svg?branch=master)](https://travis-ci.org/seladb/pickledb-rs)
+        *   [seladb/pickledb-rs (⭐156)](https://github.com/seladb/pickledb-rs) — a lightweight and simple key-value store, heavily inspired by Python's PickleDB. [![build badge](https://api.travis-ci.org/seladb/pickledb-rs.svg?branch=master)](https://travis-ci.org/seladb/pickledb-rs)
+    *   [PoloDB](https://www.polodb.org/)
+        *   [vincentdchan/PoloDB (⭐414)](https://github.com/vincentdchan/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vincentdchan/PoloDB/rust.yml)
     *   Redis \[[redis](https://crates.io/keywords/redis)]
-        *   [aembke/fred (⭐105)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
+        *   [aembke/fred (⭐110)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
         *   [redis-rs (⭐2.8k)](https://github.com/redis-rs/redis-rs) — [Redis](https://redis.io/) library in Rust [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐1.3k)](https://github.com/rust-rocksdb/rust-rocksdb) — RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐16k)](https://github.com/surrealdb/surrealdb) — SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐17k)](https://github.com/surrealdb/surrealdb) — SurrealDB embedded document-graph database
     *   [UnQLite](https://unqlite.org/)
-        *   [zitsen/unqlite.rs (⭐100)](https://github.com/zitsen/unqlite.rs) — UnQLite bindings [![build badge](https://api.travis-ci.org/zitsen/unqlite.rs.svg?branch=master)](https://travis-ci.org/zitsen/unqlite.rs)
+        *   [zitsen/unqlite.rs (⭐101)](https://github.com/zitsen/unqlite.rs) — UnQLite bindings [![build badge](https://api.travis-ci.org/zitsen/unqlite.rs.svg?branch=master)](https://travis-ci.org/zitsen/unqlite.rs)
     *   [ZooKeeper](https://zookeeper.apache.org/)
-        *   [bonifaido/rust-zookeeper (⭐167)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper. [![build badge](https://api.travis-ci.org/bonifaido/rust-zookeeper.svg?branch=master)](https://travis-ci.org/bonifaido/rust-zookeeper)
-        *   [krojew/rust-zookeeper (⭐15)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client written 100% in Rust, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
+        *   [bonifaido/rust-zookeeper (⭐169)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper. [![build badge](https://api.travis-ci.org/bonifaido/rust-zookeeper.svg?branch=master)](https://travis-ci.org/bonifaido/rust-zookeeper)
+        *   [krojew/rust-zookeeper (⭐16)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client written 100% in Rust, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
 
 ## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

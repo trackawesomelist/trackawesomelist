@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -109,7 +109,7 @@
 
 ### For Electron / Other
 
-*   [electron-pdf-window (⭐265)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐266)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐86k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [three.js (⭐88k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
 ### Inspiration / Other
 

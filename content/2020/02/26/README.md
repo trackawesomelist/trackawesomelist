@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Accessibility
 
-*   [Capable (⭐229)](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
+*   [Capable (⭐231)](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
 
 ### Colors
 
@@ -30,7 +30,7 @@
 
 ### CTF Tools / Malware Analysis Books
 
-*   [RsaCtfTool (⭐3.9k)](https://github.com/Ganapati/RsaCtfTool) - Decrypt data enciphered using weak RSA keys, and recover private keys from public keys using a variety of automated attacks.
+*   [RsaCtfTool (⭐4.1k)](https://github.com/Ganapati/RsaCtfTool) - Decrypt data enciphered using weak RSA keys, and recover private keys from public keys using a variety of automated attacks.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Resources / Tutorials and Hints
 
-*   [Coq'Art Exercises and Tutorials (⭐75)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
+*   [Coq'Art Exercises and Tutorials (⭐77)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -78,13 +78,13 @@
 
 ### Tools & Software / Replay
 
-*   [InterPlanetary Wayback (ipwb) (⭐503)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
+*   [InterPlanetary Wayback (ipwb) (⭐526)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [fzy (⭐35)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+*   [fzy (⭐38)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -109,16 +109,16 @@
 
 ### Component bundles
 
-*   [BlazorStrap (⭐841)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+*   [BlazorStrap (⭐846)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 
 ### Individual components / Modal, Toast & Notifications
 
-*   [Blazored.Toast (⭐498)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
+*   [Blazored.Toast (⭐519)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
 
 ### Individual components / Others
 
-*   [Blazored.Typeahead (⭐372)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-*   [Razor.SweetAlert2 (⭐125)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
+*   [Blazored.Typeahead (⭐375)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
+*   [Razor.SweetAlert2 (⭐128)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
 
 ### Tools & Utilities / Others
 
@@ -147,13 +147,13 @@
 ### Applications / Audio and Music
 
 *   [Spotify TUI (⭐14k)](https://github.com/Rigellute/spotify-tui) — A Spotify client for the terminal written in Rust. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
-*   [Spotifyd (⭐6.6k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
+*   [Spotifyd (⭐8.5k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
 ## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
-*   [Logary (⭐517)](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
+*   [Logary (⭐518)](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
 
 ### Mathematics
 
@@ -161,13 +161,13 @@
 
 ### Misc
 
-*   [FluentValidation (⭐7.8k)](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+*   [FluentValidation (⭐7.9k)](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 
 ### ORM
 
 *   [Entity Framework 6 (⭐1.4k)](https://github.com/dotnet/ef6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 *   [Entity Framework Core (⭐12k)](https://github.com/dotnet/efcore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
-*   [MicroLite ORM (⭐87)](https://github.com/MicroLite-ORM/MicroLite) MicroLite ORM is a micro Object Relational Mapper for the .NET framework. It is designed to be easy to use, extensible and testable.
+*   [MicroLite ORM (⭐86)](https://github.com/MicroLite-ORM/MicroLite) MicroLite ORM is a micro Object Relational Mapper for the .NET framework. It is designed to be easy to use, extensible and testable.
 
 ---
 

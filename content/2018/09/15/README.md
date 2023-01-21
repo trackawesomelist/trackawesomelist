@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,19 +16,19 @@
 
 ### Charts
 
-*   [d3-dag (⭐1.2k)](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acylic graphs
+*   [d3-dag (⭐1.3k)](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acylic graphs
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTML/XML Parsing
 
-*   [myhtml (⭐152)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
+*   [myhtml (⭐151)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Tourism (⭐273)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐273)](https://github.com/bluemix/tourism-demo)
+*   [Tourism (⭐276)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐276)](https://github.com/bluemix/tourism-demo)
 
 ---
 

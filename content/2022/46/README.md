@@ -2,7 +2,7 @@
 
 69 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,19 +26,19 @@
 
 ### Programming Languages
 
-*   [Move (⭐899)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
+*   [Move (⭐942)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 
 ### Front-End Development
 
-*   [Hydrogen (⭐95)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+*   [Hydrogen (⭐99)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
 
 ### Networking
 
-*   [Scapy (⭐91)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
+*   [Scapy (⭐100)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
 ### Miscellaneous
 
-*   [Computational Geometry (⭐21)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
+*   [Computational Geometry (⭐26)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 
 ## [4. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Ninja-Squad/springmockk (⭐384)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
+*   [Ninja-Squad/springmockk (⭐391)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
 
 ### Projects / Web
 
@@ -75,11 +75,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [cycle-fav-dirs (⭐0)](https://github.com/cibinmathew/cycle-fav-dirs) - A plugin to cycle through your favourite directories.
+*   [cycle-fav-dirs (⭐1)](https://github.com/cibinmathew/cycle-fav-dirs) - A plugin to cycle through your favourite directories.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐9.6k)](https://github.com/Schniz/fnm).
+*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐9.9k)](https://github.com/Schniz/fnm).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -88,7 +88,7 @@
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### Learning / Crash Courses
+### Crash Courses
 
 *   [Dissecting Algorand](https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72) - Introduction Algorand and an analysis on Algorand's inner workings.
 
@@ -102,7 +102,7 @@
 
 ### Extensions
 
-*   [Next-Sitemap (⭐2k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
+*   [Next-Sitemap (⭐2.2k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 
 ## [12. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -133,18 +133,18 @@
 
 ### Clojure
 
-*   [Cloture (⭐334)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
+*   [Cloture (⭐338)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
 *   [cl-oju (⭐12)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [clj-con (⭐16)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [clj-re (⭐6)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
 
 ### Typing
 
-*   [typo (⭐16)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [typo (⭐23)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
-*   [OpenRPC (⭐17)](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [OpenRPC (⭐19)](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   Automatic OpenRPC spec generation
     *   Automatic JSON-RPC client building by OpenRPC spec. This includes creation of Common Lisp classes and methods for making RPC requests and returning native CL objects.
     *   all JSON marshalling is done under the hood.
@@ -156,15 +156,15 @@
 
 ### Macro helpers / Third-party APIs
 
-*   [easy-macros (⭐11)](https://github.com/tdrhq/easy-macros/) -  an easy way to write 90% of your macros. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [easy-macros (⭐17)](https://github.com/tdrhq/easy-macros/) -  an easy way to write 90% of your macros. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [17. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   Dynamsoft
-    *   [Barcode Reader (⭐3)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
-    *   [Camera Preview (⭐2)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
+    *   [Barcode Reader (⭐5)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
+    *   [Camera Preview (⭐3)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
     *   [Document Normalizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer) - Scan documents using Dynamsoft Document Normalizer.
     *   [Label Recognizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
 
@@ -193,7 +193,7 @@
 
 ### Utilities / General Tools
 
-*   [DevToysMac (⭐6.3k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DevToysMac (⭐6.4k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -216,7 +216,7 @@
 
 ### Tools
 
-*   [Magento 2 Database Synchronizer (⭐37)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
+*   [Magento 2 Database Synchronizer (⭐38)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
 *   [Subodha Magento2 Gulp Integration (⭐78)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
 
 ## [24. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
@@ -239,7 +239,7 @@
 
 ### Charts / Checkbox
 
-*   [Layer Cake (⭐688)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
+*   [Layer Cake (⭐735)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
 ## [27. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -309,11 +309,11 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfautomv (⭐313)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
+*   [tfautomv (⭐432)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 
 ### Terraform Enterprise / Vendor supported providers
 
-*   [OTF (⭐95)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+*   [OTF (⭐102)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 
 ## [31. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -331,7 +331,7 @@
 
 ### Libraries / New Libraries
 
-*   [econpizza (⭐12)](https://github.com/gboehl/econpizza) - Solve macroeconomic models with hetereogeneous agents using JAX. <img src="https://img.shields.io/github/stars/gboehl/econpizza?style=social" align="center">
+*   [econpizza (⭐16)](https://github.com/gboehl/econpizza) - Solve macroeconomic models with hetereogeneous agents using JAX. <img src="https://img.shields.io/github/stars/gboehl/econpizza?style=social" align="center">
 
 ## [34. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -420,7 +420,7 @@
 
 ### Cryptography
 
-*   [HEhub (⭐57)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐61)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Networking
 
@@ -434,13 +434,13 @@
 
 ### Machine Learning / Automated Machine Learning
 
-*   [AutoGluon (⭐5k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [AutoGluon (⭐5.2k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Data Manipulation / Data-centric AI
 
-*   [cleanlab (⭐4.2k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-*   [snorkel (⭐5.3k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-*   [dataprep (⭐1.4k)](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
+*   [cleanlab (⭐4.4k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [snorkel (⭐5.4k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+*   [dataprep (⭐1.5k)](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
 
 ### Related Resources / NLP
 
@@ -462,7 +462,7 @@
 
 ### Hardware / Opcodes
 
-*   [dmg-schematics (⭐3)](https://github.com/msinger/dmg-schematics) - Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.
+*   [dmg-schematics (⭐6)](https://github.com/msinger/dmg-schematics) - Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.
 
 ## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -485,11 +485,11 @@
 
 ### Templates / React
 
-*   [vite-plugin-react-views (⭐5)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
+*   [vite-plugin-react-views (⭐4)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 
 ### Templates / Electron
 
-*   [Vutron (⭐30)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐37)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -497,7 +497,7 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [cypress-vite (⭐26)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [cypress-vite (⭐28)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 ## [44. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -505,45 +505,27 @@
 
 *   [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
 
-## [45. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [45. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### C++ / Non-X86
+### Security & Privacy
 
-*   [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) - Alex Allain
-
-### JavaScript / Wicket
-
-*   [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
-
-### JavaScript / Node.js
-
-*   [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
-*   [Serverless framework getting started](https://www.serverless.com/framework/docs/getting-started)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
-*   [Use The Index, Luke!: A Guide To SQL Database Performance](https://use-the-index-luke.com) - Markus Winand (HTML)
-
-### TypeScript / Angular
-
-*   [Angular Material](https://material.angular.io/guides) (HTML)
+*   [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/\~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
 
 ## [46. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
-*   [bubbletea (⭐16k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
+*   [bubbletea (⭐17k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 
 ### SQL Query Builders
 
-*   [builq (⭐39)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
+*   [builq (⭐45)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 
 ## [47. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Gateway
 
-*   [Apinto (⭐348)](https://github.com/eolinker/goku) - Golang-based microservice gateway that enables high-performance dynamic routing,service orchestration, multi-tenancy management, API access control, etc.
+*   [Apinto (⭐393)](https://github.com/eolinker/goku) - Golang-based microservice gateway that enables high-performance dynamic routing,service orchestration, multi-tenancy management, API access control, etc.
 
 ## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -559,7 +541,7 @@
 
 ### Image Processing
 
-*   [Anime Segmentation (⭐53)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
+*   [Anime Segmentation (⭐150)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
 
 ## [50. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -570,7 +552,7 @@
 
 ### Players / MPEG
 
-*   [elements/packages/mux-player (⭐94)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐524)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
+*   [elements/packages/mux-player (⭐113)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐651)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
 
 ## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -584,12 +566,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-awesome-sidebar (⭐12)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
-*   [vue-web-terminal (⭐51)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
+*   [vue-awesome-sidebar (⭐13)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
+*   [vue-web-terminal (⭐63)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 
 ### Components & Libraries / Frameworks
 
-*   [Vue USWDS (⭐6)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
+*   [Vue USWDS (⭐5)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 
 ### Components & Libraries / Utilities
 
@@ -597,7 +579,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vue3-SPA-starter-template (⭐29)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
+*   [Vue3-SPA-starter-template (⭐32)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
 
 ## [52. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -610,7 +592,7 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [cargo-breaking (⭐113)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
-*   [cargo-show-asm (⭐188)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+*   [cargo-show-asm (⭐192)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
 ## [54. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -626,7 +608,7 @@
 
 ## [56. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### DreamBooth
+### Hypertechniques / DreamBooth
 
 *   [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth): experiments to analyze the effect of different settings in Dreambooth
 
@@ -634,9 +616,9 @@
 
 *   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music and Audio projects / Text-related Generative Tools
 
-*   [MubertAI/Mubert-Text-to-Music (⭐2.2k)](https://github.com/MubertAI/Mubert-Text-to-Music): A simple notebook demonstrating prompt-based music generation via Mubert API
+*   [MubertAI/Mubert-Text-to-Music (⭐2.3k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
 
 ## [57. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -658,7 +640,7 @@
 
 ### Libraries / PHP
 
-*   [PHP Driver (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+*   [PHP Driver (⭐800)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Libraries / Scala
 
@@ -677,8 +659,8 @@
 
 ### Tools / Shell
 
-*   [MongoDB Atlas CLI (⭐133)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
-*   [mongosh (⭐212)](https://github.com/mongodb-js/mongosh) - Official command-line client
+*   [MongoDB Atlas CLI (⭐135)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+*   [mongosh (⭐222)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
 ## [59. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -702,11 +684,11 @@
 
 ### Auto Layout / Barcode
 
-*   [HypeUI (⭐98)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
+*   [HypeUI (⭐103)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 
 ### Testing / Barcode
 
-*   [SBTUITestTunnel (⭐281)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
+*   [SBTUITestTunnel (⭐284)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
 
 ## [61. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -718,12 +700,12 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [toppair/peek.nvim (⭐162)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
+*   [toppair/peek.nvim (⭐215)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/sibling-swap.nvim (⭐34)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
-*   [Wansmer/binary-swap.nvim (⭐8)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
+*   [Wansmer/sibling-swap.nvim (⭐38)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
+*   [Wansmer/binary-swap.nvim (⭐9)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
 
 ## [63. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -736,7 +718,7 @@
 *   [A computational model of scientific insight](https://escholarship.org/uc/item/54x8v354) - ***The nature of creativity: Contemporary psychological perspectives***, 1988. \[[All Versions](https://scholar.google.com/scholar?cluster=13633357571064621019\&hl=en\&as_sdt=0,5)]. A computational account on insights for scientific discovery.
 *   [What Makes an Insight Problem? The Roles of Heuristics, Goal Conception, and Solution Recoding in Knowledge-Lean Problems](https://www.researchgate.net/profile/Thomas-Ormerod/publication/8909475_What_Makes_an_Insight_Problem_The_Roles_of_Heuristics_Goal_Conception_and_Solution_Recoding_in_Knowledge-Lean_Problems/links/00b7d5159f3c057eb5000000/What-Makes-an-Insight-Problem-The-Roles-of-Heuristics-Goal-Conception-and-Solution-Recoding-in-Knowledge-Lean-Problems.pdf) - ***Journal of Experimental Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=17529631069707671285\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2003-10949-002)].
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
@@ -744,7 +726,7 @@
 
 ### Projects / Verified Software
 
-*   [Functional Algorithms Verified in SSReflect (⭐25)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
+*   [Functional Algorithms Verified in SSReflect (⭐26)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
 
 ### Resources / Community
 
@@ -781,7 +763,7 @@
 
 ## [67. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Web / Metric & Metric Collection
+### Software / Web
 
 *   [Traefik](https://traefik.io/) - Traefik is a leading modern reverse proxy and load balancer.
 

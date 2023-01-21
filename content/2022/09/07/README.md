@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 07, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,14 +10,12 @@
 
 ### Articles / Other external resources
 
-*   [Implement SSR with React + Rails (⭐73)](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
-*
+*   [Implement SSR with React + Rails (⭐78)](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
 
 ### Gems / Other external resources
 
 *   [react\_on\_rails (⭐4.9k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
-*   [cypress\_on\_rails (⭐360)](https://github.com/shakacode/cypress-on-rails) - A gem to use cypress.io with your rails application. [:red\_circle:](https://rubygems.org/gems/cypress_on_rails)
-*   [shakapacker (⭐255)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
+*   [shakapacker (⭐267)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
 ## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -29,33 +27,39 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [JNGL (⭐89)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
+*   :tada: [JNGL (⭐96)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 
-## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Quantum Computing
+
+*   [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
+
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Task Queues
 
 *   [flower (⭐5.4k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 
-## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/) - By Joaquín Peña Fernández. August 29, 2022.
 
-## [6. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [7. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
 
-*   [Real-ESRGAN (⭐16k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
+*   [Real-ESRGAN (⭐17k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Files and directories / Third-party APIs
 
-*   [file-notify (⭐19)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [file-notify (⭐20)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [8. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
+## [9. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
 ### Data Validation and Serialization / OAuth
 
@@ -69,7 +73,7 @@
 
 *   [FlaskCon](https://twitter.com/flaskcon) - Community driven Flask event intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask.
 
-## [9. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [10. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Best Practices / Other Tools
 
@@ -79,32 +83,32 @@
 
 *   [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Why can't your Blazor WebAssembly PWA with offline support update even though you reload it?](https://dev.to/j_sakamoto/why-cant-your-blazor-webassembly-pwa-with-offline-support-update-even-though-you-reload-it-31ho) - September 7, 2022 - Please imagine the case that you have a Blazor WebAssembly PWA site that supports offline mode, and you've been opening that PWA by a web browser. If you published a new version of that PWA, you might want to verify it, I guess. In this case, you will reload the page on that web browser. However, you might never see the contents of the new version unexpectedly even though you hard-reload it.
 *   [Troubleshooting .NET Blazor WASM Debugging](https://khalidabuhakmeh.com/troubleshooting-dotnet-blazor-wasm-debugging) - August 30, 2022 - Troubleshooting .NET Blazor WASM Debugging.
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Self-hosting Solutions
 
-*   [Tipi (⭐4.8k)](https://github.com/meienberger/runtipi) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.com)) `GPL-3.0` `Shell`
+*   [Tipi (⭐5.2k)](https://github.com/meienberger/runtipi) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.com)) `GPL-3.0` `Shell`
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/\~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 
-## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Useful Apps / iOS
 
 *   **RaspController** - Allows you to easily manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal and so much more. [iOS](https://apps.apple.com/app/raspcontroller/id1584315865)
 
-## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [15. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 

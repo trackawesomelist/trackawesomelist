@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -105,21 +105,17 @@
 
 ## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### Getting Started
-
-*   [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/course/arkit-beginner-to-professional/)
-
 ### Analytics
 
 *   [MOCA Analytics](https://www.mocaplatform.com/features) - Paid cross-platform analytics backend.
 
 ### App Routing
 
-*   [LiteRoute (⭐95)](https://github.com/SpectralDragon/LiteRoute) - Easy transition between VIPER modules, implemented on pure Swift.
+*   [LiteRoute (⭐94)](https://github.com/SpectralDragon/LiteRoute) - Easy transition between VIPER modules, implemented on pure Swift.
 
 ### Blockchain
 
-*   [EthereumKit (⭐458)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
+*   [EthereumKit (⭐459)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 
 ### Bridging
 
@@ -139,11 +135,11 @@
 
 ### Transition
 
-*   [TransitionableTab (⭐776)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
+*   [TransitionableTab (⭐784)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 
 ### Popup
 
-*   [PopupView (⭐1.7k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐1.9k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
@@ -208,13 +204,13 @@
 
 ### Articles
 
-*   [Kong / Konga / Keycloak: securing API through OIDC (⭐212)](https://github.com/d4rkstar/kong-konga-keycloak)
+*   [Kong / Konga / Keycloak: securing API through OIDC (⭐225)](https://github.com/d4rkstar/kong-konga-keycloak)
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
-*   [RSS Guard (⭐798)](https://github.com/martinrotter/rssguard) <sup>[574](https://t.me/s/aboutrss/574)</sup> ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/martinrotter/rssguard)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSS Guard (⭐875)](https://github.com/martinrotter/rssguard) <sup>[574](https://t.me/s/aboutrss/574)</sup> ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/martinrotter/rssguard)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 

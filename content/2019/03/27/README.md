@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,13 +29,13 @@ Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos
 ### Network Tools / Transport Layer Security Tools
 
 *   [SSLyze (⭐2.8k)](https://github.com/nabla-c0d3/sslyze) - Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
-*   [crackpkcs12 (⭐95)](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
+*   [crackpkcs12 (⭐103)](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Device / Augmented Reality
 
-*   [VPN (⭐263)](https://github.com/X-dea/Flutter_VPN)<!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
+*   [VPN (⭐276)](https://github.com/X-dea/Flutter_VPN)<!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
 
 ### 🇧🇷 Brazil / Misc
 
@@ -83,11 +83,11 @@ Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos
 *   [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub (⭐42)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
 *   [SciDe (⭐67)](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
-### Python / General-Purpose Machine Learning
+### Libraries
 
-*   [StellarGraph (⭐2.6k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+*   [StellarGraph (⭐2.6k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

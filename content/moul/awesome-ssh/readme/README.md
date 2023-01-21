@@ -2,7 +2,7 @@
 
 :computer: A curated list of SSH resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/moul/awesome-ssh/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 moul/awesome-ssh](https://github.com/moul/awesome-ssh) · ⭐ 2K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/moul/awesome-ssh/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 moul/awesome-ssh](https://github.com/moul/awesome-ssh) · ⭐ 2K · 🏷️ Development Environment
 
 [ [Daily](/content/moul/awesome-ssh/README.md) / [Weekly](/content/moul/awesome-ssh/week/README.md) / Overview ]
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2021
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Auditing / Logging
 
-*   :strawberry: [AuditStash plugin (⭐69)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
+*   :strawberry: [AuditStash plugin (⭐68)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
 
 ### Debugging
 
@@ -60,7 +60,7 @@
 ### Applications
 
 *   [chat (⭐23)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐256)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -87,7 +87,7 @@
 
 ### Tools
 
-*   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐272)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Routing
 
-*   [Phalcon-autorouter (⭐29)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+*   [Phalcon-autorouter (⭐28)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 
 ### Magazines / Slides
 
@@ -118,7 +118,7 @@
 
 ### Bindings
 
-*   [vulkan-zig (⭐190)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
+*   [vulkan-zig (⭐192)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
 
 ## [11. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
@@ -130,13 +130,13 @@
 
 ### Security configurations / Firewall appliances or distributions
 
-*   [Bunkerized-nginx (⭐2.7k)](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
+*   [Bunkerized-nginx (⭐2.8k)](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
 
 ## [13. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Model Explanation / NLP
 
-*   [Shapley (⭐184)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐188)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 
 ## [14. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -170,7 +170,7 @@
 
 ### Plugins
 
-*   [Spark (⭐280)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish.
+*   [Spark (⭐286)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish.
 
 ## [19. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -192,7 +192,7 @@
 
 ## [21. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Applications / Graphics
+### Graphics
 
 *   [vRayTracer (⭐42)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
@@ -206,7 +206,7 @@
 
 ### Containers
 
-*   [Sitecore Docker Examples (⭐61)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
+*   [Sitecore Docker Examples (⭐63)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 
 ### Demo
 
@@ -218,7 +218,7 @@
 
 ### Maintenance
 
-*   [Sifon (⭐10)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has very powerful extension system with plugins covering many aspects of day-to-day activities.
+*   [Sifon (⭐11)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has very powerful extension system with plugins covering many aspects of day-to-day activities.
 
 ### SPE (Sitecore PowerShell Extension)
 
@@ -244,11 +244,11 @@
 
 ### Tools / Music drivers and trackers
 
-*   [hUGETracker (⭐179)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
+*   [hUGETracker (⭐189)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-vwf (⭐29)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
+*   [gb-vwf (⭐30)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
 
 ## [27. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -315,7 +315,7 @@
 
 ### Network / Barcode
 
-*   [TermiNetwork (⭐88)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
+*   [TermiNetwork (⭐90)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 
 ## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -473,38 +473,28 @@
 
 ### Libraries / New Libraries
 
-*   [jax-flows (⭐221)](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
-*   [sklearn-jax-kernels (⭐32)](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
-*   [efax (⭐36)](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
+*   [jax-flows (⭐226)](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
+*   [sklearn-jax-kernels (⭐33)](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
+*   [efax (⭐39)](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 
 ### Models and Projects / JAX
 
-*   [kalman-jax (⭐82)](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
-*   [jaxns (⭐77)](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
+*   [kalman-jax (⭐84)](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
+*   [jaxns (⭐76)](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### BETA / Non-X86
-
-*   [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh
-
-## [44. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [43. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### AutoHotkey_H / Web
 
 *   [AutoHotkey\_H](https://hotkeyit.github.io/v2/) - AHK\_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of v1 changes](https://hotkeyit.github.io/v1/docs/AutoHotkey.htm) + [Full list of v2 changes](https://hotkeyit.github.io/v2/docs/AutoHotkey.htm)
 
-## [45. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [44. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Tutorials / Wrappers for Audio Plugins
 
 *   [Live-coding a music synthesizer](https://www.youtube.com/watch?v=SSyQ0kRHzis) Live-coding video showing how to use the SoundDevice library to reproduce realistic sounds. [Code (⭐16)](https://github.com/cool-RR/python_synthesizer).
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -518,13 +508,13 @@
 
 *   [vuex-overlay-tools (⭐11)](https://github.com/Mirazex/vuex-overlay) - 🛠 A Vue 3 plugin for monitoring Vuex store (time-travel is also supported)
 
-## [47. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [46. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Casual
 
 *   Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
-## [48. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [47. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Community
 
@@ -534,13 +524,13 @@
 
 *   [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs.
 
-## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / File Organization Tools
 
 *   [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 
-## [50. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [49. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Vector Creation
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Third-party APIs
 
-*   [raven.cr (⭐112)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐33k)](https://github.com/getsentry/sentry)
+*   [raven.cr (⭐113)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐33k)](https://github.com/getsentry/sentry)
 
 ## [3. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Cryptography
 
-*   [SecurityDriven.Inferno (⭐543)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
+*   [SecurityDriven.Inferno (⭐545)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 
 ---
 

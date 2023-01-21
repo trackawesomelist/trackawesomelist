@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,31 +19,31 @@
 *   [activate-py-environment (⭐6)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
 *   [zbrowse (⭐7)](https://github.com/zdharma-continuum/zbrowse) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
 *   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐2.9k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
-*   [zinit-annex-submods (⭐5)](https://github.com/z-shell/z-a-submods) - [zinit (⭐1.5k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
+*   [zinit-annex-submods (⭐6)](https://github.com/z-shell/z-a-submods) - [zinit (⭐1.6k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
 *   [zlong\_alert (⭐36)](https://github.com/kevinywlui/zlong_alert.zsh) - Uses `notify-send` and rings a bell to alert you when a command that has taken a long time (default: 15 seconds) has completed.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [ympd](https://ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code (⭐508)](https://github.com/notandy/ympd)) `GPL-2.0` `C`
+*   [ympd](https://ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code (⭐509)](https://github.com/notandy/ympd)) `GPL-2.0` `C`
 
 ### Software / Personal Dashboards
 
-*   [dashdot (⭐951)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
+*   [dashdot (⭐1k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
 
 ### Software / Polls and Events
 
-*   [Bitpoll (⭐158)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Python`
+*   [Bitpoll (⭐168)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Python`
 
 ### Software / Search Engines
 
-*   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐6.1k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java`
+*   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐6.3k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java`
 *   [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Source Code (⭐2.9k)](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java`
 
 ### Software / Software Development - Project Management
 
-*   [GitPrep (⭐876)](https://github.com/yuki-kimoto/gitprep) - Portable Github clone. ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) `Artistic-2.0` `Perl`
+*   [GitPrep (⭐879)](https://github.com/yuki-kimoto/gitprep) - Portable Github clone. ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) `Artistic-2.0` `Perl`
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Templates / Electron
 
-*   [vite-plugin-electron-renderer (⭐18)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
+*   [vite-plugin-electron-renderer (⭐24)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 
 ### Apps/Websites / Community
 
@@ -119,13 +119,13 @@
 
 ### Libraries
 
-*   [TensorLayerX (⭐156)](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
+*   [TensorLayerX (⭐170)](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Networking
 
-*   [open-coap/kotlin-mbedtls (⭐3)](https://github.com/open-coap/kotlin-mbedtls) - Integration with mbedtls library to provide DTLS client and server in jvm
+*   [open-coap/kotlin-mbedtls (⭐4)](https://github.com/open-coap/kotlin-mbedtls) - Integration with mbedtls library to provide DTLS client and server in jvm
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

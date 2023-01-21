@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Algorithms and Data structures
 
-*   [erlang-algorithms (⭐142)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
+*   [erlang-algorithms (⭐143)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
 *   [spacesaving (⭐2)](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
 
 ### Testing

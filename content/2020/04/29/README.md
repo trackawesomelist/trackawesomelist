@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -233,7 +233,7 @@
 
 ### Recruitment / Hiring Process
 
-*   [Open Sourced Interview Process (⭐362)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+*   [Open Sourced Interview Process (⭐363)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 *   [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
 ### Recruitment / Coding Challenge
@@ -361,7 +361,7 @@
 
 *   [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.”
 *   [`proselint`](https://github.com/amperser/proselint/) - Places the world's greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
-*   [alex (⭐4.4k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+*   [alex (⭐4.5k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 
 ### Compensation / Equity
 
@@ -430,7 +430,7 @@
 
 *   [Feedbin](https://feedbin.com/) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedbin/feedbin)
 *   [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://newsblur.com/)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/samuelclay/NewsBlur)
-*   [RSSMonster (⭐373)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
+*   [RSSMonster (⭐381)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
 *   [Temboz (⭐60)](https://github.com/fazalmajid/temboz) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fazalmajid/temboz)
 *   [KrISS feed](http://tontof.net/kriss/feed/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tontof/kriss_feed)
 *   [Leed (Light Feed) (⭐189)](https://github.com/LeedRSS/Leed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LeedRSS/Leed)
@@ -451,7 +451,7 @@
 
 ### Text
 
-*   [CodeMirror Swift (⭐78)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
+*   [CodeMirror Swift (⭐85)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
 
 ## [14. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

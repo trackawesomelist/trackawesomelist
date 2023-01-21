@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Programming Languages
 
-*   [Imba (⭐123)](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
+*   [Imba (⭐125)](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Canvas-sketch (⭐4.3k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+*   [Canvas-sketch (⭐4.4k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 
 ## [3. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -42,22 +42,23 @@
 
 ### Software / Polls and Events
 
-*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐286)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐288)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 
 ### External Links / Wikis
 
-*   Mirrors: [GitHub.com (⭐111k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+*   Mirrors: [GitHub.com (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [jedisct1/flowgger (⭐733)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
+*   [jedisct1/flowgger (⭐739)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
 
 ### Libraries / GUI
 
 *   [Flutter](https://flutter.dev/)
     *   [flutter-rs (⭐2k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
+    *   [fzyzcjy/flutter\_rust\_bridge (⭐2.2k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

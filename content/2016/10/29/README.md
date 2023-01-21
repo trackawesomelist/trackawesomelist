@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,13 +47,13 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [Recommender (⭐252)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+*   [Recommender (⭐253)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 
 ### C++ / General-Purpose Machine Learning
 
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
 *   [DyNet (⭐3.3k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐412)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [Fido (⭐413)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [LightGBM (⭐14k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 *   [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
@@ -88,13 +88,11 @@
 *   [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 *   [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
 *   [Bootstrapped Web](http://bootstrappedweb.com/) - Bootstrapped Web is for entrepreneurs bootstrapping their startups, who believe that the best way to get to where we're going is to learn by doing.
-*   [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
 *   [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
 *   [Developing Perspective](http://developingperspective.com/) - From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
 *   [DevOps Cafe](http://devopscafe.org/) - In this interview driven show, John Willis and Damon Edwards take a pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.
 *   [Entreprogrammers](http://entreprogrammers.com/) - Get a fly-on-the-wall perspective from 4 developers turned entrepreneurs, as they struggle with the business and learn lessons the hard way. This is the weekly mastermind group of the entreprogrammers.
 *   [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
-*   [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 *   [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
 
 ---

@@ -2,7 +2,7 @@
 
 A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cpuu/awesome-fuzzing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) · ⭐ 615 · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cpuu/awesome-fuzzing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) · ⭐ 615 · 🏷️ Security
 
 [ [Daily](/content/cpuu/awesome-fuzzing/README.md) / [Weekly](/content/cpuu/awesome-fuzzing/week/README.md) / Overview ]
 

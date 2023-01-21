@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -78,7 +78,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Database Drivers
 
-*   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.7k)](https://github.com/MagicStack/asyncpg) dialect.
+*   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.8k)](https://github.com/MagicStack/asyncpg) dialect.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -116,10 +116,10 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐503)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
+    *   [a8m/pb (⭐508)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
     *   [console-rs/indicatif (⭐3.2k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
-    *   [etienne-napoleone/spinach (⭐62)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐429)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
+    *   [etienne-napoleone/spinach (⭐63)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
+    *   [FGRibreau/spinners (⭐435)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
 ## [12. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

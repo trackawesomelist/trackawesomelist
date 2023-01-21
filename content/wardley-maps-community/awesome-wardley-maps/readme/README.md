@@ -2,7 +2,7 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 500 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 500 · 🏷️ Business
 
 [ [Daily](/content/wardley-maps-community/awesome-wardley-maps/README.md) / [Weekly](/content/wardley-maps-community/awesome-wardley-maps/week/README.md) / Overview ]
 

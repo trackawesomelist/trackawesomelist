@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -69,17 +69,13 @@
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Chart
-
-*   [PNChart-Swift (⭐1.4k)](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
-
 ### Device
 
 *   [Device.swift (⭐219)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐237)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐240)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 

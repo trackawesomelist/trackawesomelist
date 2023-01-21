@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Models/Projects
 
-*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐244)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
+*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐245)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 
 ## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [JSON Editor (⭐214)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [JSON Editor (⭐216)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 

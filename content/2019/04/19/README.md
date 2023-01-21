@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐399)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐416)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Music and Sound
 
-*   [Maestro (⭐119)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
+*   [Maestro (⭐120)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
 *   [Sonic Pi (⭐9.7k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
 ## [3. Awesome Msr](/content/dspinellis/awesome-msr/README.md)

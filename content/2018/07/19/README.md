@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 
 ### UI / Material Design
 
-*   [Unicorn Speed Dial (⭐327)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
+*   [Unicorn Speed Dial (⭐334)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 
 ### Image / Backend-Driven
 
@@ -51,20 +51,20 @@
 
 ### Storage / Voice
 
-*   [Secure Storage (⭐862)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
+*   [Secure Storage (⭐892)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
 
 ### Device / Augmented Reality
 
-*   [Badger (⭐256)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
+*   [Badger (⭐258)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐501)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
+*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐504)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
 
 ### Top / Game Engine resources
 
-*   [WhatTodo (⭐980)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
-*   [BookSearch (⭐507)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
+*   [WhatTodo (⭐1k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
+*   [BookSearch (⭐509)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 
 ## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

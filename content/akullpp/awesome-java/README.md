@@ -2,7 +2,7 @@
 
 A curated list of awesome frameworks, libraries and software for the Java programming language.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/akullpp/awesome-java/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 akullpp/awesome-java](https://github.com/akullpp/awesome-java) · ⭐ 35K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/akullpp/awesome-java/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 akullpp/awesome-java](https://github.com/akullpp/awesome-java) · ⭐ 35K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/akullpp/awesome-java/week/README.md) / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 

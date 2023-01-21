@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,8 +46,8 @@
 ### Self-hosted
 
 *   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
-*   [Immich (WIP) (⭐6.2k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐4.9k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [Immich (WIP) (⭐6.7k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐5k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
 
 ## [7. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -109,13 +109,13 @@ Repository with Clojure examples of OWASP top 10 vulnerabilities.
 
 ### Resources / Visual Effects
 
-*   [gdx-graph (⭐14)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
+*   [gdx-graph (⭐20)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 
-*   [dotnet-console-games (⭐418)](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.
+*   [dotnet-console-games (⭐435)](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.
 
 ---
 

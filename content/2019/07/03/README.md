@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Top / Game Engine resources
 
-*   [Enigma (⭐388)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
+*   [Enigma (⭐389)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 
 ## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -38,7 +38,7 @@
 
 ### UITableView / Barcode
 
-*   [DiffableDataSources (⭐761)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
+*   [DiffableDataSources (⭐763)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -73,19 +73,19 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Rapidbay (⭐406)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+*   [Rapidbay (⭐427)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [the-elements-of-statistical-learning (⭐366)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
+*   [the-elements-of-statistical-learning (⭐369)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [thetool (⭐200)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
+*   [thetool (⭐206)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 
 ---
 

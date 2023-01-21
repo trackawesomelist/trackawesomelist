@@ -2,7 +2,7 @@
 
 25 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -65,7 +65,7 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐658)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐656)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -73,7 +73,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐378)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐377)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -85,12 +85,12 @@
 
 ### Application Templates
 
-*   [ProjectScaffold (⭐516)](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
+*   [ProjectScaffold (⭐515)](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 
 ### MVVM
 
 *   [MVVMCross (⭐3.7k)](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
-*   [Stylet (⭐855)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
+*   [Stylet (⭐865)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -248,9 +248,9 @@
 
 ### Command-Line Productivity
 
-*   [fzf (⭐48k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [fzf (⭐49k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 *   [marker (⭐1.9k)](https://github.com/pindexis/marker) - Bookmark your shell commands
-*   [thefuck (⭐74k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
+*   [thefuck (⭐75k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 
 ### Customization / Directory Navigation
 
@@ -263,18 +263,18 @@
 ### System Utilities / Directory Navigation
 
 *   [htop (⭐5.7k)](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
-*   [powertop (⭐674)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
-*   [procdog (⭐73)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
+*   [powertop (⭐721)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+*   [procdog (⭐74)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 
 ### Games / Directory Navigation
 
-*   [minesweeper (⭐48)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+*   [minesweeper (⭐49)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 
 ## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
-*   [calendar (⭐449)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐450)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ### Files and Directories
 

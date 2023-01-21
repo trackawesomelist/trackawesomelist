@@ -2,7 +2,7 @@
 
 63 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,15 +36,15 @@
 
 ### Templates / Vue 3
 
-*   [vue-pure-admin (⭐4.3k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+*   [vue-pure-admin (⭐6.3k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 
 ### Templates / React
 
-*   [vite-reactts-eslint-prettier (⭐307)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+*   [vite-reactts-eslint-prettier (⭐323)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-config (⭐29)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+*   [vite-plugin-html-config (⭐30)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 
 ### Vue / Helpers
 
@@ -121,7 +121,7 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [certificate-expiry-monitor (⭐141)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
+*   [certificate-expiry-monitor (⭐143)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
 
 ## [9. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -154,17 +154,17 @@
 
 ### Networking
 
-*   [cpp-httplib (⭐8.2k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
+*   [cpp-httplib (⭐8.4k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C
 
-*   [cl-cxx-jit (⭐38)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-cxx-jit (⭐40)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Lish (⭐65)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Lish (⭐67)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
 ## [14. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
@@ -182,14 +182,14 @@
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-azuredevops (⭐0)](https://github.com/mikaelkrief/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
-*   [terraform-provider-dominos (⭐998)](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
-*   [terraform-provider-k8s (⭐132)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
-*   [terraform-provider-snowflake (⭐343)](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
+*   [terraform-provider-dominos (⭐1k)](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
+*   [terraform-provider-k8s (⭐133)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
+*   [terraform-provider-snowflake (⭐357)](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 
 ### Tools / Vendor supported providers
 
-*   [Infracost (⭐8.2k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
-*   [terraform-graph-beautifier (⭐135)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
+*   [Infracost (⭐8.5k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
+*   [terraform-graph-beautifier (⭐146)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 
 ## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -226,7 +226,7 @@
 ### Libraries / Network programming
 
 *   message-io
-    *   [lemunozm/message-io (⭐823)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
+    *   [lemunozm/message-io (⭐836)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
 
 ## [22. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-components (⭐47)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
+*   [yew-components (⭐48)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 
 ## [25. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
@@ -262,7 +262,7 @@
 
 *   [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
 *   [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
-*   [EHRServer (⭐144)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
+*   [EHRServer (⭐146)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
 *   [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
 
 ### Contents / Specifications
@@ -284,17 +284,17 @@
 
 ### Contents / Libraries
 
-*   [Archie (⭐47)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
+*   [Archie (⭐48)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
 *   [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-*   [dicom (⭐785)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
-*   [Fellow Oak DICOM (⭐871)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
-*   [FHIR protocol buffers (⭐680)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
-*   [php-fhir (⭐87)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
-*   [pynetdicom (⭐402)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
+*   [dicom (⭐794)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+*   [Fellow Oak DICOM (⭐879)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+*   [FHIR protocol buffers (⭐687)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
+*   [php-fhir (⭐88)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
+*   [pynetdicom (⭐407)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
 
 ### Contents / Data
 
-*   [Inferno (⭐88)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
+*   [Inferno (⭐89)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
 
 ### Contents / Machine learning
 
@@ -417,8 +417,8 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nixpkgs-fmt (⭐363)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
-*   [nix-tree (⭐254)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nixpkgs-fmt (⭐372)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+*   [nix-tree (⭐291)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -436,8 +436,8 @@
 
 ### Plugins
 
-*   🧩 [CSS Variables (⭐109)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
-*   🛑💼 [Filters (⭐163)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
+*   🧩 [CSS Variables (⭐114)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
+*   🛑💼 [Filters (⭐161)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
 *   🛑💼 [CSS Filters (⭐23)](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
 *   🛑💼 [Blend Mode (⭐68)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
 *   🛑💼 [Colorize (⭐10)](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.
@@ -734,7 +734,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Framework Components
 
-*   [phx\_component\_helpers (⭐113)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
+*   [phx\_component\_helpers (⭐114)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
 ## [50. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -754,9 +754,9 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### VLC native plugins
 
-*   [vlc-pause-click-plugin (⭐651)](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click.
+*   [vlc-pause-click-plugin (⭐674)](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click.
 *   [vlc-tip-plugin (⭐43)](https://github.com/aklexel/vlc-tip-plugin) - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
-*   [vlc-bittorrent (⭐337)](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
+*   [vlc-bittorrent (⭐345)](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 
 ### Apps
 
@@ -768,13 +768,13 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 ### Bindings
 
 *   [vlc-unity](https://code.videolan.org/videolan/vlc-unity) - Unity3D integration for VLC.
-*   [python-vlc (⭐297)](https://github.com/oaubert/python-vlc) - Python vlc bindings.
-*   [vlcj (⭐936)](https://github.com/caprica/vlcj) -  Java framework for the vlc media player (desktop).
+*   [python-vlc (⭐312)](https://github.com/oaubert/python-vlc) - Python vlc bindings.
+*   [vlcj (⭐953)](https://github.com/caprica/vlcj) -  Java framework for the vlc media player (desktop).
 *   [LibVLCSharp (⭐1.1k)](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC.
-*   [libvlc-go (⭐320)](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
+*   [libvlc-go (⭐326)](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
 *   [libvlcpp](https://code.videolan.org/videolan/libvlcpp/) - C++ bindings for libvlc.
 *   [vlc.js (beta)](https://code.videolan.org/jbk/vlc.js) - WebAssembly support for LibVLC.
-*   [dart\_vlc (⭐384)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
+*   [dart\_vlc (⭐416)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
 
 ## [52. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
@@ -803,7 +803,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Contents / Games
 
-*   [FlutterDex (⭐29)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [FlutterDex (⭐36)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ## [56. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -820,7 +820,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### SEO
 
-*   [URL Rewrite (⭐23)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
+*   [URL Rewrite (⭐24)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
 
 ## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -872,13 +872,13 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Open Source / Other
 
-*   [SpaceEye (⭐281)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+*   [SpaceEye (⭐289)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
 ## [62. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [svelte-chota (⭐276)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+*   [svelte-chota (⭐282)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
 ## [63. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 

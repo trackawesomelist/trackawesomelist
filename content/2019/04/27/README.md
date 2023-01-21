@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,9 +27,9 @@
 ### Packages / Driver layer
 
 *   [Autoware.IO](https://www.autoware.io/) - Autoware.IO provides a heterogeneous hardware reference platform and enables the integration of member company's solutions onto platforms which support the Autoware.Auto and Autoware.AI software stack.
-*   [zed-ros2-wrapper (⭐66)](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper beta for the ZED SDK.
+*   [zed-ros2-wrapper (⭐65)](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper beta for the ZED SDK.
 *   [ros2\_denso\_radar (⭐7)](https://github.com/klintan/ros2_denso_radar) - Toyota/Lexus 2015-2017 Denso Radar driver for ROS2.
-*   [sick\_scan2 (⭐51)](https://github.com/SICKAG/sick_scan2) - ROS2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
+*   [sick\_scan2 (⭐50)](https://github.com/SICKAG/sick_scan2) - ROS2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
 
 ### Courses / Build system (ROS2)
 
@@ -68,7 +68,7 @@
 
 ### User Interface
 
-*   [ocaml-linenoise (⭐45)](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml.
+*   [ocaml-linenoise (⭐46)](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml.
 
 ---
 

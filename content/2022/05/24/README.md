@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,11 +18,12 @@
 
 *   [Multitenancy with FastAPI, SQLAlchemy and PostgreSQL](https://mergeboard.com/blog/6-multitenancy-fastapi-sqlalchemy-postgresql/) - Learn how to make FastAPI applications multi-tenant ready.
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Standard ML / Play Scala
+### Graphical User Interfaces
 
-*   [The Standard ML Basis Library](https://smlfamily.github.io/Basis/index.html) - Emden R. Gansner, John H. Reppy (HTML)
+*   [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/) - Aaron Erhardt
+*   [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
 
 ## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
@@ -34,7 +35,7 @@
 
 ### Keyboard / Barcode
 
-*   [ISEmojiView (⭐450)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+*   [ISEmojiView (⭐451)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -63,9 +64,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Shapash (⭐2k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
-*   [Eurybia (⭐167)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
-*   [Colossal-AI (⭐6.9k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+*   [Shapash (⭐2.1k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
+*   [Eurybia (⭐172)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
+*   [Colossal-AI (⭐7.1k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
 ## [10. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -73,9 +74,9 @@
 
 *   [C++ (⭐0)](https://github.com/soramitsu/scale-codec-cpp) - Maintained by Soramitsu.
 *   JavaScript / TypeScript implementations:
-    *   [paritytech/parity-scale-codec-ts (⭐21)](https://github.com/paritytech/parity-scale-codec-ts) - Maintained by Parity Technologies.
+    *   [paritytech/parity-scale-codec-ts (⭐27)](https://github.com/paritytech/parity-scale-codec-ts) - Maintained by Parity Technologies.
     *   [polkadot-js/api (⭐1k)](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
-    *   [scale-ts (⭐8)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
+    *   [scale-ts (⭐9)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
     *   [soramitsu/scale-codec-js-library (⭐1)](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
 
 ## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
@@ -93,7 +94,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Osintgram (⭐5.3k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+*   [Osintgram (⭐5.8k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 
 ### Social Media Tools / Telegram
 
@@ -115,21 +116,21 @@
 
 ### Templates / Electron
 
-*   [electron-vite-vue (⭐1.8k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
-*   [electron-vite-react (⭐618)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
-*   [electron-vite-boilerplate (⭐166)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
+*   [electron-vite-vue (⭐1.9k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
+*   [electron-vite-react (⭐665)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
+*   [electron-vite-boilerplate (⭐167)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
 *   [electron-vite-quick-start (⭐45)](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
-*   [electron-vite-template (⭐229)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
-*   [fast-vite-electron (⭐86)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
-*   [fast-vite-nestjs-electron (⭐108)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
+*   [electron-vite-template (⭐237)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
+*   [fast-vite-electron (⭐89)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
+*   [fast-vite-nestjs-electron (⭐115)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 *   [vite-plugin-electron-quick-start (⭐25)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
 *   [vite-electron-builder (⭐1.5k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
-*   [vite-reactts-electron-starter (⭐187)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
+*   [vite-reactts-electron-starter (⭐192)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 *   [Vitectron (⭐12)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-progress (⭐137)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
+*   [vite-plugin-progress (⭐140)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

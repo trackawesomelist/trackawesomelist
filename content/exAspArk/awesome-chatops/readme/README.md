@@ -2,7 +2,7 @@
 
 :robot: A collection of awesome things about ChatOps – managing operations through a chat
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/exAspArk/awesome-chatops/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) · ⭐ 782 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/exAspArk/awesome-chatops/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) · ⭐ 782 · 🏷️ Miscellaneous
 
 [ [Daily](/content/exAspArk/awesome-chatops/README.md) / [Weekly](/content/exAspArk/awesome-chatops/week/README.md) / Overview ]
 

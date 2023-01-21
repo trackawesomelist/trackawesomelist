@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### For Electron / Other
 
-*   [trilogy (⭐243)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
+*   [trilogy (⭐244)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 
 ## [3. Creative Commons Media](/content/shime/creative-commons-media/README.md)
 
@@ -54,7 +54,7 @@
 
 ## [8. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - By Jake Knapp, John Zeratsky, Braden Kowitz.
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Extensions
 
-*   [Sanitize HTML (⭐2)](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
+*   [Sanitize HTML (⭐4)](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -23,7 +23,7 @@
 
 ### TensorFlow / General-Purpose Machine Learning
 
-*   [Awesome Keras (⭐5)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
+*   [Awesome Keras (⭐8)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Zig development tools / HTTP
 
-*   [korandoru/setup-zig (⭐2)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
+*   [korandoru/setup-zig (⭐4)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Compression
 
-*   [bzip3 (⭐459)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
+*   [bzip3 (⭐465)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

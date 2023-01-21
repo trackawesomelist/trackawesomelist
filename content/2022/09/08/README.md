@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,12 +10,12 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Zusam (⭐103)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
+*   [Zusam (⭐107)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
 *   [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code (⭐166)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
-*   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐139)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
+*   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐142)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
 
 ### Software / File Transfer & Synchronization
 
@@ -32,7 +32,7 @@
 
 ### Software / Games
 
-*   [SourceBans++](https://sbpp.dev/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐270)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
+*   [SourceBans++](https://sbpp.dev/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐273)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 
 ### Software / Groupware
 
@@ -40,7 +40,7 @@
 
 ### Software / Learning and Courses
 
-*   [Canvas LMS](https://www.instructure.com/canvas/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code (⭐4.6k)](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
+*   [Canvas LMS](https://www.instructure.com/canvas/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code (⭐4.7k)](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
 
 ### Software / URL Shorteners
 
@@ -62,7 +62,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nixpkgs-hammering (⭐152)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
+*   [nixpkgs-hammering (⭐156)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 
 ## [4. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -74,17 +74,17 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Streamiz (⭐329)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
+*   [Streamiz (⭐337)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [owl (⭐201)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
+*   [owl (⭐202)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
 
 ### OTP
 
-*   [matcha (⭐42)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
+*   [matcha (⭐54)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -96,13 +96,13 @@
 
 ### Routers / Checkbox
 
-*   [@danielsharkov/svelte-router (⭐8)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
+*   [@danielsharkov/svelte-router (⭐9)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [complete-mac (⭐0)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
+*   [complete-mac (⭐1)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
 *   [prettier (⭐0)](https://github.com/sambergo/zsh-prettier-completion/) - Tab completion for [prettier](https://prettier.io/.)
 
 ## [10. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)

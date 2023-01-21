@@ -1,8 +1,8 @@
 # Awesome List Updates on Apr 04, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,19 +44,13 @@
     *   "Keeping Important Code Alive" ([slides](https://speakerdeck.com/indexzero/keeping-important-code-alive-seattlejs-march-2015))
     *   "Modernizing winston for node\@4" ([video](https://www.youtube.com/watch?v=uPw7QIx3JZM), [slides](https://speakerdeck.com/indexzero/modernizing-winston-for-node-at-4))
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Kotlin / Vue.js
-
-*   [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
-
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
 *   [raylib (⭐11k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
-## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [5. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Resources
 
@@ -77,7 +71,7 @@
 
 *   [spawn issues (⭐35k)](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
 
-## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### DevOps
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Web / Other / unknown licence
 
-*   [aws (⭐107)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+*   [aws (⭐109)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
 ### Algorithms, Containers and Protocols / Other / unknown licence
 
@@ -56,7 +56,7 @@
 
 ### Non-deterministic, logic programming
 
-*   [Screamer (⭐204)](https://github.com/nikodemus/screamer) - augment Common
+*   [Screamer (⭐207)](https://github.com/nikodemus/screamer) - augment Common
     Lisp with practically all of the functionality of both Prolog and
     constraint logic programming
     languages. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
@@ -151,11 +151,11 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Multi Database
 
-*   [PersistenceKit (⭐148)](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
+*   [PersistenceKit (⭐149)](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
 
 ### UI / Barcode
 
-*   [CircularProgress (⭐519)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+*   [CircularProgress (⭐521)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
 
 ## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

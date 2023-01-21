@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,8 +10,8 @@
 
 ### NixOS Modules / Scala
 
-*   [Home Manager (⭐3.4k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
-*   [NixVim (⭐96)](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+*   [Home Manager (⭐3.5k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
+*   [NixVim (⭐147)](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -159,16 +159,16 @@
 
 ### Templates / Vue 3
 
-*   [vite-vue-ts-tailwind-v3 (⭐5)](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+*   [vite-vue-ts-tailwind-v3 (⭐4)](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 
 ### Templates / React
 
 *   [vite-react-ts-tailwind-v3 (⭐14)](https://github.com/huibizhang/template-vite-react-ts-tailwind-v3) - Starter template for React + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
-*   [vite-react-starter (⭐27)](https://github.com/fabgrel10/vite-react-starter) - React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library.
+*   [vite-react-starter (⭐31)](https://github.com/fabgrel10/vite-react-starter) - React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library.
 
 ### Vue / Helpers
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐334)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐426)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 
 ---
 

@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,7 +48,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐466)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐475)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 
@@ -59,7 +59,7 @@
 
 ### Networking
 
-*   [Restinio (⭐916)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [Restinio (⭐923)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
 
 ### Podcasts
 

@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,15 +22,15 @@
 
 ### Templates / Vue 3
 
-*   [vue-pure-admin (⭐4.3k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+*   [vue-pure-admin (⭐6.3k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 
 ### Templates / React
 
-*   [vite-reactts-eslint-prettier (⭐307)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+*   [vite-reactts-eslint-prettier (⭐323)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-config (⭐29)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+*   [vite-plugin-html-config (⭐30)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 
 ### Vue / Helpers
 
@@ -102,7 +102,7 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [certificate-expiry-monitor (⭐141)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
+*   [certificate-expiry-monitor (⭐143)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Networking
 
-*   [cpp-httplib (⭐8.2k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
+*   [cpp-httplib (⭐8.4k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
 ## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -151,17 +151,17 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nixpkgs-fmt (⭐363)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+*   [nixpkgs-fmt (⭐372)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C
 
-*   [cl-cxx-jit (⭐38)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-cxx-jit (⭐40)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Lish (⭐65)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Lish (⭐67)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)

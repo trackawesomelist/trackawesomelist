@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,7 +49,7 @@
 
 ### Programming / Python
 
-*   [expyriment (⭐102)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+*   [expyriment (⭐104)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
 ## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -158,23 +158,23 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐938)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐939)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
-*   [vulkan (⭐372)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
+*   [vulkan (⭐382)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐139)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐143)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 
-*   [dnSpy (⭐22k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
+*   [dnSpy (⭐23k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
 
 ---
 

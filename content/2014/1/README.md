@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 06 - Jan 12, 2014
 
-4 awesome lists updated this week.
+3 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,22 +31,6 @@
 ### Services Engineering Reading List / Books
 
 *   [Resilience Engineering in Practice](http://www.amazon.com/Resilience-Engineering-Practice-Ashgate-Studies/dp/1409410358/) (Hollnagel et al.)
-
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Assembly Language / Non-X86
-
-*   [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
-*   [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
-
-### FreeBSD / Phoenix
-
-*   [Books and Articles from FreeBSD Site](http://www.freebsd.org/docs/books.html)
-*   [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
-
-### Ruby / Tornado
-
-*   [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 
 ---
 

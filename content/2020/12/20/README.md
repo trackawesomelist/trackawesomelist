@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐87)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐92)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Testing / Misc
 
-*   [dmg-acid2 (⭐94)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐58)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
+*   [dmg-acid2 (⭐100)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐58)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
 
 ## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -166,7 +166,7 @@
 
 *   [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
 *   [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
-*   [SwiftGoogleTranslate (⭐75)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+*   [SwiftGoogleTranslate (⭐76)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 *   [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 
 ### Articles
@@ -202,7 +202,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐197)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐211)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

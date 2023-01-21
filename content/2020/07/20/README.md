@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Emulator/interpreter development / Testing
 
-*   [chip8-test-rom (⭐180)](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
+*   [chip8-test-rom (⭐189)](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Other Testing
 
-*   [SnapshotTesting (⭐2.9k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
+*   [SnapshotTesting (⭐3k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -50,9 +50,9 @@
 
 ## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Continuous Integration & Continuous Deployment
+### Software / Continuous Integration & Continuous Deployment
 
-*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.4k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
+*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.5k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

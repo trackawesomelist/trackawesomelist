@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -42,13 +42,13 @@
 
 ### Vue / Loaders
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐10)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐12)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 
 ## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Carousel
 
-*   [swiper (⭐33k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+*   [swiper (⭐34k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Compressing
 
-*   **[Genozip (⭐99)](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
+*   **[Genozip (⭐109)](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
 
 ---
 

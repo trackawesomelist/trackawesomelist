@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Advanced Console UIs
 
-*   [bubbletea (⭐16k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
+*   [bubbletea (⭐17k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 
 ## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Gateway
 
-*   [Apinto (⭐348)](https://github.com/eolinker/goku) - Golang-based microservice gateway that enables high-performance dynamic routing,service orchestration, multi-tenancy management, API access control, etc.
+*   [Apinto (⭐393)](https://github.com/eolinker/goku) - Golang-based microservice gateway that enables high-performance dynamic routing,service orchestration, multi-tenancy management, API access control, etc.
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Image Processing
 
-*   [Anime Segmentation (⭐53)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
+*   [Anime Segmentation (⭐150)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
 
 ## [5. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Players / MPEG
 
-*   [elements/packages/mux-player (⭐94)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐524)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
+*   [elements/packages/mux-player (⭐113)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐651)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -57,8 +57,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-awesome-sidebar (⭐12)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
-*   [vue-web-terminal (⭐51)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
+*   [vue-awesome-sidebar (⭐13)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
+*   [vue-web-terminal (⭐63)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 
 ### Components & Libraries / Utilities
 
@@ -66,7 +66,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vue3-SPA-starter-template (⭐29)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
+*   [Vue3-SPA-starter-template (⭐32)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
 
 ## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -79,7 +79,7 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [cargo-breaking (⭐113)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
-*   [cargo-show-asm (⭐188)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+*   [cargo-show-asm (⭐192)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
 ## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -89,7 +89,7 @@
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
@@ -103,7 +103,7 @@
 
 ### Testing / Barcode
 
-*   [SBTUITestTunnel (⭐281)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
+*   [SBTUITestTunnel (⭐284)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
 
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -111,9 +111,9 @@
 
 *   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music and Audio projects / Text-related Generative Tools
 
-*   [MubertAI/Mubert-Text-to-Music (⭐2.2k)](https://github.com/MubertAI/Mubert-Text-to-Music): A simple notebook demonstrating prompt-based music generation via Mubert API
+*   [MubertAI/Mubert-Text-to-Music (⭐2.3k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
 
 ## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Libraries / PHP
 
-*   [PHP Driver (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+*   [PHP Driver (⭐800)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Libraries / Scala
 
@@ -154,8 +154,8 @@
 
 ### Tools / Shell
 
-*   [MongoDB Atlas CLI (⭐133)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
-*   [mongosh (⭐212)](https://github.com/mongodb-js/mongosh) - Official command-line client
+*   [MongoDB Atlas CLI (⭐135)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+*   [mongosh (⭐222)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
 ## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

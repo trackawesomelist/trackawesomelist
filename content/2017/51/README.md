@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 18 - Dec 24, 2017
 
-35 awesome lists updated this week.
+34 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,7 +45,7 @@
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐457)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐460)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Optimization / NLP
 
-*   [Bayesian Optimization (⭐6.4k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐6.5k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 
@@ -141,19 +141,13 @@
 
 *   [Ionic Soundboard (⭐13)](https://github.com/rkalis/ionic-soundboard)
 
-## [19. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Applets / Design Tooling
-
-*   [Docker Integration (⭐148)](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
-
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Products/Technologies / K technologies
 
 *   Kotlin <https://blog.jetbrains.com/kotlin/>
 
-## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -182,7 +176,7 @@
 *   [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework (⭐8.4k)](https://github.com/caffe2/caffe2)
 *   [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web (⭐8.5k)](https://github.com/PAIR-code/deeplearnjs)
 
-## [22. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Startpages / Telegram
 
@@ -192,7 +186,7 @@
 
 *   [Calculist](https://app.calculist.io/)
 
-## [23. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [22. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -240,13 +234,13 @@
 *   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 *   [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 
-## [24. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [Chimp (⭐789)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
-## [25. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [24. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
@@ -269,13 +263,13 @@
 *   [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 *   [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [simplebeerservice :fire::fire: (⭐314)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
-## [27. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / String
 
@@ -285,7 +279,7 @@
 
 *   [uuid (⭐13k)](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 
-## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [27. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### CLI and REPL
 
@@ -296,19 +290,19 @@
     3.  Make script executable: `chmod +x script.ts`
     4.  Run directly: `./script.ts` :)
 
-## [29. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Miscellaneous
 
 *   [TokenVerify plugin (⭐9)](https://github.com/mosaxiv/cakephp-token-verify) - Easily issue tokens that can be used for mail authentication.
 
-## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
@@ -330,13 +324,13 @@
 
 *   [xBehave.net (⭐387)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. <http://xbehave.github.io>
 
-## [32. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [31. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Read-Write
 
 *   [stempeg (⭐71)](https://github.com/faroit/stempeg) [:octocat: (⭐71)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
 
-## [33. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
@@ -346,7 +340,7 @@
 
 *   [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 
-## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -354,17 +348,17 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐335)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐340)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
-## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐873)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐874)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐459)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2017 Presentations (⭐457)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
 *   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---

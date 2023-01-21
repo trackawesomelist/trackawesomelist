@@ -2,7 +2,7 @@
 
 A curated list of code katas
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gamontal/awesome-katas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gamontal/awesome-katas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) · ⭐ 2K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/gamontal/awesome-katas/week/README.md) / [Overview](/content/gamontal/awesome-katas/readme/README.md) ]
 

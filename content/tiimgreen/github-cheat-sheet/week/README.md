@@ -2,7 +2,7 @@
 
 A list of cool features of Git and GitHub.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) · ⭐ 38K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) · ⭐ 38K · 🏷️ Development Environment
 
 [ [Daily](/content/tiimgreen/github-cheat-sheet/README.md) / Weekly / [Overview](/content/tiimgreen/github-cheat-sheet/readme/README.md) ]
 

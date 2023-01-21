@@ -1,8 +1,8 @@
 # Awesome List Updates on Apr 30, 2016
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,19 +38,13 @@
 
 *   [Microsoft Automatic Graph Layout (⭐1.2k)](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### UI / Barcode
-
-*   [Hexacon (⭐340)](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
-
-## [5. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
+## [4. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
 ### Ecommerce
 
 *   [Sylius (⭐7.1k)](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Behaviours and Interfaces
 
@@ -68,13 +62,13 @@
 
 *   [shape (⭐6)](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2016
 
 *   [André Staltz: **Brains as building blocks**](https://www.youtube.com/watch?v=1ToJ7cxb1R8) \[21:26]
 
-## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+## [7. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
 ### Backend as a Service
 

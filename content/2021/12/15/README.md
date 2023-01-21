@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [driftctl (⭐2k)](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
+*   [driftctl (⭐2.1k)](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [xgouchet/Elmyr (⭐79)](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
+*   [xgouchet/Elmyr (⭐81)](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -120,13 +120,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [iter-ops (⭐89)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+*   :octocat: [iter-ops (⭐90)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-next (⭐64)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
+*   [vue-datepicker-next (⭐67)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ## [13. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

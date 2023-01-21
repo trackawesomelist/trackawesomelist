@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -131,7 +131,7 @@
 
 ### Table of Contents / Online Machine Learning
 
-*   [streamDM (⭐478)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
+*   [streamDM (⭐477)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
 *   [StormCV (⭐170)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
 *   [trident-ml (⭐383)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐103)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.

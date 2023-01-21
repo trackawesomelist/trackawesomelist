@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Extensions
 
-*   [Nextein (⭐900)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
+*   [Nextein (⭐898)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Platforms
 
-*   [Fuse (⭐319)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐321)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

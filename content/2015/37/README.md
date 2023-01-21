@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 14 - Sep 20, 2015
 
-26 awesome lists updated this week.
+25 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,36 +19,30 @@ git bundle create <file> <branch-name>
 git clone repo.bundle <repo-dir> -b <branch-name>
 ```
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### PHP / PicoLisp
-
-*   [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
-
-## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Image
 
-*   [probe-image-size (⭐830)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
+*   [probe-image-size (⭐837)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 
 ### Packages / URL
 
-*   [normalize-url (⭐761)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+*   [normalize-url (⭐765)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 *   [speakingurl (⭐1.1k)](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-*   [linkify-it (⭐568)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
-*   [url-pattern (⭐560)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
+*   [linkify-it (⭐573)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+*   [url-pattern (⭐565)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 ### Resources / Cheatsheets
 
 *   [Stream FAQs (⭐190)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Queue
 
 *   [queuex (⭐10)](https://github.com/falood/queuex) - Priority Queue with multiple backends.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Game
 
@@ -56,9 +50,9 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### Graphics
 
-*   [NGraphics (⭐681)](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
+*   [NGraphics (⭐682)](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
 
-## [6. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [5. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authorization
 
@@ -155,7 +149,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 *   [Rack Attack (⭐5.2k)](https://github.com/kickstarter/rack-attack) - Rack middleware to blocking & throttling.
 *   [Responders (⭐2k)](https://github.com/plataformatec/responders) - A set of Rails responders to dry up your application.
 
-## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Programming
 
@@ -194,7 +188,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 *   [Minds and Machines](http://www.springer.com/journal/11023)
 *   [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
 
-## [8. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [7. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
@@ -220,25 +214,25 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 *   [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 *   [Redliner (⭐25)](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated.
 
-## [9. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [8. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### GLSL Editors
 
 *   [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer
 
-## [10. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [9. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Terminal / Extensions
 
 *   [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
 
-## [11. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [10. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Libraries and Tools
 
 *   [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - A graphical editor for editing Apache Oozie workflows inside Eclipse.
 
-## [12. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [11. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Design
 
@@ -250,31 +244,31 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 *   [Postmarkapp Blog](http://blog.postmarkapp.com/)
 *   [Emailmonks Blog](http://www.emailmonks.com/blog/)
 
-## [13. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [12. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Starter Packs
 
 *   [CTF Tools (⭐7k)](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
 
-## [14. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Web Technologies and Services
 
 *   [Rfacebook (⭐348)](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
 
-## [15. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [14. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_6) - A neat little CodePen Demo to play around with Flex properties.
 
-## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Minerva - a fast and flexible tool for deep learning on multi-GPU (⭐680)](https://github.com/dmlc/minerva)
 
-## [17. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [16. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
@@ -288,13 +282,13 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [BEM - Luciano Battagliero](https://speakerdeck.com/battaglr/bem)
 
-## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
 *   [TiDB (⭐33k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 
-## [19. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [18. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Government
 
@@ -324,7 +318,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [Public Datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 
-## [20. Amas](/content/sindresorhus/amas/week/README.md)
+## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -339,7 +333,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [Code Monkey Health (⭐0)](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
 
-## [21. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [20. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Other Awesome Lists / Dojo 2
 
@@ -353,7 +347,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
     *   [awesome-all (⭐179)](https://github.com/bradoyler/awesome-all) - awesome lists
     *   [awesome-awesome (⭐248)](https://github.com/erichs/awesome-awesome) - awesome lists
 
-## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Sliders / Runner
 
@@ -369,7 +363,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [peterkokot/awesome-jquery (⭐846)](https://github.com/peterkokot/awesome-jquery)
 
-## [23. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Databases, ORMs, Migrations & Seeding
 
@@ -379,7 +373,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [Laravel Newsletter (⭐1.5k)](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 
-## [24. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [23. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tools
 
@@ -389,13 +383,13 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [Web components tester istambul (⭐28)](https://github.com/thedeeno/web-component-tester-istanbul) Istanbul coverage plugin for web-component-tester.
 
-## [25. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Cognitive Development
 
 *   [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** \[1:16:26]
 
-## [26. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [25. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Syntax Highlighter / OpenOffice
 

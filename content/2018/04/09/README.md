@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -86,7 +86,7 @@
 
 ### Containers
 
-*   [ring\_span lite (⭐126)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
+*   [ring\_span lite (⭐127)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
 
 ---
 

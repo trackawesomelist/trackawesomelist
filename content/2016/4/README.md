@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2016
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -555,7 +555,7 @@
 
 ### Open Source / Other
 
-*   [Proton (⭐155)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐156)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [9. Tips](/content/git-tips/tips/week/README.md)
 
@@ -942,21 +942,7 @@ git config --global help.autocorrect 1
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [35. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
-
-### Objective-C / PicoLisp
-
-*   [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
-
-### Swift / Play Scala
-
-*   [Hacking with Swift](https://www.hackingwithswift.com)
-
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -975,7 +961,7 @@ git config --global help.autocorrect 1
 
 *   [SwiftyFORM (⭐1.1k)](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
-## [37. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [36. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Community
 
@@ -1008,17 +994,17 @@ git config --global help.autocorrect 1
 *   [log (⭐11)](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 *   [set-or-print (⭐4)](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
-## [38. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [37. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐207)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐211)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ### Packages / Date
 
 *   [tz-format (⭐9)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [39. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [38. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -1029,25 +1015,25 @@ git config --global help.autocorrect 1
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [39. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [slugify (⭐280)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+*   [slugify (⭐282)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 
 ### Applications / Directory Navigation
 
 *   [fanyi (⭐1.2k)](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
-*   [hn-cli (⭐455)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
-*   [whereami (⭐151)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
+*   [hn-cli (⭐456)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
+*   [whereami (⭐154)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [41. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [40. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
-## [42. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [41. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
@@ -1055,7 +1041,7 @@ git config --global help.autocorrect 1
     *   [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
     *   [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 
-## [43. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [42. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -1063,7 +1049,7 @@ git config --global help.autocorrect 1
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 *   [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 
-## [44. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -1077,7 +1063,7 @@ git config --global help.autocorrect 1
 
 ### Framework Components
 
-*   [params (⭐309)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐312)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue
@@ -1096,7 +1082,7 @@ git config --global help.autocorrect 1
 
 *   [exromaji (⭐8)](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 
-## [45. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [44. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -1104,7 +1090,7 @@ git config --global help.autocorrect 1
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐165)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐166)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 
@@ -1118,7 +1104,7 @@ git config --global help.autocorrect 1
 
 *   [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 
-## [46. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [45. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 

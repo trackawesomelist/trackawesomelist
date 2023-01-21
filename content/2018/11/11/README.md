@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,8 +34,8 @@
 
 ### Testing
 
-*   [aresponses (⭐92)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.7k)](https://github.com/getsentry/responses) library used for [requests (⭐48k)](https://github.com/requests/requests).
-*   [aioresponses (⭐388)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
+*   [aresponses (⭐93)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.8k)](https://github.com/getsentry/responses) library used for [requests (⭐49k)](https://github.com/requests/requests).
+*   [aioresponses (⭐402)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

@@ -2,7 +2,7 @@
 
 ⭐️ A curated list of companies that offer their services for free to Open Source projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 539 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 539 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/zachflower/awesome-open-source-supporters/week/README.md) / [Overview](/content/zachflower/awesome-open-source-supporters/readme/README.md) ]
 

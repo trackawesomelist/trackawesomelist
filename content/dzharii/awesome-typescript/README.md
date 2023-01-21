@@ -2,7 +2,7 @@
 
 A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dzharii/awesome-typescript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) · ⭐ 3.4K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dzharii/awesome-typescript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) · ⭐ 3.4K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 

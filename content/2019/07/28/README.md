@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -81,13 +81,13 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐434)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐438)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
-*   [d3-x3d (⭐82)](https://github.com/jamesleesaunders/d3-x3d) - Data Driven 3D Charts with D3 and X3D \[bubble, bar, surfacearea, scatterplot, area]
+*   [d3-x3d (⭐90)](https://github.com/jamesleesaunders/d3-x3d) - Data Driven 3D Charts with D3 and X3D \[bubble, bar, surfacearea, scatterplot, area]
 
 ## [9. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

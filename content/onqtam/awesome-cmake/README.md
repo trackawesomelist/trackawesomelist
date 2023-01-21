@@ -2,7 +2,7 @@
 
 A curated list of awesome CMake resources, scripts, modules and examples.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/onqtam/awesome-cmake/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) · ⭐ 4.4K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/onqtam/awesome-cmake/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) · ⭐ 4.4K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/onqtam/awesome-cmake/week/README.md) / [Overview](/content/onqtam/awesome-cmake/readme/README.md) ]
 

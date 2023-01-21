@@ -2,7 +2,7 @@
 
 52 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -59,14 +59,14 @@
 
 ### Packages / Application layer
 
-*   [system-modes (⭐28)](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
+*   [system-modes (⭐30)](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
 
 ### Packages / Middleware
 
-*   [Micro XRCE-DDS Agent (⭐58)](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - Micro XRCE-DDS Agent acts as a server between DDS Network and Micro XRCE-DDS Clients.
+*   [Micro XRCE-DDS Agent (⭐61)](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - Micro XRCE-DDS Agent acts as a server between DDS Network and Micro XRCE-DDS Clients.
 *   [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - Docker image containing the Micro XRCE-DDS Agent.
-*   [Micro XRCE-DDS Client (⭐84)](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS implements a client-server protocol to enable resource-constrained devices (clients) to take part in DDS communications.
-*   [micro-ROS-Agent (⭐51)](https://github.com/micro-ROS/micro-ROS-Agent) - ROS 2 package using Micro XRCE-DDS Agent.
+*   [Micro XRCE-DDS Client (⭐88)](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS implements a client-server protocol to enable resource-constrained devices (clients) to take part in DDS communications.
+*   [micro-ROS-Agent (⭐58)](https://github.com/micro-ROS/micro-ROS-Agent) - ROS 2 package using Micro XRCE-DDS Agent.
 
 ### Packages / Driver layer
 
@@ -118,7 +118,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Simple Animations (⭐848)](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
+*   [Simple Animations (⭐877)](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
 
 ## [17. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
@@ -144,11 +144,11 @@
 ### Types / Playground
 
 *   [typesync (⭐1.3k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [type-fest (⭐9.5k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+*   [type-fest (⭐9.7k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 
-*   :octocat: [armour/vue-typescript-admin-template (⭐4.9k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
+*   :octocat: [armour/vue-typescript-admin-template (⭐5k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ### Libraries / Chrome Extensions
 
@@ -180,7 +180,7 @@
 
 ### Physics
 
-*   [Quantum++ (⭐399)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐401)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [23. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -213,21 +213,21 @@
 
 ### Platforms
 
-*   [KDE (⭐248)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+*   [KDE (⭐260)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 
 ### Computer Science
 
-*   [Empirical Software Engineering (⭐349)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+*   [Empirical Software Engineering (⭐351)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 
 ### Miscellaneous
 
-*   [Cheminformatics (⭐458)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-*   [Prisma (⭐498)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+*   [Cheminformatics (⭐475)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+*   [Prisma (⭐507)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 *   [Software Architecture (⭐1.7k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Identity Management / Tools and web interfaces
+### Software / Identity Management - Tools and web interfaces
 
 *   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
 
@@ -432,7 +432,7 @@
 
 ### Network Vulnerability Scanners / Wireless Network Tools
 
-*   [celerystalk (⭐375)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
+*   [celerystalk (⭐376)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
 
 ## [37. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
@@ -563,35 +563,35 @@
 
 ### Software / Automation
 
-*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐512)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐525)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐4.7k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP`
+*   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐4.8k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP`
 
 ### Software / Communication - XMPP - Servers
 
-*   [Metronome IM](https://metronome.im/) - Fork of Prosody IM. ([Source Code (⭐155)](https://github.com/maranda/metronome)) `MIT` `Lua`
+*   [Metronome IM](https://metronome.im/) - Fork of Prosody IM. ([Source Code (⭐157)](https://github.com/maranda/metronome)) `MIT` `Lua`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐50k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
+*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐51k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code (⭐18k)](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
+*   [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code (⭐19k)](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [IFM (⭐274)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
+*   [IFM (⭐282)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
 
 ### Software / Human Resources Management (HRM)
 
-*   [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php), [Source Code (⭐453)](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
+*   [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php), [Source Code (⭐457)](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
 
 ### Software / Learning and Courses
 
-*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐309)](https://github.com/inducer/relate)) `MIT` `Python`
+*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐314)](https://github.com/inducer/relate)) `MIT` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -599,19 +599,19 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Fava](https://beancount.github.io/fava/) - Fava is the web frontend of Beancount, a text based double-entry accounting system. ([Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code (⭐1.4k)](https://github.com/beancount/fava)) `MIT` `Python`
+*   [Fava](https://beancount.github.io/fava/) - Fava is the web frontend of Beancount, a text based double-entry accounting system. ([Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code (⭐1.5k)](https://github.com/beancount/fava)) `MIT` `Python`
 
 ### Software / Software Development - IDE & Tools
 
-*   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.1k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
+*   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.2k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
 
 ### Software / Software Development - Project Management
 
-*   [Klaus (⭐635)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python`
+*   [Klaus (⭐637)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python`
 
 ### Software / Wikis
 
-*   [Pepperminty Wiki (⭐135)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
+*   [Pepperminty Wiki (⭐138)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 
 ## [48. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -749,8 +749,8 @@
 
 ### Kubernetes
 
-*   [Deprecated Keycloak Helm Chart (⭐504)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
-*   [codecentric Keycloak Helm Chart (⭐504)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [Deprecated Keycloak Helm Chart (⭐523)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [codecentric Keycloak Helm Chart (⭐523)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 
 ## [52. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 

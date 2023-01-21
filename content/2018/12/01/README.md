@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -92,7 +92,7 @@
 
 ### Models/Projects
 
-*   [Hierarchical Attention Networks (⭐82)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/\~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+*   [Hierarchical Attention Networks (⭐83)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/\~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 
 ## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

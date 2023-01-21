@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Tools / Graphics utilities
 
-*   [Tilemap GB (⭐45)](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
+*   [Tilemap GB (⭐44)](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
 *   [Tilemap Helper (⭐21)](https://github.com/bbbbbr/gimp-tilemap-helper) - GIMP image editor plug-in for optimizing tile maps and tile sets.
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
@@ -56,7 +56,7 @@
 
 ### Table
 
-*   [rsuite-table (⭐598)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
+*   [rsuite-table (⭐616)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 
 ---
 

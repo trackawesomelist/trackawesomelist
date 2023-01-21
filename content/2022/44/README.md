@@ -2,7 +2,7 @@
 
 50 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,21 +22,21 @@
 
 ### Component Libraries
 
-*   [Umbraco UI Components (⭐62)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
+*   [Umbraco UI Components (⭐63)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 *   [AXA Pattern Library (⭐100)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with Web Components.
-*   [Curvenote (⭐139)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
-*   [Dile Components (⭐28)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
-*   [Furo Webcomponents (⭐10)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
-*   [Fusion Web Components (⭐2)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
+*   [Curvenote (⭐142)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
+*   [Dile Components (⭐31)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
+*   [Furo Webcomponents (⭐9)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
+*   [Fusion Web Components (⭐1)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
 *   [Ignite UI Web Components (⭐77)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
 *   [Medblocks UI (⭐32)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
-*   [Mutation testing elements (⭐17)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
-*   [One Platform Components (⭐23)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
-*   [Playground Elements (⭐338)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
-*   [Stripe Elements (⭐63)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
-*   [Titanium Elements (⭐7)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
-*   [VSCode Webview Elements (⭐33)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
-*   [Webmarkets web components (⭐2)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
+*   [Mutation testing elements (⭐18)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
+*   [One Platform Components (⭐22)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
+*   [Playground Elements (⭐348)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
+*   [Stripe Elements (⭐65)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
+*   [Titanium Elements (⭐8)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
+*   [VSCode Webview Elements (⭐34)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
+*   [Webmarkets web components (⭐1)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
 
 ### Custom Elements
 
@@ -73,16 +73,16 @@
 
 ### Design Systems
 
-*   [Carbon Web Components (⭐431)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-*   [Clarity Core Web Components (⭐89)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
+*   [Carbon Web Components (⭐432)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
+*   [Clarity Core Web Components (⭐90)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
 *   [Forge Components (⭐12)](https://github.com/tyler-technologies-oss/forge) - Library of Web Components adhering to the Forge Design System.
 *   [Liquid (⭐30)](https://github.com/emdgroup-liquid/liquid) - UI component library based on the Liquid Design System.
-*   [Material Web Components (⭐4.5k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-*   [Momentum UI Web Components (⭐133)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
-*   [OutlineJS (⭐76)](https://github.com/phase2/outline) - Web component based design system starter kit.
-*   [Pharos Design System (⭐62)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+*   [Material Web Components (⭐4.6k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
+*   [Momentum UI Web Components (⭐137)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+*   [OutlineJS (⭐79)](https://github.com/phase2/outline) - Web component based design system starter kit.
+*   [Pharos Design System (⭐60)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
 *   [Red Hat Design System (⭐27)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
-*   [Siemens iX Web Components (⭐49)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
+*   [Siemens iX Web Components (⭐54)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 
 ### Class Based
 
@@ -103,14 +103,6 @@
 *   [3 Approaches to Integrate React with Custom Elements](https://css-tricks.com/3-approaches-to-integrate-react-with-custom-elements/)
 *   [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react/)
 *   [Using Web Components With Next (or Any SSR Framework)](https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/)
-
-### Tutorials
-
-*   "**HowTo: Components**" by [Web Fundamentals](https://web.dev)
-    *   [Overview](https://web.dev/components-examples-overview/)
-    *   [`<howto-checkbox>`](https://web.dev/components-howto-checkbox/)
-    *   [`<howto-tabs>`](https://web.dev/components-howto-tabs/)
-    *   [`<howto-tooltip>`](https://web.dev/components-howto-tooltip/)
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -146,13 +138,13 @@
 
 ### Resources
 
-*   [Email marketing regulations (⭐289)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐290)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Identity Management / Single Sign-On (SSO)
+### Software / Identity Management - Single Sign-On (SSO)
 
-*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management ([Source Code (⭐14k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐15k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
 ## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -207,8 +199,8 @@
 
 ### Reddit
 
-*   [Libreddit (⭐3.8k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
-    *   [Ferrit (⭐63)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
+*   [Libreddit (⭐4k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+    *   [Ferrit (⭐59)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
@@ -252,7 +244,7 @@
 
 ### Development Environment / Other
 
-*   [DockerDL (⭐11)](https://github.com/matifali/dockerdl) - Deep Learning Docker Images. Don't waste time setting up a deep learning env when you can get a deep learning environment with everything pre-installed.
+*   [DockerDL (⭐15)](https://github.com/matifali/dockerdl) - Deep Learning Docker Images. Don't waste time setting up a deep learning env when you can get a deep learning environment with everything pre-installed.
 
 ### Wrappers / Other
 
@@ -272,25 +264,25 @@
 
 ### Wrappers
 
-*   [cl-ndbapi (⭐11)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
+*   [cl-ndbapi (⭐13)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
 
 ## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Dendrite](https://matrix.org/docs/projects/server/dendrite) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4.2k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
+*   [Dendrite](https://matrix.org/docs/projects/server/dendrite) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4.3k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
 
 ### Software / Groupware
 
-*   [tine - Community Edition (⭐140)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
+*   [tine - Community Edition (⭐142)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
 
 ### Software / Remote Access
 
-*   [RustDesk](https://rustdesk.com/) - An open source TeamViewer alternative, works out of the box, no configuration required. ([Source Code (⭐2.9k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker`
+*   [RustDesk](https://rustdesk.com/) - An open source TeamViewer alternative, works out of the box, no configuration required. ([Source Code (⭐3.2k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker`
 
 ### Software / Status / Uptime pages
 
-*   [Gatus (⭐3.2k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
+*   [Gatus (⭐3.4k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
 
 ## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -300,7 +292,7 @@
 
 ### Others
 
-*   [BlazorServerImageRecognitionApp (⭐0)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
+*   [BlazorServerImageRecognitionApp (⭐1)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
 *   [FootballBlazorApp (⭐1)](https://github.com/johnt84/FootballBlazorApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/FootballBlazorApp) Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search.  [Demo](https://premierleagueblazorapp.azurewebsites.net/).
 
 ### Component bundles
@@ -309,7 +301,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.FileSystemAccess (⭐192)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
+*   [Blazor.FileSystemAccess (⭐215)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
 
 ### Videos / Others
 
@@ -328,14 +320,14 @@
 ### Community / Others
 
 *   [Discord](https://discord.com/channels/732297728826277939/732297874062311424) - Blazor channel on the DotNetEvolution discord server.
-*   [I Love DotNet (⭐17)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
+*   [I Love DotNet (⭐19)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
 *   [Reddit](https://www.reddit.com/r/Blazor/) - Blazor subreddit.
 
 ## [21. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-fzf-session-switch (⭐5)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
+*   [tmux-fzf-session-switch (⭐8)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
 
 ## [22. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -348,7 +340,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fancy-completions (⭐4)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
+*   [fancy-completions (⭐6)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -357,12 +349,12 @@
 
 ## [24. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [Img To Music](https://huggingface.co/spaces/fffiloni/img-to-music) a Hugging Face Space by fffiloni
 *   [Atlas KREA Stable Diffusion](https://atlas.nomic.ai/map/809ef16a-5b2d-4291-b772-a913f4c8ee61/9ed7d171-650b-4526-85bf-3592ee51ea31): An explorable map of KREA AI's Stable Diffusion Search Engine
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [DiffusionBee](https://diffusionbee.com/): stable diffusion GUI App
 
@@ -390,13 +382,13 @@
 
 ### Sensors / Accelerometer Digital
 
-*   [MicroPython-LIS3DH (⭐57)](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - I²C driver for LIS3DH 3-axis accelerometer.
+*   [MicroPython-LIS3DH (⭐59)](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - I2C driver for LIS3DH 3-axis accelerometer.
 
 ## [28. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
-*   [wren (⭐68)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+*   [wren (⭐69)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ### Blogs/Newsletters / XML
 
@@ -533,7 +525,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [MrcJkb/haskell-tools.nvim (⭐127)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [MrcJkb/haskell-tools.nvim (⭐134)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ### Motion / Diagnostics
 
@@ -557,7 +549,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cargo-unused-features (⭐67)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
+*   [cargo-unused-features (⭐69)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
     It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positve.
 
 ### Other / [Other](#other-1)
@@ -586,13 +578,13 @@
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
-*   [rbperf (⭐73)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
+*   [rbperf (⭐77)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
 
 ## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [touchlab/KMMBridge (⭐175)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
+*   [touchlab/KMMBridge (⭐178)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
 ## [45. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -613,7 +605,7 @@
 *   [Insight](https://en.wikipedia.org/wiki/Insight) - ***Wikipedia***. Wikipedia on insight.
 *   [Epiphany](https://en.wikipedia.org/wiki/Epiphany_\(feeling\)) - ***Wikipedia***. Wikipedia on epiphany, the "feeling" when the Aha! moment comes.
 
-### Metascience / Scientific Writing
+### Science Logology / Scientific Writing
 
 *   [The uses of argument](http://library.lol/main/8036CBB1CCC448CA7E036774D810EBC0) - ***Cambridge University Press***, 1958. \[[All Versions](https://scholar.google.com/scholar?cluster=12052408655432810103\&hl=en\&as_sdt=0,5)]. Stephen Toulmin's introduction to the Toulmin argument pattern, which is generally consist of a claim, a justification, and a rebuttal.
 *   [A tagmemic approach to paragraph analysis](https://www.jstor.org/stable/355200) - ***College Composition and Communication***, 1965. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=A+Tagmemic+Approach+to+Paragraph+Analysis+AL+Becker\&btnG=)]. The original paper on analyzing the structure of expository paragraphs, with the two patterns---the Topic-Restriction-Illustration pattern and the Problem-Solution pattern.
@@ -629,7 +621,7 @@
 
 ### Frameworks
 
-*   [CGraph (⭐428)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
+*   [CGraph (⭐437)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
 
 ### Reflection
 
@@ -639,19 +631,19 @@
 
 ### Standard CLI
 
-*   [version (⭐45)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+*   [version (⭐58)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 
 ### Databases Implemented in Go
 
-*   [objectbox-go (⭐811)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
+*   [objectbox-go (⭐818)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
 
 ### Email
 
-*   [Mailpit (⭐90)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
+*   [Mailpit (⭐120)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
 ### Game Development
 
-*   [Harfang3D (⭐265)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐30)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐307)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐33)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -659,25 +651,25 @@
 
 ### Strings
 
-*   [caps (⭐31)](https://github.com/chanced/caps) - A case conversion library.
+*   [caps (⭐35)](https://github.com/chanced/caps) - A case conversion library.
 
 ### Third-party APIs
 
-*   [GoFreeDB (⭐18)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
-*   [swag (⭐26)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
+*   [GoFreeDB (⭐20)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
+*   [swag (⭐27)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 
 ### Validation
 
-*   [valix (⭐4)](https://github.com/marrow16/valix) Go package for validating requests
+*   [valix (⭐7)](https://github.com/marrow16/valix) Go package for validating requests
 
 ### Video
 
-*   [go-m3u8 (⭐9)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
+*   [go-m3u8 (⭐11)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
 
 ### Web Frameworks
 
-*   [Atreugo (⭐984)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
-*   [Hertz (⭐2.8k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+*   [Atreugo (⭐991)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
+*   [Hertz (⭐3k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -721,91 +713,37 @@
     *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
     *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 
-## [50. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [50. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### ASP.NET
+### Artificial Intelligence
 
-*   [.NET Framework Notes for Professionals](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
+*   [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
 
-### DBMS / Non-X86
+### Cloud Computing
 
-*   [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
+*   [Learn Azure in a Month of Lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original) - Iain Foulds (PDF)
 
-### Elixir / Non-X86
+### Computer Science
 
-*   [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://book.elixircryptobot.com) - Kamil Skowron (HTML)
+*   [Computer Science I](https://cse.unl.edu/\~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
+*   [Computer Science II](https://cse.unl.edu/\~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
 
-### Erlang / Phoenix
+### Computer Vision
 
-*   [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook) - Erik Stenman (HTML)
+*   [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf) - Ranjay Krishna (PDF)
 
-### Go / Phoenix
+### Database
 
-*   [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
+*   [Database Management Systems Solutions Manual Third Edition](https://pages.cs.wisc.edu/\~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) - Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, and Lin Zhu (PDF)
 
-### JavaScript / Wicket
+### Object Oriented Programming
 
-*   [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
+*   [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
 
-### JavaScript / Hydrogen
+### Quantum Computing
 
-*   [Build a Hydrogen storefront](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) (HTML)
-
-### JavaScript / Node.js
-
-*   [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html) - Axel Rauschmayer (HTML)
-
-### JavaScript / React
-
-*   [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
-
-### JavaScript / Remix
-
-*   [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
-*   [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
-
-### Neo4J / PicoLisp
-
-*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)
-
-### Python / Django
-
-*   [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)
-*   [AutoComplete-Light](https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html) (HTML)
-*   [Django Filters](https://django-filter.readthedocs.io/en/stable/) (HTML)
-*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/4.1.x/django.pdf) (PDF) (4.1)
-*   [Django Storages](https://django-storages.readthedocs.io/en/latest/) (HTML)
-*   [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/) (HTML)
-*   [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/) (HTML)
-
-### R / Tornado
-
-*   [Data Visualization with R](https://ladal.edu.au/dviz.html) - Martin Schweinberger (HTML)
-
-### Ruby / Tornado
-
-*   [Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
-
-### Rust / Sinatra
-
-*   [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/)
-*   [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
-
-### Scala / Sinatra
-
-*   [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
-
-### TypeScript / Vapor
-
-*   [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf) - Stefan Baumgartner (PDF)
+*   [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 
 ---
 

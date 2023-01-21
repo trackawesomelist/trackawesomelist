@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [itlbv (⭐0)](https://github.com/itlbv/itlbv-ohmyzsh-theme) - Minimalist. Includes decorators for `git` status and the current directory.
-*   [zp (⭐4)](https://github.com/Karitham/zp) - Fast prompt, written in `zig`. Includes `git` status and current directory decorators.
+*   [zp (⭐7)](https://github.com/Karitham/zp) - Fast prompt, written in `zig`. Includes `git` status and current directory decorators.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Graph databases
 
-*   [facts (⭐54)](https://github.com/cl-facts/facts) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC).
+*   [facts](https://github.com/cl-facts/facts) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC).
 
 ### Git / Third-party APIs
 
@@ -70,7 +70,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [Encog (⭐738)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
+*   [Encog (⭐739)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 *   [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework.
 
 ### Java / Deep Learning
@@ -79,7 +79,7 @@
 
 ### JavaScript / Natural Language Processing
 
-*   [nlp.js (⭐5.2k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
+*   [nlp.js (⭐5.3k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -120,8 +120,8 @@
 
 ### Editable data grid / spreadsheet
 
-*   [AG Grid (⭐9.3k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-*   [MUI X Data grid (⭐2.1k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
+*   [AG Grid (⭐9.5k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
+*   [MUI X Data grid (⭐2.2k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
 
 ### Audio / Video
 
@@ -137,7 +137,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [react-device-frameset (⭐30)](https://github.com/zheeeng/react-device-frameset) - React device frameset component.
+*   [react-device-frameset (⭐29)](https://github.com/zheeeng/react-device-frameset) - React device frameset component.
 
 ## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -157,13 +157,13 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rockyzhang24/arctic.nvim (⭐32)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐39)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Boilerplates
 
-*   [Model-View-Presenter template (⭐22)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
+*   [Model-View-Presenter template (⭐23)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
 
 ## [13. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Social media
+### Social media / Web articles
 
 *   [Forum](https://forum.qubes-os.org/)
 
@@ -35,7 +35,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Tanoshi (⭐303)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
+*   [Tanoshi (⭐314)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -47,19 +47,19 @@
 
 ### Documentation
 
-*   [Mastering CHIP-8 (⭐210)](https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908) - In-depth overview of the CHIP-8 instruction set.
+*   [Mastering CHIP-8 (⭐214)](https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908) - In-depth overview of the CHIP-8 instruction set.
 
 ## [8. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
-*   [Datamol (⭐275)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
+*   [Datamol (⭐276)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue CLI / Community
 
-*   [webpack-to-vite (⭐569)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
+*   [webpack-to-vite (⭐584)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -104,7 +104,7 @@
 
 ## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - By [Roy Cobby](https://twitter.com/roycobby).
 *   [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).

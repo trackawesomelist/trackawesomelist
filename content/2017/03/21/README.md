@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,17 +16,17 @@
 
 ### Errors and Exception Handling
 
-*   [OK (⭐583)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐585)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Search
 
-*   [hermes (⭐36)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+*   [hermes (⭐37)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
 
 ### Task management
 
-*   [sam (⭐82)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐83)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ### Other
 
-*   [Fragment (⭐167)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
+*   [Fragment (⭐166)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
 
 ## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐5.2k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. [![Build Status](https://api.travis-ci.org/phiresky/ripgrep-all.svg?branch=master)](https://travis-ci.org/phiresky/ripgrep-all)
+*   [phiresky/ripgrep-all (⭐5.3k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. [![Build Status](https://api.travis-ci.org/phiresky/ripgrep-all.svg?branch=master)](https://travis-ci.org/phiresky/ripgrep-all)
 
 ## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

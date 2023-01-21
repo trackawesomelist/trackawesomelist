@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 *   [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 
-### Tools
+### Testing Solutions
 
 *   [shadow-automation-selenium (⭐84)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 
@@ -164,15 +164,15 @@
 
 ## [12. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / Telegram
+### Telegram
 
-*   [vgram (⭐122)](https://github.com/dariotarantini/vgram) - Telegram bot library.
+*   [vgram (⭐124)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Chord Quiz (⭐11)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
+*   [Chord Quiz (⭐12)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 
 ---
 

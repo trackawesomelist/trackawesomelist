@@ -1,25 +1,19 @@
 # Awesome List Updates on Dec 22, 2015
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Alert / Barcode
-
-*   [Hokusai (⭐430)](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
-
-## [2. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
+## [1. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
 ### Make a difference
 
 *   [@fukeball](https://github.com/fukuball)
 *   [@joaosvieira](https://github.com/joaosvieira)
 
-## [3. Typography](/content/deanhume/typography/README.md)
+## [2. Typography](/content/deanhume/typography/README.md)
 
 ### Articles
 
@@ -42,7 +36,7 @@
 
 *   [On Web Typography](https://abookapart.com/products/on-web-typography)
 
-## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 

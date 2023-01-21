@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Multimedia
 
-*   [SFML (⭐8.2k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐8.3k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 
@@ -61,7 +61,7 @@ git config core.fileMode false
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐211)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐214)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ---
 

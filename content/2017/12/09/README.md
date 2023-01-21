@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 09, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -52,29 +52,19 @@
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Chart
-
-*   [SwiftCharts (⭐2.4k)](https://github.com/i-schuetz/SwiftCharts) - Highly customizable charts for iOS.
-
 ### Images / Barcode
 
 *   [LetterAvatarKit (⭐215)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 
 ### Localization / Barcode
 
-*   [L10n-swift (⭐286)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
+*   [L10n-swift (⭐287)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Articles / Other
 
 *   [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.
-
-## [6. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Athens](https://www.meetup.com/Papers-We-Love-Athens)
 
 ---
 

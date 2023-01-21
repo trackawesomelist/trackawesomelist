@@ -2,7 +2,7 @@
 
 An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Solido/awesome-flutter/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) · ⭐ 45K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Solido/awesome-flutter/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) · ⭐ 45K · 🏷️ Miscellaneous
 
 [ [Daily](/content/Solido/awesome-flutter/README.md) / Weekly / [Overview](/content/Solido/awesome-flutter/readme/README.md) ]
 

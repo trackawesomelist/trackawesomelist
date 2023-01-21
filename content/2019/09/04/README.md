@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -81,7 +81,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Hera (⭐495)](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Spektral (⭐2.2k)](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [qkeras (⭐430)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [qkeras (⭐437)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Reinforcement Learning / NLP
 
@@ -92,7 +92,7 @@
 *   [Horizon (⭐3.3k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
 *   [TensorForce (⭐3.2k)](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [keras-rl (⭐5.3k)](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [ChainerRL (⭐1.1k)](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 
 ## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)

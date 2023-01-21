@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -54,7 +54,7 @@
 
 ### Web Frameworks
 
-*   [Huma (⭐165)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [Huma (⭐178)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,9 +62,9 @@
 
 *   [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure *from* code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.
 
-### BaaS
+### Low-code Platform
 
-*   [BudiBase](https://budibase.com/) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s
+*   [BudiBase](https://budibase.com/) — Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s
 
 ### Analytics, Events and Statistics
 
@@ -81,7 +81,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [square/sqldelight (⭐4.9k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
+*   [square/sqldelight (⭐5k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 

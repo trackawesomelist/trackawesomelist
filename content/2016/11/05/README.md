@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,14 +16,14 @@
 
 ### Tutorials
 
-*   [TensorFlow Tutorial 2 (⭐5.9k)](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
+*   [TensorFlow Tutorial 2 (⭐6k)](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
 
 ### Models/Projects
 
-*   [Neural Style (⭐3k)](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
+*   [Neural Style (⭐3.1k)](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
 *   [Pretty Tensor (⭐1.2k)](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 *   [Neural Style (⭐5.5k)](https://github.com/anishathalye/neural-style) - An implementation of neural style
-*   [NeuralArt (⭐493)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
+*   [NeuralArt (⭐496)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 
 ### Libraries
 

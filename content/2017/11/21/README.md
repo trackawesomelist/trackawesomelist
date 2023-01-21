@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,7 +53,7 @@
 
 ### Apps / Third-party APIs
 
-*   [montezuma (⭐42)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [montezuma (⭐43)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [mk-string-metrics (⭐20)](https://github.com/cbaggers/mk-string-metrics) -
     Calculate various string metrics efficiently in Common Lisp
     (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,

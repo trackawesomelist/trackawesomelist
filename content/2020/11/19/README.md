@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -87,8 +87,8 @@
 
 ### Tools & Utilities / Others
 
-*   [BlazorGoogleMaps (⭐209)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
-*   [BlazorRouter (⭐44)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
+*   [BlazorGoogleMaps (⭐216)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
+*   [BlazorRouter (⭐50)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
 *   [DataJuggler.Blazor.FileUpload (⭐23)](https://github.com/DataJuggler/BlazorFileUpload) - ![stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=86400) Wrapper for Steve Sanderson's BlazorFileInput component.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)

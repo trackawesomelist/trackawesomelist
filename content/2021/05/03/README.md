@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Software / Libraries and Tools
 
-*   [United Manufacturing Hub (⭐157)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
+*   [United Manufacturing Hub (⭐168)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -83,9 +83,9 @@
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [GARSS (⭐675)](https://github.com/zhaoolee/garss) <sup>[973](https://t.me/s/aboutrss/973)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhaoolee/garss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [osmos::feed (⭐814)](https://github.com/osmoscraft/osmosfeed) <sup>[1012](https://t.me/s/aboutrss/1012)</sup>: a web-based RSS reader running entirely on GitHub [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/osmoscraft/osmosfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [RSSeveryday (⭐193)](https://github.com/GuangzheJiang/rss_everyday) <sup>[1016](https://t.me/s/aboutrss/1016)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/GuangzheJiang/rss_everyday)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [GARSS (⭐731)](https://github.com/zhaoolee/garss) <sup>[973](https://t.me/s/aboutrss/973)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhaoolee/garss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [osmos::feed (⭐835)](https://github.com/osmoscraft/osmosfeed) <sup>[1012](https://t.me/s/aboutrss/1012)</sup>: a web-based RSS reader running entirely on GitHub [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/osmoscraft/osmosfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSeveryday (⭐192)](https://github.com/GuangzheJiang/rss_everyday) <sup>[1016](https://t.me/s/aboutrss/1016)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/GuangzheJiang/rss_everyday)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Other Apps / Outline Processor Markup Language
 
@@ -148,7 +148,7 @@
 ### XSL template for XML / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS style with XSL](https://lepture.com/en/2019/rss-style-with-xsl) <sup>[403](https://t.me/s/aboutrss/403)</sup>
-*   [pretty-feed-v3 (⭐88)](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
+*   [pretty-feed-v3 (⭐105)](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
 
 ### Retrive old items from a RSS feed / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
@@ -168,7 +168,7 @@
 
 ### 🔨 Blog Generator that Support RSS / Crypto or Blockchain relevant
 
-*   [Nobelium (⭐1.8k)](https://github.com/craigary/nobelium) <sup>[999](https://t.me/s/aboutrss/999)</sup>
+*   [Nobelium (⭐1.9k)](https://github.com/craigary/nobelium) <sup>[999](https://t.me/s/aboutrss/999)</sup>
 *   [Ghost](https://ghost.org/) <sup>[999](https://t.me/s/aboutrss/999)</sup>
 *   [pu-blog](https://py-blog.zcmimi.top/) <sup>[999](https://t.me/s/aboutrss/999)</sup>
 *   [Maverick](https://alandecode.github.io/Maverick/) <sup>[999](https://t.me/s/aboutrss/999)</sup>

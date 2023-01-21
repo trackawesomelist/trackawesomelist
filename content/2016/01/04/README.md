@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐490)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐491)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
@@ -30,7 +30,7 @@
 
 ### Utilities
 
-*   [quark (⭐316)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
+*   [quark (⭐318)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 
 ## [4. Awesome Music](/content/ciconia/awesome-music/README.md)
 

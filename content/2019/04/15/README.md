@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐4.3k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐4.4k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Samples
 
-*   (Incomplete) Sascha Willems's [samples port (⭐48)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
+*   (Incomplete) Sascha Willems's [samples port (⭐47)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
 
 ## [6. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Extensions
 
-*   [Next UserAgent (⭐313)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+*   [Next UserAgent (⭐319)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
 ## [11. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 

@@ -2,7 +2,7 @@
 
 73 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -113,19 +113,19 @@
 
 ### Back-End Development
 
-*   [IAM (⭐947)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐992)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Yana (⭐188)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [Yana (⭐192)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 
 ## [8. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Tools
 
-*   [SimpleLocalize CLI (⭐34)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+*   [SimpleLocalize CLI (⭐35)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 *   [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 
 ### Articles
@@ -178,7 +178,7 @@
 
 *   [Website](https://nodejs.org)
 *   [Documentation](https://nodejs.org/dist/latest/docs/api/)
-*   [Repository (⭐92k)](https://github.com/nodejs/node)
+*   [Repository (⭐93k)](https://github.com/nodejs/node)
 
 ### Packages / Database
 
@@ -188,8 +188,8 @@
     *   [Keyv (⭐2k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐181)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
     *   [database-js (⭐57)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐494)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐473)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [Mongo Seeding (⭐496)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [@databases (⭐488)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
     *   [pg-mem (⭐1.2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ### Resources / Videos
@@ -253,23 +253,22 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐103)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐104)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐534)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐550)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐160)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐163)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 
 ## [21. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Docker
 
-*   [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
 *   [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)
 
 ## [22. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
@@ -424,7 +423,7 @@
 ### Applications
 
 *   [Ferment ☠️](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
-*   [Hardbin (⭐215)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐217)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 
@@ -516,7 +515,7 @@
 
 ### Misc
 
-*   [Validot (⭐264)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
+*   [Validot (⭐267)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
 
 ### Source Generator
 
@@ -550,7 +549,7 @@
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-unity-webgl (⭐1.2k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
+*   [react-unity-webgl (⭐1.3k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
 
 ## [47. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -562,12 +561,12 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Gif Getter (⭐26)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
-*   [Tree generator (⭐100)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
+*   [Godot Gif Getter (⭐27)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
+*   [Tree generator (⭐107)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 
 ### Modules / Godot 3.2+
 
-*   [Speech to Text (⭐26)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
+*   [Speech to Text (⭐27)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
 ## [49. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -595,11 +594,11 @@
 
 ### Libraries
 
-*   [RLax (⭐936)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
+*   [RLax (⭐959)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 
 ### Libraries / New Libraries
 
-*   [FlaxVision (⭐39)](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
+*   [FlaxVision (⭐41)](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
 *   [Oryx (⭐3.8k)](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) - Probabilistic programming language based on program transformations.
 
 ### Videos / NumPyro
@@ -648,7 +647,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐103)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐105)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
 
 ## [57. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -676,7 +675,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [regula (⭐793)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
+*   [regula (⭐806)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
 ## [61. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -698,7 +697,7 @@
 
 ### Tools
 
-*   🌍🔧💼 [Twind (⭐3k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
+*   🌍🔧💼 [Twind (⭐3.1k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
 ## [64. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -712,9 +711,9 @@
 ### Editor Plugins
 
 *   Acme:
-    *   [acmecrystal (⭐4)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
+    *   [acmecrystal (⭐5)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
 *   Emacs
-    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐38)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
+    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐41)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 
 ## [66. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -758,7 +757,7 @@
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐761)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐774)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
 
@@ -795,7 +794,7 @@
 
 ### Others
 
-*   [TypinExamples (⭐205)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐205)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
+*   [TypinExamples (⭐213)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐213)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
 
 ### Individual components / Tabs
 
@@ -803,8 +802,8 @@
 
 ### Individual components / Others
 
-*   [BlazorDownloadFile (⭐135)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
-*   [BlazorSliders (⭐25)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
+*   [BlazorDownloadFile (⭐139)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
+*   [BlazorSliders (⭐27)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
 
 ### Community / Others
 

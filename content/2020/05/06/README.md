@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@
 
 ### ORMs
 
-*   [cl-dbi (⭐178)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-dbi (⭐179)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
     *   [dbd-oracle (⭐4)](https://github.com/sergadin/dbd-oracle) - an Oracle database driver for CL-DBI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
@@ -84,7 +84,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Environment Configuration (⭐87)](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
+*   [Environment Configuration (⭐86)](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Alert / Barcode
 
-*   [PopupView (⭐1.8k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐1.9k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

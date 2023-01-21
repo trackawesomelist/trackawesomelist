@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,8 +26,8 @@
 
 ### System
 
-*   [baked\_file\_system (⭐160)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
-*   [hardware (⭐69)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+*   [baked\_file\_system (⭐161)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [hardware (⭐70)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-router-user-roles (⭐241)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
+*   [vue-router-user-roles (⭐240)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
 
 ## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Scripting / Barcode
 
-*   [Swift for Scripting (⭐193)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
+*   [Swift for Scripting (⭐197)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
 
 ## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

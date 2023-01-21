@@ -2,7 +2,7 @@
 
 :mortar_board: All things Vim!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mhinz/vim-galore/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mhinz/vim-galore](https://github.com/mhinz/vim-galore) · ⭐ 15K · 🏷️ Editors
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mhinz/vim-galore/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mhinz/vim-galore](https://github.com/mhinz/vim-galore) · ⭐ 15K · 🏷️ Editors
 
 [ [Daily](/content/mhinz/vim-galore/README.md) / [Weekly](/content/mhinz/vim-galore/week/README.md) / Overview ]
 

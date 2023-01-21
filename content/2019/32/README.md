@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 12 - Aug 18, 2019
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,20 +23,7 @@
 
 *   [Streamz (⭐1.1k)](https://github.com/python-streamz/streamz) \[Python] - A lightweight library for building pipelines to manage continuous streams of data; supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on.
 
-## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
-
-### Tutorials
-
-*   "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
-    *   [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
-    *   [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
-    *   [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
-    *   [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
-    *   [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
-    *   [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
-    *   [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
-
-## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -45,14 +32,14 @@
 *   [Testing iOS Face ID with Appium](https://appiumpro.com/editions/80)
 *   [Testing Windows Desktop Apps With Appium](https://appiumpro.com/editions/81)
 
-## [5. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [4. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Articles
 
 *   ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 *   ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frontend / UI / Scala
 
@@ -62,17 +49,17 @@
 
 *   [Crossbar (⭐2k)](https://github.com/crossbario/crossbar) - Open source networking platform for distributed and microservice applications. It implements the open Web Application Messaging Protocol (WAMP).
 
-## [7. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [6. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Talks
 
 *   [Dash: Data exploration web apps in pure Python](https://www.youtube.com/watch?v=eusglTlW4OA) - Chelsea Douglas, PyData DC 2018.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐98)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐99)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -80,9 +67,9 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐282)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐286)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Text Editors
 
@@ -97,7 +84,7 @@
 
 *   [fd (⭐25k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
-## [10. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [9. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Social Impact
 
@@ -105,14 +92,14 @@
 
     Internet search engine that donates its surplus income to non-profit organizations that focus on reforestation. According to their website, as of July 2019, they have been responsible for the planting of 60 million trees.
 
-## [11. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [10. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Tools / update
 
 *   [Husky (⭐28k)](https://github.com/typicode/husky) - Manage git hooks with a nice user interface.
 *   [Overcommit (⭐3.7k)](https://github.com/sds/overcommit) - A fully configurable and extendable git hook manager.
 
-## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
@@ -122,13 +109,13 @@
 
 *   [Rivendell (⭐144)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
-## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### tools / Other
 
 *   [PowerSploit (⭐10k)](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
 
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / a11y
 
@@ -539,7 +526,7 @@
 *   [Ember runloop handbook (⭐370)](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember.js runloop.
 *   [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember.js front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
-## [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -549,11 +536,11 @@
 
 *   [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
 
-## [16. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [15. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Controllers
 
-*   [sdl2gdx (⭐56)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
+*   [sdl2gdx (⭐57)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
 
 ### Resources / Setup and Deployment
 
@@ -561,15 +548,15 @@
 
 ### Resources / Visual Effects
 
-*   [Shape Drawer (⭐152)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+*   [Shape Drawer (⭐157)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Large scale Vue.js application boilerplate + Vuex (⭐260)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
+*   [Large scale Vue.js application boilerplate + Vuex (⭐261)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -579,7 +566,7 @@
 
 *   [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 
-## [19. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [18. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Extraction Tools
 
@@ -602,11 +589,11 @@
 *   [IoTGoat (⭐170)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
 *   [Rhme-2015 (⭐99)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 
-## [20. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [19. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### IntelliJ / Android Studio / Game Engine resources
 
-*   [Enhancement\_Suite (⭐239)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
+*   [Enhancement\_Suite (⭐241)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
 
 ### 🇷🇺 Russia / Misc
 
@@ -622,36 +609,36 @@
 *   Meetup [London](https://www.meetup.com/FlutterLDN/)
 *   [Twitter](https://twitter.com/FlutterLDN)
 
-## [21. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Icons
 
-*   [iconify-react (⭐179)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐182)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
 *   [react-awesome-stars-rating (⭐21)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
-## [22. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [21. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDD Workshop - Project Manager (⭐54)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 
-## [23. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [22. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
 *   [Alcinoe](http://sourceforge.net/projects/alcinoe) ([mirror at GH (⭐831)](https://github.com/Zeus64/alcinoe)). `[Delphi]` Library of visual and non-visual components for Delphi.
     // *Network: FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients; DB: Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL; XML/JSON Parser; ZLIB; Cryptography: AES, Blowfish, MD5, SHA, secure keyed MD5/SHA; opengl video player; FireMonkey controls; Other: Self-Balancing Binary Trees, expression evaluator*
 
-## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [23. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 
-## [25. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [24. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Beginner
 
@@ -664,19 +651,19 @@
 **Free** Foundational coding and data science skills for researchers.\
 *(Python, R, OpenRefine, Unix Shell, Git)*
 
-## [26. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
 *   [SmoothOverscrollableScrollView (⭐27)](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background
 
-## [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [balenaEtcher](https://www.balena.io/etcher/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 
-## [28. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [27. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
@@ -686,7 +673,7 @@
 
 *   [Neuraxle, a framwework for machine learning pipelines (⭐543)](https://github.com/Neuraxio/Neuraxle) - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
 
-## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -696,7 +683,7 @@
 
 *   [Heliohost](https://www.heliohost.org/) for a free hosting solution.
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Log Management
 
@@ -735,13 +722,13 @@
 
 *   [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
 
-## [31. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [30. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 
-## [32. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [31. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Async
 
@@ -759,14 +746,14 @@
 
 *   [Essential UI Kit ★130 (⭐981)](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 
-## [33. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [32. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Libraries / PGFPlots
 
 *   [graph35](https://ctan.org/tex-archive/graphics/graph35) – Draw keys and screen items of several Casio calculators.
 *   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 
-## [34. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [33. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation
 
@@ -775,13 +762,13 @@
 ### Automation / Code libraries and bindings
 
 *   [MultiScanner (⭐573)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
-*   [libcrafter (⭐284)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
+*   [libcrafter (⭐287)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
 
 ### Security monitoring / Service and performance monitoring
 
 *   [Locust](https://locust.io/) - Open source load testing tool in which you can define user behaviour with Python code and swarm your system with millions of simultaneous users.
 
-## [35. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [34. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Package Management / Build Systems
 
@@ -791,19 +778,19 @@
 
 *   [CMakeCM (⭐1)](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. `[NO LICENSE]`
 
-## [36. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Files / Runner
 
 *   [PDF.js (⭐41k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
-## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [mate-clj (⭐59)](https://github.com/AppsFlyer/mate-clj)
 
-## [38. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [37. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -815,7 +802,7 @@
 *   [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
 *   [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -829,13 +816,13 @@
 
 *   [NuGet Trends (⭐118)](https://github.com/NuGetTrends/nuget-trends) - Website with statistics of NuGet packages download count.
 
-## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
 *   [Duties of a Site Reliability Engineering Manager](https://victorops.com/blog/duties-of-a-site-reliability-engineering-manager)
 
-## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -845,7 +832,7 @@
 
 *   [fbt ★3202 (⭐3.8k)](https://github.com/facebookincubator/fbt) - A JavaScript Internationalization Framework
 
-## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -858,13 +845,13 @@
 
 *   [LiveCodeLab](http://livecodelab.net) - Run-as-you-type tool for VJs, musicians, teachers, students, kids.
 
-## [43. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools
 
 *   [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
 
-## [44. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [43. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Books / Tor Tools
 

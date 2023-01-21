@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 16, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,17 +18,7 @@
 
 *   [Convalida (⭐203)](https://github.com/WellingtonCosta/convalida) - A simple and annotation-based way to validate your input fields.
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Basic / Non-X86
-
-*   [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
-
-### Self / Play Scala
-
-*   [The Self Handbook](http://handbook.selflanguage.org)
-
-## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [3. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Learn / Slides
 
@@ -133,51 +123,51 @@
 *   [raquelxmoss/cycle-color-picker ★44 (⭐58)](https://github.com/raquelxmoss/cycle-color-picker) - A Color Picker component for Cycle.js. [Check out the example](https://raquelxmoss.github.io/cycle-color-picker).
 *   [cyclejs-community/cycle-svg-pan-and-zoom ★4 (⭐4)](https://github.com/cyclejs-community/cycle-svg-pan-and-zoom) - A Google Maps style SVG pan and zoom component for Cycle.js
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
 *   :octocat: [redux-zero (⭐2k)](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
 
-## [6. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Python tools / Misc
 
 *   [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
 *   [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 
-## [7. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [6. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Stackoverflow Q&A
 
 *   [Universal Bluetooth Beacon Library (⭐198)](https://github.com/andijakl/universal-beacon) - open source library and links to apps to talk to Eddystone and iBeacon beacons
 
-## [8. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [7. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Exception Reporting
 
 *   [Honeybadger](https://www.honeybadger.io) `requires-approval` `non-commercial` - Exception and uptime monitoring for Ruby.
 
-## [9. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [8. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Other
 
 *   [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.
 *   [Voyage](https://framer.com/voyage/) - A free travel-themed UI kit that’s fully interactive and made for Framer.
 
-## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 
-*   [facebook-cli (⭐372)](https://github.com/specious/facebook-cli) - Facebook command line tool
+*   [facebook-cli (⭐377)](https://github.com/specious/facebook-cli) - Facebook command line tool
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [JavaScript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
 
-## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 

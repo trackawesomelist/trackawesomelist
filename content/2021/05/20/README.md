@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Strategy
 
-*   [fheroes2 (⭐1.6k)](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
+*   [fheroes2 (⭐1.9k)](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [NativeLib (⭐62)](https://github.com/DrMoriarty/nativelib) - Plugin management system designed to easily operate with native libraries for iOS/Android. It also takes care about plugin dependencies and provides hassle-free native libs updating. Attribution and analytics: Adjust, Amplitude, AppsFlyer, Flurry, GameAnalytics, Tenjin. Ads networks and mediation: AdColony, AppLovin, TapDaq. GDPR and privacy: App Tracking Transparency, Ogury. Social: Facebook. Universal backend solution: Firebase.
+*   [NativeLib (⭐65)](https://github.com/DrMoriarty/nativelib) - Plugin management system designed to easily operate with native libraries for iOS/Android. It also takes care about plugin dependencies and provides hassle-free native libs updating. Attribution and analytics: Adjust, Amplitude, AppsFlyer, Flurry, GameAnalytics, Tenjin. Ads networks and mediation: AdColony, AppLovin, TapDaq. GDPR and privacy: App Tracking Transparency, Ogury. Social: Facebook. Universal backend solution: Firebase.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Photo / Image
 
-*   [lightGallery (⭐5.5k)](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
+*   [lightGallery (⭐5.6k)](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

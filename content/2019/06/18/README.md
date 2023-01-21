@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 18, 2019
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [repl-utilities (⭐47)](https://github.com/m-n/repl-utilities) - Ease
+*   [repl-utilities (⭐48)](https://github.com/m-n/repl-utilities) - Ease
     common tasks at the REPL (print documentation, print external symbols,
     call hooks when loading a package,…). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
@@ -22,11 +22,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐399)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐408)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
-*   [phoenix\_meta\_tags (⭐24)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
+*   [phoenix\_meta\_tags (⭐25)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 
 ### Games
 
@@ -38,11 +38,11 @@
 
 ### Office
 
-*   [elixlsx (⭐234)](https://github.com/xou/elixlsx) - A writer for XLSX files.
+*   [elixlsx (⭐235)](https://github.com/xou/elixlsx) - A writer for XLSX files.
 
 ### Security
 
-*   [clamxir (⭐7)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
+*   [clamxir (⭐8)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 
 ### SMS
 
@@ -61,25 +61,19 @@
 
 *   [ex\_nric (⭐2)](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### TEI / Vapor
-
-*   [What is the Text Encoding Initiative?](https://books.openedition.org/oep/426) - Lou Bernard
-
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Security
 
 *   [Netflix/bless :fire::fire::fire::fire::fire: (⭐2.7k)](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Knowledge Management Tools
 
 *   [My Mind (⭐3.1k)](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Hiring
 
@@ -89,20 +83,20 @@
 
 *   [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
-## [7. Awesome React](/content/enaqx/awesome-react/README.md)
+## [6. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tutorials / React General Tutorials
 
 *   [Setup Flow with React](https://flow.org/en/docs/react/)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Abp vNext (⭐8.7k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
     Follows best practices and conventions to provide you a SOLID development experience.
 
-## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Books
 
@@ -116,7 +110,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐809)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐833)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ---
 

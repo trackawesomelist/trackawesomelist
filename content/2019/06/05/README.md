@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 05, 2019
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -68,17 +68,7 @@
 
 *   [lightweight-charts (⭐5.5k)](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 
-## [5. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
-
-### Blockchains for computation / Blockchain projects for AI algorithms
-
-*   [AI Crypto](https://aicrypto.ai/) - AI Crypto is a blockchain-based ecosystem where AI resources such as GPU, models, and data are distributed in order to lower the cost of AI development.
-
-### Deadpool / Blockchain projects for AI algorithms
-
-*   [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
-
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -94,20 +84,20 @@
 
 
 
-## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [SSO-session failover with Keycloak and AWS S3](https://medium.com/@georgijsr/sso-session-failover-with-keycloak-and-aws-s3-e0b1db985e12)
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Other Languages / Others
 
 *   [Blaze of Code](https://blazeofcode.com/) - \[Portuguese] Blog about Blazor.
 *   [DevApps.be's podcast #47](http://devapps.be/podcast/47-typescript-uno-angular-docfx/) - \[French] DevApps.be's podcast #47: "Actualités : TypeScript, Uno, Angular, DocFX, Database".
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 

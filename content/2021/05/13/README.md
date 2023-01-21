@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,12 +21,12 @@
 
 ### Table
 
-*   [svelte-generic-crud-table (⭐43)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+*   [svelte-generic-crud-table (⭐47)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
 *   [svelte-generic-table-pager (⭐4)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte (⭐55)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐68)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Adapters / Server-side
 
-*   [Adonis (⭐180)](https://github.com/eidellev/inertiajs-adonisjs)
+*   [Adonis (⭐185)](https://github.com/eidellev/inertiajs-adonisjs)
 
 ## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Contents / Shopping
 
-*   [Flutter WooCommerce app (⭐298)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
+*   [Flutter WooCommerce app (⭐311)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
 
 ---
 

@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -131,13 +131,13 @@
 
 ### UI / Calendar
 
-*   [Time Planner (⭐134)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
+*   [Time Planner (⭐150)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
 
 ## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Resume (⭐93)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
+*   📁 [Resume (⭐97)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
 
 ## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

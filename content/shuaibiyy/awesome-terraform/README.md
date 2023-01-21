@@ -2,7 +2,7 @@
 
 Curated list of resources on HashiCorp's Terraform
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/shuaibiyy/awesome-terraform/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) · ⭐ 3.9K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/shuaibiyy/awesome-terraform/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) · ⭐ 3.9K · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 

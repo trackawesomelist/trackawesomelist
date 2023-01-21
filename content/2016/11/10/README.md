@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -64,7 +64,7 @@
 
 ### ORM and Datamapping
 
-*   [arbor (⭐213)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐215)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -78,7 +78,7 @@
 
 ### Text and Numbers
 
-*   [abacus (⭐70)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+*   [abacus (⭐71)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
 *   [brcpfcnpj (⭐64)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)

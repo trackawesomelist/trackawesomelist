@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐428)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐456)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -128,7 +128,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐310)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐314)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
@@ -150,7 +150,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Related
 
-*   [Awesome CLI (⭐358)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐368)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [15. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
@@ -172,13 +172,13 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Map / Image Picker
 
-*   [AMap (⭐511)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
+*   [AMap (⭐513)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
 
 ## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [caniuse.rs (⭐151)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐153)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 
 ## [18. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -190,7 +190,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Maps
 
-*   [WhirlyGlobe-Maply (⭐778)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+*   [WhirlyGlobe-Maply (⭐784)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 ---
 

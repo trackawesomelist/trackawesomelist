@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,7 +29,7 @@
 
 ### Country Data
 
-*   [Phonelib (⭐923)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
+*   [Phonelib (⭐928)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
 *   [Phony (⭐955)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
@@ -47,12 +47,12 @@
 ### Optimizations
 
 *   [bootsnap (⭐2.6k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐596)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐597)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐167)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐171)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Web Frameworks
 
-*   [Starlette (⭐7.6k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
+*   [Starlette (⭐7.8k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

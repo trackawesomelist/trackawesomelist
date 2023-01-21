@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,21 +19,21 @@
 
 ### ORM and Datamapping
 
-*   [amnesia (⭐669)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+*   [amnesia (⭐670)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 
 ### Testing
 
-*   [meck (⭐777)](https://github.com/eproxus/meck) - A mocking library for Erlang.
+*   [meck (⭐778)](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ### Websites
 
-*   [30 Days of Elixir (⭐2.9k)](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
+*   [30 Days of Elixir (⭐3k)](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [pjs (⭐410)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+*   [pjs (⭐411)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 *   [license-checker (⭐1.5k)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 ---

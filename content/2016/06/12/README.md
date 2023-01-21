@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [optparse (⭐142)](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
+*   [optparse (⭐144)](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
 *   [shellfire (⭐1.2k)](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 
 ## [2. Awesome Ava](/content/avajs/awesome-ava/README.md)
@@ -29,7 +29,7 @@
 
 ### UI / Barcode
 
-*   [LeeGo (⭐971)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐969)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -61,7 +61,7 @@
 
 ### Artificial Intelligence
 
-*   [Recast/Detour (⭐5.2k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Recast/Detour (⭐5.3k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 
 ---
 

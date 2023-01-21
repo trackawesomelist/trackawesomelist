@@ -2,7 +2,7 @@
 
 17 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -163,7 +163,7 @@
 
 ### UI / Barcode
 
-*   [KMPlaceholderTextView (⭐795)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+*   [KMPlaceholderTextView (⭐794)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 
 ## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -258,17 +258,17 @@
 
 ### Testing
 
-*   [espec (⭐785)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
+*   [espec (⭐786)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 
 ## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐98)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐99)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐306)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐309)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

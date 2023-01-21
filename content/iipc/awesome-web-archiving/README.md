@@ -2,7 +2,7 @@
 
 An Awesome List for getting started with web archiving
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/iipc/awesome-web-archiving/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) · ⭐ 1.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/iipc/awesome-web-archiving/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) · ⭐ 1.4K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/iipc/awesome-web-archiving/week/README.md) / [Overview](/content/iipc/awesome-web-archiving/readme/README.md) ]
 

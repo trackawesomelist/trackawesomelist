@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 03 - Aug 09, 2020
 
-60 awesome lists updated this week.
+59 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,17 +10,17 @@
 
 ### Command-Line Productivity
 
-*   [spark.fish (⭐280)](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
+*   [spark.fish (⭐286)](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
+*   [zoxide (⭐8.6k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
-*   [PassWall (⭐667)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
+*   [PassWall (⭐671)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
 
 ## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -32,7 +32,7 @@
 
 ### HLS / Talks Presentations Podcasts
 
-*   [carlanton/m3u8-parser (⭐122)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+*   [carlanton/m3u8-parser (⭐128)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
 
 ## [5. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -42,11 +42,11 @@
     *   [algorithms (⭐22k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
     *   [python-ds (⭐1.9k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
     *   [sortedcontainers (⭐2.8k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    *   [TheAlgorithms (⭐150k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+    *   [TheAlgorithms (⭐151k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 
 ### ASGI Servers
 
-*   [uvicorn (⭐5.9k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+*   [uvicorn (⭐6k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
 ### Concurrency and Parallelism
 
@@ -79,7 +79,7 @@
 
 ### Data Analysis
 
-*   [AWS Data Wrangler (⭐3.2k)](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
+*   [AWS Data Wrangler (⭐3.3k)](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
 *   [Optimus (⭐1.3k)](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with PySpark.
 
 ### Data Visualization
@@ -104,19 +104,19 @@
 
 ### Distribution
 
-*   [pyarmor (⭐1.9k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+*   [pyarmor (⭐2k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ### Downloader
 
-*   [akshare (⭐5.7k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+*   [akshare (⭐5.8k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 
 ### E-commerce
 
-*   [forex-python (⭐534)](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion.
+*   [forex-python (⭐540)](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion.
 
 ### Functional Programming
 
-*   [CyToolz (⭐890)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
+*   [CyToolz (⭐894)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
 
 ### GraphQL
 
@@ -124,7 +124,7 @@
 
 ### Implementations
 
-*   [CLPython (⭐339)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
+*   [CLPython (⭐340)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
 
 ### Job Scheduler
 
@@ -160,16 +160,16 @@
 
 ### Static Site Generator
 
-*   [mkdocs (⭐15k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
+*   [mkdocs (⭐16k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 *   [pelican (⭐11k)](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax.
 
 ### Template Engine
 
-*   [Jinja2 (⭐8.9k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
+*   [Jinja2 (⭐9k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 
 ### Video
 
-*   [vidgear (⭐2.5k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
+*   [vidgear (⭐2.6k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
 
 ### Web Crawling
 
@@ -248,11 +248,11 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSPreview (⭐80)](https://github.com/aureliendavid/rsspreview) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aureliendavid/rsspreview)
+*   [RSSPreview (⭐81)](https://github.com/aureliendavid/rsspreview) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aureliendavid/rsspreview)
 
 ### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [Awesome ML/AI RSS feed (⭐45)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
+*   [Awesome ML/AI RSS feed (⭐51)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
 
@@ -328,9 +328,9 @@
 *   [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
 *   [twitterscraper (⭐2.2k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape twitter
 
-### Data Manipulation / Data Containers
+### Data Manipulation / Data Frames
 
-*   [pandas\_profiling (⭐9.8k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+*   [pandas\_profiling (⭐10k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 ### Visualization / Interactive plots
 
@@ -340,9 +340,9 @@
 
 ### Visualization / Automatic Plotting
 
-*   [HoloViews (⭐2.3k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐991)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
-*   [SweetViz (⭐2.2k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
+*   [HoloViews (⭐2.4k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+*   [AutoViz (⭐1.1k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [SweetViz (⭐2.3k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP
 
@@ -370,7 +370,7 @@
 
 ### External Services
 
-*   [netease-music-box (⭐54)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
+*   [netease-music-box (⭐57)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 
 ## [23. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -474,7 +474,7 @@
 
 ### Tools and session management
 
-*   [vim-tmux-navigator (⭐3.9k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+*   [vim-tmux-navigator (⭐4k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
 ## [34. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
@@ -560,16 +560,16 @@
 
 ### General
 
-*   [GitHub repository (⭐30k)](https://github.com/dotnet/aspnetcore) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore?style=flat-square\&cacheSeconds=86400) The official Blazor repository (which is the ASP.NET Core repository).
+*   [GitHub repository (⭐31k)](https://github.com/dotnet/aspnetcore) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore?style=flat-square\&cacheSeconds=86400) The official Blazor repository (which is the ASP.NET Core repository).
 
 ### Individual components / API
 
-*   [Blazor.Canvas (⭐126)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
+*   [Blazor.Canvas (⭐129)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 
 ### Tools & Utilities / Others
 
-*   [bUnit - a testing library for Blazor components (⭐792)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
-*   [BlazorApplicationInsights (⭐120)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
+*   [bUnit - a testing library for Blazor components (⭐814)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
+*   [BlazorApplicationInsights (⭐123)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
 ### Others / Others
 
@@ -701,32 +701,26 @@
 
 *   [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/) - Written by [@ermil0v](https://twitter.com/ermil0v).
 
-## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### UI / Barcode
-
-*   [Streamoji (⭐243)](https://github.com/GetStream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
-
-## [45. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [44. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
 *   [FastAPI Cache (⭐186)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 
-## [46. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [45. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
 *   [red-chainer (⭐99)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
 *   [mxnet (⭐49)](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
-## [47. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [46. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Playgrounds / Git
 
 *   [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
 
-## [48. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+## [47. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
 ### Demos / Program generation and analysis
 
@@ -750,19 +744,19 @@
 *   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.6k)](https://github.com/shreyashankar/gpt3-sandbox)
 *   [gpt-3-experiments by @minimaxir (⭐676)](https://github.com/minimaxir/gpt-3-experiments)
 
-## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
-*   [denofn-selfhosted (⭐23)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
+*   [denofn-selfhosted (⭐24)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
-## [50. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [49. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Boilerplate / Mouse Events
 
 *   [express-react-boilerplate (⭐44)](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
-## [51. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [50. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Application or Binary Hardening
 
@@ -770,19 +764,19 @@
 *   [DynamoRIO](https://dynamorio.org/) - Runtime code manipulation system that supports code transformations on any part of a program, while it executes, implemented as a process-level virtual machine.
 *   [Valgrind](https://www.valgrind.org/) - Instrumentation framework for building dynamic analysis tools.
 
-## [52. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [51. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Other Datasets
 
 *   [MIMIC-IV](https://mimic-iv.mit.edu/) - An update to MIMIC-III's multimodal patient data, now covering more recent years of admissions, plus a new data structure, emergency department records, and links to MIMIC-CXR images.
 
-## [53. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [FalaDev](https://anchor.fm/faladev) - Passando a maior parte do tempo escrevendo código, chegou o momento de se reunir e falar sobre o universo da programação.
 
-## [54. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -792,13 +786,13 @@
 
 *   [Gatsby AWS S3 Deployment (⭐39)](https://github.com/jonelantha/gatsby-s3-action) - Deploy Gatsby to S3 (supports CloudFront).
 
-## [55. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [54. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
 *   [Make Music with the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Twelve projects that make music, sound and noise with Circuit Python.
 
-## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -828,7 +822,7 @@
 
 
 
-## [57. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [56. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / SAML
 
@@ -839,13 +833,13 @@
 *   [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/) - Moderation of huge social networks is performed by an army of outsourced subcontractors. These people are exposed to the worst and generally ends up with PTSD.
 *   [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - A documentary on these teams of underpaid people removing posts and deleting accounts.
 
-## [58. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [57. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-grid-responsive (⭐27)](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x.
-*   [vue-splash (⭐125)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
-*   [@geospoc/v-mapbox (⭐131)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
+*   [vue-splash (⭐127)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
+*   [@geospoc/v-mapbox (⭐134)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 *   [@geospoc/v-mapbox-geocoder (⭐8)](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 *   [ckeditor4-vue (⭐60)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 *   [vue-scratchable (⭐50)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
@@ -856,25 +850,25 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-use-switch-map (⭐8)](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
-*   [vue-use-infinite-scroll (⭐110)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
-*   [v-intl (⭐15)](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
+*   [vue-use-switch-map (⭐9)](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
+*   [vue-use-infinite-scroll (⭐111)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
+*   [v-intl (⭐14)](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
 
 ### Components & Libraries / Scaffold
 
-*   [janak (⭐26)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
+*   [janak (⭐25)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 
-## [59. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [58. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Database
 
-*   [ObjectBox (⭐376)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+*   [ObjectBox (⭐380)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
-## [60. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [59. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐55)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐57)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

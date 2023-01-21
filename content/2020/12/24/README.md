@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,14 +16,14 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Tongue (⭐17)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
+*   [Tongue (⭐16)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [cpp-terminal (⭐265)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
-*   [FTXUI (⭐3.9k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
+*   [cpp-terminal (⭐272)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [FTXUI (⭐4k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
 *   [imtui (⭐2.1k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface \[MIT]
 
 ## [4. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -86,7 +86,7 @@
 
 ### Interviewing
 
-*   [awesome-interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 
 ### Podcasts
 
@@ -150,14 +150,14 @@
 
 *   [Falsehoods (⭐19k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐44k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐807)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐815)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐223k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐229k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐5.3k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
-*   [Selenium (⭐845)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
-*   [Security (⭐9k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+*   [Selenium (⭐856)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
+*   [Security (⭐9.2k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
 ## [12. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -178,7 +178,7 @@
 ### Samples / Other
 
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐387)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐386)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

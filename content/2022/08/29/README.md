@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Image Analysis / Telegram
 
-*   [ExifLooter (⭐288)](https://github.com/aydinnyunus/exiflooter)
+*   [ExifLooter (⭐303)](https://github.com/aydinnyunus/exiflooter)
 
 ## [2. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -324,7 +324,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-confirm-dialog (⭐23)](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech\_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
+*   [vuejs-confirm-dialog (⭐28)](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech\_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -364,7 +364,7 @@
 
 ### Software / Miscellaneous
 
-*   [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐2k)](https://github.com/sct/overseerr)) `MIT` `Docker`
+*   [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐2.1k)](https://github.com/sct/overseerr)) `MIT` `Docker`
 
 ## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -377,13 +377,13 @@
 
 ### Crates / Component Libraries
 
-*   [Yewprint (⭐342)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
+*   [Yewprint (⭐352)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [VDP (⭐603)](https://github.com/instill-ai/vdp) - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
+*   [VDP (⭐645)](https://github.com/instill-ai/vdp) - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
 *   [Comet](https://www.comet.com/) -  ML platform for tracking experiments, hyper-parameters, artifacts and more. It's deeply integrated with over 15+ deep learning frameworks and orchestration tools. Users can also use the platform to monitor their models in production.
 
 ---

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Video / Barcode
 
-*   [YiVideoEditor (⭐96)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
+*   [YiVideoEditor (⭐97)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 
 ## [2. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -23,7 +23,7 @@
 ### Specific topics / Zero Knowledge Proofs
 
 *   [Proofs of knowledge](https://cseweb.ucsd.edu/\~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
-*   [Knowledge complexity of interactive proof systems (⭐1)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
+*   [Knowledge complexity of interactive proof systems (⭐2)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
 
 ### Books / Post-quantum cryptography
 
@@ -48,13 +48,13 @@
 
 ### Resources / Presets
 
-*   ⭐ [Laravel Inertia Preset (⭐73)](https://github.com/laravel-presets/inertia) - One-command Laravel preset with Tailwind CSS, Vite, Inertia.js and Vue.js.
+*   ⭐ [Laravel Inertia Preset (⭐78)](https://github.com/laravel-presets/inertia) - One-command Laravel preset with Tailwind CSS, Vite, Inertia.js and Vue.js.
 
 ## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Articles and Presentations / Hardware Offload
 
-*   [hBPF - eBPF in hardware (⭐330)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
+*   [hBPF - eBPF in hardware (⭐332)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
 
 ---
 

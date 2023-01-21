@@ -2,7 +2,7 @@
 
 A curated list of awesome projects, libraries, tools, etc. related to InfluxDB
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mark-rushakoff/awesome-influxdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mark-rushakoff/awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) · ⭐ 761 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mark-rushakoff/awesome-influxdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mark-rushakoff/awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) · ⭐ 761 · 🏷️ Databases
 
 [ [Daily](/content/mark-rushakoff/awesome-influxdb/README.md) / [Weekly](/content/mark-rushakoff/awesome-influxdb/week/README.md) / Overview ]
 

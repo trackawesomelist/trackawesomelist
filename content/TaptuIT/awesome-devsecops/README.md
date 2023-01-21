@@ -2,7 +2,7 @@
 
 Curating the best DevSecOps resources and tooling.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/TaptuIT/awesome-devsecops/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) · ⭐ 751 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/TaptuIT/awesome-devsecops/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) · ⭐ 751 · 🏷️ Security
 
 [ Daily / [Weekly](/content/TaptuIT/awesome-devsecops/week/README.md) / [Overview](/content/TaptuIT/awesome-devsecops/readme/README.md) ]
 

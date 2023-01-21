@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 28 - Jan 03, 2015
 
-30 awesome lists updated this week.
+28 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-redis (⭐375)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+*   [crystal-redis (⭐377)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
 
 ### Misc
 
@@ -221,21 +221,14 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 
-## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### PHP / PicoLisp
-
-*   [Practical PHP Programming](http://www.hackingwithphp.com)
-*   [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
-
-## [15. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [14. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Podcasts / Videos
 
 *   [The Laravel Podcast](http://www.laravelpodcast.com/)
 *   [The Laracasts Snippet](https://laracasts.simplecast.fm/)
 
-## [16. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [15. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Document Object Model
 
@@ -244,7 +237,7 @@ git checkout <deleting_commit> -- <file_path>
 *   [Freactive (⭐393)](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 *   [json-html (⭐158)](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
 
-## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Testing
 
@@ -254,7 +247,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
 
-## [18. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 
@@ -273,7 +266,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
 
-## [19. Typography](/content/deanhume/typography/week/README.md)
+## [18. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -296,7 +289,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [On Web Typography](https://abookapart.com/products/on-web-typography)
 
-## [20. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [19. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -313,19 +306,19 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [The State of Electron](https://www.youtube.com/watch?v=RaPmi-33rfc)
 
-## [21. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [20. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [Rx glitches aren't actually a problem](http://staltz.com/rx-glitches-arent-actually-a-problem.html) - Glitches are temporary inconsistencies emitted by Observables. André Staltz looks at why it's not really a problem.
 
-## [22. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [21. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
 *   [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** \[23:07]
 
-## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
@@ -337,7 +330,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [MesonBuild](http://mesonbuild.com) - An open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 
-## [24. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [23. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
@@ -352,13 +345,13 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [Designer Hangout](https://www.designerhangout.co/)
 
-## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [24. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [boilr (⭐1.5k)](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 
-## [26. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [25. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Preludes
 
@@ -368,7 +361,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [purescript-test-unit (⭐86)](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
 
-## [27. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [26. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Make a difference
 
@@ -376,17 +369,7 @@ git checkout <deleting_commit> -- <file_path>
 *   [@fukeball](https://github.com/fukuball)
 *   [@joaosvieira](https://github.com/joaosvieira)
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### UI / Barcode
-
-*   [NextGrowingTextView (⭐1.7k)](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
-
-### Alert / Barcode
-
-*   [Hokusai (⭐430)](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
-
-## [29. Codeface](/content/chrissimpkins/codeface/week/README.md)
+## [27. Codeface](/content/chrissimpkins/codeface/week/README.md)
 
 ### The Gallery
 
@@ -401,7 +384,7 @@ git checkout <deleting_commit> -- <file_path>
 
 § The End
 
-## [30. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [28. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Resources
 

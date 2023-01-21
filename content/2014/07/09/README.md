@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Customization / Directory Navigation
 
-*   [bash-powerline (⭐839)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
+*   [bash-powerline (⭐843)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
 
 ### Games / Directory Navigation
 
-*   [bash2048 (⭐849)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+*   [bash2048 (⭐852)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

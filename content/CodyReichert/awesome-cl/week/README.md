@@ -2,7 +2,7 @@
 
 A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/CodyReichert/awesome-cl/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) · ⭐ 2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/CodyReichert/awesome-cl/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) · ⭐ 2K · 🏷️ Programming Languages
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 

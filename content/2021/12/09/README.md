@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -52,7 +52,7 @@
 
 ### APIs, Data and ML
 
-*   [Public-Apis Github Repo (⭐220k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐224k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -148,7 +148,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/cutlass.nvim (⭐80)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
+*   [gbprod/cutlass.nvim (⭐81)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
 
 ## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Utilities / General Tools
 
-*   [Equinox (⭐670)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
+*   [Equinox (⭐682)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 
 ## [16. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

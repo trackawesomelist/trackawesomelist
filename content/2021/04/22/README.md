@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,11 +46,11 @@
 
 ### Algorithms and Data structures
 
-*   [splay\_tree\_map (⭐10)](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
+*   [splay\_tree\_map (⭐11)](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
 
 ### Debugging
 
-*   [backtracer.cr (⭐11)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
+*   [backtracer.cr (⭐13)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
 *   [debug.cr (⭐86)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ### Misc
@@ -214,11 +214,11 @@
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐872)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐893)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐2.1k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐2.2k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ---
 

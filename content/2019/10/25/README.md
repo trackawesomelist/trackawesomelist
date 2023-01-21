@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,9 +48,9 @@
 
 ### Compression
 
-*   [Crystar (⭐34)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
-*   [snappy (⭐16)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
-*   [zstd.cr (⭐37)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐19k)](https://github.com/facebook/zstd) compression library
+*   [Crystar (⭐37)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
+*   [snappy (⭐17)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
+*   [zstd.cr (⭐38)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐19k)](https://github.com/facebook/zstd) compression library
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -115,11 +115,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pychat (⭐209)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
+*   [Pychat (⭐210)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-html-to-paper (⭐271)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-html-to-paper (⭐273)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

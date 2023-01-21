@@ -2,7 +2,7 @@
 
 A curated list for when naming things is done right.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / [Weekly](/content/gruhn/awesome-naming/week/README.md) / Overview ]
 

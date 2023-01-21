@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 19 - Feb 25, 2018
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -55,21 +55,21 @@
 
 ### Models/Projects
 
-*   [SRGAN (⭐2.8k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-*   [Seq2seq-Chatbot (⭐813)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
-*   [DCGAN (⭐309)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
-*   [GAN-CLS (⭐569)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
-*   [im2im (⭐70)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
+*   [SRGAN (⭐2.9k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+*   [Seq2seq-Chatbot (⭐822)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
+*   [DCGAN (⭐310)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
+*   [GAN-CLS (⭐574)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
+*   [im2im (⭐71)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
 *   [Improved CycleGAN (⭐89)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
-*   [DAGAN (⭐157)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
+*   [DAGAN (⭐159)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
 *   [Policy Gradient (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
 *   [Deep Q-Network (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
 *   [AC (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
 *   [A3C (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
-*   [DAGGER (⭐67)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐394)](https://github.com/ugo-nama-kun/gym_torcs)
+*   [DAGGER (⭐66)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐400)](https://github.com/ugo-nama-kun/gym_torcs)
 *   [TRPO (⭐44)](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
-*   [U-Net (⭐445)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
-*   [Spatial Transformer Networks (⭐38)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
+*   [U-Net (⭐448)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
+*   [Spatial Transformer Networks (⭐36)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
 
 ### Libraries
 
@@ -162,7 +162,7 @@
 
 ### Maps / Barcode
 
-*   [FlyoverKit (⭐691)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
+*   [FlyoverKit (⭐693)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 
 ### Menu / Barcode
 
@@ -536,42 +536,48 @@
     *   [Lectures](https://see.stanford.edu/Course/CS107)
     *   [Assignments](https://see.stanford.edu/Course/CS107)
 
-## [24. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [24. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [Security Data Science Papers](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
+
+## [25. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Task Automation
 
 *   [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 *   [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 
-## [25. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [26. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
 *   [Reason](https://reasonml.github.io) – Reason is a new interface to OCaml, a highly expressive dialect of the ML language featuring type inference and static type checking.
 
-## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Tamiat CMS (⭐524)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
+*   [Tamiat CMS (⭐522)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
 
 ### Components & Libraries / UI Components
 
 *   [vue-tour (⭐2.2k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
-## [27. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [28. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Transformations
 
 *   [Sawmill (⭐98)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 
-## [28. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
+## [29. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 
 ### Twitter
 
 *   [@hipsterwid](https://twitter.com/hipsterwid) - An hipster bot trained on Erowid trip reports and Pitchfork's album reviews.
 
-## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Strings
 
@@ -581,7 +587,7 @@
 
 *   [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 
-## [30. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -591,19 +597,19 @@
 
 *   [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 
-## [31. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [32. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### CLI
 
 *   [Sudo-Productivity (⭐193)](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
 
-## [32. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [33. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
 *   [Coast](http://coastonclojure.com/)
 
-## [33. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [34. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -613,7 +619,7 @@
 
 *   [Matteo Filipponi - mfilippo](https://bl.ocks.org/mfilippo)
 
-## [34. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [35. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Outdated Boilerplates
 
@@ -621,13 +627,13 @@
 *   [elm-init (⭐11)](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
 *   [elm-new (⭐81)](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 
-## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
 *   [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulars and code.
 
-## [36. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [37. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / JavaScript
 
@@ -641,17 +647,17 @@
 
 *   [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Pirated software download site blacklist / Package Managers
 
 *   Softasm：~~`https://softasm.com/`~~
 
-## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [scribe (⭐260)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐262)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### JSON
 
@@ -668,12 +674,6 @@
 ### Books
 
 *   [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2015).
-
-## [39. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 
 ## [40. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -706,7 +706,7 @@
 ### Types / Playground
 
 *   [utility-types (⭐4.7k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
-*   [elm-ts (⭐289)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
+*   [elm-ts (⭐290)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 
 ## [44. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -734,7 +734,7 @@
 
 *   Line editor
     *   [kkawakam/rustyline (⭐1.1k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation in Rust [![build badge](https://api.travis-ci.org/kkawakam/rustyline.svg?branch=master)](https://travis-ci.org/kkawakam/rustyline)
-    *   [MovingtoMars/liner (⭐70)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality [![build badge](https://api.travis-ci.org/MovingtoMars/liner.svg?branch=master)](https://travis-ci.org/MovingtoMars/liner)
+    *   [MovingtoMars/liner (⭐71)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality [![build badge](https://api.travis-ci.org/MovingtoMars/liner.svg?branch=master)](https://travis-ci.org/MovingtoMars/liner)
     *   [murarth/linefeed (⭐176)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader [![build badge](https://api.travis-ci.org/murarth/linefeed.svg?branch=master)](https://travis-ci.org/murarth/linefeed)
     *   [srijs/rust-copperline (⭐25)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
 
@@ -748,17 +748,7 @@
 
 
 
-## [48. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Atlanta](https://www.meetup.com/Papers-We-Love-Atlanta)
-
-### Info / Other Good Places to Find Papers
-
-*   [Security Data Science Papers](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-
-## [49. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [48. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Actionable Resources
 
@@ -770,19 +760,19 @@
 *   [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) - By Sheelah Kolhatkar.
 *   [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) - By Melissa McEwen.
 
-## [50. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [49. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### System Deployment
 
 *   [Kubernetes](https://kubernetes.io/) - a system for automating deployment, scaling, and management of containerized applications.
 
-## [51. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [50. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   Sascha Willems's [Vulkan-glTF-PBR (⭐638)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
+*   Sascha Willems's [Vulkan-glTF-PBR (⭐657)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
-## [52. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [51. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Health / Miscellaneous
 
@@ -796,19 +786,19 @@
 
 
 
-## [53. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐160)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐162)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
-## [54. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Oncall and Sustainable Software Development](https://honeycomb.io/blog/2018/02/oncall-and-sustainable-software-development/)
 
-## [55. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 

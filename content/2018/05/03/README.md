@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 ### Libraries / General Purpose
 
 *   [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
-*   [Indigo (⭐217)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+*   [Indigo (⭐218)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 *   [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 
 ### Libraries / Format Checking
@@ -39,19 +39,19 @@
 
 ### Libraries / Molecular Descriptors
 
-*   [mordred (⭐246)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
-*   [mol2vec (⭐200)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
+*   [mordred (⭐250)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
+*   [mol2vec (⭐202)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 
 ### Libraries / Web APIs
 
-*   [webchem (⭐135)](https://github.com/ropensci/webchem) - Chemical Information from the Web.
+*   [webchem (⭐136)](https://github.com/ropensci/webchem) - Chemical Information from the Web.
 *   [Beaker (⭐42)](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
 
 ### Libraries / Molecular Dynamics
 
 *   [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 *   [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-*   [MDTraj (⭐417)](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
+*   [MDTraj (⭐418)](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
 
 ### Resources / Courses
 
@@ -92,7 +92,7 @@
 
 ### Packages / Command-line utilities
 
-*   [oclif (⭐7.9k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
+*   [oclif (⭐8k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 
 ### Packages / Hardware
 
@@ -104,15 +104,15 @@
 
 ### Packages / Text
 
-*   [i18next (⭐6.5k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐6.6k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
-*   [multimath (⭐63)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
+*   [multimath (⭐64)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 ### Packages / Parsing
 
-*   [fast-xml-parser (⭐1.7k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+*   [fast-xml-parser (⭐1.8k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
 
 ### Packages / Network
 
@@ -120,7 +120,7 @@
 
 ### Packages / Authorization
 
-*   [CASL (⭐4.5k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐4.6k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
@@ -128,8 +128,8 @@
 
 ### Packages / Serialization
 
-*   [snappy (⭐478)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
-*   [compactr (⭐97)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+*   [snappy (⭐479)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
+*   [compactr (⭐98)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous
 

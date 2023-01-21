@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Libraries / Scripting
 
-*   [fleabitdev/gamelisp (⭐348)](https://github.com/fleabitdev/glsp) — A LISP-lisk scripting language for Rust game development
+*   [fleabitdev/gamelisp (⭐351)](https://github.com/fleabitdev/glsp) — A LISP-lisk scripting language for Rust game development
 
 ## [4. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐285)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐317)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

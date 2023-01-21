@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [AnySniper (⭐16)](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
+*   [AnySniper (⭐15)](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -34,14 +34,14 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olivercederborg/poimandres.nvim (⭐71)](https://github.com/olivercederborg/poimandres.nvim) - Neovim port of [poimandres VSCode theme (⭐160)](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua.
+*   [olivercederborg/poimandres.nvim (⭐88)](https://github.com/olivercederborg/poimandres.nvim) - Neovim port of [poimandres VSCode theme (⭐170)](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Formatters
 
-*   [dprint (⭐1.6k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
-*   [Prettier Rust (⭐83)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
+*   [dprint (⭐1.7k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
+*   [Prettier Rust (⭐86)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
 
 ## [7. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

@@ -2,7 +2,7 @@
 
 1 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### API
 
-*   [ServiceStack (⭐5.1k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+*   [ServiceStack (⭐5.2k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 
 ### Scheduling
 
-*   [NCrontab (⭐745)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [NCrontab (⭐754)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
 ---
 

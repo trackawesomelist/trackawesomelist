@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 
 ### Science and Data analysis
 
-*   [alea (⭐11)](https://github.com/nin93/alea) - Repeatable sampling, CDF and other utilities to work with probability distributions
+*   [alea (⭐12)](https://github.com/nin93/alea) - Repeatable sampling, CDF and other utilities to work with probability distributions
 
 ## [6. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -68,13 +68,13 @@
 
 ### Integrations
 
-*   [Nerzal/gocloak Golang Keycloak API Package (⭐634)](https://github.com/Nerzal/gocloak)
+*   [Nerzal/gocloak Golang Keycloak API Package (⭐680)](https://github.com/Nerzal/gocloak)
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-final-modal (⭐511)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐526)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 ### Components & Libraries / Utilities
 
@@ -84,7 +84,7 @@
 
 ### Extensions
 
-*   [next-auth (⭐13k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
+*   [next-auth (⭐14k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
 ---
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 07 - Jan 13, 2019
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [rshijack (⭐368)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
+*   [rshijack (⭐376)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Boilerplates
 
-*   [Oh My Fullstack (⭐170)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+*   [Oh My Fullstack (⭐168)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 
 ## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -157,7 +157,7 @@
 
 *   [Node Webkit + Vue example (⭐43)](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
 *   [Vue Samples (⭐41)](https://github.com/superlloyd/VueSamples) by @superlloyd
-*   [HackerNews clone with vue.js + vue-router (⭐27)](https://github.com/kazupon/vue-router-hackernews) by @kazupon
+*   [HackerNews clone with vue.js + vue-router (⭐29)](https://github.com/kazupon/vue-router-hackernews) by @kazupon
 *   [**Electron + Vue example**](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
 *   [Single page application example (Vue + Voie) (⭐67)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
 *   [Begin - Task Manager SPA written in Vue + Lumen (⭐74)](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
@@ -176,11 +176,11 @@
 *   [vue-demo-todolist (⭐82)](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
 *   [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
 *   [**Vue(2.0) + Node.js: A blog content manage system (CMS)**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
-*   [zhihu-daily-vue (⭐37)](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
+*   [zhihu-daily-vue (⭐38)](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
 *   [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
 *   [**easy-vue**](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0, vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
 *   [Vuex Events Messaging Demo (⭐9)](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
-*   [vue-memo (⭐95)](https://github.com/akifo/vue-memo) a simple demo build with Vue.js(>2.x.), vue-router(>2.x.), vuex(>2.x.), vuex-router-sync\@next(>3.x.) and Firebase(>3.6.x) by [akifo](https://github.com/akifo)
+*   [vue-memo (⭐94)](https://github.com/akifo/vue-memo) a simple demo build with Vue.js(>2.x.), vue-router(>2.x.), vuex(>2.x.), vuex-router-sync\@next(>3.x.) and Firebase(>3.6.x) by [akifo](https://github.com/akifo)
 *   [Resume Vue (⭐25)](https://github.com/ChangJoo-Park/Resume-Vue) JSON based Resume based on Vue 2.0 by [ChangJoo Park](https://github.com/ChangJoo-Park/)
 *   [Sample CRUD app with router in Vue 2.0 (⭐55)](https://github.com/shershen08/vue.js-v2-crud-application) by [@shershen08](https://github.com/shershen08)
 *   [ASP.NET Core Vue.js server-side rendering sample (⭐145)](https://github.com/mgyongyosi/VuejsSSRSample) by [@mgyongyosi](https://github.com/mgyongyosi)
@@ -201,40 +201,40 @@
 *   [Vue.js with Sails.js example project (⭐299)](https://github.com/ndabAP/vue-sails-example) - This project is for those who are new to single-page applications and want to learn through a real example.
 *   [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
 *   [vue-feathers-chat (⭐50)](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
-*   [vue-xplan (⭐271)](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js
+*   [vue-xplan (⭐272)](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js
 *   [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
 *   [vue-tetris (Use Vue, Vuex, Immutable to code Tetris)](http://binaryify.github.io/vue-tetris/) by [@Binaryify](https://github.com/Binaryify): Use Vue, Vuex, Immutable to code Tetris.
 *   [route-planner-vue](https://kasheftin.github.io/route-planner-vue/) by [@Kasheftin](https://github.com/Kasheftin): The tool for planning routes with multiple sortable layers, draggable directions, markers and shapes on google map.
 *   [MyDiary-Vue (⭐86)](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) A diary application build with Vue 2.X which is also have contact and todolist function
 *   [todo-mvc-webpack (⭐6)](https://github.com/voluntadpear/todomvc-vue-webpack) by [voluntapear](https://github.com/voluntadpear) TodoMVC implementation on Vue 2 using the webpack-basic template with examples showing vuex, vue-router, central event bus and VueFire.
-*   [Vue Weather Notifier (⭐194)](https://github.com/sdras/vue-weather-notifier) A small sample animation app with SVG and Vuex
+*   [Vue Weather Notifier (⭐193)](https://github.com/sdras/vue-weather-notifier) A small sample animation app with SVG and Vuex
 *   [VueBlog (⭐937)](https://github.com/wmui/vueblog) A blog system supporting service side rendering by [wmui](https://github.com/wmui)
 *   [Cinemateka (⭐12)](https://github.com/Piterden/cinemateka) - An example of SPA made with Vue v1 & Laravel 5. Film & events schedule. Russian comments.
 *   [vue-2.x-boilerplate (⭐25)](https://github.com/the6thm0nth/vue-2.x-boilerplate) - A simple and small starter kit for a Vue project Vuex + vue-router
 *   [vue-minesweeper (⭐3)](https://github.com/rhapsodyn/vue-minesweeper) - A deadly simple minesweeper game with vuejs by [rhapsodyn](https://github.com/rhapsodyn)
-*   [koa-vue-notes-web (⭐198)](https://github.com/johndatserakis/koa-vue-notes-web) - A fleshed-out SPA using Koa 2.3 on the backend and Vue 2.4 on the frontend. Includes fully featured user-authentication components, CRUD actions for the user's notes, and Vuex store modules.
-*   [Vuejs Shopping Cart (⭐324)](https://github.com/ittus/vuejs-firebase-shopping-cart) - Shopping cart example using Vuejs and Firebase
+*   [koa-vue-notes-web (⭐199)](https://github.com/johndatserakis/koa-vue-notes-web) - A fleshed-out SPA using Koa 2.3 on the backend and Vue 2.4 on the frontend. Includes fully featured user-authentication components, CRUD actions for the user's notes, and Vuex store modules.
+*   [Vuejs Shopping Cart (⭐325)](https://github.com/ittus/vuejs-firebase-shopping-cart) - Shopping cart example using Vuejs and Firebase
 *   [PokedexVueJs (⭐17)](https://github.com/rchung95/PokedexVueJs) by @rchung95
 *   [vuefire-auth (⭐29)](https://github.com/aofdev/vuefire-auth) A Vuefire Vue2-Auth-Email Verification with Firebase
 *   [vuefire-realtimedatabase (⭐28)](https://github.com/aofdev/vuefire-realtimedatabase) A Vuefire Vue2-RealtimeDatabaseCRUD with Firebase
 *   [vuefire-storage (⭐25)](https://github.com/aofdev/vuefire-storage) A Vuefire Vue2-Storage with Firebase
 *   [Vue2-PWA-Blog (⭐20)](https://github.com/deepak-singh/vue-blog-pwa) by @deepak-singh
-*   [vue-firebase-auth-vuex (⭐262)](https://github.com/aofdev/vue-firebase-auth-vuex) A Vue2 Firebase Authentication with Vuex and support Progressive Web Apps
+*   [vue-firebase-auth-vuex (⭐261)](https://github.com/aofdev/vue-firebase-auth-vuex) A Vue2 Firebase Authentication with Vuex and support Progressive Web Apps
 *   [vue-chart-stater-kit (⭐23)](https://github.com/joshua1988/vue-chart-starter-kit) Quick starter using Vue Router, Vue Chart, Element-UI
-*   [vue2.0-demos (⭐141)](https://github.com/qianyinghuanmie/vue2.0-demos) using mint-ui, Element-UI,And have Some demos（select city and so on）
+*   [vue2.0-demos (⭐140)](https://github.com/qianyinghuanmie/vue2.0-demos) using mint-ui, Element-UI,And have Some demos（select city and so on）
 *   [conway (⭐3)](https://github.com/edge/conway) Conway's Game of Life in Vue.
 *   [vuex-feature-scoped-structure (⭐225)](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
-*   [vuex-examples (⭐254)](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
-*   [vue-vuex-todomvc (⭐46)](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
-*   [vuejs-music-player (⭐30)](https://github.com/Jamaks/vuejs-music-player) - A Vue.js lite music player
+*   [vuex-examples (⭐255)](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
+*   [vue-vuex-todomvc (⭐45)](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
+*   [vuejs-music-player (⭐31)](https://github.com/Jamaks/vuejs-music-player) - A Vue.js lite music player
 *   [Vue.js Best Practices Example Project (⭐41)](https://github.com/sarneeh/vuejs-example-stock-trader) - A best practices example project using Vue.js + Vue Router + Vuex + Vuelidate
 
 ### Projects Using Vue.js / Open Source
 
 *   [PageKit (⭐5.5k)](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
-*   [npmcharts.com (⭐145)](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
+*   [npmcharts.com (⭐144)](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 *   [Koel (⭐14k)](https://github.com/phanan/koel) - A personal music streaming server that works.
-*   [Raven Reader (⭐2.4k)](https://github.com/mrgodhani/raven-reader) - Simple RSS Reader made using atom electron and vue.js.
+*   [Raven Reader (⭐2.5k)](https://github.com/mrgodhani/raven-reader) - Simple RSS Reader made using atom electron and vue.js.
 *   [Gokotta (⭐507)](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
 *   [CoPilot (⭐2.8k)](https://github.com/misterGF/CoPilot) - An admin portal based on AdminLTE with vue.js integration.
 *   [Retrospectify (⭐105)](https://github.com/pepf/retrospectify) - A simple tool for doing collaborative retrospectives in agile teams.
@@ -243,8 +243,8 @@
 *   [EME (⭐2k)](https://github.com/egoist/eme) - An Elegant Markdown Editor.
 *   [Github-explorer (⭐118)](https://github.com/SidKwok/github-explorer) - A spa which can help you check your github in a better way.
 *   [Hotel (⭐9.9k)](https://github.com/typicode/hotel) - Start your dev servers from your browser and get local domains in seconds.
-*   [Surfbird (⭐326)](https://github.com/surfbirdapp/surfbird) - A Twitter client written with modern web technologies.
-*   [Approach0 (⭐320)](https://github.com/approach0/search-engine) - A math-aware search engine.
+*   [Surfbird (⭐327)](https://github.com/surfbirdapp/surfbird) - A Twitter client written with modern web technologies.
+*   [Approach0 (⭐322)](https://github.com/approach0/search-engine) - A math-aware search engine.
 *   [Flox (⭐1.1k)](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List.
 *   [JavaScript Guessing Game (⭐409)](https://github.com/samiheikki/javascript-guessing-game) - A game for identifying JavaScript tools and libraries.
 *   [vue-ghpages-blog (⭐406)](https://github.com/viko16/vue-ghpages-blog) - A blog based on GitHub pages by Vue.js 2 + Webpack 2.
@@ -255,10 +255,10 @@
 *   [Materialize-blog (⭐206)](https://github.com/forehalo/materialize-blog) - A material blog built with Laravel5.3 and Vue2.x.
 *   [SDR News (⭐60)](https://github.com/super-dev/SDR-News) - News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs).
 *   [PJ Blog (⭐2.8k)](https://github.com/jcc/blog) - Open source blog built with Laravel and Vue.js.
-*   [Lulumi-browser (⭐413)](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
+*   [Lulumi-browser (⭐412)](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
 *   [vue-wordpress-pwa (⭐689)](https://github.com/bstavroulakis/vue-wordpress-pwa)
 *   [OpenAPI 3 viewer (⭐85)](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
-*   [Stacer (⭐8.1k)](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
+*   [Stacer (⭐8.2k)](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
 *   [Distrochooser.de (⭐4)](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
 *   [Buka (⭐1k)](https://github.com/oguzhaninan/Buka) - EBook Management
 *   [Docute (⭐3.7k)](https://github.com/egoist/docute) - A framework for writing documentation without build process
@@ -266,8 +266,8 @@
 *   [piper (⭐249)](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
 *   [mmf-blog-vue2 (⭐237)](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
 *   [Media Manager (⭐243)](https://github.com/iutbay/mm) - Web File Manager.
-*   [dyu/bookmarks (⭐145)](https://github.com/dyu/bookmarks) - A self-contained, self-hosted bookmarking app powered by leveldb, built with Vue2.1.x.
-*   [JSON Schema Editor (⭐231)](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
+*   [dyu/bookmarks (⭐144)](https://github.com/dyu/bookmarks) - A self-contained, self-hosted bookmarking app powered by leveldb, built with Vue2.1.x.
+*   [JSON Schema Editor (⭐235)](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
 *   [npm-stats (⭐110)](https://github.com/apertureless/npm-stats) - npm package download statistics dashboard
 *   [vue2-admin-lte (⭐1.1k)](https://github.com/devjin0617/vue2-admin-lte) - a project that converts AdminLTE to work with Vuejs (v2.x).
 
@@ -276,17 +276,17 @@
 *   [vue-datepicker-mobile (⭐17)](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.
 *   [vue-draggable-cal (⭐86)](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped.
 *   [vue-vanilla-datetime-picker (⭐31)](https://github.com/Shchepotin/vue-vanilla-datetime-picker) - Datetime picker for Vue.
-*   [vue2-daterange-picker (⭐312)](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
+*   [vue2-daterange-picker (⭐310)](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
 *   [vue-timeselector (⭐42)](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.
 
 ### Components & Libraries / Frameworks
 
-*   [app-framework (⭐645)](https://github.com/scriptPilot/app-framework) - IOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source.
+*   [app-framework (⭐646)](https://github.com/scriptPilot/app-framework) - IOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source.
 *   [Myfirebase (⭐71)](https://github.com/myfirebase/myfirebase) - A decoupled Single page application Framework which is highly compatible with google firebase.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-chat-scroll (⭐554)](https://github.com/theomessin/vue-chat-scroll) - Automatic scroll-to-bottom directive for Vue.js 2.0.
+*   [vue-chat-scroll (⭐559)](https://github.com/theomessin/vue-chat-scroll) - Automatic scroll-to-bottom directive for Vue.js 2.0.
 *   [vue-scrollto (⭐2k)](https://github.com/rigor789/vue-scrollTo) - Adds a directive that listens for click events and scrolls to elements.
 
 ### Components & Libraries / Utilities
@@ -354,24 +354,24 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ### Software / Photo and Video Galleries
 
-*   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Source Code (⭐24k)](https://github.com/photoprism/photoprism)) `MIT` `Go`
+*   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code (⭐24k)](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go`
 
 ## [27. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
-*   [Fancy Bottom Navigation (⭐612)](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+*   [Fancy Bottom Navigation (⭐619)](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 
 ### Widgets / Redux / ELM / Dependency Injection
 
-*   [Hooks (⭐2.5k)](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
-*   [Functional widget (⭐518)](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
+*   [Hooks (⭐2.6k)](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
+*   [Functional widget (⭐526)](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
 
 ## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### WPF
 
-*   [WPF (⭐6k)](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+*   [WPF (⭐6.1k)](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 
 ## [29. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -395,7 +395,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ### DevSecOps / Service meshes
 
-*   [Clair (⭐9.1k)](https://github.com/coreos/clair) - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
+*   [Clair (⭐9.2k)](https://github.com/coreos/clair) - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
 *   [Gauntlt](http://gauntlt.org/) - Pentest applications during routine continuous integration build pipelines.
 *   [SonarQube](https://sonarqube.org) - Continuous inspection tool that provides detailed reports during automated testing and alerts on newly introduced security vulnerabilities.
 
@@ -484,27 +484,17 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 ### Message Queues
 
 *   [pyzmq (⭐3.2k)](https://github.com/zeromq/pyzmq) - Python bindings for ZeroMQ.
-*   [aiozmq (⭐389)](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
+*   [aiozmq (⭐394)](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
 
 ### Writings
 
 *   [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 
-## [35. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [CSS Animation 101 (⭐4.3k)](https://github.com/cssanimation/css-animation-101)
-
-### Ruby / Tornado
-
-*   [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello
-
-## [36. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [35. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### 3D / Other / unknown licence
 
-*   [ada-doom-3 (⭐232)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+*   [ada-doom-3 (⭐237)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Machine Learning / Other / unknown licence
 
@@ -516,7 +506,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
 
-*   [aforth (⭐17)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
+*   [aforth (⭐19)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
 ### Format Readers and Writers / Other / unknown licence
 
@@ -530,7 +520,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 *   [areadline (⭐7)](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
 
-## [37. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [36. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
@@ -563,7 +553,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 *   [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code (⭐22)](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) and watch [the talks' recording](https://vimeo.com/305197775)).
 *   [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080) - Classify a new example from a list of other examples (without definitive categories) and with low-data per classification task, but lots of data for lots of similar classification tasks - it seems better than siamese networks. To sum up: with Matching Networks, you can optimize directly for a cosine similarity between examples (like a self-attention product would match) which is passed to the softmax directly. I guess that Matching Networks could probably be used as with negative-sampling softmax training in word2vec's CBOW or Skip-gram without having to do any context embedding lookups.
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -589,13 +579,13 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 *   [InfoQ .NET articles](https://www.infoq.com/dotnet) -  Collection of best .NET articles on InfoQ site
 
-## [39. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [38. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Offensive / Cross Site Request Forgery
 
 *   [XSRFProbe (⭐790)](https://github.com/0xInfection/XSRFProbe) - The Prime CSRF Audit & Exploitation Toolkit by [@0xInfection](https://github.com/0xinfection).
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -606,7 +596,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 *   [AngelScript](https://www.angelcode.com/angelscript/) - AngelScript is a game-oriented interpreted/compiled scripting language. \[zlib]
 *   [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. \[BSD]
 
-## [41. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [40. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
@@ -652,7 +642,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 *   [mtcnn (⭐499)](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
 *   [deephorizon (⭐34)](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
-## [42. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [41. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Objective-C
 

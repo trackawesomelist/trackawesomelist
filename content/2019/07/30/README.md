@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Platforms
 
-*   [WebExtensions (⭐988)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+*   [WebExtensions (⭐1k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
 
 ### Programming Languages
 
@@ -18,7 +18,7 @@
 
 ### Front-End Development
 
-*   [Angular (⭐8.6k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Angular (⭐8.7k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 
 ### Back-End Development
 
@@ -30,14 +30,14 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐225)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐235)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.7k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTTP
 
-*   [Cable (⭐109)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐111)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [3. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 

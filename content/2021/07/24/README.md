@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,14 +16,14 @@
 
 ### Templates / Vue 3
 
-*   [vitesse-lite (⭐700)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+*   [vitesse-lite (⭐721)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
 *   [vitesse-webext (⭐1.7k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [L0garithmic/FastColabCopy (⭐17)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
+*   [L0garithmic/FastColabCopy (⭐19)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -43,9 +43,9 @@
 
 *   [Apache APISIX](https://apisix.apache.org) - Dynamic, real-time, high-performance API gateway.
 *   [Gloo Edge](https://www.solo.io/products/gloo-edge/) - An Envoy Proxy-based API Gateway.
-*   [Kong API Gateway (⭐33k)](https://github.com/Kong/kong) - Cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.
-*   [KrakenD API Gateway (⭐992)](https://github.com/devopsfaith/krakend-ce) - Ultra-High performance API Gateway with middlewares.
-*   [Ocelot (⭐7.3k)](https://github.com/ThreeMammals/Ocelot) - .NET API Gateway.
+*   [Kong API Gateway (⭐34k)](https://github.com/Kong/kong) - Cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.
+*   [KrakenD API Gateway (⭐1.1k)](https://github.com/devopsfaith/krakend-ce) - Ultra-High performance API Gateway with middlewares.
+*   [Ocelot (⭐7.4k)](https://github.com/ThreeMammals/Ocelot) - .NET API Gateway.
 *   [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) -  API Gateway built on top of the Spring Ecosystem, including: Spring 5, Spring Boot 2 and Project Reactor.
 
 ### Projects / BPM
@@ -173,8 +173,8 @@
 
 ### Contents / Tools
 
-*   [Weather (⭐14)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
-*   [FlutterWeather (⭐64)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [Weather (⭐15)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
+*   [FlutterWeather (⭐107)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Servers
 
-*   [Xandikos (⭐249)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python`
+*   [Xandikos (⭐255)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -34,7 +34,7 @@
 
 ### Software / Miscellaneous
 
-*   [MyPaas (⭐269)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
+*   [MyPaas (⭐282)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
 
 ### Software / Search Engines
 
@@ -84,13 +84,13 @@
 
 ### Form Components / Star Rating
 
-*   [react-rating (⭐157)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+*   [react-rating (⭐163)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [xiyaowong/link-visitor.nvim (⭐16)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
+*   [xiyaowong/link-visitor.nvim (⭐21)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

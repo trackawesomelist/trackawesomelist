@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -72,17 +72,6 @@
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Tutorials
-
-*   "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
-    *   [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
-    *   [Part 2: Custom Elements](https://javascript.info/custom-elements)
-    *   [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
-    *   [Part 4: Template element](https://javascript.info/template-element)
-    *   [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
-    *   [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
-    *   [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
-
 ### History / 2018
 
 *   [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
@@ -112,7 +101,7 @@
 *   [Leaf for Mac](https://rockysandstudio.com/) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/id576338668?mt=12)
 *   [Cappuccino](https://cappuccinoapp.com/) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/cappuccino/id1293733688?mt=8\&at=10l4Lz\&ct=cappuiosbadge\&uo=8\&at=10l4Lz)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://geo.itunes.apple.com/us/app/cappuccino-news-reader/id1286725949?mt=12\&app=apps\&at=10l4Lz\&ct=cappumacbadge\&uo=8\&at=10l4Lz)
 *   [RSS Reader Prime](http://orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/) <sup>[487](https://t.me/s/aboutrss/487)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rss-reader-prime/id1454638098)
-*   [Smart RSS extension (⭐80)](https://github.com/SmartRSS/Smart-RSS) <sup>[510](https://t.me/s/aboutrss/510)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/eggggihfcaabljfpjiiaohloefmgejic/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/smart-rss-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SmartRSS/Smart-RSS)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Smart RSS extension (⭐83)](https://github.com/SmartRSS/Smart-RSS) <sup>[510](https://t.me/s/aboutrss/510)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/eggggihfcaabljfpjiiaohloefmgejic/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/smart-rss-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SmartRSS/Smart-RSS)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -135,14 +124,14 @@
 ### Wechat Mini Apps / Outline Processor Markup Language
 
 *   [攸阅](https://minapp.com/miniapp/12066/) <sup>[165](https://t.me/s/aboutrss/165), [190](https://t.me/s/aboutrss/190)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [Resser 阅见 (⭐70)](https://github.com/rhinoc/Resser) <sup>[296](https://t.me/s/aboutrss/296), [297](https://t.me/s/aboutrss/297)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rhinoc/Resser)
+*   [Resser 阅见 (⭐68)](https://github.com/rhinoc/Resser) <sup>[296](https://t.me/s/aboutrss/296), [297](https://t.me/s/aboutrss/297)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rhinoc/Resser)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Newspipe](https://www.newspipe.org/) <sup>[464](https://t.me/s/aboutrss/464)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cedricbonhomme/newspipe)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [rss-web (⭐58)](https://github.com/sin1ght/rss-web) <sup>[87](https://t.me/s/aboutrss/87)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sin1ght/rss-web)
 *   [selfoss](https://selfoss.aditu.de/) <sup>[128](https://t.me/s/aboutrss/128), [266](https://t.me/s/aboutrss/266), [389](https://t.me/s/aboutrss/389)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SSilence/selfoss)
-*   [Stringer (⭐3.5k)](https://github.com/swanson/stringer) <sup>[388](https://t.me/s/aboutrss/388)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/swanson/stringer)
+*   [Stringer (⭐3.6k)](https://github.com/swanson/stringer) <sup>[388](https://t.me/s/aboutrss/388)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/swanson/stringer)
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
@@ -156,7 +145,7 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [sensor.feedparser (⭐87)](https://github.com/custom-components/feedparser) <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/custom-components/feedparser)
+*   [sensor.feedparser (⭐89)](https://github.com/custom-components/feedparser) <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/custom-components/feedparser)
 
 ### TTRSS / Outline Processor Markup Language
 
@@ -192,7 +181,7 @@
 ### universally from / newsletter/mail
 
 *   Reading Newsletters with RSS Reader <sup>[426](https://t.me/s/aboutrss/426)</sup>
-*   [mail2rss (⭐36)](https://github.com/lengthmin/mail2rss) <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lengthmin/mail2rss)
+*   [mail2rss (⭐37)](https://github.com/lengthmin/mail2rss) <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lengthmin/mail2rss)
 
 ### specifically from (  *a certain platform*  ) / Weibo (微博)
 
@@ -231,7 +220,7 @@
 *   [Feedsearch](https://feedsearch.dev/) <sup>[310](https://t.me/s/aboutrss/310)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DBeath/feedsearch-crawler)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS API](https://rssapi.net/) <sup>[279](https://t.me/s/aboutrss/279)</sup> : Convert & subscribe to RSS, ATOM and JSON-Feeds via API
 *   [Feedspot API](https://www.feedspot.com/fs/apireadme) <sup>[290](https://t.me/s/aboutrss/290)</sup>
-*   [feedi (⭐345)](https://github.com/davidesantangelo/feedi) <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/feedi)
+*   [feedi (⭐343)](https://github.com/davidesantangelo/feedi) <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/feedi)
 *   [Substats](https://api.spencerwoo.com/substats/) <sup>[452](https://t.me/s/aboutrss/452), [470](https://t.me/s/aboutrss/470)</sup> : Serverless Function to Count How Many People are Subscribed to You in Your Favorite Services [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spencerwooo/Substats)
 
 ### iOS Shortcut / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
@@ -291,7 +280,7 @@
 ### Tools & Utilities / Others
 
 *   [Blazor.LazyStyleSheet (⭐12)](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square\&cacheSeconds=86400) Lazy loading for CSS style sheets.
-*   [DnetIndexedDb (⭐84)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
+*   [DnetIndexedDb (⭐85)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
 
 ## [11. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -316,7 +305,7 @@
 
 ### Applications / Utilities
 
-*   [nomino (⭐452)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
+*   [nomino (⭐470)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -328,7 +317,7 @@
 
 ### Visual Programming Languages
 
-*   [eternal (⭐416)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
+*   [eternal (⭐443)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
 
 ### Other / Other
 

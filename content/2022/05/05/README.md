@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,7 +39,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [robstoll/atrium (⭐436)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
+*   [robstoll/atrium (⭐440)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -136,9 +136,9 @@
 
 ### Visualization
 
-*   [ipycytoscape (⭐213)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
-*   [ipydagred3 (⭐44)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.7k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
-*   [ipysheet (⭐513)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
+*   [ipycytoscape (⭐218)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
+*   [ipydagred3 (⭐43)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.7k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
+*   [ipysheet (⭐512)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 *   [IPySigma (⭐16)](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 *   [ipyvolume (⭐1.8k)](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
 *   [ipywebrtc (⭐217)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
@@ -148,17 +148,17 @@
 
 ### Version Control
 
-*   [databooks (⭐85)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
+*   [databooks (⭐86)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
 
 ### JupyterLab Extensions
 
-*   [jupyter-fs (⭐128)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
-*   [jupyter-notify (⭐568)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
+*   [jupyter-fs (⭐130)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
+*   [jupyter-notify (⭐569)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
 *   [jupyterlab-executor (⭐6)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
 *   [jupyterlab-kyso (⭐1)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
-*   [jupyterlab-notifications (⭐42)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
+*   [jupyterlab-notifications (⭐43)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
 *   [jupyterlab\_iframe (⭐84)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
-*   [jupyterlab\_miami\_nights (⭐76)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
+*   [jupyterlab\_miami\_nights (⭐77)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 
 ### Hosted Notebook Solutions
 
@@ -187,11 +187,11 @@
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-ts-lib-starter (⭐78)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
+*   [vite-vanilla-ts-lib-starter (⭐82)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-webfont-dl (⭐95)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
+*   [vite-plugin-webfont-dl (⭐103)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
 *   [vite-plugin-babel-compiler (⭐21)](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 
 ---

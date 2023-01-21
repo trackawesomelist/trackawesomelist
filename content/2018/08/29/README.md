@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,19 +17,15 @@
 ### JupyterLab Extensions
 
 *   [celltags (⭐110)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
-*   [google-drive (⭐381)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-*   [toc (⭐723)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
-*   [voyager (⭐275)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+*   [google-drive (⭐382)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+*   [toc (⭐725)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+*   [voyager (⭐276)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
-*   [Dynamic Wallpaper Editor (⭐181)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
-
-### Applets / Design Tooling
-
-*   [Emoji Selector (⭐413)](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
+*   [Dynamic Wallpaper Editor (⭐189)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -103,12 +99,12 @@
 ### Automation / Code libraries and bindings
 
 *   [python-dshield (⭐21)](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
-*   [python-sandboxapi (⭐116)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
-*   [python-stix2 (⭐283)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
+*   [python-sandboxapi (⭐121)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
+*   [python-stix2 (⭐286)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
 
 ### Threat intelligence / Threat hunting
 
-*   [ThreatIngestor (⭐601)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
+*   [ThreatIngestor (⭐618)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
 
 ## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

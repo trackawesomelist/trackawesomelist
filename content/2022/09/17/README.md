@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
-*   ~~[Privacy Redirect (⭐1.5k)](https://github.com/SimonBrazell/privacy-redirect)~~ [LibRedirect (⭐1.8k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+*   ~~[Privacy Redirect (⭐1.6k)](https://github.com/SimonBrazell/privacy-redirect)~~ [LibRedirect (⭐1.9k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Software / Self-hosting Solutions
 
-*   [VivumLab](https://vivumlab.com) - An open-source data-center, owned by you, the user. VivumLab deploys web services to a server. ([Source Code (⭐33)](https://github.com/VivumLab/VivumLab)) `MIT` `Docker/Shell`
+*   [VivumLab](https://vivumlab.com) - An open-source data-center, owned by you, the user. VivumLab deploys web services to a server. ([Source Code (⭐35)](https://github.com/VivumLab/VivumLab)) `MIT` `Docker/Shell`
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
-*   [usbd-human-interface-device (⭐35)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐35)](https://github.com/dlkj/usbd-human-interface-device) - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
+*   [usbd-human-interface-device (⭐36)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐36)](https://github.com/dlkj/usbd-human-interface-device) - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -48,32 +48,32 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-generics (⭐7)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
+*   [go-generics (⭐10)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
 *   [quadtree (⭐20)](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
 
 ### Goroutines
 
 *   [go-workerpool (⭐6)](https://github.com/zenthangplus/go-workerpool) - Inspired from Java Thread Pool, Go WorkerPool aims to control heavy Go Routines.
-*   [routine (⭐88)](https://github.com/timandy/routine) - `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully.
+*   [routine (⭐91)](https://github.com/timandy/routine) - `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully.
 
 ### Messaging
 
 *   [mob (⭐11)](https://github.com/erni27/mob) - mob is a generic-based, simple mediator / event aggregator library. It supports in-process requests / events processing.
-*   [Ratus (⭐67)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
+*   [Ratus (⭐69)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
 
 ### Scrapers
 
-*   [go-recipe (⭐12)](https://github.com/kkyr/go-recipe) - A package for scraping recipes from websites.
+*   [go-recipe (⭐15)](https://github.com/kkyr/go-recipe) - A package for scraping recipes from websites.
 
 ### Utilities
 
-*   [countries (⭐70)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
-*   [graterm (⭐21)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
-*   [scan (⭐44)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
+*   [countries (⭐71)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
+*   [graterm (⭐23)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
+*   [scan (⭐45)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [asty (⭐35)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
+*   [asty (⭐37)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 

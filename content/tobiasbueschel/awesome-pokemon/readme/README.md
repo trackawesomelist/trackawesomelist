@@ -2,7 +2,7 @@
 
 :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tobiasbueschel/awesome-pokemon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) · ⭐ 503 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tobiasbueschel/awesome-pokemon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) · ⭐ 503 · 🏷️ Miscellaneous
 
 [ [Daily](/content/tobiasbueschel/awesome-pokemon/README.md) / [Weekly](/content/tobiasbueschel/awesome-pokemon/week/README.md) / Overview ]
 

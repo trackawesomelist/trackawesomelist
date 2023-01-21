@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐245)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐251)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
 
 ### Software / Ticketing
 
@@ -121,8 +121,8 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [io-ts (⭐5.9k)](https://github.com/gcanti/io-ts) - Type validation at runtime
-*   :octocat: [fast-check (⭐3.3k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
+*   :octocat: [io-ts (⭐6k)](https://github.com/gcanti/io-ts) - Type validation at runtime
+*   :octocat: [fast-check (⭐3.4k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
 ---
 

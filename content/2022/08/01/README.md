@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [shellfirm (⭐647)](https://github.com/kaplanelad/shellfirm) - Shellfirm is a handy utility to help avoid running dangerous commands without an extra step of approval. When risky patterns is detected you will immediately get a small prompt challenge that will verify your action.
+*   [shellfirm (⭐654)](https://github.com/kaplanelad/shellfirm) - Shellfirm is a handy utility to help avoid running dangerous commands without an extra step of approval. When risky patterns is detected you will immediately get a small prompt challenge that will verify your action.
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -32,21 +32,21 @@
 
 ### Miscellaneous
 
-*   [D++ (DPP) (⭐557)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
+*   [D++ (DPP) (⭐578)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Revolt](https://revolt.chat/) - Revolt is a user-first chat platform built with modern web technologies. ([Source Code (⭐1.5k)](https://github.com/revoltchat/revolt)) `AGPL-3.0` `Rust`
+*   [Revolt](https://revolt.chat/) - Revolt is a user-first chat platform built with modern web technologies. ([Source Code (⭐1.6k)](https://github.com/revoltchat/revolt)) `AGPL-3.0` `Rust`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [vSMTP](https://viridit.com/vsmtp-mail-transfer-agent/) - Next-gen MTA. Secured, Faster and Greener. ([Source Code (⭐383)](https://github.com/viridIT/vSMTP)) `GPL-3.0` `Rust`
+*   [vSMTP](https://viridit.com/vsmtp-mail-transfer-agent/) - Next-gen MTA. Secured, Faster and Greener. ([Source Code (⭐396)](https://github.com/viridIT/vSMTP)) `GPL-3.0` `Rust`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [GoToSocial (⭐1.9k)](https://github.com/superseriousbusiness/gotosocial) - ActivityPub federated social network server implementing the Mastodon client API. `AGPL-3.0` `Docker/Go`
+*   [GoToSocial (⭐2.2k)](https://github.com/superseriousbusiness/gotosocial) - ActivityPub federated social network server implementing the Mastodon client API. `AGPL-3.0` `Docker/Go`
 
 ### Software / DNS
 
@@ -54,8 +54,8 @@
 
 ### Software / Miscellaneous
 
-*   [Readflow](https://readflow.app) - Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... ([Source Code (⭐265)](https://github.com/ncarlier/readflow)) `MIT` `Go`
-*   [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Source Code (⭐7.6k)](https://github.com/wallabag/wallabag)) `MIT` `PHP`
+*   [Readflow](https://readflow.app) - Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... ([Source Code (⭐274)](https://github.com/ncarlier/readflow)) `MIT` `Go`
+*   [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Source Code (⭐7.8k)](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 ### Software / Money, Budgeting & Management
 
@@ -63,19 +63,19 @@
 
 ### Software / Note-taking & Editors
 
-*   [kiwix-serve](https://www.kiwix.org/en/downloads/kiwix-serve/) - HTTP daemon for serving wikis from ZIM files. ([Source Code (⭐254)](https://github.com/kiwix/kiwix-tools)) `GPL-3.0` `C++`
+*   [kiwix-serve](https://www.kiwix.org/en/downloads/kiwix-serve/) - HTTP daemon for serving wikis from ZIM files. ([Source Code (⭐262)](https://github.com/kiwix/kiwix-tools)) `GPL-3.0` `C++`
 
 ### Software / Recipe Management
 
-*   [Groceri.es](https://groceri.es/) - Web-based application to manage your recipes and plan your meals ahead. groceri.es keeps track of your menu plans and generates a groceries list for you. ([Source Code (⭐284)](https://github.com/juriansluiman/groceri.es)) `MIT` `Docker/Python`
+*   [Groceri.es](https://groceri.es/) - Web-based application to manage your recipes and plan your meals ahead. groceri.es keeps track of your menu plans and generates a groceries list for you. ([Source Code (⭐297)](https://github.com/juriansluiman/groceri.es)) `MIT` `Docker/Python`
 
 ### Software / Software Development - Testing
 
-*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐130)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
+*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐136)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Wikis
 
-*   [Instiki](https://golem.ph.utexas.edu/wiki/instiki/show/HomePage) - Instiki is a wiki clone so pretty and easy to set up, you'll wonder if it’s really a wiki. Runs on Rails and focuses on portability and stability. ([Source Code (⭐478)](https://github.com/parasew/instiki)) `Ruby` `Ruby`
+*   [Instiki](https://golem.ph.utexas.edu/wiki/instiki/show/HomePage) - Instiki is a wiki clone so pretty and easy to set up, you'll wonder if it’s really a wiki. Runs on Rails and focuses on portability and stability. ([Source Code (⭐480)](https://github.com/parasew/instiki)) `Ruby` `Ruby`
 
 ## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -99,7 +99,7 @@
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
 
 *   [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
 

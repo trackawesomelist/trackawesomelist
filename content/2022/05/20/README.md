@@ -2,17 +2,17 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Bridges / Wallets
+### Blockchain Bridges / Wallets
 
 *   [ptokens](https://dapp.ptokens.io/swap?asset=btc\&from=btc\&to=algorand) - pNetwork Officially Launched Cross-Chain Bridges for Algorand.
 
-### Community / Projects
+### Projects / Wallets
 
 *   [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.
 *   [daotools](https://daotools.org/) - Manage all your DAO voting sessions in one Dapp.
@@ -21,7 +21,7 @@
 
 ### Generic ZSH
 
-*   [zephyr (⭐21)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
+*   [zephyr (⭐22)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -39,11 +39,11 @@
 
 ## [4. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - By Richard Rumelt.
 *   [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
@@ -54,7 +54,7 @@
 ### Libraries / Network programming
 
 *   Socket.io
-    *   [1c3t3a/rust-socketio (⭐176)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
+    *   [1c3t3a/rust-socketio (⭐187)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 
 ## [6. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -87,7 +87,7 @@
 ### Components & Libraries / Utilities
 
 *   [webpack-plugin-qiniu-upload (⭐0)](https://github.com/cduyzh/webpack-plugin-qiniu-upload) - Vue3,webpack-plugin-qiniu-upload for qiniu(七牛)|aws(亚马逊) cloud upload. support @vue/cli-service 5.0.x
-*   [vue2-jsx-runtime (⭐8)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
+*   [vue2-jsx-runtime (⭐10)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@modyfi/vite-plugin-yaml (⭐14)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+*   [@modyfi/vite-plugin-yaml (⭐16)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
 
 ---
 

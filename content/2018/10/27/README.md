@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -131,9 +131,9 @@
 
 ### Command-Line Productivity
 
-*   [fselect (⭐3.3k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
-*   [loop (⭐604)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
-*   [xsv (⭐8.7k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
+*   [fselect (⭐3.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [loop (⭐614)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
+*   [xsv (⭐9.1k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 
 ### Downloading and Serving / Directory Navigation
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,13 +22,13 @@
 
 ### Tools / Misc
 
-*   [DVClive (⭐76)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
+*   [DVClive (⭐90)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Fluid Type (⭐158)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
+*   💼 [Fluid Type (⭐166)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 
 ## [5. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Platforms
 
-*   [Integration (⭐107)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐116)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -106,13 +106,13 @@
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vue3-flask (⭐19)](https://github.com/megasanjay/electron-vue3-flask) - An Electron & Vue.js application starter template that uses a python backend via Flask for desktop application building.
+*   [electron-vue3-flask (⭐22)](https://github.com/megasanjay/electron-vue3-flask) - An Electron & Vue.js application starter template that uses a python backend via Flask for desktop application building.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Component Collections / Material Design
 
-*   [refine (⭐5.7k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
+*   [refine (⭐6.7k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
 
 ---
 

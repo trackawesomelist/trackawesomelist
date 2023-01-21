@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Algorithms and data structures
 
-*   [ziglibs/s2s (⭐61)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
+*   [ziglibs/s2s (⭐65)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
 
 ### Network / HTTP
 
@@ -24,7 +24,7 @@
 
 ### Web / HTTP
 
-*   [batiati/mustache-zig (⭐53)](https://github.com/batiati/mustache-zig) - Mustache implementation.
+*   [batiati/mustache-zig (⭐56)](https://github.com/batiati/mustache-zig) - Mustache implementation.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -59,61 +59,61 @@
 
 ### Food-related projects
 
-*   [Mealie (⭐2.5k)](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
+*   [Mealie (⭐2.7k)](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Runtimes / Other / unknown licence
 
-*   [ada-runtime (⭐31)](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
+*   [ada-runtime (⭐32)](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 
 ### Games / Other / unknown licence
 
 *   [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga](https://sourceforge.net/projects/gnoga/).
-*   [buttons (⭐2)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐73)](https://github.com/AdaCore/gtkada) Button Mania game.
-*   [play-2048 (⭐2)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐19)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐24)](https://github.com/pmderodat/ada-toml) for saving state.
-*   [bingada (⭐4)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐73)](https://github.com/AdaCore/gtkada)
+*   [buttons (⭐2)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐76)](https://github.com/AdaCore/gtkada) Button Mania game.
+*   [play-2048 (⭐2)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐20)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐25)](https://github.com/pmderodat/ada-toml) for saving state.
+*   [bingada (⭐4)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐76)](https://github.com/AdaCore/gtkada)
 
 ### Components / Other / unknown licence
 
-*   [gneiss (⭐22)](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime (⭐31)](https://github.com/Componolit/ada-runtime)
+*   [gneiss (⭐22)](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime (⭐32)](https://github.com/Componolit/ada-runtime)
 
 ### Graphical User Interface / Other / unknown licence
 
 *   [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
-*   [gtkada (⭐73)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
+*   [gtkada (⭐76)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 
 ### Web / Other / unknown licence
 
 *   [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
-*   [template-parser (⭐4)](https://github.com/AdaCore/templates-parser) - AWS templates engine.
+*   [template-parser (⭐5)](https://github.com/AdaCore/templates-parser) - AWS templates engine.
 
 ### Compression / Other / unknown licence
 
-*   [zip-ada (⭐14)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
-*   [dcf-ada (⭐5)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐14)](https://github.com/zertovitch/zip-ada)).
+*   [zip-ada (⭐16)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
+*   [dcf-ada (⭐5)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐16)](https://github.com/zertovitch/zip-ada)).
 
 ### Format Readers and Writers / Other / unknown licence
 
-*   [protobuf-ada (⭐9)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
-*   [protobuf (⭐16)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka](http://forge.ada-ru.org/matreshka).
-*   [ada-toml (⭐24)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
+*   [protobuf-ada (⭐12)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
+*   [protobuf (⭐19)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka](http://forge.ada-ru.org/matreshka).
+*   [ada-toml (⭐25)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 ### Graphics and Multimedia / Other / unknown licence
 
-*   [asfml (⭐19)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
+*   [asfml (⭐20)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 
 ### Utilities / Other / unknown licence
 
-*   [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser (⭐4)](https://github.com/AdaCore/templates-parser) and intended for command line usage.
+*   [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser (⭐5)](https://github.com/AdaCore/templates-parser) and intended for command line usage.
 
 ### Office / Other / unknown licence
 
-*   [hunter (⭐21)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐73)](https://github.com/AdaCore/gtkada)) file manager for Linux.
+*   [hunter (⭐21)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐76)](https://github.com/AdaCore/gtkada)) file manager for Linux.
 
-### Multimedia / Other / unknown licence
+### Simulation / Other / unknown licence
 
-*   [eagle-lander (⭐26)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐73)](https://github.com/AdaCore/gtkada)/Cairo).
+*   [eagle-lander (⭐26)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐76)](https://github.com/AdaCore/gtkada)/Cairo).
 
 ### Generators and Translators / Other / unknown licence
 
@@ -121,7 +121,7 @@
 
 ### Bindings / Other / unknown licence
 
-*   [tp7-ada-gtkada (⭐3)](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada (⭐73)](https://github.com/AdaCore/gtkada).
+*   [tp7-ada-gtkada (⭐3)](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
 *   [tp7-ada-gnoga (⭐4)](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with [gnoga](https://sourceforge.net/projects/gnoga/).
 
 ## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
@@ -156,19 +156,19 @@
 *   [Atom](https://atom.io) [![Atom](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mehcode/awesome-atom) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Sublime Text](https://www.sublimetext.com) [![Sublime Text](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dreikanter/sublime-bookmarks)
-    *   [LaTeXing (⭐77)](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [LaTeXing (⭐79)](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [LaTeXTools (⭐2k)](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/emacs-tw/awesome-emacs) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Vim](https://www.vim.org) [![Vim](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mhinz/vim-galore) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-    *   [LaTeX Live Preview (⭐765)](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-    *   [vimtex (⭐4.2k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [LaTeX Live Preview (⭐770)](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [vimtex (⭐4.3k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [IntelliJ](https://www.jetbrains.com/idea/)
-    *   [TeXiFy-IDEA (⭐687)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [TeXiFy-IDEA (⭐715)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [VS Code](https://code.visualstudio.com/) [![VS Code](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/viatsko/awesome-vscode) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-    *   [LaTeX Workshop (⭐8.9k)](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [LaTeX Workshop (⭐9.1k)](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Bibliography tools
 
@@ -177,12 +177,12 @@
 
 ### Build Tools
 
-*   [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo (⭐346)](https://github.com/islandoftex/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo (⭐353)](https://github.com/islandoftex/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### GitHub Actions
 
-*   [xu-cheng/latex-action (⭐746)](https://github.com/xu-cheng/latex-action) - GitHub Action to compile LaTeX documents
-*   [dante-ev/latex-action (⭐143)](https://github.com/dante-ev/latex-action) - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
+*   [xu-cheng/latex-action (⭐796)](https://github.com/xu-cheng/latex-action) - GitHub Action to compile LaTeX documents
+*   [dante-ev/latex-action (⭐148)](https://github.com/dante-ev/latex-action) - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
 
 ### Misc. Tools
 

@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -35,7 +35,7 @@
 
 ### REST and API
 
-*   [Cors plugin (⭐43)](https://github.com/ozee31/cakephp-cors) - Activate CORS with Middleware.
+*   [Cors plugin (⭐44)](https://github.com/ozee31/cakephp-cors) - Activate CORS with Middleware.
 *   [Cors plugin (⭐19)](https://github.com/snelg/cakephp-cors) - A lightweight plugin for adding CORS headers to specified endpoints.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -72,7 +72,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [GodotOnReady (⭐94)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
+*   [GodotOnReady (⭐99)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [pytorch\_tabular (⭐782)](https://github.com/manujosephv/pytorch_tabular)
+*   [pytorch\_tabular (⭐800)](https://github.com/manujosephv/pytorch_tabular)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 

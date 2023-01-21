@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,13 +33,13 @@
 ### Open Sources Intelligence (OSINT) / Web application and resource analysis tools
 
 *   [BlindElephant](http://blindelephant.sourceforge.net/) - Web application fingerprinter.
-*   [EyeWitness (⭐3.8k)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
-*   [VHostScan (⭐984)](https://github.com/codingo/VHostScan) - Virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+*   [EyeWitness (⭐3.9k)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+*   [VHostScan (⭐1k)](https://github.com/codingo/VHostScan) - Virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [Wappalyzer](https://www.wappalyzer.com/) - Wappalyzer uncovers the technologies used on websites.
 *   [WhatWaf (⭐2.1k)](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
-*   [WhatWeb (⭐4.2k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
-*   [wafw00f (⭐3.7k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
-*   [webscreenshot (⭐595)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
+*   [WhatWeb (⭐4.3k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
+*   [wafw00f (⭐3.9k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
+*   [webscreenshot (⭐605)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
 
 ### Web Exploitation / Social Engineering Tools
 
@@ -54,33 +54,33 @@
 
 ### Web Exploitation / Web file inclusion tools
 
-*   [Kadimus (⭐484)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
-*   [LFISuite (⭐1.3k)](https://github.com/D35m0nd142/LFISuite) - Automatic LFI scanner and exploiter.
-*   [fimap (⭐369)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
-*   [liffy (⭐110)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
+*   [Kadimus (⭐487)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
+*   [LFISuite (⭐1.4k)](https://github.com/D35m0nd142/LFISuite) - Automatic LFI scanner and exploiter.
+*   [fimap (⭐386)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
+*   [liffy (⭐111)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
 
 ### Web Exploitation / Web injection tools
 
-*   [Commix (⭐3.5k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
-*   [NoSQLmap (⭐2.2k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
+*   [Commix (⭐3.6k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
+*   [NoSQLmap (⭐2.3k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
 *   [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
 
 ### Web Exploitation / Web path discovery and bruteforcing tools
 
-*   [dirsearch (⭐8.7k)](https://github.com/maurosoria/dirsearch) - Web path scanner.
+*   [dirsearch (⭐9k)](https://github.com/maurosoria/dirsearch) - Web path scanner.
 *   [recursebuster (⭐230)](https://github.com/c-sto/recursebuster) - Content discovery tool to perform directory and file bruteforcing.
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Browser Exploitation Framework (BeEF) (⭐7.8k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
+*   [Browser Exploitation Framework (BeEF) (⭐8k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
 *   [DAws (⭐567)](https://github.com/dotcppfile/DAws) - Advanced Web shell.
 
 ### Web Exploitation / Web-accessible source code ripping tools
 
 *   [DVCS Ripper (⭐1.5k)](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR.
 *   [GitTools (⭐3.2k)](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
-*   [git-dumper (⭐981)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
-*   [git-scanner (⭐271)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
+*   [git-dumper (⭐1k)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
+*   [git-scanner (⭐281)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
 
 ## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

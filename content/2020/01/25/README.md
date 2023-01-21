@@ -2,15 +2,15 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Python](/content/vinta/awesome-python/README.md)
+## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Science
+### Machine Learning / General Purpouse Machine Learning
 
-*   [Karate Club (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub) - Unsupervised machine learning toolbox for graph structured data.
+*   [Karate Club (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -32,17 +32,17 @@
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / User Interface toolkits
+### User Interface toolkits
 
 *   [vgtk3 (⭐50)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 

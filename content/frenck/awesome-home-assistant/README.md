@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome Home Assistant resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/frenck/awesome-home-assistant/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) · ⭐ 4.1K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/frenck/awesome-home-assistant/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) · ⭐ 4.1K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/frenck/awesome-home-assistant/week/README.md) / [Overview](/content/frenck/awesome-home-assistant/readme/README.md) ]
 

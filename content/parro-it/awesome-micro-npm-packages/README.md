@@ -2,7 +2,7 @@
 
 A curated list of small, focused npm packages.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/parro-it/awesome-micro-npm-packages/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) · ⭐ 4.4K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/parro-it/awesome-micro-npm-packages/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) · ⭐ 4.4K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/parro-it/awesome-micro-npm-packages/week/README.md) / [Overview](/content/parro-it/awesome-micro-npm-packages/readme/README.md) ]
 

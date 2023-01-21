@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,13 +25,13 @@
 
 ### Models/Projects
 
-*   [3D Convolutional Neural Networks in TensorFlow (⭐751)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
+*   [3D Convolutional Neural Networks in TensorFlow (⭐754)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Ruby / Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐973)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
+*   [Awesome NLP with Ruby (⭐977)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 
 ## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

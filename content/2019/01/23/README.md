@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Interoperability
 
-*   [PInvoke Interop Assistant (⭐343)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
+*   [PInvoke Interop Assistant (⭐348)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
 
 ### Search
 
@@ -114,11 +114,11 @@
 ### Contents / Business
 
 *   [Invoice Ninja (⭐1.3k)](https://github.com/invoiceninja/flutter-mobile) - Companion app for the Invoice Ninja by [Invoice Ninja](https://github.com/invoiceninja).
-*   [Flutter Jobs App (⭐219)](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche (⭐219)](https://github.com/Rahiche/flutter_jobs_app).
+*   [Flutter Jobs App (⭐222)](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche (⭐222)](https://github.com/Rahiche/flutter_jobs_app).
 
 ### Contents / Personalization
 
-*   [Furniture (⭐301)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
+*   [Furniture (⭐303)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
 
 ### Contents / Productivity
 
@@ -126,17 +126,17 @@
 
 ### Contents / Tools
 
-*   [Trovami (⭐229)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
+*   [Trovami (⭐234)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 
 ### Contents / Travel
 
-*   [Tourism (⭐273)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
+*   [Tourism (⭐276)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Download Management Tools / File Sharing
 
-*   [youtube-dl (⭐116k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [youtube-dl (⭐117k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -80,16 +80,16 @@
 ### Other plugins
 
 *   Firebase
-    *   [AppCheck (⭐5)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
-    *   [Dynamic Links (⭐10)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
+    *   [AppCheck (⭐6)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
+    *   [Dynamic Links (⭐11)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     *   [Push (⭐26)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 *   [Photo library (⭐1)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
 ### Tools
 
 *   [Docgen (⭐9)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [Plugin generator (⭐44)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [Assets (⭐337)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Plugin generator (⭐47)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [Assets (⭐357)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ### Learning / Offical guides
 
@@ -117,8 +117,8 @@
 ### Demo apps / Case study
 
 *   [capacitor-testapp (⭐24)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
-*   [capacitor-plugin-demo (⭐40)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
-*   [capacitor-firebase-plugin-demo (⭐7)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
+*   [capacitor-plugin-demo (⭐47)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+*   [capacitor-firebase-plugin-demo (⭐8)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Type / React
 
-*   [pothos (⭐1.4k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
+*   [pothos (⭐1.5k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 
 ## [9. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,15 +16,15 @@
 
 ### Applications / System tools
 
-*   [orhun/systeroid (⭐722)](https://github.com/orhun/systeroid) — A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
+*   [orhun/systeroid (⭐785)](https://github.com/orhun/systeroid) — A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐160)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
+*   [orhun/rustypaste (⭐172)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
 
 ### Development tools / Web Servers
 
-*   [git-cliff (⭐4.8k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
+*   [git-cliff (⭐5k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
 
 ## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -38,7 +38,7 @@
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / GPT-3
 
 *   [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/)
 
@@ -58,7 +58,7 @@
 
 ### Utility / Diagnostics
 
-*   [nkakouros-original/numbers.nvim (⭐17)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
+*   [nkakouros-original/numbers.nvim (⭐18)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

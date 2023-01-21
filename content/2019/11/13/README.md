@@ -2,16 +2,15 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Domains
+### Software / DNS - Domain Management
 
-*   [DnsControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure.
-*   [octoDNS (⭐2.5k)](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
+*   [octoDNS (⭐2.6k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -108,7 +107,7 @@
 
 ### Producers / JavaScript
 
-*   [zora (⭐474)](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
+*   [zora (⭐482)](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
 
 ## [10. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -151,7 +150,7 @@
 
 ### Third Party APIs
 
-*   [Jira plugin (⭐3)](https://github.com/fr3nch13/cakephp-jira) - Provides a helper to allow access to Jira's REST API using [lesstif/php-jira-rest-client (⭐476)](https://github.com/lesstif/php-jira-rest-client) as the Vendor. Currently read-only access.
+*   [Jira plugin (⭐3)](https://github.com/fr3nch13/cakephp-jira) - Provides a helper to allow access to Jira's REST API using [lesstif/php-jira-rest-client (⭐478)](https://github.com/lesstif/php-jira-rest-client) as the Vendor. Currently read-only access.
 
 ---
 

@@ -2,7 +2,7 @@
 
 1 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Configuration
 
-*   [conform (⭐380)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
+*   [conform (⭐379)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
 *   [ex\_conf (⭐34)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 
 ### CSV
@@ -25,18 +25,18 @@
 
 ### Hardware
 
-*   [elixir\_ale (⭐337)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
+*   [elixir\_ale (⭐338)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
 
 ### JSON
 
 *   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐690)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [joken (⭐697)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 *   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐20)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐768)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐772)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### OTP
 
@@ -55,7 +55,7 @@
 ### XML
 
 *   [quinn (⭐46)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐158)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [xml\_builder (⭐157)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ---
 

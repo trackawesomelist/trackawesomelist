@@ -2,7 +2,7 @@
 
 Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/typeddjango/awesome-python-typing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) · ⭐ 1.2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/typeddjango/awesome-python-typing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) · ⭐ 1.2K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/typeddjango/awesome-python-typing/week/README.md) / [Overview](/content/typeddjango/awesome-python-typing/readme/README.md) ]
 

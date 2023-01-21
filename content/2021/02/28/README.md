@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ByteHub (⭐49)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
+*   [ByteHub (⭐48)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
 
 ## [4. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-ts-nameof (⭐13)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐459)](https://github.com/dsherret/ts-nameof) in TypeScript.
+*   [vite-plugin-ts-nameof (⭐13)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐462)](https://github.com/dsherret/ts-nameof) in TypeScript.
 
 ## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -47,9 +47,9 @@
 
   Supported repositories: GitHub, GitLab, Gitee, Gogs
 
-  Documentation: [Documentation (⭐736)](https://github.com/flowci/docs)
+  Documentation: [Documentation (⭐735)](https://github.com/flowci/docs)
 
-  Price: [Open Source (⭐413)](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐412)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -59,11 +59,11 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Oblecto (⭐127)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
+*   [Oblecto (⭐134)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [changedetection.io (⭐6.9k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
+*   [changedetection.io (⭐7.5k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Yaml
 
-*   [mini-yaml (⭐155)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [mini-yaml (⭐159)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
 *   [yaml-cpp (⭐3.8k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,18 +10,18 @@
 
 ### Code Analysis and Linters
 
-*   [SLAyer (⭐321)](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
+*   [SLAyer (⭐322)](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 
 ### Compilers and Compiler Tools
 
 *   **Parser and Lexer Generators**:
-    *   [Opal (⭐123)](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
-    *   [Sedlex (⭐191)](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
+    *   [Opal (⭐127)](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
+    *   [Sedlex (⭐196)](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
     *   [Menhir](http://gallium.inria.fr/\~fpottier/menhir/) – Menhir is a LR(1) parser generator for OCaml.
-        *   See [ocaml-parsing (⭐108)](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
-        *   ... and [Obelisk (⭐40)](https://github.com/Lelio-Brun/Obelisk), a neat project to produce readable LaTeX, HTML, or plain-text EBNF-style documentation for your grammar.
+        *   See [ocaml-parsing (⭐110)](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
+        *   ... and [Obelisk (⭐41)](https://github.com/Lelio-Brun/Obelisk), a neat project to produce readable LaTeX, HTML, or plain-text EBNF-style documentation for your grammar.
     *   [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
-    *   [Angstrom (⭐528)](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
+    *   [Angstrom (⭐537)](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 
 ### Logging
 

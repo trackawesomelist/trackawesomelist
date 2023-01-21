@@ -1,12 +1,18 @@
 # Awesome List Updates on Nov 11, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [1. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Shell Script Development
+
+*   [Bashmatic (⭐86)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
+
+## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -14,23 +20,23 @@
 
 ### Android / Projects
 
-*   [AnkitSuda/Rebound (⭐103)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+*   [AnkitSuda/Rebound (⭐117)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
 
-## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Split and Window / Diagnostics
 
-*   [nvim-zh/colorful-winsep.nvim (⭐176)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+*   [nvim-zh/colorful-winsep.nvim (⭐193)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Performance
 
-*   [go-instrument (⭐60)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+*   [go-instrument (⭐66)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   \[NEWS][Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel](https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/)
 
@@ -38,7 +44,7 @@
 
 *   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
 
-## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### History / 2018
 
@@ -57,13 +63,13 @@
 *   [Why Web Components Aren't Ready for Production... Yet](https://www.telerik.com/blogs/web-components-arent-ready-production-yet)
 *   [Component Interop With React And Custom Elements](https://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [yarn-extra-completion (⭐38)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐413)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yarn-extra-completion (⭐39)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐416)](https://github.com/lukechilds/zsh-better-npm-completion).
 
-## [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### External Resources / Youtube channels
 
@@ -77,7 +83,7 @@
 
 *   [WIP Ruby (Telegram group)](https://t.me/wipruby)
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Debugging
 

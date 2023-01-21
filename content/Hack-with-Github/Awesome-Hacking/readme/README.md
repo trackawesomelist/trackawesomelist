@@ -2,7 +2,7 @@
 
 A collection of various awesome lists for hackers, pentesters and security researchers
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hack-with-Github/Awesome-Hacking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) · ⭐ 58K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hack-with-Github/Awesome-Hacking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) · ⭐ 58K · 🏷️ Miscellaneous
 
 [ [Daily](/content/Hack-with-Github/Awesome-Hacking/README.md) / [Weekly](/content/Hack-with-Github/Awesome-Hacking/week/README.md) / Overview ]
 

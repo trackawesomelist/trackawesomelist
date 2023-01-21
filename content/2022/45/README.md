@@ -2,7 +2,7 @@
 
 53 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### YouTube
 
-*   [Youtube-Local (⭐297)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
+*   [Youtube-Local (⭐308)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ## [2. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -27,11 +27,11 @@
 ### Pricing / Usage-based Pricing
 
 *   [Octane's Meter Types](https://docs.getoctane.io/docs/meter-types#gauges) - Nice illustrations of the quantization applied to time and value quantums on variable usages.
-*   [Lago (⭐907)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
+*   [Lago (⭐1.6k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
 
 ### Pricing / Subscription Plans
 
-*   [Lotus (⭐532)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
+*   [Lotus (⭐566)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
 
 ### Pricing / Strategy
 
@@ -43,7 +43,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐1.4k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+*   [TigerBeetle (⭐1.5k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 ### Invoice / Structure
 
@@ -105,27 +105,27 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Chirpy](https://chirpy.dev) - Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ([Demo](https://chirpy.dev/play), [Source Code (⭐422)](https://github.com/devrsi0n/chirpy)) `AGPL-3.0` `Docker/Nodejs`
+*   [Chirpy](https://chirpy.dev) - Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ([Demo](https://chirpy.dev/play), [Source Code (⭐436)](https://github.com/devrsi0n/chirpy)) `AGPL-3.0` `Docker/Nodejs`
 
 ### Software / Pastebins
 
-*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐991)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
+*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐1k)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
 *   [Sourcehut](https://sourcehut.org/) - A full web git interface with no javascript. ([Demo](https://sr.ht/), [Source Code](https://git.sr.ht/\~sircmpwn/git.sr.ht/tree)) `GPL-2.0` `Go`
 
-## [10. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
-
-### Shell Script Development
-
-*   [Bashmatic (⭐85)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
-
-## [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Sharded Cluster with Docker Compose (⭐217)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+*   [Sharded Cluster with Docker Compose (⭐241)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+
+## [11. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+
+### Shell Script Development
+
+*   [Bashmatic (⭐86)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
 
 ## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Android / Projects
 
-*   [AnkitSuda/Rebound (⭐103)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+*   [AnkitSuda/Rebound (⭐117)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
 
 ## [13. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
@@ -160,7 +160,7 @@
 
 ## [15. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Libraries / Text processing
+### Text processing
 
 *   [text-processing (⭐6)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 
@@ -178,7 +178,7 @@
 
 ### Projects
 
-*   [theiskaa.com (⭐3)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
+*   [theiskaa.com (⭐4)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
 
 ## [18. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -200,7 +200,7 @@
 
 ### DevOps / Newsletters
 
-*   [Standard (⭐149)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+*   [Standard (⭐173)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## [21. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -234,22 +234,22 @@
 
 ## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   \[🔥🔥🔥] [Prompt book for data lovers II ❤️ - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
 
-### DreamBooth
-
-*   [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb): train custom concepts from input images with this simplified DreamBooth colab
-*   [(1166) Como Criar Artes Incríveis com o seu Próprio Rosto Usando o Dreambooth! DE FORMA FÁCIL E DE GRAÇA! - YouTube](https://www.youtube.com/watch?v=3e4jwgqy-0A): tutorial in Portuguese on how to train DreamBooth with your own face
-
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   \[NEWS][Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel](https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/)
 *   [prompthero/midjourney-v4-diffusion · Hugging Face](https://huggingface.co/prompthero/midjourney-v4-diffusion): Stable Diffusion fine tuned on Midjourney v4 images, by [PromptHero](https://prompthero.com/)
 *   [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/): explained by Jay Alammar (Visualizing machine learning one concept at a time)
 
-### Discussions and Philosophy / References Collection about Stable Diffusion
+### Hypertechniques / DreamBooth
+
+*   [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb): train custom concepts from input images with this simplified DreamBooth colab
+*   [(1166) Como Criar Artes Incríveis com o seu Próprio Rosto Usando o Dreambooth! DE FORMA FÁCIL E DE GRAÇA! - YouTube](https://www.youtube.com/watch?v=3e4jwgqy-0A): tutorial in Portuguese on how to train DreamBooth with your own face
+
+### Discussions and Philosophy / Papers Collections
 
 *   \[🔥🔥🔥] [Generative AI: A Creative New World | Sequoia Capital US/Europe](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/): report by Sequoia Capital about the possible applications of Generative AI
 *   [Synthetic Creativity - by Cavin - Deep Markets](https://deepmarkets.substack.com/p/synthetic-creativity)
@@ -313,13 +313,13 @@
 
 ### Performance
 
-*   [go-instrument (⭐60)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+*   [go-instrument (⭐66)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 
 ## [31. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
-*   [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor (⭐2k)](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
+*   [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor (⭐2.1k)](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
 
 ## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -329,28 +329,27 @@
 
 ## [33. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
-### [GitHub Recommender (⭐27)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Recommender (⭐29)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
+Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
 
 ## [34. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### IDEs / Visual Studio
 
-*   [Algorand Visual Studio Extension (⭐8)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
+*   [Algorand Visual Studio Extension (⭐10)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
 
-## [35. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [35. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### PHP / Laravel
+### Graphics Programming
 
-*   [Learning Laravel](https://riptutorial.com/Download/laravel.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [JPEG - Idea and Practice](https://en.wikibooks.org/wiki/JPEG_-_Idea_and_Practice)
 
-### Python / Constraint Logic Programming (extended Prolog)
+### Security & Privacy
 
-*   [Learn Python 3 (⭐134)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
-*   [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
+*   [Programming Differential Privacy](https://programming-dp.com) - Joseph Near, Chiké Abuah (HTML, PDF)
 
 ## [36. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -376,7 +375,7 @@ Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
 
 ## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/\~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
 
@@ -431,11 +430,11 @@ Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
 
 ### Applications / Cryptocurrencies
 
-*   [cairo-rs (⭐256)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
+*   [cairo-rs (⭐268)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
 
 ### Applications / Web
 
-*   [libreddit (⭐3.8k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
+*   [libreddit (⭐4k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
 
 ## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -449,17 +448,17 @@ Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
 
 ### Network / Barcode
 
-*   [RxNetworks (⭐135)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+*   [RxNetworks (⭐146)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 
 ### Transition / Barcode
 
-*   [NavigationTransitions (⭐51)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
+*   [NavigationTransitions (⭐65)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 
 ## [45. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Native audio (⭐0)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+*   [Native audio (⭐3)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 *   [Native market (⭐3)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [Camera preview (⭐0)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 
@@ -467,7 +466,7 @@ Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
 
 ### Modules / Web framework
 
-*   [danet (⭐80)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+*   [danet (⭐107)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 
 ## [47. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -481,49 +480,49 @@ Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
 
 ### Audio
 
-*   [MoeGoe (⭐734)](https://github.com/CjangCjengh/MoeGoe) - Anime character voice synthesizer. \[English/中文]
+*   [MoeGoe (⭐1.1k)](https://github.com/CjangCjengh/MoeGoe) - Anime character voice synthesizer. \[English/中文]
 
 ## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [ranjithshegde/ccls.nvim (⭐35)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
+*   [ranjithshegde/ccls.nvim (⭐36)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 
 ### Programming Languages Support / Diagnostics
 
-*   [Julian/lean.nvim (⭐104)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
+*   [Julian/lean.nvim (⭐108)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 
 ### Golang / Diagnostics
 
-*   [ray-x/go.nvim (⭐796)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
+*   [ray-x/go.nvim (⭐849)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [NFrid/markdown-togglecheck (⭐2)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
+*   [NFrid/markdown-togglecheck (⭐4)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [bluz71/vim-nightfly-colors (⭐528)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
+*   [bluz71/vim-nightfly-colors (⭐544)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 
 ### Winbar / Diagnostics
 
-*   [utilyre/barbecue.nvim (⭐81)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
+*   [utilyre/barbecue.nvim (⭐111)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 
 ### Code Runner / Diagnostics
 
-*   [hkupty/iron.nvim (⭐540)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
+*   [hkupty/iron.nvim (⭐589)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [NFrid/treesitter-utils (⭐1)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
+*   [NFrid/treesitter-utils (⭐4)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/treesj (⭐210)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
+*   [Wansmer/treesj (⭐253)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
 
 ### Split and Window / Diagnostics
 
-*   [nvim-zh/colorful-winsep.nvim (⭐176)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+*   [nvim-zh/colorful-winsep.nvim (⭐193)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
 ## [50. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -535,14 +534,14 @@ Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [yarn-extra-completion (⭐38)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐413)](https://github.com/lukechilds/zsh-better-npm-completion).
-*   [yt-dlp (⭐1)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐36k)](https://github.com/yt-dlp/yt-dlp).
+*   [yarn-extra-completion (⭐39)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐416)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yt-dlp (⭐1)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐38k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [air (⭐0)](https://github.com/Ivan-Kuzmichev/air) - Minimalist theme with `git` status decorations.
-*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐8.8k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐8.8k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
-*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐139)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
+*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐9.3k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐9.3k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐147)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 *   [shrug (⭐4)](https://github.com/to-var/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status and current directory decorations.
 *   [ys (⭐0)](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 
@@ -550,25 +549,25 @@ Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [GalvinGao/gofiber-template (⭐3)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
+*   [GalvinGao/gofiber-template (⭐14)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
 
 ## [52. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [OpenMetricLearning (⭐316)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
-*   [SKBEL (⭐14)](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
+*   [OpenMetricLearning (⭐406)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
+*   [SKBEL (⭐16)](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
 
 ### Tools / Misc
 
-*   [DockerDL (⭐13)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
+*   [DockerDL (⭐15)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 
 ## [53. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [sato (⭐33)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
-*   [terraform-diff (⭐46)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
+*   [sato (⭐36)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
+*   [terraform-diff (⭐52)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
 
 ---
 

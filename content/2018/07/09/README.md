@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐29)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐76)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐31)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐78)](https://github.com/thejpster/pc-keyboard).
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

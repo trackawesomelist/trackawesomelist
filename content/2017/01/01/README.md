@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,7 +53,7 @@
 
 ### Database Drivers
 
-*   [peewee-async (⭐666)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.6k)](https://github.com/coleifer/peewee) and aiopg.
+*   [peewee-async (⭐667)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.7k)](https://github.com/coleifer/peewee) and aiopg.
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

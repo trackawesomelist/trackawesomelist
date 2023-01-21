@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,14 +22,14 @@
 ### Julia / Natural Language Processing
 
 *   [Word Tokenizers (⭐85)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
-*   [Corpus Loaders (⭐31)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
-*   [Embeddings (⭐66)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
+*   [Corpus Loaders (⭐30)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
+*   [Embeddings (⭐67)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
 *   [Languages (⭐47)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
 *   [WordNet (⭐31)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐125)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐130)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Libraries / Machine Learning
 
-*   [chainer-chemistry (⭐547)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
+*   [chainer-chemistry (⭐552)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

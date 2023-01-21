@@ -1,24 +1,18 @@
 # Awesome List Updates on Mar 31, 2022
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Flutter / Phoenix
-
-*   [Flutter in Action](https://livebook.manning.com/book/flutter-in-action/) - Eric Windmill (HTML) *(email address requested, not required)*
-
-## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Apps/Websites / Community
 
 *   [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
 
-## [3. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [2. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -37,12 +31,12 @@
 
 ### :books: Literature / Scientific Research
 
-*   :notebook: [ByteWise: A case study in neural network obfuscation identification](https://ieeexplore.ieee.org/document/8301720/) (January 2018)  :star:
+*   :notebook: [ByteWise: A case study in neural network obfuscation identification](https://ieeexplore.ieee.org/document/8301720/) (January 2018)
 *   :newspaper: [A consistently-executing graph-based approach for malware packer identification](https://ieeexplore.ieee.org/document/8695825) (April 2019)  :star:
-*   :notebook: [A control flow graph-based signature for packer identification](https://ieeexplore.ieee.org/document/8170793) (October 2017)  :star:
-*   :notebook: [Packer identification based on metadata signature](https://dl.acm.org/doi/10.1145/3151137.3160687) (December 2017)  :star:
+*   :notebook: [A control flow graph-based signature for packer identification](https://ieeexplore.ieee.org/document/8170793) (October 2017)
+*   :notebook: [Packer identification based on metadata signature](https://dl.acm.org/doi/10.1145/3151137.3160687) (December 2017)
 *   :newspaper: [Packer identification using byte plot and Markov plot](https://link.springer.com/article/10.1007/s11416-015-0249-8) (September 2015)  :star:
-*   :notebook: [Packer identification using hidden Markov model](https://link.springer.com/chapter/10.1007/978-3-319-69456-6_8) (November 2017)  :star:
+*   :notebook: [Packer identification using hidden Markov model](https://link.springer.com/chapter/10.1007/978-3-319-69456-6_8) (November 2017)
 *   :newspaper: [Sensitive system calls based packed malware variants detection using principal component initialized multilayers neural networks](https://cybersecurity.springeropen.com/articles/10.1186/s42400-018-0010-y) (September 2018)  :star:
 
 ### :bookmark_tabs: Datasets / Scientific Research
@@ -86,136 +80,130 @@
 *   [Defacto2 Unpackers Archive](https://defacto2.net/f/a218ab4) - Collection of 152 binary files unpackers for MS-DOS and Windows 32 from the 1990s and 2000s.
 *   [ExeScan](https://defacto2.net/f/ae2c42e) - Executable file analyzer which detects the most famous  EXE/COM Protectors, Packers, Converters and compilers.
 *   [GetTyp](https://www.helger.com/gt/gt.htm) - File format detection program for DOS based on special strings and byte code.
-*   [LIEF (⭐3.3k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
+*   [LIEF (⭐3.4k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
 *   [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
-*   [PETools (⭐733)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+*   [PETools (⭐756)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 *   [RDG Packer Detector](http://www.rdgsoft.net) - Packer detection tool.
-*   [Reko (⭐1.4k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
-*   [RetDec (⭐6.8k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
+*   [Reko (⭐1.6k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
+*   [RetDec (⭐6.9k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
 *   [SAFE](https://github.com/packing-box/awesome-executable-packing/blob/main/README.md/mailto:mihai@cs.wisc.edu) - Static Analyzer For Executables (available on demand).
 *   [Tuts 4 You](https://tuts4you.com) - Non-commercial, independent community dedicated to the sharing of knowledge and information on reverse code engineering.
 *   [UnpacMe](https://www.unpac.me) - Automated malware unpacking service.
 
-## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Tools / Testing
+### Other Development Tools / Testing
 
 *   [graviton (⭐18)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
 *   [tealer (⭐44)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 
-## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Infrastructure as Code
 
 *   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
 
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐547)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
+*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐586)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### API / Samples
 
-*   [Datasette (⭐6.7k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐6.8k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 
 ### Application platforms / Samples
 
 *   [Budibase (⭐17k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
-*   [Saltcorn (⭐984)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+*   [Saltcorn (⭐1k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
 ### Backup / Samples
 
-*   [pgcopydb (⭐605)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
+*   [pgcopydb (⭐611)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
 
 ### Cloning / Samples
 
 *   [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
-*   [clone\_schema (⭐106)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
+*   [clone\_schema (⭐107)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
 *   [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 ### SQL / Über SQL
 
 *   [CloudQuery (⭐2.7k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 *   [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
-*   [Steampipe (⭐4.2k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
+*   [Steampipe (⭐4.5k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Fishing Funds](https://ff.1zilc.top) - Display real-time trends of Chinese funds in the menubar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/1zilc/fishing-funds) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Security
 
-*   [Coraza (⭐809)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+*   [Coraza (⭐851)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [ko (⭐5.4k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
+*   [ko (⭐5.5k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
-## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authorization / Open-source policy frameworks
 
 *   [Open Policy Administration Layer (⭐816)](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Translation Management
 
 *   [Tolgee](https://tolgee.io) - Free SaaS offering with limited translations, forever-free self hosted version
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-img-lazy-tiny (⭐4)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 
-## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Frontend framework
 
-*   [ultra (⭐2.8k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
+*   [ultra (⭐2.9k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
 ### Modules / Utils
 
 *   [tryify (⭐4)](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
-*   [wasm-gzip (⭐15)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
+*   [wasm-gzip (⭐16)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
 
 ### Modules / Validation
 
-*   [zod (⭐14k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+*   [zod (⭐17k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Modules / Video
 
-*   [Fast Forward (⭐28)](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
+*   [Fast Forward (⭐31)](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
 
 ### Tools / XML
 
-*   [dnt (⭐525)](https://github.com/denoland/dnt) - Deno to npm package build tool.
+*   [dnt (⭐571)](https://github.com/denoland/dnt) - Deno to npm package build tool.
 
 ### Resources in Other Languages / Chinese
 
 *   [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
-## [14. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [13. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Puzzle
 
 *   [2048 (⭐11k)](https://github.com/gabrielecirulli/2048) - Clone of 1024, based on Saming's 2048.
 *   [A Dark Room (⭐42)](https://github.com/hughsk/ludum-dare-27) - Dodge and shoot the red targets, grabbing the bombs as you go. Survive as long as possible and try to get a high score.
-
-## [15. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-### QubesOS Websites
-
-*   [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
 
 ---
 

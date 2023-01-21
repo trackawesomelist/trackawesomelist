@@ -2,7 +2,7 @@
 
 Selected ChatGPT demos, tools, articles, and more ✨
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/saharmor/awesome-chatgpt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) · ⭐ 210 · 🏷️ ChatGPT
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/saharmor/awesome-chatgpt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) · ⭐ 210 · 🏷️ ChatGPT
 
 [ Daily / [Weekly](/content/saharmor/awesome-chatgpt/week/README.md) / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 

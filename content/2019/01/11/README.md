@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Misc
 
-*   [Model2App (⭐131)](https://github.com/Q-Mobile/Model2App) - Turn your data model into a working CRUD app.
+*   [Model2App (⭐133)](https://github.com/Q-Mobile/Model2App) - Turn your data model into a working CRUD app.
 
 ### Animation
 
-*   [Comets (⭐591)](https://github.com/cruisediary/Comets) - Animating Particles.
+*   [Comets (⭐593)](https://github.com/cruisediary/Comets) - Animating Particles.
 
 ### Audio
 
@@ -31,11 +31,11 @@
 
 ### Dependency Injection
 
-*   [Pure (⭐361)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐363)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
-*   [PMKVObserver (⭐708)](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
+*   [PMKVObserver (⭐707)](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
 *   [RxSwift (⭐23k)](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx).
 
 ### Images / Barcode
@@ -79,7 +79,7 @@
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐376)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐378)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 

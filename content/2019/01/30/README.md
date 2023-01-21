@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,11 +20,11 @@
 
 ### Generation / Other / unknown licence
 
-*   [automate (⭐2)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
+*   [automate (⭐3)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 
 ### Generators and Translators / Other / unknown licence
 
-*   [j2ada (⭐2)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
+*   [j2ada (⭐3)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -34,7 +34,7 @@
 *   [emel (⭐92)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
 *   [hypex (⭐19)](https://github.com/whitfin/hypex) - Fast Elixir implementation of HyperLogLog.
 *   [mason (⭐10)](https://github.com/spacepilots/mason) - Coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.
-*   [sleeplocks (⭐51)](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
+*   [sleeplocks (⭐52)](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
 
 ### Audio and Sounds
 
@@ -42,18 +42,18 @@
 
 ### BSON
 
-*   [cyanide (⭐7)](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
+*   [cyanide (⭐8)](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
 
 ### Caching
 
 *   [cachex (⭐1.3k)](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with a wide featureset.
 *   [gen\_spoxy (⭐21)](https://github.com/SpotIM/gen_spoxy) - Caching made fun.
-*   [memoize (⭐154)](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
+*   [memoize (⭐155)](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
 *   [stash (⭐51)](https://github.com/whitfin/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ### Cloud Infrastructure and Management
 
-*   [Bonny (⭐274)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
+*   [Bonny (⭐275)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
 
 ### Command Line Applications
 
@@ -79,7 +79,7 @@
 
 ### Framework Components
 
-*   [torch (⭐882)](https://github.com/infinitered/torch) - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
+*   [torch (⭐884)](https://github.com/infinitered/torch) - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
 
 ### GUI
 
@@ -91,7 +91,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [telemetry (⭐782)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
+*   [telemetry (⭐786)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
 
 ### JSON
 
@@ -100,7 +100,7 @@
 
 ### Macros
 
-*   [opus (⭐344)](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
+*   [opus (⭐343)](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
 
 ### Miscellaneous
 
@@ -111,7 +111,7 @@
 ### Networking
 
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
-*   [sshkit (⭐118)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
+*   [sshkit (⭐119)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 
 ### ORM and Datamapping
 
@@ -122,11 +122,11 @@
 ### Queue
 
 *   [ecto\_job (⭐265)](https://github.com/mbuhot/ecto_job) - A transactional job queue built with Ecto, PostgreSQL and GenStage.
-*   [Rihanna (⭐426)](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
+*   [Rihanna (⭐427)](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
 
 ### Security
 
-*   [sobelow (⭐1.3k)](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
+*   [sobelow (⭐1.4k)](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
 
 ### Templating
 
@@ -134,7 +134,7 @@
 
 ### Testing
 
-*   [mecks\_unit (⭐53)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐777)](https://github.com/eproxus/meck).
+*   [mecks\_unit (⭐53)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐778)](https://github.com/eproxus/meck).
 
 ### Text and Numbers
 
@@ -143,7 +143,7 @@
 ### Third Party APIs
 
 *   [correios\_cep (⭐38)](https://github.com/prodis/correios-cep-elixir) - Find Brazilian addresses by zip code, directly from Correios database. No HTML parsers.
-*   [pay\_pal (⭐34)](https://github.com/zensavona/paypal) - Elixir library for working with the PayPal REST API.
+*   [pay\_pal (⭐33)](https://github.com/zensavona/paypal) - Elixir library for working with the PayPal REST API.
 *   [rs\_twitter (⭐3)](https://github.com/radzserg/rstwitter) - Low Level Twitter Client for Elixir.
 
 ### Utilities
@@ -166,7 +166,7 @@
 
 ### Other Awesome Lists
 
-*   [Awesome Elixir and CQRS (⭐631)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
+*   [Awesome Elixir and CQRS (⭐633)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
 *   [Curated Elixir Resources](https://hackr.io/tutorials/learn-elixir) - A collection of top recommended Elixir resources.
 
 ### Reading
@@ -187,16 +187,16 @@
 
 ### Tools
 
-*   [cl-ctrie (⭐109)](https://github.com/danlentz/cl-ctrie) -
+*   [cl-ctrie (⭐108)](https://github.com/danlentz/cl-ctrie) -
     lock-free, concurrent, key/value index with efficient memory-mapped persistence and fast transient storage models. [MIT](https://opensource.org/licenses/MIT).
 
 ### Javascript / Isomorphic web frameworks
 
-*   [trident-mode (⭐65)](https://github.com/johnmastro/trident-mode.el), an Emacs minor mode for live Parenscript interaction.
+*   [trident-mode (⭐67)](https://github.com/johnmastro/trident-mode.el), an Emacs minor mode for live Parenscript interaction.
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [prometheus.cl (⭐75)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
+*   [prometheus.cl (⭐76)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -208,7 +208,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [ThunderGBM (⭐647)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
+*   [ThunderGBM (⭐648)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
 
 ## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

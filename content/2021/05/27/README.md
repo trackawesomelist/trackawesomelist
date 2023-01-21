@@ -2,7 +2,7 @@
 
 21 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Related
 
-*   [Awesome: Privacy (⭐7.1k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
+*   [Awesome: Privacy (⭐7.6k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [yor (⭐590)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
+*   [yor (⭐607)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -217,7 +217,7 @@
 
 ### Display / LED Segment
 
-*   [TM74HC595 (⭐3)](https://github.com/Sakartu/TM74HC595) - Driver for shift register controlled 5 pin display modules.
+*   [TM74HC595 (⭐3)](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
 
 ### IO / DAC
 
@@ -227,7 +227,7 @@
 
 ### Continuous Integration / Other / unknown licence
 
-*   [ada-actions (⭐18)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions
+*   [ada-actions (⭐17)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions
 
 ## [16. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -270,11 +270,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐211)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐218)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐412)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐430)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ---
 

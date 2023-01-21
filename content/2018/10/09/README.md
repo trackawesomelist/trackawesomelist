@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 09, 2018
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ## [2. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017) _by   [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))  \_ [3.9] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017)   *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))*   \[3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/39751936-out-of-spite-out-of-mind) \[3.79]
 
@@ -92,7 +92,7 @@
 
 ### Cryptography / Barcode
 
-*   [JOSESwift (⭐161)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
+*   [JOSESwift (⭐162)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
 
 ### Menu / Barcode
 
@@ -104,40 +104,33 @@
 
 *   [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
 
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Swift / Vapor
-
-*   [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners) - Tibor Bödecs
-*   [Vapor Official Docs](https://docs.vapor.codes)
-
-## [14. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
-*   [Typeahead (⭐643)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
+*   [Typeahead (⭐657)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Compilers, Transpilers and Languages
 
 *   [Iron python (⭐1k)](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [bat (⭐39k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [silver searcher (ag) (⭐24k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggreer/the_silver_searcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [17. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [16. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### tools / Other
 
 *   [empire (⭐6.7k)](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 *   [silenttrinity (⭐1.9k)](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
 
-## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 

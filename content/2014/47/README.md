@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 24 - Nov 30, 2014
 
-13 awesome lists updated this week.
+12 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -78,35 +78,29 @@
 *   [Texas Instruments - SensorTag DeveloperKit](http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/)
 *   [TI SensorTag Android Sources](http://git.ti.com/sensortag-android)
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### UI / Barcode
-
-*   [Geometry (⭐92)](https://github.com/artman/Geometry) - extensions for UIView.
-
-## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Documentation
 
 *   [Apipie (⭐2.4k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 
-## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Metaprogramming
 
 *   **Syntax Extensions**:
-    *   [ppx\_import (⭐82)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+    *   [ppx\_import (⭐83)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
     *   [ppx\_string\_interpolate (⭐21)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
     *   [ppx\_monad (⭐7)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
-    *   [ppx\_deriving\_yojson (⭐133)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+    *   [ppx\_deriving\_yojson (⭐134)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [Banana (⭐667)](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
@@ -116,7 +110,7 @@
 
 *   [mithril.js (⭐14k)](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -132,7 +126,7 @@
 *   [QtVerbalExpressions (⭐57)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
 *   [Serial Communication Library (⭐1.7k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT]
 *   [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. \[PublicDomain]
-*   [ZXing (⭐30k)](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
+*   [ZXing (⭐31k)](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
 
 ### Online Compiler
 
@@ -143,7 +137,7 @@
 
 *   [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -179,7 +173,7 @@
 
 ### Logging
 
-*   [syslog (⭐86)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+*   [syslog (⭐85)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
 ### Macros
 
@@ -216,10 +210,10 @@
 ### Testing
 
 *   [blitzy (⭐82)](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
-*   [katt (⭐115)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
+*   [katt (⭐116)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 *   [kovacs (⭐5)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 *   [ponos (⭐154)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
-*   [shouldi (⭐136)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
+*   [shouldi (⭐135)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
 ### Text and Numbers
 
@@ -237,14 +231,14 @@
 
 ### Editors
 
-*   [Alchemist (⭐899)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
+*   [Alchemist (⭐900)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 
 ### Screencasts
 
 *   [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 
-## [13. Typography](/content/deanhume/typography/week/README.md)
+## [12. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 

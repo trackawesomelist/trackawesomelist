@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 05, 2021
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
 
 *   [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
 
@@ -27,15 +27,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-ui (⭐403)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
+*   [vue-datepicker-ui (⭐406)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Embedded Systems / Phoenix
-
-*   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
-
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Converters
 
@@ -45,13 +39,13 @@
 
 *   [crystal-bacnet (⭐0)](https://github.com/spider-gazelle/crystal-bacnet) - BACnet protocol implementation with BACnet/IP client
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [jakewvincent/texmagic.nvim (⭐27)](https://github.com/jakewvincent/texmagic.nvim) - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
+*   [jakewvincent/texmagic.nvim (⭐32)](https://github.com/jakewvincent/texmagic.nvim) - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -61,7 +55,7 @@
 
 *   [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance
 

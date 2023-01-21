@@ -2,7 +2,7 @@
 
 52 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,7 +11,7 @@
 ### Developer Tools
 
 *   **Code coverage**:
-    *   [Bisect\_ppx (⭐255)](https://github.com/aantron/bisect_ppx)
+    *   [Bisect\_ppx (⭐263)](https://github.com/aantron/bisect_ppx)
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐48k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐49k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Libraries / Python
 
-*   [Mongo-Thingy (⭐59)](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
+*   [Mongo-Thingy (⭐63)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 
 ### Tools / Monitoring
 
@@ -254,9 +254,9 @@
 
 ### CLOS extensions
 
-*   [inlined-generic-function (⭐107)](https://github.com/guicho271828/inlined-generic-function) -
+*   [inlined-generic-function (⭐108)](https://github.com/guicho271828/inlined-generic-function) -
     Bringing the speed of Static Dispatch to CLOS. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [static-dispatch (⭐65)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
+*   [static-dispatch (⭐68)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
 
 ### Reference
 
@@ -268,7 +268,7 @@
 
 ### Configuration / Third-party APIs
 
-*   [chameleon (⭐13)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
+*   [chameleon (⭐16)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Logging / Third-party APIs
 
@@ -379,7 +379,7 @@
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-tilt (⭐588)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐620)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## [31. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -394,23 +394,23 @@
 
 ### UI
 
-*   [Before After (⭐721)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+*   [Before After (⭐738)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 
 ### UI / Drawers
 
-*   [Flutter Inner Drawer (⭐435)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
+*   [Flutter Inner Drawer (⭐444)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### UI / UI Helpers
 
-*   [Infinite Listview (⭐247)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
+*   [Infinite Listview (⭐255)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 
 ### UI / Cupertino Design
 
-*   [Peek & Pop (⭐222)](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+*   [Peek & Pop (⭐227)](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
 
 ### Text & Rich Content / Image Picker
 
-*   [Parsed Text (⭐211)](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
+*   [Parsed Text (⭐212)](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 
 ### 🇧🇷 Brazil / Misc
 
@@ -428,7 +428,7 @@
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐633)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐648)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -444,11 +444,11 @@
 
 ### Software / Polls and Events
 
-*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐297)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
+*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐300)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
 
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐32)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐35)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
 ## [34. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
@@ -537,7 +537,7 @@
 
 ### Command Line
 
-*   [nef (⭐257)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
+*   [nef (⭐256)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 
 ### JSON
 
@@ -549,7 +549,7 @@
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐284)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐288)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
 ## [39. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -586,7 +586,7 @@
 
 ### Platforms / Other external resources
 
-*   [Nanobox (⭐1.6k)](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth\_africa:](https://nanobox.io).
+*   [Nanobox (⭐1.6k)](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere
 
 ## [45. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 

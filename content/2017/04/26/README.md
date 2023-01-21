@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -88,7 +88,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotdrop (⭐1.4k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+*   [dotdrop (⭐1.5k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 
 ## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

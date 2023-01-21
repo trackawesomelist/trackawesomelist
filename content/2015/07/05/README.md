@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -80,10 +80,10 @@
 
 ### Graphics
 
-*   [GLFW (⭐9.9k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
+*   [GLFW (⭐10k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
 *   [OpenSubdiv (⭐2.7k)](https://github.com/PixarAnimationStudios/OpenSubdiv) - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. \[Modified Apache2]
 *   [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. \[MPL2]
-*   [Partio (⭐410)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
+*   [Partio (⭐411)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
 
 ### Image Processing
 

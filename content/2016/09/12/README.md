@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -67,7 +67,7 @@
 
 ### Graphics
 
-*   [OpenTK (⭐2.6k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐2.7k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ## [10. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -79,7 +79,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [histstat (⭐88)](https://github.com/vesche/histstat) - History for netstat
+*   [histstat (⭐90)](https://github.com/vesche/histstat) - History for netstat
 
 ---
 

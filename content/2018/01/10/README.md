@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Cloud Orchestration
+### Software / Cloud Orchestration
 
 *   [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python.
 *   [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
@@ -39,7 +39,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ip (⭐24)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
+*   [vue-ip (⭐23)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -49,11 +49,11 @@
 
 ### Objective-C
 
-*   [objc-lisp-bridge (⭐37)](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT](https://opensource.org/licenses/MIT).
+*   [objc-lisp-bridge (⭐39)](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 
-*   [cl-webkit (⭐47)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-webkit (⭐49)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -61,19 +61,13 @@
 
 *   [dagre-d3 (⭐2.7k)](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side
 *   [dc.js (⭐7.4k)](https://github.com/dc-js/dc.js) - For heavy amounts of data
-*   [radar-chart-d3 (⭐420)](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
-
-### Charts / Third Party
-
-*   [d3-simpleCharts (⭐4)](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin
 
 ### Maps / Third Party
 
-*   [d3-carto-map (⭐271)](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality
 *   [d3-exploder (⭐94)](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features
-*   [d3-geo-projection (⭐983)](https://github.com/d3/d3-geo-projection) - Extended geographic projections
+*   [d3-geo-projection (⭐999)](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 *   [d3-geomap (⭐124)](https://github.com/yaph/d3-geomap) - Library for creating geographic maps
-*   [simple-map-d3 (⭐113)](https://github.com/MinnPost/simple-map-d3) - Easy choropleth style maps
+*   [simple-map-d3 (⭐114)](https://github.com/MinnPost/simple-map-d3) - Easy choropleth style maps
 
 ### Utils / Third Party
 
@@ -95,7 +89,7 @@
 
 ### HTTP
 
-*   [gun (⭐818)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐821)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of Rust code and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ⭐ 31K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ⭐ 31K · 🏷️ Programming Languages
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / Overview ]
 

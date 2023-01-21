@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Protocols
 
-*   [DNS (⭐361)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
+*   [DNS (⭐364)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
 ## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
-*   [Tensorflow FastText (⭐305)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
+*   [Tensorflow FastText (⭐306)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

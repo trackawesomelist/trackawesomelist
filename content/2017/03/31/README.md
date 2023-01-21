@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,9 +19,9 @@
 
 ### Contents / Libraries
 
-*   [fhir.js (⭐360)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+*   [fhir.js (⭐362)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
 *   [Node HL7 (⭐48)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Ruby FHIR (⭐137)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+*   [Ruby FHIR (⭐140)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
 *   [Ruby HL7 (⭐96)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications

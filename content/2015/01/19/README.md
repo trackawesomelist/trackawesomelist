@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -107,7 +107,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cfonts (⭐1.2k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
+*   [cfonts (⭐1.3k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 
 ## [3. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

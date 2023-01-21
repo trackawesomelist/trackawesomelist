@@ -1,8 +1,8 @@
 # Awesome List Updates on Apr 08, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Models/Projects
 
-*   [Generative Handwriting Demo using TensorFlow (⭐684)](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
+*   [Generative Handwriting Demo using TensorFlow (⭐686)](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 
 ### Videos
 
@@ -77,13 +77,7 @@
 
 *   [MarionetteJS + Brunch + Babel/ES6 (⭐14)](https://github.com/denar90/brunch-with-marionettejs)
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### PHP / PicoLisp
-
-*   [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
-
-## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Authentication & Authorization
 

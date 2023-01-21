@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,7 +53,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Smashing](https://smashing.github.io/) - Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs. ([Source Code (⭐2.9k)](https://github.com/Smashing/smashing)) `MIT` `Ruby`
+*   [Smashing](https://smashing.github.io/) - Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs. ([Source Code (⭐3k)](https://github.com/Smashing/smashing)) `MIT` `Ruby`
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -84,13 +84,13 @@
 
 ### Tools & Software / Utilities
 
-*   [httrack2warc (⭐21)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
+*   [httrack2warc (⭐22)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
-*   [Help you learn more efficiently vue3 source code - mini-vue (⭐8.4k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+*   [Help you learn more efficiently vue3 source code - mini-vue (⭐8.5k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 
 ## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

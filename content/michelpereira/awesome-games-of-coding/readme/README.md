@@ -2,7 +2,7 @@
 
 A curated list of games that can teach you how to learn a programming language.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/michelpereira/awesome-games-of-coding/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) · ⭐ 1.5K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/michelpereira/awesome-games-of-coding/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) · ⭐ 1.5K · 🏷️ Gaming
 
 [ [Daily](/content/michelpereira/awesome-games-of-coding/README.md) / [Weekly](/content/michelpereira/awesome-games-of-coding/week/README.md) / Overview ]
 

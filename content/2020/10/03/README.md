@@ -2,7 +2,7 @@
 
 29 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
-*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐3.6k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
+*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐3.7k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐378)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐377)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### .NET / General-Purpose Machine Learning
 
@@ -29,11 +29,11 @@
 
 ### Python / Natural Language Processing
 
-*   [DeepPavlov (⭐5.9k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
+*   [DeepPavlov (⭐6k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [pastalog (⭐415)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+*   [pastalog (⭐416)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 
 ### Tools / Misc
 
@@ -63,8 +63,8 @@
 
 ### Emulator/interpreter development / Testing
 
-*   [Delay timer test (⭐210)](https://github.com/mattmikolay/chip-8/tree/master/delaytimer) - Test program that checks the delay timer's behavior.
-*   [Random number test (⭐210)](https://github.com/mattmikolay/chip-8/tree/master/randomnumber) - Test program that checks the spread and mask for random number generation.
+*   [Delay timer test (⭐214)](https://github.com/mattmikolay/chip-8/tree/master/delaytimer) - Test program that checks the delay timer's behavior.
+*   [Random number test (⭐214)](https://github.com/mattmikolay/chip-8/tree/master/randomnumber) - Test program that checks the spread and mask for random number generation.
 
 ### Software development / Guides and snippets
 
@@ -183,13 +183,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Boilerplates
 
-*   [Nextatic (⭐42)](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
+*   [Nextatic (⭐44)](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
 
 ## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
-*   [nCine (⭐774)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐779)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -207,7 +207,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Resources / Examples
 
-*   [vue-stack-cesium (⭐13)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
+*   [vue-stack-cesium (⭐14)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 
 ## [21. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 
@@ -326,7 +326,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/assertk (⭐520)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
+*   [willowtreeapps/assertk (⭐521)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
 
 ### Libraries/Frameworks / Dependency Injection
 
@@ -335,8 +335,8 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Coroutines
 
-*   [konrad-kaminski/spring-kotlin-coroutine (⭐407)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
-*   [marcoferrer/kroto-plus (⭐479)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
+*   [konrad-kaminski/spring-kotlin-coroutine (⭐410)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
+*   [marcoferrer/kroto-plus (⭐480)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
 
 ### Libraries/Frameworks / Functional Programming
 
@@ -364,15 +364,15 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries/Frameworks / Compiler Plugins
 
 *   [aafanasev/sekret (⭐84)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
-*   [AhmedMourad0/no-copy (⭐134)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
+*   [AhmedMourad0/no-copy (⭐135)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
 
 ### Libraries/Frameworks / Continuous Integration
 
-*   [danger/kotlin (⭐394)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
+*   [danger/kotlin (⭐407)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
 
 ### Libraries/Frameworks / Code Generators
 
-*   [jhipster/jhipster-kotlin (⭐426)](https://github.com/jhipster/jhipster-kotlin) - A scaffold generator to generate web apps or APIs using springboot and angularJS or React
+*   [jhipster/jhipster-kotlin (⭐428)](https://github.com/jhipster/jhipster-kotlin) - A scaffold generator to generate web apps or APIs using springboot and angularJS or React
 
 ### Libraries/Frameworks / Desktop
 
@@ -397,14 +397,14 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/Vulkan (⭐47)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐8k)](https://github.com/SaschaWillems/Vulkan)
-*   [nwillc/ksvg (⭐73)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
+*   [java-opengl-labs/Vulkan (⭐47)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐8.1k)](https://github.com/SaschaWillems/Vulkan)
+*   [nwillc/ksvg (⭐75)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
 *   [markaren/three.kt (⭐181)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [breandan/kotlingrad (⭐481)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [breandan/kotlingrad (⭐484)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 
 ### Libraries/Frameworks / Command Line Interface
@@ -435,7 +435,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Kotlin Native / Projects
 
 *   [perses-games/konan-sfml (⭐18)](https://github.com/perses-games/konan-sfml) - Kotlin native with SFML example
-*   [JetBrains/kotlinconf-spinner (⭐593)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
+*   [JetBrains/kotlinconf-spinner (⭐594)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
 
 ---
 

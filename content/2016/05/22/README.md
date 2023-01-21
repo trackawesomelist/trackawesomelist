@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [doctest (⭐4.4k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐4.5k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Hardware
 
-*   [nerves (⭐1.9k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
+*   [nerves (⭐2k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ### Native Implemented Functions
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [NuxTube (⭐13)](https://github.com/joek85/NuxTube) - YouTube app for privacy, made with NuxtJs.
+*   [NuxTube (⭐14)](https://github.com/joek85/NuxTube) - YouTube app for privacy, made with NuxtJs.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Third-party APIs
 
-*   [mollie.cr (⭐14)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
+*   [mollie.cr (⭐15)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -89,7 +89,7 @@
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Backups
+### Software / Backups
 
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 

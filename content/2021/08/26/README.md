@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 26, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Starter apps and CLIs
 
-*   Take a look at [previously logged issues (⭐99)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
+*   Take a look at [previously logged issues (⭐128)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [exatorrent (⭐1.5k)](https://github.com/varbhat/exatorrent) - BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. `GPL-3.0` `Go`
+*   [exatorrent (⭐1.6k)](https://github.com/varbhat/exatorrent) - BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. `GPL-3.0` `Go`
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -36,26 +36,20 @@
 
 *   [flat.social](https://flat.social/) - Create fun virtual spaces for online meetings, team activities and virtual socials.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Clojure / Non-X86
-
-*   [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) [(:card\_file\_box: *unglued*)](https://unglue.it/work/489419/)
-
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / Public Domain
 
 *   [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 *   [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Private Module Registries / Miscellaneous
 
-*   [terraform-registry (⭐43)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
+*   [terraform-registry (⭐45)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / MaaS
 
@@ -89,14 +83,14 @@
     *   [Gartner Magic Quadrant for Robotic Process Automation](https://www.gartner.com/doc/code/441474)
     *   [The Forrester Wave: Robotic Process Automation](https://www.forrester.com/go?objectid=RES161538)
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Internationalization
 
-*   [crystal-i18n (⭐15)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
+*   [crystal-i18n (⭐18)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
 *   [i18n.cr (⭐24)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
 
-## [11. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [10. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
 
@@ -114,7 +108,7 @@
 
 
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -158,7 +152,7 @@
 
 
 
-## [13. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Client Web App Frameworks
 

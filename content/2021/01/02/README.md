@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 ### Applications
 
 *   [chat (⭐23)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐256)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -65,7 +65,7 @@
 
 ### Tools
 
-*   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐272)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Routing
 
-*   [Phalcon-autorouter (⭐29)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+*   [Phalcon-autorouter (⭐28)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 
 ### Magazines / Slides
 
@@ -102,7 +102,7 @@
 
 ### Bindings
 
-*   [vulkan-zig (⭐190)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
+*   [vulkan-zig (⭐192)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
 
 ---
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Decentralized Systems
 
-*   [Golem (⭐139)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
+*   [Golem (⭐142)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 
 ### Related
 
@@ -26,7 +26,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Intel(R) Extension for Scikit-learn (⭐835)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
+*   [Intel(R) Extension for Scikit-learn (⭐859)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaunsingh/nord.nvim (⭐501)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
+*   [shaunsingh/nord.nvim (⭐531)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
 
 ## [7. Julia.jl](/content/svaksha/Julia.jl/README.md)
 

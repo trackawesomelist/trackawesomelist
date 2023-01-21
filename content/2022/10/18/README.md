@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,26 +10,26 @@
 
 ### Template Engine
 
-*   [SmartFormat (⭐880)](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
+*   [SmartFormat (⭐895)](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Artificial Intelligence
 
-*   [Axon (⭐1.1k)](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks
+*   [Axon (⭐1.2k)](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks
 *   [Nx (⭐2k)](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Third-party APIs
 
-*   [whatsapp-sdk (⭐37)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
+*   [whatsapp-sdk (⭐40)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
 
 ## [4. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Workflow Managers
 
-*   **[redun (⭐362)](https://github.com/insitro/redun)** - A python-based workflow manager.
+*   **[redun (⭐371)](https://github.com/insitro/redun)** - A python-based workflow manager.
 
 ## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Communications / Web
 
-*   [thimble (⭐2)](https://github.com/DavesCodeMusings/thimble) - A tiny web framework for MicroPython.
+*   [thimble (⭐5)](https://github.com/DavesCodeMusings/thimble) - A tiny web framework for MicroPython.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -65,16 +65,16 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uploady (⭐21)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
+*   [Uploady (⭐23)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Lama-Cleaner (⭐5.3k)](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
+*   [Lama-Cleaner (⭐6k)](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
 
 ### Software / Personal Dashboards
 
-*   [Homepage by benphelps (⭐3.1k)](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
-*   [Homepage by tomershvueli (⭐276)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
+*   [Homepage by benphelps (⭐3.8k)](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
+*   [Homepage by tomershvueli (⭐279)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
 
 ### Software / Polls and Events
 
@@ -94,7 +94,7 @@
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Metascience / Literature Visualization
+### Science Logology / Literature Visualization
 
 *   [cite2vec: Citation-Driven Document Exploration via Word Embeddings](https://matthewberger.github.io/papers/cite2vec.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6949650208780085923\&hl=en\&as_sdt=0,5)].
 
@@ -110,15 +110,15 @@
 
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [Artists To Study | All images generated with Google Colab TPUs + CompVis/stable-diffusion-v1-4 + Huggingface Diffusers](https://artiststostudy.pages.dev/): a systematic study of artists' styles made by [@camenduru](https://twitter.com/camenduru)
 
-### Courses and Educational Materials / References Collection about Stable Diffusion
+### Courses and Educational Materials / Deforum
 
 *   [Words are Images | BustBright - Machine Learning Art](https://www.bustbright.com/product/words-are-images-7-week-online-class-starting-october-24th-2022-/331): 7-week Online class starting October 24th, 2022 by [Derrick Schultz](https://twitter.com/dvsch/)
 
-### Interesting Instagram Accounts, Posts and Reels / OpenAI GPT-3
+### People and works / Interesting Instagram Accounts, Posts and Reels
 
 *   [science on Instagram: “Human evolution generated by AI Stable Diffusion”](https://www.instagram.com/reel/CjnYBJbqABH/?igshid=YmMyMTA2M2Y%3D)
 
@@ -126,17 +126,25 @@
 
 ### JSON
 
-*   [Glaze (⭐306)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
+*   [Glaze (⭐312)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Python / Constraint Logic Programming (extended Prolog)
+### Data Science
 
-*   [Python Idioms](https://bennuttall.com/files/python-idioms-2014-01-16.pdf) (PDF)
+*   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (HTML)
 
-### Ruby / Ruby on Rails
+### Database
 
-*   [Rails Style Guide](https://rails.rubystyle.guide) - Bozhidar Batsov
+*   [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/) - Adrienne Watt, Nelson Eng @ BCcampus Open Pressbooks (HTML, PDF, EPUB, Kindle)
+*   [Database Design Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/database-design-succinctly) - Joseph D. Booth (HTML, PDF, EPUB, MOBI)
+*   [Database Explorations](http://www.dcs.warwick.ac.uk/\~hugh/TTM/Database-Explorations-revision-2.pdf) - C.J. Date, Hugh Darwen (PDF)
+*   [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) - Neeraj Sharma et al. (PDF)
+*   [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/\~hugh/TTM/DTATRM.pdf) - C.J. Date, Hugh Darwen (PDF)
+*   [Foundations of Databases](http://webdam.inria.fr/Alice/)
+*   [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
+*   [Temporal Database Management](http://people.cs.aau.dk/\~csj/Thesis/) - Christian S. Jensen
+*   [The Theory of Relational Databases](http://web.cecs.pdx.edu/\~maier/TheoryBook/TRD.html)
 
 ---
 

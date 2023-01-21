@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,12 +41,12 @@
 
 ### Theming
 
-*   [antd-theme-webpack-plugin (⭐365)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
+*   [antd-theme-webpack-plugin (⭐364)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
 *   [antd-theme-generator (⭐358)](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
 
 ### Components / Themes
 
-*   [antd-amplify-react (⭐57)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
+*   [antd-amplify-react (⭐55)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -92,7 +92,7 @@
 
 ### IoC
 
-*   [DryIoc (⭐798)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐813)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

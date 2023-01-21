@@ -2,7 +2,7 @@
 
 51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐544)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐594)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -47,13 +47,13 @@
 
 ### Software / Make your life easier
 
-*   [test-each (⭐98)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+*   [test-each (⭐100)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐355)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐387)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [8. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
@@ -72,34 +72,34 @@
 
 ## [9. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
-### [github.expandinizr (⭐128)](https://github.com/thecodejunkie/github.expandinizr) <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [github.expandinizr (⭐129)](https://github.com/thecodejunkie/github.expandinizr) <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
-Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
+Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 ## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### SQL / Learning
 
-*   [Advanced SQL Puzzles (⭐133)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
+*   [Advanced SQL Puzzles (⭐140)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
 *   [Hackerrank](https://www.hackerrank.com/domains/sql) - Practice coding, prepare for interviews, and get hired.
 *   [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
 *   [Select Star SQL](https://selectstarsql.com) - Free interactive book which aims to be the best place on the internet for learning SQL.
 *   [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
-*   [SQL Murder Mystery (⭐1.2k)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+*   [SQL Murder Mystery (⭐1.3k)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
 ### SQL / Scripts
 
 *   [DBA MultiTool (⭐73)](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
 *   [pgx\_scripts (⭐1.1k)](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-*   [pgsql-bloat-estimation (⭐396)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
+*   [pgsql-bloat-estimation (⭐408)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
 *   [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
-*   [pg-utils (⭐688)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
+*   [pg-utils (⭐701)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
 *   [Postgres cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by \<timescale.com>.
-*   [postgres\_dba (⭐705)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
+*   [postgres\_dba (⭐712)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
 *   [postgres\_queries\_and\_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
-*   [TPT (⭐550)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
+*   [TPT (⭐552)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 
 ## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -117,7 +117,7 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Applications / Cryptocurrencies
 
-*   [Holochain (⭐736)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
+*   [Holochain (⭐744)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
 
 ### Applications / System tools
 
@@ -126,12 +126,12 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 ### Libraries / Compression
 
 *   gzip
-    *   [zopfli (⭐10)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] — implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
+    *   [zopfli (⭐11)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] — implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
 
 ### Libraries / Mobile
 
 *   Generic
-    *   [Geal/rust\_on\_mobile (⭐158)](https://github.com/Geal/rust_on_mobile)
+    *   [Geal/rust\_on\_mobile (⭐159)](https://github.com/Geal/rust_on_mobile)
 
 ## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -153,11 +153,11 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Communication with server / Mouse Events
 
-*   [query (⭐31k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+*   [query (⭐32k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-firebase-hooks (⭐3k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
+*   [react-firebase-hooks (⭐3.1k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
 
 ## [17. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -183,17 +183,17 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Display / GUI
 
-*   [micropython-nextion (⭐2)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
+*   [micropython-nextion (⭐3)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
 ## [20. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐821)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
+*   [No-Chat-Reports (⭐842)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
 
 ### Audio
 
-*   [Jetispot (⭐156)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐198)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -204,11 +204,11 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Components & Libraries / Frameworks
 
-*   [ant-design-vue (⭐17k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
+*   [ant-design-vue (⭐18k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
 
 ### Components & Libraries / UI Utilities
 
-*   [vorms (⭐74)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
+*   [vorms (⭐111)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
 ## [22. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
@@ -274,7 +274,7 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [alehouse (⭐8)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
+*   [alehouse (⭐10)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
 *   [auto-fortune-cowsay (⭐6)](https://github.com/babasbot/auto-fortune-cowsay-zsh) - Prints out an ASCII picture of a cow saying a random epigram on every ZSH start.
 *   [aws-cli-mfa (⭐16)](https://github.com/joepjoosten/aws-cli-mfa-oh-my-zsh) - AWS CLI MFA plugin based on sweharris' [aws-cli-mfa (⭐21)](https://github.com/sweharris/aws-cli-mfa). Supports specifying `mfa_device` in profile.
 *   [aws-plugin (⭐2)](https://github.com/pookey/zsh-aws-plugin) - Adds helper functions for `aws` command. Includes mfa and `assume-role` helpers.
@@ -283,13 +283,13 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [cdr (⭐12)](https://github.com/willghatch/zsh-cdr) - Easy setup of `cdr` for ZSH.
 *   [chgo (⭐0)](https://github.com/sbfaulkner/chgo-plugin-zsh) - Clone of `chruby` modified to make it easy to switch between multiple Go versions.
 *   [copier (⭐1)](https://github.com/zshzoo/copier) - Standalone clipboard utilities from [oh-my-zsh](https://ohmyz.sh).
-*   [declare-zsh (⭐5)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐1.5k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
+*   [declare-zsh (⭐5)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐1.6k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
 *   [evil-registers (⭐25)](https://github.com/zsh-vi-more/evil-registers) - Extends ZLE `vi` commands to remotely access named registers of the `vim` and `nvim` editors, and system selection and clipboard.
 *   [exa (zplugin) (⭐9)](https://github.com/zplugin/zsh-exa) - replace `ls` with [ogham/exa (⭐20k)](https://github.com/ogham/exa).
 *   [f-shortcuts (⭐4)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
 *   [fancy-ctrl-z (⭐13)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [get-jquery (⭐1)](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading the jQuery library from [code.jquery.com](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/code.jquery.com).
-*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐677)](https://github.com/travis-ci/gimme/).
+*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐678)](https://github.com/travis-ci/gimme/).
 *   [git-aliases (mdumitru) (⭐22)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [git-is-clean (⭐1)](https://github.com/aubreypwd/zsh-plugin-git-is-clean) - This function will return true or false depending on if it finds out your `git` repo is dirty or not.
 *   [git-smart-commends-wrapper (⭐0)](https://github.com/jelek21/omz-git-smart-commands) - Wraps [git-smart-commands (⭐12)](https://github.com/seletskiy/zsh-git-smart-commands) to make it compatible with the [oh-my-zsh](https://ohmyz.sh) plugins system.
@@ -311,11 +311,11 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [virtualenv-prompt (⭐36)](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream [oh-my-zsh](https://ohmyz.sh/). Adds support for customizing the virtualenv prompt in [oh-my-zsh](https://ohmyz.sh) themes.
 *   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local [yadm](https://thelocehiliosan.github.io/yadm/) configuration changes.
 *   [yeoman (⭐40)](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's [Yeoman](http://yeoman.io/) plugin for [oh-my-zsh](https://ohmyz.sh/), compatible with yeoman version ≥1.0 (includes options and command auto-completion).
-*   [zshmarks (⭐253)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
+*   [zshmarks (⭐256)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [bearings (⭐180)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
+*   [bearings (⭐181)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
 *   [shinkansen (⭐0)](https://github.com/MRZ07/shinkansen.zsh-theme) - A fast, customizable and easily extended theme. Includes decorators for rhw python version in the active virtualenv, current ruby version if you're using `chruby`, current node.js version, current java version, current go version, current perl version if using `chperl`, current elixir version, `git` status, time, current directory, exit code and execution time of the last command, and an optional custom message. Requires a powerline-compatible font.
 *   [vehemence (⭐0)](https://github.com/H1N1-dev/vehemence-zsh) - Includes decorators for `pwd`, `user@host`, `tty`, time, last command exit code and `git` status.
 
@@ -323,12 +323,12 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Theory
 
-*   [AGI & CoCoSci (⭐103)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+*   [AGI & CoCoSci (⭐114)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ### Security
 
-*   [Cyber Security University (⭐278)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
-*   [Hacking Spots (⭐974)](https://github.com/daviddias/awesome-hacking-locations#readme)
+*   [Cyber Security University (⭐322)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+*   [Hacking Spots (⭐977)](https://github.com/daviddias/awesome-hacking-locations#readme)
 
 ## [28. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
@@ -336,11 +336,33 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 *   [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [lewpoly/sherbet.nvim (⭐39)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
+
+### Utility / Diagnostics
+
+*   [anuvyklack/fold-preview (⭐53)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
+
+### Fennel / Diagnostics
+
+*   [Olical/conjure (⭐1.2k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
+
+### Editing Support / Diagnostics
+
+*   [anuvyklack/pretty-fold.nvim (⭐298)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
+
+### Resource / Diagnostics
+
+*   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching specific plugins and guides for building plugins in Lua.
+
+## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [Akade.IndexedSet (⭐14)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
+*   [Akade.IndexedSet (⭐17)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 
 ### Books
 
@@ -349,39 +371,39 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [Pro ASP.NET Core 6](https://link.springer.com/book/10.1007/978-1-4842-7957-1) - The most comprehensive coverage available on ASP.NET Core 6 in full-color. Detailed explanations and plenty of working code to learn new functionality. Provides a fully functioning ASP.NET Core 6 application that can be used as a template for projects. **\[$]**
 *   [Pro Microservices in .NET 6](https://link.springer.com/book/10.1007/978-1-4842-7833-8) - Shows you how to get up to speed with .NET 6, Docker, and microservices. Teaches you how to leverage microservice design patterns to strengthen an application. Provides environment options for orchestrators and Azure Kubernetes Service. **\[$]**
 
-## [30. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [31. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Learning / Talks Presentations Podcasts
 
 *   [Video Coding Basics - How is this so efficient?](https://youtu.be/LDeL7-49qm4)  - An introduction to the basics of video coding
 
-## [31. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [32. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
 *   [Deepfence PacketStreamer (⭐763)](https://github.com/deepfence/PacketStreamer): High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
-## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [stravital (⭐21)](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
-*   [ViteRC (⭐14)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+*   [stravital (⭐22)](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
+*   [ViteRC (⭐17)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-importus (⭐8)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
+*   [vite-plugin-importus (⭐9)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-inject (⭐14)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
-*   [vite-plugin-inject-preload (⭐5)](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
+*   [vite-plugin-html-inject (⭐16)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-inject-preload (⭐6)](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 
 ### Symfony / Community
 
-*   [Vite Bundle (⭐82)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+*   [Vite Bundle (⭐88)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
 
-## [33. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 
@@ -436,60 +458,82 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 
 
-## [34. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [35. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Communication
 
 *   [Mouseless Messenger (⭐33)](https://github.com/stephancasas/alfred-mouseless-messenger)
 
-## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
-*   [moonboot (⭐14)](https://github.com/jhbruhn/moonboot): OTA Bootloader Construction Framework for Rust no\_std environments, especially embedded devices without an OS
+*   [moonboot (⭐16)](https://github.com/jhbruhn/moonboot): OTA Bootloader Construction Framework for Rust no\_std environments, especially embedded devices without an OS
 
-## [36. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [37. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Parser / Package managers
 
-*   [goto-bus-stop/ziguid (⭐4)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
-*   [sam701/zig-cli (⭐26)](https://github.com/sam701/zig-cli) - Package for building command line apps.
+*   [goto-bus-stop/ziguid (⭐7)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
+*   [sam701/zig-cli (⭐35)](https://github.com/sam701/zig-cli) - Package for building command line apps.
 
-## [37. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [38. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   Google
-    *   [Auth (⭐167)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
+    *   [Auth (⭐173)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
     *   [Availability (⭐2)](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
     *   [Fit (⭐17)](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     *   [MlKit Language (⭐2)](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
-*   [Playlist (⭐13)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
+*   [Playlist (⭐14)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
-## [38. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### C++ / Non-X86
+### Misc
 
-*   [A Complete Guide to Standard C++ Algorithms (⭐243)](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX) (:construction: *in process*)
+*   [Front-End Developer Handbook 2016](https://frontendmasters.com/guides/front-end-handbook/2016/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2017](https://frontendmasters.com/guides/front-end-handbook/2017/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2018](https://frontendmasters.com/guides/front-end-handbook/2018/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/) - Cody Lindley (HTML)
 
-### HTML and CSS / Spock Framework
+### Security & Privacy
 
-*   [Practical Series: A website template](https://practicalseries.com/1001-webdevelopment/) - Michael Gledhill (HTML)
+*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐5.2k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
 
-### JavaScript / Wicket
+### Version Control Systems
 
-*   [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Lindley (HTML)
+*   [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
+*   [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
+*   [Conversational Git](http://blog.anvard.org/conversational-git/) - Alan Hohn
+*   [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
+*   [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/) - Tommi Virtanen
+*   [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
+*   [Git In The Trenches](http://cbx33.github.io/gitt/index.html) - Peter Savage
+*   [Git internals (⭐2.4k)](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
+*   [Git Notes for Professionals](http://goalkicker.com/GitBook) - Compiled from StackOverflow Documentation (PDF)
+*   [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
+*   [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address *requested*, not required)
+*   [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
+*   [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
+*   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
+*   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
+*   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐372)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
+*   [Introduction to Git and Github - Tutorial](http://cse.unl.edu/\~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
+*   [Introduction to Git and GitHub eBook (⭐428)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
+*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
+*   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
+*   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
+*   [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson *(:card\_file\_box: archived)*
+*   [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
+*   [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net) - Sam Livingston-Gray
+*   [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
 
-### JavaScript / React
-
-*   [React Enlightenment](https://www.reactenlightenment.com) - Cody Lindley (HTML)
-
-### Rust / Sinatra
-
-*   [From JavaScript to Rust ebook (⭐1.2k)](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
-
-## [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -510,19 +554,19 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [Steve Sanderson - Blazor, WASI and optimizing tomatoes](https://www.youtube.com/watch?v=1r3FwkUEte0) - July 17, 2022 - At NDC London we sat down with Steve Sanderson and talked about the origin story of Blazor, some of the upcoming things in .NET 7, and what Steve is working on right now. Duration: 35 minutes.
 *   [WASM Everywhere with Steve Sanderson](https://www.dotnetrocks.com/default.aspx?ShowNum=1801) - July 7, 2022 - WebAssembly is awesome - what else can you do with it? While at NDC London, Carl and Richard talked to Steve Sanderson about his work with WebAssembly, including Blazor. Steve talks about how WebAssembly continues to evolve adding WebAssembly System Integration. This opens the door to the idea that code in the WebAssembly can be run anywhere - any operating system, any language, using whatever compute is available. That gives an option to run code on the client, the server, and anywhere in between. Duration: 55 minutes.
 
-## [40. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [41. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
-*   [jupyterlab-tensorboard-pro (⭐30)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
+*   [jupyterlab-tensorboard-pro (⭐33)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
 
-## [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [42. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [vendelieu/telegram-bot (⭐59)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
+*   [vendelieu/telegram-bot (⭐62)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -551,56 +595,33 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 *   [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
 
-## [43. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [44. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
-*   [n98-magerun2 (⭐756)](https://github.com/netz98/n98-magerun2) - The CLI Swiss Army Knife for Magento 2.
+*   [n98-magerun2 (⭐762)](https://github.com/netz98/n98-magerun2) - The CLI Swiss Army Knife for Magento 2.
 
 ### Localization
 
 *   [nl\_NL (⭐6)](https://github.com/magento-l10n/language-nl_NL) 🇳🇱 - Dutch Language Package.
 
-## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [meliora-theme/neovim (⭐49)](https://github.com/meliora-theme/neovim) - Warm and cozy theme.
-*   [lewpoly/sherbet.nvim (⭐38)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
-
-### Utility / Diagnostics
-
-*   [anuvyklack/fold-preview (⭐47)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
-
-### Fennel / Diagnostics
-
-*   [Olical/conjure (⭐1.2k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
-
-### Editing Support / Diagnostics
-
-*   [anuvyklack/pretty-fold.nvim (⭐286)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
-
-### Resource / Diagnostics
-
-*   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching specific plugins and guides for building plugins in Lua.
-
 ## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Changing the syntax
 
-*   [clamp (⭐68)](https://github.com/malisper/Clamp) - Arc language's brevity and conciseness to Common Lisp. [Artistic License 2.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
-    *   also [arc-compat (⭐9)](https://github.com/g000001/arc-compat) -  Arc compatible package. Perl Foundation's Artistic Licence 2.0.
+*   [clamp (⭐69)](https://github.com/malisper/Clamp) - Arc language's brevity and conciseness to Common Lisp. [Artistic License 2.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
+    *   also [arc-compat (⭐10)](https://github.com/g000001/arc-compat) -  Arc compatible package. Perl Foundation's Artistic Licence 2.0.
 
 ### Websockets / Isomorphic web frameworks
 
-*   [Portal (⭐23)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Portal (⭐24)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐2.5k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
-*   [µTask (⭐798)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go`
+*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐2.6k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
+*   [µTask (⭐806)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go`
 
 ### Software / Communication - Email - Mail Delivery Agents
 
@@ -608,11 +629,11 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Software / Communication - IRC
 
-*   [Quassel IRC](https://quassel-irc.org/) - Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code (⭐670)](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
+*   [Quassel IRC](https://quassel-irc.org/) - Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code (⭐674)](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
 
 ### Software / Communication - SIP
 
-*   [ASTPP](https://www.astppbilling.org/) - VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code (⭐132)](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
+*   [ASTPP](https://www.astppbilling.org/) - VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code (⭐133)](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -621,11 +642,11 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Software / Communication - Video Conferencing
 
-*   [Wirow (⭐117)](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform. `AGPL-3.0` `C`
+*   [Wirow (⭐126)](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform. `AGPL-3.0` `C`
 
 ### Software / Conference Management
 
-*   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐655)](https://github.com/frab/frab)) `MIT` `Ruby`
+*   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐656)](https://github.com/frab/frab)) `MIT` `Ruby`
 *   [Open Conference Systems (OCS)](https://pkp.sfu.ca/ocs/) - Free Web publishing tool that will create a complete Web presence for your scholarly conference. ([Source Code (⭐90)](https://github.com/pkp/ocs)) `GPL-1.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
@@ -634,7 +655,7 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Software / DNS
 
-*   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐874)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
+*   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐883)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
 
 ### Software / Document Management
 
@@ -642,13 +663,13 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Software / Feed Readers
 
-*   [Moonmoon](https://moonmoon.org/) - Simple feed aggregator (planet like): it only aggregates feeds and spits them out in one single page. ([Source Code (⭐150)](https://github.com/moonmoon/moonmoon)) `BSD-3-Clause` `PHP`
-*   [RSS-Bridge (⭐5.4k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP`
+*   [Moonmoon](https://moonmoon.org/) - Simple feed aggregator (planet like): it only aggregates feeds and spits them out in one single page. ([Source Code (⭐149)](https://github.com/moonmoon/moonmoon)) `BSD-3-Clause` `PHP`
+*   [RSS-Bridge (⭐5.5k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP`
 *   [Screaming Liquid Tiger](https://git.herrbischoff.com/screaming-liquid-tiger/) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`
 
 ### Software / Internet of Things (IoT)
 
-*   [OpenRemote](https://openremote.io) - Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code (⭐676)](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`
+*   [OpenRemote](https://openremote.io) - Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code (⭐701)](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -661,17 +682,17 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Software / Miscellaneous
 
-*   [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐778)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
+*   [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐836)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
 
 ### Software / Pastebins
 
-*   [bin (⭐202)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
-*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐420)](https://github.com/bartTC/dpaste)) `MIT` `Docker`
-*   [Wastebin (⭐45)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust`
+*   [bin (⭐212)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
+*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐423)](https://github.com/bartTC/dpaste)) `MIT` `Docker`
+*   [Wastebin (⭐52)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust`
 
 ### Software / Proxy
 
-*   [microproxy (⭐158)](https://github.com/thekvs/microproxy) - Lightweight non-caching HTTP/HTTPS proxy server. `MIT` `Go`
+*   [microproxy (⭐160)](https://github.com/thekvs/microproxy) - Lightweight non-caching HTTP/HTTPS proxy server. `MIT` `Go`
 
 ### Software / Search Engines
 
@@ -683,16 +704,15 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Software / Status / Uptime pages
 
-*   [s.Status (⭐19)](https://github.com/scolastico-dev/s.Status) - Open-source server status page written in java. `MPL-2.0` `Java`
-*   [Uptime Kuma (⭐25k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.uptime.kuma.pet)) `MIT` `Nodejs`
+*   [Uptime Kuma (⭐28k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.uptime.kuma.pet)) `MIT` `Nodejs`
 
 ### Software / Ticketing
 
-*   [django-todo](http://django-todo.org/) - Pluggable, multi-user, multi-group, multi-list todo and ticketing system - a reusable app designed to be dropped into any existing Django project. ([Source Code (⭐735)](https://github.com/shacker/django-todo)) `BSD-3-Clause` `Python/Django`
+*   [django-todo](http://django-todo.org/) - Pluggable, multi-user, multi-group, multi-list todo and ticketing system - a reusable app designed to be dropped into any existing Django project. ([Source Code (⭐742)](https://github.com/shacker/django-todo)) `BSD-3-Clause` `Python/Django`
 
 ### Software / URL Shorteners
 
-*   [Lstu (⭐183)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl`
+*   [Lstu (⭐185)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl`
 
 ## [47. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -806,7 +826,6 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) - ***Nature***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744\&hl=en\&as_sdt=0,5)]. Zoubin Ghahramani's review on Bayesian machine learning.
 *   [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***Behavioral and Brain Sciences***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian generalization.
 *   [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794\&hl=en\&as_sdt=0,5\&as_vis=1)]. Original paper on Bayesian generalization.
-*   [Rules and Similarity in Concept Learning](https://cowles.yale.edu/sites/default/files/files/conf/2007/crp_tenenbaum2.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
 *   [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***Psychological Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=5476233692839102256)]. \[[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245)]. Fei Xu's review on Bayesian word learning.
 *   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/\~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
 *   [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287\&hl=en\&as_sdt=0,5)]. Brenden Lake and Josh Tenenbaum's review on Bayesian modeling.
@@ -972,15 +991,15 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐554)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐555)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 *   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
-*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐23)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐22)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐118)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
 ### Embodied Intelligence / Explainable Deep Learning
@@ -1001,7 +1020,7 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354\&hl=en\&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 *   [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429\&hl=en\&as_sdt=0,5)]. A comprehensive review on the application of pareto optimality to multiobjective machine learning.
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17166265099721941605)].
 *   [Causality](https://en.wikipedia.org/wiki/Causality) - ***Wikipedia***. Wikipedia on causality, which is influence by which one event, process, state, or object (a cause) contributes to the production of another event, process, state, or object (an effect) where the cause is partly responsible for the effect, and the effect is partly dependent on the cause.
@@ -1073,10 +1092,9 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052\&hl=en\&as_sdt=0,5)]. The original paper introducing the adaptation perspective of human intelligence, the theoretical basis of the ACT cognitive architecture.
 *   [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942\&hl=en\&as_sdt=0,5)]. A perspective on the two levels of consciousness in machine intelligence.
 
-### Theory of Mind / Scientific Writing
+### Theory of Mind / Science Education
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
-*   [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM.
 *   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
 *   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025\&hl=en\&as_sdt=0,5)].
 *   [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***Ph.D. Dissertation MIT***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224\&hl=en\&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.
@@ -1091,7 +1109,7 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142\&hl=en\&as_sdt=0,5)]. A large-scale database on human intentionally-posted images on social media.
 *   [Adventures in Flatland: Perceiving Social Interactions Under Physical Dynamics](https://www.tshu.io/HeiderSimmel/CogSci20/Flatland_CogSci20.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1928005249823745390\&hl=en\&as_sdt=0,5)].
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
 *   [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.
@@ -1217,14 +1235,14 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Communication / Email Clients
 
-*   [ElectronMail (⭐1.2k)](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladimiry/ElectronMail) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ElectronMail (⭐1.3k)](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladimiry/ElectronMail) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Mailspring](https://getmailspring.com/) - A beautiful, fast, and fully open source mail client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Foundry376/Mailspring) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Tutanota](https://tutanota.com/) - Encrypted email focused on security and privacy. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tutao/tutanota) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacYTDL (⭐230)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacYTDL (⭐238)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/martpie/museeks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

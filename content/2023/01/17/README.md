@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 17, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -91,40 +91,13 @@
 
 *   [hu.dwim.walker (⭐4)](https://github.com/hu-dwim/hu.dwim.walker) - a code walker and unwalker (aka AST parser and unparser). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐187)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐54)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.6k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐58)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Matcha - Daily RSS Digest (⭐72)](https://github.com/piqoni/matcha) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Papers and References / AI Tools for Paper Reading
 
@@ -132,15 +105,15 @@
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
-*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
 *   [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
+*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
 *   [What AI-Generated Art Really Means for Human Creativity | WIRED](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
 *   \[🔥] [weihaox/awesome-gan-inversion (⭐875)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
-### Inbox: Video tools / Text-related Generative Tools
+### Inbox: Video AI tools / Text-related Generative Tools
 
 *   \[🔥] [dmarx/video-killed-the-radio-star (⭐78)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 
@@ -148,7 +121,7 @@
 
 *   [Ai Generated Music Video - Deltron 3030 - Virus - YouTube](https://www.youtube.com/watch?v=WJaxFbdjm8c)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -158,7 +131,7 @@
 
 *   [Stellate](https://stellate.co/) - Stellate is blazing fast, reliable CDN for your GraphQL API and Free for 2 services.
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
@@ -166,4 +139,5 @@
 
 ---
 
+- Prev: [Jan 18, 2023](/content/2023/01/18/README.md)
 - Next: [Jan 16, 2023](/content/2023/01/16/README.md)

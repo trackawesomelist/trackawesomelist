@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -76,7 +76,7 @@
 
 ### For Electron / Other
 
-*   [electron-serve (⭐369)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-serve (⭐372)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -94,13 +94,13 @@
 
 ### OCR Tools / Telegram
 
-*   [OCRmyPDF (⭐7.5k)](https://github.com/jbarlow83/OCRmyPDF/)
+*   [OCRmyPDF (⭐8k)](https://github.com/jbarlow83/OCRmyPDF/)
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### SDK and API Clients
 
-*   [Countly SDK for Windows (⭐22)](https://github.com/Countly/countly-sdk-windows/) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
+*   [Countly SDK for Windows (⭐21)](https://github.com/Countly/countly-sdk-windows/) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

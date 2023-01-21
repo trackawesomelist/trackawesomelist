@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐518)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐562)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [oh-vue-icons (⭐182)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
+*   [oh-vue-icons (⭐188)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

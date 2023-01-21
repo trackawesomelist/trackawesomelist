@@ -2,7 +2,7 @@
 
 A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/chiraggude/awesome-laravel/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) · ⭐ 11K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/chiraggude/awesome-laravel/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) · ⭐ 11K · 🏷️ Back-End Development
 
 [ [Daily](/content/chiraggude/awesome-laravel/README.md) / [Weekly](/content/chiraggude/awesome-laravel/week/README.md) / Overview ]
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 19, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Security
 
-*   :strawberry: [Muffin/Obfuscate plugin (⭐34)](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
+*   :strawberry: [Muffin/Obfuscate plugin (⭐35)](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Application Skeleton
 
-*   [NovaMOOC (⭐16)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
+*   [NovaMOOC (⭐19)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
 
 ### Books / Slides
 
@@ -41,23 +41,17 @@
 *   [Building an Imgur Clone with Vue.js and Serverless](https://tutorialedge.net/projects/building-imgur-clone-vuejs-nodejs/)
 *   [Building a HackerNews clone in Vue.js on AWS](https://tutorialedge.net/projects/hacker-news-clone-vuejs/)
 
-## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
-
-### Articles / Other external resources
-
-*   [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
-
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Carousel
 
 *   [@egjs/react-flicking (⭐2.2k)](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
 
-## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [7. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Social Engineering / Social Engineering Tools
 
-*   [Evilginx2 (⭐6.3k)](https://github.com/kgretzky/evilginx2) - Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setting up phishing pages capable of defeating most forms of 2FA security schemes.
+*   [Evilginx2 (⭐6.7k)](https://github.com/kgretzky/evilginx2) - Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setting up phishing pages capable of defeating most forms of 2FA security schemes.
 
 ---
 

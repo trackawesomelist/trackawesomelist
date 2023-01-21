@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -72,13 +72,13 @@
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Diagramming
+### Software / Diagramming
 
 *   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
 
 ## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - By Marty Cagan.
 
@@ -86,7 +86,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐404)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐420)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Logging / Barcode
 
-*   [Gedatsu (⭐518)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+*   [Gedatsu (⭐520)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Hardware
 
-*   [Plotters (⭐787)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+*   [Plotters (⭐803)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 
 ## [18. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

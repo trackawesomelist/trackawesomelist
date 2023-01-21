@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -66,15 +66,15 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [LunarVim/LunarVim (⭐12k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
+*   [LunarVim/LunarVim (⭐13k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### YouTube
 
-*   [Piped (⭐3.5k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐3.8k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐3.8k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   [Piped (⭐3.7k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.2k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.2k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

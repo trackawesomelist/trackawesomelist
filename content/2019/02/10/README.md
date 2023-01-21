@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -57,7 +57,7 @@
 
 ### Reading and Writing Tools / Markdown Tools
 
-*   [MarkText (⭐37k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MarkText (⭐38k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Others
 
@@ -147,7 +147,7 @@
 
 ### Security Tools / File Sharing
 
-*   [stronghold (⭐979)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/stronghold) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [stronghold (⭐982)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/stronghold) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Proxy and VPN Tools / File Sharing
 
@@ -162,7 +162,7 @@
 
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 *   [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
-*   [skhd (⭐3.4k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
+*   [skhd (⭐3.5k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
 *   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
 ### Utilities / Window Management
@@ -171,7 +171,7 @@
 *   [contexts](https://contexts.co/) - Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly.
 *   [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/id441258766)
 *   [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
-*   [ShiftIt (⭐5.4k)](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fikovnik/ShiftIt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ShiftIt (⭐5.5k)](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fikovnik/ShiftIt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Slate (⭐7.8k)](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jigish/slate)
 
 ### Utilities / System Related Tools
@@ -205,17 +205,17 @@
 
 ### Contents / Personalization
 
-*   [Dashboard (⭐850)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
-*   [Tailor made (⭐273)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
+*   [Dashboard (⭐856)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Tailor made (⭐282)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
 
 ### Contents / Social Network
 
 *   [FlutterWhatsAppClone (⭐1.5k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
-*   [Tinder Card (⭐702)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Tinder Card (⭐724)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Shopping
 
-*   [Plantly (⭐159)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Plantly (⭐160)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Travel
 

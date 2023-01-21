@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Auto Layout / Barcode
 
-*   [HypeUI (⭐98)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
+*   [HypeUI (⭐103)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -22,12 +22,12 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [toppair/peek.nvim (⭐162)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
+*   [toppair/peek.nvim (⭐215)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/sibling-swap.nvim (⭐34)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
-*   [Wansmer/binary-swap.nvim (⭐8)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
+*   [Wansmer/sibling-swap.nvim (⭐38)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
+*   [Wansmer/binary-swap.nvim (⭐9)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Projects / Verified Software
 
-*   [Functional Algorithms Verified in SSReflect (⭐25)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
+*   [Functional Algorithms Verified in SSReflect (⭐26)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
 
 ### Resources / Community
 
@@ -67,7 +67,7 @@
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Web / Metric & Metric Collection
+### Software / Web
 
 *   [Traefik](https://traefik.io/) - Traefik is a leading modern reverse proxy and load balancer.
 

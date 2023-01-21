@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 28 - Aug 03, 2014
 
-21 awesome lists updated this week.
+20 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,13 +19,7 @@
 *   [Data Science - Closed Group](https://www.facebook.com/groups/1394010454157077/?ref=br_rs)
 *   [Center for Data Science](https://www.facebook.com/centerdatasciences?ref=br_rs)
 
-## [2. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [London](http://www.meetup.com/papers-we-love-london)
-
-## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Driver / Desktop (browsers)
 
@@ -40,13 +34,13 @@
 *   [Sauce Labs](https://saucelabs.com) - Cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on 300+ OS/browser platforms. Get started for free.
 *   [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
 
-## [4. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [3. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
 *   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐415)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 
-## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Algorithms and Data Structures
 
@@ -54,11 +48,11 @@
 
 ### Application Libraries
 
-*   [Batteries Included (⭐443)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
-*   [Cmdliner (⭐223)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+*   [Batteries Included (⭐458)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+*   [Cmdliner (⭐229)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 *   [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
 *   [easy-format (⭐36)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
-*   [ocaml-rpc (⭐88)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
+*   [ocaml-rpc (⭐90)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 
 ### Books
 
@@ -68,7 +62,7 @@
 
 ### Developer Tools
 
-*   [ghim (⭐18)](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
+*   [ghim (⭐19)](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 
 ### Exercises and Short Examples
 
@@ -89,8 +83,8 @@
 
 *   **2D**
     *   [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D plotting library.
-    *   [cairo2 (⭐41)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
-    *   [Vg (⭐75)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
+    *   [cairo2 (⭐42)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
+    *   [Vg (⭐78)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 *   **3D**
     *   [glMLite (⭐17)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
     *   [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
@@ -108,7 +102,7 @@
 
 ### Networking
 
-*   [ocaml-dns (⭐94)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
+*   [ocaml-dns (⭐98)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 
 ### Online Courses
 
@@ -116,32 +110,32 @@
 
 ### Security and Cryptography
 
-*   [ocaml-tls (⭐272)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+*   [ocaml-tls (⭐271)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 
 ### Serialization
 
 *   [bencode (⭐19)](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
-*   [biniou (⭐41)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
+*   [biniou (⭐43)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 *   [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 *   [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 
 ### System Programming
 
 *   [Mirage OS (⭐2k)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-*   [ocaml-fat (⭐25)](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
+*   [ocaml-fat (⭐26)](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
 *   [ocaml-git (⭐342)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
 *   [ocaml-vchan (⭐45)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
 ### Testing
 
-*   [QCheck (⭐288)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+*   [QCheck (⭐290)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ### Web Development
 
 *   **Open Source Projects**:
-    *   [Cumulus (⭐45)](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
+    *   [Cumulus (⭐44)](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
-## [6. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [5. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Admins
 
@@ -155,30 +149,30 @@
 
 *   [keymap (⭐9)](https://github.com/jondot/keymaps/) - a hybrid Vim/ReSharper/Intellij keymap
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Passwords
 
 *   [Zxcvbn PHP (⭐758)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
-## [8. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   Objective-C
     *   [by @ EvgenyKarkan (⭐2.4k)](https://github.com/EvgenyKarkan/EKAlgorithms)
 
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Text
 
-*   [detect-indent (⭐176)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐178)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ### Packages / Parsing
 
 *   [JSONStream (⭐1.9k)](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compiler
 
@@ -186,8 +180,8 @@
 
 ### Articles
 
-*   [C++Now 2014 Presentations (⭐428)](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
-*   [C++Now 2013 Presentations (⭐192)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
+*   [C++Now 2014 Presentations (⭐429)](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
+*   [C++Now 2013 Presentations (⭐191)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 *   [C++Now 2012 Presentations (⭐171)](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 
 ### Websites
@@ -198,13 +192,13 @@
 
 *   [awesome-talks (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 
-## [11. Awesome Play1](/content/PerfectCarl/awesome-play1/week/README.md)
+## [10. Awesome Play1](/content/PerfectCarl/awesome-play1/week/README.md)
 
 ### Misc
 
 *   Using [Luo](https://github.com/greenlaw110)'s `cache4` [annotation](http://www.playframework.com/modules/rythm-1.0.0-20121210/integration#cache4)
 
-## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [11. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Database
 
@@ -214,7 +208,7 @@
 
 *   [marginalia (⭐782)](https://github.com/gdeer81/marginalia)
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 
@@ -227,9 +221,9 @@
 ### Python / General-Purpose Machine Learning
 
 *   [pyhsmm (⭐527)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
-*   [SKLL (⭐527)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+*   [SKLL (⭐528)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 
-## [14. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Books / Voxel Editors
 
@@ -239,7 +233,7 @@
 *   [Game Mechanics: Advanced Game Design](http://www.goodreads.com/book/show/13705461-game-mechanics)
 *   [Nature of Code](http://natureofcode.com/book/)
 
-## [15. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [14. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
@@ -249,7 +243,7 @@
 
 *   [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 
-## [16. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [15. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Module Development / NoSQL Databases
 
@@ -259,7 +253,7 @@
 
 *   [t3chnoboy/awesome-awesome-awesome (⭐1.7k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
-## [17. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [16. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Logging
 
@@ -271,7 +265,7 @@
 
 *   [riak\_dt (⭐336)](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs.
 
-## [18. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [17. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
@@ -353,7 +347,7 @@
 
 *   [packrat (⭐383)](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Package Managers
 
@@ -385,13 +379,13 @@
 
 *   [bounce.js (⭐6.2k)](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 
-## [20. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [19. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / Client Side Profile
 
 *   [GutterColor (⭐488)](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
 
-## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -399,7 +393,7 @@
 
 ### IoC
 
-*   [Spring.Net (⭐781)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
+*   [Spring.Net (⭐786)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 
 ### GUI
 
@@ -407,12 +401,12 @@
 
 ### Mail
 
-*   [MailKit (⭐5.1k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+*   [MailKit (⭐5.2k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
 *   [MimeKit (⭐1.5k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 
 ### Profiler
 
-*   [MiniProfiler (⭐2.6k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
+*   [MiniProfiler (⭐2.7k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 *   [Glimpse (⭐2.3k)](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
 
 ### Scheduling

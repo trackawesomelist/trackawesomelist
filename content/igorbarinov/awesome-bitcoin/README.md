@@ -2,7 +2,7 @@
 
 A curated list of bitcoin services and tools for software developers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-bitcoin/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 igorbarinov/awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) · ⭐ 964 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-bitcoin/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 igorbarinov/awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) · ⭐ 964 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 

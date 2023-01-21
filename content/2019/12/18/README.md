@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,7 +47,7 @@
 
 ### Graphical User Interface / Other / unknown licence
 
-*   [gwindows (⭐14)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
+*   [gwindows (⭐15)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
 
 ### 3D / Other / unknown licence
 
@@ -55,21 +55,21 @@
 
 ### Math / Other / unknown licence
 
-*   [mathpaqs (⭐7)](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
+*   [mathpaqs (⭐9)](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
 
 ### Format Readers and Writers / Other / unknown licence
 
 *   [ini-files (⭐5)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
-*   [excel-writer (⭐4)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
+*   [excel-writer (⭐5)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
 *   [generic-image-decoder (⭐14)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
-*   [ada-pdf-writer (⭐12)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
-*   [ada-bar-codes (⭐10)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
+*   [ada-pdf-writer (⭐14)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
+*   [ada-bar-codes (⭐11)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
 ### Office / Other / unknown licence
 
-*   [azip (⭐5)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
-*   [texcad (⭐3)](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
-*   [cbsg (⭐4)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
+*   [azip (⭐6)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
+*   [texcad (⭐4)](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
+*   [cbsg (⭐5)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
 
 ### Web / Other / unknown licence
 
@@ -77,13 +77,13 @@
 
 ### Generators and Translators / Other / unknown licence
 
-*   [pascal-to-ada (⭐9)](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
+*   [pascal-to-ada (⭐11)](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Audio
 
-*   [SwiftAudioPlayer (⭐409)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
+*   [SwiftAudioPlayer (⭐418)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
 
 ## [9. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 

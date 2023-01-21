@@ -2,7 +2,7 @@
 
 continuous integration and continuous delivery
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cicdops/awesome-ciandcd/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) · ⭐ 1.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cicdops/awesome-ciandcd/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) · ⭐ 1.5K · 🏷️ Miscellaneous
 
 [ [Daily](/content/cicdops/awesome-ciandcd/README.md) / Weekly / [Overview](/content/cicdops/awesome-ciandcd/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,16 +46,16 @@
 
 ### Packages / Debugging / Profiling
 
-*   [NiM (⭐187)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
+*   [NiM (⭐188)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 
 ### Packages / Testing
 
-*   [Playwright (⭐45k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐47k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐559)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
-*   [cashify (⭐384)](https://github.com/xxczaki/cashify) - Currency conversion.
+*   [basic-ftp (⭐563)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
+*   [cashify (⭐386)](https://github.com/xxczaki/cashify) - Currency conversion.
 *   [genepi (⭐65)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools

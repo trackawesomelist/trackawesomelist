@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [Fuzzing-101 (⭐1.6k)](https://github.com/antonio-morales/Fuzzing101)
+*   [Fuzzing-101 (⭐1.7k)](https://github.com/antonio-morales/Fuzzing101)
 
 ### Talks
 
@@ -24,32 +24,32 @@
 
 ### Tools / Binary
 
-*   [American Fuzzy Lop plus plus (AFL++) (⭐3.1k)](https://github.com/AFLplusplus/AFLplusplus) - A superior fork to Google's AFL. more speed, more and better mutations, more and better instrumentation, custom module support, etc. [paper](https://www.usenix.org/conference/woot20/presentation/fioraldi)
+*   [American Fuzzy Lop plus plus (AFL++) (⭐3.3k)](https://github.com/AFLplusplus/AFLplusplus) - A superior fork to Google's AFL. more speed, more and better mutations, more and better instrumentation, custom module support, etc. [paper](https://www.usenix.org/conference/woot20/presentation/fioraldi)
 
 ## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Learning / Tutorials
+### Tutorials
 
 *   [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - Build your web app for minting assets using Python, AlgoSigner, and Anvil Platform.
 *   [Getting Started with Django, Python, and Algorand](https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/) - Tutorial from algorand developer portal.
 
-### Development / JavaScript & TypeScript
+### Languages / JavaScript & TypeScript
 
-*   [js-algorand-sdk (⭐257)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+*   [js-algorand-sdk (⭐260)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
 
-### Development / .NET
+### Languages / .NET
 
 *   [unity-algorand-sdk-based-on-net-sdk (⭐2)](https://github.com/Vytek/AlgorandUnitySDK) - Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.
 
-### Development / Rust
+### Languages / Rust
 
-*   [rust-algorand-sdk (⭐52)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐54)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
-### Development / Swift
+### Languages / Swift
 
-*   [swift-algorand-sdk (⭐19)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+*   [swift-algorand-sdk (⭐18)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
-### Tools / Nodes and Indexers
+### Other Development Tools / Nodes and Indexers
 
 *   [Algorand - The Undocumented Docs (⭐5)](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 *   [AlgoNode](https://algonode.cloud) - Node running FAQ, Node/Indexer daily snapshots, Free Node/Indexer APIs.
@@ -58,12 +58,12 @@
 
 *   [Algorand Name Service](https://algonameservice.com/home) - ANS is a decentralized naming service. An Algorand smart contract stores names and governs the naming policy.
 
-### Community / Projects
+### Projects / Wallets
 
 *   [algonim (⭐27)](https://github.com/cusma/algonim) - First Algorand mini-puzzle-game. Written in Python+PyTEAL by [@cusma](https://twitter.com/cusma_b).
 *   [genpyteal (⭐9)](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
 
-### Metrics / Projects
+### Metrics and Analytics Services / Wallets
 
 *   [Algorand MainNet metrics](https://metrics.algorand.org/) - Dashboard that measures the current scale, security, decentralization, and adoption of the open-source Algorand protocol.
 *   [Algorand Stats](https://www.algorandstats.com/) - All stats about Algorand Governance.
@@ -72,10 +72,10 @@
 
 ### Tools / Plugins
 
-*   [gatling-kafka-plugin (⭐45)](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+*   [gatling-kafka-plugin (⭐48)](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
 *   [gatling-amqp-plugin (⭐28)](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
-*   [gatling-jdbc-plugin (⭐15)](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-*   [gatling-picatinny (⭐27)](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+*   [gatling-jdbc-plugin (⭐18)](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
+*   [gatling-picatinny (⭐29)](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 
 ### Tools / Miscellaneous
 
@@ -117,7 +117,7 @@
 
 ### Chart
 
-*   [SwiftUICharts (⭐625)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐638)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -147,12 +147,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [coya (⭐42)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
+*   [coya (⭐44)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 ### Components & Libraries / Frameworks
 
 *   [Inkline (⭐1.1k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-*   [Mosaic - Vue Admin TailwindCSS template (⭐151)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+*   [Mosaic - Vue Admin TailwindCSS template (⭐155)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
 ---
 

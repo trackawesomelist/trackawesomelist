@@ -2,7 +2,7 @@
 
 :crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/browserify/awesome-browserify/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 browserify/awesome-browserify](https://github.com/browserify/awesome-browserify) · ⭐ 82 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/browserify/awesome-browserify/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 browserify/awesome-browserify](https://github.com/browserify/awesome-browserify) · ⭐ 82 · 🏷️ Front-End Development
 
 [ [Daily](/content/browserify/awesome-browserify/README.md) / [Weekly](/content/browserify/awesome-browserify/week/README.md) / Overview ]
 

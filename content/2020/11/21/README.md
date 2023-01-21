@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 21, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -59,12 +59,6 @@
 ### Skeleton
 
 *   :strawberry: [MixerApi/Bake (⭐3)](https://github.com/mixerapi/bake) - Bake theme for generating RESTful controllers.
-
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 
 ---
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 13, 2018
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,32 +44,26 @@
 
 ### Charts / Image Picker
 
-*   [FCharts (⭐321)](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
+*   [FCharts (⭐323)](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
 
 ### Top / Game Engine resources
 
-*   [Cinematic (⭐861)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
+*   [Cinematic (⭐865)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
 *   [Beer-Me-Up (⭐468)](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Events
-
-*   [RxReduce (⭐125)](https://github.com/RxSwiftCommunity/RxReduce) - Reactive implementation of the state container pattern (like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.
-
-## [8. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Typing / Web
 
 *   [KeyPress OSD (⭐222)](https://github.com/marius-sucan/KeyPress-OSD) - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
 
-## [9. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+## [8. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### DevOps & containers
 
 *   [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Best practices for shell scripts.
 
-## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### ReactJS
 
@@ -99,7 +93,7 @@
 
 
 
-## [11. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [10. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
@@ -109,23 +103,23 @@
 
 *   [potion (⭐183)](https://github.com/finnfiddle/potion) - Collection of React components for composing visualizations
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
-*   [.NET Boxed Framework (⭐639)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
+*   [.NET Boxed Framework (⭐649)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 
 ### Application Templates
 
 *   [.NET Boxed Templates (⭐3.1k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Accepting Payments with Stripe, Vue.js, and Flask](https://testdriven.io/accepting-payments-with-stripe-vuejs-and-flask)
 
-## [14. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Canvas / Examples
 

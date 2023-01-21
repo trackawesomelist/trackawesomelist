@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -35,58 +35,20 @@
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Tools / Nodes and Indexers
+### Other Development Tools / Nodes and Indexers
 
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### C# / Non-X86
+### Misc
 
-*   [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/) - Cesar de la Torre
+*   [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien *(Leanpub account or valid email requested)*
+*   [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap *(Leanpub account or valid email requested)*
 
-### Elixir / Non-X86
+### Software Architecture
 
-*   [Learning the Elixir Language](https://riptutorial.com/Download/elixir-language.pdf) - Compiled from StackOverflow Documentation (PDF)
-
-### Haskell / Spock Framework
-
-*   [Developing Web Applications with Haskell and Yesod](https://www.yesodweb.com/book) - Michael Snoyman
-
-### JavaScript / Elm
-
-*   [Beginning Elm](https://elmprogramming.com) - Pawan Poudel (HTML)
-
-### JavaScript / Node.js
-
-*   [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
-
-### Lisp / TeX
-
-*   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐6.5k)](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, EPUB, Markdown)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/2e/chapter0/) - Al Sweigart (3.8)
-    *   [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/chapter0/) - Al Sweigart (3.4)
-*   [Building Skills in Object-Oriented Design, V4](https://slott56.github.io/building-skills-oo-design-book/build/html/) - Steven F. Lott (3.7)
-    *   [Building Skills in Object-Oriented Design, Release 2.2.1](https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf) - Steven F. Lott (PDF) (2.2.1)
-    *   [Building Skills in Object-Oriented Design, Release 3.1](https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf) - Steven F. Lott (PDF) (3.1)
-*   [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
-    *   [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
-*   [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
-    *   [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
-*   [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
-    *   [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) - Wikibooks (2.6)
-*   [Python Module of the Week](https://pymotw.com/3/) (3.x)
-    *   [Python Module of the Week](https://pymotw.com/2/) (2.x)
-*   [Test-Driven Web Development with Python: Obey the Testing Goat! using Django, Selenium and JavaScript](http://www.obeythetestinggoat.com/pages/book.html) - Harry J.W. Percival (HTML) *(3.3 - 3.x)*
-*   [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) - Allen B. Downey (3.x) (HTML, PDF)
-    *   [Think Python First Edition](https://greenteapress.com/wp/think-python/) - Allen B. Downey (2.x) (HTML, PDF)
-
-### R / Tornado
-
-*   [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill
+*   [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett *(Leanpub account or valid email requested)*
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -104,13 +66,13 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-confluent (⭐58)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
+*   [terraform-provider-confluent (⭐64)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [hot-lib-reloader (⭐246)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
+*   [hot-lib-reloader (⭐276)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 
 ### Libraries / Virtualization
 

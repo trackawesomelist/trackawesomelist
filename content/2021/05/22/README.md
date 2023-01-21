@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,8 +14,8 @@
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [h8mail (⭐2.8k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-*   [Holehe (⭐3.5k)](https://github.com/megadose/holehe)
+*   [h8mail (⭐3k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐3.8k)](https://github.com/megadose/holehe)
 
 ### Video Search and Other Video Tools / Telegram
 
@@ -86,7 +86,7 @@
 
 ### Tooling / Others
 
-*   [Publish-time Pre-render for Blazor Wasm (⭐151)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
+*   [Publish-time Pre-render for Blazor Wasm (⭐153)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@kyvg/vue3-notification (⭐182)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
+*   [@kyvg/vue3-notification (⭐190)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 
 ### Components & Libraries / Utilities
 

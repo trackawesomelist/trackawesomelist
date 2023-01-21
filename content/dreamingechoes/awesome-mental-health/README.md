@@ -2,7 +2,7 @@
 
 A curated list of awesome articles, websites and resources about mental health in the software industry.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dreamingechoes/awesome-mental-health/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) · ⭐ 2.5K · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dreamingechoes/awesome-mental-health/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) · ⭐ 2.5K · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/dreamingechoes/awesome-mental-health/week/README.md) / [Overview](/content/dreamingechoes/awesome-mental-health/readme/README.md) ]
 

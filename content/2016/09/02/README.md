@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐368)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐372)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -47,11 +47,11 @@
 
 *   [elixometer (⭐816)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
 *   [erlang-metrics (⭐68)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
-*   [exometer (⭐519)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
+*   [exometer (⭐518)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
 *   [folsom\_ddb (⭐5)](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
 *   [instream (⭐210)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 *   [instrumental (⭐9)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
-*   [prometheus (⭐321)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
+*   [prometheus (⭐322)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
 
 ---
 

@@ -2,7 +2,7 @@
 
 37 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -404,7 +404,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cross-env (⭐5.9k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+*   [cross-env (⭐6k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 
 ## [28. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

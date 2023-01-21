@@ -2,7 +2,7 @@
 
 Curated list of resources for Embedded and Low-level development in the Rust programming language
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rust-embedded/awesome-embedded-rust/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) · ⭐ 4K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rust-embedded/awesome-embedded-rust/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) · ⭐ 4K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 

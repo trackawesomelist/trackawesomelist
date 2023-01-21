@@ -2,7 +2,7 @@
 
 A curated list of MQTT related stuff. :sparkles:
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hobbyquaker/awesome-mqtt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hobbyquaker/awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) · ⭐ 1.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hobbyquaker/awesome-mqtt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hobbyquaker/awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) · ⭐ 1.8K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/hobbyquaker/awesome-mqtt/week/README.md) / [Overview](/content/hobbyquaker/awesome-mqtt/readme/README.md) ]
 

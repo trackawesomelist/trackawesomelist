@@ -2,7 +2,7 @@
 
 A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AboutRSS/ALL-about-RSS/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) · ⭐ 2.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AboutRSS/ALL-about-RSS/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) · ⭐ 2.3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/AboutRSS/ALL-about-RSS/README.md) / [Weekly](/content/AboutRSS/ALL-about-RSS/week/README.md) / Overview ]
 

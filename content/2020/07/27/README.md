@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -62,13 +62,13 @@
 
 ### Database
 
-*   [ObjectBox (⭐376)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+*   [ObjectBox (⭐380)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐55)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐57)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 19, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,19 +12,7 @@
 
 *   [FNA (⭐1.7k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
 
-## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-### Templates
-
-*   [Win7 (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
-*   [Win10 (⭐261)](https://github.com/elliotkillick/qvm-create-windows-qube)
-*   [CentOS (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
-*   [Gentoo (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
-*   [NetBSD (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
-*   [Ubuntu (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
-*   [Pentesting (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
-
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Social
 
@@ -40,7 +28,7 @@
 
 
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -112,13 +100,13 @@
 
 *   [php\[architect\]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Serialization
 
-*   [Jire/KTON (⭐58)](https://github.com/Jire/KTON) - Object notation in pure Kotlin!
+*   [Jire/KTON (⭐59)](https://github.com/Jire/KTON) - Object notation in pure Kotlin!
 
-## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### General Libraries
 
@@ -169,32 +157,32 @@
 *   [GExperts](https://sourceforge.net/projects/gexperts). Free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE. GExperts is developed as Open Source software and we encourage user contributions to the project. Grep search and replace supporting unicode files, DFMs, etc; Automatically rename components, insert text macros, open recent files; Easily backup your projects, with custom additional file lists; Keep nested lists of favorite files for quick access; Track dependencies between units in your project; Quickly jump to any procedure in the current unit; And much, much more.
 *   [Delphinus (⭐220)](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses GitHub as a Backend to Provide the packages.
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / NXP
 
 *   [`SKEAZN642`](https://crates.io/crates/SKEAZN642) Peripheral access API for KEA64 family microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/SKEAZN642.svg)
 
-## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
-*   [tabnine (⭐27)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
+*   [tabnine (⭐28)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Note Taking and Lists
 
 *   [geeknote (⭐392)](https://github.com/jeffkowalski/geeknote) - Evernote client.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Discord](https://discord.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
 *   [Telegram](https://telegram.org/) — Telegram is for everyone who wants fast and reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps and powerful file sharing options.
 
-## [11. Awesome Math](/content/rossant/awesome-math/README.md)
+## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Geometry and Topology / Algebraic Geometry
 

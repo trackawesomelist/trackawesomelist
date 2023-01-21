@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,13 +34,13 @@
 
 ### Models and Projects / Haiku
 
-*   [Two Player Auction Learning (⭐2)](https://github.com/degregat/two-player-auctions) - JAX implementation of the paper [*Auction learning as a two-player game*](https://arxiv.org/abs/2006.05684).
+*   [Two Player Auction Learning (⭐3)](https://github.com/degregat/two-player-auctions) - JAX implementation of the paper [*Auction learning as a two-player game*](https://arxiv.org/abs/2006.05684).
 
 ## [6. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Deployment Tools / Newsletters
 
-*   [deploy-rs (⭐594)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
+*   [deploy-rs (⭐637)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Concurrency
 
-*   [rotor (⭐230)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐231)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -82,19 +82,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [Tippy.vue (⭐18)](https://github.com/thecodewarrior/Tippy.vue) - Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips.
+*   [Tippy.vue (⭐20)](https://github.com/thecodewarrior/Tippy.vue) - Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips.
 
 ## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐410)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐434)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
 ## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [@zougt/vite-plugin-theme-preprocessor (⭐133)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
+*   [@zougt/vite-plugin-theme-preprocessor (⭐136)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 
 ## [15. Public Apis](/content/public-apis/public-apis/README.md)
 

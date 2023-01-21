@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Tools
 
-*   [oidc-bash-client (⭐60)](https://github.com/please-openit/oidc-bash-client)
+*   [oidc-bash-client (⭐66)](https://github.com/please-openit/oidc-bash-client)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -31,11 +31,11 @@
 ### Component Libraries
 
 *   [elements-sk (⭐27)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
-*   [Lume (⭐881)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
+*   [Lume (⭐896)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
 
 ### Design Systems
 
-*   [Bolt Design System (⭐267)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
+*   [Bolt Design System (⭐269)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -68,7 +68,7 @@
 
 ### TextField / Barcode
 
-*   [CHIOTPField (⭐239)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
+*   [CHIOTPField (⭐241)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
 ### Video / Barcode
 
@@ -109,7 +109,7 @@
 
 ### Web Programming • Libraries
 
-*   [OGL.js (⭐2.9k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL)
+*   [OGL.js (⭐3k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL)
 
 ### Schools • Workshops / Other
 

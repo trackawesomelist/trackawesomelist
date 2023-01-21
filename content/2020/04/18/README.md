@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Color
 
-*   [SheetyColors (⭐101)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
+*   [SheetyColors (⭐102)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -128,7 +128,7 @@ Language: English
 
 ### Projects Using Vue.js / Open Source
 
-*   [Sheiley Shop (⭐44)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
+*   [Sheiley Shop (⭐45)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -154,12 +154,12 @@ Language: English
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedPop (⭐32)](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xs9627/feedpop)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [FeedPop (⭐35)](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xs9627/feedpop)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [DEVONthink](https://www.devontechnologies.com/apps/devonthink) ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)
 
 ### DEVONthink / Outline Processor Markup Language
 
-*   [devonthink-heti (⭐73)](https://github.com/sivan/devonthink-heti) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sivan/devonthink-heti)
+*   [devonthink-heti (⭐77)](https://github.com/sivan/devonthink-heti) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sivan/devonthink-heti)
 
 ### Podcast Hosting / Crypto or Blockchain relevant
 
@@ -245,7 +245,7 @@ Language: English
 
 ### Tools and session management
 
-*   [tmux-cssh (⭐60)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+*   [tmux-cssh (⭐61)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 
 ### Status Bar
 

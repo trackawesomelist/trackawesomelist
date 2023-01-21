@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Queue
 
-*   [SlimMessageBus (⭐314)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
+*   [SlimMessageBus (⭐325)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 
 ## [2. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
@@ -70,7 +70,7 @@
 
 ### SaaS Tools / Symfony2
 
-*   [Nango (⭐169)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
+*   [Nango (⭐225)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -83,7 +83,7 @@
 
 *   [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl's tutorials on causal reasoning with operations on Bayesian networks.
 

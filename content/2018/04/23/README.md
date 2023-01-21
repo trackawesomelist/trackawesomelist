@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Game Engine
 
-*   [EnTT (⭐7.5k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐7.6k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -32,7 +32,7 @@
 
 ## [5. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017) _by   [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))  \_ [3.9] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017)   *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))*   \[3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Off to Be the Wizard](https://www.goodreads.com/book/show/18616975-off-to-be-the-wizard) \[3.98]
 *   [Spell or High Water](https://www.goodreads.com/book/show/21483760-spell-or-high-water) \[4.02]

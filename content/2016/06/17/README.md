@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,8 +40,7 @@ git clone https://github.com/user/repo.git --depth 1
 
 ### Charts
 
-*   [d3-bar (⭐174)](https://github.com/tj/d3-bar) - Bar chart
-*   [d3-dot (⭐129)](https://github.com/tj/d3-dot) - Dot chart
+*   [d3-bar (⭐173)](https://github.com/tj/d3-bar) - Bar chart
 *   [d3-heatmap (⭐242)](https://github.com/tj/d3-heatmap) - Heatmap
 
 ---

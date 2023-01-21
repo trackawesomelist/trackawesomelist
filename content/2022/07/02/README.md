@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,8 +16,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [skim (casonadams) (⭐1)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐3.7k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
-*   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐3.7k)](https://github.com/lotabout/skim)
+*   [skim (casonadams) (⭐1)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐3.8k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
+*   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐3.8k)](https://github.com/lotabout/skim)
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -27,20 +27,15 @@
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
-### Runtime / Playground
-
-*   [typescript-json (⭐1.8k)](https://github.com/samchon/typescript-json) - Super-fast runtime type checkers (validators) and 5x faster `JSON.stringify()` function, with only line. For reference, only `typscript-json` can validate complicate union type.
-
 ### Back-end API / Playground
 
 *   :octocat: [Nest (⭐53k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
-    *   :octocat: [nestia (⭐411)](https://github.com/samchon/nestia) - Automatic SDK and Swagger generator for the `NestJS`, evoled than ever. It does not require any swagger or DTO class decorator, therefore using pure interface typed DTO is possible.
-    *   :octocat: [nestia-helper (⭐33)](https://github.com/samchon/nestia-helper) - Helper library of `NestJS`, which boosts up `JSON.stringify()` functions about 5x times faster, of the API responses. Also, converts `TypeGuardError` of [`TSON.assertType`](https://github.com/samchon/typescript-json#runtime-type-checkers) to 400 status error automatically, therefore you can easily validate client request with only one line.
+    *   :octocat: [nestia (⭐457)](https://github.com/samchon/nestia) - 15,000x faster validation decorators than `class-validator` and Swagger/SDK generators.
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [TypeORM (⭐30k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-    *   :octocat: [Safe-TypeORM (⭐179)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
+    *   :octocat: [Safe-TypeORM (⭐182)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,11 +57,11 @@
 
 ### Syntax / Diagnostics
 
-*   [kylechui/nvim-surround (⭐1.1k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
+*   [kylechui/nvim-surround (⭐1.2k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
 
 ### Utility / Diagnostics
 
-*   [kevinhwang91/nvim-ufo (⭐832)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
+*   [kevinhwang91/nvim-ufo (⭐885)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
 
 ---
 

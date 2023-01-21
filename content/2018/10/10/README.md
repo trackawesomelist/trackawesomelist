@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -101,14 +101,14 @@
 
 ### Food-related projects
 
-*   [is-vegan (⭐446)](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
-*   [FoodTrucks (⭐391)](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips.
-*   [Growstuff (⭐380)](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers.
+*   [is-vegan (⭐450)](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
+*   [FoodTrucks (⭐396)](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips.
+*   [Growstuff (⭐387)](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers.
 *   [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management.
 
 ### API for Food services
 
-*   [node-deliveroo (⭐15)](https://github.com/jzarca01/node-deliveroo) - Unofficial Node API for Deliveroo.
+*   [node-deliveroo (⭐16)](https://github.com/jzarca01/node-deliveroo) - Unofficial Node API for Deliveroo.
 
 ### API for Food services / Only available for French market
 

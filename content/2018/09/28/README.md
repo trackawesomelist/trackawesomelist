@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,11 +37,11 @@
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
 *   [SameSuite (⭐23)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐132)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐137)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Mooneye GB (⭐788)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [Mooneye GB (⭐807)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
@@ -91,7 +91,7 @@
 
 ### UI
 
-*   [Stepper Touch (⭐261)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+*   [Stepper Touch (⭐269)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 ## [8. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -126,18 +126,14 @@
 ### Charts
 
 *   [d3-ez (⭐49)](https://github.com/jamesleesaunders/d3-ez) - Easy Reusable D3 Charts & Components \[bar, donut, pie, bubble, rose, heatmap]
-*   [d3-flame-graph (⭐720)](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
-*   [d3-funnel (⭐320)](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
-*   [d3-line (⭐125)](https://github.com/tj/d3-line) - Line chart
-*   [d3-timeseries (⭐141)](https://github.com/mcaule/d3-timeseries) - Time series charting library
+*   [d3-flame-graph (⭐745)](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
+*   [d3-funnel (⭐323)](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 *   [d3plus (⭐1.6k)](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations \[scatter, stacked, line, bar, pie, network, bubble, box, map]
 *   [WebCola (⭐1.8k)](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
 
 ### Utils / Third Party
 
-*   [d3-jetpack (⭐599)](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
-*   [d3-slider (⭐248)](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
-*   [d3kit (⭐420)](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
+*   [d3-jetpack (⭐601)](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 
 ## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -79,7 +79,7 @@
 
 ## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Learning / Crash Courses
+### Crash Courses
 
 *   [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - Proof of Stake Blockchain Efficiency Framework.
 *   [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - Understanding Algorand's working principles and its efficiency.
@@ -112,7 +112,7 @@
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 

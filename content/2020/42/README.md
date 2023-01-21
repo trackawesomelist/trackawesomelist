@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 19 - Oct 25, 2020
 
-93 awesome lists updated this week.
+92 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Media / Video
 
-*   [CamerAwesome (⭐404)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
+*   [CamerAwesome (⭐486)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
 
 ## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -30,7 +30,7 @@
 
 *   [轻芒杂志<strike>（草稿版）</strike>](http://qingmang.me/beta/) <sup>[741](https://t.me/s/aboutrss/741), [743](https://t.me/s/aboutrss/743), [809](https://t.me/s/aboutrss/809), [812](https://t.me/s/aboutrss/812), [828](https://t.me/s/aboutrss/828)</sup> ![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)
 *   RSS Savvy <sup>[811](https://t.me/s/aboutrss/811)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.savvysaurus.rsssavvy)
-*   [NiceFeed (⭐82)](https://github.com/joshuacerdenia/NiceFeed) <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joshuacerdenia/NiceFeed)
+*   [NiceFeed (⭐85)](https://github.com/joshuacerdenia/NiceFeed) <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joshuacerdenia/NiceFeed)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -110,7 +110,7 @@
 
 ### Resources / Visual Effects
 
-*   [libgdx-screenmanager (⭐67)](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
+*   [libgdx-screenmanager (⭐69)](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
@@ -317,7 +317,7 @@
 
 ### Machine Learning
 
-*   [rumale (⭐618)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐623)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -327,7 +327,7 @@
 
 ### Web Frameworks
 
-*   [grip (⭐242)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+*   [grip (⭐248)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
 ## [27. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -1234,34 +1234,34 @@
 ### Clojure / Deep Learning
 
 *   [MXNet](https://mxnet.apache.org/versions/1.7.0/api/clojure) - Bindings to Apache MXNet - part of the MXNet project
-*   [Deep Diamond (⭐379)](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
+*   [Deep Diamond (⭐382)](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
 *   [jutsu.ai (⭐99)](https://github.com/hswick/jutsu.ai) - Clojure wrapper for deeplearning4j with some added syntactic sugar.
 *   [dl4clj (⭐99)](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
 
 ### Clojure / Data Analysis
 
-*   [Tablecloth (⭐192)](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
-*   [Panthera (⭐182)](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
-*   [Geni (⭐250)](https://github.com/zero-one-group/geni) - a Clojure dataframe library that runs on Apache Spark
+*   [Tablecloth (⭐198)](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
+*   [Panthera (⭐183)](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
+*   [Geni (⭐253)](https://github.com/zero-one-group/geni) - a Clojure dataframe library that runs on Apache Spark
 
 ### Clojure / Data Visualization
 
-*   [Hanami (⭐312)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
-*   [Saite (⭐116)](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
-*   [Oz (⭐787)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
-*   [clojupyter (⭐763)](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
+*   [Hanami (⭐317)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
+*   [Saite (⭐117)](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
+*   [Oz (⭐793)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
+*   [clojupyter (⭐768)](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
 
 ### Clojure / Interop
 
 *   [Java Interop](https://clojure.org/reference/java_interop) - Clojure has Native Java Interop from which Java's ML ecosystem can be accessed
 *   [JavaScript Interop](https://clojurescript.org/reference/javascript-api) - ClojureScript has Native JavaScript Interop from which JavaScript's ML ecosystem can be accessed
-*   [Libpython-clj (⭐867)](https://github.com/clj-python/libpython-clj) - Interop with Python
-*   [ClojisR (⭐125)](https://github.com/scicloj/clojisr) - Interop with R and Renjin (R on the JVM)
+*   [Libpython-clj (⭐877)](https://github.com/clj-python/libpython-clj) - Interop with Python
+*   [ClojisR (⭐128)](https://github.com/scicloj/clojisr) - Interop with R and Renjin (R on the JVM)
 
 ### Clojure / Misc
 
 *   [Neanderthal](https://neanderthal.uncomplicate.org/) - Fast Clojure Matrix Library (native CPU, GPU, OpenCL, CUDA)
-*   [fastmath (⭐169)](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
+*   [fastmath (⭐171)](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
 *   [matlib (⭐23)](https://github.com/atisharma/matlib) - a Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.
 
 ### Clojure / Extra
@@ -1284,7 +1284,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [uiv (⭐917)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
+*   [uiv (⭐918)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 
 ### Components & Libraries / Dev Tools
 
@@ -1320,23 +1320,23 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Godot (⭐54k)](https://github.com/godotengine/godot) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
+*   [Godot (⭐57k)](https://github.com/godotengine/godot) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
 
 ## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Business
 
-*   [Social Enterprise (⭐47)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+*   [Social Enterprise (⭐48)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## [55. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management - Integrated Library Systems (ILS)
 
-*   [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code (⭐50)](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`
+*   [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code (⭐51)](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐656)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
+*   [2FAuth (⭐686)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
 
 ## [56. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
@@ -1395,8 +1395,8 @@
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo (⭐63k)](https://github.com/sveltejs/svelte)
-*   [Changelog (⭐63k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
+*   [GitHub Repo (⭐65k)](https://github.com/sveltejs/svelte)
+*   [Changelog (⭐65k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
 
 ### Community
 
@@ -1417,20 +1417,20 @@
 
 ### Preprocessing
 
-*   [svelte-preprocess-markdown (⭐125)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
+*   [svelte-preprocess-markdown (⭐126)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
 *   [svelte-preprocess-postcss (⭐24)](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
 
 ### UI Libraries
 
-*   [carbon-components-svelte (⭐1.8k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
+*   [carbon-components-svelte (⭐1.9k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 
 ### Notification
 
-*   [svelte-favicon-badge (⭐93)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
+*   [svelte-favicon-badge (⭐95)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
 ### Calendar
 
-*   [svelte-calendar (⭐473)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+*   [svelte-calendar (⭐478)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 ### Docs / Checkbox
 
@@ -1438,7 +1438,7 @@
 
 ### Test / Checkbox
 
-*   [jest-transform-svelte (⭐36)](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
+*   [jest-transform-svelte (⭐35)](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
 
 ### Editors / Visual Studio Code
 
@@ -1446,7 +1446,7 @@
 
 ### Editors / Vim
 
-*   [vim-svelte (⭐257)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+*   [vim-svelte (⭐269)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 
 ## [64. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -1524,22 +1524,19 @@
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Nautilus Terminal (⭐286)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Nautilus Terminal (⭐294)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+
+### Windows / Design Tooling
+
+*   [Coverflow Alt-Tab (⭐307)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio / Design Tooling
 
-*   [Application Volume Mixer (⭐83)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
-*   [Sound Input & Output Device Chooser (⭐667)](https://github.com/kgshank/gse-sound-output-device-chooser) - Quickly switch between different input and output devices.
-
-### Usage Experience / Design Tooling
-
-*   [Simple Off Menu](https://gitlab.com/K3rcus/simpler-off-menu) - Removes selected power options from system menu.
-*   [Coverflow Alt-Tab (⭐280)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [Application Volume Mixer (⭐86)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
 
 ### Visual Changes / Design Tooling
 
-*   [Transparent Shell (⭐12)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
-*   [Compiz alike windows effect (⭐89)](https://github.com/hermes83/compiz-alike-windows-effect) - Adds wobbly effects to windows.
+*   [Transparent Shell (⭐13)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 
 ## [74. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -1556,7 +1553,7 @@
 
 ### Topic Areas / Shiny
 
-*   [Awesome R Shiny (⭐674)](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
+*   [Awesome R Shiny (⭐697)](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
 *   [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#) - Introductory tutorial to Shiny. Note, this tutorial is deprecated. Author: RStudio.
 *   [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. Author: Dean Attali.
 *   [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a) - Detailed introductory video tutorial. Author: Garrett Grolemund.
@@ -1565,7 +1562,7 @@
 
 ### Topic Areas / Viz
 
-*   [Awesome ggplot2 (⭐878)](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
+*   [Awesome ggplot2 (⭐916)](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
 *   [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - Author: Andrew Abela, Ph.D.
 *   [Color Hex Color Codes](https://www.color-hex.com/) - Author: Color-Hex.
 *   [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - Author: Alboukadel Kassambara.
@@ -1611,7 +1608,7 @@
 *   [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) - Topics for the online course Data Analysis and Visualization Using R.
 *   [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q) - Topics include time series, analyzing word relationships with ggraph and tidytext, and tidymodels.
 *   [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA) - The UC Berkeley R Bootcamp playlists include videos on R basics, handling data, performing calculations, programming, graphics, workflows, and statistics.
-*   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - Topics include graphing for EDA, data manipulation, animated mapping, visualization, text mining, time series, forecasting, regression, bootstrapping, package development, network graphs, ANOVA, JSON, simulation, survival analysis, and tidymetrics. Click [here (⭐344)](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) for detailed TidyTuesday screencast annotations.
+*   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - Topics include graphing for EDA, data manipulation, animated mapping, visualization, text mining, time series, forecasting, regression, bootstrapping, package development, network graphs, ANOVA, JSON, simulation, survival analysis, and tidymetrics. Click [here (⭐350)](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) for detailed TidyTuesday screencast annotations.
 *   [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss) - Topics include numerical computing, generating random walks, markov chains, encoding categorical variables, probability, correlation plots, feature engineering, time series, binary classifiers, models, data.table, confusion matrices, machine learning, geocoding, summary statistics, and simulation.
 *   [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA) - Topics include predictive text modeling, impute missing data, tidymodels, sentiment analysis, multinomial classification, principal component analysis, data preprocessing and resampling, and multinomial classification.
 *   [Numyard](https://www.youtube.com/c/TheLearnR/videos) - Topics include working with dataframes, for loops, basic math, vectors, lists, creating functions, data types, and random sampling.
@@ -1631,7 +1628,7 @@
 
 ### Applications / Web Servers
 
-*   [mufeedvh/binserve (⭐711)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
+*   [mufeedvh/binserve (⭐726)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
 
 ## [77. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -1649,13 +1646,13 @@
 
 ### Utils / Third Party
 
-*   [d3-annotation (⭐728)](https://github.com/susielu/d3-annotation) - Annotation helper with built-in annotation types
+*   [d3-annotation (⭐733)](https://github.com/susielu/d3-annotation) - Annotation helper with built-in annotation types
 
 ## [80. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Collapse
 
-*   [react-tabbordion (⭐79)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
+*   [react-tabbordion (⭐78)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
 
 ### Chart
 
@@ -1663,7 +1660,7 @@
 
 ### Form Components / Select
 
-*   [react-functional-select (⭐170)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
+*   [react-functional-select (⭐173)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
 
 ## [81. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
@@ -1699,15 +1696,15 @@
 
 ### Component bundles
 
-*   [Smart UI for Blazor (⭐35)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
+*   [Smart UI for Blazor (⭐37)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
 
 ### Individual components / Others
 
-*   [BlazorContextMenu (⭐398)](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=86400) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
+*   [BlazorContextMenu (⭐410)](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=86400) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 
 ### Tools & Utilities / Others
 
-*   [Blazor Printing (⭐61)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
+*   [Blazor Printing (⭐64)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
 
 ## [87. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
@@ -1725,7 +1722,7 @@
 
 *   🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Generates harmonius color palettes based on one color.
 *   💼 [tailwind-classes-sorter (⭐18)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
-*   💼 [prettier-plugin-tailwind (⭐430)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
+*   💼 [prettier-plugin-tailwind (⭐429)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
 
 ### UI Libraries, Components & Templates
 
@@ -1758,85 +1755,6 @@
 ### Applications and Platforms / Data Collection
 
 *   [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
-
-## [93. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### ASP.NET
-
-*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure (2020)](https://aka.ms/webappebook) - Steve "ardalis" Smith (PDF) (:construction: *in process*)
-*   [ASP.NET with C# (2008)](http://www.vijaymukhi.com/documents/books/vsnet/content.htm) - Vijay Mukhi, Sonal Mukhi, Neha Kotecha
-*   [Diving into ASP.NET WebAPI (2016) (⭐7)](https://github.com/akhilmittal/FreeBooks/) - Akhil Mittal (PDF)
-*   [Introducing ASP.NET Web Pages 2 (2012)](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) - Mike Pope (PDF)
-
-### ASP.NET Core
-
-*   [The Little ASP.NET Core Book (2018)](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) - Nate Barbettini (PDF)
-
-### Assembly Language / Blazor
-
-*   [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) (:construction: *in process*)
-*   [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
-*   [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/\~thiebaut/ArtOfAssembly/artofasm.html) - Randall Hyde (PDF)
-*   [x86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly) - Wikibooks
-*   [Zen of Assembly Language: Volume I, Knowledge (1990)](http://www.jagregory.com/abrash-zen-of-asm/) - Michael Abrash
-
-### C / Non-X86
-
-*   [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
-*   [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
-*   [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
-
-### Flutter / Phoenix
-
-*   [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
-
-### Haskell / Spock Framework
-
-*   [Haskell Notes for Professionals](https://goalkicker.com/HaskellBook/) - Compiled from StackOverflow documentation (PDF)
-*   [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - Stephen Diehl (PDF)
-
-### HTML and CSS / Spock Framework
-
-*   [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
-*   [Magic of CSS](https://adamschwartz.co/magic-of-css/) - Adam Schwartz (HTML) (:construction: *in process*)
-*   [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
-
-### Linux / TeX
-
-*   [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
-
-### Neo4J / PicoLisp
-
-*   [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) - William Lyon (PDF) *(email requested)*
-
-### PHP / PicoLisp
-
-*   [Clean Code PHP (⭐11k)](https://github.com/jupeter/clean-code-php)
-
-### PHP / Symfony
-
-*   [Symfony 5: The Fast Track](https://symfony.com/doc/5.0/the-fast-track/en/index.html)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)
-*   [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)
-
-### R / Tornado
-
-*   [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
-
-### Scratch / Play Scala
-
-*   [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart (HTML)
-
-### Unix / Deno
-
-*   [INTRODUCTION TO UNIX](https://homepages.uc.edu/\~thomam/Intro_Unix_Text/TOC.html) - Mark A. Thomas
-
-### Visual Basic / Deno
-
-*   [Visual Basic Official Docs](https://docs.microsoft.com/en-us/dotnet/visual-basic)
 
 ---
 

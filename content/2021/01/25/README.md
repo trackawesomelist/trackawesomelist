@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -81,7 +81,7 @@
 
 ### Libraries / Automotive
 
-*   [Sensirion/lin-bus (⭐12)](https://github.com/Sensirion/lin-bus-rs) \[[lin-bus](https://crates.io/crates/lin-bus)] — LIN bus driver traits and protocol implementation [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
+*   [Sensirion/lin-bus (⭐13)](https://github.com/Sensirion/lin-bus-rs) \[[lin-bus](https://crates.io/crates/lin-bus)] — LIN bus driver traits and protocol implementation [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
 
 ### Libraries / Configuration
 
@@ -95,7 +95,7 @@
 
 ### Logging / Barcode
 
-*   [Puppy (⭐90)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
+*   [Puppy (⭐93)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -120,7 +120,7 @@
 ### Tools
 
 *   🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-*   💼 [@ngneat/tailwind (⭐598)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+*   💼 [@ngneat/tailwind (⭐600)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 
 ## [13. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
@@ -133,7 +133,7 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [GRR Rapid Response (⭐4.2k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐52)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
+*   [GRR Rapid Response (⭐4.3k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐54)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 
 ## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -145,15 +145,14 @@
 
 ### Databases / Data Sources
 
-*   [anime-offline-database (⭐558)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
+*   [anime-offline-database (⭐573)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
 ## [17. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [spotify-box (⭐97)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
 *   [blog-box (⭐2)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
-*   [medium-stat-box (⭐33)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
+*   [medium-stat-box (⭐36)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 
 ## [18. Awesome Python](/content/vinta/awesome-python/README.md)
 

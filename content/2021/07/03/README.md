@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -64,7 +64,7 @@
 
 ## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
-### Networks
+### Web
 
 *   [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - There's a lot of components in an URL, and all have their own logic.
 
@@ -136,16 +136,16 @@
 
 ### Patterns
 
-*   [The Composable Architecture (⭐7.6k)](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+*   [The Composable Architecture (⭐7.8k)](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 ### Images / Barcode
 
 *   [FaceCrop (⭐40)](https://github.com/Ancestry/FaceCrop) - Detect and center faces in your images using Apple’s Vision Framework.
-*   [SwiftDraw (⭐117)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
+*   [SwiftDraw (⭐122)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
 
 ### SOAP / Barcode
 
-*   [SOAPEngine (⭐479)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
+*   [SOAPEngine (⭐478)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
 
 ---
 

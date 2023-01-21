@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Machine Learning
 
-*   [oneDAL (⭐530)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+*   [oneDAL (⭐533)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 
 ## [2. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -60,14 +60,14 @@ Language: English, 中文
 ### Libraries
 
 *   [NumPyro (⭐1.6k)](https://github.com/pyro-ppl/numpyro) - Probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
-*   [Chex (⭐491)](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
-*   [Optax (⭐913)](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
-*   [JAX, M.D. (⭐833)](https://github.com/google/jax-md) - Accelerated, differential molecular dynamics. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
+*   [Chex (⭐507)](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
+*   [Optax (⭐974)](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
+*   [JAX, M.D. (⭐871)](https://github.com/google/jax-md) - Accelerated, differential molecular dynamics. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
 
 ### Libraries / New Libraries
 
-*   [jax-unirep (⭐92)](https://github.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
-*   [jax-cosmo (⭐109)](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - Differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
+*   [jax-unirep (⭐94)](https://github.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
+*   [jax-cosmo (⭐111)](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - Differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
 
 ### Videos / NumPyro
 
@@ -98,13 +98,13 @@ Language: English, 中文
 
 ### Projects / Godot 3.2+
 
-*   [ProtonGraph (⭐887)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+*   [ProtonGraph (⭐901)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐379)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐386)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
 ## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -89,13 +89,13 @@
 
 ### Node.js
 
-*   [Expressa (⭐401)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+*   [Expressa (⭐403)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 
 ## [12. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### For Developers / Directory Navigation
 
-*   [bcal (⭐565)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
+*   [bcal (⭐573)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
 
 ---
 

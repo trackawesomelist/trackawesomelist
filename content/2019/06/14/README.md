@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,7 +48,7 @@
 
 ### Charts / Image Picker
 
-*   [FL Chart (⭐5k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
+*   [FL Chart (⭐5.2k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 
 ## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

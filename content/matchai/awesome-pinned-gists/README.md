@@ -2,7 +2,7 @@
 
 📌✨ A collection of awesome dynamic pinned gists for GitHub
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/matchai/awesome-pinned-gists/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) · ⭐ 1.5K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/matchai/awesome-pinned-gists/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) · ⭐ 1.5K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/matchai/awesome-pinned-gists/week/README.md) / [Overview](/content/matchai/awesome-pinned-gists/readme/README.md) ]
 

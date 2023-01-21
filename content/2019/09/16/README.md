@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,11 +28,7 @@
 
 ### Media / Audio
 
-*   [Flutter Audio Recorder (⭐105)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
-
-### Device / Augmented Reality
-
-*   [Device Calendar (⭐204)](https://github.com/builttoroam/flutter_plugins/tree/master/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
+*   [Flutter Audio Recorder (⭐108)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -42,7 +38,7 @@
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Identity Management / Tools and web interfaces
+### Software / Identity Management - Tools and web interfaces
 
 *   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 

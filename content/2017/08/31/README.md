@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,7 +47,7 @@
 
 ### Command-Line Productivity
 
-*   [has (⭐473)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [has (⭐490)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 
 ## [4. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Video / Barcode
 
-*   [MMPlayerView (⭐724)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
+*   [MMPlayerView (⭐725)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
 ## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐842)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐867)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 ## [13. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

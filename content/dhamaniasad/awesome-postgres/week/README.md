@@ -2,7 +2,7 @@
 
 A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dhamaniasad/awesome-postgres/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) · ⭐ 8.1K · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dhamaniasad/awesome-postgres/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) · ⭐ 8.1K · 🏷️ Databases
 
 [ [Daily](/content/dhamaniasad/awesome-postgres/README.md) / Weekly / [Overview](/content/dhamaniasad/awesome-postgres/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A curated list of data engineering tools for software developers
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-data-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) · ⭐ 4.6K · 🏷️ Big Data
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-data-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) · ⭐ 4.6K · 🏷️ Big Data
 
 [ [Daily](/content/igorbarinov/awesome-data-engineering/README.md) / [Weekly](/content/igorbarinov/awesome-data-engineering/week/README.md) / Overview ]
 

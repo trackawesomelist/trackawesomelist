@@ -2,7 +2,7 @@
 
 Awesome online talks and screencasts
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 5.8K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 5.8K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / Utility
+### Utility
 
 *   [vaker (⭐14)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 
@@ -44,7 +44,7 @@
 
 ### Email
 
-*   [truemail-go (⭐27)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
+*   [truemail-go (⭐28)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
 ### Web Frameworks
 
@@ -115,7 +115,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-chart (⭐38)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
+*   [yew-chart (⭐39)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 
 ### Articles / Frameworks
 

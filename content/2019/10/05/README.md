@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,9 +14,9 @@
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Data Manipulation / Data Containers
+### Data Manipulation / Data Frames
 
-*   [pandas\_flavor (⭐250)](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
+*   [pandas\_flavor (⭐260)](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Articles
 
-*   [CppCon 2019 Presentation Materials (⭐1.1k)](https://github.com/CppCon/CppCon2019) - CppCon 2019 Presentation Materials.
+*   [CppCon 2019 Presentation Materials (⭐1.2k)](https://github.com/CppCon/CppCon2019) - CppCon 2019 Presentation Materials.
 
 ---
 

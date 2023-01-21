@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,7 +51,7 @@
 
 ## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Client management
+### Software / Client management
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
 
@@ -72,11 +72,11 @@
 
 ### Apple TV
 
-*   [Swift-GA-Tracker-for-Apple-tvOS (⭐80)](https://github.com/adswerve/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
+*   [Swift-GA-Tracker-for-Apple-tvOS (⭐81)](https://github.com/adswerve/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
 
 ### Layout
 
-*   [EasyAnchor (⭐448)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
+*   [EasyAnchor (⭐449)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
 
 ### Push Notification Providers
 
@@ -84,11 +84,11 @@
 
 ### Permissions
 
-*   [SPPermissions (⭐5k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+*   [SPPermissions (⭐5.1k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 
 ### UI
 
-*   [DrawerKit (⭐772)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
+*   [DrawerKit (⭐773)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 
 ### Pull to Refresh
 

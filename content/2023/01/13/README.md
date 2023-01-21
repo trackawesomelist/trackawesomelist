@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history and maps
+### The Generative AI Area: history, maps, and definitions
 
 *   [AI exploded on the scene at the end of 2022 / Twitter](https://twitter.com/RamaswmySridhar/status/1613271413020037120): categories for analyzing tools of Generative AI
 
@@ -59,7 +59,7 @@
 ### Templates / Vue 3
 
 *   [vite-vue-h5-app (⭐2)](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
-*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia,  APIs\&Mock, ESLint, Prettier, auto-importing.
+*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -117,7 +117,7 @@
 
 ## [11. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle)   (2019-2021)   *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)*   \[4.2] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle)   (2019-2021)   *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)*   \[4.2] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) \[4.1]
 *   [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) \[4.3]

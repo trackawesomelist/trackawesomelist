@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,15 +24,15 @@
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Backups
+### Software / Backups
 
 *   [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 
-### Identity Management / Tools and web interfaces
+### Software / Identity Management - Tools and web interfaces
 
-*   [easy-rsa (⭐3.3k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
+*   [easy-rsa (⭐3.4k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 
-### Repositories / Debian-based distributions
+### Repositories / Web
 
 *   [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
 
@@ -55,7 +55,7 @@
 *   [Advanced Cell Classifier](https://www.cellclassifier.org/) - A software package for exploration, annotation and classification of cells within large datasets using machine learning.
 *   [CellProfiler](http://cellprofiler.org/) - CellProfiler is a free open-source software for measuring and analyzing cell images.
 *   [CellProfiler Analyst](http://cellprofiler.org/cp-analyst/) - Interactive data exploration, analysis, and classification of large biological image sets.
-*   [EBImage (⭐61)](https://github.com/aoles/EBImage) - Image processing toolbox for R.
+*   [EBImage (⭐62)](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 *   [HTSvis](http://htsvis.dkfz.de/HTSvis/) - A web app for exploratory data analysis and visualization of arrayed high-throughput screens.
 
 ### Publications / Reviews
@@ -127,7 +127,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐514)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐520)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

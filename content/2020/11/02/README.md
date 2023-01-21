@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Form Components / Date / Time picker
 
-*   [date-range-picker (⭐97)](https://github.com/almogtavor/date-range-picker) - [demo](https://almogtavor.github.io/date-range-picker/) - A calendar component that supports date, range & ranges picks.
+*   [date-range-picker (⭐98)](https://github.com/almogtavor/date-range-picker) - [demo](https://almogtavor.github.io/date-range-picker/) - A calendar component that supports date, range & ranges picks.
 
 ## [2. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Resources / Presets
 
-*   [Laravel front-end preset (⭐139)](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
+*   [Laravel front-end preset (⭐140)](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 
 ## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -68,7 +68,7 @@
 *   [gatling-mqtt (⭐38)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
 *   [gatling-kafka (⭐68)](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
 *   [gatling-sql (⭐7)](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
-*   [gatling-tcp-extensions (⭐22)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
+*   [gatling-tcp-extensions (⭐23)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 *   [gatling-thrift (⭐18)](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
@@ -384,7 +384,7 @@
 
 ### Blockchain
 
-*   [Axentro (⭐193)](https://github.com/Axentro/Axentro) - A custom blockchain platform
+*   [Axentro (⭐194)](https://github.com/Axentro/Axentro) - A custom blockchain platform
 
 ### Validation
 
@@ -392,7 +392,7 @@
 
 ### Official Documentation Translations
 
-*   [Invidious (⭐8.8k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [Invidious (⭐9.2k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

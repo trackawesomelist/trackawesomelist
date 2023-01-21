@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Dependency Injection
 
-*   [Dip (⭐946)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+*   [Dip (⭐949)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -88,7 +88,7 @@ Webpage: <https://www.bop.pt>
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [gifgen (⭐492)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+*   [gifgen (⭐496)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 
 ---
 

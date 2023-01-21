@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Talks
 
-*   [Phanbook (⭐301)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+*   [Phanbook (⭐302)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 
 ### Conferences / Communities
 
@@ -62,21 +62,21 @@
 
 ### Utility / Collection View Layout
 
-*   [SwiftRandom (⭐558)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
+*   [SwiftRandom (⭐560)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
 *   [RandomKit (⭐1.5k)](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift.
-*   [SwiftParsec (⭐217)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
+*   [SwiftParsec (⭐219)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
 *   [Datez (⭐263)](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`.
-*   [BFKit-Swift (⭐989)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
-*   [DeviceGuru (⭐431)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
+*   [BFKit-Swift (⭐992)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
+*   [DeviceGuru (⭐442)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
 *   [RateLimit (⭐921)](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
-*   [AssistantKit (⭐581)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
+*   [AssistantKit (⭐582)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
 *   [SwiftLinkPreview (⭐1.3k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 *   [BundleInfos (⭐1)](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
-*   [ReadabilityKit (⭐789)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
+*   [ReadabilityKit (⭐790)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
 *   [SwiftTweaks (⭐1.4k)](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
 *   [SwiftSortUtils (⭐60)](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
-*   [Retry (⭐499)](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
-*   [ObjectiveKit (⭐851)](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
+*   [Retry (⭐500)](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
+*   [ObjectiveKit (⭐850)](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
 *   [MoyaSugar (⭐184)](https://github.com/devxoul/MoyaSugar) -  Syntactic sugar for Moya.
 *   [SwifterSwift (⭐12k)](https://github.com/SwifterSwift/SwifterSwift) -  A handy collection of more than 400 native Swift 4 extensions to boost your productivity.
 *   [OpenSourceController (⭐51)](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the libraries licences used in your application.
@@ -87,11 +87,11 @@
 
 *   [CleanClosureXcode (⭐188)](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
 *   [SwiftInitializerGenerator (⭐718)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
-*   [XcodeEquatableGenerator (⭐190)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
-*   [Import (⭐838)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
-*   [Mark (⭐158)](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
+*   [XcodeEquatableGenerator (⭐191)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
+*   [Import (⭐839)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
+*   [Mark (⭐160)](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
 *   [XShared (⭐75)](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
-*   [DocumenterXcode (⭐32)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
+*   [DocumenterXcode (⭐34)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
 *   [XVim2 (⭐2.3k)](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 
 ## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
@@ -112,7 +112,7 @@
 
 ### Menu / Barcode
 
-*   [PopMenu (⭐1.4k)](https://github.com/CaliCastle/PopMenu) - 😎 A cool and customizable popup style action sheet for iOS.
+*   [PopMenu (⭐1.5k)](https://github.com/CaliCastle/PopMenu) - 😎 A cool and customizable popup style action sheet for iOS.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

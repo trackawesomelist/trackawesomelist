@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,16 +22,16 @@
     *   [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
     *   [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) - The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
     *   [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
-    *   [UNT Web Archiving Course 2022 (⭐12)](https://github.com/vphill/web-archiving-course)
+    *   [UNT Web Archiving Course 2022 (⭐14)](https://github.com/vphill/web-archiving-course)
     *   [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
 
 ### Tools & Software / WARC I/O Libraries
 
-*   [Sparkling (⭐3)](https://github.com/internetarchive/Sparkling) - Internet Archive's Sparkling Data Processing Library. *(Stable)*
+*   [Sparkling (⭐4)](https://github.com/internetarchive/Sparkling) - Internet Archive's Sparkling Data Processing Library. *(Stable)*
 
 ### Tools & Software / Analysis
 
-*   [Archives Research Compute Hub (⭐4)](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections. *(Stable)*
+*   [Archives Research Compute Hub (⭐5)](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections. *(Stable)*
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -47,13 +47,13 @@
 
 ### Tools / Vendor supported providers
 
-*   [terramate (⭐529)](https://github.com/mineiros-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
+*   [terramate (⭐578)](https://github.com/mineiros-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Tools
 
-*   [SonarSource/sonarlint-intellij (⭐509)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
+*   [SonarSource/sonarlint-intellij (⭐511)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Machine Learning
 
-*   [ONNX runtime (⭐7.9k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
+*   [ONNX runtime (⭐8k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

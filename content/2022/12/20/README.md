@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,11 +26,11 @@
 
 ### Templates / Solid
 
-*   [vitesse-solid (⭐5)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+*   [vitesse-solid (⭐13)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-solid-markdown (⭐2)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
+*   [vite-plugin-solid-markdown (⭐4)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -38,20 +38,20 @@
 
 ### React / Helpers
 
-*   [vite-plugin-react-click-to-component (⭐3)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+*   [vite-plugin-react-click-to-component (⭐4)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐42)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐109)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [aws (⭐0)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
-*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐11)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
+*   [aws (⭐0)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐16)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

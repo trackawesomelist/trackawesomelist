@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-webpack-buefy (⭐25)](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
+*   [vue-webpack-buefy (⭐26)](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 
 ## [3. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Packages / HTTP
 
-*   [cacheable-request (⭐258)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+*   [cacheable-request (⭐259)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 ## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Open Source / Other
 
-*   [Buttercup Desktop (⭐3.9k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
+*   [Buttercup Desktop (⭐4k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -88,8 +88,8 @@
 
 *   [CppVerbalExpressions (⭐362)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
-*   [RE2 (⭐7.4k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-*   [SLRE (⭐503)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
+*   [RE2 (⭐7.5k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
+*   [SLRE (⭐505)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

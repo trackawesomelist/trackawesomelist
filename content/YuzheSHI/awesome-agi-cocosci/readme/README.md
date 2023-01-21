@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 112 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 112 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / Overview ]
 
@@ -1343,7 +1343,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 * [Memory](https://plato.stanford.edu/entries/memory/) - ***Plato Stanford***.-->
 
-*   [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM.
+<!-- * [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM. -->
 
 *   [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763\&hl=en\&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
 

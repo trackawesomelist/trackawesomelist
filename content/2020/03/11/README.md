@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Social
 
-*   :strawberry: [Ratings plugin (⭐8)](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
+*   :strawberry: [Ratings plugin (⭐9)](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 
 ## [2. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Automation / Frameworks
 
-*   [Performance testing framework (⭐343)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
+*   [Performance testing framework (⭐347)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 
 ## [4. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [StringSifter (⭐589)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+*   [StringSifter (⭐594)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Remote Work / Technical Debt
 
-*   [Awesome Remote Job (⭐23k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+*   [Awesome Remote Job (⭐24k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ### Agile / Tickets
 
@@ -165,7 +165,7 @@
 
 ### Business Intelligence / Tools
 
-*   [Metabase (⭐30k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
+*   [Metabase (⭐31k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
 
 ### Competitive Analysis / Cloud providers
 

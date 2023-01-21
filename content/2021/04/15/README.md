@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -95,17 +95,17 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-it-bigger (⭐181)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
+*   [vue-it-bigger (⭐182)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [NDScala (⭐41)](https://github.com/SciScala/NDScala) - N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, tensor/axis labels & numeric data types
+*   [NDScala (⭐42)](https://github.com/SciScala/NDScala) - N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, tensor/axis labels & numeric data types
 
 ### Scala / General-Purpose Machine Learning
 
-*   [ONNX-Scala (⭐108)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
+*   [ONNX-Scala (⭐111)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
 
 ## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

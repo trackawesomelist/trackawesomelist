@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -144,11 +144,11 @@
 
 ### Images / Barcode
 
-*   [ImageScout (⭐957)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐970)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐278)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐279)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
@@ -170,7 +170,7 @@
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐2.8k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐2.9k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
@@ -180,8 +180,8 @@
 
 ### Related lists / Miscellaneous
 
-*   [awesome-npm (⭐4.1k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
-*   [awesome-cross-platform-nodejs (⭐1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
+*   [awesome-npm (⭐4.2k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+*   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [11. Amas](/content/sindresorhus/amas/README.md)
 

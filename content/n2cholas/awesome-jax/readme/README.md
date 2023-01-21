@@ -2,7 +2,7 @@
 
 JAX - A curated list of resources https://github.com/google/jax
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/n2cholas/awesome-jax/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax) · ⭐ 838 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/n2cholas/awesome-jax/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax) · ⭐ 838 · 🏷️ Computer Science
 
 [ [Daily](/content/n2cholas/awesome-jax/README.md) / [Weekly](/content/n2cholas/awesome-jax/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Libraries
 
-*   [NetKet (⭐397)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
+*   [NetKet (⭐416)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [StoryTeller Engine (⭐13)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
+*   [StoryTeller Engine (⭐15)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
 ## [3. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Java Libraries
 
-*   [Bitcoin Spring Boot Starter (⭐33)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+*   [Bitcoin Spring Boot Starter (⭐37)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
 ## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Game Engine
 
-*   [o3de (⭐5.7k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐5.8k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

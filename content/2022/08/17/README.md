@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Libraries / Data structures
 
-*   [becheran/grid (⭐43)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] —  Provide a two dimensional data structure for rust that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
+*   [becheran/grid (⭐46)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] —  Provide a two dimensional data structure for rust that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -54,7 +54,7 @@
 
 ### UI / Barcode
 
-*   [Popovers (⭐876)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
+*   [Popovers (⭐974)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code (⭐9.1k)](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
+*   [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code (⭐9.3k)](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -97,15 +97,15 @@
 
 ### Software / Communication - IRC
 
-*   [Glowing Bear (⭐894)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
+*   [Glowing Bear (⭐896)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
 
 ### Software / Communication - SIP
 
-*   [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code (⭐987)](https://github.com/fonoster/routr)) `MIT` `Docker`
+*   [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code (⭐1k)](https://github.com/fonoster/routr)) `MIT` `Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐405)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
+*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐410)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
 *   [Isso](https://posativ.org/isso/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.7k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 
 ## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)

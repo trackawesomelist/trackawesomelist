@@ -1,22 +1,16 @@
 # Awesome List Updates on Oct 26, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Django
-
-*   [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors
-
-## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [1. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [undollar (⭐111)](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
+*   [undollar (⭐121)](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 
 ### Downloading and Serving / Directory Navigation
 
@@ -24,9 +18,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [shellspec (⭐772)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
+*   [shellspec (⭐807)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -42,19 +36,19 @@
 
 
 
-## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Overlay
 
-*   [reoverlay (⭐121)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
+*   [reoverlay (⭐123)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
-## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
 *   [Awesome FastAPI Projects (⭐674)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 
-## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / CI/CD
 
@@ -108,19 +102,19 @@
 
 *   [Ember.js tutorial for beginners in 2020](https://www.youtube.com/watch?v=eQUvN9Ujs1s\&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo) - A 10 part series by Shawn Chen
 
-## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [ASCII-Hangman (⭐6)](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 
-## [8. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [CycloneDX-PHP-Composer (⭐21)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -128,7 +122,7 @@
 
 ### Results Processing / Results Analysis
 
-*   [JMeter SLA Report (⭐37)](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
+*   [JMeter SLA Report (⭐38)](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
 
 ### Performance Testing / Streaming Protocols
 
@@ -138,39 +132,35 @@
 
 *   [Flood.io Blog](https://www.flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
 
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 
 *   [Vulkan Guide](https://vkguide.dev). \[MIT]
 
-## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Proxies / Miscellaneous
 
 *   [exporter\_proxy (⭐4)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
 
-## [12. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [11. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Demos / Program generation and analysis
 
 *   [Extracting information from documents, powered by GPT-3](https://twitter.com/theaievangelist/status/1300862719969681411)
 
-## [13. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [12. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Programs
 
 *   [fractals (⭐7)](https://github.com/Rusty-Bike/fractals) - A self-similar fractal generator with basic animation support.
 
-## [14. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
 *   👍 [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL](http://opensource.franz.com/preamble.html).
-
-### Mobile
-
-*   [hu.dwim.walker](https://quickref.common-lisp.net/hu.dwim.walker.html) - a code walker and unwalker (aka AST parser and unparser). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
 ### Lambda shorthands
 
@@ -178,11 +168,11 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   👍 [Dexador (⭐289)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Dexador (⭐299)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
 
 ### Units / Third-party APIs
 
-*   [physical-quantities (⭐30)](https://github.com/mrossini-ethz/physical-quantities) - a library that provides a numeric type with optional unit and/or uncertainty for computations with automatic error propagation. GPL2
+*   [physical-quantities (⭐31)](https://github.com/mrossini-ethz/physical-quantities) - a library that provides a numeric type with optional unit and/or uncertainty for computations with automatic error propagation. GPL2
 
 ### Job processing / Third-party APIs
 
@@ -200,7 +190,7 @@
 
 *   [cl-pslib](https://notabug.org/cage/cl-pslib) - a (thin) wrapper around the [pslib](http://pslib.sourceforge.net/) library for generating PostScript files. Also [cl-pslib-barcode](https://notabug.org/cage/cl-pslib-barcode). [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Graphical User Interface / Other / unknown licence
 
@@ -210,13 +200,13 @@
 
 *   [radalib (⭐9)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 
-## [16. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [15. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 
 *   [How To Keep Your Mental Health In Check When You Work From Home](https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home) - By WeWorkRemotely.
 
-## [17. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -260,7 +250,7 @@
 
 
 
-## [18. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [17. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 

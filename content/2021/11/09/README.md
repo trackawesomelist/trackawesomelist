@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -97,15 +97,15 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Materio Free Vuetify VueJS Laravel Admin Template (⭐114)](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
+*   [Materio Free Vuetify VueJS Laravel Admin Template (⭐115)](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
 
 ### Components & Libraries / UI Components
 
-*   [jz-gantt (⭐85)](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
+*   [jz-gantt (⭐89)](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 
 ### Components & Libraries / Utilities
 
-*   [harlem (⭐441)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
+*   [harlem (⭐470)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

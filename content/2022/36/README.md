@@ -2,7 +2,7 @@
 
 51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,30 +16,30 @@
 
 ### Plugins
 
-*   💼 [Full Bleed Background and Borders (⭐5)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
+*   💼 [Full Bleed Background and Borders (⭐8)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Premium / Game Engine resources
 
-*   [RustDesk (⭐30k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
-*   [AppFlowy (⭐29k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
+*   [RustDesk (⭐34k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
+*   [AppFlowy (⭐30k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
 
 ### Utilities / Game Engine resources
 
-*   [Melos (⭐658)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
+*   [Melos (⭐715)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / CLI tools
 
-*   [dcp (⭐42)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
+*   [dcp (⭐43)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
 
 ## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [surfer (⭐44)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
+*   [surfer (⭐43)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
 
 ## [6. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -66,13 +66,13 @@
 
 ### Extensions
 
-*   [Sanitize HTML (⭐2)](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
+*   [Sanitize HTML (⭐4)](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
 
 ## [9. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Zig development tools / HTTP
 
-*   [korandoru/setup-zig (⭐2)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
+*   [korandoru/setup-zig (⭐4)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Compression
 
-*   [bzip3 (⭐459)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
+*   [bzip3 (⭐465)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
 ## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -142,29 +142,29 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nixpkgs-hammering (⭐152)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
+*   [nixpkgs-hammering (⭐156)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 
 ## [16. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Streamiz (⭐329)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
+*   [Streamiz (⭐337)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
 
 ## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [owl (⭐201)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
+*   [owl (⭐202)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
 
 ### OTP
 
-*   [matcha (⭐42)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
+*   [matcha (⭐54)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
 
 ## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Routers / Checkbox
 
-*   [@danielsharkov/svelte-router (⭐8)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
+*   [@danielsharkov/svelte-router (⭐9)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
 
 ## [19. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
@@ -176,8 +176,7 @@
 
 ### Articles / Other external resources
 
-*   [Implement SSR with React + Rails (⭐73)](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
-*
+*   [Implement SSR with React + Rails (⭐78)](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
 
 ### Open Source Rails Apps / Other external resources
 
@@ -186,8 +185,7 @@
 ### Gems / Other external resources
 
 *   [react\_on\_rails (⭐4.9k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
-*   [cypress\_on\_rails (⭐360)](https://github.com/shakacode/cypress-on-rails) - A gem to use cypress.io with your rails application. [:red\_circle:](https://rubygems.org/gems/cypress_on_rails)
-*   [shakapacker (⭐255)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
+*   [shakapacker (⭐267)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
 ## [21. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -199,33 +197,39 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [JNGL (⭐89)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
+*   :tada: [JNGL (⭐96)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 *   :free: [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 *   :free: [SpriteKit](https://developer.apple.com/documentation/spritekit) - Apple proprietary 2D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 
-## [23. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [23. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Quantum Computing
+
+*   [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
+
+## [24. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/) - By Joaquín Peña Fernández. August 29, 2022.
 
-## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [25. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Processing
 
-*   [Real-ESRGAN (⭐16k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
+*   [Real-ESRGAN (⭐17k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
 
 ### Uncategorized
 
-*   [Hime Display (⭐79)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
+*   [Hime Display (⭐83)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Files and directories / Third-party APIs
 
-*   [file-notify (⭐19)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [file-notify (⭐20)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [26. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [27. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Data Validation and Serialization / OAuth
 
@@ -239,7 +243,7 @@
 
 *   [FlaskCon](https://twitter.com/flaskcon) - Community driven Flask event intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask.
 
-## [27. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Best Practices / Other Tools
 
@@ -249,16 +253,16 @@
 
 *   [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Zusam (⭐103)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
+*   [Zusam (⭐107)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
 *   [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code (⭐166)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
-*   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐139)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
+*   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐142)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
 
 ### Software / File Transfer & Synchronization
 
@@ -275,7 +279,7 @@
 
 ### Software / Games
 
-*   [SourceBans++](https://sbpp.dev/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐270)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
+*   [SourceBans++](https://sbpp.dev/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐273)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 
 ### Software / Groupware
 
@@ -283,11 +287,11 @@
 
 ### Software / Learning and Courses
 
-*   [Canvas LMS](https://www.instructure.com/canvas/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code (⭐4.6k)](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
+*   [Canvas LMS](https://www.instructure.com/canvas/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code (⭐4.7k)](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
 
 ### Software / Self-hosting Solutions
 
-*   [Tipi (⭐4.8k)](https://github.com/meienberger/runtipi) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.com)) `GPL-3.0` `Shell`
+*   [Tipi (⭐5.2k)](https://github.com/meienberger/runtipi) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.com)) `GPL-3.0` `Shell`
 
 ### Software / URL Shorteners
 
@@ -297,53 +301,56 @@
 
 *   [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPL-2.1` `PHP`
 
-## [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/\~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 *   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://pcl.sitehost.iu.edu/rgoldsto/pdfs/simdiff.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)].
 
-## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Useful Apps / iOS
 
 *   **RaspController** - Allows you to easily manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal and so much more. [iOS](https://apps.apple.com/app/raspcontroller/id1584315865)
 
-## [31. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [32. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
 *   🔧 [FireSageJS (⭐0)](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
 
-## [32. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [33. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
 *   [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
 
-## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [34. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Image Synthesis / Promptism
 
-*   \[🔥] [altryne/awesome-ai-art-image-synthesis (⭐973)](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 *   \[🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
 
 ### Image Synthesis / DALL-E 2
 
 *   [DALL-E 2’s Failures Are the Most Interesting Thing About It - IEEE Spectrum](https://spectrum.ieee.org/openai-dall-e-2): paper by Eliza Strickland
 
-### Artists and Artworks / OpenAI GPT-3
+### People and works / Artists and Artworks
 
 *   [Computer Vision Art Gallery : CVPR 2021](https://computervisionart.com/): artworks dealing with computer vision technologies
 
-## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+### Related Awesome Lists / Galleries
+
+*   \[🔥] [altryne/awesome-ai-art-image-synthesis (⭐1k)](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+
+## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-bullet-msg (⭐3)](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CI and CD
 
@@ -357,31 +364,31 @@
 
 *   [okso.app](https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).
 
-## [36. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [37. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 
-## [37. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [38. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Standalone Tools / Misc
 
 *   [steam-desktop-authenticator-multiplatform (⭐5)](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-share-modal (⭐6)](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
+*   [vue-share-modal (⭐7)](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
 
 ### Components & Libraries / Runtime
 
-*   [temir (⭐921)](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
+*   [temir (⭐944)](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 
-## [39. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [40. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### Security Audits / Wallets
+### Security Auditing Services / Wallets
 
 *   [Certik](https://www.certik.com/ecosystems/algorand) - CertiK provides the gold standard in web3 security tools, from its industry-leading smart contract audits, to its blockchain analytics tools such as Skynet and SkyTrace, making it the ideal partner in ensuring the end-to-end security of Algorand projects.
 *   [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - The team behind AlgoBuilder offering to consult your project, have smart contracts done by professionals, write automated tests or audit your existing project.
@@ -390,23 +397,17 @@
 *   [Immunebytes](https://www.immunebytes.com) - Secure your Algorand Smart Contract with credible security auditing solutions.
 *   [KudelskiSecurity](https://kudelskisecurity.com) - Move your blockchain project securely and successfully into production or onto mainnet. Company can help you assess, design, customize, deploy and manage blockchain and digital ledger technology systems so you can confidently leverage security as a powerful differentiator in this dynamic market.
 
-## [40. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
-
-### Communications / Ethernet
-
-*   [Official wiznet5k (⭐0)](https://github.com/andrewleech/wiznet_ioLibrary_Driver) - Driver for the WIZnet5x00 series of Ethernet controllers.
-
 ## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Formatting / Diagnostics
 
-*   [MunifTanjim/prettier.nvim (⭐101)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration.
+*   [MunifTanjim/prettier.nvim (⭐120)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration.
 
 ## [42. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
-*   [JAXFit (⭐11)](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
+*   [JAXFit (⭐12)](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 
 ## [43. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -416,7 +417,7 @@
 
 ### Database Schema Migration
 
-*   [bytebase (⭐4.5k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐4.7k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [44. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
@@ -446,29 +447,29 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [archlinux (⭐3)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
-*   [command-not-found (freed-wu) (⭐2)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the command-not-found package for zsh to provide suggested packages to be installed if a command cannot be found.
-*   [command-not-found (tarrasch) (⭐20)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
+*   [archlinux (⭐3)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [command-not-found (freed-wu) (⭐3)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the command-not-found package for zsh to provide suggested packages to be installed if a command cannot be found.
+*   [command-not-found (tarrasch) (⭐20)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [complete-mac (⭐0)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
-*   [pagerduty (⭐0)](https://github.com/jedelson-pagerduty/pagerduty-omz-plugin) - Adds completions for the pagerduty [cli (⭐57)](https://github.com/martindstone/pagerduty-cli)
+*   [complete-mac (⭐1)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
+*   [pagerduty (⭐0)](https://github.com/jedelson-pagerduty/pagerduty-omz-plugin) - Adds completions for the pagerduty [cli (⭐59)](https://github.com/martindstone/pagerduty-cli)
 *   [prettier (⭐0)](https://github.com/sambergo/zsh-prettier-completion/) - Tab completion for [prettier](https://prettier.io/.)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [thyme (chenhao-ye) (⭐18)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.7k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
+*   [thyme (chenhao-ye) (⭐18)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.7k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 
 ## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### TensorFlow / General-Purpose Machine Learning
 
-*   [Awesome Keras (⭐5)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
+*   [Awesome Keras (⭐8)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
 
 ### Tools / Misc
 
-*   [MLEM (⭐540)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
+*   [MLEM (⭐573)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 
 ## [48. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -489,7 +490,7 @@
 
 ### Videos / Others
 
-*   [.NET MAUI & Blazor - Sharing code between app and web](https://www.youtube.com/watch?v=A_C8X-b2qXE) - September 2, 2022 - In this video, Daniel will show you how to create a project for .NET MAUI and Blazor and how to structure the code so it can be shared between the app and the web. ![GitHub stars](https://img.shields.io/github/stars/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=86400) [Source code (⭐0)](https://github.com/dhindrik/MauiBlazorHybridDemo).
+*   [.NET MAUI & Blazor - Sharing code between app and web](https://www.youtube.com/watch?v=A_C8X-b2qXE) - September 2, 2022 - In this video, Daniel will show you how to create a project for .NET MAUI and Blazor and how to structure the code so it can be shared between the app and the web. ![GitHub stars](https://img.shields.io/github/stars/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=86400) [Source code (⭐2)](https://github.com/dhindrik/MauiBlazorHybridDemo).
 
 ### Articles / Others
 

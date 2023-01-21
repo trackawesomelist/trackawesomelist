@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Application Templates
 
-*   [Side-Waffle (⭐653)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
+*   [Side-Waffle (⭐654)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 *   [Template10 (⭐1.4k)](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 
 ## [3. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)

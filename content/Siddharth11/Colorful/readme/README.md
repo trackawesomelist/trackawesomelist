@@ -2,7 +2,7 @@
 
 A curated list of awesome resources to choose your next color scheme
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 857 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 857 · 🏷️ Miscellaneous
 
 [ [Daily](/content/Siddharth11/Colorful/README.md) / [Weekly](/content/Siddharth11/Colorful/week/README.md) / Overview ]
 

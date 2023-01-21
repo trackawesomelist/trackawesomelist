@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,9 +16,9 @@
 
 ### Scripting languages and interpreters for DOS
 
-*   [DOjS (⭐391)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
+*   [DOjS (⭐492)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
 *   [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
-*   [Micropython for FreeDOS (⭐17)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐15k)](https://github.com/micropython/micropython).
+*   [Micropython for FreeDOS (⭐17)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐16k)](https://github.com/micropython/micropython).
 *   [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 *   [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
 
@@ -52,10 +52,6 @@
 
 *   [Web Components punch list](https://www.tpgi.com/web-components-punch-list/)
 
-### Codelabs
-
-*   [Open Web Components: Codelabs](https://open-wc.org/guides/developing-components/codelabs/)
-
 ### Examples
 
 *   [open-wc code examples](https://open-wc.org/guides/developing-components/code-examples/) - Collection of best practices and design patterns for developing web components.
@@ -76,17 +72,17 @@
 
 ### Packages / RMW (ROS middleware)
 
-*   [rmw\_iceoryx (⭐92)](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
+*   [rmw\_iceoryx (⭐98)](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Qui-max (⭐207)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
+*   [Qui-max (⭐217)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 
 ### Components & Libraries / Utilities
 
-*   [v-google-translate (⭐132)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
+*   [v-google-translate (⭐194)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 
 ---
 

@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,12 +43,12 @@
 
 ### System Utilities / Directory Navigation
 
-*   [catcli (⭐158)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
-*   [logdissect (⭐122)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [catcli (⭐160)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
+*   [logdissect (⭐124)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ### Downloading and Serving / Directory Navigation
 
-*   [HTTPLab (⭐3.8k)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
+*   [HTTPLab (⭐3.9k)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
 
 ## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

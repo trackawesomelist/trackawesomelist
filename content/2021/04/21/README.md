@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Tools / Reporting
 
-*   [gatling2allure (⭐3)](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
+*   [gatling2allure (⭐4)](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
 
 ### Related / Awesome Lists
 
@@ -84,13 +84,13 @@
 
 ### Package suites
 
-*   **[(Poly)merase (⭐381)](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
+*   **[(Poly)merase (⭐405)](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 
 ## [11. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Motion / Stepper
 
-*   [ticlib (⭐7)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
+*   [ticlib (⭐9)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
 
 ## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

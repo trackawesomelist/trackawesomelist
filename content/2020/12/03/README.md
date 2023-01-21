@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -65,17 +65,17 @@
 ### Demonstrations
 
 *   [Flutter Catalog (⭐1.8k)](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
-*   [Generative Art (⭐439)](https://github.com/Solido/flutter-d-art) <!--stargazers:Solido/flutter-d-art--> - Generative Art by [Robert Felker](https://github.com/Solido)
+*   [Generative Art (⭐446)](https://github.com/Solido/flutter-d-art) <!--stargazers:Solido/flutter-d-art--> - Generative Art by [Robert Felker](https://github.com/Solido)
 
 ### State management / Standard
 
-*   [RiverPod (⭐3.6k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
-*   [GetX (⭐7.6k)](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
-*   [Binder (⭐171)](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
+*   [RiverPod (⭐3.9k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
+*   [GetX (⭐7.9k)](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
+*   [Binder (⭐172)](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Funvas (⭐457)](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
+*   [Funvas (⭐468)](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
 
 ### Guide & Interviews / Game Engine resources
 
@@ -104,7 +104,7 @@
 
 ### Component bundles
 
-*   [PanoramicData Blazor UI Components (⭐47)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
+*   [PanoramicData Blazor UI Components (⭐48)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
 ## [10. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

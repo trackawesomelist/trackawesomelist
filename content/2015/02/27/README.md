@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 27, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -94,17 +94,11 @@
 
 
 
-## [2. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Los Angeles](http://www.meetup.com/papers-we-love-la)
-
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
-*   [Mono-Addins (⭐156)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
+*   [Mono-Addins (⭐155)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
 
 ### Compression
 
@@ -121,32 +115,32 @@
 ### GUI
 
 *   [XWT (⭐1.3k)](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
-*   [Gtk# (⭐407)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
+*   [Gtk# (⭐412)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 
 ### Interoperability
 
 *   [CppSharp (⭐2.5k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 *   [Sharpen (⭐365)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
-*   [CXXI (⭐196)](https://github.com/mono/cxxi) - C++ interop framework
+*   [CXXI (⭐197)](https://github.com/mono/cxxi) - C++ interop framework
 
 ### Media
 
 *   [TagLib# (⭐1.1k)](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
     metadata in media files, including video, audio, and photo formats
 
-## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [3. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Fun stuff / Monospace Fonts
 
 *   [Input](http://input.fontbureau.com) from Font Bureau
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Debugging
 
-*   [quaff (⭐79)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
+*   [quaff (⭐80)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 
-## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Feature Detection and Extraction
 

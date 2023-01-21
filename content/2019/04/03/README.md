@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -62,7 +62,7 @@
 
 ### Forms
 
-*   [django-bootstrap4 (⭐979)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
+*   [django-bootstrap4 (⭐980)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -92,16 +92,16 @@
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
-*   [SQLmate (⭐359)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
+*   [SQLmate (⭐363)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
 
 ### Online Resources / Other Lists Online
 
-*   [Serverless Security (⭐484)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+*   [Serverless Security (⭐494)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [Commando VM (⭐5.6k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
-*   [Covenant (⭐3.3k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
+*   [Commando VM (⭐5.7k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
+*   [Covenant (⭐3.4k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
 
 ---
 

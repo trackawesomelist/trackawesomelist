@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,7 +27,7 @@
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Remote Management / Metric & Metric Collection
+### Software / Remote Management
 
 *   [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 
@@ -59,7 +59,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Metrics-Net (⭐629)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
+*   [Metrics-Net (⭐628)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 
 ## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

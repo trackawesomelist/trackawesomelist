@@ -2,7 +2,7 @@
 
 A curated list of the best resources in the Cassandra community.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Anant/awesome-cassandra/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Anant/awesome-cassandra](https://github.com/Anant/awesome-cassandra) · ⭐ 201 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Anant/awesome-cassandra/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Anant/awesome-cassandra](https://github.com/Anant/awesome-cassandra) · ⭐ 201 · 🏷️ Databases
 
 [ [Daily](/content/Anant/awesome-cassandra/README.md) / [Weekly](/content/Anant/awesome-cassandra/week/README.md) / Overview ]
 

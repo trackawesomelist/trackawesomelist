@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Source Generator
 
-*   [Supernova.Enum.Generators (⭐63)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
+*   [Supernova.Enum.Generators (⭐74)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -24,11 +24,11 @@
 ### Libraries/Frameworks / Tools
 
 *   [L-Briand/TT (⭐1)](https://github.com/L-Briand/TT) - A powerful key:value template processor.
-*   [Kotlin/kotlin-interactive-shell (⭐523)](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
+*   [Kotlin/kotlin-interactive-shell (⭐530)](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
 
 ### Libraries/Frameworks / Misc
 
-*   [kotlin-telegram-bot/kotlin-telegram-bot (⭐607)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
+*   [kotlin-telegram-bot/kotlin-telegram-bot (⭐616)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Tools / XML
 
-*   [nessie (⭐504)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+*   [nessie (⭐512)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
 ## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -58,7 +58,7 @@ Language: English
 
 ### Beginner
 
-*   [Roadmap to Flutter Development (⭐4.1k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
+*   [Roadmap to Flutter Development (⭐4.3k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

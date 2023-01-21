@@ -2,7 +2,7 @@
 
 68 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,7 +51,7 @@
 *   [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 *   [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 *   [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
-*   [Docker Kubernetes Lab Handbook (⭐194)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
+*   [Docker Kubernetes Lab Handbook (⭐197)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 *   [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 *   [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 *   [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
@@ -65,7 +65,7 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [huggingface/tokenizers (⭐6.1k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
+*   [huggingface/tokenizers (⭐6.3k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 
 ### Registries / Web programming
 
@@ -191,7 +191,7 @@
 ### Algorithms and Design Patterns
 
 *   Design Patterns
-    *   [PyPattyrn (⭐1.7k)](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
+    *   [PyPattyrn (⭐1.8k)](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
     *   [python-patterns (⭐36k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
     *   [transitions (⭐4.7k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
@@ -318,15 +318,15 @@
 
 ### Tools & Software / Acquisition
 
-*   [Heritrix (⭐2.3k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
-    *   [Heritrix Q\&A (⭐2.3k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
+*   [Heritrix (⭐2.4k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
+    *   [Heritrix Q\&A (⭐2.4k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
     *   [Heritrix Walkthrough (⭐8)](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
 *   [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
 
 ### Community Resources / Other Awesome Lists
 
-*   [Web Archiving Community (⭐14k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
-*   [Awesome Memento (⭐65)](https://github.com/machawk1/awesome-memento)
+*   [Web Archiving Community (⭐15k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
+*   [Awesome Memento (⭐67)](https://github.com/machawk1/awesome-memento)
 *   [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 *   [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
 
@@ -384,7 +384,7 @@
 
 ### Web Servers
 
-*   [Falcon (⭐2.2k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
+*   [Falcon (⭐2.3k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
 ## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -542,7 +542,7 @@
 
 ### Media / Audio
 
-*   [AssetsAudioPlayer (⭐645)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
+*   [AssetsAudioPlayer (⭐651)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
 
 ## [34. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -585,15 +585,15 @@
 
 ### Other Data
 
-*   [CoreXLSX (⭐683)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
+*   [CoreXLSX (⭐685)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
 
 ### Auto Layout / Barcode
 
-*   [EasySwiftLayout (⭐348)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
+*   [EasySwiftLayout (⭐350)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
 
 ### UI / Barcode
 
-*   [UltraDrawerView (⭐204)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
+*   [UltraDrawerView (⭐206)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
 
 ### Payment / Barcode
 
@@ -625,11 +625,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐514)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
+*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐515)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
 
 ### Software / Note-taking & Editors
 
-*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐177)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
+*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐179)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 
 ## [42. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -699,7 +699,7 @@
 
 ### Contents / Entertainment
 
-*   [TV Randshow (⭐102)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
+*   [TV Randshow (⭐113)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
 ## [51. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
@@ -732,30 +732,30 @@
 
 ### Apps
 
-*   [Feednext (⭐241)](https://github.com/feednext/feednext) - An open source social media application.
-*   [CourseLit (⭐305)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [Feednext (⭐242)](https://github.com/feednext/feednext) - An open source social media application.
+*   [CourseLit (⭐315)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 
 ## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
-*   [JavaScript (⭐29k)](https://github.com/sorrycc/awesome-javascript#readme)
+*   [JavaScript (⭐30k)](https://github.com/sorrycc/awesome-javascript#readme)
     *   [Promises (⭐1.5k)](https://github.com/wbinnssmith/awesome-promises#readme)
-    *   [Standard Style (⭐355)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+    *   [Standard Style (⭐359)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐12k)](https://github.com/loverajoel/jstips#readme)
-    *   [Network Layer (⭐521)](https://github.com/Kikobeats/awesome-network-js#readme)
+    *   [Network Layer (⭐525)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.4k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
     *   [Maintenance Modules (⭐345)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-    *   [npm (⭐4.1k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-    *   [AVA (⭐337)](https://github.com/avajs/awesome-ava#readme) - Test runner.
+    *   [npm (⭐4.2k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+    *   [AVA (⭐341)](https://github.com/avajs/awesome-ava#readme) - Test runner.
     *   [ESLint (⭐3.4k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
     *   [Functional Programming (⭐5.7k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐319)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐681)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐106k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    *   [Ponyfills (⭐46)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+    *   [Observables (⭐321)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [npm scripts (⭐688)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [30 Seconds of Code (⭐107k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [Ponyfills (⭐47)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ### Content Management Systems
 
@@ -765,7 +765,7 @@
 
 ### Individual components / Others
 
-*   [GEmojiSharp.Blazor (⭐31)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
+*   [GEmojiSharp.Blazor (⭐35)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
 
 ### Others / Others
 
@@ -787,7 +787,7 @@
 ### Components & Libraries / UI Components
 
 *   [vuesence-cloud-sync-button (⭐8)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
-*   [vue-form-builder (⭐374)](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api, popular ui frameworks such as Element UI, View UI, Ant Design Vue are supported. [Online Demo](https://openfext.github.io/vue-form-builder)
+*   [vue-form-builder (⭐375)](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api, popular ui frameworks such as Element UI, View UI, Ant Design Vue are supported. [Online Demo](https://openfext.github.io/vue-form-builder)
 *   [vue-card-stack (⭐67)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 
 ### Components & Libraries / Utilities
@@ -887,12 +887,12 @@
 ### Component Libraries
 
 *   [Nightingale (⭐95)](https://github.com/ebi-webcomponents/nightingale) - Data visualisation web components for the life sciences.
-*   [TEI Publisher Components (⭐14)](https://github.com/eeditiones/tei-publisher-components) - Collection of web components used by TEI Publisher and apps generated by it.
+*   [TEI Publisher Components (⭐15)](https://github.com/eeditiones/tei-publisher-components) - Collection of web components used by TEI Publisher and apps generated by it.
 
 ### Integrations
 
 *   [ember-custom-elements (⭐15)](https://github.com/Ravenstine/ember-custom-elements) - Render Ember and Glimmer components using custom elements.
-*   [react-shadow (⭐1.1k)](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
+*   [react-shadow (⭐1.2k)](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
 
 ### Angular
 
@@ -924,7 +924,7 @@
 
 ### Libraries
 
-*   [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython) - This filter shows just the MicroPython libraries on PyPi. Note: You cannot pip install micropython libraries. See [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html?highlight=upip) for more information on upip.
+*   [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython) - This filter shows just the MicroPython libraries on PyPi. Note: You cannot `pip install` MicroPython libraries. See the [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.htm) for more information on managing packages with MicroPython.
 *   [GitHub Search](https://github.com/search?q=micropython) - Search GitHub for repositories containing MicroPython.
 *   [GitHub Topic - MicroPython](https://github.com/topics/micropython) - Browse GitHub Topics for projects tagged with MicroPython.
 *   [Libraries.io](https://libraries.io/search?q=micropython) - Libraries.io query for MicroPython.
@@ -946,7 +946,7 @@
 
 ### Third-party APIs
 
-*   [stripe.cr (⭐42)](https://github.com/confact/stripe.cr) - Stripe api wrapper
+*   [stripe.cr (⭐44)](https://github.com/confact/stripe.cr) - Stripe api wrapper
 
 ## [65. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
@@ -1269,7 +1269,7 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Tools / XML
 
-*   [vscode-deno (⭐1.3k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
+*   [vscode-deno (⭐1.4k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
 ### Resources in Other Languages / Indonesian
 
@@ -1279,11 +1279,11 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Concurrency
 
-*   [stdgpu (⭐767)](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. \[Apache2]
+*   [stdgpu (⭐770)](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. \[Apache2]
 
 ### GUI
 
-*   [implot (⭐2.8k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
+*   [implot (⭐2.9k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
 ## [68. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 

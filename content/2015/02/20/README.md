@@ -1,18 +1,12 @@
 # Awesome List Updates on Feb 20, 2015
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Date
-
-*   [SwiftMoment (⭐1.6k)](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
-
-## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [1. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### OpenCV Programming
 
@@ -22,7 +16,7 @@
 
 *   [Machine Learning](http://www.robots.ox.ac.uk/\~az/lectures/ml/index.html) - Andrew Zisserman (University of Oxford)
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Queues and Messaging
 

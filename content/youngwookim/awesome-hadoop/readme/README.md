@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/youngwookim/awesome-hadoop/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) · ⭐ 1K · 🏷️ Big Data
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/youngwookim/awesome-hadoop/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) · ⭐ 1K · 🏷️ Big Data
 
 [ [Daily](/content/youngwookim/awesome-hadoop/README.md) / [Weekly](/content/youngwookim/awesome-hadoop/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Web / Other / unknown licence
 
-*   [yass (⭐17)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
+*   [yass (⭐21)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 
 ## [3. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -42,8 +42,8 @@
 
 *   Code Linters
     *   [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
-        *   [awesome-flake8-extensions (⭐982)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    *   [pylama (⭐957)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
+        *   [awesome-flake8-extensions (⭐997)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+    *   [pylama (⭐968)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
     *   [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
     *   [wemake-python-styleguide (⭐2.1k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 

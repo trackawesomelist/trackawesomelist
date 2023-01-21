@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,11 +24,11 @@
 
 ### Official plugins
 
-*   [Preferences (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
+*   [Preferences (⭐308)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
 
 ### Community plugins
 
-*   [Electron (⭐216)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
+*   [Electron (⭐227)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -38,11 +38,14 @@
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Promptism
 
-*   [yuval-alaluf/stylegan3-editing (⭐530)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
-*   [autonomousvision/projected\_gan (⭐789)](https://github.com/autonomousvision/projected_gan): \[NeurIPS'21] Projected GANs Converge Faster
-*   [apple/ml-no-token-left-behind (⭐127)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
+*   [apple/ml-no-token-left-behind (⭐126)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
+
+### Image Synthesis / Generative Adversarial Networks (GANs)
+
+*   [yuval-alaluf/stylegan3-editing (⭐532)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
+*   [autonomousvision/projected\_gan (⭐798)](https://github.com/autonomousvision/projected_gan): \[NeurIPS'21] Projected GANs Converge Faster
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,11 +65,11 @@
 
 ### Utility / Diagnostics
 
-*   [nguyenvukhang/nvim-toggler (⭐63)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
+*   [nguyenvukhang/nvim-toggler (⭐82)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvim-lua/kickstart.nvim (⭐719)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
+*   [nvim-lua/kickstart.nvim (⭐2.7k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
 ## [7. Awesome Esports](/content/Strift/awesome-esports/README.md)
 

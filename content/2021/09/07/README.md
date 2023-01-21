@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Mathematics
 
-*   [Vim.Math3d (⭐66)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
+*   [Vim.Math3d (⭐69)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Promptism
 
 *   [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/)
 
@@ -34,7 +34,7 @@
 
 ### Software / Blogging Platforms
 
-*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐491)](https://github.com/havenweb/haven)) `MIT` `Ruby`
+*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐501)](https://github.com/havenweb/haven)) `MIT` `Ruby`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -42,7 +42,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Source Code (⭐4.1k)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
+*   [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Source Code (⭐4.2k)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -130,7 +130,7 @@
 
 ### Accounting / Bookkeeping
 
-*   [Go DB Ledger (⭐451)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐457)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 

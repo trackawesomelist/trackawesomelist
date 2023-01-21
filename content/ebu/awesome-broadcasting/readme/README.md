@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome open source resources related to broadcast technologies
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ebu/awesome-broadcasting/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) · ⭐ 1.2K · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ebu/awesome-broadcasting/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) · ⭐ 1.2K · 🏷️ Media
 
 [ [Daily](/content/ebu/awesome-broadcasting/README.md) / [Weekly](/content/ebu/awesome-broadcasting/week/README.md) / Overview ]
 

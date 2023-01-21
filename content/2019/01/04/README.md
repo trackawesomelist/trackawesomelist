@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Boilerplates
 
-*   [Oh My Fullstack (⭐170)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+*   [Oh My Fullstack (⭐168)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

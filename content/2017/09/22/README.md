@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,11 +23,11 @@
 
 ### Images / Barcode
 
-*   [DTPhotoViewerController (⭐276)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
+*   [DTPhotoViewerController (⭐278)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 
 ### Cryptography / Barcode
 
-*   [Siphash (⭐261)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+*   [Siphash (⭐263)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 
 ### Mock / Barcode
 
@@ -100,7 +100,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐856)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐861)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

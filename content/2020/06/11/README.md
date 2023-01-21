@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -15,7 +15,7 @@
     *   [fabric (⭐14k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
     *   [fabtools (⭐1.3k)](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files.
 *   Monitoring
-    *   [psutil (⭐8.9k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
+    *   [psutil (⭐9k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 *   Backup
     *   [BorgBackup](https://www.borgbackup.org/) - A deduplicating archiver with compression and encryption.
 *   Others
@@ -61,7 +61,7 @@
 
 ### Tools
 
-*   [louketo-proxy (FKA Gatekeeper) (⭐944)](https://github.com/louketo/louketo-proxy)
+*   [louketo-proxy (FKA Gatekeeper) (⭐943)](https://github.com/louketo/louketo-proxy)
 
 ## [8. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐683)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐694)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

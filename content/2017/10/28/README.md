@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Misc
 
-*   [aiorun (⭐340)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+*   [aiorun (⭐349)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -43,7 +43,7 @@
 
 ### OS Images
 
-*   [DietPi (⭐3.5k)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
+*   [DietPi (⭐3.6k)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 
 ## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Misc
 
-*   [DeviceId (⭐499)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐515)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Misc
 
-*   [aasm.cr (⭐49)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
+*   [aasm.cr (⭐51)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Command-Line Productivity
 
-*   [k alias (⭐16)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+*   [k alias (⭐17)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

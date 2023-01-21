@@ -2,7 +2,7 @@
 
 A curated list of resources for learning about http://www.keycloak.org
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/thomasdarimont/awesome-keycloak/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) · ⭐ 1.3K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/thomasdarimont/awesome-keycloak/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) · ⭐ 1.3K · 🏷️ Security
 
 [ [Daily](/content/thomasdarimont/awesome-keycloak/README.md) / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / Overview ]
 

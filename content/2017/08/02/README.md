@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 ### Utils / Third Party
 
 *   [d3-loom (⭐91)](https://github.com/nbremer/d3-loom) - Plugin to create a "loom" visualization
-*   [d3-sparql (⭐107)](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
+*   [d3-sparql (⭐109)](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
 
 ## [7. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

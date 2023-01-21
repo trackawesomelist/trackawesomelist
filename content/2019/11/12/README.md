@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Mobile
 
-*   [jonathan (⭐150)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
+*   [jonathan (⭐153)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
 
 ### Community
 
@@ -56,7 +56,7 @@
 
 ### Gaming
 
-*   [PlayCanvas (⭐178)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐184)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

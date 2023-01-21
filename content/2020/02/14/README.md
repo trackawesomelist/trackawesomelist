@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -93,11 +93,11 @@
 
 ### App Store
 
-*   [Apphud (⭐142)](https://github.com/apphud/ApphudSDK) - Lightweight library to easily handle auto-renewable subscriptions with no backend required.
+*   [Apphud (⭐144)](https://github.com/apphud/ApphudSDK) - Lightweight library to easily handle auto-renewable subscriptions with no backend required.
 
 ### Utility / Barcode
 
-*   [ExceptionCatcher (⭐98)](https://github.com/sindresorhus/ExceptionCatcher) - Catch Objective-C exceptions.
+*   [ExceptionCatcher (⭐100)](https://github.com/sindresorhus/ExceptionCatcher) - Catch Objective-C exceptions.
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -114,12 +114,12 @@
 
 ### Official
 
-*   [Yew (⭐25k)](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
+*   [Yew (⭐26k)](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
 
 ### Projects
 
-*   [web-view todomvc desktop app (⭐101)](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view (⭐1.8k)](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view (⭐1.8k)](https://github.com/Boscop/web-view) also has a [demo (⭐1.8k)](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
-*   [Kirk (⭐35)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
+*   [web-view todomvc desktop app (⭐102)](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view (⭐1.8k)](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view (⭐1.8k)](https://github.com/Boscop/web-view) also has a [demo (⭐1.8k)](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
+*   [Kirk (⭐36)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
 
 ### Crates / Wasm
 
@@ -127,7 +127,7 @@
 
 ### Tooling / Frameworks
 
-*   [wasm-pack (⭐4.7k)](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
+*   [wasm-pack (⭐4.8k)](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
 
 ### Alternatives / Frameworks
 
@@ -136,7 +136,7 @@
 
 ### Related lists / Frameworks
 
-*   [Awesome Rust and WebAssembly (⭐520)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
+*   [Awesome Rust and WebAssembly (⭐526)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
 *   [Awesome WebAssembly (⭐7.4k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
 *   [Awesome Rust (⭐31k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
@@ -160,7 +160,7 @@
 
 ### Open Source / Other
 
-*   [MQTTX (⭐2.3k)](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
+*   [MQTTX (⭐2.4k)](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
 
 ## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 

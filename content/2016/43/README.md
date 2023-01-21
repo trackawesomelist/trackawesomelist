@@ -2,7 +2,7 @@
 
 50 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,13 +48,13 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [Recommender (⭐252)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+*   [Recommender (⭐253)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 
 ### C++ / General-Purpose Machine Learning
 
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
 *   [DyNet (⭐3.3k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐412)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [Fido (⭐413)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [LightGBM (⭐14k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 *   [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
@@ -153,7 +153,6 @@
 *   [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more.
 *   [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
 *   [Bootstrapped Web](http://bootstrappedweb.com/) - Bootstrapped Web is for entrepreneurs bootstrapping their startups, who believe that the best way to get to where we're going is to learn by doing.
-*   [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
 *   [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
 *   [Developing Perspective](http://developingperspective.com/) - From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
 *   [DevOps Cafe](http://devopscafe.org/) - In this interview driven show, John Willis and Damon Edwards take a pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.
@@ -161,7 +160,6 @@
 *   [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - Interviews with prominent guests from the free software/open source community.
 *   [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
 *   [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
-*   [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 *   [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
 *   [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 
@@ -247,15 +245,15 @@
 
 ### Algorithms and Data structures
 
-*   [C# Algorithms (⭐5.2k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
+*   [C# Algorithms (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 
 ### Misc
 
-*   [ByteSize (⭐441)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
+*   [ByteSize (⭐445)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ### Template Engine
 
-*   [Mustache Sharp (⭐291)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
+*   [Mustache Sharp (⭐293)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 
 ### UI Automation
 
@@ -295,7 +293,7 @@
 
 ### Querying / Symfony2
 
-*   [rest-assured (⭐6.1k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+*   [rest-assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -346,7 +344,7 @@
 
 ### Database
 
-*   [LevelDB (⭐31k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+*   [LevelDB (⭐32k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 
 ### Math
 
@@ -378,12 +376,12 @@
 
 ### Frameworks
 
-*   [exelli (⭐14)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
-*   [kitto (⭐946)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [exelli (⭐15)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
+*   [kitto (⭐947)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐241)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [appsignal-elixir (⭐242)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
 *   [prometheus-ecto (⭐73)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
 *   [prometheus-phoenix (⭐66)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
@@ -412,14 +410,10 @@
 
 ### Editors
 
-*   [atom-elixir (⭐412)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [atom-elixir (⭐411)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 *   [ElixirSublime (⭐368)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
-
-### Websites and Resources
-
-*   [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
 
 ### Articles & Blogs
 
@@ -572,8 +566,8 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 *   [DQN-tensorflow (⭐2.4k)](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 *   [Highway Network (⭐56)](https://github.com/fomorians/highway-cnn) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
 *   [Sentence Classification with CNN (⭐5.5k)](https://github.com/dennybritz/cnn-text-classification-tf) - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-*   [Character-Aware Neural Language Models (⭐732)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
-*   [YOLO TensorFlow ++ (⭐6k)](https://github.com/thtrieu/yolotf) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
+*   [Character-Aware Neural Language Models (⭐751)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
+*   [YOLO TensorFlow ++ (⭐6.1k)](https://github.com/thtrieu/yolotf) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 *   [Mnemonic Descent Method (⭐123)](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
 
 ### Blog posts

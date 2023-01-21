@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to Flask
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mjhea0/awesome-flask/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask) · ⭐ 1K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mjhea0/awesome-flask/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask) · ⭐ 1K · 🏷️ Back-End Development
 
 [ [Daily](/content/mjhea0/awesome-flask/README.md) / [Weekly](/content/mjhea0/awesome-flask/week/README.md) / Overview ]
 

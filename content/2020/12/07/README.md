@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 07, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,31 +39,20 @@
 
 ### Community
 
-*   [Terraform PDF Doc (⭐50)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
+*   [Terraform PDF Doc (⭐53)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 
 ### Tools / Vendor supported providers
 
-*   [astro (⭐413)](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
-*   [blast radius (⭐1.7k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
-*   [json2hcl (⭐430)](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
-*   [para (⭐49)](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
+*   [astro (⭐418)](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
+*   [blast radius (⭐1.8k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
+*   [json2hcl (⭐441)](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
+*   [para (⭐50)](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
 *   [scenery (⭐367)](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier. :ghost:
-*   [terraform-plan-parser (⭐139)](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON. :ghost:
-*   [terrahub (⭐211)](https://github.com/TerraHubCorp/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
-*   [tfjson (⭐180)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
+*   [terraform-plan-parser (⭐140)](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON. :ghost:
+*   [terrahub (⭐213)](https://github.com/TerraHubCorp/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
+*   [tfjson (⭐181)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### PHP / CodeIgniter
-
-*   [CodeIgniter 3 User Guide](https://codeigniter.com/userguide3/index.html)
-*   [CodeIgniter 4 User Guide](https://codeigniter.com/user_guide/index.html)
-
-### Python / Flask
-
-*   [Flask Documentation](https://flask.palletsprojects.com) - Pallets
-
-## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Services
 
@@ -74,7 +63,7 @@
 *   [ipfs-pinner (⭐37)](https://github.com/wabarc/ipfs-pinner) - A toolkit help upload files to IPFS pinning services.
 *   [wbipfs (⭐2)](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 
-## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [5. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Overview
 
@@ -376,7 +365,7 @@
 
 *   [cryptoanarchy.wiki](https://cryptoanarchy.wiki) - Cypherpunks overlaps with security. This wiki compiles information about the movement, its history and the people/events of note.
 
-## [7. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [6. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Books
 
@@ -420,13 +409,13 @@
 *   Make a change.
 *   Commit and push to your repo.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code (⭐5.1k)](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++`
+*   [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code (⭐5.2k)](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++`
 
-## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Motivation / Happiness
 
@@ -444,13 +433,13 @@
 
 *   [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
 
-## [10. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [9. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Libraries / Boilerplates
 
 *   [snowpack-cycle (⭐2)](https://github.com/rajasegar/snowpack-cycle) - Snowpack app template to create Cycle.js projects with create-snowpack-app
 
-## [11. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [10. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Cost Forecast / Market Research
 
@@ -493,7 +482,7 @@
 
 *   [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - Accounting paintings were a significant genre in Dutch art.
 
-## [12. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [11. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Meta
 
@@ -540,7 +529,7 @@
 
 *   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
 *   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐815)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Awesome Unicode (⭐819)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 *   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
@@ -573,25 +562,25 @@
 
 *   [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A complete reverse of the falsehoods format, on the topic of case (as in uppercase and lowercase text).
 
-## [13. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [Getting Started with Service Accounts in Keycloak](https://medium.com/@mihirrajdixit/getting-started-with-service-accounts-in-keycloak-c8f6798a0675)
 
-## [14. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simulation / Version Control
 
 *   [BlueSky (⭐231)](https://github.com/TUDelft-CNS-ATM/bluesky) - The goal of BlueSky is to provide everybody who wants to visualize, analyze or simulate air traffic with a tool to do so without any restrictions, licenses or limitations.
 
-## [15. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Image processing
 
-*   [celestine (⭐80)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
+*   [celestine (⭐82)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
 
-## [16. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [15. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Bots / Self-hosted
 
@@ -602,7 +591,7 @@
 
 *   [teleirc (⭐116)](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
 
-## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [16. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Autosize Input / Textarea
 

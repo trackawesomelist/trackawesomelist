@@ -2,13 +2,13 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By Philipp Cannons.
 *   [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
@@ -23,7 +23,7 @@
 
 ### Tools
 
-*   [user-statistician (⭐18)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
+*   [user-statistician (⭐26)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 
 ## [4. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -63,17 +63,17 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐44)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
+*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐51)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
 
 ### Software / Software Development - IDE & Tools
 
-*   [code-server (⭐58k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
+*   [code-server (⭐59k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [AckslD/nvim-FeMaco.lua (⭐192)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
+*   [AckslD/nvim-FeMaco.lua (⭐199)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
 
 ## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -127,15 +127,15 @@
 
 ### Continuous Integration
 
-*   [go-fuzz-action (⭐9)](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions.
+*   [go-fuzz-action (⭐8)](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions.
 
 ### Caches
 
-*   [cachego (⭐200)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
+*   [cachego (⭐204)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
 
 ### Middlewares / Actual middlewares
 
-*   [echo-middleware (⭐12)](https://github.com/faabiosr/echo-middleware) - Middleware for Echo framework with logging and metrics.
+*   [echo-middleware (⭐13)](https://github.com/faabiosr/echo-middleware) - Middleware for Echo framework with logging and metrics.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
@@ -155,7 +155,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-jspm (⭐33)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
+*   [vite-plugin-jspm (⭐35)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
 
 ## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,13 +49,13 @@
 
 ### Open Source / Other
 
-*   [SpaceEye (⭐281)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+*   [SpaceEye (⭐289)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [svelte-chota (⭐276)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+*   [svelte-chota (⭐282)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

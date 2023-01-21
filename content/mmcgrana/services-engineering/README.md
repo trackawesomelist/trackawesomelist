@@ -2,7 +2,7 @@
 
 A reading list for services engineering, with a focus on cloud infrastructure services
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mmcgrana/services-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) · ⭐ 3.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mmcgrana/services-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) · ⭐ 3.4K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/mmcgrana/services-engineering/week/README.md) / [Overview](/content/mmcgrana/services-engineering/readme/README.md) ]
 

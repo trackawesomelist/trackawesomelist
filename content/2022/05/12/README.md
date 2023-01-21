@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,13 +16,13 @@
 
 ### Vue / Routing
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [v-route-generate (⭐5)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [v-route-generate (⭐6)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [tyro/arbitrater (⭐37)](https://github.com/tyro/arbitrater) - Arbitrater is a library for creating arbitrary (randomized) instances of classes by reflection for use in testing.
+*   [tyro/arbitrater (⭐38)](https://github.com/tyro/arbitrater) - Arbitrater is a library for creating arbitrary (randomized) instances of classes by reflection for use in testing.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -54,7 +54,7 @@
 
 ### File Management and Sharing
 
-*   [Blindsend (⭐140)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
+*   [Blindsend (⭐141)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [chrsm/paramount-ng.nvim (⭐7)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Treesitter supported.
+*   [chrsm/paramount-ng.nvim (⭐8)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Treesitter supported.
 
 ### Editing Support / Diagnostics
 

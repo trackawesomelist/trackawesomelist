@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -85,14 +85,14 @@
 ### Overlay
 
 *   [sweetalert2 (⭐15k)](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-*   [sweetalert2-react-content (⭐560)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
+*   [sweetalert2-react-content (⭐569)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Bottom Sheets
 
-*   [Rubber Bottom Sheet (⭐472)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
-*   [Modal Bottom Sheet (⭐1.4k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
+*   [Rubber Bottom Sheet (⭐485)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+*   [Modal Bottom Sheet (⭐1.5k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-d3-barchart (⭐15)](https://github.com/emiliorizzo/vue-d3-barchart) - Small component to draw charts using d3.
+*   [vue-d3-barchart (⭐16)](https://github.com/emiliorizzo/vue-d3-barchart) - Small component to draw charts using d3.
 
 ## [13. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Integrations
 
-*   [preact-custom-element (⭐288)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
+*   [preact-custom-element (⭐290)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 
 ### Benchmarks
 
@@ -178,7 +178,7 @@
 
 ### Modules / Web utils
 
-*   [youtube-deno (⭐37)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
+*   [youtube-deno (⭐39)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
 ### Resources in Other Languages / Indonesian
 

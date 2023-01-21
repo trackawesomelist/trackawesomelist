@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,7 +21,7 @@
 
 ### Images / Barcode
 
-*   [FacebookImagePicker (⭐230)](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
+*   [FacebookImagePicker (⭐231)](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
 
 ### Utility / Barcode
 
@@ -31,15 +31,15 @@
 
 ### Electron / Themes
 
-*   [StarCabinet (⭐407)](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
-*   [Nowa (⭐203)](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
+*   [StarCabinet (⭐408)](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
+*   [Nowa (⭐202)](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Asynchronous Event Loop
 
 *   [Asio (⭐3.8k)](https://github.com/chriskohlhoff/asio/) - A cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. \[Boost] [website](http://think-async.com/)
-*   [C++ Actor Framework (⭐2.8k)](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. \[BSD-3-Clause] [website](http://actor-framework.org/)
+*   [C++ Actor Framework (⭐2.9k)](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. \[BSD-3-Clause] [website](http://actor-framework.org/)
 
 ### Debug
 

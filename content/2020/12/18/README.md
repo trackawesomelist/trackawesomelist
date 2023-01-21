@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [Raspberry Pi 4 builds (⭐214)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
+*   [Raspberry Pi 4 builds (⭐227)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -95,53 +95,53 @@
 
 ### Preprocessing
 
-*   [MDSveX (⭐1.5k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
+*   [MDSveX (⭐1.6k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
 *   [svelte-preprocess-less (⭐13)](https://github.com/ls-age/svelte-preprocess-less) - Preprocessor for less.
-*   [modular-css (⭐262)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
-*   [svelte-preprocess-sass (⭐90)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
+*   [modular-css (⭐268)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
+*   [svelte-preprocess-sass (⭐91)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 
 ### UI Libraries
 
 *   [Smelte (⭐1.4k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
-*   [Svelte Material UI (⭐2.7k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
+*   [Svelte Material UI (⭐2.8k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 
 ### Table
 
-*   [svelte-table (⭐369)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
+*   [svelte-table (⭐382)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 
 ### Notification
 
-*   [svelte-notifications (⭐290)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
+*   [svelte-notifications (⭐297)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 
 ### Icons
 
-*   [svelte-fa (⭐262)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
-*   [svelte-icons (⭐202)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
+*   [svelte-fa (⭐276)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
+*   [svelte-icons (⭐218)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 
 ### Calendar
 
-*   [svelte-fullcalendar (⭐151)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
+*   [svelte-fullcalendar (⭐156)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 
 ### Maps
 
-*   [svelte-googlemaps (⭐58)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
-*   [svelte-mapbox (⭐241)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
+*   [svelte-googlemaps (⭐62)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
+*   [svelte-mapbox (⭐254)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
 *   [leaflet-svelte (⭐49)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 
 ### Form / Checkbox
 
 *   [svelte-checkbox (⭐71)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
-*   [svelte-toggle (⭐19)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
+*   [svelte-toggle (⭐20)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte3 (⭐343)](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
-*   [prettier-plugin-svelte (⭐506)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
+*   [eslint-plugin-svelte3 (⭐350)](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
+*   [prettier-plugin-svelte (⭐519)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 *   [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
 
 ### Docs / Checkbox
 
-*   [sveltedoc-parser (⭐80)](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
+*   [sveltedoc-parser (⭐81)](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
 
 ### Test / Checkbox
 
@@ -162,8 +162,8 @@
 
 ### Editors / Vim
 
-*   [vim-svelte-plugin (⭐103)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
-*   [coc-svelte (⭐154)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
+*   [vim-svelte-plugin (⭐108)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
+*   [coc-svelte (⭐160)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 ### Editors / JetBrains
 
@@ -173,25 +173,25 @@
 
 ### Resources / Tutorials
 
-*   [Building a realtime quiz with VueJS using a starter kit (⭐46)](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
+*   [Building a realtime quiz with VueJS using a starter kit (⭐48)](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐628)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐632)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
-*   [Realtime quiz framework (⭐46)](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
+*   [Realtime quiz framework (⭐48)](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
 
 ### Components & Libraries / Frameworks
 
-*   [Qui (⭐227)](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
+*   [Qui (⭐229)](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
-*   [Flask (⭐1k)](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
+*   [Flask (⭐1.1k)](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 
 ## [11. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 

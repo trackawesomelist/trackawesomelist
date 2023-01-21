@@ -2,7 +2,7 @@
 
 :sunglasses: A complete list of Arch-based projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/PandaFoss/Awesome-Arch/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) · ⭐ 268 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/PandaFoss/Awesome-Arch/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) · ⭐ 268 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/PandaFoss/Awesome-Arch/week/README.md) / [Overview](/content/PandaFoss/Awesome-Arch/readme/README.md) ]
 

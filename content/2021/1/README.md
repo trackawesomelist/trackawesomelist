@@ -2,7 +2,7 @@
 
 58 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Scheduling
 
-*   [Simple Scheduler (⭐133)](https://github.com/simplymadeapps/simple_scheduler) - An enhancement for Heroku Scheduler + Sidekiq for scheduling jobs at specific times with a readable YML file.
+*   [Simple Scheduler (⭐132)](https://github.com/simplymadeapps/simple_scheduler) - An enhancement for Heroku Scheduler + Sidekiq for scheduling jobs at specific times with a readable YML file.
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
@@ -66,7 +66,7 @@
 
 ### specifically from (  *a certain platform*  ) / ProductHunt
 
-*   [ProductHunt daily RSS feed (⭐24)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
+*   [ProductHunt daily RSS feed (⭐27)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
 
 ### specifically from (  *a certain platform*  ) / YouTube
 
@@ -87,7 +87,7 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSAid (⭐483)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSAid (⭐561)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
@@ -187,7 +187,7 @@
 
 ### Tools
 
-*   [Polyglot (⭐318)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+*   [Polyglot (⭐323)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 *   [Globalize (⭐4.7k)](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
 
 ## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
@@ -203,10 +203,6 @@
 ### Styling
 
 *   [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
-
-### Tools
-
-*   [shadow-dom-utils (⭐10)](https://github.com/43081j/shadow-dom-utils) - Set of useful utilities for dealing with shadow DOM, primarily for test environment.
 
 ## [17. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
@@ -246,7 +242,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Your Spotify (⭐1k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+*   [Your Spotify (⭐1.2k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 ## [20. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -258,13 +254,13 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [CAEs for Data Assimilation (⭐20)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
+*   [CAEs for Data Assimilation (⭐23)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
 
 ## [22. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💙💼 [Line Clamp (⭐922)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
+*   💙💼 [Line Clamp (⭐963)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 *   🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
 
 ## [23. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
@@ -290,11 +286,11 @@
 
 ### Back-End Development
 
-*   [CDK (⭐1.6k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
+*   [CDK (⭐1.7k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 
 ### Learn
 
-*   [YouTubers (⭐3.7k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+*   [YouTubers (⭐3.8k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 
 ### Content Management Systems
 
@@ -306,38 +302,38 @@
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐102)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐109)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Official Resources
 
-*   [Release Notes (⭐50k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐51k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐204)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐229)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid (⭐271)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+*   [vite-plugin-solid (⭐285)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
 ### Rollup Plugins / Included in Vite
 
-*   [@rollup/plugin-alias (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
-*   [@rollup/plugin-commonjs (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
-*   [@rollup/plugin-dynamic-import-vars (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
-*   [@rollup/plugin-json (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+*   [@rollup/plugin-alias (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
+*   [@rollup/plugin-commonjs (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
+*   [@rollup/plugin-dynamic-import-vars (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
+*   [@rollup/plugin-json (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-dsv (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
-*   [@rollup/plugin-graphql (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
-*   [@rollup/plugin-replace (⭐2.9k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
+*   [@rollup/plugin-dsv (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+*   [@rollup/plugin-graphql (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
+*   [@rollup/plugin-replace (⭐3k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
 
 ### Open Source / Community
 
-*   [VitePress (⭐6.3k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
+*   [VitePress (⭐6.5k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
 
 ## [27. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -351,12 +347,12 @@
 
 ### Showcases / XML
 
-*   [Deno Rest (⭐85)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
+*   [Deno Rest (⭐88)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 *   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ### Tools / XML
 
-*   [lume (⭐873)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+*   [lume (⭐1.1k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 
 ## [28. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -383,12 +379,12 @@
 
 ### Others / Third-party APIs
 
-*   [Vellum (⭐67)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD\_2Clause.
-*   [rtg-math (⭐51)](https://github.com/cbaggers/rtg-math/) - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD\_2Clause.
+*   [Vellum (⭐64)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD\_2Clause.
+*   [rtg-math (⭐52)](https://github.com/cbaggers/rtg-math/) - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD\_2Clause.
 
 ### Matrix libraries / Third-party APIs
 
-*   [lisp-matrix (⭐66)](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [lisp-matrix (⭐65)](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Statistics / Third-party APIs
 
@@ -486,13 +482,13 @@
 
 ### Libraries / New Libraries
 
-*   [mpi4jax (⭐229)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
+*   [mpi4jax (⭐247)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 
 ## [39. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐44)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐45)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [40. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -530,7 +526,7 @@
 
 ### Communications / MDNS
 
-*   [micropython-mdns (⭐31)](https://github.com/cbrand/micropython-mdns) - A pure python implementation of MDNS with support for Service Discovery.
+*   [micropython-mdns (⭐35)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
 
 ### Shells / On Host
 
@@ -612,16 +608,16 @@
 
 ### Contents / Libraries
 
-*   [FHIR .NET API (⭐685)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
+*   [FHIR .NET API (⭐688)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
 *   [HAPI FHIR (⭐1.6k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
 
 ### Contents / Asset Management
 
-*   [Tapirx (⭐24)](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
+*   [Tapirx (⭐25)](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
 ### Contents / Logistics
 
-*   [ID3C (⭐20)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
+*   [ID3C (⭐21)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
 
 ## [50. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -643,7 +639,7 @@
 
 ### Resources / Examples
 
-*   [Peer to Peer game of telephone (⭐59)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
+*   [Peer to Peer game of telephone (⭐63)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
 
 ### Resources / Books
 
@@ -651,12 +647,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vueform/slider (⭐171)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
-*   [@vueform/toggle (⭐75)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
+*   [@vueform/slider (⭐173)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
+*   [@vueform/toggle (⭐76)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
 
 ### Components & Libraries / Scaffold
 
-*   [vue-composable-starter (⭐48)](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
+*   [vue-composable-starter (⭐49)](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
 
 ## [53. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -691,13 +687,13 @@
 
 ### Boilerplates
 
-*   [nextjs-starter (⭐403)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
+*   [nextjs-starter (⭐409)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
 
 ## [58. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### PlayCanvas
 
-*   [Engine (⭐7.8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 

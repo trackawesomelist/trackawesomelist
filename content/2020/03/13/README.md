@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Mango (⭐1.2k)](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal`
+*   [Mango (⭐1.3k)](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal`
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [MQTTX (⭐2.3k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐2.4k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 
 ## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

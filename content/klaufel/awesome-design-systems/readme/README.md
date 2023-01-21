@@ -2,7 +2,7 @@
 
 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 490 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 490 · 🏷️ Front-End Development
 
 [ [Daily](/content/klaufel/awesome-design-systems/README.md) / [Weekly](/content/klaufel/awesome-design-systems/week/README.md) / Overview ]
 

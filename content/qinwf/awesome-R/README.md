@@ -2,7 +2,7 @@
 
 A curated list of awesome R packages, frameworks and software.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/qinwf/awesome-R/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 qinwf/awesome-R](https://github.com/qinwf/awesome-R) · ⭐ 5.2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/qinwf/awesome-R/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 qinwf/awesome-R](https://github.com/qinwf/awesome-R) · ⭐ 5.2K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/qinwf/awesome-R/week/README.md) / [Overview](/content/qinwf/awesome-R/readme/README.md) ]
 

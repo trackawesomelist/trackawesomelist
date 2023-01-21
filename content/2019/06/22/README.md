@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Memory Allocation
 
-*   [mimalloc (⭐7.5k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
+*   [mimalloc (⭐7.6k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### .Net Core
 
-*   [Bike (⭐114)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
+*   [Bike (⭐115)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 

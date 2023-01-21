@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Auth / Image Picker
 
-*   [SimpleAuth (⭐337)](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
+*   [SimpleAuth (⭐340)](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [StatsLib (⭐423)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐424)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 

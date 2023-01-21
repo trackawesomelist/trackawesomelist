@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Image Processing
 
-*   [DotImaging (⭐309)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐310)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

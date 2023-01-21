@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 07, 2023
 
-13 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,13 +37,7 @@
 
 *   [adafruit-bluefruit-protocol](https://crates.io/crates/adafruit-bluefruit-protocol): A `no_std` parser for the [Adafruit Bluefruit LE Connect controller protocol](https://learn.adafruit.com/bluefruit-le-connect/controller). - ![crates.io](https://img.shields.io/crates/v/adafruit-bluefruit-protocol)
 
-## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
-
-### Boilerplates
-
-*   [Hydrogen](https://statichunt.com/themes/next-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
-
-## [5. GoBooks](/content/dariubs/GoBooks/README.md)
+## [4. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Starter Books** / [Shipping Go](https://www.manning.com/books/shipping-go)
 
@@ -55,7 +49,7 @@
 *   Scale your deployment in a cost-effective way
 *   Deliver a culture of continuous improvement
 
-## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [5. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Scientific Research
 
@@ -83,123 +77,64 @@
 *   [Capa (⭐2.6k)](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
 *   [Oedipus (⭐8)](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
 
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Goroutines
 
 *   [conc (⭐1.7k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
 
-## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [Armbian](https://www.armbian.com/rpi4b/) - A base operating system platform for single board computers (SBCs) that other projects can trust to build upon.
 *   [KonstaKANG](https://konstakang.com/devices/rpi4/) - Unofficial LineageOS and AOSP builds for Raspberry Pi. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐38)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐65)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐31)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐235)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐571)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-### Custom Desktop
-
-*   [suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
-
-### TOR
+### Darknet
 
 *   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
 ### Kernels
 
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
-*   [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
-*   [OPenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
 
-### Unikernels
+### Kernels / Unikernels
 
 *   [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
 *   [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
-*   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 *   [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
+*   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 
-### Unikernel-like
+### Kernels / Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 *   [Graphene (⭐746)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
-### Exploitation Tools
+### Exploitation Tools / Unikernel-like
 
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
-*   [joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
 
-### Xen Exploitation
+### Xen Exploitation / Video Presentations
 
+*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+*   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
 *   [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM)
-*   [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
-*   [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
-*   [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
-*   [XenPwn: Breaking paravirtualized devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
-*   [Advanced Exploitation: Xen Hypervisor VM Escape ](https://www.youtube.com/watch?v=6Ld5CiInrcI)
+*   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+*   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+
+### Xen Exploitation / Web articles
+
+*   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
 *   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 *   [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
 
-### Attacking Hypervisors
+### Companies using Qubes OS / Web articles
 
-*   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo\&t=3s)
-*   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
-*   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
-*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
-*   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
-*   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
-*   [Hypervisor Vulnerability Research - State of the Art](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
+*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
 
-### Companies using Qubes OS
-
-*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners
-
-### Adventure Further
-
-*   [Adventures start here ---> (⭐231k)](https://github.com/sindresorhus/awesome) - All the awesome links :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|:
-
-## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### LaTeX-compatible GUI tools
 
@@ -209,7 +144,7 @@
 
 *   [Awesome LaTeX drawing (⭐949)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
 
-## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Testing Solutions
 
@@ -225,7 +160,7 @@
 *   [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you’ve created a native web component or two. How do you test them in popular browsers?
 *   [W3C Webdriver conquering automation of Shadow DOM](https://staleelement.medium.com/w3c-webdriver-conquering-automation-of-shadow-dom-chapter-2-d92c7fe9e74c) - Shadow DOM tree and its interaction with the W3C Webdriver.
 
-## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -237,4 +172,5 @@
 
 ---
 
+- Prev: [Jan 08, 2023](/content/2023/01/08/README.md)
 - Next: [Jan 06, 2023](/content/2023/01/06/README.md)

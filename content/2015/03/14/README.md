@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Actors
 
-*   [pooler (⭐279)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐278)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -22,11 +22,11 @@
 
 ### Date and Time
 
-*   [tzdata (⭐259)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐260)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
-*   [estree (⭐95)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+*   [estree (⭐96)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 
 ### Email
 
@@ -38,8 +38,8 @@
 
 ### Framework Components
 
-*   [corsica (⭐462)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐372)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐463)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐373)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐164)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -53,7 +53,7 @@
 
 ### ORM and Datamapping
 
-*   [eredis (⭐617)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [eredis (⭐616)](https://github.com/wooga/eredis) - Erlang Redis client.
 *   [ex\_bitcask (⭐11)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 
 ### Queue
@@ -62,7 +62,7 @@
 
 ### Text and Numbers
 
-*   [base62 (⭐18)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
+*   [base62 (⭐19)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
 *   [custom\_base (⭐19)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
 *   [porterstemmer (⭐5)](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 

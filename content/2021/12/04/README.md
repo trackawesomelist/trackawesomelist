@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,15 +29,15 @@
 ### conversion
 
 *   **OpenStreetMap**
-    *   [osmtogeojson (⭐586)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+    *   [osmtogeojson (⭐589)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
     *   [osm2geojson (⭐11)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
-    *   [osm2geojson (⭐67)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [osm2geojson (⭐68)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
     *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
     *   [geojsontoosm (⭐14)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
     *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
-    *   [osm-and-geojson (⭐88)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+    *   [osm-and-geojson (⭐89)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
     *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
-    *   [query-overpass (⭐140)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐586)](https://github.com/tyrasd/osmtogeojson)
+    *   [query-overpass (⭐141)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐589)](https://github.com/tyrasd/osmtogeojson)
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -65,11 +65,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [andersevenrud/nordic.nvim (⭐141)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
+*   [andersevenrud/nordic.nvim (⭐144)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 
 ### Utility / Diagnostics
 
-*   [stevearc/dressing.nvim (⭐762)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
+*   [stevearc/dressing.nvim (⭐809)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Serialization
 
-*   [FlatSharp (⭐354)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
+*   [FlatSharp (⭐374)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

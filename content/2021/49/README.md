@@ -2,7 +2,7 @@
 
 50 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -125,7 +125,7 @@
 
 ### Examples
 
-*   [zenml-io/zenml (⭐2.4k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
+*   [zenml-io/zenml (⭐2.6k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
 
 ## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -152,7 +152,7 @@
 
 ### Blockchain dump
 
-*   [Chaingraph (⭐21)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
+*   [Chaingraph (⭐24)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -184,7 +184,7 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐66)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP`
+*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐65)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP`
 
 ### Software / Search Engines
 
@@ -199,27 +199,27 @@
 
 ### Tools & Utilities / Others
 
-*   [BlazorTemplater (⭐92)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
-*   [MediaSession.Blazor (⭐3)](https://github.com/zuozishi/MediaSession.Blazor) - ![last-commit](https://img.shields.io/github/last-commit/zuozishi/MediaSession.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. ([Demo](https://zuozishi.github.io/MediaSession.Blazor/)).
+*   [BlazorTemplater (⭐95)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
+*   [MediaSession.Blazor (⭐4)](https://github.com/zuozishi/MediaSession.Blazor) - ![last-commit](https://img.shields.io/github/last-commit/zuozishi/MediaSession.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. ([Demo](https://zuozishi.github.io/MediaSession.Blazor/)).
 
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Promptism
 
-*   [mikaelalafriz/lucid-sonic-dreams (⭐727)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
+*   [mikaelalafriz/lucid-sonic-dreams (⭐732)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
 *   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
 
-### Improving Google Colab experience / OpenAI GPT-3
+### Miscellaneous / Improving Google Colab experience
 
 *   [Jupyter Widgets official documentation](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html)
 
-### Inbox for Related References / OpenAI GPT-3
+### Miscellaneous / Auxiliary tools and concepts
 
 *   [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
-*   [HashLips/hashlips\_art\_engine (⭐6.6k)](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
+*   [HashLips/hashlips\_art\_engine (⭐6.7k)](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
 
 ## [14. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -550,12 +550,12 @@
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/cutlass.nvim (⭐80)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
-*   [sQVe/sort.nvim (⭐74)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
+*   [gbprod/cutlass.nvim (⭐81)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
+*   [sQVe/sort.nvim (⭐79)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [CosmicNvim/CosmicNvim (⭐787)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+*   [CosmicNvim/CosmicNvim (⭐814)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 
 ## [22. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -573,7 +573,7 @@
 
 ### Utilities / General Tools
 
-*   [Equinox (⭐670)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
+*   [Equinox (⭐682)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 
 ## [25. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
@@ -587,20 +587,26 @@
 
 *   [Bytes](https://bytes.dev/). Become a smarter JavaScript developer. Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday, for free.
 
-## [27. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Machine Learning
+
+*   [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens *(:card\_file\_box: archived)*
+
+## [28. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Networking and Communication Middleware / Other / unknown licence
 
 *   [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
-*   [mosquitto-ada (⭐4)](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
+*   [mosquitto-ada (⭐5)](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
 
-## [28. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [29. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Coin Market Tools & Utilities
 
 *   ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 
-## [29. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [30. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -613,11 +619,11 @@
 *   🛑💼 [Aspect Ratio (⭐250)](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities.
 *   🛑💼 [Shadow Outline Colors (⭐9)](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 *   🛑💼 [Alpha (⭐71)](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variant utilities.
-*   🛑🧬 [Direction (⭐211)](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
+*   🛑🧬 [Direction (⭐210)](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
 *   🛑🧬 [Important (⭐42)](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
 *   🛑🧬🎨 [Prefers Dark Mode (⭐12)](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - Adds variants based on the `prefers-color-scheme` media query.
 *   🛑🧬🎨 [Dark Mode (⭐15)](https://github.com/danestves/tailwindcss-darkmode) - Adds `dark` variants based on CSS classes.
-*   🛑🧬🎨 [Dark Mode (⭐647)](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
+*   🛑🧬🎨 [Dark Mode (⭐644)](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
 
 ### Tools
 
@@ -626,9 +632,9 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Admin One Vue 3 (⭐982)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
+*   📁 [Admin One Vue 3 (⭐1.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 
-## [30. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [31. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Developer Groups
 
@@ -639,21 +645,21 @@
 *   [MoeFront](https://github.com/moefront) \[中文]
 *   [Project ShangriLa](https://github.com/Project-ShangriLa) \[日本語]
 
-## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Material Design
 
-*   [Backdrop (⭐264)](https://github.com/fluttercommunity/backdrop) <!--stargazers:fluttercommunity/backdrop--> - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
+*   [Backdrop (⭐267)](https://github.com/fluttercommunity/backdrop) <!--stargazers:fluttercommunity/backdrop--> - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
 
 ### Navigation / Image Picker
 
-*   [go\_router (⭐429)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
+*   [go\_router (⭐427)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
 
 ### Top / Game Engine resources
 
-*   [Mooltik (⭐163)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
+*   [Mooltik (⭐170)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 
-## [32. Jstips](/content/loverajoel/jstips/week/README.md)
+## [33. Jstips](/content/loverajoel/jstips/week/README.md)
 
 ### Support the community / Let’s keep in touch
 
@@ -661,7 +667,7 @@
 *   68 - [Why you should use Object.is() in equality comparison](http://www.jstips.co/en/javascript/why-you-should-use-Object.is\(\)-in-equality-comparison/)
 *   33 - [Create Range 0...N easily using one line](http://www.jstips.co/en/javascript/create-range-0-n-easily-using-one-line/)
 
-## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -669,9 +675,9 @@
 
 ### Tools
 
-*   [stressberry (⭐248)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
+*   [stressberry (⭐250)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 
-## [34. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [35. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
@@ -685,7 +691,7 @@
 
 *   [Doge Temple](https://www.dogetemple.io/) - Online microverse devoted to Dogecoin.
 
-## [35. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Games
 
@@ -720,7 +726,7 @@
 
 *   [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 
-## [36. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [37. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Component Libraries
 
@@ -730,7 +736,7 @@
 
 *   [Snehil Vijay](https://github.com/snehilvj)
 
-## [37. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [38. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Vorago
 
@@ -740,19 +746,19 @@
 
 *   [`nrf52840-dk-bsp`](https://crates.io/crates/nrf52840-dk-bsp) - [nrf52840-dk](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dk) - ![crates.io](https://img.shields.io/crates/v/nrf52840-dk-bsp.svg)
 
-## [38. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [39. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
-*   [tmux-gruvbox (⭐338)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
+*   [tmux-gruvbox (⭐347)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 
-## [39. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [40. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 
-## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -760,13 +766,7 @@
 
 ### Community Extensions
 
-*   [Keycloak: Home IdP Discovery extension (⭐61)](https://github.com/sventorben/keycloak-home-idp-discovery)
-
-## [41. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
+*   [Keycloak: Home IdP Discovery extension (⭐78)](https://github.com/sventorben/keycloak-home-idp-discovery)
 
 ## [42. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -890,7 +890,7 @@
 
 ### Kotlin / Deep Learning
 
-*   [KotlinDL (⭐987)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
+*   [KotlinDL (⭐1.1k)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -898,11 +898,10 @@
 
 *   [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
 *   [Codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).
-*   [Gitea.com](https://www.gitea.com/) - Unlimited public and private Git repos
 
 ### APIs, Data and ML
 
-*   [Public-Apis Github Repo (⭐220k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐224k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Code Quality
 
@@ -1008,21 +1007,21 @@
 
 ### Reactive Programming
 
-*   [ObsevableComputations (⭐92)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
+*   [ObsevableComputations (⭐94)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 
 ## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dashy (⭐8.5k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
+*   [Dashy (⭐8.7k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐337)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐346)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ### Components & Libraries / Frameworks
 
-*   [Admin One Vue 3 Tailwind dashboard (⭐982)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
+*   [Admin One Vue 3 Tailwind dashboard (⭐1.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 
 ### Components & Libraries / Utilities
 

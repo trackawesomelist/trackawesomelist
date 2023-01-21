@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,10 +10,10 @@
 
 ### Captchas and anti-spam
 
-*   [Invisible Captcha (⭐966)](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
+*   [Invisible Captcha (⭐968)](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
 *   [Rakismet (⭐352)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 *   [reCAPTCHA (⭐1.9k)](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-*   [Voight-Kampff (⭐171)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+*   [Voight-Kampff (⭐170)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ### Concurrency and Parallelism
 
@@ -24,7 +24,7 @@
 ### Diff
 
 *   [Diffy (⭐1.2k)](https://github.com/samg/diffy) - Easy Diffing With Ruby.
-*   [gemdiff (⭐120)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
+*   [gemdiff (⭐121)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
 *   [JsonCompare (⭐54)](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 
 ### File Upload
@@ -37,12 +37,12 @@
 
 ### HTTP Clients and tools
 
-*   [Device Detector (⭐667)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
+*   [Device Detector (⭐680)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 
 ### IRB
 
-*   [Clipboard (⭐333)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
-*   [Looksee (⭐358)](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
+*   [Clipboard (⭐335)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
+*   [Looksee (⭐359)](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
 
 ### Machine Learning
 
@@ -50,7 +50,7 @@
 
 ### Queues and Messaging
 
-*   [Karafka (⭐1.5k)](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
+*   [Karafka (⭐1.6k)](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
 
 ### Web Frameworks
 

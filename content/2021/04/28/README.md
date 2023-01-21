@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,14 +19,14 @@
 *   Other API Interop and Implementations
     *   [visor (⭐38)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
     *   [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. \[Apache License 2.0]
-    *   [rostkatze (⭐80)](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈\[Apache License 2.0]
+    *   [rostkatze (⭐79)](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈\[Apache License 2.0]
     *   [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
-    *   [VUDA (⭐443)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
-    *   [clspv (⭐500)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
-    *   [MoltenVK (⭐3.7k)](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. \[Apache-2.0]
+    *   [VUDA (⭐448)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
+    *   [clspv (⭐506)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
+    *   [MoltenVK (⭐3.8k)](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. \[Apache-2.0]
     *   [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. \[MIT]
     *   [glo / OpenGL Overload (⭐277)](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
-    *   [gfx-portability (⭐354)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx/).
+    *   [gfx-portability (⭐363)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx/).
 
 ### Bindings
 
@@ -52,7 +52,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Chaskiq](https://chaskiq.io) - Full featured livechat, helpcenter and CRM as an alternative to Intercom & Drift, Crisp and others. ([Source Code (⭐2.2k)](https://github.com/chaskiq/chaskiq)) `AGPL-3.0` `Ruby`
+*   [Chaskiq](https://chaskiq.io) - Full featured livechat, helpcenter and CRM as an alternative to Intercom & Drift, Crisp and others. ([Source Code (⭐2.3k)](https://github.com/chaskiq/chaskiq)) `AGPL-3.0` `Ruby`
 
 ### Software / Communication - SIP
 
@@ -60,7 +60,7 @@
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐169)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐191)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Tools / Plugins
 
-*   [gatling-gradle-plugin (⭐19)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
+*   [gatling-gradle-plugin (⭐20)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
 
 ### Tools / Miscellaneous
 
@@ -114,7 +114,7 @@
 
 ### Templates / Vue 3
 
-*   [vivu (⭐57)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
+*   [vivu (⭐59)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 
 ---
 

@@ -2,7 +2,7 @@
 
 22 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -141,7 +141,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐429)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐432)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
@@ -178,17 +178,17 @@
 *   [blocking\_queue (⭐52)](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
 *   [count\_buffer (⭐2)](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
 *   [exfsm (⭐7)](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
-*   [fuse (⭐467)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
+*   [fuse (⭐470)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 
 ### Behaviours and Interfaces
 
-*   [connection (⭐258)](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
+*   [connection (⭐257)](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
 
 ### Build Tools
 
-*   [pc (⭐59)](https://github.com/blt/port_compiler) - A rebar3 port compiler.
+*   [pc (⭐60)](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 *   [rebar3\_eqc (⭐14)](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
-*   [relx (⭐670)](https://github.com/erlware/relx) - A release assembler for Erlang.
+*   [relx (⭐672)](https://github.com/erlware/relx) - A release assembler for Erlang.
 
 ### Encoding and Compression
 
@@ -202,7 +202,7 @@
 
 ### HTTP
 
-*   [uri\_template (⭐15)](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
+*   [uri\_template (⭐16)](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
 *   [webdriver (⭐117)](https://github.com/stuart/elixir-webdriver) - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
 
 ### JSON
@@ -234,7 +234,7 @@
 
 ### Templating
 
-*   [bbmustache (⭐168)](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
+*   [bbmustache (⭐169)](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 
 ### Testing
 
@@ -259,16 +259,16 @@
 ### Utilities
 
 *   [global (⭐2)](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
-*   [pubsub (⭐64)](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
+*   [pubsub (⭐65)](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
 
 ### XML
 
-*   [erlsom (⭐260)](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
+*   [erlsom (⭐259)](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
 *   [xmlrpc (⭐37)](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
 
 ### Reading
 
-*   [The Little Schemer in Elixir (⭐345)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
+*   [The Little Schemer in Elixir (⭐344)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -467,7 +467,7 @@
 
 ### For Electron / Other
 
-*   [electron-debug (⭐718)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
+*   [electron-debug (⭐719)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 
 ### Videos / Other
 
@@ -477,7 +477,7 @@
 
 ### Caching
 
-*   [Second Level Cache (⭐393)](https://github.com/hooopo/second_level_cache) - Write-Through and Read-Through caching library for ActiveRecord 4.
+*   [Second Level Cache (⭐394)](https://github.com/hooopo/second_level_cache) - Write-Through and Read-Through caching library for ActiveRecord 4.
 
 ### Data Processing and ETL
 

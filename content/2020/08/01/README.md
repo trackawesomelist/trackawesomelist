@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-use-infinite-scroll (⭐110)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
+*   [vue-use-infinite-scroll (⭐111)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -81,11 +81,11 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSPreview (⭐80)](https://github.com/aureliendavid/rsspreview) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aureliendavid/rsspreview)
+*   [RSSPreview (⭐81)](https://github.com/aureliendavid/rsspreview) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aureliendavid/rsspreview)
 
 ### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [Awesome ML/AI RSS feed (⭐45)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
+*   [Awesome ML/AI RSS feed (⭐51)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
 

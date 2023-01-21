@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -76,7 +76,7 @@
 
 ### Logging
 
-*   [Blackhole (⭐190)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
+*   [Blackhole (⭐191)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐436)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐439)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

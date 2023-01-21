@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -177,7 +177,7 @@
     *   [Sequoia (⭐117)](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
     *   [Macaque (⭐37)](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
     *   [ORM (⭐54)](https://github.com/mirage/orm) — ORM for SQLite.
-    *   [Caqti (⭐215)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
+    *   [Caqti (⭐223)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
 *   **Articles**:
     *   [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
     *   [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)

@@ -2,7 +2,7 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 184 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 184 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 

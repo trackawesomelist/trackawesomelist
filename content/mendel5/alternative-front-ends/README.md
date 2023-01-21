@@ -2,7 +2,7 @@
 
 Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mendel5/alternative-front-ends/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) · ⭐ 2.9K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mendel5/alternative-front-ends/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) · ⭐ 2.9K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/mendel5/alternative-front-ends/week/README.md) / [Overview](/content/mendel5/alternative-front-ends/readme/README.md) ]
 

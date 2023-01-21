@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -62,8 +62,8 @@
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.3k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
-*   [Shaark (⭐476)](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.4k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
+*   [Shaark (⭐490)](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Integrations
 
-*   [Keycloak, Kong and Konga setup scripts (local development) (⭐11)](https://github.com/JaouherK/Kong-konga-Keycloak)
+*   [Keycloak, Kong and Konga setup scripts (local development) (⭐12)](https://github.com/JaouherK/Kong-konga-Keycloak)
 *   [Keycloak and PrivacyId3a docker-compose (local development) (⭐0)](https://github.com/JaouherK/keycloak-privacyIdea)
 
 ## [6. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
@@ -110,7 +110,7 @@
 
 ### Walkthrough / Barcode
 
-*   [SuggestionsKit (⭐63)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
+*   [SuggestionsKit (⭐64)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
 
 ## [8. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐47)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐48)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -117,17 +117,17 @@
 
 ### For Electron / Other
 
-*   [electron-better-ipc (⭐634)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-better-ipc (⭐640)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 
 ## [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
-*   [Pascal (⭐1.4k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
+*   [Pascal (⭐1.5k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 
 ### Security
 
-*   [Fuzzing (⭐595)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

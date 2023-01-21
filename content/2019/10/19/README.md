@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Services
 
-*   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time
+*   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 
 ## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Monetization / Preferences
 
-*   [Admob Flutter (⭐415)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
+*   [Admob Flutter (⭐418)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

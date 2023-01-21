@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -69,11 +69,7 @@
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐631)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
-
-### Realm
-
-*   [Realm+JSON (⭐669)](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
+*   [EVCloudKitDao (⭐633)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -81,11 +77,11 @@
 
 ### HTML / Barcode
 
-*   [Fuzi (⭐987)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
+*   [Fuzi (⭐996)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐844)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐843)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

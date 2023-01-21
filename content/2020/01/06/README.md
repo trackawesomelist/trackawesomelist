@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 06, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -162,50 +162,11 @@
 
 *   [ipfsecret (⭐20)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Delphi / Pascal / Non-X86
-
-*   [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)
-
-### Hadoop / Spock Framework
-
-*   [Big Data Analytics with Hadoop 3](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3) - Sridhar Alla (Packt account *required*)
-
-### IoT / Bootstrap
-
-*   [Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) - Peter Waher (Packt account *required*)
-
-### Java / Spring
-
-*   [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2) - James J. Ye (Packt account *required*)
-*   [Software Architecture with Spring 5.0](https://www.packtpub.com/free-ebooks/software-architecture-spring-50) - René Enríquez, Alberto Salazar (Packt account *required*)
-
-### Linux / TeX
-
-*   [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) - Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali (Packt account *required*)
-
-### PowerShell / Zend
-
-*   [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
-
-### Python / Django
-
-*   [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
-
-### Splunk / Play Scala
-
-*   [Splunk 7.x Quick Start Guide](https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide) - James H. Baxter (Packt account *required*)
-
-### SQL Server / Play Scala
-
-*   [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/free-ebooks/sql-server-2017-administrators-guide) - Marek Chmel, Vladimír Mužný (Packt account *required*)
-
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
-*   [base-lisp-image (⭐34)](https://github.com/40ants/base-lisp-image) - base
+*   [base-lisp-image (⭐35)](https://github.com/40ants/base-lisp-image) - base
     Docker image for Common Lisp projects with SBCL or CCL and the latest
     ASDF, Qlot and Roswell.
 
@@ -213,35 +174,35 @@
 
 *   [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). [MIT](https://opensource.org/licenses/MIT).
 
-## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Tutorials / Terraform
 
 *   [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 
-## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [gitmux (⭐354)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [gitmux (⭐358)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ### Plugins
 
-*   [tmux-spotify (⭐78)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+*   [tmux-spotify (⭐79)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
-## [12. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [11. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Tutorials / Basics
 
 *   [Getting started from scratch with Aseprite](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-2d1e31a5ceab)
 
-## [13. Amas](/content/sindresorhus/amas/README.md)
+## [12. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Ahmad Ainul Rizki](https://github.com/awanisius/ama) - Full-stack developer, part-time open-sourcerer, and interested in functional languages.
 
-## [14. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [13. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### secure tools
 

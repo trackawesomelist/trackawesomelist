@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Utils / Third Party
 
-*   [d3-extended (⭐273)](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
+*   [d3-extended (⭐272)](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 
 ## [3. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
@@ -38,11 +38,11 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐6.8k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐6.9k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 
-*   [Stylecow (⭐154)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+*   [Stylecow (⭐156)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
 ## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

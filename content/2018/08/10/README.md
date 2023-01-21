@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Packages / Command-line utilities
 
-*   [sparkly (⭐398)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+*   [sparkly (⭐402)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
 
 ### Packages / Weird
 
-*   [cat-ascii-faces (⭐240)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+*   [cat-ascii-faces (⭐241)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -59,7 +59,7 @@ Free
 
 ### Miscellaneous
 
-*   [Jupyter (⭐3k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+*   [Jupyter (⭐3.1k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -94,7 +94,7 @@ Free
 
 ### Top / Game Engine resources
 
-*   [Trace (⭐944)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
+*   [Trace (⭐976)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
 
 ## [11. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

@@ -2,7 +2,7 @@
 
 32 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐871)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐872)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -361,7 +361,7 @@ git config --global core.autocrlf false
 
 ### Networking
 
-*   [cpr (⭐5.1k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://whoshuu.github.io/cpr/)
+*   [cpr (⭐5.2k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://whoshuu.github.io/cpr/)
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 

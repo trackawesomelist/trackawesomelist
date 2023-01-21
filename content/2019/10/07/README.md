@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -57,7 +57,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cortex (⭐7.8k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
+*   [Cortex (⭐7.9k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
 
 ## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Top / Game Engine resources
 
-*   [Timy Messenger (⭐1.8k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
+*   [Timy Messenger (⭐1.9k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 
 ## [17. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

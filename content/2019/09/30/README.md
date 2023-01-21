@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -21,7 +21,7 @@
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Virtualization / Metric & Metric Collection
+### Software / Virtualization
 
 *   [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 
@@ -47,7 +47,7 @@
 
 ### Software / Games
 
-*   [piqueserver (⭐157)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐978)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
+*   [piqueserver (⭐161)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐984)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 
 ### Software / Media Streaming - Video Streaming
 

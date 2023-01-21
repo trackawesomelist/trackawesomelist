@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 06, 2022
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,21 +30,21 @@
 
 ### Component Libraries
 
-*   [Umbraco UI Components (⭐62)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
+*   [Umbraco UI Components (⭐63)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 *   [AXA Pattern Library (⭐100)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with Web Components.
-*   [Curvenote (⭐139)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
-*   [Dile Components (⭐28)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
-*   [Furo Webcomponents (⭐10)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
-*   [Fusion Web Components (⭐2)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
+*   [Curvenote (⭐142)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
+*   [Dile Components (⭐31)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
+*   [Furo Webcomponents (⭐9)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
+*   [Fusion Web Components (⭐1)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
 *   [Ignite UI Web Components (⭐77)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
 *   [Medblocks UI (⭐32)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
-*   [Mutation testing elements (⭐17)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
-*   [One Platform Components (⭐23)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
-*   [Playground Elements (⭐338)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
-*   [Stripe Elements (⭐63)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
-*   [Titanium Elements (⭐7)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
-*   [VSCode Webview Elements (⭐33)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
-*   [Webmarkets web components (⭐2)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
+*   [Mutation testing elements (⭐18)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
+*   [One Platform Components (⭐22)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
+*   [Playground Elements (⭐348)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
+*   [Stripe Elements (⭐65)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
+*   [Titanium Elements (⭐8)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
+*   [VSCode Webview Elements (⭐34)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
+*   [Webmarkets web components (⭐1)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
 
 ### Custom Elements
 
@@ -81,16 +81,16 @@
 
 ### Design Systems
 
-*   [Carbon Web Components (⭐431)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-*   [Clarity Core Web Components (⭐89)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
+*   [Carbon Web Components (⭐432)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
+*   [Clarity Core Web Components (⭐90)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
 *   [Forge Components (⭐12)](https://github.com/tyler-technologies-oss/forge) - Library of Web Components adhering to the Forge Design System.
 *   [Liquid (⭐30)](https://github.com/emdgroup-liquid/liquid) - UI component library based on the Liquid Design System.
-*   [Material Web Components (⭐4.5k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-*   [Momentum UI Web Components (⭐133)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
-*   [OutlineJS (⭐76)](https://github.com/phase2/outline) - Web component based design system starter kit.
-*   [Pharos Design System (⭐62)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+*   [Material Web Components (⭐4.6k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
+*   [Momentum UI Web Components (⭐137)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+*   [OutlineJS (⭐79)](https://github.com/phase2/outline) - Web component based design system starter kit.
+*   [Pharos Design System (⭐60)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
 *   [Red Hat Design System (⭐27)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
-*   [Siemens iX Web Components (⭐49)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
+*   [Siemens iX Web Components (⭐54)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 
 ### Class Based
 
@@ -112,19 +112,17 @@
 *   [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react/)
 *   [Using Web Components With Next (or Any SSR Framework)](https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/)
 
-### Tutorials
-
-*   "**HowTo: Components**" by [Web Fundamentals](https://web.dev)
-    *   [Overview](https://web.dev/components-examples-overview/)
-    *   [`<howto-checkbox>`](https://web.dev/components-howto-checkbox/)
-    *   [`<howto-tabs>`](https://web.dev/components-howto-tabs/)
-    *   [`<howto-tooltip>`](https://web.dev/components-howto-tooltip/)
-
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Typescript Project Starters
 
 *   :ok\_man: [ts-express-boilerplate (⭐22)](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
+
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Cloud Computing
+
+*   [Learn Azure in a Month of Lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original) - Iain Foulds (PDF)
 
 ---
 

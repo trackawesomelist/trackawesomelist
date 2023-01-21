@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -255,7 +255,7 @@
 ### Applications
 
 *   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
-*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐378)](https://github.com/ssbc/patchbay).
+*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐379)](https://github.com/ssbc/patchbay).
 *   [Syncthing-GTK (⭐1.2k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)

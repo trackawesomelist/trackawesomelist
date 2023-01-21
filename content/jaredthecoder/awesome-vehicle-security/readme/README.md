@@ -2,7 +2,7 @@
 
 🚗  A curated list of resources for learning about vehicle security and car hacking.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jaredthecoder/awesome-vehicle-security/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) · ⭐ 2.3K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jaredthecoder/awesome-vehicle-security/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) · ⭐ 2.3K · 🏷️ Security
 
 [ [Daily](/content/jaredthecoder/awesome-vehicle-security/README.md) / [Weekly](/content/jaredthecoder/awesome-vehicle-security/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐156)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐157)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -99,11 +99,11 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐4.9k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐5k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Logging
 
-*   [Quill (⭐674)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐677)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -117,7 +117,7 @@
 
 ### WebSocket
 
-*   [Websocket.Client (⭐521)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+*   [Websocket.Client (⭐523)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
 ---
 

@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Admin Interface
 
-*   [MotorAdmin (⭐494)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
+*   [MotorAdmin (⭐497)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
 ## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -40,16 +40,16 @@
 
 ### Applications / System tools
 
-*   [crabz (⭐230)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
+*   [crabz (⭐233)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 
 ### Libraries / Compression
 
 *   gzp
-    *   [sstadick/gzp (⭐122)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
+    *   [sstadick/gzp (⭐123)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
 
 ### Libraries / Domain driven design
 
-*   [serverlesstechnology/cqrs (⭐149)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
+*   [serverlesstechnology/cqrs (⭐164)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Calendar
 
-*   [Stream (⭐35)](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
+*   [Stream (⭐36)](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
 
 ### Graphics
 
@@ -75,7 +75,7 @@
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
+*   [@vitejs/plugin-react (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
 
 ## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Examples
 
-*   [xnbox/DeepfakeHTTP (⭐432)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
+*   [xnbox/DeepfakeHTTP (⭐441)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
 
 ## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -99,7 +99,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [OhMySMTP Templates (⭐157)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
+*   📁 [OhMySMTP Templates (⭐167)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 
 ## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Context Note (⭐583)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
+*   [Context Note (⭐596)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 
 ---
 

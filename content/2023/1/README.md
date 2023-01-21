@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 02 - Jan 08, 2023
 
-60 awesome lists updated this week.
+58 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,12 +33,12 @@
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐58)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐96)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐218)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐221)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
@@ -142,90 +142,35 @@
 *   [Armbian](https://www.armbian.com/rpi4b/) - A base operating system platform for single board computers (SBCs) that other projects can trust to build upon.
 *   [KonstaKANG](https://konstakang.com/devices/rpi4/) - Unofficial LineageOS and AOSP builds for Raspberry Pi. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐38)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐65)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐31)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐235)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐571)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [locale-kit](https://deno.land/x/localekit) ([GitHub (⭐0)](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 
-## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Vim / Angular
 
 *   [VimTricks](https://vimtricks.com/). Weekly tips and tricks.
 
-## [16. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Games
 
 *   [Lichess mobile (⭐1.6k)](https://github.com/lichess-org/lichobile) - A mobile client for lichess.org.
 
-## [17. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [16. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
-### Open Source Games
+### Open Source Games / C++
 
-*   ### C++
-    *   🔒 [Doom 3 (⭐2.6k)](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
-    *   🔒 [Dungeon Crawl: Stone Soup](https://crawl.develz.org/) [:octocat: (⭐1.9k)](https://github.com/crawl/crawl) - Classic roguelike adventure.
-    *   🎉 [Etheral Legends](https://store.steampowered.com/app/428980/Ethereal_Legends/) [:octocat: (⭐210)](https://github.com/Soverance/EtherealLegends) - Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
-    *   🎉 [OpenLara](http://xproger.info/projects/OpenLara/) [:octocat: (⭐4.1k)](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
-    *   🎉 [TeeWorlds](https://teeworlds.com/) [:octocat: (⭐2k)](https://github.com/teeworlds/teeworlds) - Retro multiplayer shooter.
-    *   🔒 [zDoom](https://zdoom.org/index) [:octocat: (⭐1.7k)](https://github.com/coelckers/gzdoom) - Modern, feature centric port for all Doom engine games.
+*   🔒 [Doom 3 (⭐2.6k)](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
 
-### Specialty Topics
+### Specialty Topics / Rendering
 
-*   ### Rendering
-    *   📚 [GPU Driven Rendering](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/) - Calculating rendering on the GPU in compute shaders.
-    *   📚 [Model Batching](https://webglfundamentals.org/webgl/lessons/webgl-qna-drawing-many-different-models-in-a-single-draw-call.html) - Drawing many different models in a single draw call.
+*   📚 [GPU Driven Rendering](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/) - Calculating rendering on the GPU in compute shaders.
 
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [Build Your Own Redis with C/C++](https://build-your-own.org) - build-your-own.org (HTML) (:construction: *in process*)
-
-## [19. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [17. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Web APIs
 
@@ -245,17 +190,13 @@
 *   [RDchiral (⭐107)](https://github.com/connorcoley/rdchiral) - Wrapper for RDKit's RunReactants to improve stereochemistry handling
 *   [confgen (⭐4)](https://github.com/Et9797/confgen-webapp) - Webapp for generating conformers
 
-## [20. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
-
-### Communities
-
-*   [Discord](https://discord.graphql.org/) - Official GraphQL.org discord channel.
+## [18. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
 *   [graphql-shield-generator (⭐5)](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
 
-## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web / Playground
 
@@ -263,95 +204,98 @@
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Flowbite React (⭐593)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
+*   :octocat: [Flowbite React (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
 
-## [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Embodied Intelligence / Explainable Deep Learning
 
 *   [3D dynamic scene graphs: Actionable spatial perception with places, objects, and humans](https://arxiv.org/abs/2002.06289) - ***RSS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4428742298455436054\&hl=en\&as_sdt=0,5)]. A system for modeling 3D dynamic scene graphs on multiple levels (metric-semantic mesh, objects and agents, places and structures, rooms, and buildings).
 
-## [23. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tips & Tricks / Editors
 
 *   [JMeter tips](https://web.archive.org/web/20221126233834/https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
 
-## [24. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [22. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Producers / JavaScript
 
 *   [node:test](https://nodejs.org/api/test.html) - Minimal TAP test runner included with Node.js.
 
-## [25. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [23. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
 *   [SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities, 2022](https://compsec.snu.ac.kr/papers/jaewon-specdoctor.pdf)
 
-## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
 *   [hetzner-k3s (⭐548)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Testing
 
 *   [ex\_integration\_coveralls (⭐2)](https://github.com/yeshan333/ex_integration_coveralls) - A library for Elixir run-time system code line-level coverage analysis. You can use it to evaluate the integration tests code coverage. [Introduction article (⭐3)](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Queues and Messaging
 
 *   [Lowkiq (⭐137)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
 
-## [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [Stable Diffusion KLMC2 Animation.ipynb forked](https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb): fork by [@DigThatData](https://twitter.com/DigThatData)
 *   [Stable Diffusion KLMC2 Animation.ipynb](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G): notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 
-### Inbox: Music, Audio, and Text-to-speech (TTS) projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / ChatGPT
 
-*   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
-*   [neonbjb/tortoise-tts (⭐2.7k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
+*   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
 
 *   [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
 *   [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
 *   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
-*   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 
-### Other Related Awesome Lists / OpenAI GPT-3
+### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
 
-*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐245)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+*   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
+*   [neonbjb/tortoise-tts (⭐3.5k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+### Related Awesome Lists / Galleries
+
+*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐249)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [regex101](https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.
 
-## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tools/Utilities
 
 *   [Speedster (⭐1.8k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
 *   [create-tf-app (⭐3)](https://github.com/radi-cho/create-tf-app) - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
 
-## [32. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [30. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Frameworks
 
@@ -367,7 +311,7 @@
 *   [Sudoku (⭐18)](https://github.com/coq-community/sudoku) - Formalization and solver of the Sudoku number-placement puzzle in Coq.
 *   [T2048 (⭐21)](https://github.com/thery/T2048) - Coq version of the 2048 sliding tile game.
 
-## [33. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [31. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Security
 
@@ -377,7 +321,7 @@
 
 *   [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
 
-## [34. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [32. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### Featured
 
@@ -387,29 +331,32 @@
 
 *   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐495)](https://github.com/terry3041/pyChatGPT)
 
-## [35. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [33. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Vulnerability Databases / Social Engineering Tools
 
 *   [VulDB](https://vuldb.com) - Independent vulnerability database with user community, exploit details, and additional meta data (e.g. CPE, CVSS, CWE)
 
-## [36. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [34. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Other / Editor plugins
+### Editor plugins / VS Code
 
-*   [vscode-vlang (⭐332)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
-*   [IntelliJ V (⭐109)](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
+*   [vscode-vlang (⭐337)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 
-### Other / Online IDEs with V
+### Editor plugins / IntelliJ & CLion & GoLand etc
+
+*   [IntelliJ V (⭐126)](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
+
+### Online IDEs with V / IntelliJ & CLion & GoLand etc
 
 *   [V Playground](https://play.vlang.io)
 *   [V Playground (old)](https://v-wasm.now.sh/)
 
-### Other / Programming contests
+### Programming contests / IntelliJ & CLion & GoLand etc
 
 *   [Advent of Code 2022 (⭐21)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 
-## [37. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [35. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Ethernet
 
@@ -429,19 +376,19 @@
 
 *   [mpbridge (⭐11)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronise and manage files on a MicroPython running device.
 
-## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GraphQL
 
-*   [ZeroQL (⭐142)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
+*   [ZeroQL (⭐147)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
-## [39. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [37. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - Another getting started article with modern pen plotters.
 
-## [40. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [38. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -455,13 +402,13 @@
 
 *   [Synthesized](https://www.synthesized.io) - Create, validate, and safely share high-quality data for software testing, model training, and data analysis without any manual configuration.
 
-## [41. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [39. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### CI/CD
 
 *   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
 
-## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [40. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -473,34 +420,33 @@
 ### Boilerplates
 
 *   [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Pretter, Eslint etc. configs. ✨
-*   [Hydrogen](https://statichunt.com/themes/next-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
 
 ### Books
 
 *   [Cut Into The Jamstack: Build a SaaS with React and Next.js](https://www.cutintothejamstack.com/) - Build a full-stack software-as-a-service application using Next.js, Prisma ORM, Cloudinary API, Chakra-UI and React Hook Form.
 
-## [43. Tools](/content/lvwzhen/tools/week/README.md)
+## [41. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Color
 
 *   [Branding Colors](https://branition.com/colors)
 
-## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [brew (wintermi) (⭐1)](https://github.com/wintermi/zsh-brew) - Simple plugin for the [Homebrew](https://brew.sh/) Package Manager.
 *   [cmaker (⭐4)](https://github.com/apalkk/Cmaker) - Makes using `cmake` easier.
 *   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
-*   [golang (⭐0)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
-*   [lsd (⭐0)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐8.9k)](https://github.com/Peltoche/lsd).
+*   [golang (⭐1)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
+*   [lsd (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9k)](https://github.com/Peltoche/lsd).
 *   [rust (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
-*   [rust (wintermi) (⭐0)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
+*   [rust (wintermi) (⭐1)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gcloud (littleq0903) (⭐76)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
-*   [gcloud (wintermi) (⭐0)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface (gcloud CLI) completions.
+*   [gcloud (wintermi) (⭐1)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface (gcloud CLI) completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -508,294 +454,249 @@
 *   [fe80 (⭐0)](https://github.com/fe80/fe80.zsh-theme) - Includes decorators for `git` information, current directory, user\@hostname, time, and the return code of last command when it is nonzero.
 *   [purr (⭐0)](https://github.com/mubinben/purr-zsh-theme) - Includes decorators for username, current directory and `git` information.
 
-## [45. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [43. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
 *   [JupyterLab Desktop (⭐2.1k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
 
-## [46. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [44. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### System Requirements
 
-*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
 *   [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/)
 *   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
 *   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
+*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
 
-### Downloading, Installing, Upgrading and Building
+### Downloading, Installing, Upgrading, and Building
 
-*   [Downloading](https://www.qubes-os.org/downloads/)
-*   [Installing](https://www.qubes-os.org/doc/installation-guide/)
-*   [Upgrading](https://www.qubes-os.org/doc/upgrade/)
-*   [Building (⭐3)](https://github.com/QubesOS/qubes-builderv2)
+*   [Building (⭐3)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
+*   [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
+*   [Upgrading](https://www.qubes-os.org/doc/upgrade/) - These guides are for upgrading from one version of Qubes to another.
 
 ### How-to guides
 
-*   [How to update](https://www.qubes-os.org/doc/how-to-update/)
 *   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/)
-*   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/)
 *   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/)
+*   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/)
 *   [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/)
-*   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/)
-*   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/)
 *   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/)
-*   [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/)
-*   [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/)
-*   [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/)
+*   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/)
+*   [How to update](https://www.qubes-os.org/doc/how-to-update/)
 *   [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
+*   [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/)
+*   [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/)
+*   [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/)
+*   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/)
 *   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/)
 
 ### Templates
 
-*   [Templates](https://www.qubes-os.org/doc/templates/)
-*   [Template: Ubuntu (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
-*   [Template: Windows (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
-*   [Customizing Windows 7 templates (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md)
-*   [Template: Whonix (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
-*   [Template: CentOS (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
-*   [Template: Gentoo (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
-*   [Pentesting: BlackArch (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md)
-*   [Pentesting: Kali (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md)
-*   [Pentesting: Parrot](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
-*   [Pentesting: PTF (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md)
-*   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/)
+*   [Creating a NetBSD VM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
+*   [Customizing Fedora minimal templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md)
+*   [Customizing Windows 7 templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md)
 *   [Debian templates](https://www.qubes-os.org/doc/templates/debian/)
+*   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/)
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/)
-*   [Customizing Fedora minimal templates (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md)
+*   [Pentesting: BlackArch (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md)
+*   [Pentesting: Kali (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md)
+*   [Pentesting: PTF (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md)
+*   [Pentesting: Parrot](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
+*   [Template: CentOS (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
+*   [Template: Gentoo (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
+*   [Template: Ubuntu (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
+*   [Template: Whonix (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
+*   [Template: Windows (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
+*   [Templates](https://www.qubes-os.org/doc/templates/)
+*   [Tips for Using Linux in an HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 *   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/)
-*   [Tips for Using Linux in an HVM (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
-*   [Creating a NetBSD VM (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
 
-### Video & Screen Sharing
+### Desktop Customization
 
-*   [qubes-video-companion (⭐44)](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
-
-### Custom Desktop
-
-*   [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
-*   [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-*   [suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
+*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
+*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
+*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
 
 ### Darknet
 
-*   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
-*   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
+*   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on qubes-whonix.
 *   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
+*   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
 ### Crypto
 
-*   [awesome-desci (⭐17)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
-*   [Split Bitcoin Wallet (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md)
+*   [Split Bitcoin Wallet (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 
 ### Security
 
-*   [Firewall](https://www.qubes-os.org/doc/firewall/)
+*   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
-*   [Passwordless root access in qubes](https://www.qubes-os.org/doc/vm-sudo/)
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
-*   [Anti evil maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
+*   [Firewall](https://www.qubes-os.org/doc/firewall/)
+*   [Reducing the fingerprint of the text-based web browser w3m (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
+*   [Running Tails in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
+*   [Signal (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
 *   [Split GPG](https://www.qubes-os.org/doc/split-gpg/)
-*   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
-*   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
-*   [Using Multi-Factor Authentication with Qubes (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
+*   [Split SSH (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
 *   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt)
-*   [Split SSH (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
+*   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
+*   [Using Multi-Factor Authentication with Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
 *   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
-*   [Whonix for Privacy & Anonymity (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
-*   [Running Tails in Qubes (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
-*   [Anonymizing your MAC Address (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
-*   [Signal (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
-*   [Reducing the fingerprint of the text-based web browser w3m (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
-
-### Exploitation Tools
-
-*   [awesome-virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
-*   [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine
-*   [microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library
-*   [radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
-*   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
-*   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
-*   [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
-*   [joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
-*   [awesome-fuzzing (⭐611)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
-*   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-*   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-
-    *   [MemProcFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
-*   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
-
-    *   [LeechCore-pluins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
-*   [memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-
-    *   [qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
-    *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - kvm memflow connector
-    *   [pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - access pcileech interface
-    *   [coredump (⭐7)](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
+*   [Whonix for Privacy & Anonymity (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
+*   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
 ### Kernels
 
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
-*   [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
-*   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
 
-### Unikernels
+### Kernels / Microkernels
 
-*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
+*   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
+
+### Kernels / Unikernels
+
 *   [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
 *   [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
-*   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 *   [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
+*   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 
-### Unikernel-like
+### Kernels / Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 *   [Graphene (⭐746)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
-### Xen Exploitation
+### Exploitation Tools / Unikernel-like
 
+*   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
+*   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [LeechCore (⭐276)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+    *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+*   [Volatility3 (⭐1.3k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+
+### Xen Exploitation / Video Presentations
+
+*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+*   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
 *   [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM)
-*   [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
-*   [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
-*   [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
-*   [XenPwn: Breaking paravirtualized devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
-*   [Advanced Exploitation: Xen Hypervisor VM Escape ](https://www.youtube.com/watch?v=6Ld5CiInrcI)
+*   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+*   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+
+### Xen Exploitation / Web articles
+
+*   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
 *   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 *   [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
-*   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo\&t=3s)
-*   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
-*   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
-*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
-*   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
-*   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
-*   [Hypervisor Vulnerability Research - State of the Art](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
 
-### VM-Hardening
-
-*   [qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
-
-### System
+### System / Web articles
 
 *   [Architecture](https://www.qubes-os.org/doc/architecture/)
+*   [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
+*   [Networking](https://www.qubes-os.org/doc/networking/)
+*   [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
+*   [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
+*   [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
 *   [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
 *   [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
-*   [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
-*   [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
-*   [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
-*   [GUI virtualization](https://www.qubes-os.org/doc/gui/)
-*   [Networking](https://www.qubes-os.org/doc/networking/)
-*   [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
 *   [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
-*   [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
+*   [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
 *   [Template manager](https://www.qubes-os.org/doc/template-manager/)
 
-### Services
+### Services / Web articles
 
-*   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
-*   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
-*   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
-*   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
-*   [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
-*   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
 *   [Admin API](https://www.qubes-os.org/doc/admin-api/)
+*   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
+*   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
+*   [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
+*   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
+*   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
+*   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
 
-### Advanced Topics
+### Advanced Topics / Web articles
 
-*   [How to install software in dom0](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/)
-*   [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
-*   [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
-*   [Windows qubes](https://www.qubes-os.org/doc/windows/)
 *   [Config files](https://www.qubes-os.org/doc/config-files/)
-*   [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
-*   [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
-*   [USB qubes](https://www.qubes-os.org/doc/usb-qubes/)
-*   [Managing qube kernels](https://www.qubes-os.org/doc/managing-vm-kernels/)
-*   [Salt (management software)](https://www.qubes-os.org/doc/salt/)
 *   [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/)
-*   [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/)
+*   [How to install software in dom0](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/)
 *   [How to make any file persistent (bind-dirs)](https://www.qubes-os.org/doc/bind-dirs/)
-*   [GUI configuration](https://www.qubes-os.org/doc/gui-configuration/)
-*   [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
-*   [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
 *   [How to mount a Qubes partition from another OS](https://www.qubes-os.org/doc/mount-from-other-os/)
-*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
-*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
-*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
+*   [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/)
+*   [Managing qube kernels](https://www.qubes-os.org/doc/managing-vm-kernels/)
+*   [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
+*   [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
+*   [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
+*   [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
+*   [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
+*   [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
 
-### Qubes OS Legends
+### Qubes OS Legends / Web articles
 
-*   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
-*   [Marek Marczykowski-Górecki](https://github.com/marmarek)
-*   [unman](https://github.com/unman?tab=repositories)
-    *   [templates](https://qubes.3isec.org/Templates_4.1/)
-*   [Core Team](https://www.qubes-os.org/team/#core-team)
-*   You can be one to! You got this! Keep Qubing!
+*   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
+    *   [Blog](https://blog.invisiblethings.org/) - Personal Blog.
+*   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 
-### Training
+### Training and Materials / Web articles
 
-*   [xn0px90](https://patreon.com/xn0px90)
+*   [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
-### Streamers
+### Streamers / Web articles
 
-*   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::streamer!
-*   [infosecstreams](https://infosecstreams.com/) -A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers
+*   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
 
-### Companies using Qubes OS
+### Companies using Qubes OS / Web articles
 
-*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners
+*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
 
-### Social media
+### Social media / Web articles
 
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
-*   `#qubes-os` channel on irc.anonops.com via traditional IRC clients
 
-### Releases
+### Releases / Web articles
 
-*   [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
-*   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
 *   [Release notes](https://www.qubes-os.org/doc/releases/notes/)
 *   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
+*   [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
+*   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
 
-## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐590)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
+*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐656)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
 *   [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. ([Source Code](https://gitlab.com/fdroid/fdroidserver)) `AGPL-3.0` `Python/Docker`
 
-## [48. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [46. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [RestQA (⭐55)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
-## [49. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [47. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
 *   [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 *   [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 
-## [50. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [48. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 3D / Godot 3.2+
 
 *   [Boom (⭐2)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 
-## [51. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [49. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### ToDos
 
-*   [ididit! (⭐68)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
+*   [ididit! (⭐105)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
 
 ### Articles / Others
 
 *   [Build Your Own Podcast App with .NET 7, Blazor, and .NET MAUI](https://devblogs.microsoft.com/dotnet/build-your-own-podcast-app-with-dotnet-blazor-and-dotnet-maui/) - December 19, 2022 - The .NET Podcast app was first introduced at .NET Conf 2021 and recently updated to highlight new features in .NET 7 at the .NET Conf 2022 keynote. The podcast app is ready to use sample application that showcases .NET, ASP.NET Core, Blazor, .NET MAUI, Azure Container Apps, Orleans, Power Platform, Playwright, and more. This post explains all the new features and show how we upgraded the .NET Podcast app to take advantage of them.
 
-## [52. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [50. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Introduction
 
@@ -882,7 +783,7 @@
 *   [Where to begin building Web Components? - The Basics](https://dev.to/alangdm/where-to-begin-building-web-components-the-basics-3b78)
 *   [Where to begin building Web Components? - Class-based Libraries](https://dev.to/alangdm/where-to-begin-building-web-components-class-based-libraries-18m6)
 
-## [53. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [51. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -900,19 +801,19 @@
     *   [waka-box (⭐1.2k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
     *   [waka-box-go (⭐150)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 
-## [54. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [52. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Other OS:
 
 *   [AtlasOS](https://atlasos.net/) - An open-source modification of Windows 10, designed to optimize performance, and latency. Atlas removes all types of tracking embedded within Windows and implements numerous group policies to minimize data collection.
 
-## [55. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Videos
 
 *   [Caleb Curry's C Programming Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) - An all-in-one playlist of tutorials for C programming.
 
-## [56. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [54. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Virtualisation / Newsletters
 
@@ -928,7 +829,7 @@
 *   [nil (⭐327)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 *   [nix-update (⭐158)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 
-## [57. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [55. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### LaTeX-compatible GUI tools
 
@@ -946,13 +847,13 @@
 
 *   [TopAnswers TeX](https://topanswers.xyz/tex) - a free and open source Q\&A site for TeX and friends
 
-## [58. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [56. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
 
-## [59. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [57. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -982,7 +883,7 @@
 
 *   [XXiaoA/ns-textobject.nvim (⭐10)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
 
-## [60. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [58. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -990,5 +891,5 @@
 
 ---
 
-- Prev: [Sep 10 - Sep 16, 2012](/content/2012/37/README.md)
+- Prev: [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 - Next: [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)

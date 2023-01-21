@@ -2,7 +2,7 @@
 
 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/thomasbnt/awesome-web-monetization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) · ⭐ 237 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/thomasbnt/awesome-web-monetization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) · ⭐ 237 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/thomasbnt/awesome-web-monetization/week/README.md) / [Overview](/content/thomasbnt/awesome-web-monetization/readme/README.md) ]
 

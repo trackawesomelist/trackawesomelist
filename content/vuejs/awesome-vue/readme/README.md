@@ -2,7 +2,7 @@
 
 🎉 A curated list of awesome things related to Vue.js
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vuejs/awesome-vue/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ⭐ 67K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vuejs/awesome-vue/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ⭐ 67K · 🏷️ Front-End Development
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / [Weekly](/content/vuejs/awesome-vue/week/README.md) / Overview ]
 

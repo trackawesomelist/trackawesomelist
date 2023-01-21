@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐286)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐287)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Demo
 
-*   [Sitecore MVP (⭐62)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
+*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 
 ## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

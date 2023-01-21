@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,16 +12,15 @@
 
 *   [Bootstrap ROM](https://tcrf.net/Game_Boy_Color_Bootstrap_ROM)
 *   [Colorization palettes in the BIOS](https://forums.nesdev.com/viewtopic.php?p=114388\&sid=c3d4ce08cfd9d9c834958d4f148750c3#p114388)
-*   [ROM Disassembly](https://gist.github.com/drhelius/6063265)
 
 ### Peripherals / Opcodes
 
-*   [Game Boy Camera RE (⭐66)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
-*   [Arduino Game Boy Printer Emulator (⭐248)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
+*   [Game Boy Camera RE (⭐68)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
+*   [Arduino Game Boy Printer Emulator (⭐255)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
 
 ### Cartridges / Custom cartridges
 
-*   [Homebrew-Gameboy-Cartridge (⭐113)](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.
+*   [Homebrew-Gameboy-Cartridge (⭐114)](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.
 
 ### Emulator Development / Misc
 
@@ -90,7 +89,7 @@
 
 ### Database
 
-*   [LiteDB (⭐7.1k)](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
+*   [LiteDB (⭐7.2k)](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
 
 ### Decompilation
 
@@ -135,7 +134,7 @@
 
 ### Object to object mapping
 
-*   [AutoMapper (⭐9.1k)](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. <https://automapper.org>
+*   [AutoMapper (⭐9.2k)](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. <https://automapper.org>
 
 ### Office
 
@@ -169,7 +168,7 @@
 
 ### Machine Learning
 
-*   [flashlight (⭐4.6k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
+*   [flashlight (⭐4.7k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
 
 ## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

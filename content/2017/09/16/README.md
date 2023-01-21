@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,14 +10,14 @@
 
 ### Scripts / GitHub
 
-*   [Github Reply Comments (⭐287)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
-*   [GitHub Commit Whitespace (⭐287)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-*   [Github Commit Diff (⭐287)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [GitHub User Info (⭐287)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
-*   [GitHub Image Viewer (⭐287)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-*   [Github News Feed Filter (⭐287)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [Github Pull Request From Link (⭐287)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-*   [Github Pages Linker (⭐287)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [Github Reply Comments (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+*   [GitHub Commit Whitespace (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
+*   [Github Commit Diff (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+*   [GitHub User Info (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
+*   [GitHub Image Viewer (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+*   [Github News Feed Filter (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+*   [Github Pull Request From Link (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [Github Pages Linker (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -47,7 +47,7 @@
 
 ### CLI
 
-*   [PDCurses (⭐821)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
+*   [PDCurses (⭐829)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
 
 ## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

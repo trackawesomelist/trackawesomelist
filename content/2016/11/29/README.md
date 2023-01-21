@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@
 ### Boilerplates / Themes
 
 *   [React SPA (⭐515)](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
-*   [React Antd Starter (⭐103)](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
+*   [React Antd Starter (⭐102)](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
 *   [React Redux Antd Starter (⭐89)](https://github.com/BetaRabbit/react-redux-antd-starter) - Front-end boilerplate built with React, Redux and Ant Design.
 *   [Koa (⭐65)](https://github.com/yukrain/koa-antd-admin) - Example app to build Admin UI built with React, Ant Design and Koa.
 *   [Star Admin (⭐76)](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel.
@@ -74,7 +74,7 @@
 
 ### Packages / Job queues
 
-*   [idoit (⭐64)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
+*   [idoit (⭐66)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

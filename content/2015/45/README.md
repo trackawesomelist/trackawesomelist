@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2015
 
-28 awesome lists updated this week.
+27 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -84,7 +84,7 @@
 
 ### CLI
 
-*   [docopt.cpp (⭐981)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
+*   [docopt.cpp (⭐983)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
 
 ## [8. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐612)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐614)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -131,7 +131,7 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐278)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐282)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ### Queues and Messaging
 
@@ -184,7 +184,7 @@
 
 ### Maps / Third Party
 
-*   [mapmap.js (⭐103)](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
+*   [mapmap.js (⭐108)](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 
 ## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -203,7 +203,7 @@
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐308)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐309)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Embedded Systems
 
@@ -301,12 +301,12 @@ git describe --tags --abbrev=0
 
 ### Packages / Command-line utilities
 
-*   [chalk (⭐19k)](https://github.com/chalk/chalk) - Terminal string styling done right.
+*   [chalk (⭐20k)](https://github.com/chalk/chalk) - Terminal string styling done right.
 *   [multispinner (⭐286)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 
 ### Packages / Streams
 
-*   [readable-stream (⭐965)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
+*   [readable-stream (⭐979)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 
 ### Packages / Real-time
 
@@ -330,8 +330,8 @@ git describe --tags --abbrev=0
 
 ### Packages / Minifiers
 
-*   [minimize (⭐160)](https://github.com/Swaagie/minimize) - HTML minifier.
-*   [imagemin (⭐5.2k)](https://github.com/imagemin/imagemin) - Image minifier.
+*   [minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [imagemin (⭐5.3k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 
@@ -357,28 +357,10 @@ git describe --tags --abbrev=0
 
 ### UI / Barcode
 
-*   [GMStepper (⭐917)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [GMStepper (⭐916)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 *   [StarryStars (⭐175)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
-## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Agda
-
-*   [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
-
-### Force.com / Phoenix
-
-*   [Developer Workbooks](http://developer.force.com/workbook)
-
-### Groovy / Spock Framework
-
-*   [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Guide to Python's Magic Methods (⭐1.6k)](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
-
-## [27. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [26. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -418,7 +400,7 @@ git describe --tags --abbrev=0
 *   [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) - Former software architect for Microsoft, Functional Programming researcher, gives lectures on	FP, Software Design and Reactive programming.
 *   [Brian Beckman](https://www.linkedin.com/in/brianbeckman) - Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#
 
-## [28. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [27. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 

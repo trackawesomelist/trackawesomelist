@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 01 - Jun 07, 2015
 
-27 awesome lists updated this week.
+26 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -88,11 +88,11 @@
 
 ### Command Line Applications
 
-*   [getopt (⭐241)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+*   [getopt (⭐242)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ### Framework Components
 
-*   [phoenix\_pubsub\_redis (⭐165)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
+*   [phoenix\_pubsub\_redis (⭐166)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 *   [scaffold (⭐6)](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 
 ### Frameworks
@@ -105,7 +105,7 @@
 *   [isn (⭐8)](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 *   [level (⭐5)](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
 *   [mongo (⭐100)](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
-*   [sqlite\_ecto (⭐75)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
+*   [sqlite\_ecto (⭐76)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
 
 ### Release Management
 
@@ -113,7 +113,7 @@
 
 ### Testing
 
-*   [proper (⭐846)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐845)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Text and Numbers
 
@@ -142,23 +142,23 @@
 
 ### Template Engine
 
-*   [Nustache (⭐574)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐944)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐573)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐948)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
-*   [geojson-coords (⭐27)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
+*   [geojson-coords (⭐28)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-js-utils (⭐399)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-*   [geojson-merge (⭐218)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+*   [geojson-js-utils (⭐400)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
+*   [geojson-merge (⭐219)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 *   [geojson-normalize (⭐30)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 *   [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
 *   [geojson-rewind (⭐109)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 *   [geojson-summary (⭐32)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 *   [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
-*   [simplify-geojson (⭐160)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+*   [simplify-geojson (⭐162)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### validation
 
@@ -175,7 +175,7 @@
 *   [geojson-vt (⭐1.6k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
 *   [geojson2rtree (⭐9)](https://github.com/maxogden/geojson2rtree): generate a static rtree (using terraformer) from a set of geojson features
 *   [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
-    *   [fiona (⭐978)](https://github.com/toblerity/fiona): nice python interface on top of ogr
+    *   [fiona (⭐988)](https://github.com/toblerity/fiona): nice python interface on top of ogr
 *   [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
 
 ### data
@@ -190,7 +190,7 @@
 
 ### serialization
 
-*   [python-geojson (⭐757)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [python-geojson (⭐764)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
 *   [rust-geojson (⭐177)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [10. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
@@ -206,13 +206,7 @@
 
 *   [Rcpp11 (⭐79)](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
 
-## [12. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
-
-### Miscellaneous / Third Party
-
-*   [dragit (⭐188)](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
-
-## [13. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [12. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Project management
 
@@ -220,19 +214,19 @@
 *   [Phabricator (⭐12k)](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
 *   [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
-## [14. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [13. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### Hybrid Mobile / Resources-websites-projects
 
 *   [Telerik Platform](http://www.telerik.com/platform)
 
-## [15. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [14. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tutorials
 
 *   [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
 
-## [16. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [15. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -254,7 +248,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 **TL;DR** - don't escape, use prepared statements instead!
 
-## [17. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [16. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Javascript
 
@@ -292,7 +286,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 *   [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
 
-## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [17. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Loading Images
 
@@ -307,11 +301,11 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 *   [React Native (⭐105k)](https://github.com/facebook/react-native) - A framework for building native apps with React by Facebook.
 *   [Apache Cordova (⭐3.4k)](https://github.com/apache/cordova-android) - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Configuration
 
-*   [ENVied (⭐331)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
+*   [ENVied (⭐332)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
 
 ### DevOps Tools
 
@@ -321,19 +315,19 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 *   [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 
-## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Filtering and Validation
 
 *   [Volan (⭐43)](https://github.com/serkin/Volan) - Another simplified validation library.
 
-## [21. Typography](/content/deanhume/typography/week/README.md)
+## [20. Typography](/content/deanhume/typography/week/README.md)
 
 ### Font Combinations
 
 *   [100 Days of Fonts](http://100daysoffonts.com/)
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
@@ -343,7 +337,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 *   [Caffe DockerFile (⭐83)](https://github.com/tleyden/docker/tree/master/caffe)
 
-## [23. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [22. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Blockchain API and Web services
 
@@ -364,9 +358,9 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐4.7k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐4.8k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
-## [24. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [23. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
@@ -380,7 +374,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 *   [Reagi (⭐224)](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 
-## [25. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [24. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
@@ -400,13 +394,13 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 *   [Polymer boilerplate (⭐371)](https://github.com/webcomponents/polymer-boilerplate)
 *   [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
 
-## [26. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [25. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / JavaScript
 
 *   [Comparing two arrays in Javascript](http://stackoverflow.com/a/14853974/1766338)
 
-## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### ES6 / Other
 

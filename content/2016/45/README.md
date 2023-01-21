@@ -2,7 +2,7 @@
 
 37 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,7 +48,7 @@
 
 *   OAuth
     *   [authlib (⭐3.4k)](https://github.com/lepture/authlib) - JavaScript Object Signing and Encryption draft implementation.
-    *   [django-allauth (⭐7.6k)](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
+    *   [django-allauth (⭐7.7k)](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
     *   [django-oauth-toolkit (⭐2.7k)](https://github.com/evonove/django-oauth-toolkit) - OAuth 2 goodies for Django.
     *   [oauthlib (⭐2.5k)](https://github.com/idan/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
     *   [python-oauth2 (⭐3k)](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
@@ -60,8 +60,8 @@
 
 ### Caching
 
-*   [django-cache-machine (⭐846)](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
-*   [django-cacheops (⭐1.7k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
+*   [django-cache-machine (⭐847)](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
+*   [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 
 ### Concurrency and Parallelism
 
@@ -84,15 +84,15 @@
 
 ### Data Validation
 
-*   [jsonschema (⭐3.9k)](https://github.com/Julian/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
+*   [jsonschema (⭐4k)](https://github.com/Julian/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
 *   [schema (⭐2.7k)](https://github.com/keleshev/schema) - A library for validating Python data structures.
 *   [Schematics (⭐2.5k)](https://github.com/schematics/schematics) - Data Structure Validation.
-*   [valideer (⭐258)](https://github.com/podio/valideer) - Lightweight extensible data validation and adaptation library.
+*   [valideer](https://github.com/podio/valideer) - Lightweight extensible data validation and adaptation library.
 *   [voluptuous (⭐1.8k)](https://github.com/alecthomas/voluptuous) - A Python data validation library.
 
 ### Data Visualization
 
-*   [Altair (⭐7.9k)](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
+*   [Altair (⭐8k)](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
 *   [Bokeh (⭐17k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 *   [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
 *   [Pygal](http://www.pygal.org/en/latest/) - A Python SVG Charts Creator.
@@ -102,21 +102,21 @@
 
 ### Date and Time
 
-*   [Pendulum (⭐5.2k)](https://github.com/sdispater/pendulum) - Python datetimes made easy.
+*   [Pendulum (⭐5.3k)](https://github.com/sdispater/pendulum) - Python datetimes made easy.
 *   [pytz](https://launchpad.net/pytz) - World timezone definitions, modern and historical. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
 *   [when.py (⭐191)](https://github.com/dirn/When.py) - Providing user-friendly functions to help perform common date and time actions.
 
 ### Debugging Tools
 
 *   pdb-like Debugger
-    *   [ipdb (⭐1.6k)](https://github.com/gotcha/ipdb) - IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html).
+    *   [ipdb (⭐1.7k)](https://github.com/gotcha/ipdb) - IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html).
     *   [pdb++ (⭐1k)](https://github.com/antocuni/pdb) - Another drop-in replacement for pdb.
     *   [pudb (⭐2.6k)](https://github.com/inducer/pudb) - A full-screen, console-based Python debugger.
     *   [wdb (⭐1.6k)](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets.
 *   Others
     *   [django-debug-toolbar (⭐7.3k)](https://github.com/jazzband/django-debug-toolbar) - Display various debug information for Django.
     *   [django-devserver (⭐1.3k)](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
-    *   [flask-debugtoolbar (⭐858)](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
+    *   [flask-debugtoolbar (⭐863)](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
     *   [icecream (⭐6.5k)](https://github.com/gruns/icecream) - Inspect variables, expressions, and program execution with a single, simple function call.
     *   [pyelftools (⭐1.6k)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
 
@@ -130,16 +130,16 @@
 *   [Nuitka](http://nuitka.net/) - Compile scripts, modules, packages to an executable or extension module.
 *   [py2app](http://pythonhosted.org/py2app/) - Freezes Python scripts (Mac OS X).
 *   [py2exe](http://www.py2exe.org/) - Freezes Python scripts (Windows).
-*   [PyInstaller (⭐9.8k)](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform).
+*   [PyInstaller (⭐9.9k)](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform).
 
 ### Documentation
 
-*   [sphinx (⭐5k)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
-    *   [awesome-sphinxdoc (⭐829)](https://github.com/yoloseem/awesome-sphinxdoc)
+*   [sphinx (⭐5.1k)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
+    *   [awesome-sphinxdoc (⭐833)](https://github.com/yoloseem/awesome-sphinxdoc)
 
 ### E-commerce
 
-*   [Cartridge (⭐676)](https://github.com/stephenmcd/cartridge) - A shopping cart app built using the Mezzanine.
+*   [Cartridge (⭐680)](https://github.com/stephenmcd/cartridge) - A shopping cart app built using the Mezzanine.
 
 ### Editor Plugins and IDEs
 
@@ -155,7 +155,7 @@
 
 ### Files
 
-*   [python-magic (⭐2.2k)](https://github.com/ahupp/python-magic) - A Python interface to the libmagic file type identification library.
+*   [python-magic (⭐2.3k)](https://github.com/ahupp/python-magic) - A Python interface to the libmagic file type identification library.
 *   [Unipath (⭐506)](https://github.com/mikeorr/Unipath) - An object-oriented approach to file/directory operations.
 *   [watchdog (⭐5.6k)](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events.
 
@@ -166,7 +166,7 @@
 
 ### Forms
 
-*   [Deform (⭐390)](https://github.com/Pylons/deform) - Python HTML form generation library influenced by the formish form generation library.
+*   [Deform (⭐391)](https://github.com/Pylons/deform) - Python HTML form generation library influenced by the formish form generation library.
 *   [django-bootstrap3 (⭐2.3k)](https://github.com/dyve/django-bootstrap3) - Bootstrap 3 integration with Django.
 *   [django-remote-forms (⭐219)](https://github.com/WiserTogether/django-remote-forms) - A platform independent Django form serializer.
 *   [WTForms (⭐1.4k)](https://github.com/wtforms/wtforms) - A flexible forms validation and rendering library.
@@ -196,19 +196,19 @@
 
 *   [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
 *   [GeoIP (⭐230)](https://github.com/maxmind/geoip-api-python) - Python API for MaxMind GeoIP Legacy Database.
-*   [geojson (⭐757)](https://github.com/frewsxcv/python-geojson) - Python bindings and utilities for GeoJSON.
+*   [geojson (⭐764)](https://github.com/frewsxcv/python-geojson) - Python bindings and utilities for GeoJSON.
 *   [geopy (⭐3.8k)](https://github.com/geopy/geopy) - Python Geocoding Toolbox.
 
 ### HTML Manipulation
 
 *   [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
-*   [bleach (⭐2.4k)](https://github.com/mozilla/bleach) - A whitelist-based HTML sanitization and text linkification library.
-*   [MarkupSafe (⭐511)](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
+*   [bleach (⭐2.5k)](https://github.com/mozilla/bleach) - A whitelist-based HTML sanitization and text linkification library.
+*   [MarkupSafe (⭐514)](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 *   [WeasyPrint](http://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
 
 ### HTTP Clients
 
-*   [treq (⭐552)](https://github.com/twisted/treq) - Python requests like API built on top of Twisted's HTTP client.
+*   [treq (⭐553)](https://github.com/twisted/treq) - Python requests like API built on top of Twisted's HTTP client.
 *   [urllib3 (⭐3.2k)](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
 
 ### Hardware
@@ -216,17 +216,17 @@
 *   [ino](http://inotool.org/) - Command line toolkit for working with [Arduino](https://www.arduino.cc/).
 *   [Pingo](http://www.pingo.io/) - Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
 *   [PyUserInput (⭐1k)](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard.
-*   [scapy (⭐8.2k)](https://github.com/secdev/scapy) - A brilliant packet manipulation library.
+*   [scapy (⭐8.3k)](https://github.com/secdev/scapy) - A brilliant packet manipulation library.
 
 ### Image Processing
 
 *   [hmap (⭐199)](https://github.com/rossgoodwin/hmap) - Image histogram remapping.
 *   [imgSeek](https://sourceforge.net/projects/imgseek/) - A project for searching a collection of images using visual similarity.
-*   [nude.py (⭐877)](https://github.com/hhatto/nude.py) - Nudity detection.
+*   [nude.py (⭐880)](https://github.com/hhatto/nude.py) - Nudity detection.
 *   [pagan (⭐280)](https://github.com/daboth/pagan) - Retro identicon (Avatar) generation based on input string and hash.
 *   [pillow (⭐10k)](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
 *   [pygram](https://github.com/ajkumar25/pygram) - Instagram-like image filters.
-*   [python-qrcode (⭐3.4k)](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
+*   [python-qrcode (⭐3.5k)](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
 *   [Quads (⭐1.1k)](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
 *   [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
 *   [thumbor (⭐9.3k)](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
@@ -240,11 +240,11 @@
 ### Internationalization
 
 *   [Babel](http://babel.pocoo.org/en/latest/) - An internationalization library for Python.
-*   [PyICU (⭐128)](https://github.com/ovalhub/pyicu) - A wrapper of International Components for Unicode C++ library ([ICU](http://site.icu-project.org/)).
+*   [PyICU (⭐129)](https://github.com/ovalhub/pyicu) - A wrapper of International Components for Unicode C++ library ([ICU](http://site.icu-project.org/)).
 
 ### Job Scheduler
 
-*   [django-schedule (⭐812)](https://github.com/thauber/django-schedule) - A calendaring app for Django.
+*   [django-schedule (⭐814)](https://github.com/thauber/django-schedule) - A calendaring app for Django.
 *   [doit](http://pydoit.org/) - A task runner and build tool.
 *   [gunnery (⭐747)](https://github.com/gunnery/gunnery) - Multipurpose task execution tool for distributed systems with web-based interface.
 *   [Plan (⭐1.2k)](https://github.com/fengsp/plan) - Writing crontab file in Python like a charm.
@@ -255,13 +255,13 @@
 
 *   [NuPIC (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 *   [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
-*   [vowpal\_porpoise (⭐163)](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit (⭐8.1k)](https://github.com/JohnLangford/vowpal_wabbit/).
+*   [vowpal\_porpoise (⭐164)](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit (⭐8.1k)](https://github.com/JohnLangford/vowpal_wabbit/).
 
 ### Microsoft Windows
 
 *   [Python(x,y)](http://python-xy.github.io/) - Scientific-applications-oriented Python Distribution based on Qt and Spyder.
 *   [pythonlibs](http://www.lfd.uci.edu/\~gohlke/pythonlibs/) - Unofficial Windows binaries for Python extension packages.
-*   [PythonNet (⭐3.4k)](https://github.com/pythonnet/pythonnet) - Python Integration with the .NET Common Language Runtime (CLR).
+*   [PythonNet (⭐3.5k)](https://github.com/pythonnet/pythonnet) - Python Integration with the .NET Common Language Runtime (CLR).
 *   [WinPython](https://winpython.github.io/) - Portable development environment for Windows 7/8.
 
 ### Miscellaneous
@@ -284,7 +284,7 @@
 
 ### Package Management
 
-*   [conda (⭐5k)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
+*   [conda (⭐5.1k)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
 
 ### Permissions
 
@@ -313,8 +313,8 @@
     *   [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
     *   [pyexcel (⭐1.1k)](https://github.com/pyexcel/pyexcel) - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files.
     *   [python-docx (⭐3.4k)](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
-    *   [python-pptx (⭐1.6k)](https://github.com/scanny/python-pptx) - Python library for creating and updating PowerPoint (.pptx) files.
-    *   [unoconv (⭐2.3k)](https://github.com/unoconv/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice.
+    *   [python-pptx (⭐1.7k)](https://github.com/scanny/python-pptx) - Python library for creating and updating PowerPoint (.pptx) files.
+    *   [unoconv (⭐2.4k)](https://github.com/unoconv/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice.
     *   [XlsxWriter (⭐3.1k)](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel .xlsx files.
     *   [xlwings (⭐2.5k)](https://github.com/ZoomerAnalytics/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
     *   [xlwt (⭐1k)](https://github.com/python-excel/xlwt) / [xlrd (⭐2k)](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
@@ -322,9 +322,9 @@
     *   [Mistune (⭐2.2k)](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
     *   [Python-Markdown (⭐3.1k)](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
 *   CSV
-    *   [csvkit (⭐5.2k)](https://github.com/wireservice/csvkit) - Utilities for converting to and working with CSV.
+    *   [csvkit (⭐5.3k)](https://github.com/wireservice/csvkit) - Utilities for converting to and working with CSV.
 *   Archive
-    *   [unp (⭐406)](https://github.com/mitsuhiko/unp) - A command line tool that can unpack archives easily.
+    *   [unp (⭐405)](https://github.com/mitsuhiko/unp) - A command line tool that can unpack archives easily.
 
 ### Template Engine
 
@@ -333,31 +333,31 @@
 ### Text Processing
 
 *   Slugify
-    *   [awesome-slugify (⭐470)](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
+    *   [awesome-slugify (⭐471)](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
     *   [python-slugify (⭐1.3k)](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
     *   [unicode-slugify (⭐315)](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency.
 *   Parser
     *   [ply (⭐2.4k)](https://github.com/dabeaz/ply) - Implementation of lex and yacc parsing tools for Python.
     *   [pygments](http://pygments.org/) - A generic syntax highlighter.
     *   [pyparsing (⭐1.7k)](https://github.com/pyparsing/pyparsing) - A general purpose framework for generating parsers.
-    *   [python-nameparser (⭐573)](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
+    *   [python-nameparser (⭐574)](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
     *   [python-phonenumbers (⭐3.1k)](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
     *   [python-user-agents (⭐1.3k)](https://github.com/selwin/python-user-agents) - Browser user agent parser.
     *   [sqlparse (⭐3.1k)](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser.
 
 ### URL Manipulation
 
-*   [purl (⭐285)](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
-*   [pyshorteners (⭐349)](https://github.com/ellisonleao/pyshorteners) - A pure Python URL shortening lib.
+*   [purl (⭐286)](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
+*   [pyshorteners (⭐351)](https://github.com/ellisonleao/pyshorteners) - A pure Python URL shortening lib.
 
 ### Video
 
-*   [scikit-video (⭐117)](https://github.com/aizvorski/scikit-video) - Video processing routines for SciPy.
+*   [scikit-video (⭐119)](https://github.com/aizvorski/scikit-video) - Video processing routines for SciPy.
 
 ### Web Content Extracting
 
 *   [html2text (⭐1.3k)](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
-*   [lassie (⭐568)](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
+*   [lassie (⭐571)](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
 *   [micawber (⭐588)](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
 *   [newspaper (⭐12k)](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
 *   [python-readability (⭐2.2k)](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
@@ -467,8 +467,8 @@
 
 *   [aiopg (⭐1.3k)](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 *   [aiomysql (⭐1.5k)](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
-*   [aioodbc (⭐250)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
-*   [motor (⭐2k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+*   [aioodbc (⭐253)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+*   [motor (⭐2.1k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 *   [aiocouchdb (⭐53)](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 
 ### Networking
@@ -477,12 +477,12 @@
 
 ### Testing
 
-*   [asynctest (⭐302)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
-*   [pytest-asyncio (⭐1k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+*   [asynctest (⭐301)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
+*   [pytest-asyncio (⭐1.1k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 
 ### Alternative Loops
 
-*   [uvloop (⭐9k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+*   [uvloop (⭐9.1k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
 ### Misc
 
@@ -739,11 +739,11 @@
 
 ### Device
 
-*   [Luminous (⭐324)](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
+*   [Luminous (⭐326)](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
 
 ### Text / Barcode
 
-*   [Notepad (⭐799)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐804)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
 ### Calendar / Barcode
 
@@ -775,7 +775,7 @@
 
 ### Geolocation
 
-*   [geohax (⭐8)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
+*   [geohax (⭐10)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 
 ### Macros
 
@@ -783,7 +783,7 @@
 
 ### ORM and Datamapping
 
-*   [arbor (⭐213)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐215)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -797,7 +797,7 @@
 
 ### Text and Numbers
 
-*   [abacus (⭐70)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+*   [abacus (⭐71)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
 *   [brcpfcnpj (⭐64)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
 ## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
@@ -852,7 +852,7 @@
 
 ### For Electron / Other
 
-*   [electron-about-window (⭐399)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+*   [electron-about-window (⭐401)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
 ## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 

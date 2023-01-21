@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -62,7 +62,7 @@
 
 ### Projects
 
-*   [karaoke-rs (⭐138)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
+*   [karaoke-rs (⭐139)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -286,7 +286,7 @@
 
 ## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
-- Name: [Abstruse CI (⭐853)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐861)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -294,7 +294,7 @@
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐853)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐861)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -335,7 +335,7 @@
 
   Description: Automated post-deployment testing and web service monitoring
 
-  Features: [Example Integrations (⭐10)](https://github.com/assertible/deployments)
+  Features: [Example Integrations (⭐11)](https://github.com/assertible/deployments)
 
   Supported repositories: GitHub
 
@@ -393,7 +393,7 @@
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐757)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐770)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -423,7 +423,7 @@
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐690)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐708)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -434,7 +434,7 @@
   Stars: [![Stars](https://img.shields.io/github/stars/buildkite/agent.svg)](https://github.com/buildkite/agent)
 
 
-- Name: [CDS (⭐4k)](https://github.com/ovh/cds)
+- Name: [CDS (⭐4.1k)](https://github.com/ovh/cds)
 
   Description: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 
@@ -444,7 +444,7 @@
 
   Documentation: [Documentation](https://ovh.github.io/cds/)
 
-  Price: [Free Open Source (⭐4k)](https://github.com/ovh/cds)
+  Price: [Free Open Source (⭐4.1k)](https://github.com/ovh/cds)
 
   Stars: [![Stars](https://img.shields.io/github/stars/ovh/cds.svg)](https://github.com/ovh/cds)
 
@@ -584,7 +584,7 @@
   Stars: 
 
 
-- Name: [Evergreen (⭐367)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐373)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -592,7 +592,7 @@
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐367)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐373)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 
@@ -861,7 +861,7 @@
 
 ### Platforms
 
-*   [ESP (⭐501)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+*   [ESP (⭐523)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

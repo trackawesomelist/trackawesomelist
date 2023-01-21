@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Text / Barcode
 
-*   [Notepad (⭐799)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐804)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Geolocation
 
-*   [geohax (⭐8)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
+*   [geohax (⭐10)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -42,7 +42,7 @@
 
 ### For Electron / Other
 
-*   [electron-about-window (⭐399)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+*   [electron-about-window (⭐401)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

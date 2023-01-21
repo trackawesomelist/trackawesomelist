@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,13 +50,13 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollactive (⭐534)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
+*   [vue-scrollactive (⭐536)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Analytics
 
-*   [Umbrella (⭐599)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐601)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
@@ -64,7 +64,7 @@
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐813)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐815)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Text / Barcode
 

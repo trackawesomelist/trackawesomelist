@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -89,7 +89,7 @@
 
 ### Libraries
 
-*   [Sonnet (⭐9.4k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+*   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Contents / Frameworks
 
-*   [Intervention Engine FHIR Server (⭐98)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
+*   [Intervention Engine FHIR Server (⭐100)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
 *   [Swift-SMART (⭐118)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ---

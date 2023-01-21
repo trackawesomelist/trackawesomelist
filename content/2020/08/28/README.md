@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,18 +50,18 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Emacs (⭐202)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐299)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Emacs (⭐213)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
+*   [Vim (⭐318)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Codelabs
-
-*   [Creating a Reusable Avatar Web Component](https://marcoslooten.com/blog/creating-a-reusable-avatar-web-component/)
 
 ### Components
 
 *   [`<midi-player>`](https://github.com/cifkao/html-midi-player) - MIDI file player and visualizer web components.
+
+### Tutorials
+
+*   [Creating a Reusable Avatar Web Component](https://marcoslooten.com/blog/creating-a-reusable-avatar-web-component/)
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [nbdev (⭐3.9k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
+*   [nbdev (⭐4k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 
 ## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

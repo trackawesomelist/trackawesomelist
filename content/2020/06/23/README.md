@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐220)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐221)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [sist2 (⭐471)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
+*   [sist2 (⭐499)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐81)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐89)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -129,11 +129,11 @@
 
 ### Applications
 
-*   [asm-cli-rust (⭐231)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
+*   [asm-cli-rust (⭐239)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
 *   [denoland/deno (⭐87k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐359)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
-*   [linkerd/linkerd2-proxy (⭐1.6k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
-*   [rx (⭐2.5k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
+*   [kytan (⭐370)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [linkerd/linkerd2-proxy (⭐1.7k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
+*   [rx (⭐2.6k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
 ## [16. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/README.md)
 

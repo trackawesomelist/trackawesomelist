@@ -2,7 +2,7 @@
 
 36 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,7 +49,7 @@
 
 ### Implementations
 
-*   [CPython (⭐49k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
+*   [CPython (⭐50k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
 
 ## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -140,7 +140,7 @@
 
 ### DevTools / Other external resources
 
-*   [rails-dashboard (⭐135)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐137)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 ## [18. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -279,7 +279,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐351)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐352)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ### Components & Libraries / UI Utilities
 

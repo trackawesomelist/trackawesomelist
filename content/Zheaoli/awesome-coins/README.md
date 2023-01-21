@@ -2,7 +2,7 @@
 
 ₿ A guide (for humans!) to cryto-currencies and their algos.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Zheaoli/awesome-coins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) · ⭐ 3.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Zheaoli/awesome-coins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) · ⭐ 3.6K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/Zheaoli/awesome-coins/week/README.md) / [Overview](/content/Zheaoli/awesome-coins/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 47 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -403,7 +403,7 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [TensorFlow (⭐276)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+*   [TensorFlow (⭐277)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 ## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -421,7 +421,7 @@
 
 ### Questions
 
-*   [tensorflow-ocaml (⭐278)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+*   [tensorflow-ocaml (⭐277)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 
 ## [20. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
@@ -503,7 +503,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [itunes-remote (⭐422)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [itunes-remote (⭐421)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
@@ -573,7 +573,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [starring (⭐154)](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
+*   [starring (⭐155)](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 
 ### Shell Script Development / Directory Navigation
 
@@ -587,7 +587,7 @@
 
 ### Libraries
 
-*   [Sonnet (⭐9.4k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+*   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
 ## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -605,7 +605,7 @@
 
 ### Contents / Frameworks
 
-*   [Intervention Engine FHIR Server (⭐98)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
+*   [Intervention Engine FHIR Server (⭐100)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
 *   [Swift-SMART (⭐118)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ## [36. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
@@ -651,9 +651,9 @@
 
 ### Programming / Python
 
-*   [Nilearn (⭐898)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
-*   [DIPY (⭐548)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
-*   [expyriment (⭐102)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+*   [Nilearn (⭐919)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
+*   [DIPY (⭐561)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
+*   [expyriment (⭐104)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
 ### Resources / Blogs
 
@@ -853,23 +853,23 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐938)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐939)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
-*   [vulkan (⭐372)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
+*   [vulkan (⭐382)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
 
 ## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐139)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐143)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 
-*   [dnSpy (⭐22k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
+*   [dnSpy (⭐23k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
 
 ### Distributed Computing
 

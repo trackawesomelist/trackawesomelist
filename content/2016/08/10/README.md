@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,7 +37,7 @@ git push --force-with-lease <remote-name> <branch-name>
 ### Chatting
 
 *   [chatty (⭐34)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
-*   [cog (⭐920)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+*   [cog (⭐921)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 *   [ExIrc (⭐145)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 *   [Guri (⭐19)](https://github.com/elvio/guri) - Automate tasks using chat messages.
 *   [kaguya (⭐72)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
@@ -65,7 +65,7 @@ git push --force-with-lease <remote-name> <branch-name>
 ### Template Engine
 
 *   [Kilt (⭐144)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐224)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Slang (⭐227)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

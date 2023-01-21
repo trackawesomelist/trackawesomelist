@@ -2,7 +2,7 @@
 
 A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vsouza/awesome-ios/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) · ⭐ 41K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vsouza/awesome-ios/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) · ⭐ 41K · 🏷️ Platforms
 
 [ [Daily](/content/vsouza/awesome-ios/README.md) / Weekly / [Overview](/content/vsouza/awesome-ios/readme/README.md) ]
 

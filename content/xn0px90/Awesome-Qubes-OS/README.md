@@ -2,7 +2,7 @@
 
 A collection of awesome Qubes OS links
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 26 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 26 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
@@ -18,8 +18,8 @@ A collection of awesome Qubes OS links
 
 ### Exploitation Tools / Unikernel-like
 
-*   [MemProcFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [MemProcFS (⭐1.8k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐31)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 
 ### Advanced Topics / Web articles
 
@@ -122,7 +122,7 @@ A collection of awesome Qubes OS links
 
 *   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
 *   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-*   [Suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
+*   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ### VPN
 
@@ -165,12 +165,12 @@ A collection of awesome Qubes OS links
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
 *   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-*   [Memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+*   [Memflow (⭐414)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
     *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
     *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
     *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-    *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+    *   [Qemu\_procfs (⭐22)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
     *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
@@ -216,7 +216,7 @@ A collection of awesome Qubes OS links
 
 *   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
-### Kernels / Microkernels
+### Kernels
 
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 
@@ -264,9 +264,9 @@ A collection of awesome Qubes OS links
 ### Exploitation Tools / Unikernel-like
 
 *   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
-*   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+*   [LeechCore (⭐276)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
-*   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [Volatility3 (⭐1.3k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
 ### Releases / Web articles
 

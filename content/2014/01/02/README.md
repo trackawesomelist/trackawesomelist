@@ -1,18 +1,12 @@
 # Awesome List Updates on Jan 02, 2014
 
-2 awesome lists updated today.
+1 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Ruby / Tornado
-
-*   [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
-
-## [2. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [1. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Transpilers
 

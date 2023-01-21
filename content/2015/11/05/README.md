@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -56,11 +56,11 @@
 
 ### Packages / Command-line utilities
 
-*   [chalk (⭐19k)](https://github.com/chalk/chalk) - Terminal string styling done right.
+*   [chalk (⭐20k)](https://github.com/chalk/chalk) - Terminal string styling done right.
 
 ### Packages / Streams
 
-*   [readable-stream (⭐965)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
+*   [readable-stream (⭐979)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 
 ### Packages / Real-time
 
@@ -84,8 +84,8 @@
 
 ### Packages / Minifiers
 
-*   [minimize (⭐160)](https://github.com/Swaagie/minimize) - HTML minifier.
-*   [imagemin (⭐5.2k)](https://github.com/imagemin/imagemin) - Image minifier.
+*   [minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [imagemin (⭐5.3k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 

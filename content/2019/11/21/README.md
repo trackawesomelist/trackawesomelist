@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -52,7 +52,7 @@
 ### OS and Kernels / Other / unknown licence
 
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada\_KALINDA is a sort of Mac Plus like OS written in Ada95.
-*   [cxos (⭐34)](https://github.com/ajxs/cxos) - Ada Operating System development example.
+*   [cxos (⭐37)](https://github.com/ajxs/cxos) - Ada Operating System development example.
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Audio
 
-*   [ModernAVPlayer (⭐258)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
+*   [ModernAVPlayer (⭐259)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 
 ### Device
 
-*   [Deviice (⭐56)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
+*   [Deviice (⭐57)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
 
 ### Fonts
 

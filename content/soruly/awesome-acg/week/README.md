@@ -2,7 +2,7 @@
 
 A curated list of awesome technologies related to Anime, Comic and Games
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/soruly/awesome-acg/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 soruly/awesome-acg](https://github.com/soruly/awesome-acg) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/soruly/awesome-acg/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 soruly/awesome-acg](https://github.com/soruly/awesome-acg) · ⭐ 1.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/soruly/awesome-acg/README.md) / Weekly / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 

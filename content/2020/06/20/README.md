@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,8 +24,8 @@
 
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐327)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
-    *   [rust.vim (⭐3.3k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+    *   [crates.nvim (⭐355)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [rust.vim (⭐3.4k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐624)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
 ## [4. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
@@ -45,7 +45,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-idle (⭐60)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
+*   [v-idle (⭐61)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 
 ## [7. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Related / Other
 
-*   [awesome-electronjs-hacking (⭐423)](https://github.com/doyensec/awesome-electronjs-hacking)
+*   [awesome-electronjs-hacking (⭐428)](https://github.com/doyensec/awesome-electronjs-hacking)
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Sensors / Light
 
-*   [bh1750 (⭐42)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 i2c digital light sensor driver.
+*   [bh1750 (⭐42)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C digital light sensor driver.
 
 ## [12. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -129,13 +129,13 @@
 
 ### Modules / Web utils
 
-*   [ts-prometheus (⭐15)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
+*   [ts-prometheus (⭐17)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 
 ## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Distributed Filesystems
+### Software / Distributed Filesystems
 
-*   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐36k)](https://github.com/minio/minio)) `Apache-2.0` `Go`
+*   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐37k)](https://github.com/minio/minio)) `Apache-2.0` `Go`
 
 ## [15. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Front-End Development
 
-*   [Building Blocks for Web Apps (⭐101)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+*   [Building Blocks for Web Apps (⭐104)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 
 ## [17. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

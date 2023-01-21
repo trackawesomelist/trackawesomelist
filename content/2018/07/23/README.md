@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [Dialogflow (⭐204)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
+*   [Dialogflow (⭐207)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

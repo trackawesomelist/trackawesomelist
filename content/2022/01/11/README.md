@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -457,7 +457,7 @@
 
 ### Business
 
-*   [CLDR currency definitions (⭐647)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐658)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -501,13 +501,13 @@
 
 ### BAM File Utilities / Structural variant callers
 
-*   **[Somalier (⭐176)](https://github.com/brentp/somalier)** - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. \[ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
+*   **[Somalier (⭐180)](https://github.com/brentp/somalier)** - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. \[ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
 
 ## [12. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Tools
 
-*   [GitHub Readme Stats (⭐47k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+*   [GitHub Readme Stats (⭐49k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 
 ## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -569,7 +569,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [dtaidistance (⭐800)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
+*   [dtaidistance (⭐819)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 

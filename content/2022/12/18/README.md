@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,16 +10,16 @@
 
 ### Using ChatGPT in other apps
 
-*   [ChatGPT for Slack bot (⭐56)](https://github.com/pedrorito/ChatGPTSlackBot)
+*   [ChatGPT for Slack bot (⭐79)](https://github.com/pedrorito/ChatGPTSlackBot)
 
 ### Coding
 
-*   [Explain runtime error message with ChatGPT (⭐267)](https://github.com/shobrook/stackexplain)
-*   [PR code review using ChatGPT (⭐86)](https://github.com/kxxt/chatgpt-action)
+*   [Explain runtime error message with ChatGPT (⭐318)](https://github.com/shobrook/stackexplain)
+*   ⭐️ [PR code review using ChatGPT (⭐181)](https://github.com/kxxt/chatgpt-action)
 
 ### Other
 
-*   [Share your wildest ChatGPT conversations with one click (⭐186)](https://github.com/domeccleston/sharegpt)
+*   [Share your wildest ChatGPT conversations with one click (⭐221)](https://github.com/domeccleston/sharegpt)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Algorithms and Data structures
 
-*   [Goban (⭐7)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
+*   [Goban (⭐16)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -54,24 +54,24 @@
 
 ### Databases
 
-*   [Supabase (⭐104)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [Supabase (⭐133)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
-*   [Game Boy Doctor (⭐66)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
+*   [Game Boy Doctor (⭐71)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
 
 ### Tools / Development tools
 
 *   [evscript (⭐2)](https://github.com/eievui5/evscript) - A scripting language for the Game Boy, useful for enemy AI, dialogue, animations, and coroutines.
-*   [evunit (⭐6)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
+*   [evunit (⭐8)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [emileferreira/nvim-strict (⭐1)](https://github.com/emileferreira/nvim-strict) - Strictly enforce configurable, best-practice code style by exposing deep nesting, overlong lines, trailing whitespace, trailing empty lines and inconsistent indentation.
+*   [emileferreira/nvim-strict (⭐21)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
 
 ## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -88,4 +88,5 @@
 
 ---
 
+- Prev: [Dec 19, 2022](/content/2022/12/19/README.md)
 - Next: [Dec 17, 2022](/content/2022/12/17/README.md)

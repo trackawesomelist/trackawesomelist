@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Top / Game Engine resources
 
-*   [Transform Widget (⭐28)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
+*   [Transform Widget (⭐27)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 
 ## [2. Awesome C](/content/inputsh/awesome-c/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Community Extensions
 
-*   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐69)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
+*   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐70)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
 
 ## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

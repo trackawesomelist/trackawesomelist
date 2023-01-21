@@ -2,7 +2,7 @@
 
 Resources about public speaking
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/matteofigus/awesome-speaking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking) · ⭐ 1.3K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/matteofigus/awesome-speaking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking) · ⭐ 1.3K · 🏷️ Learn
 
 [ [Daily](/content/matteofigus/awesome-speaking/README.md) / [Weekly](/content/matteofigus/awesome-speaking/week/README.md) / Overview ]
 

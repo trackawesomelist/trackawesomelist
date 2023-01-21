@@ -2,7 +2,7 @@
 
 52 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,13 +43,13 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐2.6k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐2.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Testing
 
-*   [Expecto (⭐587)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐592)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ## [6. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Misc
 
-*   [any\_hash.cr (⭐32)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
+*   [any\_hash.cr (⭐33)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
 
 ### Official Documentation Translations
 
@@ -646,7 +646,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐1.9k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.1k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
 ## [44. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -801,11 +801,11 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Shell Script Development / Directory Navigation
 
-*   [crash (⭐52)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
+*   [crash (⭐54)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 
 ### Shell Script Development / See also
 
-*   [awesome-fish (⭐3.1k)](https://github.com/jorgebucaran/awsm.fish)
+*   [awesome-fish (⭐3.2k)](https://github.com/jorgebucaran/awsm.fish)
 *   [awesome-zsh (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## [51. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)

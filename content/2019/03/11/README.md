@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,7 +29,7 @@
 
 ### Runtimes/Frontends
 
-*   [JupyterWith (⭐400)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
+*   [JupyterWith (⭐406)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [FVM (⭐3k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+*   [FVM (⭐3.2k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

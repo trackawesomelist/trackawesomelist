@@ -2,7 +2,7 @@
 
 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/thibmaek/awesome-raspberry-pi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) · ⭐ 11K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/thibmaek/awesome-raspberry-pi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) · ⭐ 11K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/thibmaek/awesome-raspberry-pi/week/README.md) / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
@@ -467,7 +467,6 @@
 *   [iotwifi (⭐276)](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 *   [OpenVPN-Setup (⭐762)](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
 *   [pi-gen (⭐2.1k)](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
-*   [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
 *   [PiShrink (⭐2.8k)](https://github.com/Drewsif/PiShrink/) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
 *   [RaspAP-webgui (⭐3.9k)](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
 *   [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - Simple tool to launch QEMU on Raspbian with the required modifications on the system and kernel. Automatic network access. Handy to create images in your PC.

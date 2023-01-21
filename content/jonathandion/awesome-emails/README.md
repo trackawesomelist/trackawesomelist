@@ -2,7 +2,7 @@
 
 ✉️ An awesome list of resources to build better emails.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jonathandion/awesome-emails/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) · ⭐ 1.9K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jonathandion/awesome-emails/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) · ⭐ 1.9K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/jonathandion/awesome-emails/week/README.md) / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
 

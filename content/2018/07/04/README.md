@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,11 +16,11 @@
 
 ### Command-Line Productivity
 
-*   [task-manager (⭐11)](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
+*   [task-manager (⭐13)](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 
 ### For Developers / Directory Navigation
 
-*   [git-quick-stats (⭐5.5k)](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
+*   [git-quick-stats (⭐5.6k)](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 

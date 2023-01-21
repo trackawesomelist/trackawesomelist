@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Applications / Web
 
-*   [cfal/tobaru (⭐104)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+*   [cfal/tobaru (⭐106)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -193,7 +193,7 @@
 
 ### Networking
 
-*   [gldap (⭐81)](https://github.com/jimlambrt/gldap) - gldap provides an ldap server implementation and you provide handlers for its ldap operations.
+*   [gldap (⭐83)](https://github.com/jimlambrt/gldap) - gldap provides an ldap server implementation and you provide handlers for its ldap operations.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -219,7 +219,7 @@
 *   :earth\_americas: [Portable executable (PE)](https://wiki.osdev.org/PE)
 *   :clipboard: [Win32 portable executable packing uncovered](https://securitylabs.websense.com/content/Assets/HistoryofPackingTechnology.pdf)
 *   :pushpin: [Writing a packer](https://dr4k0nia.github.io/dotnet/coding/2021/06/24/Writing-a-Packer.html)
-*   :pushpin: [Writing a simple PE packer in detail (⭐8)](https://github.com/levanvn/Packer_Simple-1)
+*   :pushpin: [Writing a simple PE packer in detail (⭐11)](https://github.com/levanvn/Packer_Simple-1)
 
 ### :books: Literature / Scientific Research
 
@@ -233,7 +233,7 @@
 *   :newspaper: [Classification of packed executables for accurate computer virus detection](http://www.sciencedirect.com/science/article/pii/S0167865508002110) (October 2008)
 *   :notebook: [Classifying packed programs as malicious software detected](https://www.semanticscholar.org/paper/Classifying-Packed-Programs-as-Malicious-Software-Osaghae/676f38819a0ed3028acce36f4f11b0c77e4cc0ae) (December 2016)  :star:
 *   :notebook: [A comparative analysis of classifiers in the recognition of packed executables](https://ieeexplore.ieee.org/abstract/document/8995252) (November 2019)  :star:
-*   :notebook: [Detecting packed executable file: Supervised or anomaly detection method?](https://ieeexplore.ieee.org/abstract/document/7784628) (August 2016)  :star:
+*   :notebook: [Detecting packed executable file: Supervised or anomaly detection method?](https://ieeexplore.ieee.org/abstract/document/7784628) (August 2016)
 *   :newspaper: [Detecting packed executables based on raw binary data](https://www.semanticscholar.org/paper/DETECTING-PACKED-EXECUTABLES-BASED-ON-RAW-BINARY-Nataraja-Jacobb/53371424fb79de29a096e563b07fcae432f4d201) (June 2010)
 *   :newspaper: [An efficient block-discriminant identification of packed malware](https://link.springer.com/article/10.1007%2Fs12046-015-0399-x) (August 2015)
 *   :newspaper: [Efficient SVM based packer identification with binary diffing measures](https://ieeexplore.ieee.org/document/8754440/) (July 2019)  :star:
@@ -244,7 +244,7 @@
 *   :newspaper: [A heuristics-based static analysis approach for detecting packed PE binaries](http://dx.doi.org/10.14257/ijsia.2013.7.5.24) (October 2013)
 *   :newspaper: [A learning model to detect maliciousness of portable executable using integrated feature set](https://www.sciencedirect.com/science/article/pii/S1319157817300149) (January 2017)
 *   :newspaper: [Mal-flux: Rendering hidden code of packed binary executable](http://www.sciencedirect.com/science/article/pii/S1742287618303736) (March 2019)  :star:
-*   :newspaper: [Mal-XT: Higher accuracy hidden-code extraction of packed binary executable](https://iopscience.iop.org/article/10.1088/1757-899X/453/1/012001) (November 2018)  :star:
+*   :newspaper: [Mal-XT: Higher accuracy hidden-code extraction of packed binary executable](https://iopscience.iop.org/article/10.1088/1757-899X/453/1/012001) (November 2018)
 *   :newspaper: [Mal-xtract: Hidden code extraction using memory analysis](https://doi.org/10.1088%2F1742-6596%2F801%2F1%2F012058) (January 2017)
 *   :newspaper: [Malware analysis using visualized images and entropy graphs](https://link.springer.com/article/10.1007%2Fs10207-014-0242-0) (February 2015)
 *   :newspaper: [Malwise - An effective and efficient classification system for packed and polymorphic malware](https://ieeexplore.ieee.org/document/6171162) (June 2013)
@@ -253,21 +253,21 @@
 *   :newspaper: [On the adoption of anomaly detection for packed executable filtering](https://www.sciencedirect.com/science/article/pii/S0167404814000522?via%3Dihub) (June 2014)
 *   :newspaper: [An original entry point detection method with candidate-sorting for more effective generic unpacking](https://www.jstage.jst.go.jp/article/transinf/E98.D/4/E98.D_2014EDP7268/_article) (January 2015)
 *   :newspaper: [Packed malware detection using entropy related analysis: A survey](https://api.semanticscholar.org/CorpusID:212493886) (November 2015)
-*   :newspaper: [Packed malware variants detection using deep belief networks](https://doi.org/10.1051/matecconf/202030902002) (March 2020)
+*   :newspaper: [Packed malware variants detection using deep belief networks](https://doi.org/10.1051/matecconf/202030902002) (March 2020)  :star:
 *   :newspaper: [Packer analysis report debugging and unpacking the NsPack 3.4 and 3.7 packer](https://www.sans.org/reading-room/whitepapers/malicious/packer-analysis-report-debugging-unpacking-nspack-34-37-packer-33428) (June 2010)
 *   :newspaper: [Packer detection for multi-layer executables using entropy analysis](https://www.mdpi.com/1099-4300/19/3/125) (March 2017)  :star:
 *   :notebook: [Packer identification method based on byte sequences](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5082) (November 2018)  :star:
-*   :mortar\_board: [Packer-complexity analysis in PANDA](https://webthesis.biblio.polito.it/7519/) (January 2018)  :star:
+*   :mortar\_board: [Packer-complexity analysis in PANDA](https://webthesis.biblio.polito.it/7519/) (January 2018)
 *   :newspaper: [PE file features in detection of packed executables](http://www.ijcte.org/show-42-485-1.html) (January 2012)
-*   :notebook: [RePEconstruct: Reconstructing binaries with self-modifying code and import address table destruction](https://ieeexplore.ieee.org/document/7888727) (October 2016)  :star:
+*   :notebook: [RePEconstruct: Reconstructing binaries with self-modifying code and import address table destruction](https://ieeexplore.ieee.org/document/7888727) (October 2016)
 *   :newspaper: [Revealing packed malware](https://ieeexplore.ieee.org/document/4639028) (September 2008)
 *   :newspaper: [Secure and advanced unpacking using computer emulation](https://link.springer.com/article/10.1007%2Fs11416-007-0046-0) (August 2007)
-*   :notebook: [Things you may not know about Android (Un) packers: A systematic study based on whole-system emulation.](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-4_Duan_paper.pdf) (February 2018)  :star:
+*   :notebook: [Things you may not know about Android (Un) packers: A systematic study based on whole-system emulation.](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-4_Duan_paper.pdf) (February 2018)
 *   :newspaper: [Two techniques for detecting packed portable executable files](https://ieeexplore.ieee.org/document/6636333) (June 2013)
 *   :notebook: [Understanding linux malware](https://ieeexplore.ieee.org/document/8418602) (May 2018)  :star:
 *   :newspaper: [Unpacking techniques and tools in malware analysis](https://www.scientific.net/AMM.198-199.343) (September 2012)
 *   :newspaper: [Using entropy analysis to find encrypted and packed malware](https://ieeexplore.ieee.org/document/4140989) (March 2007)
-*   :notebook: [VMAttack: Deobfuscating virtualization-based packed binaries](https://dl.acm.org/doi/10.1145/3098954.3098995) (August 2017)  :star:
+*   :notebook: [VMAttack: Deobfuscating virtualization-based packed binaries](https://dl.acm.org/doi/10.1145/3098954.3098995) (August 2017)
 *   :newspaper: [WYSINWYX: What you see is not what you execute](https://doi.org/10.1145/1749608.1749612) (August 2010)
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
@@ -309,11 +309,11 @@
 
 ### YouTube
 
-*   [Yattee (⭐986)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
+*   [Yattee (⭐1.1k)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
 
 ### Reddit
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐433)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐435)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
 
 ### Teamworking Tools
 

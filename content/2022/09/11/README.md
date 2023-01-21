@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,30 +16,30 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [thyme (chenhao-ye) (⭐18)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.7k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
+*   [thyme (chenhao-ye) (⭐18)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.7k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Full Bleed Background and Borders (⭐5)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
+*   💼 [Full Bleed Background and Borders (⭐8)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Premium / Game Engine resources
 
-*   [RustDesk (⭐30k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
-*   [AppFlowy (⭐29k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
+*   [RustDesk (⭐34k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
+*   [AppFlowy (⭐30k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
 
 ### Utilities / Game Engine resources
 
-*   [Melos (⭐658)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
+*   [Melos (⭐715)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
 
 ## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / CLI tools
 
-*   [dcp (⭐42)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
+*   [dcp (⭐43)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -49,7 +49,7 @@
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://pcl.sitehost.iu.edu/rgoldsto/pdfs/simdiff.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)].
 
@@ -68,7 +68,7 @@
 
 ### Projects
 
-*   [surfer (⭐44)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
+*   [surfer (⭐43)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
 
 ---
 

@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -77,7 +77,7 @@
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐5.3k)](https://github.com/devopsfaith/krakend) Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) Ultra performant API Gateway with middleware. Written in Go.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -106,11 +106,11 @@
 
 ### Games
 
-*   [Binbo (⭐96)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐98)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐272)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐273)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

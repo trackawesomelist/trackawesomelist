@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 28, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -70,7 +70,7 @@
 
 ### Open-Source Projects
 
-*   [GitProfile (⭐533)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
+*   [GitProfile (⭐599)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -80,59 +80,53 @@
 
 
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Erlang / Phoenix
-
-*   [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com) - Fred Hebert (HTML)
-
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [Embedded Rust programming playlist](https://www.youtube.com/playlist?list=PLP_X41VhYn5X6Wwjnm0bRwI3n2pdaszxU) Various livestreams with Embedded Rust live coding
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
 *   [vivu-npm (⭐29)](https://github.com/logustra/vivu-npm) - Starter template to build component library.
 
-## [10. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [9. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [arsmn/fiber-swagger (⭐242)](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
-*   [arsmn/fiber-casbin (⭐56)](https://github.com/arsmn/fiber-casbin) - Casbin middleware for Fiber.
-*   [shareed2k/fiber\_tracing (⭐8)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
+*   [arsmn/fiber-casbin (⭐57)](https://github.com/arsmn/fiber-casbin) - Casbin middleware for Fiber.
+*   [shareed2k/fiber\_tracing (⭐9)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
 *   [shareed2k/fiber\_limiter (⭐13)](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
 *   [arsmn/fastgql (⭐78)](https://github.com/arsmn/fastgql) - Go library for building GraphQL servers without any fuss, but with fasthttp support.
 *   [kiyonlin/fiber\_limiter (⭐3)](https://github.com/kiyonlin/fiber_limiter) - Limiter is based on rate which forks of golang.org/x/time/rate.
 *   [juandiii/go-jwk-security (⭐7)](https://github.com/juandiii/go-jwk-security) - JWT middleware for fiber.
-*   [ansrivas/fiberprometheus (⭐83)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
+*   [ansrivas/fiberprometheus (⭐93)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
 *   [LdDl/fiber-long-poll (⭐12)](https://github.com/LdDl/fiber-long-poll) - Golang long polling library for fasthttp-based web framework called Fiber.
 *   [K0enM/fiber\_vhost (⭐5)](https://github.com/K0enM/fiber_vhost) - Vhost (Virtual host) middleware for Fiber that enables the use of virtual hosts based on the Host Header.
-*   [sacsand/gofiber-firebaseauth (⭐18)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
+*   [sacsand/gofiber-firebaseauth (⭐19)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
 *   [theArtechnology/fiber-inertia (⭐10)](https://github.com/theArtechnology/fiber-inertia) - This is a Inertia.js server-side adapter based on inertia-laravel, but for Fiber Framework.
-*   [aschenmaker/fiber-health-check (⭐7)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
-*   [elastic/apmfiber (⭐361)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
+*   [aschenmaker/fiber-health-check (⭐9)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
+*   [elastic/apmfiber (⭐366)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
 *   [eozer/fiber\_ldapauth (⭐1)](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [gofiber/boilerplate (⭐230)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
-*   [fiber-boilerplate (⭐182)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
-*   [sujit-baniya/fiber-boilerplate (⭐254)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
-*   [create-go-app/fiber-go-template (⭐461)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
-*   [embedmode/fiberseed (⭐23)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
+*   [gofiber/boilerplate (⭐251)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
+*   [fiber-boilerplate (⭐191)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
+*   [sujit-baniya/fiber-boilerplate (⭐262)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
+*   [create-go-app/fiber-go-template (⭐501)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
+*   [embedmode/fiberseed (⭐26)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [kiyonlin/fiblar-demo (⭐1)](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
-*   [koddr/tutorial-go-fiber-rest-api (⭐214)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
-*   [firebase007/go-rest-api-with-fiber (⭐34)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
+*   [koddr/tutorial-go-fiber-rest-api (⭐225)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
+*   [firebase007/go-rest-api-with-fiber (⭐37)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
 *   [chawk/go\_fiber\_quickstart (⭐18)](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
-*   [EricLau1/go-fiber-auth-api (⭐34)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
+*   [EricLau1/go-fiber-auth-api (⭐36)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
 
 ### 🤖 Benchmarks / 🌱 Third Party
 
@@ -140,17 +134,17 @@
 *   [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
 *   [go-web-framework-benchmark (⭐1.8k)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
 *   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)].
 
-## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Facebook
 
-*   [Facebook Friend List Scraper (⭐103)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+*   [Facebook Friend List Scraper (⭐121)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 
 ---
 

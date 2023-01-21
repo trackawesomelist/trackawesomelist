@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 13, 2019
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,7 +44,7 @@
 
 ### Miscellaneous / Mouse Events
 
-*   [react-find (⭐20)](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
+*   [react-find](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -74,35 +74,35 @@
 
 ### Examples
 
-*   [ai/size-limit (⭐5.5k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-*   [aimeos/aimeos-typo3 (⭐191)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-*   [alichtman/stronghold (⭐972)](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [amitmerchant1990/electron-markdownify (⭐820)](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+*   [ai/size-limit (⭐5.6k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
+*   [aimeos/aimeos-typo3 (⭐194)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+*   [alichtman/stronghold (⭐979)](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+*   [amitmerchant1990/electron-markdownify (⭐835)](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
 *   [anfederico/Clairvoyant (⭐2.3k)](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-*   [Armync/Arminc-AutoExec (⭐102)](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
-*   [athityakumar/colorls (⭐4.2k)](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+*   [Armync/Arminc-AutoExec (⭐103)](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
+*   [athityakumar/colorls (⭐4.3k)](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
 *   [ccostan/Home-AssistantConfig (⭐4.1k)](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
 *   [choojs/choo (⭐6.7k)](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 *   [Day8/re-frame (⭐5.2k)](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
-*   [github-changelog-generator/github-changelog-generator (⭐6.9k)](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
+*   [github-changelog-generator/github-changelog-generator (⭐7k)](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
 *   [gitpoint/git-point (⭐4.6k)](https://github.com/gitpoint/git-point#readme) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
-*   [Hexworks/Zircon (⭐689)](https://github.com/Hexworks/zircon#readme) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+*   [Hexworks/Zircon (⭐696)](https://github.com/Hexworks/zircon#readme) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 *   [iharsh234/WebApp (⭐83)](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 *   [karan/joe (⭐2.8k)](https://github.com/karan/joe#readme) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
-*   [Martinsos/edlib (⭐396)](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+*   [Martinsos/edlib (⭐402)](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
 *   [nhn/tui.editor (⭐15k)](https://github.com/nhn/tui.editor#readme) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
-*   [node-chat (⭐722)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
-*   [NSRare/NSGIF (⭐907)](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
-*   [php-censor/php-censor (⭐659)](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
-*   [React on lambda (⭐253)](https://github.com/sultan99/react-on-lambda#readme) - Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.
+*   [node-chat (⭐726)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
+*   [NSRare/NSGIF (⭐910)](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
+*   [php-censor/php-censor (⭐660)](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
+*   [React on lambda (⭐256)](https://github.com/sultan99/react-on-lambda#readme) - Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.
 *   [rstacruz/hicat (⭐399)](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
-*   [ryanoasis/nerd-fonts (⭐39k)](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
+*   [ryanoasis/nerd-fonts (⭐40k)](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
 *   [sebyddd/SDVersion (⭐1.3k)](https://github.com/sebyddd/SDVersion#readme) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
 *   [shama/gaze (⭐1.2k)](https://github.com/shama/gaze#readme) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 *   [sindresorhus/pageres (⭐9.5k)](https://github.com/sindresorhus/pageres#readme) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
 *   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app#readme) - Clean animated screenshot. Customized call to action badge. Usage showcase.
 *   [sr6033/lterm (⭐48)](https://github.com/sr6033/lterm#readme) - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
-*   [supunlakmal/thismypc (⭐160)](https://github.com/supunlakmal/thismypc#readme) - Project logo. Useful badges. Web site URL. Screenshot. GIF step-by-step instructions for installation. Project folder structure.
+*   [supunlakmal/thismypc (⭐161)](https://github.com/supunlakmal/thismypc#readme) - Project logo. Useful badges. Web site URL. Screenshot. GIF step-by-step instructions for installation. Project folder structure.
 *   [teles/array-mixer (⭐34)](https://github.com/teles/array-mixer#readme) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
 *   [thelounge/thelounge (⭐4.9k)](https://github.com/thelounge/thelounge#readme) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
 *   [vhesener/Closures (⭐1.7k)](https://github.com/vhesener/Closures#readme) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
@@ -110,33 +110,22 @@
 ### Tools
 
 *   [Feedmereadmes (⭐1.1k)](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
-*   [Hall-of-fame (⭐926)](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
-*   [README best practices (⭐780)](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
-*   [readme-md-generator (⭐9.9k)](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
-*   [Standard Readme (⭐5.1k)](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
-*   [Zalando's README Template (⭐793)](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
+*   [Hall-of-fame (⭐928)](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
+*   [README best practices (⭐791)](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
+*   [readme-md-generator (⭐10k)](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
+*   [Standard Readme (⭐5.2k)](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
+*   [Zalando's README Template (⭐798)](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
 
 ### Creating GIFs
 
-*   [Peek (⭐9.3k)](https://github.com/phw/peek#readme) - **FREE** - Simple and easy to use for Linux users.
+*   [Peek (⭐9.4k)](https://github.com/phw/peek#readme) - **FREE** - Simple and easy to use for Linux users.
 *   [ttystudio (⭐3.2k)](https://github.com/chjj/ttystudio#readme) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
 
 ### Get Feedback
 
 *   [feedmereadmes (⭐1.1k)](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Elixir / Non-X86
-
-*   [Elixir Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/elixir-succinctly) (PDF, Kindle) (email address requested, not required)
-
-### Flutter / Phoenix
-
-*   [Cookbook](https://flutter.dev/docs/cookbook)
-*   [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
-
-## [12. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [11. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Videos
 
@@ -167,13 +156,13 @@
 *   [Fun Tricks](https://assistant.google.com/services/a/uid/00000038e95bb789) - Lighten up your day with jokes and other fun tricks. Check them out, there's always something new to try.
 *   [Google Podcasts](https://assistant.google.com/services/a/uid/000000e0ea9c992f) - Listen to your favorite podcasts by asking your Assistant.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
 *   [libsvm (⭐4.3k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Howtos
 
@@ -194,17 +183,17 @@
 *   [Building Stylistic UIs with Emotion-JS for React Native](https://heartbeat.fritz.ai/how-to-use-emotion-js-with-react-native-fccac9c78779)
 *   [Getting Started with Firestore and React Native](https://blog.jscrambler.com/getting-started-with-firestore-and-react-native/)
 
-## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 
-*   [Pokedex (⭐1.7k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
+*   [Pokedex (⭐1.8k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
 
 ### Contents / Travel
 
-*   [Flight search (⭐779)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
+*   [Flight search (⭐791)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
 
-## [16. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Universal Seed Projects / Components
 

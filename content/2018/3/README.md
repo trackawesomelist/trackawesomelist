@@ -2,7 +2,7 @@
 
 39 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,7 +39,7 @@
 
 ### Playgrounds
 
-*   [Script Debugger (⭐17)](https://github.com/kallewoof/btcdeb)
+*   [Script Debugger (⭐19)](https://github.com/kallewoof/btcdeb)
 
 ## [4. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Software / URL Shorteners
 
-*   [reduc.io (⭐69)](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
+*   [reduc.io (⭐70)](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
 
 ## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -226,7 +226,7 @@
 
 ### Boilerplates
 
-*   [Next Blog Firestore (⭐254)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+*   [Next Blog Firestore (⭐255)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 
 ### Videos
 
@@ -242,36 +242,28 @@
 
 ### Charts
 
-*   [cirrusjs (⭐94)](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library \[area, line, stacked]
 *   [cubism (⭐4.9k)](https://github.com/square/cubism) - Time series visualization
 *   [c3 (⭐9.2k)](https://github.com/c3js/c3) - Reusable chart library \[line, spline, step, area, stacked, bar, pie, donut]
-*   [dimple (⭐2.7k)](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics \[bubble, area, stacked]
-*   [d2b (⭐94)](https://github.com/d2bjs/d2b) - Chart library for axis, pie, sankey, sunburst charts
+*   [d2b (⭐95)](https://github.com/d2bjs/d2b) - Chart library for axis, pie, sankey, sunburst charts
 *   [D3xter (⭐341)](https://github.com/NathanEpstein/D3xter) - Straight forward plotting \[plot, timeline, bar, histogram, pie]
-*   [firespray (⭐105)](https://github.com/boundary/firespray) - Streaming charts \[bar, line, stacked]
 *   [nvd3 (⭐7.2k)](https://github.com/novus/nvd3) - Re-usable charts and chart components \[box plot, buttlet, candlestick, line, bar, pie, scatter, sparkline]
 *   [plotly.js (⭐15k)](https://github.com/plotly/plotly.js/) - High level charting library \[scatter, line, bar, pie, box plot, histogram, heatmap]
 *   [taucharts (⭐1.9k)](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility \[line, bar, area, stacked]
-*   [techan.js (⭐2.3k)](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis \[candlestick, ohlc]
-*   [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types \[bar, area, pie, stacked, line, polar, donut]
 *   [xkcdgraphs (⭐443)](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs \[line]
 
 ### Charts / Third Party
 
 *   [nivo (⭐11k)](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability \[bar, line, area, bubble, chord, heatmap]
-*   [semiotic (⭐5)](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3 \[scatter, line, area]
 *   [victory (⭐10k)](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations \[area, bar, candlestick, pie, line, scatter, voronoi]
-*   [vx (⭐16k)](https://github.com/hshoff/vx) - Visualization components for React \[bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
+*   [vx (⭐17k)](https://github.com/hshoff/vx) - Visualization components for React \[bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
 
 ### Maps / Third Party
 
-*   [d3-composite-projections (⭐93)](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together
+*   [d3-composite-projections (⭐95)](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together
 *   [d3-topogram (⭐316)](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON
-*   [earthjs (⭐150)](https://github.com/earthjs/earthjs) - Building orthographic globe with SVG, Canvas & WebGL
 *   [maptable (⭐57)](https://github.com/Packet-Clearing-House/maptable) - Convert datasets to a set of visual components (Map, Filters, Table)
 *   [leaflet-d3 (⭐238)](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet \[map, geo]
-*   [react-d3-basic (⭐217)](https://github.com/react-d3/react-d3-basic) - Library For Building Composable And Declarative Maps \[map, geo]
-*   [Wikimaps-D3js Atlas (⭐42)](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps \[map, geo]
+*   [Wikimaps-D3js Atlas (⭐45)](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps \[map, geo]
 
 ### Utils / Third Party
 
@@ -283,16 +275,9 @@
 
 ### Miscellaneous / Third Party
 
-*   [comic.js (⭐153)](https://github.com/balint42/comic.js) - Cartoon style drawing. Works also for canvas, Raphael & SVG.js
 *   [d3-force-gravity (⭐21)](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion)
-*   [mermaid (⭐51k)](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
+*   [mermaid (⭐53k)](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
 *   [netvis (⭐16)](https://github.com/dborzov/netvis) - Visualize network communication for arbitrary protocols
-
-### Code Editors / Third Party
-
-*   [d3-snippets (⭐36)](https://github.com/martgnz/d3-snippets) - Snippets for Atom
-*   [d3-snippets-for-sublime-text-2 (⭐13)](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - Snippets for Sublime
-*   [d3Snippets (⭐3)](https://github.com/Ledragon/d3Snippets) - Snippets for VS Code
 
 ## [22. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -309,7 +294,7 @@
 
 ### Gesture
 
-*   [ShowTime (⭐456)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐459)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 
@@ -319,7 +304,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐755)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐761)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -329,7 +314,7 @@
 
 ### Libraries / JavaScript
 
-*   [mongration (⭐80)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [mongration (⭐81)](https://github.com/awapps/mongration) - Node.js migration framework
 
 ### Tools / Deployment
 
@@ -340,7 +325,7 @@
 ### Development Environment
 
 *   [Mixer (⭐45)](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins.
-*   [Oven (⭐140)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
+*   [Oven (⭐139)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
 ## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
@@ -384,11 +369,11 @@
 
 ### REPLs / Third-party APIs
 
-*   [cl-repl (⭐131)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐11)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+*   [cl-repl (⭐132)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
 
 ### Apps / Third-party APIs
 
-*   [lake (⭐85)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐83)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
 ## [31. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -531,7 +516,7 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐245)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐246)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 
@@ -549,7 +534,7 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐181)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐183)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
 ## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

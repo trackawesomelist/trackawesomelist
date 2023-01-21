@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### Resources / Examples
 
-*   [vuetify-i18n-boilerplate (⭐13)](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
+*   [vuetify-i18n-boilerplate (⭐14)](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -122,7 +122,7 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐220)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐246)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (  *a certain platform*  ) / Instagram
 
@@ -154,7 +154,7 @@
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
-*   [YouCast (⭐190)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouCast (⭐199)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

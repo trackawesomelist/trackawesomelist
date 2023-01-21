@@ -2,7 +2,7 @@
 
 40 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [optparse (⭐142)](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
+*   [optparse (⭐144)](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
 *   [shellfire (⭐1.2k)](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 
 ## [2. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
@@ -29,7 +29,7 @@
 
 ### UI / Barcode
 
-*   [LeeGo (⭐971)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐969)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -65,7 +65,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐211)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐214)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -148,12 +148,12 @@
 ### Artificial Intelligence
 
 *   [ANNetGPGPU (⭐93)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐5.2k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Recast/Detour (⭐5.3k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 *   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐8.2k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐8.3k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
@@ -219,7 +219,7 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐442)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐443)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -554,7 +554,7 @@ git config core.fileMode false
 
 ### Packages / Debugging / Profiling
 
-*   [ctrace (⭐115)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+*   [ctrace (⭐117)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 
 ### Resources / Tutorials
 

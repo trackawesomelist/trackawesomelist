@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐495)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐506)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-layout-system (⭐32)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
+*   [vue-layout-system (⭐33)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
 ## [7. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -133,7 +133,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Voltron (⭐5.8k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+*   [Voltron (⭐5.9k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

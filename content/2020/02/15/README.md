@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Resources / Visual Effects
 
-*   [gdx-vfx (⭐155)](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
+*   [gdx-vfx (⭐158)](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
 
 ### Resources / Others
 
@@ -71,7 +71,7 @@
 ### Recruitment / Interview
 
 *   [Back-End Developer Interview Questions (⭐13k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
-*   [Reverse interview (⭐24k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
+*   [Reverse interview (⭐25k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
 ### Motivation / Negotiation
 
@@ -102,7 +102,7 @@
 
 ### Product Management / Standups
 
-*   [Awesome Product Management (⭐873)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
+*   [Awesome Product Management (⭐898)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 
 ### Product Management / Hiring PMs
 
@@ -238,11 +238,11 @@
 
 ### ASM / Music drivers and trackers
 
-*   [Game Boy Assembly Programming for the Modern Game Developer (⭐104)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
+*   [Game Boy Assembly Programming for the Modern Game Developer (⭐105)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
 
 ### ASM / Boilerplates and libraries
 
-*   [GingerBread (⭐104)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐104)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
+*   [GingerBread (⭐105)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐105)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
 
 ## [8. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 

@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,34 +11,34 @@
 ### Packages / Command-line apps
 
 *   [speed-test (⭐3.8k)](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
-*   [David (⭐952)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-*   [normit (⭐231)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
+*   [David (⭐954)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
+*   [normit (⭐234)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 
 ### Packages / Command-line utilities
 
-*   [log-update (⭐972)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
-*   [ansi-escapes (⭐408)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
-*   [log-symbols (⭐695)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
-*   [figures (⭐545)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
-*   [string-width (⭐360)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+*   [log-update (⭐978)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
+*   [ansi-escapes (⭐412)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+*   [log-symbols (⭐697)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+*   [figures (⭐548)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+*   [string-width (⭐364)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
 *   [yn (⭐239)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
 *   [cli-cursor (⭐87)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 
 ### Packages / Filesystem
 
-*   [filenamify (⭐424)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
-*   [fs-extra (⭐8.8k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
+*   [filenamify (⭐426)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
+*   [fs-extra (⭐8.9k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 
 ### Packages / Streams
 
-*   [into-stream (⭐193)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
+*   [into-stream (⭐194)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
 *   [byline (⭐321)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
 *   [first-chunk-stream (⭐26)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 *   [pad-stream (⭐10)](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 
 ### Packages / Text
 
-*   [string-length (⭐132)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+*   [string-length (⭐134)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 *   [splice-string (⭐21)](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 
 ### Packages / Number
@@ -59,15 +59,15 @@
 ### Packages / Parsing
 
 *   [parse5 (⭐3.2k)](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
-*   [strip-json-comments (⭐559)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
+*   [strip-json-comments (⭐562)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 *   [strip-css-comments (⭐116)](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
-*   [neat-csv (⭐286)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
+*   [neat-csv (⭐287)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
 *   [binary-extract (⭐150)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
-*   [js-yaml (⭐5.7k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+*   [js-yaml (⭐5.8k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 
 ### Packages / Compression
 
-*   [pako (⭐4.4k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
+*   [pako (⭐4.6k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 
 ### Packages / Testing
 
@@ -79,11 +79,11 @@
 
 ### Packages / Miscellaneous
 
-*   [hasha (⭐922)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
-*   [dot-prop (⭐690)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+*   [hasha (⭐929)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
+*   [dot-prop (⭐698)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 *   [onetime (⭐147)](https://github.com/sindresorhus/onetime) - Only run a function once.
-*   [os-locale (⭐215)](https://github.com/sindresorhus/os-locale) - Get the system locale.
-*   [file-type (⭐2.8k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
+*   [os-locale (⭐217)](https://github.com/sindresorhus/os-locale) - Get the system locale.
+*   [file-type (⭐2.9k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

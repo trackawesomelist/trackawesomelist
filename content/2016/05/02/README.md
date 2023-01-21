@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -131,7 +131,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### StackView / Barcode
 
-*   [StackViewController (⭐866)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+*   [StackViewController (⭐867)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 *   [TZStackView (⭐1.2k)](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)

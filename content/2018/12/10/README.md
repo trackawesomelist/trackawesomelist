@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -237,7 +237,7 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### Application Frameworks
 
-*   [ABP (⭐9.1k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
+*   [ABP (⭐9.3k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
 
 ### Books
 
@@ -249,15 +249,15 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### GUI
 
-*   [SciterSharp (⭐90)](https://github.com/ramon-mendes/SciterSharp) - Create .NET cross-platform desktop apps using not just HTML, but all features of Sciter engine: CSS3, SVG, scripting, AJAX, \<video>... Sciter is free for commercial use
+*   [SciterSharp (⭐92)](https://github.com/ramon-mendes/SciterSharp) - Create .NET cross-platform desktop apps using not just HTML, but all features of Sciter engine: CSS3, SVG, scripting, AJAX, \<video>... Sciter is free for commercial use
 
 ### Mathematics
 
-*   [UnitConversion (⭐163)](https://github.com/atulmish/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
+*   [UnitConversion (⭐164)](https://github.com/atulmish/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
 
 ### Trading
 
-*   [StockSharp (⭐5.3k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
+*   [StockSharp (⭐5.4k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
 
 ### Visual Studio Plugins
 

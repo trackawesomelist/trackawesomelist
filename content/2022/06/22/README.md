@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [Pufferfish (⭐76)](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish.
+*   [Pufferfish (⭐108)](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -24,63 +24,69 @@
 
 *   [Ungoogled Chromium (⭐15k)](https://github.com/ungoogled-software/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 
-## [4. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Design and UI
+
+*   [css-gradient.com](https://www.css-gradient.com/) - Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.
+
+## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Packages
 
-*   [Page loader (⭐13)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
-*   [Flash (⭐12)](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
-*   [Dry requests (⭐198)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
+*   [Page loader (⭐17)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
+*   [Flash (⭐13)](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
+*   [Dry requests (⭐202)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Modal, Toast & Notifications
 
-*   [Blazor.Sidepanel (⭐20)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
+*   [Blazor.Sidepanel (⭐22)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
 
-## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Web Applications
 
 *   [Healthchecks](https://healthchecks.io/) - Cron job monitoring service. ([BSD 3-clause (⭐5.6k)](https://github.com/healthchecks/healthchecks/blob/master/LICENSE))
 
-## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Blockchain Explorers
 
 *   [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer (supports Sandbox in `localhost`).
 
-### Tools / Nodes and Indexers
+### Other Development Tools / Nodes and Indexers
 
-*   [Algorand Node UI (⭐22)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
+*   [Algorand Node UI (⭐23)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [exa (twopizza9621536) (⭐1)](https://github.com/TwoPizza9621536/zsh-exa) - Combines [DarrinTisdale/zsh-aliases-exa (⭐89)](https://github.com/DarrinTisdale/zsh-aliases-exa), [hermitmaster/zsh-exa-plugin (⭐1)](https://github.com/hermitmaster/zsh-exa-plugin), [MohamedElashri/exa-zsh (⭐8)](https://github.com/MohamedElashri/exa-zsh), [ptavares/zsh-exa (⭐8)](https://github.com/ptavares/zsh-exa), [RitchieS/zsh-exa/ (⭐3)](https://github.com/RitchieS/zsh-exa/), [todie/exa.plugin.zsh (⭐1)](https://github.com/todie/exa.plugin.zsh), [zplugin/zsh-exa (⭐9)](https://github.com/zplugin/zsh-exa) and [zsh-exa-ls-plugin (⭐2)](https://github.com/birdhackor/zsh-exa-ls-plugin). It also adds the default `bash` `ls` aliases and changes some aliases to avoid conflicts with other commands that [exa](https://the.exa.website) does not replace.
+*   [exa (twopizza9621536) (⭐1)](https://github.com/TwoPizza9621536/zsh-exa) - Combines [DarrinTisdale/zsh-aliases-exa (⭐91)](https://github.com/DarrinTisdale/zsh-aliases-exa), [hermitmaster/zsh-exa-plugin (⭐1)](https://github.com/hermitmaster/zsh-exa-plugin), [MohamedElashri/exa-zsh (⭐9)](https://github.com/MohamedElashri/exa-zsh), [ptavares/zsh-exa (⭐8)](https://github.com/ptavares/zsh-exa), [RitchieS/zsh-exa/ (⭐4)](https://github.com/RitchieS/zsh-exa/), [todie/exa.plugin.zsh (⭐1)](https://github.com/todie/exa.plugin.zsh), [zplugin/zsh-exa (⭐9)](https://github.com/zplugin/zsh-exa) and [zsh-exa-ls-plugin (⭐2)](https://github.com/birdhackor/zsh-exa-ls-plugin). It also adds the default `bash` `ls` aliases and changes some aliases to avoid conflicts with other commands that [exa](https://the.exa.website) does not replace.
 *   [ls (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-ls) - Adds some more aliases for `ls`.
-*   [ls (zpm-zsh) (⭐73)](https://github.com/zpm-zsh/ls) - Colorizes the output of `ls`.
+*   [ls (zpm-zsh) (⭐75)](https://github.com/zpm-zsh/ls) - Colorizes the output of `ls`.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue / Transformers
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-md-preview (⭐131)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
 
-## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
 *   [react-ts-typewriter (⭐13)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 
-## [11. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [12. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
 *   [britecharts (⭐3.7k)](https://github.com/britecharts/britecharts) - Client-side reusable charting library \[bar, line, donut, sparkline, step]
 
-## [12. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Maps / Web Maps
 
@@ -91,13 +97,13 @@
 
 *   [Komoot](https://www.komoot.com/) - A route planner and navigation app specializing in hiking and cycling. ([Android](https://market.android.com/details?id=de.komoot.android), [iOS](https://itunes.apple.com/de/app/id447374873?mt=8) / [Wiki](https://wiki.openstreetmap.org/wiki/Komoot))
 
-## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [14. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions
 
-*   [Cloudinary Upload Interface (⭐2)](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - Simple interface for upload/read cloudinary image.
+*   [Cloudinary Upload Interface (⭐6)](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - Simple interface for upload/read cloudinary image.
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
@@ -111,39 +117,29 @@
 
 *   [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](https://demo.bludit.com/), [Source Code (⭐1.1k)](https://github.com/bludit/bludit)) `MIT` `PHP`
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### RPC
 
-*   [gRPC UI (⭐3.7k)](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
+*   [gRPC UI (⭐3.8k)](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
 
-## [16. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [17. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Typetta (⭐62)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
+*   :octocat: [Typetta (⭐63)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [cappyzawa/trim.nvim (⭐53)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
+*   [cappyzawa/trim.nvim (⭐54)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
 
-## [18. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [19. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### RPG
 
-*   [OpenNox (⭐200)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
-
-## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Design and UI
-
-*   [css-gradient.com](https://www.css-gradient.com/) - Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.
-
-### Analytics, Events and Statistics
-
-*   [Splitbee](https://splitbee.io/) — Track and optimize your online business with Splitbee. Free plan includes up to 2,500 events / month, 6 months retention, 1 x Active A/B Test and 1 x Active Automation.
+*   [OpenNox (⭐216)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
 
 ---
 

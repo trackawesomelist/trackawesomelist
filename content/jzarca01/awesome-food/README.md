@@ -2,7 +2,7 @@
 
 A curated list of food related projects on Github
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jzarca01/awesome-food/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jzarca01/awesome-food](https://github.com/jzarca01/awesome-food) · ⭐ 123 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jzarca01/awesome-food/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jzarca01/awesome-food](https://github.com/jzarca01/awesome-food) · ⭐ 123 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/jzarca01/awesome-food/week/README.md) / [Overview](/content/jzarca01/awesome-food/readme/README.md) ]
 

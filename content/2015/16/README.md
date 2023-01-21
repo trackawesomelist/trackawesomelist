@@ -2,7 +2,7 @@
 
 15 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -124,7 +124,7 @@
 ### Validations
 
 *   [uk\_postcode (⭐9)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
-*   [vex (⭐558)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+*   [vex (⭐560)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ## [9. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 

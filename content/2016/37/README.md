@@ -2,7 +2,7 @@
 
 42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -68,7 +68,7 @@
 
 ### Plugins
 
-*   [tmux-fingers (⭐706)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐716)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -238,7 +238,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐454)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐459)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -285,7 +285,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐384)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐385)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
@@ -743,7 +743,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Graphics
 
-*   [OpenTK (⭐2.6k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐2.7k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ### Image Processing
 
@@ -751,8 +751,8 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### JavaScript Engines
 
-*   [Jint (⭐3.1k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐736)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jint (⭐3.2k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+*   [Jurassic (⭐745)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
 ## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -764,7 +764,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### System Utilities / Directory Navigation
 
-*   [histstat (⭐88)](https://github.com/vesche/histstat) - History for netstat
+*   [histstat (⭐90)](https://github.com/vesche/histstat) - History for netstat
 
 ---
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -15,7 +15,7 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐263)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐265)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -27,11 +27,11 @@
 
 ### Other Data
 
-*   [KeyPathKit (⭐405)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
+*   [KeyPathKit (⭐406)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 
 ### Socket / Barcode
 
-*   [sockets (⭐574)](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
+*   [sockets (⭐573)](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
 
 ### Quality / Barcode
 
@@ -39,7 +39,7 @@
 
 ### Text / Barcode
 
-*   [MarkdownKit (⭐686)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
+*   [MarkdownKit (⭐687)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

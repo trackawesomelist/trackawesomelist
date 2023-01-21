@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,9 +23,9 @@
 
 ### Resources / SRAM
 
-*   [MicroPython](https://micropython.org) - Project website. Test drive the pyboard. Try MicroPython online with unicorn.
+*   [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 *   [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
-*   [MicroPython Wiki](https://wiki.micropython.org/) - Community generated documentation and examples of the features of MicroPython and the pyboard.
+*   [MicroPython Wiki](https://wiki.micropython.org/) - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 *   [MicroPython Newsletter](https://micropython.org/newsletter) - Subscribe to the MicroPython newsletter for news and announcements including new features and new products.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
@@ -57,7 +57,7 @@
 
 ### DevOps / Newsletters
 
-*   [Makes (⭐238)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
+*   [Makes (⭐259)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 
 ## [6. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -77,13 +77,13 @@
 
 ### Databases Implemented in Go
 
-*   [dtf (⭐227)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
+*   [dtf (⭐224)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [terragrunt (⭐6)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐6.4k)](https://github.com/gruntwork-io/terragrunt).
+*   [terragrunt (⭐6)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐6.5k)](https://github.com/gruntwork-io/terragrunt).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

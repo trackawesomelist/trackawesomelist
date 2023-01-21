@@ -1,8 +1,8 @@
 # Awesome List Updates on May 07 - May 13, 2018
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Applications
 
-*   [LCVPN (⭐498)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
+*   [LCVPN (⭐503)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 *   [Meshbird (⭐3.4k)](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
 *   [nuTorrent ☠️ (⭐231)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 
@@ -117,7 +117,7 @@
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐29)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐30)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 
@@ -125,11 +125,11 @@
 
 ### Queue
 
-*   [gen\_rmq (⭐170)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
+*   [gen\_rmq (⭐171)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 
 ### Security
 
-*   [pwned (⭐20)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
+*   [pwned (⭐21)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 
 ### Testing
 
@@ -294,8 +294,8 @@
 
 ### System
 
-*   [baked\_file\_system (⭐160)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
-*   [hardware (⭐69)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+*   [baked\_file\_system (⭐161)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [hardware (⭐70)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -360,7 +360,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-persian-datetime-picker (⭐552)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
+*   [vue-persian-datetime-picker (⭐554)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 
 ### Components & Libraries / UI Utilities
 
@@ -368,7 +368,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-router-user-roles (⭐241)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
+*   [vue-router-user-roles (⭐240)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
 
 ## [26. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -378,7 +378,7 @@
 
 ### Libraries / Visualization
 
-*   [JChemPaint (⭐91)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
+*   [JChemPaint (⭐92)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 
 ## [27. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -447,22 +447,13 @@
 
 *   [homeeToMqtt (⭐10)](https://github.com/odig/homeeToMqtt) - Bidirectional Interface between homee and MQTT.
 
-## [32. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### NoSQL / Metric & Metric Collection
-
-*   Key-Value
-    *   [LevelDB (⭐31k)](https://github.com/google/leveldb) - Google's high performance key/value database.
-    *   [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
-    *   [Riak](http://docs.basho.com/) - Another fault-tolerant key-value NoSQL database.
-
-## [33. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
 *   [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 
-## [34. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [33. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -479,23 +470,23 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [User Manager Service (⭐69)](https://github.com/skelpo/UserManager) – A small, useful user manager made for production application setups.
 
-## [35. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [34. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Metadata
 
 *   [SDPoker (⭐29)](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 
-## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Container Security (⭐7)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 
-## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
-*   [SpriteKitEasingSwift (⭐109)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
+*   [SpriteKitEasingSwift (⭐110)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
 
 ### Core Data
 
@@ -503,16 +494,12 @@
 
 ### Images / Barcode
 
-*   [BlockiesSwift (⭐57)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
-*   [ImageDetect (⭐298)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
+*   [BlockiesSwift (⭐56)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
+*   [ImageDetect (⭐299)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
 
 ### Logging / Barcode
 
 *   [TraceLog (⭐52)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
-
-### Maps / Barcode
-
-*   [MapViewPlus (⭐162)](https://github.com/okhanokbay/MapViewPlus) - Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.
 
 ### Webserver / Barcode
 
@@ -520,7 +507,7 @@
 
 ### Scripting / Barcode
 
-*   [Swift for Scripting (⭐193)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
+*   [Swift for Scripting (⭐197)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
 
 ### Text / Barcode
 
@@ -534,7 +521,7 @@
 
 *   [EasyTransitions (⭐1.6k)](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 
-## [38. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [37. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### CSS References
 
@@ -585,20 +572,20 @@
 *   [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
 *   [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable.
 
-## [39. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [38. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Implementations / Hylomorphisms in the Wild
 
 *   [dada (⭐58)](https://github.com/sellout/dada) for Dhall - a library for recursion
     schemes in Dhall.
 
-## [40. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [39. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Elixir Outlaws](https://elixiroutlaws.com) - Panel discussions of topics in and around Elixir development.
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Assets
 
@@ -606,11 +593,11 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Mond (⭐295)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐300)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ### Compression
 
-*   [DotNetZip.Semverd (⭐480)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
+*   [DotNetZip.Semverd (⭐489)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
 
 ### Cryptography
 
@@ -618,7 +605,7 @@
 
 ### ETL
 
-*   [Cinchoo ETL (⭐599)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
+*   [Cinchoo ETL (⭐611)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
 *   [Reactive ETL](https://archive.codeplex.com/?p=reactiveetl) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ### Event aggregator and messenger
@@ -627,7 +614,7 @@
 
 ### GUI
 
-*   [Office Ribbon (⭐661)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
+*   [Office Ribbon (⭐667)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
 
 ### HTTP
 
@@ -651,7 +638,7 @@
 
 ### PDF
 
-*   [WkhtmlToPdf (⭐260)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
+*   [WkhtmlToPdf (⭐259)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 
 ### Reactive Programming
 
@@ -669,7 +656,7 @@
 
 *   [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
 *   [Crossertech](https://crosser.io/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **\[$]**
-*   [WampSharp (⭐378)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
+*   [WampSharp (⭐379)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 
 ---
 

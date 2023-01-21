@@ -2,7 +2,7 @@
 
 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/k4m4/terminals-are-sexy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) · ⭐ 11K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/k4m4/terminals-are-sexy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) · ⭐ 11K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/k4m4/terminals-are-sexy/week/README.md) / [Overview](/content/k4m4/terminals-are-sexy/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/adafruit/awesome-circuitpython/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) · ⭐ 500 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/adafruit/awesome-circuitpython/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) · ⭐ 500 · 🏷️ Programming Languages
 
 [ [Daily](/content/adafruit/awesome-circuitpython/README.md) / [Weekly](/content/adafruit/awesome-circuitpython/week/README.md) / Overview ]
 

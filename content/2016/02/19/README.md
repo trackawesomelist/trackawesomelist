@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -93,7 +93,7 @@
 
 ### Samples
 
-*   [vkcube (⭐89)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐92)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
@@ -110,7 +110,7 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐757)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐772)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

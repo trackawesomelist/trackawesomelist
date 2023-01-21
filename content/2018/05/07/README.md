@@ -1,8 +1,8 @@
 # Awesome List Updates on May 07, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,40 +18,31 @@
 
 *   [mqtt-shell (⭐16)](https://github.com/pidster-dot-org/mqtt-shell) - A simple interactive shell for MQTT.
 
-## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### NoSQL / Metric & Metric Collection
-
-*   Key-Value
-    *   [LevelDB (⭐31k)](https://github.com/google/leveldb) - Google's high performance key/value database.
-    *   [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
-    *   [Riak](http://docs.basho.com/) - Another fault-tolerant key-value NoSQL database.
-
-## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Assorted
 
 *   [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 
-## [5. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [4. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Tools
 
 *   [Ice (⭐372)](https://github.com/jakeheis/Ice) – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 
-## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Metadata
 
 *   [SDPoker (⭐29)](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 
-## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Container Security (⭐7)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Webserver / Barcode
 
@@ -61,7 +52,7 @@
 
 *   [Stencil (⭐2.2k)](https://github.com/stencilproject/Stencil) - Simple and powerful template language.
 
-## [9. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
+## [8. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
 ### CSS References
 
@@ -97,20 +88,20 @@
 *   [Flexbugs (⭐13k)](https://github.com/philipwalton/flexbugs) - Community-curated list of flexbox issues and cross-browser workarounds for them.
 *   [Flexbox Zombies](https://flexboxzombies.com) - A training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
 
-## [10. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
+## [9. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
 ### Implementations / Hylomorphisms in the Wild
 
 *   [dada (⭐58)](https://github.com/sellout/dada) for Dhall - a library for recursion
     schemes in Dhall.
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Elixir Outlaws](https://elixiroutlaws.com) - Panel discussions of topics in and around Elixir development.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Assets
 
@@ -118,7 +109,7 @@
 
 ### Compression
 
-*   [DotNetZip.Semverd (⭐480)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
+*   [DotNetZip.Semverd (⭐489)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
 
 ### Cryptography
 
@@ -126,7 +117,7 @@
 
 ### ETL
 
-*   [Cinchoo ETL (⭐599)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
+*   [Cinchoo ETL (⭐611)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
 *   [Reactive ETL](https://archive.codeplex.com/?p=reactiveetl) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ### Event aggregator and messenger
@@ -135,7 +126,7 @@
 
 ### GUI
 
-*   [Office Ribbon (⭐661)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
+*   [Office Ribbon (⭐667)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
 
 ### HTTP
 
@@ -159,7 +150,7 @@
 
 ### PDF
 
-*   [WkhtmlToPdf (⭐260)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
+*   [WkhtmlToPdf (⭐259)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 
 ### Reactive Programming
 
@@ -177,7 +168,7 @@
 
 *   [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
 *   [Crossertech](https://crosser.io/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **\[$]**
-*   [WampSharp (⭐378)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
+*   [WampSharp (⭐379)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 
 ---
 

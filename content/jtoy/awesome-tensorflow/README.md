@@ -2,7 +2,7 @@
 
 TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jtoy/awesome-tensorflow/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) · ⭐ 17K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jtoy/awesome-tensorflow/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) · ⭐ 17K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/jtoy/awesome-tensorflow/week/README.md) / [Overview](/content/jtoy/awesome-tensorflow/readme/README.md) ]
 

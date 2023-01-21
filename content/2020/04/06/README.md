@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,11 +16,11 @@
 
 ### Network Tools / DDoS Tools
 
-*   [Low Orbit Ion Canon (LOIC) (⭐2.1k)](https://github.com/NewEraCracker/LOIC) - Open source network stress tool written for Windows.
+*   [Low Orbit Ion Canon (LOIC) (⭐2.2k)](https://github.com/NewEraCracker/LOIC) - Open source network stress tool written for Windows.
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Fridax (⭐121)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
+*   [Fridax (⭐125)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -60,16 +60,16 @@
 
 ### IR Tools Collection / Evidence Collection
 
-*   [CyLR (⭐511)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+*   [CyLR (⭐521)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 
 ### IR Tools Collection / Other Tools
 
-*   [PowerSponse (⭐32)](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
+*   [PowerSponse (⭐34)](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [Invoke-LiveResponse (⭐132)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
-*   [IRTriage (⭐111)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
+*   [Invoke-LiveResponse (⭐133)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
+*   [IRTriage (⭐115)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
 
 ## [9. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

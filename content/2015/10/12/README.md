@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Third-party APIs
 
-*   [google-api-ads-ruby (⭐288)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
+*   [google-api-ads-ruby (⭐289)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 
 ## [4. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

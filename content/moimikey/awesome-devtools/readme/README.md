@@ -2,7 +2,7 @@
 
 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/moimikey/awesome-devtools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) · ⭐ 285 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/moimikey/awesome-devtools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) · ⭐ 285 · 🏷️ Development Environment
 
 [ [Daily](/content/moimikey/awesome-devtools/README.md) / [Weekly](/content/moimikey/awesome-devtools/week/README.md) / Overview ]
 

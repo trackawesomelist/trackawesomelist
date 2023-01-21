@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [nightHawk (⭐592)](https://github.com/biggiesmallsAG/nightHawkResponse) - Application built for asynchronous forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
+*   [nightHawk (⭐595)](https://github.com/biggiesmallsAG/nightHawkResponse) - Application built for asynchronous forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
 
 ## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -20,13 +20,13 @@
 
 ### RSS Extensions / Outline Processor Markup Language
 
-*   [Podcast Index: the "podcast" namespace (⭐250)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
+*   [Podcast Index: the "podcast" namespace (⭐269)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
 *   [source namespace](http://source.scripting.com/#1653758422000) <sup>[1240](https://t.me/s/aboutrss/1240)</sup>: Markdown in RSS supported.
 
 ### Apps / Outline Processor Markup Language
 
 *   [Unread](https://www.goldenhillsoftware.com/unread/) <sup>[400](https://t.me/s/aboutrss/400), [402](https://t.me/s/aboutrss/402), [666](https://t.me/s/aboutrss/666), [1232](https://t.me/s/aboutrss/1232)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/unread-2/id1363637349)
-*   [Read You (⭐1.2k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Read You (⭐1.5k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [WebFeed](https://taoshu.in/webfeed/) <sup>[1213](https://t.me/s/aboutrss/1213)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/webfeed/phonnpdncnchhpobgkabgcjoapjcacop/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/webfeed/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/taoso/webfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Matter Reader](https://hq.getmatter.com/) <sup>[1220](https://t.me/s/aboutrss/1220)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/matter-reader/id1501592184)
 *   [Folio Reader](https://foliorss.com/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.bakumon.rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -39,8 +39,8 @@
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Miniflux](https://miniflux.app/index.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [831](https://t.me/s/aboutrss/831), [858](https://t.me/s/aboutrss/858), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://miniflux.app/hosting.html)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/miniflux/miniflux)
-    *   [docker-miniflux-postgresql (⭐19)](https://github.com/fengkx/docker-miniflux-postgresql) <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/docker-miniflux-postgresql)
-    *   [Awesome Miniflux (⭐11)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
+    *   [docker-miniflux-postgresql (⭐20)](https://github.com/fengkx/docker-miniflux-postgresql) <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/docker-miniflux-postgresql)
+    *   [Awesome Miniflux (⭐12)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
     *   [Miniflux Indexer (⭐12)](https://github.com/QuantumGhost/miniflux-indexer) <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/QuantumGhost/miniflux-indexer)
     *   [Reading for RSS](https://apps.apple.com/app/reading-for-rss/id1611939852) <sup>[1219](https://t.me/s/aboutrss/1219)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/reading-for-rss/id1611939852)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -106,7 +106,7 @@
 
 *   [ChainFeeds](https://www.chainfeeds.xyz/) <sup>[1210](https://t.me/s/aboutrss/1210)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/chainfeeds/RSSAggregatorforWeb3)
 *   [【925】位优质Mirror作者的Feed地址](https://twitter.com/zlexdl/status/1502629374889144323) <sup>[1210](https://t.me/s/aboutrss/1210)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zlexdl/mirror)
-*   [PrimitivesFeed (⭐33)](https://github.com/PrimitivesLane/PrimitivesFeed)  [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/PrimitivesLane/PrimitivesFeed)
+*   [PrimitivesFeed (⭐35)](https://github.com/PrimitivesLane/PrimitivesFeed)  [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/PrimitivesLane/PrimitivesFeed)
 *   [Bitcoin RSS Feeds](https://bc1984.com/bitcoin-rss-feeds/) <sup>[1143](https://t.me/s/aboutrss/1143)</sup>
 
 ### Multi-subject / Crypto or Blockchain relevant
@@ -149,13 +149,13 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [fzf-fasd (⭐50)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐49k)](https://github.com/junegunn/fzf) and [fasd (⭐5.8k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
-*   [fzf-z (⭐158)](https://github.com/andrewferrier/fzf-z) - Brings together the \*z- plugin and \*[fzf (⭐49k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
+*   [fzf-z (⭐160)](https://github.com/andrewferrier/fzf-z) - Brings together the \*z- plugin and \*[fzf (⭐49k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [brenoprata10/nvim-highlight-colors (⭐108)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
+*   [brenoprata10/nvim-highlight-colors (⭐113)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

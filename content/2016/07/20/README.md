@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -163,7 +163,7 @@
 
 ### Libraries / Python
 
-*   [μMongo (⭐422)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+*   [μMongo (⭐427)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ## [11. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -194,21 +194,21 @@
 *   [RSKKeyboardAnimationObserver (⭐45)](https://github.com/ruslanskorb/RSKKeyboardAnimationObserver) - Showing / dismissing keyboard animation in simple UIViewController category.
 *   [RFKeyboardToolbar (⭐421)](https://github.com/ruddfawcett/RFKeyboardToolbar) - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
 *   [IQKeyboardManager (⭐16k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
-*   [NgKeyboardTracker (⭐809)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
+*   [NgKeyboardTracker (⭐808)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 *   [MMNumberKeyboard (⭐957)](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
 *   [TPKeyboardAvoiding (⭐5.8k)](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
-*   [YYKeyboardManager (⭐482)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
+*   [YYKeyboardManager (⭐480)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
 
 ### Utility / Collection View Layout
 
 *   [Underscore.m (⭐1.5k)](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
-*   [XExtensionItem (⭐87)](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
-*   [ReflectableEnum (⭐334)](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
+*   [XExtensionItem (⭐86)](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
+*   [ReflectableEnum (⭐333)](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
 *   [ObjectiveSugar (⭐2.2k)](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
 *   [OpinionatedC (⭐52)](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
-*   [YOLOKit (⭐663)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
+*   [YOLOKit (⭐662)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
 *   [BFKit (⭐806)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
-*   [AppVersionMonitor (⭐256)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [AppVersionMonitor (⭐255)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [libextobjc (⭐4.5k)](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
 *   [YAML.framework (⭐236)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
 

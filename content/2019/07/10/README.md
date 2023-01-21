@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Static Analyzers / Social Engineering Tools
 
-*   [cwe\_checker (⭐741)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
+*   [cwe\_checker (⭐762)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
-*   [Stratux (⭐919)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
+*   [Stratux (⭐925)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Firefox GNOME Theme (⭐2k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐2.3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Data validation / Third-party APIs
 
-*   [sanity-clause (⭐38)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [sanity-clause (⭐40)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -98,11 +98,11 @@
 
 ### Tools / Web, JavaScript
 
-*   [test-each (⭐98)](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
+*   [test-each (⭐99)](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
 
 ### Tools / Network protocol
 
-*   [T-Fuzz (⭐245)](https://github.com/HexHive/T-Fuzz) - T-Fuzz leverages a coverage guided fuzzer to generate inputs.
+*   [T-Fuzz (⭐244)](https://github.com/HexHive/T-Fuzz) - T-Fuzz leverages a coverage guided fuzzer to generate inputs.
 
 ## [8. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 

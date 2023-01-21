@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -295,28 +295,28 @@
 
 ### VSCode / Third-party APIs
 
-*   [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub (⭐35)](https://github.com/ailisp/commonlisp-vscode/).
+*   [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub (⭐36)](https://github.com/ailisp/commonlisp-vscode/).
 *   [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
-*   [smoke (⭐158)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
+*   [smoke (⭐160)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 
 ### Packages / Testing
 
-*   [testcontainers-node (⭐952)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+*   [testcontainers-node (⭐995)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ### Packages / Automation
 
-*   [nut.js (⭐1.1k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+*   [nut.js (⭐1.2k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
-*   🎨🔧💼 [Colorkraken (⭐12)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
+*   🎨🔧💼 [Colorkraken (⭐13)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
 
 ### UI Libraries, Components & Templates
 

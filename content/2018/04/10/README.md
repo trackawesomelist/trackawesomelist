@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 
 ### Utility / Collection View Layout
 
-*   [SwiftProvisioningProfile (⭐59)](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
+*   [SwiftProvisioningProfile (⭐60)](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Example Projects
 
-*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐117)](https://github.com/stianst/keycloak-experimental)
+*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐118)](https://github.com/stianst/keycloak-experimental)
 
 ---
 

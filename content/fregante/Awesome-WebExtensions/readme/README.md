@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for WebExtensions development.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fregante/Awesome-WebExtensions/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) · ⭐ 969 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fregante/Awesome-WebExtensions/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) · ⭐ 969 · 🏷️ Platforms
 
 [ [Daily](/content/fregante/Awesome-WebExtensions/README.md) / [Weekly](/content/fregante/Awesome-WebExtensions/week/README.md) / Overview ]
 

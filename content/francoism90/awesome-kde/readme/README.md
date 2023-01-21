@@ -2,7 +2,7 @@
 
 A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/francoism90/awesome-kde/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) · ⭐ 244 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/francoism90/awesome-kde/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) · ⭐ 244 · 🏷️ Platforms
 
 [ [Daily](/content/francoism90/awesome-kde/README.md) / [Weekly](/content/francoism90/awesome-kde/week/README.md) / Overview ]
 

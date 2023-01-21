@@ -2,7 +2,7 @@
 
 40 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -441,7 +441,7 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐335)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐337)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ### Libraries / Virtualization
 
@@ -476,7 +476,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Tools
 
-*   [ShareX (⭐22k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+*   [ShareX (⭐23k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 
 ## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -494,11 +494,11 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Queue
 
-*   [verk (⭐713)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
+*   [verk (⭐715)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 
 ### Editors
 
-*   [Alchemist.vim (⭐658)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐659)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ### Websites
 
@@ -523,7 +523,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Open Source / Other
 
-*   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+*   [Catify (⭐63)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
 ## [32. Amas](/content/sindresorhus/amas/week/README.md)
 

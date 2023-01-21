@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -62,7 +62,7 @@
 ### Plugins and scripts / Godot version unknown
 
 *   [Easing Script (⭐45)](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
-*   [gdutils (⭐90)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+*   [gdutils (⭐92)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 
 ### Godot script editor syntax themes / Godot version unknown
 

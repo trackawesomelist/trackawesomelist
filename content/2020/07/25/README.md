@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Deep Learning / PyTorch
 
-*   [pytorch\_geometric\_temporal (⭐1.8k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pytorch\_geometric\_temporal (⭐1.9k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -53,8 +53,8 @@
 
 ### Plugins
 
-*   [Virtualfish (⭐955)](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
-*   [Apple Touchbar (⭐84)](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
+*   [Virtualfish (⭐968)](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
+*   [Apple Touchbar (⭐83)](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 
 ## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

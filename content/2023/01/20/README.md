@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -98,8 +98,8 @@
 *   [GNOME Web](https://apps.gnome.org/app/org.gnome.Epiphany/) - Official web browser project of GNOME. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
 *   [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - BitTorrent client. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Newsflash](https://apps.gnome.org/app/com.gitlab.newsflash/) - RSS feeds reader. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Get fonts from Google Font. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Group your webapps into a single application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Install fonts from online sources. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Browser for your pinned tabs. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ### Office
 
@@ -112,7 +112,7 @@
 ### Well Being
 
 *   [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Listen to different sounds. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking.
+*   [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ### Multimedia
 
@@ -176,10 +176,6 @@
 
 ## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Desktop Customization
-
-*   [qubes-gui-rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
-
 ### Training and Materials / Web articles
 
 *   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
@@ -206,4 +202,5 @@
 
 ---
 
+- Prev: [Jan 21, 2023](/content/2023/01/21/README.md)
 - Next: [Jan 19, 2023](/content/2023/01/19/README.md)

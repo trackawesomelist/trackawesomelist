@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### For Developers / Directory Navigation
 
-*   [bocker (⭐10k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+*   [bocker (⭐11k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 
 ## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### conversion
 
-*   [esri2open (⭐248)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+*   [esri2open (⭐247)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 
 ## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

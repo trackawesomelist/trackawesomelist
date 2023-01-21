@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,14 +22,14 @@
 
 ### GUI
 
-*   [Malewicz (⭐42)](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
+*   [Malewicz (⭐43)](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [gal (⭐0)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
-*   [headline (⭐105)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
+*   [gal (⭐1)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
+*   [headline (⭐112)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Tab / Barcode
 
-*   [TabBar (⭐156)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
+*   [TabBar (⭐161)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

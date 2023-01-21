@@ -2,7 +2,7 @@
 
 A curated list of generative deep learning tools, works, models, etc. for artistic uses
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 filipecalegario/awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-deep-art) · ⭐ 264 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 filipecalegario/awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-deep-art) · ⭐ 264 · 🏷️ Miscellaneous
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / Overview ]
 

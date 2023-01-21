@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,11 +18,11 @@
 
 ### Functional programming
 
-*   [language-ext (⭐5.1k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
+*   [language-ext (⭐5.2k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 
 ### Graphics
 
-*   [LibTessDotNet (⭐258)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
+*   [LibTessDotNet (⭐259)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
 
 ### Office
 
@@ -30,11 +30,11 @@
 
 ### WebSocket
 
-*   [Websockets.PCL (⭐100)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
+*   [Websockets.PCL (⭐99)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
 
 ### Source Generator
 
-*   [Awesome Unity (⭐5.4k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐5.5k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -63,7 +63,7 @@
 
 ### R / General-Purpose Machine Learning
 
-*   [TDSP-Utilities (⭐361)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
+*   [TDSP-Utilities (⭐362)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
 ## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -119,13 +119,13 @@
 
 ### Samples
 
-*   [C# Samples (⭐27)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐139)](https://github.com/FacticiusVir/SharpVk) \[MIT]
+*   [C# Samples (⭐27)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐140)](https://github.com/FacticiusVir/SharpVk) \[MIT]
 
 ## [12. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Utils / Third Party
 
-*   [d3-scale-cluster (⭐126)](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
+*   [d3-scale-cluster (⭐129)](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 
 ## [13. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

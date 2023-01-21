@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Elm / Integrations
 
-*   [vite-plugin-elm (⭐111)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
+*   [vite-plugin-elm (⭐116)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 ## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

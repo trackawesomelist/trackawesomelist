@@ -2,7 +2,7 @@
 
 51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [Gmail Desktop (⭐633)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Gmail Desktop (⭐652)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source / Other
 
@@ -36,17 +36,17 @@
 
 ### For Electron / Other
 
-*   [adblocker-electron (⭐584)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [adblocker-electron (⭐597)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Development Environment
 
-*   [Git Hooks (⭐817)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐826)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐997)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -180,7 +180,7 @@
 
 ### Image Processing
 
-*   [pyvips (⭐465)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+*   [pyvips (⭐467)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
 ## [18. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -350,7 +350,7 @@
 
 ### Typing
 
-*   👍 [trivial-types (⭐62)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [trivial-types (⭐63)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [34. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -408,21 +408,21 @@
 
 ### Office
 
-*   [Foliate (⭐3.8k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Pdftag (⭐58)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
+*   [Foliate (⭐3.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+*   [Pdftag (⭐59)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 *   [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
-*   [Marker (⭐758)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+*   [Marker (⭐771)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
 *   [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
-*   [GTimeLog (⭐222)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+*   [GTimeLog (⭐225)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
 ### Multimedia
 
-*   [Celluloid (⭐813)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
+*   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 *   [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 *   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 
@@ -432,11 +432,11 @@
 
 ### Gaming
 
-*   [Lutris (⭐5.9k)](https://github.com/lutris/lutris) - Open Source gaming platform.
+*   [Lutris (⭐6.1k)](https://github.com/lutris/lutris) - Open Source gaming platform.
 
 ### System and Customization
 
-*   [Tilix (⭐4.9k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
+*   [Tilix (⭐5k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 *   [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
 ### Utilities
@@ -445,7 +445,7 @@
 *   [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 *   [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 
-### Complete overhaul / Design Tooling
+### Docks and Panels / Design Tooling
 
 *   [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
 
@@ -457,25 +457,20 @@
 ### Applets / Design Tooling
 
 *   [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
-*   [GSConnect (⭐2.5k)](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
 *   [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
 
 ### Windows / Design Tooling
 
-*   [PaperWM (⭐1.9k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Docks and Panels / Design Tooling
-
-*   [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
+*   [PaperWM (⭐2k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
 ### Services integration / Design Tooling
 
-*   [GMail Message Tray (⭐71)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
+*   [GMail Message Tray (⭐74)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
 ### Icons / Upstream Style
 
-*   [GNOME++ (⭐132)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐159)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [GNOME++ (⭐138)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐160)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ### Cursors / Skeumorphic Icons
 
@@ -506,7 +501,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐660)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐671)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -570,11 +565,7 @@
 
 ### Media / Audio
 
-*   [Flutter Audio Recorder (⭐105)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
-
-### Device / Augmented Reality
-
-*   [Device Calendar (⭐204)](https://github.com/builttoroam/flutter_plugins/tree/master/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
+*   [Flutter Audio Recorder (⭐108)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 
 ### 🇬🇷 Greece / Misc
 
@@ -594,7 +585,7 @@
 
 ## [50. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Identity Management / Tools and web interfaces
+### Software / Identity Management - Tools and web interfaces
 
 *   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 

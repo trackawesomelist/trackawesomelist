@@ -2,7 +2,7 @@
 
  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/krzemienski/awesome-video/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/krzemienski/awesome-video/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) · ⭐ 1.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/krzemienski/awesome-video/README.md) / Weekly / [Overview](/content/krzemienski/awesome-video/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Everplast (⭐28)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
+*   [Everplast (⭐36)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Examples
 
-*   [amplication/amplication (⭐8.9k)](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
+*   [amplication/amplication (⭐9.1k)](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
 
 ## [5. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -96,11 +96,11 @@
 
 ### Projects
 
-*   [Realworld example (⭐622)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐55k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐643)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐56k)](https://github.com/tauri-apps/tauri).
 
 ### Crates / Utils
 
-*   [Tailwind RS (⭐59)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
+*   [Tailwind RS (⭐61)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 
 ---
 

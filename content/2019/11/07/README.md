@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,7 +48,7 @@
 
 ### Buttons
 
-*   [react-awesome-button (⭐1.1k)](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
+*   [react-awesome-button (⭐1.2k)](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -72,7 +72,7 @@
 ### GraphQL
 
 *   [tartiflette-aiohttp (⭐60)](https://github.com/tartiflette/tartiflette-aiohttp/) - An `aiohttp`-based wrapper for Tartiflette to expose GraphQL APIs over HTTP.
-*   [tartiflette-asgi (⭐101)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
+*   [tartiflette-asgi (⭐99)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
 
 ## [9. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -134,7 +134,7 @@
 
 ### RESTful
 
-*   [REST API (⭐80)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐81)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -155,7 +155,7 @@
 ### Python / Reinforcement Learning
 
 *   [garage (⭐1.6k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐802)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [metaworld (⭐816)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

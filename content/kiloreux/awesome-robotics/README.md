@@ -2,7 +2,7 @@
 
 A list of awesome Robotics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kiloreux/awesome-robotics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) · ⭐ 3K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kiloreux/awesome-robotics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) · ⭐ 3K · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/kiloreux/awesome-robotics/week/README.md) / [Overview](/content/kiloreux/awesome-robotics/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,17 +46,17 @@
 
 ### Design Systems
 
-*   [Lyne Components (⭐19)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+*   [Lyne Components (⭐18)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 
 ### Class Based
 
-*   [Panel (⭐238)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
+*   [Panel (⭐239)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 
 ## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Python Libraries
 
-*   [bitcoin\_tools (⭐239)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
+*   [bitcoin\_tools (⭐242)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 *   [oogway (⭐10)](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
@@ -96,7 +96,7 @@
 
 ### Individual components / Others
 
-*   [Blazor.Grids (⭐22)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
+*   [Blazor.Grids (⭐23)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
 *   [Blazor.TreeViews (⭐51)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
 
 ## [12. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
@@ -117,7 +117,7 @@
 
 ### Resources / Algorithms and AI
 
-*   [Simple Graphs (⭐35)](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
+*   [Simple Graphs (⭐37)](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
 
 ### Resources / Physics
 

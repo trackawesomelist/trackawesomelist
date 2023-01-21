@@ -2,7 +2,7 @@
 
 61 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Projects
 
-*   [OpenMV (⭐1.9k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
+*   [OpenMV (⭐2k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
 
 ## [2. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐15)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐16)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [3. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
@@ -176,7 +176,7 @@
 
 ### data
 
-*   [99boundaries (⭐5)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
+*   [99boundaries (⭐6)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -188,23 +188,23 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Soketi is a free, open-source Pusher drop-in alternative. ([Source Code (⭐3.2k)](https://github.com/soketi/soketi)) `MIT` `Nodejs`
+*   [Soketi](https://soketi.app/) - Soketi is a free, open-source Pusher drop-in alternative. ([Source Code (⭐3.3k)](https://github.com/soketi/soketi)) `MIT` `Nodejs`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [FileShelter (⭐277)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++`
+*   [FileShelter (⭐296)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++`
 
 ### Software / Games
 
-*   [Word Mastermind (⭐17)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
+*   [Word Mastermind (⭐18)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Bicimon (⭐15)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
+*   [Bicimon (⭐16)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [LMS (⭐723)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `C++`
+*   [LMS (⭐739)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `C++`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -212,17 +212,17 @@
 
 ### Software / Miscellaneous
 
-*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐852)](https://github.com/weewx/weewx)) `GPL-3.0` `Python`
+*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐855)](https://github.com/weewx/weewx)) `GPL-3.0` `Python`
 
 ### Software / Pastebins
 
 *   [ExBin (⭐64)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Elixir`
-*   [filite (⭐179)](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. `MIT` `Rust`
-*   [Stikked (⭐955)](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. `GPL-3.0` `PHP`
+*   [filite (⭐181)](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. `MIT` `Rust`
+*   [Stikked (⭐960)](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. `GPL-3.0` `PHP`
 
 ### Software / Personal Dashboards
 
-*   [Fenrus (⭐186)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `Nodejs`
+*   [Fenrus (⭐212)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `Nodejs`
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -232,7 +232,7 @@
 
 ### Debug
 
-*   [FakeIt (⭐1k)](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. \[MIT]
+*   [FakeIt (⭐1.1k)](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. \[MIT]
 
 ## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -279,22 +279,22 @@
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### Bridges / Wallets
+### Blockchain Bridges / Wallets
 
 *   [ptokens](https://dapp.ptokens.io/swap?asset=btc\&from=btc\&to=algorand) - pNetwork Officially Launched Cross-Chain Bridges for Algorand.
 
-### Community / Projects
+### Projects / Wallets
 
 *   [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.
 *   [daotools](https://daotools.org/) - Manage all your DAO voting sessions in one Dapp.
 
 ## [12. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - By Richard Rumelt.
 *   [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
@@ -370,19 +370,18 @@
 
 ### Responsive / Syntax Highlight
 
-*   [ant-design (⭐83k)](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
-*   [ChatUI (⭐1.5k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
-*   [fluentui (⭐14k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
-*   [geist-ui (⭐3.4k)](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
+*   [ant-design (⭐84k)](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
+*   [ChatUI (⭐1.6k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
+*   [fluentui (⭐15k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
+*   [geist-ui (⭐3.6k)](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 *   [grommet (⭐8.1k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
-*   [Mantine (⭐16k)](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
+*   [Mantine (⭐17k)](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 *   [orbit (⭐1.3k)](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
-*   [pivotal-ui (⭐640)](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-foundation (⭐599)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
-*   [reakit (⭐6.3k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
-*   [semi-design (⭐6.4k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-*   [shineout (⭐791)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
+*   [reakit (⭐6.5k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
+*   [semi-design (⭐6.6k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
+*   [shineout (⭐806)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 ## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -414,19 +413,19 @@
 
 ### (requires Neovim 0.5)
 
-*   [amrbashir/nvim-docs-view (⭐57)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
+*   [amrbashir/nvim-docs-view (⭐64)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
 
 ### Snippet / Diagnostics
 
-*   [smjonas/snippet-converter.nvim (⭐105)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
+*   [smjonas/snippet-converter.nvim (⭐108)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
 
 ### Utility / Diagnostics
 
-*   [ghillb/cybu.nvim (⭐190)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+*   [ghillb/cybu.nvim (⭐209)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 
 ### Formatting / Diagnostics
 
-*   [lukas-reineke/lsp-format.nvim (⭐378)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
+*   [lukas-reineke/lsp-format.nvim (⭐393)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 
 ## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -438,18 +437,18 @@
 
 ### Applications / Database
 
-*   [Qdrant (⭐3.3k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
+*   [Qdrant (⭐3.6k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
 
 ### Libraries / Network programming
 
 *   Socket.io
-    *   [1c3t3a/rust-socketio (⭐176)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
+    *   [1c3t3a/rust-socketio (⭐187)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [SwiftBoost (⭐117)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐120)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## [25. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -478,21 +477,19 @@
 
 ### Packages / Driver layer
 
-*   [Universal Robots (⭐168)](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
+*   [Universal Robots (⭐175)](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
 
 ## [29. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
 *   :clipboard: [Hyperion: Implementation of a PE-Crypter](https://www.exploit-db.com/docs/english/18849-hyperion-implementation-of-a-pe-crypter.pdf)
-*   :pushpin: [Packer detection tool evaluation (⭐5)](https://github.com/FFRI/PackerDetectionToolEvaluation)
+*   :pushpin: [Packer detection tool evaluation (⭐6)](https://github.com/FFRI/PackerDetectionToolEvaluation)
 
 ### :books: Literature / Scientific Research
 
-*   :newspaper: Bypassing anti-analysis of commercial protector methods using DBI tools (January 2021)  :star: :star:
-*   :newspaper: A survey on malware analysis techniques: Static, dynamic, hybrid and memory analysis (September 2018)  :star:
-*   :notebook: [Towards paving the way for large-scale Windows malware analysis: Generic binary unpacking with orders-of-magnitude performance boost](https://dl.acm.org/doi/10.1145/3243734.3243771) (October 2018)  :star: :star:
-*   :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020)  :star: :star: :star:
+*   :notebook: [Towards paving the way for large-scale Windows malware analysis: Generic binary unpacking with orders-of-magnitude performance boost](https://dl.acm.org/doi/10.1145/3243734.3243771) (October 2018)  :star:
+*   :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020)  :star:
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
@@ -501,7 +498,7 @@
 
 ### :package: Packers / Before 2000
 
-*   [Morphine (⭐262)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
+*   [Morphine (⭐268)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
 
 ### :wrench: Tools / Before 2000
 
@@ -550,11 +547,11 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐120)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐119)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ### Tools / Misc
 
-*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐3.3k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
+*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐3.5k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 
 ## [33. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
@@ -742,13 +739,13 @@
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐203)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐205)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### XML / Third-party APIs
 
 *   [CXML](https://common-lisp.net/project/cxml/) - XML parser and serializer, with a range of extension libraries. [LLGPL](http://opensource.franz.com/preamble.html).
     *   👍 has an incremental parser, allowing to parse big files.
-    *   see the [FXML (⭐23)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
+    *   see the [FXML (⭐24)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
 
 ## [39. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
@@ -766,11 +763,11 @@
 
 ### Bot Building
 
-*   [wayback (⭐391)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [wayback (⭐423)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 ### Standard CLI
 
-*   [carapace-spec (⭐3)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐4)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -782,7 +779,6 @@
 
 ### Geographic
 
-*   \[h3-go] - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 *   [H3 GeoJSON (⭐3)](https://github.com/mmadfox/go-geojson2h3) - Conversion utilities between H3 indexes and GeoJSON.
 *   [H3GeoDist (⭐1)](https://github.com/mmadfox/go-h3geo-dist) - Distribution of Uber H3geo cells by virtual nodes.
 
@@ -792,42 +788,42 @@
 
 ### Job Scheduler
 
-*   [Dagu (⭐523)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Dagu (⭐557)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐471)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐503)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Hashicorp supported providers
 
-*   [terraform-provider-aws (⭐7.9k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
-*   [terraform-provider-azurerm (⭐3.7k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
-*   [terraform-provider-docker (⭐135)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker.
-*   [terraform-provider-google (⭐1.8k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
-*   [terraform-provider-helm (⭐880)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
+*   [terraform-provider-aws (⭐8.1k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
+*   [terraform-provider-azurerm (⭐3.8k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
+*   [terraform-provider-docker (⭐136)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker.
+*   [terraform-provider-google (⭐1.9k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
+*   [terraform-provider-helm (⭐899)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
 *   [terraform-provider-kubernetes (⭐1.3k)](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
-*   [terraform-provider-vsphere (⭐514)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
+*   [terraform-provider-vsphere (⭐518)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-alicloud (⭐487)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
-*   [terraform-provider-atlas (⭐29)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
-*   [terraform-provider-buildkite (⭐47)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
-*   [terraform-provider-datadog (⭐301)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
-*   [terraform-provider-digitalocean (⭐418)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
-*   [terraform-provider-env0 (⭐24)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
+*   [terraform-provider-alicloud (⭐499)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
+*   [terraform-provider-atlas (⭐34)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
+*   [terraform-provider-buildkite (⭐48)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
+*   [terraform-provider-datadog (⭐310)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+*   [terraform-provider-digitalocean (⭐427)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
+*   [terraform-provider-env0 (⭐28)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
 *   [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
-*   [terraform-provider-gitlab (⭐346)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
-*   [terraform-provider-graphql (⭐40)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
-*   [terraform-provider-hcloud (⭐338)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
+*   [terraform-provider-gitlab (⭐353)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
+*   [terraform-provider-graphql (⭐41)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
+*   [terraform-provider-hcloud (⭐361)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
 *   [terraform-provider-heroku (⭐92)](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
-*   [terraform-provider-ibm (⭐305)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
+*   [terraform-provider-ibm (⭐310)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
 *   [terraform-provider-linode (⭐72)](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 *   [terraform-provider-scalr (⭐14)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://scalr.com)
-*   [terraform-provider-spinnaker (⭐147)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
-*   [terraform-provider-spotinst (⭐54)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
+*   [terraform-provider-spinnaker (⭐146)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
+*   [terraform-provider-spotinst (⭐58)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
 
 ### Tools / Vendor supported providers
 
@@ -869,12 +865,12 @@
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐98)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐107)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
 
 ### Modules / Math
 
-*   [neo (⭐43)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
+*   [neo (⭐44)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
 ## [47. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -887,18 +883,18 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐53)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
-*   [vue-magnifier (⭐3)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
+*   [vue-connect-wallet (⭐57)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+*   [vue-magnifier (⭐4)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐5)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
-*   [@formkit/auto-animate (⭐6.3k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
+*   [v-route-generate (⭐6)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [@formkit/auto-animate (⭐6.6k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 
 ### Components & Libraries / Utilities
 
 *   [webpack-plugin-qiniu-upload (⭐0)](https://github.com/cduyzh/webpack-plugin-qiniu-upload) - Vue3,webpack-plugin-qiniu-upload for qiniu(七牛)|aws(亚马逊) cloud upload. support @vue/cli-service 5.0.x
-*   [vue2-jsx-runtime (⭐8)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
+*   [vue2-jsx-runtime (⭐10)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
 
 ## [49. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -918,7 +914,7 @@
 
 ### Form / Checkbox
 
-*   [svelte-formly (⭐210)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐215)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 
 ## [51. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -992,7 +988,7 @@
 
 ### Generic ZSH
 
-*   [zephyr (⭐21)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
+*   [zephyr (⭐22)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -1001,7 +997,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐500)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐1.8k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐86)](https://github.com/andrewgregory/pacutils).
+*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐507)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐1.9k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐86)](https://github.com/andrewgregory/pacutils).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -1021,11 +1017,11 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AutoColliders (⭐4)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future (Godot 3.x).
+*   [AutoColliders (⭐5)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future (Godot 3.x).
 
 ### Modules / Various Godot versions
 
-*   [GodotHook (⭐8)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
+*   [GodotHook (⭐11)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
 
 ## [60. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -1041,12 +1037,12 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐28)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐31)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-unocss-to-uni (⭐9)](https://github.com/zguolee/vite-plugin-unocss-to-uni) - `UnoCSS` in `uni-app`.
-*   [@modyfi/vite-plugin-yaml (⭐14)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+*   [@modyfi/vite-plugin-yaml (⭐16)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
 
 ---
 

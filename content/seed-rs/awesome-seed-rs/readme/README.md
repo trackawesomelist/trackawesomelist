@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to Seed
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/seed-rs/awesome-seed-rs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 seed-rs/awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs) · ⭐ 182 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/seed-rs/awesome-seed-rs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 seed-rs/awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs) · ⭐ 182 · 🏷️ Front-End Development
 
 [ [Daily](/content/seed-rs/awesome-seed-rs/README.md) / [Weekly](/content/seed-rs/awesome-seed-rs/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,7 +29,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐693)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
+*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐705)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Button / Barcode
 
-*   [AHDownloadButton (⭐466)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+*   [AHDownloadButton (⭐465)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

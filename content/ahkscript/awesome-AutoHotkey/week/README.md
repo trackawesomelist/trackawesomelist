@@ -2,7 +2,7 @@
 
 A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ahkscript/awesome-AutoHotkey/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) · ⭐ 2.1K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ahkscript/awesome-AutoHotkey/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) · ⭐ 2.1K · 🏷️ Programming Languages
 
 [ [Daily](/content/ahkscript/awesome-AutoHotkey/README.md) / Weekly / [Overview](/content/ahkscript/awesome-AutoHotkey/readme/README.md) ]
 

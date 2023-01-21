@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,22 +16,22 @@
 
 ### Automation
 
-*   [Runbook (⭐676)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐678)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
-*   [Mittsu (⭐479)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+*   [Mittsu (⭐481)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 
 ### Machine Learning
 
 *   [TensorFlow (⭐336)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐466)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [Torch.rb (⭐470)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [Reforms.js (⭐11)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
+*   [Reforms.js (⭐12)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 
 ## [4. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Standalone apps / Playground
 
-*   :octocat: [App Outlet (⭐321)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+*   :octocat: [App Outlet (⭐326)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [AckslD/nvim-revJ.lua (⭐104)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
+*   [AckslD/nvim-revJ.lua (⭐105)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
 
 ---
 

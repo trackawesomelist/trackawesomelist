@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -57,15 +57,15 @@
 
 *   [np (⭐6.9k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.5k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐461)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [clipboard-cli (⭐465)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 *   [Live Server (⭐4k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐121)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐631)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐630)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
-*   [got (⭐12k)](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
+*   [got (⭐13k)](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
 *   [superagent (⭐16k)](https://github.com/visionmedia/superagent) - HTTP request library.
 
 ### Packages / Logging
@@ -76,10 +76,10 @@
 
 *   [ora (⭐8.1k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [listr (⭐3.1k)](https://github.com/samverschueren/listr) - Terminal task list.
-*   [conf (⭐997)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-*   [cli-truncate (⭐78)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+*   [conf (⭐1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+*   [cli-truncate (⭐79)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
-*   [insight (⭐553)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+*   [insight (⭐552)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
@@ -90,14 +90,14 @@
 ### Packages / Templating
 
 *   [marko (⭐12k)](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
-*   [nunjucks (⭐7.9k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+*   [nunjucks (⭐8k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
 ### Packages / Control flow
 
 *   Observables
     *   [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-    *   [observable-to-promise (⭐319)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
-    *   [More… (⭐319)](https://github.com/sindresorhus/awesome-observables)
+    *   [observable-to-promise (⭐321)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+    *   [More… (⭐321)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -105,7 +105,7 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐7.4k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐7.5k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
@@ -113,7 +113,7 @@
 
 ### Packages / Date
 
-*   [date-fns (⭐30k)](https://github.com/date-fns/date-fns) - Modern date utility.
+*   [date-fns (⭐31k)](https://github.com/date-fns/date-fns) - Modern date utility.
 
 ### Packages / Parsing
 
@@ -123,8 +123,8 @@
 ### Packages / Compression
 
 *   [yazl (⭐307)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐622)](https://github.com/thejoshwolfe/yauzl) - Unzip.
-*   [decompress (⭐362)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+*   [yauzl (⭐626)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [decompress (⭐369)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Packages / Database
 
@@ -133,9 +133,9 @@
     *   [Redis (⭐12k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐575)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-    *   [Couchbase (⭐460)](https://github.com/couchbase/couchnode) - Couchbase client.
+    *   [couchdb-nano (⭐583)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐198)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [Couchbase (⭐458)](https://github.com/couchbase/couchnode) - Couchbase client.
     *   [MongoDB (⭐9.6k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
@@ -148,7 +148,7 @@
 
 ### Packages / Natural language processing
 
-*   [natural (⭐9.9k)](https://github.com/NaturalNode/natural) - Natural language facility.
+*   [natural (⭐10k)](https://github.com/NaturalNode/natural) - Natural language facility.
 
 ### Packages / Process management
 
@@ -157,11 +157,11 @@
 
 ### Packages / Weird
 
-*   [cows (⭐386)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐389)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐5k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐5.1k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 *   [Bottleneck (⭐1.4k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 *   [clipboardy (⭐1.5k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).

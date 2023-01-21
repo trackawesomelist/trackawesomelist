@@ -2,7 +2,7 @@
 
 A curated list of awesome Apache Spark packages and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-spark/awesome-spark/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark) · ⭐ 1.4K · 🏷️ Big Data
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-spark/awesome-spark/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark) · ⭐ 1.4K · 🏷️ Big Data
 
 [ Daily / [Weekly](/content/awesome-spark/awesome-spark/week/README.md) / [Overview](/content/awesome-spark/awesome-spark/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 🔬 A curated list of awesome machine learning strategies & tools in financial market.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/georgezouq/awesome-ai-in-finance/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) · ⭐ 1.6K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/georgezouq/awesome-ai-in-finance/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) · ⭐ 1.6K · 🏷️ Computer Science
 
 [ [Daily](/content/georgezouq/awesome-ai-in-finance/README.md) / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / Overview ]
 

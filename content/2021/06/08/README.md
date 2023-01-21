@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,13 +16,13 @@
 
 ### Git / Diagnostics
 
-*   [sindrets/diffview.nvim (⭐1.7k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+*   [sindrets/diffview.nvim (⭐1.8k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Markdown Editor
 
-*   [react-simplemde-editor (⭐647)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.7k)](https://github.com/Ionaru/easy-markdown-editor).
+*   [react-simplemde-editor (⭐660)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.8k)](https://github.com/Ionaru/easy-markdown-editor).
 
 ## [4. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 

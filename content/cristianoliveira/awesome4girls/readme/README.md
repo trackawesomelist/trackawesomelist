@@ -2,7 +2,7 @@
 
 A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cristianoliveira/awesome4girls/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls) · ⭐ 481 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cristianoliveira/awesome4girls/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls) · ⭐ 481 · 🏷️ Miscellaneous
 
 [ [Daily](/content/cristianoliveira/awesome4girls/README.md) / [Weekly](/content/cristianoliveira/awesome4girls/week/README.md) / Overview ]
 

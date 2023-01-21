@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐85)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐89)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 ## [2. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Development tools / Services
 
-*   [deps.rs (⭐365)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐369)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Build and Package / Other / unknown licence
 
-*   [ada4cmake (⭐3)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
+*   [ada4cmake (⭐4)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 
 ## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Tools / Plugins
 
-*   [gatling-sbt-plugin (⭐104)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+*   [gatling-sbt-plugin (⭐105)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 
 ## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Software development / Tools
 
-*   [Octo (⭐554)](http://github.com/johnearnest/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
+*   [Octo (⭐571)](http://github.com/johnearnest/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
 
 ## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

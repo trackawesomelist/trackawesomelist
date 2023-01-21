@@ -2,7 +2,7 @@
 
 48 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -52,11 +52,11 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐6.2k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐6.3k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐411)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐421)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
@@ -109,7 +109,7 @@
 
 ### Software / HPGL
 
-*   [HPGLGraphics (⭐15)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+*   [HPGLGraphics (⭐16)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
 ### Community / Ephemera
 
@@ -155,11 +155,11 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐321)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐328)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
-*   [RadioGroup (⭐187)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
+*   [RadioGroup (⭐188)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
 ## [18. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -200,7 +200,7 @@
 
 ### Charts
 
-*   [vega-lite-api (⭐181)](https://github.com/vega/vega-lite-api) - A JavaScript API for Vega-Lite.
+*   [vega-lite-api (⭐185)](https://github.com/vega/vega-lite-api) - A JavaScript API for Vega-Lite.
 
 ## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -212,14 +212,14 @@
 
 ### External Services
 
+*   [music-box (⭐96)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 *   [strava-box (⭐34)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
-*   [music-box (⭐94)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 
 ## [26. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Functional
 
-*   [atomico (⭐888)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+*   [atomico (⭐898)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 *   [haunted (⭐2.5k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 
 ## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
@@ -278,11 +278,11 @@
 
 ### Cryptography
 
-*   [sodium.cr (⭐43)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
+*   [sodium.cr (⭐44)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
 ### HTTP
 
-*   [sse.cr (⭐16)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
+*   [sse.cr (⭐17)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
 ## [34. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 

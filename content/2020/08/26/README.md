@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,11 +18,11 @@
 
 *   [Suitest](https://suite.st) - Test automation solution for Smart TVs, gaming consoles, streaming sticks etc.
 
-## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
-### Webshell / Server-Side Request Forgery
+### Web Exploitation / Web shells and C2 frameworks
 
-*   [PhpSploit (⭐1.8k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner by [@nil0x42](https://github.com/nil0x42).
+*   [PhpSploit (⭐1.8k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -46,9 +46,9 @@
 
 ### Individual components / Others
 
-*   [Stl.Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐131)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
-*   [Blazor-DragDrop (⭐302)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
-*   [BlazorTransitionableRoute (⭐122)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
+*   [Stl.Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐132)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
+*   [Blazor-DragDrop (⭐310)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
+*   [BlazorTransitionableRoute (⭐124)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

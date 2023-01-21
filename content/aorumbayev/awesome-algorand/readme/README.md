@@ -2,7 +2,7 @@
 
 ⚡A curated list of awesome resources related to the Algorand Blockchain ⛓
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aorumbayev/awesome-algorand/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand) · ⭐ 106 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aorumbayev/awesome-algorand/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand) · ⭐ 106 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/aorumbayev/awesome-algorand/README.md) / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / Overview ]
 
@@ -72,7 +72,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 > List of wallet providers for Algorand.
 
-*   [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for mobile devices. Maintained by the team behind official Algorand Wallet.
+*   [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet.
 *   [MyAlgo Connect (⭐56)](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser.
 *   [AlgoSigner (⭐88)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 *   [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
@@ -242,7 +242,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [pyteal (⭐242)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 *   [beaker (⭐64)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 *   [beaker-ts (⭐9)](https://github.com/algorand-devrel/beaker-ts) - Generate typescript clients for your beaker applications.
-*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
+*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
 *   [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 *   [aqua-compiler (⭐1)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
 *   [algoml (⭐21)](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
@@ -279,7 +279,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 > Awesome NFT marketplaces and galleries on Algorand.
 
 *   [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2\_gallery](https://twitter.com/AB2_Gallery).
-*   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and markeplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
+*   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
 *   [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 *   [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
 *   [AlgoMart (⭐176)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.

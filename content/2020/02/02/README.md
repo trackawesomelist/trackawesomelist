@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,7 +45,7 @@
 
 ### Algorithms and Data Structures
 
-*   [ORaft (⭐18)](https://github.com/komamitsu/oraft) - Library of [Raft consensus algorithm](https://raft.github.io/raft.pdf) implemented in OCaml
+*   [ORaft (⭐22)](https://github.com/komamitsu/oraft) - Library of [Raft consensus algorithm](https://raft.github.io/raft.pdf) implemented in OCaml
 
 ## [7. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Examples
 
-*   [React Parallax Tilt (⭐553)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+*   [React Parallax Tilt (⭐595)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
 
 ## [10. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 

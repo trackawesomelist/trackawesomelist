@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [IntelliJ IDEA (⭐118)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
+*   [IntelliJ IDEA (⭐122)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 
 ## [5. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Iteration
 
-*   [gmap (⭐15)](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp) - A concise and extensible iteration facility that has the advantage of integrating well with FSet (see the Data Structures section), as it was written by the same author. In Quicklisp as part of `misc-extensions`. Public domain.
+*   [gmap (⭐16)](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp) - A concise and extensible iteration facility that has the advantage of integrating well with FSet (see the Data Structures section), as it was written by the same author. In Quicklisp as part of `misc-extensions`. Public domain.
 
 ### Typing
 
@@ -59,7 +59,7 @@
 
 ### Others / Third-party APIs
 
-*   [array-operations (⭐40)](https://github.com/bendudson/array-operations) - a collection of functions and macros for manipulating Common Lisp arrays and performing numerical calculations with them. [MIT](https://opensource.org/licenses/MIT).
+*   [array-operations (⭐41)](https://github.com/bendudson/array-operations) - a collection of functions and macros for manipulating Common Lisp arrays and performing numerical calculations with them. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-geometry (⭐47)](https://github.com/Ramarren/cl-geometry/) - a system for two dimensional computational geometry for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
@@ -68,7 +68,7 @@
 
 *   [Greasemonkey](http://www.greasespot.net/) - Firefox
     *   Supports GM 4 userscripts.
-*   [Greasemonkey for Pale Moon (⭐81)](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
+*   [Greasemonkey for Pale Moon (⭐84)](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
     *   Supports GM 3 userscripts.
 *   [Firemonkey](https://addons.mozilla.org/firefox/addon/firemonkey/) - Firefox
     *   Supports GM 4 userscripts and some GM 3 userscripts.
@@ -104,8 +104,8 @@
 
 *   [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 *   [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
-*   [Google Translate Keyboard Shortcut (⭐7)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
-*   [Reddit Search On Google (⭐51)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+*   [Google Translate Keyboard Shortcut (⭐6)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
+*   [Reddit Search On Google (⭐56)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 
 ### Scripts / Media
 
@@ -170,7 +170,7 @@
 
 ### Authentication and Authorization
 
-*   :strawberry: [TwoFactorAuth plugin (⭐34)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐893)](https://github.com/RobThree/TwoFactorAuth) library.
+*   :strawberry: [TwoFactorAuth plugin (⭐34)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐894)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -239,8 +239,8 @@
 
 ### Driver crates / Other
 
-*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐71)](https://github.com/mvirkkunen/usbd-serial) - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
-*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐59)](https://github.com/twitchyliquid64/usbd-hid) - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
+*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐72)](https://github.com/mvirkkunen/usbd-serial) - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
+*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐60)](https://github.com/twitchyliquid64/usbd-hid) - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
 *   [usbd-webusb](http://crates.io/crates/usbd-webusb) - USB webUSB class implementation - [github (⭐13)](https://github.com/redpfire/usbd-webusb) - ![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)
 
 ### Driver crates / WIP

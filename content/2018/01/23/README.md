@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,7 +44,7 @@
 
 ### Charts
 
-*   [d3-gridding (⭐103)](https://github.com/romsson/d3-gridding) - Chart mockups using grids
+*   [d3-gridding (⭐102)](https://github.com/romsson/d3-gridding) - Chart mockups using grids
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Web Frameworks
 
-*   [Giraffe (⭐1.8k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
+*   [Giraffe (⭐1.9k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -77,8 +77,8 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐846)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐908)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐929)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [11. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 

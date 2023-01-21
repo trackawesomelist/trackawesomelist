@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Templates / Preferences
 
-*   [Starter Kit (⭐662)](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
+*   [Starter Kit (⭐674)](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
 
 ### Presentation material / Game Engine resources
 

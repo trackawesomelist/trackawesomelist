@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,10 +16,16 @@
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
-*   [Aaia (⭐254)](https://github.com/rams3sh/Aaia) - Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.
-*   [Principal Mapper (PMapper) (⭐1.1k)](https://github.com/nccgroup/PMapper) - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
+*   [Aaia (⭐261)](https://github.com/rams3sh/Aaia) - Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.
+*   [Principal Mapper (PMapper) (⭐1.2k)](https://github.com/nccgroup/PMapper) - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Blockchain
+
+*   [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
+
+## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Pastebins
 
@@ -37,48 +43,12 @@
 
 *   [UNESCO Institute for Statistics](http://uis.unesco.org)
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [The C Programming Language Handbook](https://flaviocopes.com/page/c-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### Dart / Non-X86
-
-*   [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow documentation (PDF)
-
-### HTML and CSS / Spock Framework
-
-*   [The CSS Handbook](https://flaviocopes.com/page/css-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-*   [The HTML Handbook](https://flaviocopes.com/page/html-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### JavaScript / Wicket
-
-*   [JavaScript from ES5 to ESNext](https://flaviocopes.com/page/es5-to-esnext/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-*   [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### JavaScript / React
-
-*   [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### JavaScript / Svelte
-
-*   [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### Linux / TeX
-
-*   [The Linux Commands Handbook](https://flaviocopes.com/page/linux-commands-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### PHP / PicoLisp
-
-*   [PHP Apprentice](https://phpapprentice.com) - Andrew Davis *(:construction: in process)*
-
 ## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Aya
 
-*   [aya (⭐1.4k)](https://github.com/aya-rs/aya) - A pure Rust library for writing, loading, and managing eBPF objects, with a focus on developer experience and operability. It supports writing eBPF programs in Rust and distributing library code over crates.io to share it between eBPF programs. Aya does not depend on libbpf.
-*   [aya-template (⭐27)](https://github.com/aya-rs/aya-template) - Templates for writing BPF applications in Aya that can be used with [`cargo generate`](https://github.com/cargo-generate/cargo-generate).
+*   [aya (⭐1.5k)](https://github.com/aya-rs/aya) - A pure Rust library for writing, loading, and managing eBPF objects, with a focus on developer experience and operability. It supports writing eBPF programs in Rust and distributing library code over crates.io to share it between eBPF programs. Aya does not depend on libbpf.
+*   [aya-template (⭐28)](https://github.com/aya-rs/aya-template) - Templates for writing BPF applications in Aya that can be used with [`cargo generate`](https://github.com/cargo-generate/cargo-generate).
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -139,8 +109,8 @@
 
 ### (requires Neovim 0.5)
 
-*   [neovim/nvim-lspconfig (⭐6.2k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
-*   [gfanto/fzf-lsp.nvim (⭐161)](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of FZF fuzzy search for the Neovim built in LSP.
+*   [neovim/nvim-lspconfig (⭐6.5k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
+*   [gfanto/fzf-lsp.nvim (⭐163)](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of FZF fuzzy search for the Neovim built in LSP.
 
 ### Completion / Diagnostics
 
@@ -148,91 +118,91 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [nanotee/sqls.nvim (⭐115)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
+*   [nanotee/sqls.nvim (⭐117)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter (⭐5.4k)](https://github.com/nvim-treesitter/nvim-treesitter) - Neovim Treesitter configurations and abstraction layer.
+*   [nvim-treesitter/nvim-treesitter (⭐5.8k)](https://github.com/nvim-treesitter/nvim-treesitter) - Neovim Treesitter configurations and abstraction layer.
 
 ### Snippet / Diagnostics
 
-*   [norcalli/snippets.nvim (⭐245)](https://github.com/norcalli/snippets.nvim) - Snippets in Lua.
+*   [norcalli/snippets.nvim (⭐244)](https://github.com/norcalli/snippets.nvim) - Snippets in Lua.
 
 ### Register / Diagnostics
 
-*   [acksld/nvim-neoclip.lua (⭐558)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
+*   [acksld/nvim-neoclip.lua (⭐591)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [nvim-telescope/telescope.nvim (⭐8.1k)](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim is a highly [extendable (⭐8.1k)](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.
-*   [ibhagwan/fzf-lua (⭐861)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
+*   [nvim-telescope/telescope.nvim (⭐8.5k)](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim is a highly [extendable (⭐8.5k)](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.
+*   [ibhagwan/fzf-lua (⭐914)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
 
 ### Color / Diagnostics
 
-*   [xiyaowong/nvim-transparent (⭐247)](https://github.com/xiyaowong/nvim-transparent) - Make your Neovim transparent.
+*   [xiyaowong/nvim-transparent (⭐286)](https://github.com/xiyaowong/nvim-transparent) - Make your Neovim transparent.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/vscode.nvim (⭐328)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
-*   [marko-cerovac/material.nvim (⭐651)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
+*   [Mofiqul/vscode.nvim (⭐340)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
+*   [marko-cerovac/material.nvim (⭐678)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [mhartington/oceanic-next (⭐1k)](https://github.com/mhartington/oceanic-next) - Oceanic Next theme.
-*   [bkegley/gloombuddy (⭐30)](https://github.com/bkegley/gloombuddy) - Gloom inspired theme.
-*   [Th3Whit3Wolf/one-nvim (⭐89)](https://github.com/Th3Whit3Wolf/one-nvim) - An Atom One inspired dark and light colorscheme.
-*   [PHSix/nvim-hybrid (⭐17)](https://github.com/PHSix/nvim-hybrid) - A Neovim colorscheme write in Lua.
-*   [Th3Whit3Wolf/space-nvim (⭐27)](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
-*   [ishan9299/nvim-solarized-lua (⭐126)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
-*   [navarasu/onedark.nvim (⭐712)](https://github.com/navarasu/onedark.nvim) - A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
-*   [nxvu699134/vn-night.nvim (⭐28)](https://github.com/nxvu699134/vn-night.nvim) - A dark Neovim colorscheme written in Lua. Support built-in LSP and Tree-sitter.
+*   [bkegley/gloombuddy (⭐31)](https://github.com/bkegley/gloombuddy) - Gloom inspired theme.
+*   [Th3Whit3Wolf/one-nvim (⭐90)](https://github.com/Th3Whit3Wolf/one-nvim) - An Atom One inspired dark and light colorscheme.
+*   [PHSix/nvim-hybrid (⭐19)](https://github.com/PHSix/nvim-hybrid) - A Neovim colorscheme write in Lua.
+*   [Th3Whit3Wolf/space-nvim (⭐28)](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
+*   [ishan9299/nvim-solarized-lua (⭐133)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
+*   [navarasu/onedark.nvim (⭐761)](https://github.com/navarasu/onedark.nvim) - A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
+*   [nxvu699134/vn-night.nvim (⭐30)](https://github.com/nxvu699134/vn-night.nvim) - A dark Neovim colorscheme written in Lua. Support built-in LSP and Tree-sitter.
 *   [adisen99/codeschool.nvim (⭐28)](https://github.com/adisen99/codeschool.nvim) - Codeschool colorscheme written in Lua with Tree-sitter and built-in lsp support.
 *   [projekt0n/github-nvim-theme (⭐1.2k)](https://github.com/projekt0n/github-nvim-theme) - A GitHub theme, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
-*   [FrenzyExists/aquarium-vim (⭐201)](https://github.com/FrenzyExists/aquarium-vim) - A dark, yet vibrant colorscheme.
-*   [adisen99/apprentice.nvim (⭐24)](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice (⭐810)](https://github.com/romainl/Apprentice) color pattete with Tree-sitter and built-in lsp support.
+*   [FrenzyExists/aquarium-vim (⭐207)](https://github.com/FrenzyExists/aquarium-vim) - A dark, yet vibrant colorscheme.
+*   [adisen99/apprentice.nvim (⭐26)](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice (⭐815)](https://github.com/romainl/Apprentice) color pattete with Tree-sitter and built-in lsp support.
 
 ### Lua Colorscheme / Diagnostics
 
-*   [metalelf0/jellybeans-nvim (⭐63)](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme.
+*   [metalelf0/jellybeans-nvim (⭐61)](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme.
 
 ### Utility / Diagnostics
 
-*   [code-biscuits/nvim-biscuits (⭐141)](https://github.com/code-biscuits/nvim-biscuits) - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
+*   [code-biscuits/nvim-biscuits (⭐147)](https://github.com/code-biscuits/nvim-biscuits) - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [svermeulen/vimpeccable (⭐357)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
-*   [rafcamlet/nvim-luapad (⭐355)](https://github.com/rafcamlet/nvim-luapad) - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
-*   [nvim-lua/plenary.nvim (⭐1.3k)](https://github.com/nvim-lua/plenary.nvim) - Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice.
-*   [tjdevries/vlog.nvim (⭐80)](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your Neovim Lua plugins.
-*   [bfredl/nvim-luadev (⭐226)](https://github.com/bfredl/nvim-luadev) - REPL/debug console Lua plugins. The `:Luadev` command will open an scratch window which will show output from executing Lua code.
-*   [jbyuki/one-small-step-for-vimkind (⭐194)](https://github.com/jbyuki/one-small-step-for-vimkind) - An adapter for the Neovim Lua language. It allows you to debug any Lua code running in a Neovim instance (A Lua plugin that can debug Neovim Lua plugins).
-*   [folke/lua-dev.nvim (⭐649)](https://github.com/folke/lua-dev.nvim) - Dev setup for init.Lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
+*   [svermeulen/vimpeccable (⭐361)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
+*   [rafcamlet/nvim-luapad (⭐373)](https://github.com/rafcamlet/nvim-luapad) - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
+*   [nvim-lua/plenary.nvim (⭐1.4k)](https://github.com/nvim-lua/plenary.nvim) - Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice.
+*   [tjdevries/vlog.nvim (⭐82)](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your Neovim Lua plugins.
+*   [bfredl/nvim-luadev (⭐232)](https://github.com/bfredl/nvim-luadev) - REPL/debug console Lua plugins. The `:Luadev` command will open an scratch window which will show output from executing Lua code.
+*   [jbyuki/one-small-step-for-vimkind (⭐210)](https://github.com/jbyuki/one-small-step-for-vimkind) - An adapter for the Neovim Lua language. It allows you to debug any Lua code running in a Neovim instance (A Lua plugin that can debug Neovim Lua plugins).
+*   [folke/lua-dev.nvim (⭐744)](https://github.com/folke/lua-dev.nvim) - Dev setup for init.Lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
 
 ### Scrolling / Diagnostics
 
-*   [karb94/neoscroll.nvim (⭐730)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
+*   [karb94/neoscroll.nvim (⭐780)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
 
 ### Editing Support / Diagnostics
 
-*   [p00f/nvim-ts-rainbow (⭐834)](https://github.com/p00f/nvim-ts-rainbow) - Rainbow :rainbow: parentheses using tree-sitter :rainbow:.
+*   [p00f/nvim-ts-rainbow (⭐865)](https://github.com/p00f/nvim-ts-rainbow) - Rainbow :rainbow: parentheses using tree-sitter :rainbow:.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [siduck76/NvChad (⭐13k)](https://github.com/siduck76/NvChad) - An attempt to make Neovim cli as functional as an IDE while being very beautiful and less bloated.
+*   [siduck76/NvChad (⭐14k)](https://github.com/siduck76/NvChad) - An attempt to make Neovim cli as functional as an IDE while being very beautiful and less bloated.
 
 ### Boilerplate / Diagnostics
 
-*   [gennaro-tedesco/boilit (⭐54)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
+*   [gennaro-tedesco/boilit (⭐59)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
 
 ## [13. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### VLC native plugins
 
-*   [vlc-win10smtc (⭐8)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
+*   [vlc-win10smtc (⭐13)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Compression
 
-*   [ufastlz (⭐5)](https://github.com/dmazzella/ufastlz) - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
+*   [ufastlz (⭐7)](https://github.com/dmazzella/ufastlz) - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
 
 ### Sensors / Distance Laser
 

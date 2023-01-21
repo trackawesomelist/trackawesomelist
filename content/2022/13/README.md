@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 28 - Apr 03, 2022
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Contents / Entertainment
 
-*   [Tachidesk-Sorayomi (⭐128)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
+*   [Tachidesk-Sorayomi (⭐141)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 
 ### Contents / Media
 
-*   [Stream Music Player (⭐26)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
+*   [Stream Music Player (⭐32)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
 
 ## [2. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
@@ -95,32 +95,50 @@
 *   [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/quests/44) - Deploy Kubernetes Load Balancer Service with Terraform,HTTPS Content-Based Load Balancer with Terraform,Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform,Building a VPN Between Google Cloud and AWS with Terraform.
 *   [Hashicorp Terraform Tutorials for Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) - Get started with Terraform on Google Cloud.
 
-## [4. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### 0 - Meta-Lists
+
+*   [Tutorials Point](http://www.tutorialspoint.com)
+
+### Algorithms & Data Structures
+
+*   [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point (HTML, PDF)
+
+### Containers
+
+*   [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
+
+### Machine Learning
+
+*   [Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python/) - Tutorials Point (HTML, [PDF](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf))
+
+## [5. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Modules
 
 *   [Oranges (⭐1)](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
 
-## [5. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [6. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :moneybag: [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 *   :money\_with\_wings: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
 *   [kotlin-orm/ktorm (⭐1.6k)](https://github.com/kotlin-orm/ktorm) - A lightweight ORM Framework for Kotlin. Provides strong-typed and flexible SQL DSL and convenient sequence APIs to reduce our duplicated effort on database operations.
 
-## [7. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [8. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [Ansible (⭐743)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
+*   [Ansible (⭐843)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 
-## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -141,12 +159,12 @@
 
 ### :books: Literature / Scientific Research
 
-*   :notebook: [ByteWise: A case study in neural network obfuscation identification](https://ieeexplore.ieee.org/document/8301720/) (January 2018)  :star:
+*   :notebook: [ByteWise: A case study in neural network obfuscation identification](https://ieeexplore.ieee.org/document/8301720/) (January 2018)
 *   :newspaper: [A consistently-executing graph-based approach for malware packer identification](https://ieeexplore.ieee.org/document/8695825) (April 2019)  :star:
-*   :notebook: [A control flow graph-based signature for packer identification](https://ieeexplore.ieee.org/document/8170793) (October 2017)  :star:
-*   :notebook: [Packer identification based on metadata signature](https://dl.acm.org/doi/10.1145/3151137.3160687) (December 2017)  :star:
+*   :notebook: [A control flow graph-based signature for packer identification](https://ieeexplore.ieee.org/document/8170793) (October 2017)
+*   :notebook: [Packer identification based on metadata signature](https://dl.acm.org/doi/10.1145/3151137.3160687) (December 2017)
 *   :newspaper: [Packer identification using byte plot and Markov plot](https://link.springer.com/article/10.1007/s11416-015-0249-8) (September 2015)  :star:
-*   :notebook: [Packer identification using hidden Markov model](https://link.springer.com/chapter/10.1007/978-3-319-69456-6_8) (November 2017)  :star:
+*   :notebook: [Packer identification using hidden Markov model](https://link.springer.com/chapter/10.1007/978-3-319-69456-6_8) (November 2017)
 *   :newspaper: [Sensitive system calls based packed malware variants detection using principal component initialized multilayers neural networks](https://cybersecurity.springeropen.com/articles/10.1186/s42400-018-0010-y) (September 2018)  :star:
 
 ### :bookmark_tabs: Datasets / Scientific Research
@@ -193,7 +211,7 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [Angr (⭐6.2k)](https://github.com/angr/angr) - Platform-agnostic binary analysis framework.
+*   [Angr (⭐6.3k)](https://github.com/angr/angr) - Platform-agnostic binary analysis framework.
 *   [COM2EXE](https://defacto2.net/f/a520164?tool=com2exe) - Free tool for converting COM files to EXE format.
 *   [Defacto2 Analyzers Archive](https://defacto2.net/f/aa2e6ec) - Collection of 60 binary files analysers for MS-DOS and Windows32 from the 1990s and the 2000s.
 *   [Defacto2 Packers Archive](https://defacto2.net/f/a520164) - Collection of 460 binary and data file packers for MS-DOS and Windows32 from the 1990s and 2000s.
@@ -201,54 +219,54 @@
 *   [ExeScan](https://defacto2.net/f/ae2c42e) - Executable file analyzer which detects the most famous  EXE/COM Protectors, Packers, Converters and compilers.
 *   [GetTyp](https://www.helger.com/gt/gt.htm) - File format detection program for DOS based on special strings and byte code.
 *   [Language 2000](https://farrokhi.net/language) - Ultimate compiler detection utility.
-*   [LIEF (⭐3.3k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
+*   [LIEF (⭐3.4k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
 *   [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
 *   [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI tool to scan PE files to identify how they were constructed.
-*   [PETools (⭐733)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+*   [PETools (⭐756)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 *   [RDG Packer Detector](http://www.rdgsoft.net) - Packer detection tool.
-*   [Reko (⭐1.4k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
-*   [RetDec (⭐6.8k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
+*   [Reko (⭐1.6k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
+*   [RetDec (⭐6.9k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
 *   [SAFE](https://github.com/packing-box/awesome-executable-packing/blob/main/README.md/mailto:mihai@cs.wisc.edu) - Static Analyzer For Executables (available on demand).
-*   [Triton (⭐2.6k)](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
+*   [Triton (⭐2.7k)](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
 *   [Tuts 4 You](https://tuts4you.com) - Non-commercial, independent community dedicated to the sharing of knowledge and information on reverse code engineering.
 *   [UnpacMe](https://www.unpac.me) - Automated malware unpacking service.
 
-## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### Development / JavaScript & TypeScript
+### Languages / JavaScript & TypeScript
 
-*   [algo-builder (⭐131)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
-*   [algo-builder-templates (⭐21)](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
+*   [algo-builder (⭐132)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
+*   [algo-builder-templates (⭐22)](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
 
-### Tools / Testing
+### Other Development Tools / Testing
 
 *   [graviton (⭐18)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
 *   [tealer (⭐44)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 
-### Community / Projects
+### Projects / Wallets
 
 *   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags.
 
-## [10. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Infrastructure as Code
 
 *   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐547)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
+*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐586)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Fishing Funds](https://ff.1zilc.top) - Display real-time trends of Chinese funds in the menubar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/1zilc/fishing-funds) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Translation Management
 
@@ -262,59 +280,59 @@
 
 *   [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after 1 download. REST API to interact with the storage. Rate limit 1 request/minute.
 
-## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Frontend framework
 
-*   [ultra (⭐2.8k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
+*   [ultra (⭐2.9k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
 ### Modules / Utils
 
 *   [tryify (⭐4)](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
-*   [wasm-gzip (⭐15)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
+*   [wasm-gzip (⭐16)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
 
 ### Modules / Validation
 
-*   [zod (⭐14k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+*   [zod (⭐17k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Modules / Video
 
-*   [Fast Forward (⭐28)](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
+*   [Fast Forward (⭐31)](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
 
 ### Tools / XML
 
-*   [dnt (⭐525)](https://github.com/denoland/dnt) - Deno to npm package build tool.
+*   [dnt (⭐571)](https://github.com/denoland/dnt) - Deno to npm package build tool.
 
 ### Resources in Other Languages / Chinese
 
 *   [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
-## [15. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [16. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Recipes
 
 *   [Consumer Financial Protection Bureau Wagtail development guide (⭐51)](https://github.com/cfpb/development/blob/main/guides/unittesting-django-wagtail.md) - Unit Testing Django and Wagtail
 
-## [16. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [17. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / Media
 
 *   [Image Max URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.
 
-## [17. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull jeroenwillemsen/wrongsecrets`- [OWASP WrongSecrets](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets)
 
-## [18. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [19. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
 *   [OpenHistoricalMap](https://openhistoricalmap.org/) - A time travel map created by a community of mappers and historians.
 *   [World Historical Gazeteer](https://whgazetteer.org/) - Collection of content and services that permit world historians to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
 
-## [19. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [20. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Roles / Engineers
 
@@ -358,7 +376,7 @@
 *   [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs) - “Smart key supporters will always watch the balance of power, ready to change allegience if the ruler look to be the loser in a shifting web of alliances. (…) Buy all the loyalty you can, because loyalty, in dictatorial organizations of all kinds, is everything.”
 *   [4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/) - “1. I'm kind of a big deal! 2. None of this is my fault! 3. Just do what I say! 4. Trust me; I'm never wrong.”
 
-## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [21. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Overview
 
@@ -392,7 +410,7 @@
 
 *   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐39)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐159)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
-## [21. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [22. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -414,19 +432,19 @@
 
 *   [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 
-## [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Slideshows, talks and videos
 
 *   [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo\&ab_channel=Fireship) - Introduction video by Fireship.
 
-## [23. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [24. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [OpenZITI](https://openziti.github.io/) - Open source initiative focused on bringing Zero Trust to any application via an overlay network, tunelling applications, and numerous SDKs.
 
-## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -439,10 +457,10 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [brisa (⭐1)](https://github.com/brisa-dev/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
+*   [brisa (⭐1)](https://github.com/brisa-dev/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
 *   [clipper (⭐0)](https://github.com/Robert-96/clipper) - Minimalist ZSH theme with `git` support. It includes decorations for pwd, last command exit status code and `git` status & branch.
 
-## [25. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [26. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Dates and Time
 
@@ -453,17 +471,20 @@
 
 *   Falsehoods about Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - Gender is part of human identity and has its own subtleties.
 *   [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - Funny take on how implementation of a falsehood might lead to security holes.
-*   [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐592)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.1k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐547)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.2k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐602)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.2k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐547)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.3k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
 *   [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
 
-## [26. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+### Transportation
+
+*   [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
+
+## [27. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Web Editors
 
@@ -572,7 +593,7 @@
 
 *   [awesome-maplibre (⭐123)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
 
-## [27. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [28. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Automation and Robotics
 
@@ -592,7 +613,7 @@
 *   [Deep Learning for Biologists with Keras (⭐93)](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
 *   [PlantCV (⭐484)](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
 
-## [28. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [29. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tutorials
 
@@ -600,27 +621,27 @@
 
 ### Tools
 
-*   [php-ansible Library (⭐184)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
-*   [TD4A (⭐187)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
-*   [Ansible Playbook Grapher (⭐424)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+*   [php-ansible Library (⭐185)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
+*   [TD4A (⭐188)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
+*   [Ansible Playbook Grapher (⭐426)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
 ### Playbooks, Roles and Collections / French
 
 *   [BlueBanquise (⭐74)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
 
-## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-tuple (⭐41)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
+*   [go-tuple (⭐45)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
 
 ### Database Tools
 
-*   [rdb (⭐206)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
+*   [rdb (⭐220)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
 
 ### SQL Query Builders
 
-*   [sqlc (⭐6.9k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
+*   [sqlc (⭐7.2k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
 
 ### Geographic
 
@@ -632,7 +653,7 @@
 
 ### Dependency Injection
 
-*   [nject (⭐22)](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
+*   [nject (⭐25)](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
 
 ### HTTP Clients
 
@@ -640,7 +661,7 @@
 
 ### Security
 
-*   [Coraza (⭐809)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+*   [Coraza (⭐851)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 
 ### Utilities
 
@@ -653,31 +674,31 @@
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [nchi (⭐9)](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
+*   [nchi (⭐11)](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [ko (⭐5.4k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
+*   [ko (⭐5.5k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
-## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [31. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Utilities / Ruby
 
 *   [GTFS Data Pipeline for TfNSW Bus Datasets (⭐6)](https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus) - A data pipeline developed for the TfNSW's GTFS Static and Realtime datasets. The datasets generated using the pipeline have been used to validate the performance of TfNSW's Transit Signal Priority Request via Public Transport Information and Priority System (PTIPS).
 
-## [31. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [32. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Multimedia / Other / unknown licence
 
 *   [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
 
-## [32. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [33. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐69)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐74)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
 
-## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [34. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -689,28 +710,28 @@
 
 *   [Data Models For MongoDB](https://www.mongodb.com/docs/manual/data-modeling/) - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [axieax/urlview.nvim (⭐106)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
+*   [axieax/urlview.nvim (⭐121)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [jrychn/moduleVim (⭐4)](https://github.com/jrychn/ModuleVim) - A very easy to use
     for backend and frontend, install lsp automatically.
 
-## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [36. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
-*   [Atlas (⭐2.1k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Atlas (⭐2.2k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 *   [Reshape (⭐1.4k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
 *   [sqldef (⭐1.4k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
 ### Schema / Diagrams
 
-*   [ERAlchemy (⭐979)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+*   [ERAlchemy (⭐984)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 
 ### Schema / Documentations
 
@@ -730,30 +751,30 @@
 
 ### Schema / Samples
 
-*   [Oracle Database Sample Schemas (⭐550)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+*   [Oracle Database Sample Schemas (⭐557)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 ### API / Samples
 
-*   [Datasette (⭐6.7k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐6.8k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 
 ### Application platforms / Samples
 
 *   [Budibase (⭐17k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
-*   [Saltcorn (⭐984)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+*   [Saltcorn (⭐1k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
 ### Backup / Samples
 
-*   [pgcopydb (⭐605)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
+*   [pgcopydb (⭐611)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
 
 ### Cloning / Samples
 
 *   [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
-*   [clone\_schema (⭐106)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
+*   [clone\_schema (⭐107)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
 *   [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgbadger (⭐23)](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
+*   [pgbadger (⭐22)](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
 *   [Promscale (⭐1.3k)](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL.
 
 ### Testing / Zabbix
@@ -762,53 +783,53 @@
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [pgslice (⭐834)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
+*   [pgslice (⭐835)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 
 ### SQL / Über SQL
 
 *   [CloudQuery (⭐2.7k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 *   [csvq (⭐1.2k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
-*   [dsq (⭐3k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+*   [dsq (⭐3.1k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 *   [OctoSQL (⭐4.2k)](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 *   [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
-*   [Steampipe (⭐4.2k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
+*   [Steampipe (⭐4.5k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 *   [TextQL (⭐8.9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
-*   [trdsql (⭐1.3k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
+*   [trdsql (⭐1.4k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 
 ### Data / Scripts
 
-*   [dbt (⭐6.2k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐6.3k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 
 ### Data / Generators
 
-*   [Benerator (⭐75)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
+*   [Benerator (⭐77)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 *   [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 *   [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 *   [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
-*   [Faker (⭐8.2k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
-*   [Noisia (⭐673)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+*   [Faker (⭐8.4k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
+*   [Noisia (⭐672)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
 ### Data / Replication
 
-*   [dtle (⭐492)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
-*   [Litestream (⭐7.8k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+*   [dtle (⭐495)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
+*   [Litestream (⭐7.9k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 *   [pgsync (⭐2.5k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
-*   [pg\_chameleon (⭐327)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
-*   [PGDeltaStream (⭐239)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
+*   [pg\_chameleon (⭐328)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
+*   [PGDeltaStream (⭐240)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
 *   [repmgr (⭐1.4k)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
 ### Papers / Compare
 
-*   [The "Database as Code" Manifesto (⭐34)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+*   [The "Database as Code" Manifesto (⭐37)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
-## [36. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [37. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
 *   [FastAPI FeatureFlags (⭐18)](https://github.com/Pytlicek/fastapi-featureflags) - Simple implementation of feature flags for FastAPI.
 
-## [37. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [38. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Miscellaneous
 
@@ -818,27 +839,16 @@
 
 *   [lens-ui (⭐2)](https://github.com/luciancaetano/lens-ui) - [docs (⭐2)](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 
-## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
 *   Pipeline
-    *   [hniksic/rust-subprocess (⭐370)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines [![build badge](https://api.travis-ci.org/hniksic/rust-subprocess.svg?branch=master)](https://travis-ci.org/hniksic/rust-subprocess)
+    *   [hniksic/rust-subprocess (⭐375)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines [![build badge](https://api.travis-ci.org/hniksic/rust-subprocess.svg?branch=master)](https://travis-ci.org/hniksic/rust-subprocess)
     *   [imp/pager-rs](https://gitlab.com/imp/pager-rs) \[[pager](https://crates.io/crates/pager)] — pipe your output through an external pager
-    *   [oconnor663/duct.rs (⭐628)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection [![build badge](https://api.travis-ci.org/oconnor663/duct.rs.svg?branch=master)](https://travis-ci.org/oconnor663/duct.rs)
-    *   [rust-cli/rexpect (⭐173)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
-    *   [zhiburt/expectrl (⭐131)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
-
-## [39. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
-
-### QubesOS Websites
-
-*   [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
-*   [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
-
-### Networking Server
-
-*   [qubes-network-server (⭐76)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
+    *   [oconnor663/duct.rs (⭐637)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection [![build badge](https://api.travis-ci.org/oconnor663/duct.rs.svg?branch=master)](https://travis-ci.org/oconnor663/duct.rs)
+    *   [rust-cli/rexpect (⭐177)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
+    *   [zhiburt/expectrl (⭐132)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 
 ## [40. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
@@ -952,7 +962,7 @@
 *   [uspin (⭐6)](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
 *   [vue-img-lazy-tiny (⭐4)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 *   [vue-drag-drop-snap (⭐1)](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping.
-*   [awesome-image (⭐55)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
+*   [awesome-image (⭐57)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
 
 ### Components & Libraries / Frameworks
 
@@ -966,7 +976,7 @@
 
 ### Open-Source Projects
 
-*   [GitProfile (⭐533)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
+*   [GitProfile (⭐599)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
 
 ## [46. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -976,86 +986,7 @@
 
 
 
-## [47. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Android
-
-*   [Android Tutorial](http://www.tutorialspoint.com/android/) - Tutorials Point (HTML, PDF)
-
-### C / Non-X86
-
-*   [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/) - Tutorials Point (HTML, PDF)
-
-### Erlang / Phoenix
-
-*   [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com) - Fred Hebert (HTML)
-
-### Flutter / Phoenix
-
-*   [Flutter in Action](https://livebook.manning.com/book/flutter-in-action/) - Eric Windmill (HTML) *(email address requested, not required)*
-*   [Flutter Tutorial](https://www.tutorialspoint.com/flutter/) - Tutorials Point (HTML, PDF)
-
-### Go / Phoenix
-
-*   [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
-
-### JavaScript / Express.js
-
-*   [The Express.js Handbook](https://flaviocopes.com/page/express-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### JavaScript / Next.js
-
-*   [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### JavaScript / Node.js
-
-*   [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### JavaScript / Vue.js
-
-*   [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-### Lua / PicoLisp
-
-*   [Lua Tutorial](http://www.tutorialspoint.com/lua/) - Tutorials Point (HTML, PDF)
-
-### MongoDB / PicoLisp
-
-*   [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb/) - Tutorials Point (HTML, PDF)
-
-### Odin / PicoLisp
-
-*   [Overview | Odin Programming Language](https://odin-lang.org/docs/overview/)
-
-### PostgreSQL / Zend
-
-*   [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/) - Tutorials Point (HTML, PDF)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
-
-### Python / Flask
-
-*   [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
-
-### Scala / Sinatra
-
-*   [Scala Tutorial](https://www.tutorialspoint.com/scala/) - Tutorials Point (HTML, PDF)
-
-### Solidity / Play Scala
-
-*   [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/) - Tutorials Point (HTML)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) (HTML, PDF)
-
-### TypeScript / Deno
-
-*   [The Deno Handbook](https://flaviocopes.com/page/deno-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-## [48. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [47. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -1086,7 +1017,7 @@
 
 *   [`nucleo-h743zi`](https://github.com/astraw/nucleo-h743zi) Beginner-oriented support crate for the Nucleo H743ZI and Nucleo H743ZI2
 
-## [49. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [48. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -1094,11 +1025,11 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-import-rewriter (⭐3)](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Rewriter the import based on conditions.
+*   [vite-plugin-import-rewriter (⭐4)](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Rewriter the import based on conditions.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-qrcode (⭐56)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
+*   [vite-plugin-qrcode (⭐64)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
 
 ### Electron / Presets
 
@@ -1108,41 +1039,41 @@
 
 *   [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
 
-## [50. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [49. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [arsmn/fiber-swagger (⭐242)](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
-*   [arsmn/fiber-casbin (⭐56)](https://github.com/arsmn/fiber-casbin) - Casbin middleware for Fiber.
-*   [shareed2k/fiber\_tracing (⭐8)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
+*   [arsmn/fiber-casbin (⭐57)](https://github.com/arsmn/fiber-casbin) - Casbin middleware for Fiber.
+*   [shareed2k/fiber\_tracing (⭐9)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
 *   [shareed2k/fiber\_limiter (⭐13)](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
 *   [arsmn/fastgql (⭐78)](https://github.com/arsmn/fastgql) - Go library for building GraphQL servers without any fuss, but with fasthttp support.
 *   [kiyonlin/fiber\_limiter (⭐3)](https://github.com/kiyonlin/fiber_limiter) - Limiter is based on rate which forks of golang.org/x/time/rate.
 *   [juandiii/go-jwk-security (⭐7)](https://github.com/juandiii/go-jwk-security) - JWT middleware for fiber.
-*   [ansrivas/fiberprometheus (⭐83)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
+*   [ansrivas/fiberprometheus (⭐93)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
 *   [LdDl/fiber-long-poll (⭐12)](https://github.com/LdDl/fiber-long-poll) - Golang long polling library for fasthttp-based web framework called Fiber.
 *   [K0enM/fiber\_vhost (⭐5)](https://github.com/K0enM/fiber_vhost) - Vhost (Virtual host) middleware for Fiber that enables the use of virtual hosts based on the Host Header.
-*   [sacsand/gofiber-firebaseauth (⭐18)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
+*   [sacsand/gofiber-firebaseauth (⭐19)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
 *   [theArtechnology/fiber-inertia (⭐10)](https://github.com/theArtechnology/fiber-inertia) - This is a Inertia.js server-side adapter based on inertia-laravel, but for Fiber Framework.
-*   [aschenmaker/fiber-health-check (⭐7)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
-*   [elastic/apmfiber (⭐361)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
+*   [aschenmaker/fiber-health-check (⭐9)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
+*   [elastic/apmfiber (⭐366)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
 *   [eozer/fiber\_ldapauth (⭐1)](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [gofiber/boilerplate (⭐230)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
-*   [fiber-boilerplate (⭐182)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
-*   [sujit-baniya/fiber-boilerplate (⭐254)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
-*   [create-go-app/fiber-go-template (⭐461)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
-*   [embedmode/fiberseed (⭐23)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
+*   [gofiber/boilerplate (⭐251)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
+*   [fiber-boilerplate (⭐191)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
+*   [sujit-baniya/fiber-boilerplate (⭐262)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
+*   [create-go-app/fiber-go-template (⭐501)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
+*   [embedmode/fiberseed (⭐26)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [kiyonlin/fiblar-demo (⭐1)](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
-*   [koddr/tutorial-go-fiber-rest-api (⭐214)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
-*   [firebase007/go-rest-api-with-fiber (⭐34)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
+*   [koddr/tutorial-go-fiber-rest-api (⭐225)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
+*   [firebase007/go-rest-api-with-fiber (⭐37)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
 *   [chawk/go\_fiber\_quickstart (⭐18)](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
-*   [EricLau1/go-fiber-auth-api (⭐34)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
+*   [EricLau1/go-fiber-auth-api (⭐36)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
 
 ### 🤖 Benchmarks / 🌱 Third Party
 
@@ -1150,7 +1081,7 @@
 *   [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
 *   [go-web-framework-benchmark (⭐1.8k)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
 
-## [51. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [50. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
@@ -1158,15 +1089,15 @@
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
 *   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐52)](https://github.com/flowersteam/TeachMyAgent)].
 
-## [52. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [51. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Facebook
 
-*   [Facebook Friend List Scraper (⭐103)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+*   [Facebook Friend List Scraper (⭐121)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 
 ### Web History and Website Capture / Telegram
 
-*   [waybackpy (⭐227)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+*   [waybackpy (⭐262)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ---
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 19, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -91,19 +91,13 @@
 
 *   [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
 
-## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-### Training and Materials / Web articles
-
-*   [anonymous planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity
-
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Wikis
 
 *   [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code (⭐20k)](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs`
 
-## [10. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [9. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Free EDA Packages / Installable
 
@@ -113,7 +107,7 @@
 
 *   [PCBWay](https://www.pcbway.com/) - Low cost PCB batching service with PCBA, CNC and 3D-Printing services.
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### State Libraries
 
@@ -124,19 +118,19 @@
 
 *   [mathjax-svelte (⭐0)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 
-## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Guaranteeing webhook delivery in NextJS Application](https://www.bharathvaj.me/blog/implement-webhook-nextjs)
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gianu-alternative (⭐0)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Mathematics For Computer Science
 
@@ -144,4 +138,5 @@
 
 ---
 
+- Prev: [Jan 20, 2023](/content/2023/01/20/README.md)
 - Next: [Jan 18, 2023](/content/2023/01/18/README.md)

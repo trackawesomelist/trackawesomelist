@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Demo
 
-*   [Sitecore Developer Portal (⭐10)](https://github.com/Sitecore/developer-portal) - Sitecore developer portal is built with Next.js, Typescript, Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
+*   [Sitecore Developer Portal (⭐11)](https://github.com/Sitecore/developer-portal) - Sitecore developer portal is built with Next.js, Typescript, Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
 
 ## [2. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -22,11 +22,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐120)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐123)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐124)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐137)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code (⭐33k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code (⭐34k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -125,16 +125,16 @@
 ### Programming Languages
 
 *   [C (⭐3k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐578)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐581)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐630)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐632)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐3.2k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-*   [Alfred Workflows (⭐2.6k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+*   [Fish (⭐3.3k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Alfred Workflows (⭐2.7k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
 
@@ -142,16 +142,16 @@
 
 ### Business
 
-*   [Developer-First Products (⭐327)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐336)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐52k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐53k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Miscellaneous
 
-*   [Userscripts (⭐968)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-*   [Agriculture (⭐899)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
+*   [Userscripts (⭐996)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
+*   [Agriculture (⭐922)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

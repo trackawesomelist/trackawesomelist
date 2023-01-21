@@ -2,7 +2,7 @@
 
 1 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,5 +18,5 @@
 
 ---
 
-- Prev: [Feb 21, 2014](/content/2014/02/21/README.md)
-- Next: [Feb 10, 2014](/content/2014/02/10/README.md)
+- Prev: [Feb 24, 2014](/content/2014/02/24/README.md)
+- Next: [Feb 06, 2014](/content/2014/02/06/README.md)

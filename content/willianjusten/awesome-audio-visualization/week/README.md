@@ -2,7 +2,7 @@
 
 A curated list about Audio Visualization.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/willianjusten/awesome-audio-visualization/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) · ⭐ 4.1K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/willianjusten/awesome-audio-visualization/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) · ⭐ 4.1K · 🏷️ Media
 
 [ [Daily](/content/willianjusten/awesome-audio-visualization/README.md) / Weekly / [Overview](/content/willianjusten/awesome-audio-visualization/readme/README.md) ]
 

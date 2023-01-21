@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / Games
 
-*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐8.2k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++`
+*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐8.4k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++`
 *   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++`
 
 ### Software / Maps and Global Positioning System (GPS)
@@ -46,17 +46,17 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [jq (⭐156)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐2.4k)](https://github.com/itchyny/gojq). Requires [fzf (⭐49k)](https://github.com/junegunn/fzf).
+*   [jq (⭐163)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐2.4k)](https://github.com/itchyny/gojq). Requires [fzf (⭐49k)](https://github.com/junegunn/fzf).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
+*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Yazeed1s/minimal.nvim (⭐96)](https://github.com/yazeed1s/minimal.nvim) - Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
+*   [Yazeed1s/minimal.nvim (⭐108)](https://github.com/yazeed1s/minimal.nvim) - Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
 
 ### Resource / Diagnostics
 
@@ -91,7 +91,7 @@
 
 ### Others
 
-*   [BlazorViz interop wrapper for Viz.js (⭐0)](https://github.com/mrzhdev/BlazorViz) - ![last commit](https://img.shields.io/github/last-commit/mrzhdev/BlazorViz) A sample of generating Graphviz DOT language files and visualising tree data structures. [Demo](https://mrzhdev.github.io/BlazorViz/).
+*   [BlazorViz interop wrapper for Viz.js (⭐1)](https://github.com/mrzhdev/BlazorViz) - ![last commit](https://img.shields.io/github/last-commit/mrzhdev/BlazorViz) A sample of generating Graphviz DOT language files and visualising tree data structures. [Demo](https://mrzhdev.github.io/BlazorViz/).
 
 ### Articles / Others
 
@@ -103,17 +103,17 @@
 
 ### Editor plugins
 
-*   [MarioAriasC/zig-support (⭐42)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
+*   [MarioAriasC/zig-support (⭐50)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
 
 ## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Laravel / Community
 
-*   [Laravel Livewire Plugin (⭐186)](https://github.com/def-studio/vite-livewire-plugin) - Enable hot reloading of Laravel Livewire components without losing state.
+*   [Laravel Livewire Plugin (⭐193)](https://github.com/def-studio/vite-livewire-plugin) - Enable hot reloading of Laravel Livewire components without losing state.
 
 ### CodeIgniter / Community
 
-*   [codeigniter-vite (⭐37)](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
+*   [codeigniter-vite (⭐39)](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -131,20 +131,20 @@
 
 ### Sensors / Gaseous
 
-*   [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 MicroPython driver for the Pimoroni mics6814 breakout board.
+*   [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 MicroPython driver for the Pimoroni MICS6814 breakout board.
 
 ### Storage / Database
 
-*   [micropython-firebase-firestore (⭐4)](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for MicroPython.
+*   [micropython-firebase-firestore (⭐5)](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for MicroPython.
 
 ### Tutorials / SRAM
 
-*   [uasyncio (⭐517)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
-*   [Asynchronous drivers (⭐517)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
-*   [Pyboard micropower (⭐43)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
-*   [3D rotation with quaternions (⭐298)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
+*   [uasyncio (⭐553)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
+*   [Asynchronous drivers (⭐553)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
+*   [Pyboard micropower (⭐44)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
+*   [3D rotation with quaternions (⭐310)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
 *   [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
-*   [Bhavesh Kakwani](https://bhave.sh/) - Bi-weekly MicroPython video + written tutorials.
+*   [Bhavesh Kakwani](https://bhave.sh/) - MicroPython videos + written tutorials.
 
 ### Books / SRAM
 

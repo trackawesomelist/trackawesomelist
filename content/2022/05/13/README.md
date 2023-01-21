@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -42,7 +42,7 @@
 
 ### Shell Script Development
 
-*   [DevOps-Bash-tools (⭐861)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
+*   [DevOps-Bash-tools (⭐875)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
 
 ## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

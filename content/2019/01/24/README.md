@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,8 +36,8 @@
 
 ### Contents / Shopping
 
-*   [Grocery-App (⭐749)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
-*   [Flutter Games (⭐227)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
+*   [Grocery-App (⭐802)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
+*   [Flutter Games (⭐232)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
 
 ## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

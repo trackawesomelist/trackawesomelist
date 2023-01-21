@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,11 +29,11 @@
 
 ### Utilities / Game Engine resources
 
-*   [Dart Code Metrics (⭐703)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+*   [Dart Code Metrics (⭐735)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Promptism
 
 *   [Smooth Transitioning Between Position / Rotation / Zoom and Text Inputs by Keyframing Parameters: A Proof of Concept \[15,000 Frames\] : deepdream](https://www.reddit.com/r/deepdream/comments/pagqjx/smooth_transitioning_between_position_rotation/)
 
@@ -143,7 +143,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐94)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐97)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 

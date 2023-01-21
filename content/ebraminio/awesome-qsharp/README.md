@@ -2,7 +2,7 @@
 
 A curated list of Q# code and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ebraminio/awesome-qsharp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ebraminio/awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) · ⭐ 132 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ebraminio/awesome-qsharp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ebraminio/awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) · ⭐ 132 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/ebraminio/awesome-qsharp/week/README.md) / [Overview](/content/ebraminio/awesome-qsharp/readme/README.md) ]
 

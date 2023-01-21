@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -87,26 +87,26 @@
 
 ### Tools & Software / Search & Discovery
 
-*   [webarchive-discovery (⭐100)](https://github.com/ukwa/webarchive-discovery) - WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below. *(Stable)*
+*   [webarchive-discovery (⭐102)](https://github.com/ukwa/webarchive-discovery) - WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below. *(Stable)*
     *   [Shine (⭐37)](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/). *(Stable)*
-    *   [SolrWayback (⭐67)](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release (⭐67)](https://github.com/netarchivesuite/solrwayback/releases) contains all the software and dependencies in an out-of-the box solution that is easy to install.
-    *   [Warclight (⭐44)](https://github.com/archivesunleashed/warclight) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. *(In Development)*
+    *   [SolrWayback (⭐71)](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release (⭐71)](https://github.com/netarchivesuite/solrwayback/releases) contains all the software and dependencies in an out-of-the box solution that is easy to install.
+    *   [Warclight (⭐46)](https://github.com/archivesunleashed/warclight) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. *(In Development)*
     *   [Wasp (⭐21)](https://github.com/webis-de/wasp) - A fully functional prototype of a personal [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf). *(In Development)*
-    *   Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here (⭐100)](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
+    *   Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here (⭐102)](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
 
 ### Tools & Software / Utilities
 
-*   [ArchiveTools (⭐53)](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python).
+*   [ArchiveTools (⭐54)](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python).
 *   [har2warc (⭐38)](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format (Python).
 *   [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported (macOS only, Proprietary app).
 *   [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Program to extract the contents of many archive formats, inclusive of WARC, to a file system. Free variant of The Archive Browser (macOS only, Proprietary app).
 
 ### Tools & Software / WARC I/O Libraries
 
-*   [jwarc (⭐33)](https://github.com/iipc/jwarc) - Reading and write WARC files with a typesafe API (Java).
-*   [warcio (⭐266)](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO (Python).
-*   [warctools (⭐111)](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
-*   [webarchive (⭐16)](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats (Golang).
+*   [jwarc (⭐35)](https://github.com/iipc/jwarc) - Reading and write WARC files with a typesafe API (Java).
+*   [warcio (⭐277)](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO (Python).
+*   [warctools (⭐118)](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
+*   [webarchive (⭐15)](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats (Golang).
 
 ### Tools & Software / Quality Assurance
 
@@ -115,12 +115,12 @@
 *   [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US\&gl=US) - Browser extension: link harvester on a page.
 *   [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) - Browser extension: opens multiple URLs and also extracts URLs from text.
 *   [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - Browser extension: switches between browser tabs.
-*   [FlameShot (⭐19k)](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu.
+*   [FlameShot (⭐20k)](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu.
 *   [PlayOnLinux](https://www.playonlinux.com/en/) - For running Xenu and Notepad++ on Ubuntu.
 *   [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS.
 *   [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows built-in for partial screen capture and annotation. On macOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture).
 *   [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS.
-*   [xDoTool (⭐2.1k)](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu.
+*   [xDoTool (⭐2.3k)](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu.
 *   [Xenu](http://home.snafu.de/tilman/xenulink.html) - Desktop link checker for Windows.
 
 ### Community Resources / Slack
@@ -429,20 +429,20 @@
 
 ### Databases / Lazy Load
 
-*   [crisp-bigquery (⭐34)](https://github.com/winwiz1/crisp-bigquery) - Full stack Google BigQuery with Express in TypeScript.
-*   [react-server-routing-example (⭐300)](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
+*   [crisp-bigquery (⭐36)](https://github.com/winwiz1/crisp-bigquery) - Full stack Google BigQuery with Express in TypeScript.
+*   [react-server-routing-example (⭐299)](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
 
 ## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Configuration
 
-*   [toml++ (⭐956)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+*   [toml++ (⭐964)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐261)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐262)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ---
 

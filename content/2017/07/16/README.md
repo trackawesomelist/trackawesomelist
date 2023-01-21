@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,7 +27,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Explore-Github (⭐52)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
+*   [Explore-Github (⭐53)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

@@ -2,13 +2,13 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Monitoring / Single Sign-On (SSO)
+### Software / Monitoring
 
 *   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
 
@@ -72,15 +72,15 @@
 
 ### Job Scheduler
 
-*   [goflow (⭐85)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
+*   [goflow (⭐94)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
 
 ### Uncategorized
 
-*   [xz (⭐396)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐400)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
-*   [req (⭐2.9k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
+*   [req (⭐3k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 
 ## [8. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Tools / GUIs
 
-*   [Visual SNMP (⭐9)](https://github.com/sisraell/VisualSNMP) - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
+*   [Visual SNMP (⭐10)](https://github.com/sisraell/VisualSNMP) - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
 
 ### Miscellaneous / Tutorials
 
@@ -113,7 +113,7 @@
 
 ### Security / Zabbix
 
-*   [Inspektor (⭐255)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
+*   [Inspektor (⭐257)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -129,11 +129,11 @@
 
 ### Machine Learning and Data Science
 
-*   [F# Data (⭐741)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+*   [F# Data (⭐748)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
 ### Testing
 
-*   [xBehave.net (⭐387)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language.
+*   [xBehave.net (⭐385)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language.
 
 ## [13. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Related / Other
 
-*   [Awesome creative technology (⭐189)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+*   [Awesome creative technology (⭐211)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ---
 

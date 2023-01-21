@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -89,7 +89,7 @@
 
 ### How to show your progress / Which programming languages should I use?
 
-*   **[Contributors (⭐129k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐131k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -154,7 +154,7 @@
 
 ### Web Frameworks
 
-*   [uvicorn (⭐5.8k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+*   [uvicorn (⭐6k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
 
 ## [12. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 

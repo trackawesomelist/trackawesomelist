@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,13 +36,13 @@
 
 ### Authorization
 
-*   [canada (⭐421)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐420)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Miscellaneous
 
 *   [bupe (⭐74)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
 *   [charm (⭐4)](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
-*   [ecto\_autoslug\_field (⭐140)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
+*   [ecto\_autoslug\_field (⭐141)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
 
 ### Release Management
 

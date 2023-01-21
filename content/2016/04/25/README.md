@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -58,13 +58,13 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Miscellaneous / Third Party
 
-*   [d3plus-text (⭐96)](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
+*   [d3plus-text (⭐97)](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐383)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐390)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 

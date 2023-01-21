@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Libraries / New Libraries
 
-*   [mpi4jax (⭐229)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
+*   [mpi4jax (⭐247)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 
 ## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐44)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐45)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Communications / MDNS
 
-*   [micropython-mdns (⭐31)](https://github.com/cbrand/micropython-mdns) - A pure python implementation of MDNS with support for Service Discovery.
+*   [micropython-mdns (⭐35)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
 
 ### Shells / On Host
 

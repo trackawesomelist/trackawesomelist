@@ -2,7 +2,7 @@
 
 67 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -938,7 +938,7 @@
 
 ### Beginner
 
-*   [Roadmap to Flutter Development (⭐4.1k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
+*   [Roadmap to Flutter Development (⭐4.3k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -1032,7 +1032,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [bayeso (⭐73)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
+*   [bayeso (⭐74)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 
 ## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -1115,10 +1115,6 @@
 ### Software / Media Streaming - Video Streaming
 
 *   [Streama (⭐9.2k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
-
-### Software / Wikis
-
-*   [MoinMoin](https://moinmo.in/) - Advanced, easy to use and extensible WikiEngine with a large community of users. ([Source Code (⭐126)](https://github.com/moinwiki/moin-1.9)) `GPL-2.0` `Python`
 
 ## [29. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -1253,18 +1249,18 @@
 
 ### Plugins
 
-*   [tmux-tilish (⭐278)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
+*   [tmux-tilish (⭐286)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
 
 ## [42. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
-*   [evt (⭐389)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+*   [evt (⭐391)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 
 ### Tools / XML
 
-*   [denoify (⭐776)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-*   [nessie (⭐504)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+*   [denoify (⭐807)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+*   [nessie (⭐512)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
 ## [43. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -1292,7 +1288,7 @@
 
 ### Decentralized Systems
 
-*   [Waves (⭐68)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+*   [Waves (⭐70)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 
 ## [45. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -1325,11 +1321,11 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Joystream (⭐151)](https://github.com/Joystream/joystream) — A user governed video platform [![Build Status](https://api.travis-ci.org/Joystream/joystream.svg?branch=master)](https://travis-ci.org/Joystream/joystream)
+*   [Joystream (⭐152)](https://github.com/Joystream/joystream) — A user governed video platform [![Build Status](https://api.travis-ci.org/Joystream/joystream.svg?branch=master)](https://travis-ci.org/Joystream/joystream)
 
 ### Development tools / Web Servers
 
-*   [Rust Search Extension (⭐949)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
+*   [Rust Search Extension (⭐974)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
 
 ## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -1385,8 +1381,8 @@
 
 ### ORM
 
-*   [EntityFramework.Exceptions (⭐622)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
-*   [SmartSql (⭐898)](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
+*   [EntityFramework.Exceptions (⭐649)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
+*   [SmartSql (⭐913)](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 
 ### PDF
 
@@ -1394,33 +1390,33 @@
 
 ### Protocols
 
-*   [DnsClient.NET (⭐609)](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
+*   [DnsClient.NET (⭐623)](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 
 ### Serialization
 
-*   [Ceras (⭐442)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
-*   [Protobuf.NET (⭐4k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
+*   [Ceras (⭐441)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
+*   [Protobuf.NET (⭐4.1k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 
 ### Testing
 
 *   [SpecFlow (⭐2k)](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
-*   [xUnit.net (⭐3.5k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+*   [xUnit.net (⭐3.6k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 *   [ReportPortal](https://reportportal.io) - AI-powered Test Automation Dashboard. Acquire, aggregate and analyze test reports to ascertain release health.
 
 ### Visual Studio Plugins
 
 *   [Web Essentials (⭐52)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
-*   [SideWaffle (⭐653)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
+*   [SideWaffle (⭐654)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
 
 ## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Carousel
 
-*   [react-instagram-zoom-slider (⭐66)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
+*   [react-instagram-zoom-slider (⭐67)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 
 ### Photo / Image
 
-*   [react-imgix (⭐327)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
+*   [react-imgix (⭐330)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 
 ## [54. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
@@ -1456,13 +1452,13 @@
 
 ### Side-channel Tools / Reverse Engineering Tools
 
-*   [TRRespass (⭐106)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
+*   [TRRespass (⭐107)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
 
 ## [57. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Automation
 
-*   [ActiveWorkflow (⭐633)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐642)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -1478,11 +1474,11 @@
 
 ### Optimizations
 
-*   [fast\_underscore (⭐25)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
+*   [fast\_underscore (⭐26)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
 
 ### Profiler and Optimization
 
-*   [stackprof (⭐1.9k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
+*   [stackprof (⭐2k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
 *   [test-prof (⭐1.6k)](https://github.com/palkan/test-prof) - Ruby Tests Profiling Toolbox
 
 ## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
@@ -1708,14 +1704,14 @@
 
 ### Collaboration/Education
 
-*   [IllumiDesk (⭐38)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
+*   [IllumiDesk (⭐39)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
 
 ## [61. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-*   [remote-es/remotes (⭐528)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+*   [remote-es/remotes (⭐543)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 
 ### Companies with "remote DNA"
 
@@ -1726,10 +1722,6 @@
 ### Case Studies
 
 *   [Shipping Web Components in 2020](https://dev.to/joe8bit/shipping-web-components-in-2020-2h54)
-
-### Tools
-
-*   [query-selector-shadow-dom (⭐194)](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 
 ### History / 2016
 
@@ -1760,7 +1752,7 @@
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
 *   [Newsboat](https://newsboat.org/) <sup>[374](https://t.me/s/aboutrss/374)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/newsboat/newsboat) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
-*   [GORSS - Go RSS Reader (⭐269)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
+*   [GORSS - Go RSS Reader (⭐277)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
@@ -1775,7 +1767,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS-Bridge (⭐5.3k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
+*   [RSS-Bridge (⭐5.5k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
 
 ### universally from / newsletter/mail
 
@@ -1858,11 +1850,11 @@
 
 ### Libraries / Others
 
-*   [Cookiecutter for Computational Molecular Sciences (⭐281)](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
+*   [Cookiecutter for Computational Molecular Sciences (⭐283)](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 
 ### Resources / Courses
 
-*   [Python for chemoinformatics (⭐192)](https://github.com/Mishima-syk/py4chemoinformatics)
+*   [Python for chemoinformatics (⭐193)](https://github.com/Mishima-syk/py4chemoinformatics)
 *   [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
 
 ## [67. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)

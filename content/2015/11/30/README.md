@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Source Generator
 
-*   [C# Algorithms, Data Structures (⭐5.2k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+*   [C# Algorithms, Data Structures (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Urigo/awesome-meteor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor) · ⭐ 1.4K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Urigo/awesome-meteor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor) · ⭐ 1.4K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/Urigo/awesome-meteor/week/README.md) / [Overview](/content/Urigo/awesome-meteor/readme/README.md) ]
 

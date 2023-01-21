@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-use-popperjs (⭐18)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
+*   [vue-use-popperjs (⭐20)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
 
 ## [5. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -41,7 +41,7 @@
 ### Python / General-Purpose Machine Learning
 
 *   [Streamlit (⭐22k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐7.2k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Optuna (⭐7.4k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Books / Misc
 
@@ -49,35 +49,19 @@
 *   [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train Machine Learning models on the fly to recognize your own images, sounds, & poses.
 *   [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### C# / Non-X86
+### Cloud Computing
 
-*   [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) - Charles Petzold
-*   [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
-
-### Jenkins / Vue.js
-
-*   [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)
-
-### Kotlin / Vue.js
-
-*   [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Learn Python the Right Way](https://learnpythontherightway.com)
-
-### TypeScript / Vapor
-
-*   [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Dr. Axel Rauschmayer
+*   [How to optimize storage costs using Amazon S3](https://aws.amazon.com/s3/cloud-storage-cost-optimization-ebook/) - AWS (PDF)
+*   [Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETESHARDENINGGUIDANCE.PDF) - NSA, CISA (PDF)
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   [Godot](https://godotengine.org/)
-    *   [godot-rust/gdnative (⭐3.1k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Rust bindings to the Godot game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdnative (⭐3.2k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Rust bindings to the Godot game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
 
 ## [9. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -90,11 +74,11 @@
 
 ### Open source / Other / unknown licence
 
-*   [hac (⭐71)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
+*   [hac (⭐75)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
 
 ### Editors / Other / unknown licence
 
-*   [lea (⭐14)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
+*   [lea (⭐16)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 
 ## [11. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
@@ -162,15 +146,15 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [QuickShare (⭐363)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. ([Demo](https://hexxa-quickshare.herokuapp.com/)) `LGPL-3.0` `Go`
+*   [QuickShare (⭐371)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. ([Demo](https://hexxa-quickshare.herokuapp.com/)) `LGPL-3.0` `Go`
 
 ### Software / Pastebins
 
-*   [Snippet Box (⭐666)](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages. `MIT` `Nodejs`
+*   [Snippet Box (⭐692)](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages. `MIT` `Nodejs`
 
 ### Software / Photo and Video Galleries
 
-*   [Mejiro (⭐127)](https://github.com/dmpop/mejiro) - An easy-to-use PHP web application for instant photo publishing. `GPL-3.0` `PHP`
+*   [Mejiro (⭐129)](https://github.com/dmpop/mejiro) - An easy-to-use PHP web application for instant photo publishing. `GPL-3.0` `PHP`
 
 ### Software / Ticketing
 

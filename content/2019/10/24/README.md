@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 ### Internationalization / Image Picker
 
 *   [GenLang (⭐93)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
-*   [Flutter Translate (⭐323)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
+*   [Flutter Translate (⭐331)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 
 ## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐972)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐995)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

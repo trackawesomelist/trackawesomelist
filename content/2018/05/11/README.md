@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,7 +48,7 @@
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐29)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐30)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 
@@ -56,11 +56,11 @@
 
 ### Queue
 
-*   [gen\_rmq (⭐170)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
+*   [gen\_rmq (⭐171)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 
 ### Security
 
-*   [pwned (⭐20)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
+*   [pwned (⭐21)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 
 ### Testing
 

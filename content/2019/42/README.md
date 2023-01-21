@@ -2,7 +2,7 @@
 
 80 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐297)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐303)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Tools
 
-*   [Pwnagotchi (⭐5.3k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
+*   [Pwnagotchi (⭐5.4k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -68,11 +68,11 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐78)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐79)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
-*   [Kyapchar (⭐56)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kyapchar (⭐58)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -86,7 +86,7 @@
 
 ### Services
 
-*   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time
+*   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 
 ## [10. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -152,7 +152,7 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   [fast-http (⭐330)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-http (⭐331)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Interfaces to other package managers
 
@@ -166,22 +166,22 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐65)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
-    *   [paren6 (⭐18)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
+*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐67)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
+    *   [paren6 (⭐19)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
 
 ### Others / Third-party APIs
 
-*   [avm (⭐49)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
+*   [avm (⭐50)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
-*   [cl-coroutine (⭐56)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-coroutine (⭐57)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
 
 ### Actors pattern / Third-party APIs
 
-*   [erlangen (⭐65)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [erlangen (⭐64)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 *   [Actors (⭐9)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
-*   [common-lisp-actors (⭐99)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [common-lisp-actors (⭐97)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [memento-mori (⭐30)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
 
 ### Date and time / Third-party APIs
@@ -339,7 +339,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Online Resources / Other Lists Online
 
-*   [AWS Tool Arsenal (⭐7.5k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
+*   [AWS Tool Arsenal (⭐7.7k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
 
 ## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -509,7 +509,7 @@ Topics: CSS, CSS in JS, React\
 ### Document
 
 *   [Arm](https://developer.arm.com/solutions/graphics/apis/vulkan)
-    *   [Vulkan Best Practice for Mobile Developers Tutorials (⭐518)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+    *   [Vulkan Best Practice for Mobile Developers Tutorials (⭐525)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
     *   [Vulkan's Key Features on Arm Architecture](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Vulkan%20API%20key%20features%20on%20ARM%20architecture.pdf)
     *   [Porting a Graphics Engine to the Vulkan API](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
     *   [Get Your Engine Ready for Vulkan on Mobile](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Get%20Your%20Engine%20Ready%20for%20Vulkan%20on%20Mobile.pdf)
@@ -518,12 +518,12 @@ Topics: CSS, CSS in JS, React\
 
 ### Samples
 
-*   [Vulkan Best Practice for Mobile Developers Samples (⭐518)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+*   [Vulkan Best Practice for Mobile Developers Samples (⭐525)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 
 ### Tools
 
 *   [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
-*   [Arm - PerfDoc (⭐112)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
+*   [Arm - PerfDoc (⭐111)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 
 ## [38. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -550,15 +550,15 @@ Topics: CSS, CSS in JS, React\
 
 ### UI
 
-*   [Scratcher (⭐386)](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
+*   [Scratcher (⭐404)](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 
 ### UI / Effect
 
-*   [PhotoFilters (⭐333)](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
+*   [PhotoFilters (⭐336)](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
 
 ### Monetization / Preferences
 
-*   [Admob Flutter (⭐415)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
+*   [Admob Flutter (⭐418)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 
 ## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -763,15 +763,15 @@ Topics: CSS, CSS in JS, React\
 
 ### CLI
 
-*   [Lyra (⭐385)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐389)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Web Application Framework
 
-*   [C++ REST SDK (⭐7.1k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
+*   [C++ REST SDK (⭐7.2k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
 
 ### Static Code Analysis
 
-*   [IKOS (⭐1.7k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
+*   [IKOS (⭐1.8k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
 ## [59. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
@@ -937,7 +937,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐379)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐396)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -945,11 +945,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Groupware
 
-*   [HRCloud2 (⭐177)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
-
-### Software / Miscellaneous
-
-*   [411 (⭐973)](https://github.com/etsy/411) - Alert Management Web Application. `MIT` `PHP`
+*   [HRCloud2 (⭐180)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
 
 ### Software / Pastebins
 
@@ -999,7 +995,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Command Line
 
-*   [SwiftShell (⭐972)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
+*   [SwiftShell (⭐973)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 
 ### Dependency Injection
 
@@ -1046,7 +1042,7 @@ Topics: CSS, CSS in JS, React\
 ### Official Resources
 
 *   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐6.5k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [GitHub Repository (⭐6.7k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 *   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 *   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 
@@ -1135,7 +1131,7 @@ Topics: CSS, CSS in JS, React\
 
 ### ORM/ODM Extensions
 
-*   [crecto (⭐340)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
+*   [crecto (⭐341)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
 ## [79. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

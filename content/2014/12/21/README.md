@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Natural Language Processing
 
-*   [Text (⭐576)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+*   [Text (⭐577)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 
 ### Queues and Messaging
 
-*   [Que (⭐2.1k)](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
+*   [Que (⭐2.2k)](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 
 ### Web Servers
 

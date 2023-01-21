@@ -2,7 +2,7 @@
 
 35 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,19 +29,19 @@
 
 ### Models/Projects
 
-*   [Domain Transfer Network (⭐863)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
+*   [Domain Transfer Network (⭐864)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Environment Management
 
-*   [asdf-crystal (⭐67)](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
+*   [asdf-crystal (⭐68)](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Playbooks
 
-*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐945)](https://github.com/PagerDuty/incident-response-docs).
+*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐955)](https://github.com/PagerDuty/incident-response-docs).
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -227,11 +227,11 @@
 
 ### Trading
 
-*   [Lean (⭐6.9k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐7k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
-*   [ASP.NET Core Library and Framework Support (⭐202)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
+*   [ASP.NET Core Library and Framework Support (⭐204)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 
 ## [19. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -272,13 +272,13 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐3.3k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐3.4k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐810)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐819)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -316,7 +316,7 @@
 
 ### CAD Specific / KiCad
 
-*   [Keyboard PCB Guide (⭐3.5k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+*   [Keyboard PCB Guide (⭐3.6k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Blogs / Eagle
 
@@ -357,7 +357,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐755)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐757)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [30. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -385,7 +385,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### For Electron / Other
 
-*   [elemon (⭐72)](https://github.com/manidlou/elemon) - Live-reload your app during development.
+*   [elemon (⭐71)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 
 ## [33. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -411,18 +411,18 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Interactive / Other
 
-*   [Shader-school (⭐4k)](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
+*   [Shader-school (⭐4.1k)](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
 
 ### Math / Other
 
 *   [Math as code (⭐14k)](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
-*   [Eases (⭐369)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
+*   [Eases (⭐374)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 *   [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
 
 ### Inspiration / Other
 
 *   [Chrome Experiments](https://www.chromeexperiments.com/) - Showcase of web experiments written by the creative coding community.
-*   [People You Should Follow on CodePen (⭐632)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐644)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 ### Blogs • Websites / Other
 
@@ -431,10 +431,10 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Related / Other
 
-*   [Awesome opengl (⭐1.7k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*   [Awesome canvas (⭐1.2k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+*   [Awesome opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [Awesome canvas (⭐1.3k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 *   [Awesome audio visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-*   [Awesome computer vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+*   [Awesome computer vision (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
 ## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

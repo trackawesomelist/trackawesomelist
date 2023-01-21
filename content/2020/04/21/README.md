@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,17 +16,17 @@
 
 ### Plugins
 
-*   [tmux-tilish (⭐278)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
+*   [tmux-tilish (⭐286)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [evt (⭐389)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+*   [evt (⭐391)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 
 ### Tools / XML
 
-*   [denoify (⭐776)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+*   [denoify (⭐807)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 
 ## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Decentralized Systems
 
-*   [Waves (⭐68)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+*   [Waves (⭐70)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -105,11 +105,11 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Joystream (⭐151)](https://github.com/Joystream/joystream) — A user governed video platform [![Build Status](https://api.travis-ci.org/Joystream/joystream.svg?branch=master)](https://travis-ci.org/Joystream/joystream)
+*   [Joystream (⭐152)](https://github.com/Joystream/joystream) — A user governed video platform [![Build Status](https://api.travis-ci.org/Joystream/joystream.svg?branch=master)](https://travis-ci.org/Joystream/joystream)
 
 ### Development tools / Web Servers
 
-*   [Rust Search Extension (⭐949)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
+*   [Rust Search Extension (⭐974)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -162,13 +162,13 @@
 
 ### Serialization
 
-*   [Ceras (⭐442)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
-*   [Protobuf.NET (⭐4k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
+*   [Ceras (⭐441)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
+*   [Protobuf.NET (⭐4.1k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 
 ### Testing
 
 *   [SpecFlow (⭐2k)](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
-*   [xUnit.net (⭐3.5k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+*   [xUnit.net (⭐3.6k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 *   [ReportPortal](https://reportportal.io) - AI-powered Test Automation Dashboard. Acquire, aggregate and analyze test reports to ascertain release health.
 
 ---

@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 25, 2020
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,8 +10,8 @@
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-boilerplate (⭐50)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-*   [gb-starter-kit (⭐34)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+*   [gb-boilerplate (⭐51)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
+*   [gb-starter-kit (⭐36)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 
 ## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -25,25 +25,19 @@
 
 *   [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 
-## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Codelabs
-
-*   [Introduction to Storybook for Web Components](https://sinhapiyush.hashnode.dev/introduction-to-storybook-for-web-components)
-
-## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Notification
 
-*   [react-hot-toast (⭐6.2k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default.
+*   [react-hot-toast (⭐6.4k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default.
 
-## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simultaneous Localization and Mapping / Lidar
 
 *   [LIO\_SAM (⭐2k)](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
 
-## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Community
 

@@ -2,19 +2,23 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Bash / Non-X86
+### Containers
 
-*   [Conquer the Command Line](https://magpi.raspberrypi.org/books/command-line-second-edition/pdf/download) - Richard Smedley (PDF)
+*   [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 
-### PHP / PicoLisp
+### Data Science
 
-*   [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
+*   [Mining of Massive Datasets](http://infolab.stanford.edu/\~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
+
+### Graphical User Interfaces
+
+*   [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -26,19 +30,19 @@
 
 ### Applications
 
-*   [SimpleX chat (⭐2k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+*   [SimpleX chat (⭐2.2k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [BoxCam2D (⭐11)](https://github.com/samdaiya/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
+*   [BoxCam2D (⭐12)](https://github.com/samdaiya/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 
 ## [5. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [FAE (⭐802)](https://github.com/wearefine/fae/) - A modern CMS deveveloped by FINE (using Rails 5.2)
+*   [FAE (⭐804)](https://github.com/wearefine/fae/) - A modern CMS deveveloped by FINE (using Rails 5.2)
 
 ## [6. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -70,11 +74,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [weilbith/nvim-code-action-menu (⭐426)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
+*   [weilbith/nvim-code-action-menu (⭐448)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐144)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.4k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐152)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.5k)](https://github.com/honza/vim-snippets).
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -86,7 +90,7 @@
 
 ### Applications / Text editors
 
-*   [ilai-deutel/kibi (⭐866)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+*   [ilai-deutel/kibi (⭐893)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

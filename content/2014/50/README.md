@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 15 - Dec 21, 2014
 
-14 awesome lists updated this week.
+13 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,19 +19,13 @@
 *   [`RegExp.prototype.match`](https://github.com/mathiasbynens/RegExp.prototype.match)
 *   [`RegExp.prototype.search`](https://github.com/mathiasbynens/RegExp.prototype.search)
 
-## [3. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
-
-## [4. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Security
 
 *   [bundler-audit (⭐2.5k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 
-## [5. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [4. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### Hybrid Desktop / Resources-websites-projects
 
@@ -62,7 +56,7 @@
 *   Push to the branch: `git push origin my-new-branch`
 *   Submit a pull request
 
-## [6. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [5. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Tutorials and articles
 
@@ -72,7 +66,7 @@
 
 *   [Backbone.js Fundamentals](http://www.pluralsight.com/courses/backbone-fundamentals)
 
-## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
@@ -86,31 +80,31 @@
 
 *   [fullPage (⭐34k)](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct)
 
-## [9. Awesome Radio](/content/kyleterry/awesome-radio/week/README.md)
+## [8. Awesome Radio](/content/kyleterry/awesome-radio/week/README.md)
 
 ### Amateur Radio (a.k.a Ham Radio) / Links
 
 *   [Slow-scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Other Awesome Projects
 
 *   [awesome-algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
-## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [10. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Newsletters
 
 *   [Pycoder's Weekly](http://pycoders.com/)
 
-## [12. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [11. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / OpenResty
 
@@ -125,13 +119,13 @@
 
 *   [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) - A comprehensive list of stand-alone programs written in or extensible using Lua.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [deap (⭐4.9k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
-## [14. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Language API
 

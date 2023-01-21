@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,19 +26,19 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐193)](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
+*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐196)](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
 
 ### Software / Automation
 
-*   [Episodes (⭐212)](https://github.com/guptachetan1997/Episodes) `⚠` - Self Hosted TV show Episode tracker and recommender built using django, bootstrap4. `MIT` `Python`
+*   [Episodes (⭐215)](https://github.com/guptachetan1997/Episodes) `⚠` - Self Hosted TV show Episode tracker and recommender built using django, bootstrap4. `MIT` `Python`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Expressa (⭐401)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
+*   [Expressa (⭐403)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
 
 ### Software / Personal Dashboards
 
-*   [Organizr (⭐4.1k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
+*   [Organizr (⭐4.2k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
 
 ## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -123,18 +123,18 @@
 
 ### Angular / Themes
 
-*   [NG-ZORRO-Mobile (⭐768)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
+*   [NG-ZORRO-Mobile (⭐772)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
 *   [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ### Vue.js / Themes
 
-*   [ant-design-vue (⭐17k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
+*   [ant-design-vue (⭐18k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
 *   [antue (⭐257)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
 *   [vue-antd-admin (⭐3.2k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
 
 ### Icons / Themes
 
-*   [Official Ant Design Icons (⭐745)](http://github.com/ant-design/ant-design-icons)
+*   [Official Ant Design Icons (⭐772)](http://github.com/ant-design/ant-design-icons)
 
 ### Other / Themes
 
@@ -151,7 +151,7 @@
 
 ### IoC
 
-*   [Stashbox (⭐118)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [Stashbox (⭐119)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ---
 

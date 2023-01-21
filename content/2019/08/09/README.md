@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -450,17 +450,17 @@
 
 ### Resources / Controllers
 
-*   [sdl2gdx (⭐56)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
+*   [sdl2gdx (⭐57)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
 
 ### Resources / Visual Effects
 
-*   [Shape Drawer (⭐152)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+*   [Shape Drawer (⭐157)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [Large scale Vue.js application boilerplate + Vuex (⭐260)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
+*   [Large scale Vue.js application boilerplate + Vuex (⭐261)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
 
 ---
 

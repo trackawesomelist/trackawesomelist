@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [tinyhttp (⭐2.3k)](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
+*   :octocat: [tinyhttp (⭐2.4k)](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -84,21 +84,21 @@ Language: English
 
 ### Tools / Vendor supported providers
 
-*   [terraformer (⭐9k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
+*   [terraformer (⭐9.3k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [AudioFile (⭐674)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
+*   [AudioFile (⭐679)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
 
 ### CSV
 
-*   [csv2 (⭐344)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
+*   [csv2 (⭐349)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
 
 ### GUI
 
-*   [Elements (⭐2.4k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
+*   [Elements (⭐2.5k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -114,13 +114,12 @@ Language: English
 
 ### Publications / Reviews
 
-*   [Applications in image-based profiling of perturbations](https://doi.org/10.1016/j.copbio.2016.04.003) - Describes applications of image-based profiling including target and MOA identification, lead hopping, library enrichment, gene annotation and identification of disease-specific phenotypes
+*   [Applications in image-based profiling of perturbations](https://doi.org/10.1016/j.copbio.2016.04.003) - Describe applications of image-based profiling including target and MOA identification, lead hopping, library enrichment, gene annotation and identification of disease-specific phenotypes
 
 ### Publications / Applications
 
 *   [Bioactivity screening of environmental chemicals using imaging-based high-throughput phenotypic profiling](https://doi.org/10.1016/j.taap.2019.114876) - Use of image-based profiling to screen the bioactivity of environmental chemicals
 *   [Repurposing High-Throughput Image Assays Enables Biological Activity Prediction for Drug Discovery](https://doi.org/10.1016/j.chembiol.2018.01.015) - Using image-based profiles to predict the bioactivity of small molecules in other unrelated assays.
-*   [Tales of 1,008 Small Molecules: Phenomic Profiling through Live-cell Imaging in a Panel of Reporter Cell Lines](https://doi.org/10.1101/2020.03.13.990093) - Demonstrating the effects of polypharmacology in MOA prediction while offering solutions for overcoming it in future image-based profiling studies.
 
 ### Publications / Methods
 
@@ -138,15 +137,15 @@ Language: English
 
 ### Examples and funny stuff
 
-*   [phoenix-chat-example (⭐624)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
-*   [phoenix-liveview-counter-tutorial (⭐236)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
-*   [phoenix-todo-list-tutorial (⭐114)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
+*   [phoenix-chat-example (⭐638)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
+*   [phoenix-liveview-counter-tutorial (⭐243)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
+*   [phoenix-todo-list-tutorial (⭐121)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### HTTP Servers / Hunchentoot plugins
 
-*   [hunchentoot-errors (⭐6)](https://github.com/mmontone/hunchentoot-errors) - Augments Hunchentoot error pages and logs with request and session information. [MIT](https://opensource.org/licenses/MIT).
+*   [hunchentoot-errors (⭐8)](https://github.com/mmontone/hunchentoot-errors) - Augments Hunchentoot error pages and logs with request and session information. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 

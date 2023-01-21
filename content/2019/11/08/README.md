@@ -2,13 +2,13 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Build and software organization tools
+### Software / Build and software organization tools
 
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
@@ -41,7 +41,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Zeithub (⭐57)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
+*   [Zeithub (⭐58)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Math
 
-*   [CNL (⭐552)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐554)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

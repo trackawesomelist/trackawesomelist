@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,8 +24,6 @@
 
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-*   [Qubes OS Github Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest documentation.
-*   [Qubes OS Onion](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ### Downloading, Installing, Upgrading, and Building
 
@@ -44,19 +42,19 @@
 *   [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
 *   [GUI-virtualization](https://www.qubes-os.org/doc/gui/)
 *   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-*   [Install-nvidia-driver (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
-*   [Nvidia-troubleshooting (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
-*   [Windows-gaming-hvm (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
+*   [Install-nvidia-driver (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
+*   [Nvidia-troubleshooting (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
+*   [Windows-gaming-hvm (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
 ### Desktop Customization
 
 *   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
 *   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-*   [Suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
+*   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ### VPN
 
-*   [Qubes-Tunnel (⭐15)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+*   [Qubes-Tunnel (⭐16)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 
 ### Crypto
 
@@ -65,7 +63,6 @@
 ### Videos
 
 *   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
-*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
 *   [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
 *   [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
@@ -81,49 +78,50 @@
 
 *   [Awesome-Virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
-### Kernels
+### Kernels / Microkernels
 
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
 
-### Unikernels
+### Kernels / Unikernels
 
-*   [Awesome-Unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
+*   [Awesome-Unikernels (⭐22)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
 *   [Qubes-Mirage-Firewall (⭐184)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
-### Exploitation Tools
+### Exploitation Tools / Unikernel-like
 
-*   [Awesome-Fuzzing (⭐611)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
-*   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
-*   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
+*   [Awesome-Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
+*   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-*   [Memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-    *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+*   [Memflow (⭐414)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+    *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
+    *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
     *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-    *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files
+    *   [Qemu\_procfs (⭐22)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+    *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
-*   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
+*   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 
-### Xen Exploitation
+### Xen Exploitation / Video Presentations
 
 *   [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
-*   [Subverting the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
-*   [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
+*   [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
 
-### VM-Hardening
+### VM-Hardening / Web articles
 
 *   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
 
-### Qubes OS Legends
+### Qubes OS Legends / Web articles
 
+*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories)
-    *   [templates](https://qubes.3isec.org/Templates_4.1/)
-*   You can be one too! You've got this! Keep Qubing!
+    *   [Templates](https://qubes.3isec.org/Templates_4.1/)
+    *   [Unman Install Scripts (⭐12)](https://github.com/unman/shaker)
 
-### Social media
+### Social media / Web articles
 
 *   [Mastodon](https://mastodon.social/@QubesOS)
-*   `#qubes` channel on libera.chat via traditional IRC clients.
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -189,17 +187,13 @@
 
 *   [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 
-## [12. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Language Agnostic / React.js
+### Professional Development
 
-*   [Coder Radio](https://coder.show) - Chris Fisher, Michael Dominick, Wes Payne (podcast)
-*   [Lex Fridman Podcast](https://lexfridman.com/podcast) - Lex Fridman (podcast)
-
-### Swift / React.js
-
-*   [Swift Unwrapped](https://swiftunwrapped.github.io) - Jesse Squires, JP Simard (podcast)
+*   [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
 
 ---
 
+- Prev: [Jan 10, 2023](/content/2023/01/10/README.md)
 - Next: [Jan 08, 2023](/content/2023/01/08/README.md)

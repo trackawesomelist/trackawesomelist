@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 16 - Feb 22, 2015
 
-15 awesome lists updated this week.
+14 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,31 +18,25 @@
 
 *   [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Arduino
-
-*   [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
-
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
 *   [SwiftEventBus (⭐1k)](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 
-## [5. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [4. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Language Utilities
 
 *   [groovy-common-extensions (⭐71)](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [5. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / App Repackaging Detectors
 
 *   [FSquaDRA (⭐67)](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
 
-## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -84,19 +78,19 @@
 
 
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
 *   [PyStanfordDependencies (⭐64)](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 
 *   [ESL (⭐834)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 
-## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -105,13 +99,13 @@
 *   [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
 *   [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Natural Language Processing
 
-*   [Pragmatic Segmenter (⭐504)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+*   [Pragmatic Segmenter (⭐506)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 
-## [12. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [11. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Functional Programming
 
@@ -121,11 +115,11 @@
 
 *   [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** \[59:12]
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Eventhandling
 
-*   [reaxive (⭐275)](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
+*   [reaxive (⭐276)](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
 
 ### Examples and funny stuff
 
@@ -135,7 +129,7 @@
 
 *   [http (⭐11)](https://github.com/slogsdon/http) - HTTP server for Elixir.
 
-## [14. Htaccess](/content/phanan/htaccess/week/README.md)
+## [13. Htaccess](/content/phanan/htaccess/week/README.md)
 
 ### Rewrite and Redirection / Force non-www in a Generic Way
 
@@ -257,7 +251,7 @@ AddHandler application/x-httpd-php56 .php
 AddType application/x-httpd-php56 .php
 ```
 
-## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [14. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 

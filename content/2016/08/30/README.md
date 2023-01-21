@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -55,16 +55,16 @@
 
 ### Database
 
-*   [Ignite (⭐4.3k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
+*   [Ignite (⭐4.4k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 
 ### IoC
 
-*   [Microsoft.Extensions.DependencyInjection (⭐876)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
+*   [Microsoft.Extensions.DependencyInjection (⭐877)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
 *   [Scrutor (⭐2.7k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 
 ### Markdown Processors
 
-*   [markdig (⭐3.3k)](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+*   [markdig (⭐3.4k)](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 ### ORM
 

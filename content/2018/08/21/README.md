@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Algorithms and Data structures
 
-*   [bisect (⭐10)](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
+*   [bisect (⭐11)](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
 
 ### Processes and Threads
 
@@ -59,7 +59,7 @@
 
 ### Images / Barcode
 
-*   [ATGMediaBrowser (⭐199)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+*   [ATGMediaBrowser (⭐200)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Contract programming
 
-*   [quid-pro-quo (⭐90)](https://github.com/sellout/quid-pro-quo) - a contract
+*   [quid-pro-quo (⭐92)](https://github.com/sellout/quid-pro-quo) - a contract
     programming library in the style of Eiffel’s Design by Contract ™. Public domain.
 
 ### Beginner

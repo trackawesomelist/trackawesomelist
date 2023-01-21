@@ -2,7 +2,7 @@
 
 A curated list of awesome groovy libraries, frameworks and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdabir/awesome-groovy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy) · ⭐ 659 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdabir/awesome-groovy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy) · ⭐ 659 · 🏷️ Programming Languages
 
 [ [Daily](/content/kdabir/awesome-groovy/README.md) / [Weekly](/content/kdabir/awesome-groovy/week/README.md) / Overview ]
 

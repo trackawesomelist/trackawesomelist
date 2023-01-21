@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Extensions
 
-*   [Next PurgeCSS (⭐130)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
+*   [Next PurgeCSS (⭐132)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 
 ### Books
 
@@ -36,7 +36,7 @@
 
 *   [Open Product Management (⭐3.3k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 *   [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
-*   [How to exit vim, the Product Manager way (⭐6.2k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+*   [How to exit vim, the Product Manager way (⭐6.3k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Compensation / Equity
 
@@ -52,7 +52,7 @@
 
 ### Cloud Data Warehousing / Playground
 
-*   :sparkles: [Crisp BigQuery (⭐35)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+*   :sparkles: [Crisp BigQuery (⭐36)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
 
 ### CMS / Playground
 
@@ -62,7 +62,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐309)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐314)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

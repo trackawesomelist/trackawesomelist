@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -63,7 +63,7 @@
 
 ### RSS2TelegramChannel / Docsify
 
-*   [Newspopper (⭐11)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
+*   [Newspopper (⭐12)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
 *   [Rui (⭐5)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
 
 ### RSS2WIDGET / For website
@@ -88,7 +88,7 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐269)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐298)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -154,8 +154,8 @@
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐212)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐35)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+*   [Awesome Lattice FPGAs (⭐222)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐38)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐285)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐314)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [9. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

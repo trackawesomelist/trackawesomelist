@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -122,7 +122,7 @@
 ### Communications / Cryptography
 
 *   [mpyaes (⭐15)](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
-*   [micropython-aes (⭐11)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
+*   [micropython-aes (⭐13)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 
 ### Communications / RTC
 
@@ -130,17 +130,17 @@
 
 ### Display / E-Paper
 
-*   [ssd1675a (⭐7)](https://github.com/mattytrentini/ssd1675a) - Driver for SSD1675 based E-Paper displays.
+*   [ssd1675a (⭐7)](https://github.com/mattytrentini/ssd1675a) - Driver for SSD1675-based e-paper displays.
 
 ### Display / GUI
 
-*   [lvgl (⭐152)](https://github.com/lvgl/lv_binding_micropython) - An object oriented component based high-level GUI library with MicroPython binding.
-*   [micropython-lcd160cr-gui (⭐25)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch driven event based GUI for the Pyboard and LCD160CR colour display.
+*   [lvgl (⭐156)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
+*   [micropython-lcd160cr-gui (⭐25)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
 *   [micropython\_ra8875 (⭐7)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 
 ### Sensors / Camera
 
-*   [micropython-camera-driver (⭐241)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
+*   [micropython-camera-driver (⭐250)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 
 ### Sensors / Temperature Digital
 
@@ -154,8 +154,8 @@
 
 ### Frameworks / SRAM
 
-*   [micrOS (⭐45)](https://github.com/BxNxM/micrOS) - MicroPython based IoT Framework.
-*   [terkin-datalogger (⭐43)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
+*   [micrOS (⭐49)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
+*   [terkin-datalogger (⭐45)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ### Code Generation / SRAM
 

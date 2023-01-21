@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,18 +36,18 @@
 
 ### Authentication
 
-*   [oauther (⭐65)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
+*   [oauther (⭐64)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 
 ### Build Tools
 
 *   [coffee\_rotor (⭐15)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 *   [reltool\_util (⭐26)](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
-*   [rotor (⭐83)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
+*   [rotor (⭐82)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 
 ### Cloud Infrastructure and Management
 
 *   [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
-*   [nodefinder (⭐56)](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
+*   [nodefinder (⭐57)](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
 *   [sidejob (⭐99)](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 
 ### Configuration
@@ -69,12 +69,12 @@
 
 ### Images
 
-*   [mogrify (⭐522)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐523)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### Miscellaneous
 
 *   [address\_us (⭐25)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
-*   [erlang\_term (⭐31)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
+*   [erlang\_term (⭐32)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 *   [keys1value (⭐1)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 
 ### ORM and Datamapping
@@ -88,7 +88,7 @@
 
 ### Queue
 
-*   [pqueue (⭐163)](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
+*   [pqueue (⭐164)](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 
 ### Statistics
 
@@ -97,7 +97,7 @@
 ### Text and Numbers
 
 *   [dicer (⭐3)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
-*   [quickrand (⭐36)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
+*   [quickrand (⭐38)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 *   [uuid\_erl (⭐205)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ### Third Party APIs
@@ -106,7 +106,7 @@
 *   [forecast\_io (⭐7)](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 *   [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 *   [link\_shrinkex (⭐8)](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
-*   [mailgun (⭐189)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
+*   [mailgun (⭐190)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 *   [parsex (⭐1)](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 
 ### XML

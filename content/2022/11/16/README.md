@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Libraries / New Libraries
 
-*   [econpizza (⭐12)](https://github.com/gboehl/econpizza) - Solve macroeconomic models with hetereogeneous agents using JAX. <img src="https://img.shields.io/github/stars/gboehl/econpizza?style=social" align="center">
+*   [econpizza (⭐16)](https://github.com/gboehl/econpizza) - Solve macroeconomic models with hetereogeneous agents using JAX. <img src="https://img.shields.io/github/stars/gboehl/econpizza?style=social" align="center">
 
 ## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Cryptography
 
-*   [HEhub (⭐57)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐61)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Integrated Development Environment
 
@@ -115,19 +115,19 @@
 
 ### SQL Query Builders
 
-*   [builq (⭐39)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
+*   [builq (⭐45)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 
 ## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Machine Learning / Automated Machine Learning
 
-*   [AutoGluon (⭐5k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [AutoGluon (⭐5.2k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Data Manipulation / Data-centric AI
 
-*   [cleanlab (⭐4.2k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-*   [snorkel (⭐5.3k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-*   [dataprep (⭐1.4k)](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
+*   [cleanlab (⭐4.4k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [snorkel (⭐5.4k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+*   [dataprep (⭐1.5k)](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
 
 ### Related Resources / NLP
 
@@ -135,7 +135,7 @@
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### DreamBooth
+### Hypertechniques / DreamBooth
 
 *   [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth): experiments to analyze the effect of different settings in Dreambooth
 
@@ -162,7 +162,7 @@
 
 ### Hardware / Opcodes
 
-*   [dmg-schematics (⭐3)](https://github.com/msinger/dmg-schematics) - Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.
+*   [dmg-schematics (⭐6)](https://github.com/msinger/dmg-schematics) - Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.
 
 ## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -181,7 +181,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vue USWDS (⭐6)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
+*   [Vue USWDS (⭐5)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 
 ## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -191,11 +191,11 @@
 
 ### Templates / React
 
-*   [vite-plugin-react-views (⭐5)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
+*   [vite-plugin-react-views (⭐4)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 
 ### Templates / Electron
 
-*   [Vutron (⭐30)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐37)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -203,7 +203,7 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [cypress-vite (⭐26)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [cypress-vite (⭐28)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 ## [17. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -211,25 +211,11 @@
 
 *   [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
 
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### C++ / Non-X86
+### Security & Privacy
 
-*   [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) - Alex Allain
-
-### JavaScript / Wicket
-
-*   [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
-
-### JavaScript / Node.js
-
-*   [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
-*   [Serverless framework getting started](https://www.serverless.com/framework/docs/getting-started)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
-*   [Use The Index, Luke!: A Guide To SQL Database Performance](https://use-the-index-luke.com) - Markus Winand (HTML)
+*   [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/\~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
 
 ---
 

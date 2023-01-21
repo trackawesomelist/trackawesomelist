@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,11 +19,11 @@
 
 *   [Other Todo MVC (⭐1)](https://github.com/shapkarin/imba-todo) - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc (⭐28k)](https://github.com/tastejs/todomvc) rules.
 
-## [3. Awesome React](/content/enaqx/awesome-react/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
-### React Tools / React Awesome Components
+### UI Layout / Syntax Highlight
 
-*   [react-spaces (⭐1.1k)](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components
+*   [react-spaces (⭐1.1k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -36,8 +36,8 @@
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
-*   [Stronghold (⭐972)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-*   [macOS Fortress (⭐369)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+*   [Stronghold (⭐979)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
+*   [macOS Fortress (⭐375)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
 ## [6. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Datasets / Genetic Perturbations
 
-*   [Singh et al. 2015](https://doi.org/10.1371/journal.pone.0131370) - 3,072 cell painting profiles from 41 genes knocked down with RNA interference (RNAi) in U2OS cells ([Access from GitHub (⭐16)](https://github.com/carpenterlab/2016_bray_natprot/blob/6dcdcf72cd90bb2dbf238b3ecf94691246d8f104/supplementary_files/profiles.csv.zip)).
+*   [Singh et al. 2015](https://doi.org/10.1371/journal.pone.0131370) - 3,072 cell painting profiles from 41 genes knocked down with RNA interference (RNAi) in U2OS cells ([Access from GitHub (⭐17)](https://github.com/carpenterlab/2016_bray_natprot/blob/6dcdcf72cd90bb2dbf238b3ecf94691246d8f104/supplementary_files/profiles.csv.zip)).
 
 ## [10. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 

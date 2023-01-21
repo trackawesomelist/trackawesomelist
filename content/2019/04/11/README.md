@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Dependency Managers
 
-*   [Accio (⭐646)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+*   [Accio (⭐647)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
 
 ## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Graphics
 
-*   [Blend2D (⭐1.1k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
+*   [Blend2D (⭐1.2k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 
 ## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome resources related to the Ada and SPARK programming language
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ohenley/awesome-ada/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ohenley/awesome-ada](https://github.com/ohenley/awesome-ada) · ⭐ 452 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ohenley/awesome-ada/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ohenley/awesome-ada](https://github.com/ohenley/awesome-ada) · ⭐ 452 · 🏷️ Programming Languages
 
 [ [Daily](/content/ohenley/awesome-ada/README.md) / [Weekly](/content/ohenley/awesome-ada/week/README.md) / Overview ]
 

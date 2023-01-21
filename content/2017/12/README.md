@@ -2,7 +2,7 @@
 
 51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -252,7 +252,7 @@ git log -S'<a term in the source>'
 
 ### E-Commerce and Payments
 
-*   [SimplCommerce (⭐3.7k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
+*   [SimplCommerce (⭐3.8k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 
 ### Queue
 
@@ -320,11 +320,11 @@ Webpage: <http://www.lerdevagar.com/>
 ### Components & Libraries / UI Components
 
 *   [vuedals (⭐106)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
-*   [sweet-modal-vue (⭐751)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
-*   [vue-masked-input (⭐452)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
+*   [sweet-modal-vue (⭐756)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+*   [vue-masked-input (⭐451)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐25)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐425)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐427)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 
@@ -359,7 +359,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐583)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐585)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [36. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -491,11 +491,11 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Search
 
-*   [hermes (⭐36)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+*   [hermes (⭐37)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
 
 ### Task management
 
-*   [sam (⭐82)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐83)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [46. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

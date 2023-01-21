@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐206)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐207)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Resources / Packages
 
-*   [Tables for Laravel (⭐364)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.5k)](https://github.com/spatie/laravel-query-builder).
+*   [Tables for Laravel (⭐377)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.5k)](https://github.com/spatie/laravel-query-builder).
 
 ## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Libraries / Python
 
-*   [Beanie (⭐922)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+*   [Beanie (⭐972)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 
 ## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -332,7 +332,7 @@
 
 ### eBPF Workflow: Tools and Utilities / libbpf
 
-*   [libbpf-bootstrap (⭐450)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
+*   [libbpf-bootstrap (⭐472)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 
 ## [13. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 

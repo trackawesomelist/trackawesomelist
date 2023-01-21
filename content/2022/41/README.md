@@ -2,7 +2,7 @@
 
 62 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,7 +37,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nix-du (⭐186)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
+*   [nix-du (⭐192)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 
 ## [5. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -70,22 +70,22 @@
 
 ### OS and Kernels / Other / unknown licence
 
-*   [ironclad](https://nongnu.org/ironclad) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐19)](https://github.com/streaksu/Gloire).
+*   [ironclad](https://nongnu.org/ironclad) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐22)](https://github.com/streaksu/Gloire).
 
 ## [8. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Templates / Godot 3.5+
 
-*   [bendn's Godot Template (⭐2)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐9)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
+*   [bendn's Godot Template (⭐5)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐2)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [bend-n's 2D builds (⭐1)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐1)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
+*   [bend-n's 2D builds (⭐5)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐5)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
 
 ### Other / Godot version unknown
 
-*   [godot-actions (⭐2)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
-*   [Godot Package Manager (⭐9)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
+*   [godot-actions (⭐7)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
+*   [Godot Package Manager (⭐2)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 
 ## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -97,7 +97,7 @@
 
 ### ORM and Datamapping
 
-*   [ravix (⭐14)](https://github.com/YgorCastor/ravix) - RavenDB Driver for Elixir.
+*   [ravix (⭐13)](https://github.com/YgorCastor/ravix) - RavenDB Driver for Elixir.
 *   [ravix-ecto (⭐4)](https://github.com/YgorCastor/ravix-ecto) - RavenDB Ravix Driver adapter for Ecto.
 
 ## [11. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
@@ -155,7 +155,7 @@
 ### Applications / Emulators
 
 *   GameMaker
-    *   [OpenGMK (⭐143)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+    *   [OpenGMK (⭐149)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
 ## [14. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -171,7 +171,7 @@
 
 ## [15. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Cloud Orchestration
+### Software / Cloud Orchestration
 
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐13k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 
@@ -179,7 +179,7 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [MutableSecurity (⭐35)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
+*   [MutableSecurity (⭐37)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
 
 ## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -191,14 +191,14 @@
 
 ### Tools
 
-*   💼🔧 [tailwindcss-vite-plugin (⭐14)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-vite-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [NovelAI Improvements on Stable Diffusion | by NovelAI | Oct, 2022 | Medium](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
-*   [ashawkey/stable-dreamfusion (⭐3.3k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+*   [ashawkey/stable-dreamfusion (⭐3.5k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 
 ## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -287,13 +287,13 @@
 
 ## [29. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### Learning / Crash Courses
+### Crash Courses
 
 *   [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - Introduction to PyTeal, a Python framework to develop Smart Contract on Algorand (with [@matteojug](https://twitter.com/matteojug)).
 *   [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws) - Using PyTeal to develop *ABI-compliant* Smart Contracts on Algorand. Final live coding section (with [@\_deanste](https://twitter.com/_deanste)).
 *   [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY) - Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with [@HGKimChris](https://twitter.com/HGKimChris)).
 
-### Community / Projects
+### Projects / Wallets
 
 *   [AlgoPing (⭐3)](https://github.com/aorumbayev/algoping) - A tiny cron job that issues a [tweet](https://twitter.com/algoping) if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.
 
@@ -301,7 +301,7 @@
 
 ### Tools
 
-*   [Ansible Semaphore (⭐5.5k)](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
+*   [Ansible Semaphore (⭐5.6k)](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
 
 ### Playbooks, Roles and Collections / French
 
@@ -311,36 +311,36 @@
 
 ### (requires Neovim 0.5)
 
-*   [jose-elias-alvarez/typescript.nvim (⭐294)](https://github.com/jose-elias-alvarez/typescript.nvim) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
+*   [jose-elias-alvarez/typescript.nvim (⭐333)](https://github.com/jose-elias-alvarez/typescript.nvim) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 
 ### Media / Diagnostics
 
-*   [samodostal/image.nvim (⭐73)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
-*   [adelarsq/image\_preview.nvim (⭐29)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
+*   [samodostal/image.nvim (⭐77)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
+*   [adelarsq/image\_preview.nvim (⭐32)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
 
 ### Note Taking / Diagnostics
 
-*   [ostralyan/scribe.nvim (⭐13)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
+*   [ostralyan/scribe.nvim (⭐14)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
 
 ### Utility / Diagnostics
 
-*   [folke/noice.nvim (⭐1.6k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [folke/noice.nvim (⭐1.8k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 
 ### Scrollbar / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.map (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
+*   [echasnovski/mini.nvim#mini.map (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 
 ### Editing Support / Diagnostics
 
-*   [smjonas/live-command.nvim (⭐271)](https://github.com/smjonas/live-command.nvim) - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
+*   [smjonas/live-command.nvim (⭐284)](https://github.com/smjonas/live-command.nvim) - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
 
 ### Comment / Diagnostics
 
-*   [JoosepAlviste/nvim-ts-context-commentstring (⭐659)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
+*   [JoosepAlviste/nvim-ts-context-commentstring (⭐689)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
 
 ### Game / Diagnostics
 
-*   [rktjmp/shenzhen-solitaire.nvim (⭐21)](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire port.
+*   [rktjmp/shenzhen-solitaire.nvim (⭐23)](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire port.
 
 ## [32. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
@@ -357,63 +357,59 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [activeWorkflow (⭐625)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
+*   [activeWorkflow (⭐633)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
 *   [airCasting (⭐54)](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - [:earth\_africa:](https://www.habitatmap.org/aircasting)
-*   [alaveteli (⭐330)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
+*   [alaveteli (⭐333)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
 *   [api.rss (⭐344)](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
-*   [autolab (⭐652)](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
+*   [autolab (⭐656)](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
 *   [beatstream (⭐123)](https://github.com/Darep/Beatstream) - A music streaming app - using Rails 3.2
-*   [bike\_index (⭐242)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
-*   [blackCandy (⭐904)](https://github.com/aidewoode/black_candy) - A music streaming app (using Rails 7.0).
-*   [calagator (⭐407)](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
-*   [campo (⭐448)](https://github.com/chloerei/campo) - A forum app (using Rails 4.1). - [:earth\_africa:](https://codecampo.com/)
+*   [bike\_index (⭐244)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
+*   [calagator (⭐411)](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
+*   [campo (⭐448)](https://github.com/chloerei/campo) - A forum app (using Rails 4.1).
 *   [chatwoot (⭐14k)](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
 *   [codetriage (⭐1.3k)](https://github.com/codetriage/codetriage) - An open source project finder app (using Rails 7.0). - [:earth\_africa:](https://www.codetriage.com/)
-*   [coursemology2 (⭐118)](https://github.com/Coursemology/coursemology2) - Learning platform app (using Rails 6.0).
+*   [coursemology2 (⭐123)](https://github.com/Coursemology/coursemology2) - Learning platform app (using Rails 6.0).
 *   [crabgrass-core](https://0xacab.org/liberate/crabgrass) - A collaboration platform for activist groups (using Rails 5.2).
 *   [crowdtiltOpen (⭐592)](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - using Rails 6.1
 *   [cw-ovp (⭐18)](https://github.com/x1wins/CW-OVP) - video packaging to \*.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
 *   [danbooru (⭐1.6k)](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
-*   [dcaf\_case\_management (⭐83)](https://github.com/DCAFEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
-*   [dgidb (⭐87)](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
+*   [dgidb (⭐88)](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
 *   [diaspora (⭐13k)](https://github.com/diaspora/diaspora) - A social networking app - using Rails 6.1 - [:earth\_africa:](https://diasporafoundation.org)
 *   [discourse (⭐37k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
-*   [ekylibre (⭐295)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
+*   [ekylibre (⭐298)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
 *   [expertiza (⭐175)](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 5.1).
 *   [fairmondo (⭐108)](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 5.1). - [:earth\_africa:](https://www.fairmondo.de)
 *   [fat-free-crm (⭐3.4k)](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 6.1). - [:earth\_africa:](http://www.fatfreecrm.com/)
 *   [feedbin (⭐3k)](https://github.com/feedbin/feedbin) - A RSS reader app (using Rails 7.0). - [:earth\_africa:](https://feedbin.com)
 *   [forem (⭐20k)](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
-*   [fromthepage (⭐151)](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth\_africa:](https://www.fromthepage.com/)
+*   [fromthepage (⭐153)](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth\_africa:](https://www.fromthepage.com/)
 *   [gitlabhq (⭐23k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
-*   [growstuff (⭐381)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1). - [:earth\_africa:](https://www.growstuff.org/)
-*   [hackershare (⭐390)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
-*   [hitobito (⭐282)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
-*   [inaturalist (⭐520)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
+*   [growstuff (⭐387)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1). - [:earth\_africa:](https://www.growstuff.org/)
+*   [hackershare (⭐402)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
+*   [hitobito (⭐286)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
+*   [inaturalist (⭐525)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
 *   [lobsters (⭐3.4k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 7.0). - [:earth\_africa:](https://lobste.rs)
-*   [loomio (⭐2.1k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.org)
-*   [mastodon (⭐34k)](https://github.com/tootsuite/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
-*   [openFarm (⭐899)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
-*   [openproject (⭐6.2k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
+*   [loomio (⭐2.2k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
+*   [openFarm (⭐901)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
+*   [openproject (⭐6.3k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
 *   [openstreetmap-website (⭐1.6k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
-*   [otwarchive (⭐977)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
-*   [passwordPusher (⭐946)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
-*   [planningalerts-app (⭐77)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
+*   [otwarchive (⭐990)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
+*   [passwordPusher (⭐991)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
+*   [planningalerts-app (⭐78)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
 *   [popHealth (⭐126)](https://github.com/pophealth/popHealth) - A population health reporting app (using Rails 4.1).
 *   [publify (⭐1.8k)](https://github.com/publify/publify) - A blogging app (using Rails 6.1).
-*   [quant (⭐140)](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
-*   [racing\_on\_rails (⭐40)](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app (using Rails 6.1).
+*   [quant (⭐141)](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
+*   [racing\_on\_rails (⭐41)](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app (using Rails 6.1).
 *   [rapidFTR (⭐284)](https://github.com/rapidftr/RapidFTR) - An information provider app for aid workers (using Rails 4.0).
 *   [redmine (⭐2.5k)](https://github.com/edavis10/redmine) - A project management app (using Rails 6.1). - [:earth\_africa:](http://demo.redmine.org)
-*   [scholarsphere (⭐9)](https://github.com/psu-stewardship/scholarsphere) - A digital assets management app - using Rails 6.1
 *   [theodinproject (⭐2.2k)](https://github.com/TheOdinProject/theodinproject) - A teaching & learning platform (using Rails 6.1). - [:earth\_africa:](https://www.theodinproject.com/)
 *   [tracks (⭐1.1k)](https://github.com/TracksApp/tracks) - A goal tracking app (using Rails 6.0). - [:earth\_africa:](https://www.getontracks.org)
-*   [vglist (⭐128)](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth\_africa:](https://vglist.co/)
-*   [websiteOne (⭐138)](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1). - [:earth\_africa:](https://www.agileventures.org/)
+*   [vglist (⭐129)](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth\_africa:](https://vglist.co/)
+*   [websiteOne (⭐137)](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1).
 
 ### Gems / Other external resources
 
-*   [rails-mermaid\_erd (⭐9)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
+*   [rails-mermaid\_erd (⭐11)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
 
 ## [34. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -438,13 +434,13 @@
 ### Projects
 
 *   [note-to-yew (⭐2)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
-*   [yew-d3-example (⭐17)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
-*   [zzhack (⭐185)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
-*   [tchatche.rs (⭐88)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
+*   [yew-d3-example (⭐20)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
+*   [zzhack (⭐227)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
+*   [tchatche.rs (⭐100)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 
 ### Crates / Utils
 
-*   [Yew-Template (⭐18)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
+*   [Yew-Template (⭐21)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
 ## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -461,18 +457,18 @@
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐5.2k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-*   [Data science your way (⭐563)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐220)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [#tidytuesday (⭐5.3k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+*   [Data science your way (⭐564)](https://github.com/jadianes/data-science-your-way)
+*   [PySpark Cheatsheet (⭐224)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 *   [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
-*   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
-*   [Tutorials to get started on signal processings for machine learning (⭐18)](https://github.com/jinglescode/python-signal-processing)
+*   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.1k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+*   [Tutorials to get started on signal processings for machine learning (⭐20)](https://github.com/jinglescode/python-signal-processing)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐6k)](https://github.com/khangich/machine-learning-interview)
+*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐6.2k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
@@ -670,22 +666,22 @@
 
 ### Hobby / Book Deals (Affiliated) 🛍
 
-*   [Awesome Music Production (⭐555)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐589)](https://github.com/ad-si/awesome-music-production)
 
 ## [40. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Applications / Serialization
+### Serialization
 
-*   [vgura (⭐18)](https://github.com/gura-conf/vgura) - Official Gura parser for V.
+*   [vgura (⭐19)](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 
-### Libraries / Graphics
+### Graphics
 
-*   [vsl.vcl (⭐220)](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writting programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+*   [vsl.vcl (⭐230)](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writting programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 
-### Libraries / Scientific computing
+### Scientific computing
 
-*   [vsl (⭐220)](https://github.com/vlang/vsl) - VSL is a Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, VSL also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
-*   [vtl (⭐91)](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
+*   [vsl (⭐230)](https://github.com/vlang/vsl) - VSL is a Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, VSL also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
+*   [vtl (⭐94)](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
 
 ## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -719,9 +715,9 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fd (⭐1)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐49k)](https://github.com/junegunn/fzf) to browse directories.
-*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐483)](https://github.com/tokuhirom/plenv) version manager based on jenv.
-*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
+*   [fd (⭐2)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐49k)](https://github.com/junegunn/fzf) to browse directories.
+*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐488)](https://github.com/tokuhirom/plenv) version manager based on jenv.
+*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
 *   [senv (⭐0)](https://github.com/joepvd/senv) - Report presence of sensitive environment variables in the prompt
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
@@ -748,7 +744,7 @@
 
 ### Examples
 
-*   [OliverOverend/gym-simplifiedtetris (⭐3)](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage instructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
+*   [OliverOverend/gym-simplifiedtetris (⭐4)](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage instructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
 
 ## [46. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -760,20 +756,20 @@
 
 ### Graphics / Tile/Level Editors
 
-*   :tada: [Material Maker (⭐2.1k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
+*   :tada: [Material Maker (⭐2.2k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 
 ### Graphics / Animation
 
 *   :money\_with\_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 *   :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 *   🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
-*   :tada: [Pixel Composer (⭐70)](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
+*   :tada: [Pixel Composer (⭐144)](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
 *   :moneybag: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 *   :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: \[axys] ([https://github.com/axys1/axys (⭐254)](https://github.com/axys1/axys)) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+*   :tada: \[axys] ([https://github.com/axys1/axys (⭐278)](https://github.com/axys1/axys)) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 
 ### Game Jams / Voxel Editors
 
@@ -798,7 +794,7 @@
 ### Libraries/Frameworks / Misc
 
 *   [nickhristov/krakdown (⭐12)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
-*   [cretz/asmble (⭐544)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
+*   [cretz/asmble (⭐547)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 
 ### Projects / Android
 
@@ -807,12 +803,12 @@
 
 ### Android / Libraries
 
-*   [skydoves/balloon (⭐2.7k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
+*   [skydoves/balloon (⭐2.9k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
 *   [ChuckerTeam/chucker (⭐2.9k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
 ### Android / Multiplatform
 
-*   [Reedyuk/blue-falcon (⭐219)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
+*   [Reedyuk/blue-falcon (⭐223)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
 *   [cossacklabs/themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.
 
 ### Android / Boilerplate
@@ -823,7 +819,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [MetricFu (⭐610)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
+*   [MetricFu (⭐611)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
 
 ### Other / [Other](#other-1)
 
@@ -837,7 +833,7 @@
 
 ## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454\&hl=en\&as_sdt=0,5)].
 
@@ -845,7 +841,7 @@
 
 ### Software / Automation
 
-*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐208)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Ruby`
+*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐219)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Ruby`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -853,66 +849,65 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.4k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby`
+*   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.5k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby`
 
 ## [54. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Community plugins
 
-*   [File opener (⭐22)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
+*   [File opener (⭐32)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [OTA Updater (⭐191)](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
+*   [OTA Updater (⭐215)](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
 *   [Crisp (⭐3)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
-*   [Flash (⭐7)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
-*   [Mute (⭐0)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
-*   [Native Geocoder (⭐9)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+*   [Flash (⭐8)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
+*   [Mute (⭐1)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
+*   [Native Geocoder (⭐12)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 *   [Screen recorder (⭐4)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-*   [Purchases (⭐24)](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
-*   [In app Browser (⭐5)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+*   [Purchases (⭐30)](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [In app Browser (⭐7)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
 
 ### [Capawesome plugins](https://capawesome.io/)
 
-*   [Background tasks (⭐42)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
-*   [Badge (⭐59)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
+*   [Background tasks (⭐44)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
+*   [Badge (⭐62)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
 *   Firebase
-    *   [Analytics (⭐160)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
-    *   [App (⭐160)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
-    *   [Auth (⭐160)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
-    *   [Performance (⭐160)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
-    *   [Crashlytics (⭐160)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
-*   [Screen orientation (⭐18)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
-*   [Android dark mode (⭐23)](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
-*   [Native updates (⭐88)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
-*   [File picker (⭐35)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
-*   [Managed configuration (⭐3)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
+    *   [Analytics (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
+    *   [App (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
+    *   [Auth (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
+    *   [Performance (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
+    *   [Crashlytics (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
+*   [Screen orientation (⭐20)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
+*   [Native updates (⭐97)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
+*   [File picker (⭐38)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
+*   [Managed configuration (⭐4)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 *   [Photo editor (⭐6)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
 ## [55. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Monitoring
 
-*   [Sidekick (⭐1.5k)](https://github.com/runsidekick/sidekick) 💲 - Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.
+*   [Sidekick (⭐1.6k)](https://github.com/runsidekick/sidekick) 💲 - Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.
 
 ### Volume Management / Data
 
-*   [Docker Volume Backup (⭐605)](https://github.com/offen/docker-volume-backup) Backup Docker volumes locally or to any S3 compatible storage. By [@offen](https://github.com/offen)
+*   [Docker Volume Backup (⭐740)](https://github.com/offen/docker-volume-backup) Backup Docker volumes locally or to any S3 compatible storage. By [@offen](https://github.com/offen)
 
 ## [56. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Continuous Integration
 
-*   [gotestfmt (⭐342)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
-*   [woodpecker (⭐1.9k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+*   [gotestfmt (⭐350)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
+*   [woodpecker (⭐2k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
 ### Date and Time
 
-*   [go-anytime (⭐5)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
+*   [go-anytime (⭐8)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
 
 ### Distributed Systems
 
-*   [Kitex (⭐5.4k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
+*   [Kitex (⭐5.5k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
 
 ### Embeddable Scripting Languages
 
@@ -920,38 +915,38 @@
 
 ### Goroutines
 
-*   [go-actor (⭐20)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
+*   [go-actor (⭐22)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
 
 ### Utilities
 
-*   [retry-go (⭐1.3k)](https://github.com/avast/retry-go) - Simple library for retry mechanism.
+*   [retry-go (⭐1.4k)](https://github.com/avast/retry-go) - Simple library for retry mechanism.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Go in 7 days (⭐110)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
+*   [Go in 7 days (⭐116)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
 *   [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 
 ## [57. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Electron
 
-*   [Vitron (⭐4)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
+*   [Vitron (⭐3)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [tailwindcss-vite-plugin (⭐14)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
+*   [tailwindcss-vite-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-cp (⭐21)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
+*   [vite-plugin-cp (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-external (⭐21)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Provides a way of excluding dependencies from the runtime code and output bundles.
-*   [vite-plugin-mock-data (⭐21)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
-*   [vite-plugin-reverse-proxy (⭐21)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
-*   [vite-plugin-patch-env (⭐2)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
-*   [vite-plugin-conditional-compile (⭐6)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+*   [vite-plugin-external (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Provides a way of excluding dependencies from the runtime code and output bundles.
+*   [vite-plugin-mock-data (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
+*   [vite-plugin-reverse-proxy (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
+*   [vite-plugin-patch-env (⭐3)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
+*   [vite-plugin-conditional-compile (⭐12)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 
 ## [58. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -986,28 +981,26 @@
     integrate the official Magento 2 Search into your Alfred Workflows.
 *   [Mage Chrome Toolbar (⭐308)](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for
     Magento 2 by [MageSpecialist](https://github.com/magespecialist).
-*   [mage2.docker (⭐54)](https://github.com/aliuosio/mage2.docker) - Nginx(Pagespeed), MariaDB, PHP , Redis, Elastic Search
-    Configurator with Magento 2 installer (updated: 19 April 2020)
 *   [markshust/docker-magento (⭐1.8k)](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for
     Magento
-*   [Warden (⭐314)](https://github.com/davidalger/warden) - A CLI utility for working with docker-compose environments
+*   [Warden (⭐315)](https://github.com/davidalger/warden) - A CLI utility for working with docker-compose environments
     by [David Alger](https://davidalger.com/)
-*   [AmpersandHQ/ampersand-magento2-upgrade-patch-helper (⭐241)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)
+*   [AmpersandHQ/ampersand-magento2-upgrade-patch-helper (⭐242)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)
     *   Helper script to aid upgrading magento 2 websites by detecting overrides.
-*   [PhpStorm Magento2 Extension (⭐394)](https://github.com/magento/magento2-phpstorm-plugin) - Official PhpStorm Magento2
+*   [PhpStorm Magento2 Extension (⭐396)](https://github.com/magento/magento2-phpstorm-plugin) - Official PhpStorm Magento2
     Extension.
-*   [Masquerade (⭐218)](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic,
+*   [Masquerade (⭐219)](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic,
     locale-compatible data faker tool
 *   [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad)
     *   Chrome extension to create copy-pastable composer patch definition for vaimo/composer-patches.
 
 ### Development Utilities
 
-*   [Cypress Testing Suite (⭐129)](https://github.com/elgentos/magento2-cypress-testing-suite/) - A community-driven Cypress
+*   [Cypress Testing Suite (⭐136)](https://github.com/elgentos/magento2-cypress-testing-suite/) - A community-driven Cypress
     testing suite for Magento 2
-*   [Magento Cache Clean (⭐459)](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento
+*   [Magento Cache Clean (⭐461)](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento
     cache:clean with file watcher by Vinai Kopp]\(<https://twitter.com/vinaikopp>)
-*   Scopehints]\([https://github.com/avstudnitz/AvS\_ScopeHint2 (⭐132)](https://github.com/avstudnitz/AvS_ScopeHint2)) - Displays additional information in the Store Configuration
+*   Scopehints]\([https://github.com/avstudnitz/AvS\_ScopeHint2 (⭐133)](https://github.com/avstudnitz/AvS_ScopeHint2)) - Displays additional information in the Store Configuration
     by \[Andreas von Studnitz.
 *   [Magento 2 Configurator (⭐164)](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by
     CTI Digital to create and maintain database variables using files.
@@ -1024,7 +1017,7 @@
 
 *   [Deployer Magento2 Recipe (⭐9.7k)](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2
     deployment recipe for [deployer](https://deployer.org/).
-*   [Magento 2 Deployer Plus (⭐193)](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform
+*   [Magento 2 Deployer Plus (⭐194)](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform
     zero downtime deployments of Magento 2 projects.
 
 ### Localization
@@ -1033,22 +1026,22 @@
 
 ### Search
 
-*   [FastSimpleImport2 (⭐131)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+*   [FastSimpleImport2 (⭐130)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 
 ### CMS
 
-*   [Mageplaza Blog Extension (⭐112)](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog
+*   [Mageplaza Blog Extension (⭐113)](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog
     Extension.
-*   [Magento 2 Blog Extension by Magefan (⭐241)](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with
+*   [Magento 2 Blog Extension by Magefan (⭐243)](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with
     unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
-*   [Opengento GDPR (⭐118)](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module is a must have extension for the
+*   [Opengento GDPR (⭐119)](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module is a must have extension for the
     largest e-commerce CMS used in the world. The module helps to be GDPR compliant.
 
 ### Marketing
 
 *   [Magento 2 PDF (⭐56)](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based
     on [wkhtmltopdf](http://wkhtmltopdf.org/).
-*   [Google Tag Manager (⭐239)](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data
+*   [Google Tag Manager (⭐241)](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data
     Layer for Magento2.
 
 ### Adminhtml / Backend
@@ -1057,15 +1050,15 @@
     accessing certain pages.
 *   [Preview Checkout Success Page (⭐71)](https://github.com/magepal/magento2-preview-checkout-success-page) - quickly and
     easily preview and test your order confirmation page, without the need to placing a new order each time.
-*   [FireGento Fast Simple Import (⭐131)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2
+*   [FireGento Fast Simple Import (⭐130)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2
     ImportExport functionality, which imports products and customers from arrays
-*   [Magento 2 Import Framework (⭐128)](https://github.com/techdivision/import) - A library supporting generic Magento 2 import
+*   [Magento 2 Import Framework (⭐126)](https://github.com/techdivision/import) - A library supporting generic Magento 2 import
     functionality
 *   [Menu Editor (⭐230)](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based
     menus in Magento 2.
-*   [PageNotFound (⭐28)](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with
+*   [PageNotFound (⭐29)](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with
     the possibility to created a redirect.
-*   [Sentry.io (⭐133)](https://github.com/justbetter/magento2-sentry) - Application Monitoring and Error Tracking Software for
+*   [Sentry.io (⭐134)](https://github.com/justbetter/magento2-sentry) - Application Monitoring and Error Tracking Software for
     Magento 2
 *   [Custom SMTP (⭐303)](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional
     email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and other SMTP server.
@@ -1078,7 +1071,7 @@
 *   [shkoliar/magento-grid-colors (⭐58)](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for
     colorizing admin grids. Supports saving of states with the help of grid's bookmarks.
     by [Dmitry Shkoliar](https://shkoliar.com/)
-*   [extdn/extension-dashboard-m2 (⭐35)](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display
+*   [extdn/extension-dashboard-m2 (⭐37)](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display
     installed extensions. by [Magento Extension Developers Network](https://extdn.org/)
 *   [hivecommerce/magento2-content-fuzzyfyr (⭐11)](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content
     Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes, e.g. save
@@ -1086,7 +1079,7 @@
 
 ### Security
 
-*   [Magento Patch Repository (⭐272)](https://github.com/brentwpeterson/magento-patches) - Every Magento Patch you need all in
+*   [Magento Patch Repository (⭐271)](https://github.com/brentwpeterson/magento-patches) - Every Magento Patch you need all in
     one place
 
 ### Payment Service Provider
@@ -1096,9 +1089,9 @@
 
 ### Infrastructure
 
-*   [Ethan3600/magento2-CronjobManager (⭐265)](https://github.com/Ethan3600/magento2-CronjobManager) - Cron Job Manager for
+*   [Ethan3600/magento2-CronjobManager (⭐267)](https://github.com/Ethan3600/magento2-CronjobManager) - Cron Job Manager for
     Magento 2.
-*   [Clean Media (⭐73)](https://github.com/sivaschenko/magento2-clean-media) - A Module that provides information about Media
+*   [Clean Media (⭐74)](https://github.com/sivaschenko/magento2-clean-media) - A Module that provides information about Media
     Files and potential removal options.
 
 ### Proprietary Extensions
@@ -1115,13 +1108,13 @@
 
 *   [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D\&utm_content=buffer797bf\&utm_medium=social\&utm_source=twitter.com\&utm_campaign=buffer)
     *   Free YouTube Series for learning Magento 2.
-*   [magento-notes/magento2-exam-notes (⭐668)](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for
+*   [magento-notes/magento2-exam-notes (⭐671)](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for
     Magento 2 Certified Professional Developer exam
-*   [magento-notes/magento2-cloud-developer-notes (⭐77)](https://github.com/magento-notes/magento2-cloud-developer-notes) -
+*   [magento-notes/magento2-cloud-developer-notes (⭐78)](https://github.com/magento-notes/magento2-cloud-developer-notes) -
     Preparation notes for Magento 2 Certified Professional Cloud Developer exam
 *   [roma-glushko/magento2-dev-plus-exam (⭐80)](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for
     Magento 2 Certified Professional Developer Plus exam
-*   [fisheye-academy/m2cpfed-training (⭐109)](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2
+*   [fisheye-academy/m2cpfed-training (⭐110)](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2
     Certified Professional Front End Developer exam
 
 ### Official Resources / Progressive Web Application
@@ -1130,7 +1123,7 @@
     Magento.
 *   [Magento 2 data migration tool (⭐327)](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2
     migration tool.
-*   [Magento Coding Standards (⭐287)](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of
+*   [Magento Coding Standards (⭐290)](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of
     Rules for PHP\_CodeSniffer.
 *   [Magento 2 Architecture (⭐261)](https://github.com/magento/architecture) - A place where Magento architectural discussions
     happen.
@@ -1173,95 +1166,52 @@
 
 *   [ComputerCraft](https://computercraft.cc) - Adds computers based on Lua (5.2 and 5.3) into Minecraft.
 
-## [61. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [61. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### ABAP
+### Algorithms & Data Structures
 
-*   [SAP AWS Technical Documentation](https://aws.amazon.com/sap/docs/)
+*   [Essential Algorithms](https://www.programming-books.io/essential/algorithms) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 
-### Bash / Non-X86
+### Artificial Intelligence
 
-*   [Linux Shell Scripting With Bash](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) - Ken O. Burtch (PDF) *(:card\_file\_box: archived)*
+*   [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
+*   [Graph Representational Learning Book](https://www.cs.mcgill.ca/\~wlh/grl_book/) - William L. Hamilton (HTML, PDF)
 
-### C / Non-X86
+### Blockchain
 
-*   [Let us C](https://archive.org/download/let-us-c/LET%20US%20C.pdf) - Yashavant Kanetkar (PDF) *(:card\_file\_box: latest 14th edition)*
+*   [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar
 
-### C++ / Non-X86
+### Compiler Design
 
-*   [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
-*   [C++ For Programmers](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) - JT Kalnay (PDF)
+*   [Compiler Design in C (1990)](https://holub.com/goodies/compiler/compilerDesignInC.pdf) - Allen Holub, Prentice Hall (PDF)
+*   [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html) - Bob Nystrom (HTML)
 
-### DBMS / Non-X86
+### Graphical User Interfaces
 
-*   [Data Management for Analytics and Applications (2021)](https://bookdown.org/kokkodis/book/) - Marios Kokkodis
+*   [The GLib/GTK+ Development Platform](https://informatique-libre.be/swilmet/glib-gtk-book/glib-gtk-dev-platform.pdf) - Sébastien Wilmet (PDF)
 
-### Go / Phoenix
+### Machine Learning
 
-*   [Production Go](https://leanpub.com/productiongo/read) - Herman Schaaf and Shawn Smith (EPUB, HTML, PDF) (:construction: *in process*) *(Leanpub account or valid email requested for EPUB or PDF)*
+*   [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
 
-### Java / Bootstrap
+### Mathematics
 
-*   [A Practical Introduction to Data Structures and Algorithm Analysis Third Edition (Java Version)](https://people.cs.vt.edu/shaffer/Book/Java3e20100119.pdf) - Clifford A. Shaffer (PDF)
+*   [Category Theory for the Sciences](https://math.mit.edu/\~dspivak/CT4S.pdf) - David I. Spivak (PDF)
+*   [Introduction to Probability](https://math.dartmouth.edu/\~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
 
-### JavaScript / Wicket
+### Parallel Programming
 
-*   [JavaScript Wikibook](https://en.wikibooks.org/wiki/JavaScript) - Wikibooks (HTML, PDF)
-*   [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
-*   [The Modern JavaScript Tutorial](https://javascript.info) - Ilya Kantor (HTML)
+*   [High Performance Computing Training](https://hpc.llnl.gov/documentation/tutorials) (LLNL materials)
+*   [Introduction to Parallel Computing](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) - Blaise Barney
 
-### JavaScript / Svelte
+### Security & Privacy
 
-*   [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
+*   [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) (:construction: *in process*)
+*   [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 
-### Limbo / TeX
+### Software Architecture
 
-*   [Limbo’s documentation](http://resibots.eu/limbo/#limbo-s-documentation)
-
-### Markdown / PicoLisp
-
-*   [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org) - Yihui Xie (HTML) \[(PDF, EPUB, MOBI)] (<https://bookdown.org/yihui/bookdown/>)
-
-### PHP / Laravel
-
-*   [Laravel Tips and Tricks (⭐139)](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Fundamentals of Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (:construction: *in process*)
-*   [Pro Python Advanced coding techniques and tools](https://archive.org/download/python-books/Apress.Pro.Python.Advanced.Coding.Techniques.And.Tools.Jun.2010.ISBN.1430227575.pdf) - Marty Alchin (PDF) *(:card\_file\_box: archived)*
-
-### Q# / Tornado
-
-*   [The Q# quantum programming language user guide](https://learn.microsoft.com/en-us/azure/quantum/user-guide) (HTML)
-
-### R / Tornado
-
-*   [Geocomputation with R](https://geocompr.robinlovelace.net) - RobinLovelace, Jakub Nowosad, Jannes Muenchow
-
-### Raspberry Pi / Tornado
-
-*   [The Official Raspberry Pi Project Book 2 (2016)](https://magpi.raspberrypi.com/books/projects-2) (PDF)
-
-### Ruby / Tornado
-
-*   [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
-
-### Spark / Play Scala
-
-*   [Learning Spark: Lightning-Fast Data Analytics](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf) - Jules S. Damji, Brooke Wenig, Tathagata Das, Denny Lee (PDF)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
-
-### TypeScript / Vapor
-
-*   [TypeScript Handbook](https://www.typescriptlang.org/assets/typescript-handbook.pdf) - Microsoft (PDF)
-
-### YAML / Vulkan
-
-*   [YAML Tutorial](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)
+*   [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
 
 ## [62. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -1275,7 +1225,7 @@
 
 ### Teamworking Tools
 
-*   [See this section for Discord mods and alternative clients (⭐7.5k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
+*   [See this section for Discord mods and alternative clients (⭐7.8k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
 
 ### Translation and Speech-to-Text
 

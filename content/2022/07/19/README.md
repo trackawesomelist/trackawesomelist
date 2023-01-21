@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [Akade.IndexedSet (⭐14)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
+*   [Akade.IndexedSet (⭐17)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 
 ### Books
 
@@ -45,7 +45,7 @@
 
 ### Templates / React
 
-*   [ViteRC (⭐14)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+*   [ViteRC (⭐17)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -110,17 +110,16 @@
 
 ### Software / Pastebins
 
-*   [Wastebin (⭐45)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust`
+*   [Wastebin (⭐52)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust`
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### JavaScript / Wicket
+### Misc
 
-*   [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Lindley (HTML)
-
-### JavaScript / React
-
-*   [React Enlightenment](https://www.reactenlightenment.com) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2016](https://frontendmasters.com/guides/front-end-handbook/2016/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2017](https://frontendmasters.com/guides/front-end-handbook/2017/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2018](https://frontendmasters.com/guides/front-end-handbook/2018/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/) - Cody Lindley (HTML)
 
 ## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
@@ -149,13 +148,13 @@
 
 ### Communication / Email Clients
 
-*   [ElectronMail (⭐1.2k)](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladimiry/ElectronMail) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ElectronMail (⭐1.3k)](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladimiry/ElectronMail) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Mailspring](https://getmailspring.com/) - A beautiful, fast, and fully open source mail client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Foundry376/Mailspring) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacYTDL (⭐230)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacYTDL (⭐238)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / File Sharing

@@ -2,7 +2,7 @@
 
 A curated list of awesome Go frameworks, libraries and software
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/avelino/awesome-go/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 avelino/awesome-go](https://github.com/avelino/awesome-go) · ⭐ 95K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/avelino/awesome-go/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 avelino/awesome-go](https://github.com/avelino/awesome-go) · ⭐ 95K · 🏷️ Programming Languages
 
 [ [Daily](/content/avelino/awesome-go/README.md) / [Weekly](/content/avelino/awesome-go/week/README.md) / Overview ]
 
@@ -1714,7 +1714,7 @@ additional ordered map implementations.
 *   [gosms (⭐1.4k)](https://github.com/haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS.
 *   [gotoprom (⭐98)](https://github.com/cabify/gotoprom) - Type-safe metrics builder wrapper library for the official Prometheus client.
 *   [gountries (⭐367)](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
-*   [gtree (⭐89)](https://github.com/ddddddO/gtree) - Provide CLI and Package for tree output and directories creation from Markdown or programmatically.
+*   [gtree (⭐89)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
 *   [health (⭐638)](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 *   [health (⭐444)](https://github.com/dimiro1/health) - Easy to use, extensible health check library.
 *   [healthcheck (⭐247)](https://github.com/etherlabsio/healthcheck) - An opinionated and concurrent health-check HTTP handler for RESTful services.

@@ -2,7 +2,7 @@
 
 Curated list of awesome open source healthcare software, libraries, tools and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kakoni/awesome-healthcare/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) · ⭐ 2.1K · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kakoni/awesome-healthcare/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) · ⭐ 2.1K · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/kakoni/awesome-healthcare/week/README.md) / [Overview](/content/kakoni/awesome-healthcare/readme/README.md) ]
 

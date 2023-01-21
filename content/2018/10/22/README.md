@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,11 +16,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐484)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐491)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐141)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐142)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Assets
 
-*   [Sprockets (⭐869)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐873)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -67,7 +67,7 @@
 
 ### Music and Sound
 
-*   [Coltrane (⭐757)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
+*   [Coltrane (⭐759)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
 
 ### ORM/ODM
 
@@ -222,14 +222,14 @@
 ### Samples
 
 *   [LunarG's Samples (⭐1.3k)](https://github.com/LunarG/VulkanSamples)
-*   [Vulkan Basic Graphics Samples (⭐21)](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
+*   [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
 
 ### Khronos
 
 *   Quick Reference Sheets
     *   [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *   [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)
-*   [Conformance Tests (CTS) (⭐425)](https://github.com/KhronosGroup/Vulkan-CTS)
+*   [Conformance Tests (CTS) (⭐429)](https://github.com/KhronosGroup/Vulkan-CTS)
 *   Conferences and Presentations
     *   [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
     *   [2016 UK Chapter: Moving to Vulkan](https://www.khronos.org/developers/library/2016-uk-chapter-moving-to-vulkan)

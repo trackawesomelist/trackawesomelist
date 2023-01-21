@@ -2,7 +2,7 @@
 
 curated list of awesome resources, pointers, and tips related to veganism
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 44 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 44 · 🏷️ Miscellaneous
 
 [ [Daily](/content/sdassow/awesome-veganism/README.md) / [Weekly](/content/sdassow/awesome-veganism/week/README.md) / Overview ]
 

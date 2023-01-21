@@ -2,7 +2,7 @@
 
 :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/44bits/awesome-opensource-documents/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) · ⭐ 1.8K · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/44bits/awesome-opensource-documents/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) · ⭐ 1.8K · 🏷️ Media
 
 [ [Daily](/content/44bits/awesome-opensource-documents/README.md) / [Weekly](/content/44bits/awesome-opensource-documents/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 52 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -150,9 +150,9 @@
 
 ### Boilerplates / Themes
 
-*   [React Admin (⭐594)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
+*   [React Admin (⭐597)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
 *   [React Redux (⭐410)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-*   [Webbf (⭐365)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
+*   [Webbf (⭐370)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 *   [React Redux Intro (⭐33)](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
 *   [CL React (⭐179)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
@@ -162,10 +162,6 @@
 ### Camera / Barcode
 
 *   [BarcodeScanner (⭐1.6k)](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
-
-### Localization / Barcode
-
-*   [NoOptionalInterpolation (⭐48)](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.
 
 ## [16. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
@@ -284,17 +280,17 @@
 
 ### Apps
 
-*   [vkQuake (⭐1.4k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
+*   [vkQuake (⭐1.5k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
 
 ### Samples
 
-*   [C# Samples (⭐27)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐139)](https://github.com/FacticiusVir/SharpVk) \[MIT]
+*   [C# Samples (⭐27)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐140)](https://github.com/FacticiusVir/SharpVk) \[MIT]
 
 ## [24. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
-*   [d3-scale-cluster (⭐126)](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
+*   [d3-scale-cluster (⭐129)](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 
 ## [25. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -487,11 +483,11 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Suiron (⭐705)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
+*   [Suiron (⭐706)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 
 ### R / General-Purpose Machine Learning
 
-*   [TDSP-Utilities (⭐361)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
+*   [TDSP-Utilities (⭐362)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
 ## [44. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
@@ -739,11 +735,11 @@
 
 ### Functional programming
 
-*   [language-ext (⭐5.1k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
+*   [language-ext (⭐5.2k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 
 ### Graphics
 
-*   [LibTessDotNet (⭐258)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
+*   [LibTessDotNet (⭐259)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
 
 ### IDE
 
@@ -763,11 +759,11 @@
 
 ### WebSocket
 
-*   [Websockets.PCL (⭐100)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
+*   [Websockets.PCL (⭐99)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
 
 ### Source Generator
 
-*   [Awesome Unity (⭐5.4k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐5.5k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
 ## [51. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 

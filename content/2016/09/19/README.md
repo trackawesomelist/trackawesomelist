@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,17 +16,17 @@
 
 ### Packages / Parsing
 
-*   [ref (⭐425)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐426)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
-*   [filterable (⭐96)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
+*   [filterable (⭐97)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐503)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐505)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,7 +39,7 @@
 
 ### Localization
 
-*   [pt\_BR (⭐66)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
+*   [pt\_BR (⭐67)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -91,12 +91,12 @@
 
 ### Menu / Barcode
 
-*   [FlowingMenu (⭐974)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
-*   [HHFloatingView (⭐94)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
+*   [FlowingMenu (⭐975)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
+*   [HHFloatingView (⭐95)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐788)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐799)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ---
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### Packages / Node.js management
 
-*   [fnm (⭐9.6k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐9.9k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Tools
 
-*   [Visual Novel OCR (⭐52)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
+*   [Visual Novel OCR (⭐53)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
 
 ## [10. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Misc
 
-*   [Quickenshtein (⭐203)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐213)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

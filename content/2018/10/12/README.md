@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -157,12 +157,12 @@
 ### Clients
 
 *   [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
-*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐577)](https://github.com/Canner/keycloak-admin/)
-*   [Keycloak Go Client by Cloudtrust (⭐22)](https://github.com/cloudtrust/keycloak-client)
+*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐597)](https://github.com/Canner/keycloak-admin/)
+*   [Keycloak Go Client by Cloudtrust (⭐23)](https://github.com/cloudtrust/keycloak-client)
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐550)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐567)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -205,7 +205,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-photos (⭐53)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
+*   [vue-my-photos (⭐54)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -2,7 +2,7 @@
 
 Catalog of Redux Libraries & Learning Material
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brillout/awesome-redux/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brillout/awesome-redux](https://github.com/brillout/awesome-redux) · ⭐ 363 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brillout/awesome-redux/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brillout/awesome-redux](https://github.com/brillout/awesome-redux) · ⭐ 363 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/brillout/awesome-redux/week/README.md) / [Overview](/content/brillout/awesome-redux/readme/README.md) ]
 

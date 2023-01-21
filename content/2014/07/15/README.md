@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,14 +32,14 @@
 *   [pattern (⭐8.4k)](https://github.com/clips/pattern) - Web mining module for Python.
 *   [NuPIC (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 *   [PyBrain (⭐2.8k)](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
-*   [python-recsys (⭐1.4k)](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
+*   [python-recsys (⭐1.5k)](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 
 ### Python / Data Analysis / Data Visualization
 
 *   [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 *   [PyMC (⭐7.2k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 *   [zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
-*   [SymPy (⭐9.8k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [SymPy (⭐9.9k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 *   [statsmodels (⭐8k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
 *   [Kartograph.py (⭐1k)](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 
@@ -49,7 +49,7 @@
 *   [thinking stats 2 (⭐8)](https://github.com/Wavelets/ThinkStats2)
 *   [hyperopt (⭐1.4k)](https://github.com/hyperopt/hyperopt-sklearn)
 *   [numpic (⭐6.3k)](https://github.com/numenta/nupic)
-*   [ipython-notebooks (⭐554)](https://github.com/ogrisel/notebooks)
+*   [ipython-notebooks (⭐555)](https://github.com/ogrisel/notebooks)
 *   [decision-weights (⭐32)](https://github.com/CamDavidsonPilon/decision-weights)
 
 ### Ruby / Data Analysis / Data Visualization
@@ -64,7 +64,7 @@
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐148k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐151k)](https://github.com/vinta/awesome-python)
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Packages / Command-line utilities
 
-*   [drawille (⭐974)](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
+*   [drawille (⭐977)](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 
 ---
 

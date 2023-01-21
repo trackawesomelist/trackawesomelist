@@ -2,7 +2,7 @@
 
 Awesome Music Projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ciconia/awesome-music/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ciconia/awesome-music](https://github.com/ciconia/awesome-music) · ⭐ 1.3K · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ciconia/awesome-music/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ciconia/awesome-music](https://github.com/ciconia/awesome-music) · ⭐ 1.3K · 🏷️ Media
 
 [ [Daily](/content/ciconia/awesome-music/README.md) / [Weekly](/content/ciconia/awesome-music/week/README.md) / Overview ]
 

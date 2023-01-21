@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,13 +28,13 @@
 
 ### validation
 
-*   [check-geojson (⭐44)](https://github.com/placemark/check-geojson): alternative to geojsonhint
+*   [check-geojson (⭐46)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Augmented Reality
 
-*   [ARHeadsetKit (⭐78)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐80)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 
 ## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -50,17 +50,17 @@
 
 ### Extensions
 
-*   [Draw Interface (⭐7)](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for Directus app.
+*   [Draw Interface (⭐8)](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for Directus app.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [euterpe](https://listen-to-euterpe.eu) - Self-hosted music streaming server with RESTful API and Web interface. ([Demo](https://listen-to-euterpe.eu/demo), [Source Code (⭐448)](https://github.com/ironsmile/euterpe)) `GPL-3.0` `Go`
+*   [euterpe](https://listen-to-euterpe.eu) - Self-hosted music streaming server with RESTful API and Web interface. ([Demo](https://listen-to-euterpe.eu/demo), [Source Code (⭐456)](https://github.com/ironsmile/euterpe)) `GPL-3.0` `Go`
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐187)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Go`
+*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐196)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Go`
 
 ## [9. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
@@ -72,18 +72,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐7.4k)](https://github.com/adobe/react-spectrum)
-
-
-- : [Alfa-Bank](https://design.alfabank.ru)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 👍
-
-  Source code \*: [:octocat: (⭐568)](https://github.com/alfa-laboratory/arui-feather)
+  Source code \*: [:octocat: (⭐7.7k)](https://github.com/adobe/react-spectrum)
 
 
 - : [Alibaba Ant Design](https://ant.design)
@@ -94,7 +83,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐82k)](https://github.com/ant-design/ant-design/)
+  Source code \*: [:octocat: (⭐83k)](https://github.com/ant-design/ant-design/)
 
 
 - : [Appear Here Styleguide](https://bloom.appearhere.co.uk/)
@@ -127,7 +116,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐336)](https://github.com/aragon/ui)
+  Source code \*: [:octocat: (⭐339)](https://github.com/aragon/ui)
 
 
 - : [Artsy Palette](https://palette.artsy.net/)
@@ -182,7 +171,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐276)](https://github.com/audi/audi-ui)
+  Source code \*: [:octocat: (⭐281)](https://github.com/audi/audi-ui)
 
 
 - : [Aurora (Government of Canada)](https://design.gccollab.ca/)
@@ -193,18 +182,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐85)](https://github.com/gctools-outilsgc/design-system)
-
-
-- : [Australian Government Design System](https://designsystem.gov.au/)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 👍
-
-  Source code \*: [:octocat: (⭐740)](https://github.com/govau/design-system-components/)
+  Source code \*: [:octocat: (⭐86)](https://github.com/gctools-outilsgc/design-system)
 
 
 - : [AutoGuru Overdrive](http://overdrive.autoguru.io/)
@@ -215,7 +193,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐39)](https://github.com/autoguru-au/overdrive)
+  Source code \*: [:octocat: (⭐40)](https://github.com/autoguru-au/overdrive)
 
 
 - : [Backpack (Skyscanner)](https://skyscanner.design/)
@@ -226,7 +204,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐442)](https://github.com/skyscanner/backpack)
+  Source code \*: [:octocat: (⭐445)](https://github.com/skyscanner/backpack)
 
 
 - : [Barnardo’s Design System](https://design-system.barnardos.org.uk)
@@ -237,7 +215,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐29)](https://github.com/barnardos/design-system)
+  Source code \*: [:octocat: (⭐30)](https://github.com/barnardos/design-system)
 
 
 - : [Basis Design System](https://basis.now.sh)
@@ -248,7 +226,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐55)](https://github.com/moroshko/basis)
+  Source code \*: [:octocat: (⭐56)](https://github.com/moroshko/basis)
 
 
 - : [BBC GEL (Global Experience Language)](https://www.bbc.co.uk/gel)
@@ -260,28 +238,6 @@
   Designers Kit: 👍
 
   Source code \*: 
-
-
-- : [BCC - Design System](https://designsystem.bccfilkom.net/)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 👍
-
-  Source code \*: [:octocat: (⭐17)](https://github.com/bccfilkom/designsystem)
-
-
-- : [BLiP](https://design.blip.ai/)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 
-
-  Source code \*: [:octocat: (⭐4)](https://github.com/takenet/blip-toolkit)
 
 
 - : [Blueprint](https://blueprintjs.com/)
@@ -380,7 +336,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐0)](https://github.com/rei/rei-cedar)
+  Source code \*: [:octocat: (⭐1)](https://github.com/rei/rei-cedar)
 
 
 - : [censhare Zen](https://design.censhare.com/)
@@ -402,7 +358,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐29k)](https://github.com/chakra-ui/chakra-ui)
+  Source code \*: [:octocat: (⭐30k)](https://github.com/chakra-ui/chakra-ui)
 
 
 - : [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)
@@ -424,7 +380,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐250)](https://github.com/contentful/forma-36)
+  Source code \*: [:octocat: (⭐263)](https://github.com/contentful/forma-36)
 
 
 - : [Decathlon Design System - Vitamin](https://decathlon.design/)
@@ -435,7 +391,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐190)](https://github.com/decathlon/vitamin-web)
+  Source code \*: [:octocat: (⭐201)](https://github.com/decathlon/vitamin-web)
 
 
 - : [Decentraland UI](https://ui.decentraland.org/)
@@ -446,7 +402,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐176)](https://github.com/decentraland/ui)
+  Source code \*: [:octocat: (⭐180)](https://github.com/decentraland/ui)
 
 
 - : [Duet](https://www.duetds.com)
@@ -512,7 +468,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐30)](https://github.com/lessmess-dev/figma-ui-components)
+  Source code \*: [:octocat: (⭐31)](https://github.com/lessmess-dev/figma-ui-components)
 
 
 - : [Financial Times Origami](https://origami.ft.com/)
@@ -523,7 +479,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐19)](https://github.com/Financial-Times/origami)
+  Source code \*: [:octocat: (⭐26)](https://github.com/Financial-Times/origami)
 
 
 - : [Finastra Design System](https://design.fusionfabric.cloud/)
@@ -534,7 +490,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐92)](https://github.com/fusionfabric/finastra-design-system)
+  Source code \*: [:octocat: (⭐94)](https://github.com/fusionfabric/finastra-design-system)
 
 
 - : [Finland Toolbox](https://toolbox.finland.fi/)
@@ -556,7 +512,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐262)](https://github.com/FirefoxUX/photon)
+  Source code \*: [:octocat: (⭐264)](https://github.com/FirefoxUX/photon)
 
 
 - : [Fish Tank Design System](https://fishtank.bna.com/)
@@ -633,7 +589,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐984)](https://github.com/material-components/material-components)
+  Source code \*: [:octocat: (⭐987)](https://github.com/material-components/material-components)
 
 
 - : [GOV.UK Design System](https://www.gov.uk/design-system)
@@ -644,7 +600,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐333)](https://github.com/alphagov/govuk-design-system)
+  Source code \*: [:octocat: (⭐344)](https://github.com/alphagov/govuk-design-system)
 
 
 - : [Gympass Yoga](https://gympass.github.io/yoga/)
@@ -655,7 +611,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐190)](https://github.com/gympass/yoga)
+  Source code \*: [:octocat: (⭐195)](https://github.com/gympass/yoga)
 
 
 - : [Halstack](https://developer.dxc.com/design/guidelines/principles/overview)
@@ -677,7 +633,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐35)](https://github.com/helpscout/seed-framework)
+  Source code \*: [:octocat: (⭐34)](https://github.com/helpscout/seed-framework)
 
 
 - : [Heroku Purple3](https://design.herokai.com/)
@@ -732,7 +688,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.1k)](https://github.com/ibm/carbon-components)
+  Source code \*: [:octocat: (⭐6.2k)](https://github.com/ibm/carbon-components)
 
 
 - : [IBM Design Language](https://www.ibm.com/design/language/)
@@ -776,7 +732,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐3.3k)](https://github.com/JetBrains/ring-ui)
+  Source code \*: [:octocat: (⭐3.4k)](https://github.com/JetBrains/ring-ui)
 
 
 - : [Kalo UI](https://kalo.design)
@@ -809,7 +765,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐224)](https://github.com/skbkontur/retail-ui/)
+  Source code \*: [:octocat: (⭐232)](https://github.com/skbkontur/retail-ui/)
 
 
 - : [Latitude](https://www.flexport.com/design)
@@ -820,7 +776,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐20)](https://github.com/flexport/latitude/)
+  Source code \*: [:octocat: (⭐21)](https://github.com/flexport/latitude/)
 
 
 - : [Lexicon](https://lexicondesign.io/)
@@ -832,17 +788,6 @@
   Designers Kit: 
 
   Source code \*: 
-
-
-- : [Lonely Planet Rizzo](https://rizzo.lonelyplanet.com/)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 
-
-  Source code \*: [:octocat:](https://github.com/lonelyplanet/rizzo)
 
 
 - : [Lost My Name Design System](http://design-system.lostmy.name/)
@@ -886,7 +831,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐15k)](https://github.com/mantinedev/mantine)
+  Source code \*: [:octocat: (⭐16k)](https://github.com/mantinedev/mantine)
 
 
 - : [Marvel Styleguide](https://marvelapp.com/styleguide)
@@ -985,7 +930,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐77)](https://github.com/nasa/nasawds)
+  Source code \*: [:octocat: (⭐82)](https://github.com/nasa/nasawds)
 
 
 - : [NationBuilder Radius](https://www.nationbuilder.design/)
@@ -993,17 +938,6 @@
   Components: 👍
 
   Voice & Tone: 
-
-  Designers Kit: 
-
-  Source code \*: 
-
-
-- : [NHS.UK Service Manual (Beta)](https://beta.nhs.uk/service-manual/)
-
-  Components: 👍
-
-  Voice & Tone: 👍
 
   Designers Kit: 
 
@@ -1021,17 +955,6 @@
   Source code \*: 
 
 
-- : [Nutanix Prism](https://nutanix.design/)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 
-
-  Source code \*: 
-
-
 - : [Okta Odyssey Design System](https://odyssey.okta.design)
 
   Components: 👍
@@ -1040,7 +963,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐89)](https://github.com/okta/odyssey)
+  Source code \*: [:octocat: (⭐92)](https://github.com/okta/odyssey)
 
 
 - : [Opattern](https://ux.opower.com/opattern)
@@ -1076,17 +999,6 @@
   Source code \*: [:octocat:](https://github.com/patternfly)
 
 
-- : [Pearson UX Framework](https://uxframework.pearson.com/)
-
-  Components: 👍
-
-  Voice & Tone: 👍
-
-  Designers Kit: 👍
-
-  Source code \*: [:octocat: (⭐9)](https://github.com/Pearson-Higher-Ed/design)
-
-
 - : [Pharos: JSTOR's Design System](https://pharos.jstor.org)
 
   Components: 👍
@@ -1095,7 +1007,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐51)](https://github.com/ithaka/pharos)
+  Source code \*: [:octocat: (⭐62)](https://github.com/ithaka/pharos)
 
 
 - : [Pinterest Gestalt](https://pinterest.github.io/gestalt/#/)
@@ -1128,18 +1040,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐292)](https://github.com/pluralsight/design-system)
-
-
-- : [Predix Design System](https://www.predix-ui.com/)
-
-  Components: 👍
-
-  Voice & Tone: 👍
-
-  Designers Kit: 👍
-
-  Source code \*: 
+  Source code \*: [:octocat: (⭐293)](https://github.com/pluralsight/design-system)
 
 
 - : [Priceline Design System](https://priceline.github.io/design-system/)
@@ -1150,7 +1051,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐677)](https://github.com/priceline/design-system)
+  Source code \*: [:octocat: (⭐683)](https://github.com/priceline/design-system)
 
 
 - : [Pulse Design System](https://pulse.heartbeat.ua/)
@@ -1183,7 +1084,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐1.6k)](https://github.com/modulz/radix)
+  Source code \*: [:octocat: (⭐1.7k)](https://github.com/modulz/radix)
 
 
 - : [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/)
@@ -1194,7 +1095,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐186)](https://github.com/rambler-digital-solutions/rambler-ui)
+  Source code \*: [:octocat: (⭐187)](https://github.com/rambler-digital-solutions/rambler-ui)
 
 
 - : [Rendition](https://balena-io-modules.github.io/rendition/)
@@ -1205,7 +1106,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐205)](https://github.com/balena-io-modules/rendition/)
+  Source code \*: [:octocat: (⭐206)](https://github.com/balena-io-modules/rendition/)
 
 
 - : [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)
@@ -1230,7 +1131,7 @@
   Source code \*: 
 
 
-- : [SAP Fundamental (⭐255)](https://github.com/SAP/fundamental)
+- : [SAP Fundamental (⭐258)](https://github.com/SAP/fundamental)
 
   Components: 👍
 
@@ -1238,7 +1139,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐255)](https://github.com/SAP/fundamental)
+  Source code \*: [:octocat: (⭐258)](https://github.com/SAP/fundamental)
 
 
 - : [SAP OpenUI (⭐2.7k)](https://github.com/SAP/openui5)
@@ -1282,7 +1183,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐81)](https://github.com/semrush/intergalactic)
+  Source code \*: [:octocat: (⭐84)](https://github.com/semrush/intergalactic)
 
 
 - : [Shopify Polaris](https://polaris.shopify.com)
@@ -1293,7 +1194,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐5k)](https://github.com/Shopify/polaris)
+  Source code \*: [:octocat: (⭐5.1k)](https://github.com/Shopify/polaris)
 
 
 - : [Stacks – Stack Overflow](https://stackoverflow.design/)
@@ -1304,7 +1205,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐508)](https://github.com/StackExchange/Stacks)
+  Source code \*: [:octocat: (⭐522)](https://github.com/StackExchange/Stacks)
 
 
 - : [Starbucks Style Guide](https://www.starbucks.com/static/reference/styleguide/)
@@ -1316,17 +1217,6 @@
   Designers Kit: 
 
   Source code \*: 
-
-
-- : [The University of Melbourne Design System](https://web.unimelb.edu.au/)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 
-
-  Source code \*: [:octocat: (⭐29)](https://github.com/unimelb/unimelb-design-system)
 
 
 - : [Teambition Clarity Design](https://design.teambition.com/)
@@ -1381,7 +1271,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐311)](https://github.com/twilio-labs/paste)
+  Source code \*: [:octocat: (⭐325)](https://github.com/twilio-labs/paste)
 
 
 - : [Uber's Base Web](https://baseweb.design/)
@@ -1392,7 +1282,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐8k)](https://github.com/uber-web/baseui)
+  Source code \*: [:octocat: (⭐8.1k)](https://github.com/uber-web/baseui)
 
 
 - : [Ubuntu Vanilla framework](https://vanillaframework.io/)
@@ -1403,7 +1293,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐631)](https://github.com/canonical-web-and-design/vanilla-framework)
+  Source code \*: [:octocat: (⭐647)](https://github.com/canonical-web-and-design/vanilla-framework)
 
 
 - : [USPTO UI Design Library](https://uspto.github.io/designpatterns/index.html)
@@ -1414,7 +1304,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐239)](https://github.com/uspto/designpatterns)
+  Source code \*: [:octocat: (⭐238)](https://github.com/uspto/designpatterns)
 
 
 - : [uSwitch style guide](https://ustyle.guide/)
@@ -1472,17 +1362,6 @@
   Source code \*: [:octocat: (⭐2.1k)](https://github.com/viljamis/vue-design-system)
 
 
-- : [WeWork Plasma](http://plasma.guide)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 
-
-  Source code \*: 
-
-
 - : [Ray by WeWork](https://ray.wework.com)
 
   Components: 👍
@@ -1502,7 +1381,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐485)](https://github.com/WTTJ/welcome-ui)
+  Source code \*: [:octocat: (⭐488)](https://github.com/WTTJ/welcome-ui)
 
 
 - : [West Midlands Network Design System](https://designsystem.wmnetwork.co.uk/)
@@ -1535,7 +1414,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐249)](https://github.com/Workday/canvas-kit)
+  Source code \*: [:octocat: (⭐256)](https://github.com/Workday/canvas-kit)
 
 
 - : [Yelp Styleguide](https://www.yelp.com/styleguide)
@@ -1565,46 +1444,52 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfmigrator (⭐33)](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
+*   [tfmigrator (⭐34)](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Artificial Intelligence
+
+*   [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
+
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
 *   [augeas.cr (⭐6)](https://github.com/fernandes/augeas.cr) - Bindings for [Augeas](https://augeas.net/)
 
-## [12. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [13. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Free fonts / Collections
 
 *   [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [CVue-Awesome (⭐17)](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
+*   [CVue-Awesome (⭐16)](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
 
-## [14. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [15. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Tools you'll need / Cloud-based options
 
 *   [markusschanta/awesome-jupyter, "Hosted Notebook Solutions" (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
 *   [ml-tooling/best-of-jupyter, "Notebook Environments" (⭐538)](https://github.com/ml-tooling/best-of-jupyter)
 
-## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-monaco-editor (⭐96)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
+*   [vite-plugin-monaco-editor (⭐98)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
 
-## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Learning to Code
 
 *   [Introduction to Urban Informatics](https://courses.planetizen.com/course/urban-informatics) - Planetizen course teaching the basics of big data processing, analysis, and visualization. Monthly subscription required.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -1715,33 +1600,11 @@
 
 
 
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Assembly Language / Blazor
-
-*   [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose, Syncfusion Inc. (HTML, PDF, EPUB, Kindle)
-
-### C / Non-X86
-
-*   [The Basics of C Programming](https://www.phys.uconn.edu/\~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (PDF)
-
-### Cilk / Non-X86
-
-*   [Cilk 5.4.6 Reference Manual](https://par.tuwien.ac.at/material/manual-5.4.6.pdf) (PDF)
-
-### Flutter / Phoenix
-
-*   [Flutter UI Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/flutter-ui-succinctly) - Ed Freitas
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [The Python Handbook](https://flaviocopes.com/page/python-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
 ## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olimorris/onedarkpro.nvim (⭐368)](https://github.com/olimorris/onedarkpro.nvim) - One Dark Pro theme, written in Lua and based on the VS Code theme. Includes dark and light themes with completely customisable colors, styles and highlights.
+*   [olimorris/onedarkpro.nvim (⭐393)](https://github.com/olimorris/onedarkpro.nvim) - One Dark Pro theme, written in Lua and based on the VS Code theme. Includes dark and light themes with completely customisable colors, styles and highlights.
 
 ---
 

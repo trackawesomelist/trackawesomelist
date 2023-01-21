@@ -2,7 +2,7 @@
 
 44 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -89,11 +89,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.1k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
+*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.2k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐3.9k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -278,14 +278,6 @@
 *   [Intuition Fabric](https://intuitionfabric.com) - The goal of Intuition Fabric is to democratize access to AI through a network of deep learning models that are stored on the interplanetary file system and accessed through the Ethereum blockchain.
 *   [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
 
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Neuromation](https://neuromation.io/) - Synthetic datasets generation and algorithm training platform.
-
-### Blockchains for computation / Blockchain projects for AI algorithms
-
-*   [Neureal](https://neureal.net/) - Open source, peer-to-peer AI supercomputing powered by blockchain.
-
 ## [18. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
@@ -296,14 +288,14 @@
 
 ### CLI
 
-*   [Argu (⭐370)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
-*   [clipr (⭐87)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
-*   [CliWrap (⭐3.1k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
+*   [Argu (⭐374)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
+*   [clipr (⭐86)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
+*   [CliWrap (⭐3.2k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
 *   [Command Line Parser (⭐3.8k)](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
-*   [CsConsoleFormat (⭐340)](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
-*   [Docopt (⭐324)](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
-*   [Fluent Command Line Parser (⭐521)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
-*   [Power Args (⭐528)](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
+*   [CsConsoleFormat (⭐344)](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
+*   [Docopt (⭐327)](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
+*   [Fluent Command Line Parser (⭐522)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
+*   [Power Args (⭐530)](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 
 ## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -362,7 +354,7 @@
 
 ### Built-in Classes Enhancement
 
-*   [attrs (⭐4.5k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [attrs (⭐4.6k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 *   [bidict (⭐1.2k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
 *   [Box (⭐2.1k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
 
@@ -370,7 +362,7 @@
 
 *   MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
     *   [mysqlclient (⭐2.2k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
-    *   [PyMySQL (⭐7.1k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
+    *   [PyMySQL (⭐7.2k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 
 ## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -435,7 +427,7 @@
 
 ### Events
 
-*   [Tempura (⭐692)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐694)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ### Network / Barcode
 

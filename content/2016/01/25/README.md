@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐207)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐211)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Command-Line Productivity
 
-*   [slugify (⭐280)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+*   [slugify (⭐282)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 
 ## [6. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐165)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐166)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 

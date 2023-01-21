@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -63,13 +63,13 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Hauk (⭐435)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐435)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
+*   [Hauk (⭐446)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐446)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
 
 ## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [pivotsuite (⭐373)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
+*   [pivotsuite (⭐377)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
 
 ---
 

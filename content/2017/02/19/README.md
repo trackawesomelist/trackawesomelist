@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -54,7 +54,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐2.6k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐2.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Testing
 
-*   [Expecto (⭐587)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐592)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ---
 

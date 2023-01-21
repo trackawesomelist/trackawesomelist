@@ -2,7 +2,7 @@
 
 A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainers=@anton-trunov,@palmskog]
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/coq-community/awesome-coq/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 coq-community/awesome-coq](https://github.com/coq-community/awesome-coq) · ⭐ 197 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/coq-community/awesome-coq/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 coq-community/awesome-coq](https://github.com/coq-community/awesome-coq) · ⭐ 197 · 🏷️ Programming Languages
 
 [ [Daily](/content/coq-community/awesome-coq/README.md) / [Weekly](/content/coq-community/awesome-coq/week/README.md) / Overview ]
 

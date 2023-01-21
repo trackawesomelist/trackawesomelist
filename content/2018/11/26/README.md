@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 26, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -166,40 +166,33 @@
 *   [Usenetic](https://www.usenetic.com/) The full-featured Usenet client for Mac OSX
 *   [spotweb (⭐405)](https://github.com/spotweb/spotweb) Spotweb is a decentralized Usenet community based on the Spotnet protocol.
 
-## [7. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Charts / Third Party
-
-*   [angular-nvd3 (⭐1.3k)](https://github.com/krispo/angular-nvd3) - NVd3 for AngularJS \[line, stacked, bar, area, scatter, bullet, donut]
-*   [line-chart (⭐1.2k)](https://github.com/n3-charts/line-chart) - Line chart module for AngularJS \[line, area, bar]
-
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Editor Plugins
 
 *   [vim-iced (Vim) (⭐473)](https://github.com/liquidz/vim-iced)
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnet-tools (⭐1.5k)](https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (dotnet CLI).
     *   [LibMan CLI (⭐390)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
 
-## [10. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
 *   [Hearth (⭐26)](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
 
-## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 *   [OWASP ZAP Node API (⭐28)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
-## [12. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Pomodoro / Enterprise Git Service
 

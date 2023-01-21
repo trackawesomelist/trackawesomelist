@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -64,7 +64,7 @@
 *   [Intrigue Core (⭐1.2k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐522)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐537)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)

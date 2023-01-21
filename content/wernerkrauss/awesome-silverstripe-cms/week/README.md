@@ -2,7 +2,7 @@
 
 Useful resources for Silverstripe CMS and framework
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wernerkrauss/awesome-silverstripe-cms/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 wernerkrauss/awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms) · ⭐ 40 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wernerkrauss/awesome-silverstripe-cms/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wernerkrauss/awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms) · ⭐ 40 · 🏷️ Content Management Systems
 
 [ [Daily](/content/wernerkrauss/awesome-silverstripe-cms/README.md) / Weekly / [Overview](/content/wernerkrauss/awesome-silverstripe-cms/readme/README.md) ]
 

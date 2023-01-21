@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Messaging
 
-*   [SimpleX Chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
+*   [SimpleX Chat (⭐2k)](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
 
 ## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -44,20 +44,20 @@
 
 ### Templates / Vue 3
 
-*   [vue3-ts-vite-vitest-todo (⭐4)](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
+*   [vue3-ts-vite-vitest-todo (⭐5)](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-starter (⭐17)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
+*   [vite-vue2-ts-starter (⭐18)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
 
 ### Templates / Svelte
 
-*   [SvelteKit (⭐12k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
+*   [SvelteKit (⭐13k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
 ### Templates / Others
 
 *   [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
-*   [11st-Starter-Kit (⭐301)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
+*   [11st-Starter-Kit (⭐303)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 
 ## [6. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -67,7 +67,7 @@
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186\&hl=en\&as_sdt=0,5)].
 
@@ -92,10 +92,10 @@
 
 *   [SimpleX Chat](https://simplex.chat/) - The first chat platform that is 100% private by design - it has no access to your connection graph
 
-### Twitter
+### Alternative Frontends
 
-*   [Nitter (⭐6.4k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
-    *   [Fritter (⭐983)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
+*   [Nitter (⭐6.6k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+    *   [Fritter (⭐1.1k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
 
 ## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [mac (⭐139)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
+*   [mac (⭐143)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
 
 ## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
 

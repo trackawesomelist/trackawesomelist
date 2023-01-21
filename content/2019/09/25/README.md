@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -254,7 +254,7 @@
 
 ### Gaming
 
-*   [Haxe Game Development (⭐320)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐322)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -282,7 +282,7 @@
 
 ### Tab / Barcode
 
-*   [PolioPager (⭐175)](https://github.com/YuigaWada/PolioPager) - A flexible TabBarController with search tab like SNKRS.
+*   [PolioPager (⭐176)](https://github.com/YuigaWada/PolioPager) - A flexible TabBarController with search tab like SNKRS.
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

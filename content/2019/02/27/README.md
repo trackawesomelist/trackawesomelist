@@ -2,7 +2,7 @@
 
 19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -172,11 +172,11 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐610)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐627)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐483)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐490)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### UITableView / Barcode
 
@@ -210,7 +210,7 @@
 
 ### Tools / Binary
 
-*   [shellphish fuzzer (⭐610)](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
+*   [shellphish fuzzer (⭐614)](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
 
 ## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -293,12 +293,12 @@
 
 ### Front-End Development
 
-*   [CSS (⭐4.1k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.2k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.3k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐24k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐5.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐5.7k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 

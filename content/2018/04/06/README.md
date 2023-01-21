@@ -1,8 +1,8 @@
 # Awesome List Updates on Apr 06, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [svd2rust (⭐514)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+*   [svd2rust (⭐518)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 *   [cortex-m semihosting (⭐0)](https://github.com/japaric/cortex-m-semihosting) Semihosting for ARM Cortex-M processors
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
@@ -54,31 +54,25 @@
 *   [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi blog.
 *   [madhatted.com](https://madhatted.com/)
 
-## [6. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [BOTTOS AI](https://bottos.org/) - A decentralized AI data sharing network that uses a consensus-based application platform to allow AI projects to gather training data.
-
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IDE
 
 *   [AvalonStudio (⭐1.4k)](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
 
-## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Assorted
 
 *   [How To Use OpenCV In React Native For Image Processing](https://brainhub.eu/blog/opencv-react-native-image-processing/)
 
-## [9. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [8. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Profilers
 
 *   [jvm-profiler (⭐1.7k)](https://github.com/uber-common/jvm-profiler) - Java Agent to collect various metrics and stacktraces for Hadoop/Spark JVM processes in a distributed way.
 
-## [10. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
+## [9. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
 ### Resources / Implementations, Interpreters, and Bindings
 
@@ -209,23 +203,23 @@
     *   [Lua Conf](http://luaconf.com/) - Annual 1-day Lua conference in Brazil.
     *   [FOSDEM](https://fosdem.org/) - Annual 2-day gathering of F/OSS developers in Brussels which sometimes has a "Lua devroom".
 
-## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### VPN / Metric & Metric Collection
+### Software / VPN
 
-*   [sshuttle (⭐9.1k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
+*   [sshuttle (⭐9.5k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
 
-## [12. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
+## [11. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [Polskie (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Containers
 
-*   [Colony (⭐343)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
+*   [Colony (⭐344)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
 *   [plf::list (⭐117)](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. \[zLib] [website](http://www.plflib.org/list.htm)
 *   [plf::stack (⭐47)](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. \[zLib] [website](http://www.plflib.org/stack.htm)
 

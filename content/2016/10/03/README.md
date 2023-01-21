@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 03, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -193,13 +193,7 @@
 git fetch origin master:refs/remotes/origin/mymaster
 ```
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### UI / Barcode
-
-*   [CostumeKit (⭐301)](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
-
-## [13. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
+## [12. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
 ### Government
 

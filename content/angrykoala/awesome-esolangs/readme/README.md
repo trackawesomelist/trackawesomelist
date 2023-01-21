@@ -2,7 +2,7 @@
 
 Curated list of awesome Esoteric languages and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/angrykoala/awesome-esolangs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) · ⭐ 382 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/angrykoala/awesome-esolangs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) · ⭐ 382 · 🏷️ Miscellaneous
 
 [ [Daily](/content/angrykoala/awesome-esolangs/README.md) / [Weekly](/content/angrykoala/awesome-esolangs/week/README.md) / Overview ]
 

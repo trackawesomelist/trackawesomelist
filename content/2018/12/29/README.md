@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐654)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐663)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.3k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

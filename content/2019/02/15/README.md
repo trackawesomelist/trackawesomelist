@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,7 +46,7 @@
 
 ### Testing
 
-*   [webdriver\_pump (⭐3)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐15)](https://github.com/bwilczek/watir_pump)
+*   [webdriver\_pump (⭐3)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐16)](https://github.com/bwilczek/watir_pump)
 
 ## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -80,11 +80,11 @@
 
 ### Status Bar
 
-*   [tmux-battery (⭐400)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+*   [tmux-battery (⭐408)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 *   [tmux-maildir-counter (⭐30)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
-*   [tmux-mem-cpu-load (⭐890)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
-*   [tmux-online-status (⭐150)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
-*   [tmux-prefix-highlight (⭐439)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+*   [tmux-mem-cpu-load (⭐896)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
+*   [tmux-online-status (⭐151)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
+*   [tmux-prefix-highlight (⭐444)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 
 ## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

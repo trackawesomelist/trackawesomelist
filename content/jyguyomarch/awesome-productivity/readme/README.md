@@ -2,7 +2,7 @@
 
 A curated list of delightful productivity resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jyguyomarch/awesome-productivity/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) · ⭐ 1.8K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jyguyomarch/awesome-productivity/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) · ⭐ 1.8K · 🏷️ Work
 
 [ [Daily](/content/jyguyomarch/awesome-productivity/README.md) / [Weekly](/content/jyguyomarch/awesome-productivity/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,20 +48,9 @@
 
 ## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Editors
+### Software / Editors
 
 *   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
-
-### Monitoring / Metric & Metric Collection
-
-*   Collectors only
-    *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
-    *   [Collectd](http://collectd.org/) - System statistic collection daemon.
-    *   [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
-    *   [PGObserver (⭐310)](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
-    *   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Application statistic listener.
-    *   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
-    *   [Telegraf (⭐12k)](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
 ## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

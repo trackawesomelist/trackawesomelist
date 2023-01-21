@@ -2,7 +2,7 @@
 
 A curated list of testing resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/TheJambo/awesome-testing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) · ⭐ 1.1K · 🏷️ Testing
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/TheJambo/awesome-testing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) · ⭐ 1.1K · 🏷️ Testing
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / Overview ]
 

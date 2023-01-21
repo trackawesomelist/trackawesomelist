@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 *   [Rohban et al. 2017](https://doi.org/10.7554/eLife.24060.001) - Cell painting data from 220 overexpressed genes in U2OS cells (Access from public S3 bucket: `s3://cytodata/datasets/TA-ORF-BBBC037-Rohban/profiles_cp/TA-ORF-BBBC037-Rohban/`).
 *   Unpublished - Cell painting profiles of 596 overexpressed alleles from 53 genes in A549 cells (Access from public S3 bucket: `s3://cytodata/datasets/LUAD-BBBC043-Caicedo/profiles_cp/LUAD-BBBC043-Caicedo/`)
-*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐28)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
+*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐29)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Auth / Image Picker
 
-*   [Apple Sign-In (⭐159)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
+*   [Apple Sign-In (⭐157)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -108,29 +108,25 @@
 
 ### Tools / Ansible
 
-*   [bashdot (⭐94)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
-*   [chezmoi (⭐7.8k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-*   [dotbot (⭐5.7k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
-*   [dotdrop (⭐1.4k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-*   [Fisher (⭐6.1k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish
+*   [bashdot (⭐95)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
+*   [chezmoi (⭐8.3k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+*   [dotbot (⭐5.9k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+*   [dotdrop (⭐1.5k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+*   [Fisher (⭐6.3k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish
 *   [homeshick (⭐1.9k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-*   [mackup (⭐12k)](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+*   [mackup (⭐13k)](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 
 ### Tools / macOS
 
-*   [dockutil (⭐1.1k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
-*   [mas (⭐9.3k)](https://github.com/mas-cli/mas) - Mac App Store command line interface
-
-### Miscellaneous / macOS
-
-*   [dotfiles.github.io](http://dotfiles.github.io) - Your unofficial guide to dotfiles on GitHub.
+*   [dockutil (⭐1.2k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
+*   [mas (⭐9.5k)](https://github.com/mas-cli/mas) - Mac App Store command line interface
 
 ### Archive/abandoned projects / macOS
 
 *   [Bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap)
 *   [battleschool (⭐417)](https://github.com/spencergibb/battleschool)
-*   [Eduardo's dotfiles (⭐421)](https://github.com/eduardolundgren/dotfiles)
-*   [Kevin's dotfiles (⭐112)](https://github.com/kdeldycke/dotfiles)
+*   [Eduardo's dotfiles (⭐420)](https://github.com/eduardolundgren/dotfiles)
+*   [Kevin's dotfiles (⭐115)](https://github.com/kdeldycke/dotfiles)
 *   [kody (⭐134)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 

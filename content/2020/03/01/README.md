@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 01, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐195)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [enginesound (⭐201)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -55,16 +55,10 @@
 
 ### Roles / Engineering Managers
 
-*   [Engineering Manager Resources (⭐7.9k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
+*   [Engineering Manager Resources (⭐8k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 *   [The Leadership Library for Engineers](https://leadership-library.dev) - A list of books to help engineering leaders level up.
 
-## [8. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
-
-### Software Engineering
-
-*   [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - Norway's ISO country code is also valid YAML for False.
-
-## [9. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [8. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Other
 
@@ -73,13 +67,13 @@
     to django.contrib.flatpages but with a tree structure and traversal algorithm
     in URL dispatch.
 
-## [10. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [9. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Videos
 
 *   [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) - How we can make smarter design decisions, from the beginning of a project, to ensure that our sites perform well.
 
-## [11. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 

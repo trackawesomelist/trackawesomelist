@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 18, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,35 +24,7 @@
 
 *   [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451) Alex Tellez, Max Pumperla, Michal Malohlava. (2017)
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### ASP.NET
-
-*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure (2020)](https://aka.ms/webappebook) - Steve "ardalis" Smith (PDF) (:construction: *in process*)
-*   [ASP.NET with C# (2008)](http://www.vijaymukhi.com/documents/books/vsnet/content.htm) - Vijay Mukhi, Sonal Mukhi, Neha Kotecha
-*   [Diving into ASP.NET WebAPI (2016) (⭐7)](https://github.com/akhilmittal/FreeBooks/) - Akhil Mittal (PDF)
-*   [Introducing ASP.NET Web Pages 2 (2012)](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) - Mike Pope (PDF)
-
-### ASP.NET Core
-
-*   [The Little ASP.NET Core Book (2018)](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) - Nate Barbettini (PDF)
-
-### Assembly Language / Blazor
-
-*   [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) (:construction: *in process*)
-*   [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
-*   [x86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly) - Wikibooks
-*   [Zen of Assembly Language: Volume I, Knowledge (1990)](http://www.jagregory.com/abrash-zen-of-asm/) - Michael Abrash
-
-### Haskell / Spock Framework
-
-*   [Haskell Notes for Professionals](https://goalkicker.com/HaskellBook/) - Compiled from StackOverflow documentation (PDF)
-
-### Linux / TeX
-
-*   [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
-
-## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -66,31 +38,31 @@
 
 
 
-## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Brands
 
 *   [Vantastic Foods](https://www.vantastic-foods.com/) - Massive selection of plant-based products, including their own brand with different types of delicious sausages, slices, and more.
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Media / Video
 
-*   [CamerAwesome (⭐404)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
+*   [CamerAwesome (⭐486)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Configuration
 
 *   [Envy (⭐5)](https://github.com/grottopress/envy) - Load environment variables from YAML
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
 *   [轻芒杂志<strike>（草稿版）</strike>](http://qingmang.me/beta/) <sup>[741](https://t.me/s/aboutrss/741), [743](https://t.me/s/aboutrss/743), [809](https://t.me/s/aboutrss/809), [812](https://t.me/s/aboutrss/812), [828](https://t.me/s/aboutrss/828)</sup> ![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)
 *   RSS Savvy <sup>[811](https://t.me/s/aboutrss/811)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.savvysaurus.rsssavvy)
-*   [NiceFeed (⭐82)](https://github.com/joshuacerdenia/NiceFeed) <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joshuacerdenia/NiceFeed)
+*   [NiceFeed (⭐85)](https://github.com/joshuacerdenia/NiceFeed) <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joshuacerdenia/NiceFeed)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -113,7 +85,7 @@
 
 *   [中文独立博客全订阅计划](https://box.othing.xyz/) <sup>[834](https://t.me/s/aboutrss/834)</sup>
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -129,13 +101,13 @@
 
 
 
-## [11. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
+## [10. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
 ### Books
 
 *   [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.oreilly.com/library/view/sdn-software-defined/9781449342425/)
 
-## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### NMOS
 
@@ -144,7 +116,7 @@
 *   [nmos-cpp (⭐88)](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
 *   [nmos-js (⭐23)](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
@@ -154,7 +126,7 @@
 
 *   [vue3-tabs (⭐28)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 
-## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 

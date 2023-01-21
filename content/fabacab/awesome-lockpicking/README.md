@@ -2,7 +2,7 @@
 
 :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fabacab/awesome-lockpicking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) · ⭐ 961 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fabacab/awesome-lockpicking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) · ⭐ 961 · 🏷️ Security
 
 [ Daily / [Weekly](/content/fabacab/awesome-lockpicking/week/README.md) / [Overview](/content/fabacab/awesome-lockpicking/readme/README.md) ]
 

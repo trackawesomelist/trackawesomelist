@@ -2,7 +2,7 @@
 
 An aggregation of tooling for using ES6 today
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/addyosmani/es6-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) · ⭐ 3.9K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/addyosmani/es6-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) · ⭐ 3.9K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/addyosmani/es6-tools/week/README.md) / [Overview](/content/addyosmani/es6-tools/readme/README.md) ]
 

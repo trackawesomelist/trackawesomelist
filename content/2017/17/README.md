@@ -2,7 +2,7 @@
 
 42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐728)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐744)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -138,14 +138,14 @@
 
 *   [AMD](http://gpuopen.com/tag/vulkan/)
     *   [Vulkan barriers explained](http://gpuopen.com/vulkan-barriers-explained/)
-    *   [Vulkan Fast Paths](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
-    *   [Let Your Game Shine – Optimizing DirectX 12 and Vulkan Performance with AMD CodeXL	](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/Let_your_game_shine_optimizing_DirectX-12_and_Vulkan-performance_with_AMD_CodeXL.pdf)
-    *   [D3D12 & Vulkan: Lessons Learned	 ](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/d3d12_vulkan_lessons_learned.pdf)
+    *   [Vulkan Fast Paths](https://gpuopen.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
+    *   [Let Your Game Shine – Optimizing DirectX 12 and Vulkan Performance with AMD CodeXL	](https://gpuopen.com/wp-content/uploads/2016/03/Let_your_game_shine_optimizing_DirectX-12_and_Vulkan-performance_with_AMD_CodeXL.pdf)
+    *   [D3D12 & Vulkan: Lessons Learned	 ](https://gpuopen.com/wp-content/uploads/2016/03/d3d12_vulkan_lessons_learned.pdf)
     *   [Say Hello to a New Rendering API in Town!](http://gpuopen.com/say-hello/)
     *   [Vulkan Renderpasses](http://gpuopen.com/vulkan-renderpasses/)
     *   [Performance tweets series: Barriers, fences, synchronization](http://gpuopen.com/performance-tweets-series-barriers-fences-synchronization/)
     *   [Using the Vulkan™ Validation Layers](http://gpuopen.com/using-the-vulkan-validation-layers/)
-    *   [Most common mistakes in Vulkan apps](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf)
+    *   [Most common mistakes in Vulkan apps](https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf)
     *   [Vulkan Device Memory](http://gpuopen.com/vulkan-device-memory/)
 
 ### Tutorial
@@ -154,15 +154,15 @@
 
 ### Tools
 
-*   [LoaderAndValidationLayers (⭐414)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
-*   [VulkanTools (⭐560)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. \[Apache Licence 2.0]
+*   [LoaderAndValidationLayers (⭐413)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
+*   [VulkanTools (⭐574)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. \[Apache Licence 2.0]
 
 ### Books
 
 *   [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-    *   [Book's Examples (⭐170)](https://github.com/PacktPublishing/Learning-Vulkan)
+    *   [Book's Examples (⭐176)](https://github.com/PacktPublishing/Learning-Vulkan)
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-    *   [Book's Examples (⭐617)](https://github.com/PacktPublishing/Vulkan-Cookbook)
+    *   [Book's Examples (⭐627)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
 ## [12. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -174,7 +174,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐752)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐753)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -321,7 +321,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotdrop (⭐1.4k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+*   [dotdrop (⭐1.5k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 
 ## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -430,11 +430,11 @@
 
 ### Authentication and OAuth
 
-*   [Monban (⭐380)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
+*   [Monban (⭐379)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 
 ### E-Commerce and Payments
 
-*   [Conekta (⭐31)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
+*   [Conekta (⭐30)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 
 ## [36. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 

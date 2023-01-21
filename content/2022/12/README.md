@@ -2,7 +2,7 @@
 
 55 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Deployment / Distribution / Collection View Layout
 
-*   [ios-uploader (⭐106)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
+*   [ios-uploader (⭐109)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
 
 ## [3. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -28,16 +28,16 @@
 
 ### Software / Document Management
 
-*   [Paperless-ngx (⭐4.8k)](https://github.com/paperless-ngx/paperless-ngx) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/)) `GPL-3.0` `Python`
+*   [Paperless-ngx (⭐5.4k)](https://github.com/paperless-ngx/paperless-ngx) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/)) `GPL-3.0` `Python`
 
 ### Software / Knowledge Management Tools
 
-*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐189)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
+*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐196)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.1k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
 
 ### Software / Miscellaneous
 
-*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐1.9k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐240)](https://github.com/koillection/koillection)) `MIT` `PHP`
+*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐253)](https://github.com/koillection/koillection)) `MIT` `PHP`
 
 ## [5. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Applications / Simulation
 
-*   [hEngine (⭐665)](https://github.com/hashintel/hash/tree/main/packages/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
+*   [hEngine (⭐697)](https://github.com/hashintel/hash/tree/main/packages/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
 
 ## [7. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -73,8 +73,8 @@
 
 ### Packages / Containerization
 
-*   [osrf/docker\_images (⭐362)](https://github.com/osrf/docker_images) - Dockerfiles of [Official Library on Docker Hub](https://hub.docker.com/_/ros) and [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
-*   [docker-ros2-desktop-vnc (⭐194)](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
+*   [osrf/docker\_images (⭐366)](https://github.com/osrf/docker_images) - Dockerfiles of [Official Library on Docker Hub](https://hub.docker.com/_/ros) and [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
+*   [docker-ros2-desktop-vnc (⭐204)](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
 
 ## [11. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
 
@@ -88,8 +88,8 @@
 
 ### Tools / Administration
 
-*   [k8s-backup-mongodb (⭐24)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
-*   [mgob (⭐769)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
+*   [k8s-backup-mongodb (⭐26)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
+*   [mgob (⭐770)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
 
 ## [13. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
@@ -101,31 +101,31 @@
 
 ### Syntax / Diagnostics
 
-*   [m-demare/hlargs.nvim (⭐237)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [m-demare/hlargs.nvim (⭐250)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
 ### Utility / Diagnostics
 
-*   [toppair/reach.nvim (⭐146)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
+*   [toppair/reach.nvim (⭐162)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [shaunsingh/nyoom.nvim (⭐465)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
+*   [shaunsingh/nyoom.nvim (⭐614)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 
 ## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [mvysny/vaadin-on-kotlin (⭐164)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
+*   [mvysny/vaadin-on-kotlin (⭐166)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
 ## [16. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Official Resources
 
-*   [Community Help Board (⭐18k)](https://github.com/directus/directus/discussions/categories/q-a)
+*   [Community Help Board (⭐19k)](https://github.com/directus/directus/discussions/categories/q-a)
 
 ## [17. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### Learning / Crash Courses
+### Crash Courses
 
 *   [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal crash course video lectures.
 
@@ -227,9 +227,9 @@
 
 ### Resources / SRAM
 
-*   [MicroPython](https://micropython.org) - Project website. Test drive the pyboard. Try MicroPython online with unicorn.
+*   [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 *   [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
-*   [MicroPython Wiki](https://wiki.micropython.org/) - Community generated documentation and examples of the features of MicroPython and the pyboard.
+*   [MicroPython Wiki](https://wiki.micropython.org/) - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 *   [MicroPython Newsletter](https://micropython.org/newsletter) - Subscribe to the MicroPython newsletter for news and announcements including new features and new products.
 
 ## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
@@ -250,13 +250,13 @@
 
 ### Performance
 
-*   [AppleCake (⭐13)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
+*   [AppleCake (⭐14)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 
 ## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-icons (⭐16)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+*   [vue-icons (⭐19)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 ### Components & Libraries / Utilities
 
@@ -286,13 +286,13 @@
 
 ### Templates
 
-*   [yew-template-for-github-io (⭐16)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
+*   [yew-template-for-github-io (⭐17)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
 
 ## [31. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
-*   [supertest-graphql (⭐20)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
+*   [supertest-graphql (⭐21)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 
 ## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -314,7 +314,7 @@
 
 ### Apps
 
-*   [DDraceNetwork (⭐365)](https://github.com/ddnet/ddnet/) - Cooperative 2D platformer with optional [Vulkan backend (⭐365)](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib (⭐365)](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
+*   [DDraceNetwork (⭐371)](https://github.com/ddnet/ddnet/) - Cooperative 2D platformer with optional [Vulkan backend (⭐371)](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib (⭐371)](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
 
 ## [35. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -336,19 +336,19 @@
 
 ### Bloom and Cuckoo Filters
 
-*   [bloom (⭐1.7k)](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
+*   [bloom (⭐1.8k)](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go18ds (⭐29)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
+*   [go18ds (⭐31)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
 
 ### Databases Implemented in Go
 
-*   [dtf (⭐227)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
+*   [dtf (⭐224)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
 
 ### Functional
 
-*   [underscore (⭐75)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
+*   [underscore (⭐78)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
 
 ### Job Scheduler
 
@@ -372,28 +372,28 @@
 ### Starter apps and CLIs
 
 *   [awesome-arcgis (⭐21)](https://github.com/esri-es/awesome-arcgis/) - Awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
-*   [awesome-earthobservation-code (⭐895)](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
+*   [awesome-earthobservation-code (⭐933)](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
 *   [awesome-geojson (⭐1.9k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
 *   [awesome-geospatial (⭐3k)](https://github.com/sacridini/Awesome-Geospatial) - Databases, radar, lidar, web map development, etc.
-*   [awesome-gis (⭐3.1k)](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-*   [awesome-json-datasets (⭐2.6k)](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
+*   [awesome-gis (⭐3.2k)](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
+*   [awesome-json-datasets (⭐2.7k)](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
 *   [awesome-open-geoscience (⭐1k)](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
 *   [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets.
-*   [awesome-remote-sensing-change-detection (⭐943)](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
-*   [awesome-satellite-imagery-datasets (⭐2.9k)](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
-*   [awesome-semantic-segmentation (⭐9.6k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
-*   [awesome-vector-tiles (⭐1.8k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
+*   [awesome-remote-sensing-change-detection (⭐997)](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
+*   [awesome-satellite-imagery-datasets (⭐3k)](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
+*   [awesome-semantic-segmentation (⭐9.7k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
+*   [awesome-vector-tiles (⭐1.9k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
 ## [39. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### DevOps / Newsletters
 
-*   [Makes (⭐238)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
+*   [Makes (⭐259)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 
 ### NixOS Modules / Scala
 
-*   [Home Manager (⭐3.4k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
-*   [NixVim (⭐96)](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+*   [Home Manager (⭐3.5k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
+*   [NixVim (⭐147)](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
 ## [40. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -493,7 +493,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [terragrunt (⭐6)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐6.4k)](https://github.com/gruntwork-io/terragrunt).
+*   [terragrunt (⭐6)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐6.5k)](https://github.com/gruntwork-io/terragrunt).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -614,7 +614,7 @@
 
 ### Databases
 
-*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐42k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐42k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐44k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐44k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
 
 ### Home Assistants
 
@@ -659,22 +659,22 @@
 
 ### Templates / Vue 3
 
-*   [vite-vue-ts-tailwind-v3 (⭐5)](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
-*   [Vue Naive (⭐561)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+*   [vite-vue-ts-tailwind-v3 (⭐4)](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+*   [Vue Naive (⭐593)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 *   [vue-admin-box (⭐1.1k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 
 ### Templates / React
 
 *   [vite-react-ts-tailwind-v3 (⭐14)](https://github.com/huibizhang/template-vite-react-ts-tailwind-v3) - Starter template for React + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
-*   [vite-react-starter (⭐27)](https://github.com/fabgrel10/vite-react-starter) - React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library.
+*   [vite-react-starter (⭐31)](https://github.com/fabgrel10/vite-react-starter) - React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-load-css-module (⭐10)](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
+*   [vite-plugin-load-css-module (⭐11)](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
 
 ### Vue / Helpers
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐334)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐426)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 
 ---
 

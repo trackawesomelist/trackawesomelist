@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,7 +27,6 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [whobrokemycode (⭐0)](https://github.com/cameronbroe/whobrokemycode) - Highlight where a particular line was last changed in a file using `git blame`.
 *   [znotify (⭐0)](https://github.com/rudeigerc/znotify) - A simple plugin for sending notifications to other services.
 *   [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) - Adds [Redis](https://redis.io/) database support, with `database_key` <-> `shell_variable` binding. Supports all data types.
-*   [zshmux (⭐8)](https://github.com/huboles/zshmux) - When a new shell is launched, quickly checks if there are any `tmux` sessions, or if the current shell is already in a `tmux` instance. If you are not already in a `tmux` session it will list all currently active sessions, and ask if you want to attach a currently running session, or make a new session in the shell.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -35,41 +34,41 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [mzpt (⭐2)](https://github.com/linrongbin16/mzpt/) - Minimal prompt inspired by [powerlevel10k (⭐33k)](https://github.com/romkatv/powerlevel10k).
+*   [mzpt (⭐2)](https://github.com/linrongbin16/mzpt/) - Minimal prompt inspired by [powerlevel10k (⭐34k)](https://github.com/romkatv/powerlevel10k).
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics (⭐187)](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics): A tutorial to help machine learning researchers to automatically obtain optimized machine learning models with the optimal learning performance on any specific task.
+*   [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics (⭐217)](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics): A tutorial to help machine learning researchers to automatically obtain optimized machine learning models with the optimal learning performance on any specific task.
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
-*   [FlatPress](https://flatpress.org/) - A lightweight, easy-to-set-up flat-file blogging engine. ([Source Code (⭐142)](https://github.com/flatpressblog/flatpress)) `GPL-2.0` `PHP`
+*   [FlatPress](https://flatpress.org/) - A lightweight, easy-to-set-up flat-file blogging engine. ([Source Code (⭐143)](https://github.com/flatpressblog/flatpress)) `GPL-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Delivery Agents
 
-*   [Stalwart JMAP](https://stalw.art/jmap) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐388)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust`
+*   [Stalwart JMAP](https://stalw.art/jmap) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐405)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Demo](https://demo.payloadcms.com), [Source Code (⭐8.7k)](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
+*   [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Demo](https://demo.payloadcms.com), [Source Code (⭐9.1k)](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
 
 ### Software / Polls and Events
 
-*   [Claper](https://claper.co/) - The ultimate tool to interact with your audience. An open-source alternative to Slido, AhaSlides and Mentimeter. ([Source Code (⭐154)](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
+*   [Claper](https://claper.co/) - The ultimate tool to interact with your audience. An open-source alternative to Slido, AhaSlides and Mentimeter. ([Source Code (⭐158)](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
 
 ### Software / Ticketing
 
-*   [Iguana (⭐46)](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board. `CC-BY-SA-4.0` `Python/Docker`
+*   [Iguana (⭐50)](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board. `CC-BY-SA-4.0` `Python/Docker`
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vue-facing-decorator (⭐85)](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
+*   [vue-facing-decorator (⭐92)](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
 
 ## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -87,7 +86,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Image Processing
 
-*   [Real-ESRGAN-GUI (⭐167)](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Real-ESRGAN GUI Wrapper. \[日本語]
+*   [Real-ESRGAN-GUI (⭐199)](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Real-ESRGAN GUI Wrapper. \[日本語]
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

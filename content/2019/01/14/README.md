@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,23 +44,23 @@
 
 ### Algorithms and Data structures
 
-*   [Algorithmia (⭐488)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
+*   [Algorithmia (⭐492)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 
 ### Application Frameworks
 
-*   [DotNetty (⭐3.7k)](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
+*   [DotNetty (⭐3.8k)](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 
 ### Compilers, Transpilers and Languages
 
-*   [Nemerle (⭐592)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
+*   [Nemerle (⭐596)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 
 ### Documentation
 
-*   [DocNet (⭐232)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
+*   [DocNet (⭐233)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
 
 ### Event aggregator and messenger
 
-*   [MediatR (⭐8.8k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
+*   [MediatR (⭐9k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 
 ### Logging
 
@@ -69,7 +69,7 @@
 ### Misc
 
 *   [Polly (⭐11k)](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
-*   [Warden (⭐616)](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
+*   [Warden (⭐615)](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
 
 ### Queue
 
@@ -79,7 +79,7 @@
 
 ### Testing
 
-*   [Canopy (⭐497)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
+*   [Canopy (⭐496)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Miscellaneous / Third Party
 
-*   [twitter-sentiment-visualisation (⭐163)](https://github.com/Lissy93/twitter-sentiment-visualisation) - A series of D3.js charts showing realtime sentiment of Twitter data
+*   [twitter-sentiment-visualisation (⭐171)](https://github.com/Lissy93/twitter-sentiment-visualisation) - A series of D3.js charts showing realtime sentiment of Twitter data
 
 ## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

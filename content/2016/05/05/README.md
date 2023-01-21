@@ -1,8 +1,8 @@
 # Awesome List Updates on May 05, 2016
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,13 +18,7 @@
 
 *   [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
 
-## [3. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
-
-## [4. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [3. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### GitHub
 

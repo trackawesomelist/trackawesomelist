@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -107,9 +107,9 @@
 *   [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
 *   [twitterscraper (⭐2.2k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape twitter
 
-### Data Manipulation / Data Containers
+### Data Manipulation / Data Frames
 
-*   [pandas\_profiling (⭐9.8k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+*   [pandas\_profiling (⭐10k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 ### Visualization / Interactive plots
 
@@ -119,9 +119,9 @@
 
 ### Visualization / Automatic Plotting
 
-*   [HoloViews (⭐2.3k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐991)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
-*   [SweetViz (⭐2.2k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
+*   [HoloViews (⭐2.4k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+*   [AutoViz (⭐1.1k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [SweetViz (⭐2.3k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP
 

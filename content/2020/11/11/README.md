@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -107,7 +107,7 @@
 
 ### Test / Checkbox
 
-*   [@testing-library/svelte (⭐528)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
+*   [@testing-library/svelte (⭐535)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 
 ## [13. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Tools / Collection View Layout
 
-*   [SkrybaMD (⭐15)](https://github.com/robertherdzik/SkrybaMD) - Markdown Documentation generator. If your team needs an easy way to maintain and create documentation, this generator is for you.
+*   [SkrybaMD (⭐16)](https://github.com/robertherdzik/SkrybaMD) - Markdown Documentation generator. If your team needs an easy way to maintain and create documentation, this generator is for you.
 
 ---
 

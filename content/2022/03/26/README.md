@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Performance
 
-*   [AppleCake (⭐13)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
+*   [AppleCake (⭐14)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Simulation
 
-*   [hEngine (⭐665)](https://github.com/hashintel/hash/tree/main/packages/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
+*   [hEngine (⭐697)](https://github.com/hashintel/hash/tree/main/packages/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Functional
 
-*   [underscore (⭐75)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
+*   [underscore (⭐78)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
 
 ### Third-party APIs
 

@@ -1,27 +1,30 @@
 # Awesome List Updates on Dec 06, 2022
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+
+### Prompting
+
+*   ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
 
 ### Assistants
 
 *   [Personal trainer and nutritionist](https://twitter.com/anothercohen/status/1599531037570502656)
 *   [Generating legal contracts](https://twitter.com/atri_life/status/1599506327461859328)
 *   [Solving complex academic assignments](https://twitter.com/abhnvx/status/1598258353196929024)
-*   [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs,...)](https://twitter.com/gabe_ragland/status/1599466486422470656)
 *   [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
 *   [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
 
 ### Coding
 
 *   [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
-*   [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
-*   [Extension to use ChatGPT within VS Code](https://twitter.com/marcelpociot/status/1599180144551526400)
+*   ⭐️ [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
+*   ⭐️ [Extension to use ChatGPT within VS Code](https://twitter.com/marcelpociot/status/1599180144551526400)
 *   [Streamlining cloud APIs to perform complex tasks](https://twitter.com/amasad/status/1598089698534395924)
 *   [Solving complex coding questions](https://twitter.com/goodside/status/1598129631609380864)
 *   [Answering unanswered Stack Overflow questions](https://twitter.com/htmleverything/status/1599443014153224193)
@@ -30,20 +33,10 @@
 
 ### ChatGPT explainers
 
-*   [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
+*   ⭐️ [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
 *   [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
 
-### Other
-
-*   [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Go / Phoenix
-
-*   [Golang by Example](https://golangbyexample.com)
-
-## [3. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
+## [2. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
 
 ### Official Resource
 
@@ -110,4 +103,4 @@
 ---
 
 - Prev: [Dec 07, 2022](/content/2022/12/07/README.md)
-- Next: [Dec 04, 2022](/content/2022/12/04/README.md)
+- Next: [Dec 05, 2022](/content/2022/12/05/README.md)

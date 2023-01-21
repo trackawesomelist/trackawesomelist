@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,9 +41,9 @@
 
 ### Project skeletons / Third-party APIs
 
-*   [cl-project (⭐198)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-project (⭐201)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [cl-project-with-docs (⭐3)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-cookieproject (⭐42)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-cookieproject (⭐43)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   test definitions, entry point to run from sources, build a binary, Roswell integration…
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)

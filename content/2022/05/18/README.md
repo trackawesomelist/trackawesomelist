@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AutoColliders (⭐4)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future (Godot 3.x).
+*   [AutoColliders (⭐5)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future (Godot 3.x).
 
 ## [3. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -33,43 +33,43 @@
 
 ### Providers / Hashicorp supported providers
 
-*   [terraform-provider-aws (⭐7.9k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
-*   [terraform-provider-azurerm (⭐3.7k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
-*   [terraform-provider-docker (⭐135)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker.
-*   [terraform-provider-google (⭐1.8k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
-*   [terraform-provider-helm (⭐880)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
+*   [terraform-provider-aws (⭐8.1k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
+*   [terraform-provider-azurerm (⭐3.8k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
+*   [terraform-provider-docker (⭐136)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker.
+*   [terraform-provider-google (⭐1.9k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
+*   [terraform-provider-helm (⭐899)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
 *   [terraform-provider-kubernetes (⭐1.3k)](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
-*   [terraform-provider-vsphere (⭐514)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
+*   [terraform-provider-vsphere (⭐518)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-alicloud (⭐487)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
-*   [terraform-provider-atlas (⭐29)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
-*   [terraform-provider-buildkite (⭐47)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
-*   [terraform-provider-datadog (⭐301)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
-*   [terraform-provider-digitalocean (⭐418)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
+*   [terraform-provider-alicloud (⭐499)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
+*   [terraform-provider-atlas (⭐34)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
+*   [terraform-provider-buildkite (⭐48)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
+*   [terraform-provider-datadog (⭐310)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+*   [terraform-provider-digitalocean (⭐427)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 *   [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
-*   [terraform-provider-gitlab (⭐346)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
-*   [terraform-provider-graphql (⭐40)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
-*   [terraform-provider-hcloud (⭐338)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
+*   [terraform-provider-gitlab (⭐353)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
+*   [terraform-provider-graphql (⭐41)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
+*   [terraform-provider-hcloud (⭐361)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
 *   [terraform-provider-heroku (⭐92)](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
-*   [terraform-provider-ibm (⭐305)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
+*   [terraform-provider-ibm (⭐310)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
 *   [terraform-provider-linode (⭐72)](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
-*   [terraform-provider-spinnaker (⭐147)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
-*   [terraform-provider-spotinst (⭐54)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
+*   [terraform-provider-spinnaker (⭐146)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
+*   [terraform-provider-spotinst (⭐58)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Driver layer
 
-*   [Universal Robots (⭐168)](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
+*   [Universal Robots (⭐175)](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
 
 ## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
 *   :clipboard: [Hyperion: Implementation of a PE-Crypter](https://www.exploit-db.com/docs/english/18849-hyperion-implementation-of-a-pe-crypter.pdf)
-*   :pushpin: [Packer detection tool evaluation (⭐5)](https://github.com/FFRI/PackerDetectionToolEvaluation)
+*   :pushpin: [Packer detection tool evaluation (⭐6)](https://github.com/FFRI/PackerDetectionToolEvaluation)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
@@ -78,7 +78,7 @@
 
 ### :package: Packers / Before 2000
 
-*   [Morphine (⭐262)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
+*   [Morphine (⭐268)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -124,7 +124,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐120)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐119)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ## [11. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -239,7 +239,7 @@
 
 *   [CXML](https://common-lisp.net/project/cxml/) - XML parser and serializer, with a range of extension libraries. [LLGPL](http://opensource.franz.com/preamble.html).
     *   👍 has an incremental parser, allowing to parse big files.
-    *   see the [FXML (⭐23)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
+    *   see the [FXML (⭐24)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
 
 ## [18. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
@@ -257,7 +257,7 @@
 
 ### Job Scheduler
 
-*   [Dagu (⭐523)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Dagu (⭐557)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ---
 

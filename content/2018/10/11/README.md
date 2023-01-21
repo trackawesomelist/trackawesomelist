@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Top / Game Engine resources
 
-*   [Trinity Orientation @ Univ Toronto (⭐600)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
+*   [Trinity Orientation @ Univ Toronto (⭐604)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Community
 
-*   [print-licenses (⭐18)](https://github.com/vindarel/print-licenses) - print licenses used by a project and its dependencies. [MIT](https://opensource.org/licenses/MIT).
+*   [print-licenses (⭐19)](https://github.com/vindarel/print-licenses) - print licenses used by a project and its dependencies. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -92,7 +92,7 @@
 
 ### XML
 
-*   [Mini-XML (⭐367)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐370)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

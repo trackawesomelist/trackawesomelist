@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -67,13 +67,13 @@
 
 ### Plugins
 
-*   💼🧬 [Radix (⭐1k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   💼🧬 [Radix (⭐1.2k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
 ## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐8.5k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

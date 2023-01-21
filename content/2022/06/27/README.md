@@ -2,15 +2,15 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Assembly Language / Blazor
+### Computer Science
 
-*   [The Grain Docs](https://grain-lang.org/docs/)
+*   [A Data-Centric Introduction to Computing](https://dcic-world.org) - Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz (HTML)
 
 ## [2. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Parser / Package managers
 
-*   [iddev5/inon (⭐8)](https://github.com/iddev5/inon) - Data configuration file format.
+*   [iddev5/inon (⭐9)](https://github.com/iddev5/inon) - Data configuration file format.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-mock-extended (⭐29)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+*   [vitest-mock-extended (⭐37)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [ziontee113/color-picker.nvim (⭐161)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+*   [ziontee113/color-picker.nvim (⭐167)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 
 ### Formatting / Diagnostics
 
@@ -78,11 +78,6 @@
 - Website: <https://aws.amazon.com>
 
   Description: **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.
-
-
-- Website: <https://heroku.com>
-
-  Description: **Heroku** is the platform for building with modern architectures, innovating quickly, and scaling precisely to meet demand. It helps you focus and invest in your apps and not ops.
 
 
 - Website: <https://pages.github.com>
@@ -1283,7 +1278,7 @@
 
 ### Related awesome
 
-*   [Awesome Electronics (⭐4.3k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐4.5k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -1314,7 +1309,7 @@
 
 ### Plugins for Minecraft
 
-*   [No-Telemetry (⭐156)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
+*   [No-Telemetry (⭐162)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
 ## [15. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 

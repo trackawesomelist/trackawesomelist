@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 07 - Jul 13, 2014
 
-5 awesome lists updated this week.
+4 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -72,7 +72,7 @@
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.1k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.2k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 ### Font
@@ -83,7 +83,7 @@
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐356)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐357)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 
@@ -126,7 +126,7 @@
 *   [colors (⭐7)](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 *   [decimal (⭐412)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 *   [inflex (⭐365)](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
-*   [uuid (⭐346)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [uuid (⭐345)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
@@ -192,16 +192,7 @@
 *   [progress.js (⭐2.4k)](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
 *   [PageLoadingEffects (⭐634)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### NoSQL / Metric & Metric Collection
-
-*   Column-Family
-    *   [Apache HBase](http://hbase.apache.org/) - Hadoop database, a distributed, big data store.
-    *   [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
-    *   [Hypertable](http://hypertable.org/) - C++ based BigTable-like DBMS, communicates through Thrift and runs either as stand-alone or on distributed FS such as Hadoop.
-
-## [5. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Code generation / Brunch Plugins
 

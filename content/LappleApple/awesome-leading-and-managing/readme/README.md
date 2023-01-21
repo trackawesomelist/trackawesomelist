@@ -2,7 +2,7 @@
 
 Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/LappleApple/awesome-leading-and-managing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) · ⭐ 6.3K · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/LappleApple/awesome-leading-and-managing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) · ⭐ 6.3K · 🏷️ Business
 
 [ [Daily](/content/LappleApple/awesome-leading-and-managing/README.md) / [Weekly](/content/LappleApple/awesome-leading-and-managing/week/README.md) / Overview ]
 

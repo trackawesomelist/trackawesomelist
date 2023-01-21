@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -81,7 +81,7 @@
 
 ### Projects / Godot 3.2+
 
-*   [Arrow (⭐545)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐566)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [KICS (⭐1.3k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+*   [KICS (⭐1.4k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 
 ## [12. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vuetube (⭐10)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
+*   [vuetube (⭐12)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 
 ## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

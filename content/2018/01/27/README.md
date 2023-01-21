@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐209)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐216)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ## [2. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -48,11 +48,11 @@
 
 ### Routing
 
-*   [orion (⭐120)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
+*   [orion (⭐121)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
 ## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Backups
+### Software / Backups
 
 *   [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
 

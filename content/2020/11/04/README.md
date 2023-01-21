@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -74,7 +74,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-qr-reader (⭐68)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
+*   [vue3-qr-reader (⭐71)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
 
 ## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -95,23 +95,23 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [V-Dashboard (⭐763)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
+*   📁 [V-Dashboard (⭐771)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 ### Starters & Themes
 
-*   🚀 [Vite + React + Tailwind Starter (⭐196)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
+*   🚀 [Vite + React + Tailwind Starter (⭐197)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [ADMINLTE (⭐204)](https://github.com/sjefvanleeuwen/blazor-adminlte) - ![stars](https://img.shields.io/github/stars/sjefvanleeuwen/blazor-adminlte?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/sjefvanleeuwen/blazor-adminlte?style=flat-square\&cacheSeconds=86400) ADMINLTE for Blazor is a collection of reusable components, with which you can easily develop digital services as a designer or developer. Think of buttons, form elements and page templates. This project adapts ADMINLTE 3 so the components can be used from dotnet core Blazor.
-*   [Material.Blazor (⭐191)](https://github.com/Material-Blazor/Material.Blazor) - ![stars](https://img.shields.io/github/stars/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=86400) An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from [Google's material-components-web (⭐17k)](https://github.com/material-components/material-components-web/tree/master/packages) - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool "plus" components. [See our demo and comprehensive documentation](https://material-blazor.com).
+*   [ADMINLTE (⭐206)](https://github.com/sjefvanleeuwen/blazor-adminlte) - ![stars](https://img.shields.io/github/stars/sjefvanleeuwen/blazor-adminlte?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/sjefvanleeuwen/blazor-adminlte?style=flat-square\&cacheSeconds=86400) ADMINLTE for Blazor is a collection of reusable components, with which you can easily develop digital services as a designer or developer. Think of buttons, form elements and page templates. This project adapts ADMINLTE 3 so the components can be used from dotnet core Blazor.
+*   [Material.Blazor (⭐194)](https://github.com/Material-Blazor/Material.Blazor) - ![stars](https://img.shields.io/github/stars/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=86400) An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from [Google's material-components-web (⭐17k)](https://github.com/material-components/material-components-web/tree/master/packages) - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool "plus" components. [See our demo and comprehensive documentation](https://material-blazor.com).
 *   [MComponents (⭐56)](https://github.com/manureini/MComponents) - ![stars](https://img.shields.io/github/stars/manureini/MComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square\&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
 
 ### Individual components / CSS
 
-*   [BlazorSize (⭐252)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
+*   [BlazorSize (⭐255)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 
 ## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
-*   [Podsync (⭐1k)](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mxpv/podsync)
+*   [Podsync (⭐1.1k)](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mxpv/podsync)
 
 ## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

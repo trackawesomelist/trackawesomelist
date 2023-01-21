@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 25 - Aug 31, 2014
 
-16 awesome lists updated this week.
+15 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -56,7 +56,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐3.1k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -158,25 +158,19 @@
 
 ### Packages / Streams
 
-*   [multistream (⭐275)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐277)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐240)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐241)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
-## [14. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Pune](http://www.meetup.com/Doo-Things)
-
-## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Vision Detection / Runner
 
 *   [tracking.js (⭐9.2k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 
-## [16. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [15. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Debugging and Profiling
 

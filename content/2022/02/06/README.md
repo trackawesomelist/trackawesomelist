@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,14 +22,14 @@
 
 ### Libraries / C#
 
-*   [sharpSNMP (⭐290)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
-*   [SnmpSharpNet (⭐54)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
+*   [sharpSNMP (⭐299)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
+*   [SnmpSharpNet (⭐57)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
 ### Libraries / Java
 
 *   [joeSNMP](https://sourceforge.net/projects/joesnmp/) - joeSNMP is an open-source Java SNMP class library published under the LGPL.
 *   [Westhawk's SNMP](https://snmp.westhawk.co.uk/) - An open-sourced Java library that can be used for SNMP v1/v2c/v3. Supports traps, authentication and privacy. As authentication protocols it offers MD5 and SHA1.
-*   [mibble (⭐97)](https://github.com/cederberg/mibble) - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
+*   [mibble (⭐100)](https://github.com/cederberg/mibble) - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
 
 ### Tools / GUIs
 
@@ -78,7 +78,7 @@
 ### Open Source / Other
 
 *   [Browserosaurus (⭐1.2k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐626)](https://github.com/lostdesign/linked) - Daily journal.
+*   [linked (⭐634)](https://github.com/lostdesign/linked) - Daily journal.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -104,7 +104,7 @@
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Theory of Mind / Scientific Writing
+### Theory of Mind / Science Education
 
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 
@@ -112,7 +112,7 @@
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐366)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies [![build badge](https://api.travis-ci.org/dan-t/rusty-tags.svg?branch=master)](https://travis-ci.org/dan-t/rusty-tags)
+*   [dan-t/rusty-tags (⭐368)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies [![build badge](https://api.travis-ci.org/dan-t/rusty-tags.svg?branch=master)](https://travis-ci.org/dan-t/rusty-tags)
 
 ---
 

@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,42 +41,42 @@
 
 ### Others / Third-party APIs
 
-*   [Ciao (⭐4)](https://github.com/kjinho/ciao) - an easy-to-use Common Lisp OAuth 2.0 client library. It is a port of the Racket OAuth 2.0 Client to Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [Ciao (⭐6)](https://github.com/kjinho/ciao) - an easy-to-use Common Lisp OAuth 2.0 client library. It is a port of the Racket OAuth 2.0 Client to Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
-*   [libpqxx (⭐710)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
+*   [libpqxx (⭐716)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [jwt-cpp (⭐538)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
+*   [jwt-cpp (⭐543)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [cairo (⭐421)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
-*   [sigma-rust (⭐53)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
+*   [cairo (⭐513)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
+*   [sigma-rust (⭐52)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [Ahoo-Wang/CoSec (⭐5)](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
+*   [Ahoo-Wang/CoSec (⭐8)](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
 
 ## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Related Awesome Lists / Galleries
 
-*   [chaosreactor/awesome-generative-ai (⭐6)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
+*   [chaosreactor/awesome-generative-ai (⭐7)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Demo](https://demo.coolify.io/), [Source Code (⭐5.2k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
+*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Demo](https://demo.coolify.io/), [Source Code (⭐5.5k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -86,7 +86,7 @@
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Bridges / Wallets
+### Blockchain Bridges / Wallets
 
 *   [Messina](https://messina.one/) - The ALGO — ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
 

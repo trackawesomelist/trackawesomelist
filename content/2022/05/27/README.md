@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,13 +28,13 @@
 
 ### Search Engines
 
-*   [librengine (⭐35)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐36)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### VPN / Metric & Metric Collection
+### Software / VPN
 
-*   [Headscale (⭐9k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+*   [Headscale (⭐10k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Patterns
 
-*   [SwiftUI Atom Properties (⭐199)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
+*   [SwiftUI Atom Properties (⭐198)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [saveourtool/diktat (⭐410)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
+*   [saveourtool/diktat (⭐417)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -68,11 +68,11 @@
 
 ### Packages / Driver layer
 
-*   [odrive\_ros2\_control (⭐130)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
+*   [odrive\_ros2\_control (⭐135)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Community / Projects
+### Projects / Wallets
 
 *   [FORUM](https://forum.ax/) - A proof-of-stake social network on the Algorand blockchain.
 
@@ -80,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-easy-data-table (⭐214)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
+*   [vue3-easy-data-table (⭐231)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 
 ## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Libraries / Community
 
-*   [vavite (⭐204)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+*   [vavite (⭐220)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

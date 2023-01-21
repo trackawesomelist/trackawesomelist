@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Example Projects
 
-*   [Angular Webapp secured with Keycloak (⭐298)](https://github.com/CodepediaOrg/bookmarks.dev)
+*   [Angular Webapp secured with Keycloak (⭐306)](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ### Miscellaneous
 
@@ -88,11 +88,11 @@
 
 ### Firebase
 
-*   [Ballcap (⭐230)](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
+*   [Ballcap (⭐229)](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
 
 ### Game Engine
 
-*   [glide engine (⭐428)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
+*   [glide engine (⭐435)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
 
 ### Validation / Barcode
 
@@ -119,7 +119,7 @@
 
 ### Internationalization
 
-*   [utf8proc (⭐840)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐846)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ## [13. Awesome R](/content/qinwf/awesome-R/README.md)
 

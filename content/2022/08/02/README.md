@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,13 +22,13 @@
 
 ### Username Check / Telegram
 
-*   [Maigret (⭐7.1k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐7.9k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Office Suites
 
-*   [CryptPad](https://cryptpad.fr/) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐4.1k)](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
+*   [CryptPad](https://cryptpad.fr/) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐4.2k)](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -60,19 +60,19 @@
 
 ### Container Composition
 
-*   [ctk (⭐226)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
+*   [ctk (⭐235)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
 ## [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 
-*   [capy-ui/capy (⭐528)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+*   [capy-ui/capy (⭐623)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-build (⭐20)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+*   [vite-plugin-build (⭐21)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -83,11 +83,11 @@
 
 ### Documentation builders / Third-party APIs
 
-*   [cl-livedocs (⭐1)](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo, with full text search enabled by default.
+*   [cl-livedocs (⭐2)](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo, with full text search enabled by default.
 
 ### Git / Third-party APIs
 
-*   [cl-git (⭐52)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [cl-git (⭐56)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 

@@ -2,7 +2,7 @@
 
 46 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -205,7 +205,7 @@ git log --show-notes='*'
 
 ### Applications / Episodes
 
-*   [CANToolz (⭐298)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
+*   [CANToolz (⭐297)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
 ## [18. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
@@ -417,7 +417,7 @@ git log --show-notes='*'
 
 ### Packages / Parsing
 
-*   [ref (⭐425)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐426)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -427,11 +427,11 @@ git log --show-notes='*'
 
 ### Framework Components
 
-*   [filterable (⭐96)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
+*   [filterable (⭐97)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐503)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐505)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 

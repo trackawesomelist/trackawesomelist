@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 
 ### Testing
 
-*   [Stryker.NET (⭐1.4k)](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
+*   [Stryker.NET (⭐1.5k)](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Tools
 
-*   [genhash (⭐13)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
+*   [genhash (⭐15)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

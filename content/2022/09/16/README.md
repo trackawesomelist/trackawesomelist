@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / E-commerce
 
-*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://demo.medusajs.com/a/orders?offset=0\&limit=15), [Source Code (⭐15k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
+*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://demo.medusajs.com/a/orders?offset=0\&limit=15), [Source Code (⭐16k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -20,9 +20,9 @@
 
 ## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Tools / Smart Contracts
+### Other Development Tools / Smart Contracts
 
-*   [tealish (⭐59)](https://github.com/Hipo/tealish) - Tealish is a readable language for the Algorand Virtual Machine. It enables developers to write TEAL in a procedural style optimized for readability.
+*   [tealish (⭐65)](https://github.com/Hipo/tealish) - Tealish is a readable language for the Algorand Virtual Machine. It enables developers to write TEAL in a procedural style optimized for readability.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

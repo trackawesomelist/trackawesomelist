@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -138,7 +138,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐71)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐79)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
 ## [10. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 

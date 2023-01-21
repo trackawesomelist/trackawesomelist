@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 19, 2015
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -79,7 +79,7 @@
 
 ### Applications / Directory Navigation
 
-*   [iponmap (⭐283)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
+*   [iponmap (⭐284)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -107,12 +107,6 @@
 ### Images, Maps and Charts / Paid Books
 
 *   [Cropper (⭐7.8k)](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
-
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### TypeScript / Vapor
-
-*   [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 
 ---
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,23 +10,23 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-splash (⭐125)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
+*   [vue-splash (⭐127)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [spark.fish (⭐280)](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
+*   [spark.fish (⭐286)](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
+*   [zoxide (⭐8.6k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Password Managers
 
-*   [PassWall (⭐667)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
+*   [PassWall (⭐671)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -57,7 +57,7 @@
 
 ### HLS / Talks Presentations Podcasts
 
-*   [carlanton/m3u8-parser (⭐122)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+*   [carlanton/m3u8-parser (⭐128)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
 
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -67,11 +67,11 @@
     *   [algorithms (⭐22k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
     *   [python-ds (⭐1.9k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
     *   [sortedcontainers (⭐2.8k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    *   [TheAlgorithms (⭐150k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+    *   [TheAlgorithms (⭐151k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 
 ### ASGI Servers
 
-*   [uvicorn (⭐5.9k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+*   [uvicorn (⭐6k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
 ### Concurrency and Parallelism
 
@@ -104,7 +104,7 @@
 
 ### Data Analysis
 
-*   [AWS Data Wrangler (⭐3.2k)](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
+*   [AWS Data Wrangler (⭐3.3k)](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
 *   [Optimus (⭐1.3k)](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with PySpark.
 
 ### Data Visualization
@@ -129,19 +129,19 @@
 
 ### Distribution
 
-*   [pyarmor (⭐1.9k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+*   [pyarmor (⭐2k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ### Downloader
 
-*   [akshare (⭐5.7k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+*   [akshare (⭐5.8k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 
 ### E-commerce
 
-*   [forex-python (⭐534)](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion.
+*   [forex-python (⭐540)](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion.
 
 ### Functional Programming
 
-*   [CyToolz (⭐890)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
+*   [CyToolz (⭐894)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
 
 ### GraphQL
 
@@ -149,7 +149,7 @@
 
 ### Implementations
 
-*   [CLPython (⭐339)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
+*   [CLPython (⭐340)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
 
 ### Job Scheduler
 
@@ -185,16 +185,16 @@
 
 ### Static Site Generator
 
-*   [mkdocs (⭐15k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
+*   [mkdocs (⭐16k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 *   [pelican (⭐11k)](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax.
 
 ### Template Engine
 
-*   [Jinja2 (⭐8.9k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
+*   [Jinja2 (⭐9k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 
 ### Video
 
-*   [vidgear (⭐2.5k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
+*   [vidgear (⭐2.6k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
 
 ### Web Crawling
 

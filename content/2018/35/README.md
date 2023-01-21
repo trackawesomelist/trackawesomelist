@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 27 - Sep 02, 2018
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Algorithms and Data structures
 
-*   [ksuid.cr (⭐14)](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
+*   [ksuid.cr (⭐15)](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -274,7 +274,7 @@
 *   Can manage everything
     *   ZSH plugins/UNIX commands on [GitHub](https://github.com) and [Bitbucket](https://bitbucket.org)
     *   Gist files ([gist.github.com](https://gist.github.com/discover))
-    *   Externally managed plugins e.g., [oh-my-zsh (⭐153k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) plugins/themes
+    *   Externally managed plugins e.g., [oh-my-zsh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) plugins/themes
     *   Binary artifacts on [GitHub Releases](https://help.github.com/articles/about-releases/)
     *   Local plugins
     *   etc. (you can add your [own sources (⭐5.3k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
@@ -301,7 +301,7 @@
 
 ### Navigation / Image Picker
 
-*   [PageView Indicator (⭐158)](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
+*   [PageView Indicator (⭐159)](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 
 ## [11. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
@@ -317,7 +317,7 @@
 
 ## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Version control / Metric & Metric Collection
+### Software / Version control
 
 *   [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
@@ -331,7 +331,7 @@
 
 ### Bindings
 
-*   [flextGL (⭐194)](https://github.com/mosra/flextgl) - Minimal Vulkan header/loader generator and [the blog post](http://blog.magnum.graphics/hacking/simple-efficient-vulkan-loading-with-flextgl/) about it.
+*   [flextGL (⭐197)](https://github.com/mosra/flextgl) - Minimal Vulkan header/loader generator and [the blog post](http://blog.magnum.graphics/hacking/simple-efficient-vulkan-loading-with-flextgl/) about it.
 
 ## [16. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -351,72 +351,61 @@
 
 *   [ElixirLangMoscow](http://elixir-lang.moscow/) - Russian Elixir community
 
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Scala / Sinatra
-
-*   [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/photos/functional-programming-simplied-free-pdf-preview) - Alvin Alexander (free preview (400 pages from 595), PDF)
-*   [Hello, Scala](https://alvinalexander.com/photos/hello-scala-free-pdf-preview) - Alvin Alexander (free preview (120 pages from 257), PDF)
-
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
 *   [sha1collisiondetection (⭐1.2k)](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file. \[MIT]
 *   [Tink (⭐13k)](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. \[Apache-2.0]
 
-## [21. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [20. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [Nipe (⭐1.5k)](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
 
-## [22. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [21. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / ROS Industrial Conference 2016
 
 *   ROS 2.0 AND OPC UA: A STATUS UPDATE [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/58235f2eb8a79be587899891/1478713139775/ROS-I-Conf2016-day1-09-keinert.pdf)
 
-## [23. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [22. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
-*   [jupyter-gmaps (⭐748)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
+*   [jupyter-gmaps (⭐747)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 
 ### JupyterLab Extensions
 
 *   [celltags (⭐110)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
-*   [drawio (⭐550)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-*   [google-drive (⭐381)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-*   [latex (⭐537)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [toc (⭐723)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
-*   [variableinspector (⭐946)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
-*   [voyager (⭐275)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+*   [drawio (⭐551)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
+*   [google-drive (⭐382)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+*   [latex (⭐538)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+*   [toc (⭐725)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+*   [variableinspector (⭐949)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
+*   [voyager (⭐276)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
-## [24. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### System and Customization
 
-*   [Dynamic Wallpaper Editor (⭐181)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+*   [Dynamic Wallpaper Editor (⭐189)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
-### Applets / Design Tooling
-
-*   [Emoji Selector (⭐413)](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
-
-## [25. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [24. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Automating Custom Alert Buttons on iOS](https://appiumpro.com/editions/31)
 *   [Finding Elements By Image, Part 1](https://appiumpro.com/editions/32)
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -424,10 +413,10 @@
 
 ### Python / Kaggle Competition Source Code
 
-*   [open-solution-home-credit (⭐423)](https://github.com/neptune-ml/open-solution-home-credit) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Home-Credit-Default-Risk) for [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk).
+*   [open-solution-home-credit (⭐427)](https://github.com/neptune-ml/open-solution-home-credit) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Home-Credit-Default-Risk) for [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk).
 *   [open-solution-googleai-object-detection (⭐46)](https://github.com/neptune-ml/open-solution-googleai-object-detection) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Google-AI-Object-Detection-Challenge) for [Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track).
 *   [open-solution-salt-identification (⭐123)](https://github.com/neptune-ml/open-solution-salt-identification) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Salt-Detection) for [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge).
-*   [open-solution-ship-detection (⭐54)](https://github.com/neptune-ml/open-solution-ship-detection) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Ships) for [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection).
+*   [open-solution-ship-detection (⭐55)](https://github.com/neptune-ml/open-solution-ship-detection) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Ships) for [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection).
 *   [open-solution-data-science-bowl-2018 (⭐159)](https://github.com/neptune-ml/open-solution-data-science-bowl-2018) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Data-Science-Bowl-2018) for [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018).
 *   [open-solution-value-prediction (⭐36)](https://github.com/neptune-ml/open-solution-value-prediction) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Santander-Value-Prediction-Challenge) for [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge).
 *   [open-solution-toxic-comments (⭐153)](https://github.com/neptune-ml/open-solution-toxic-comments) -> source code for [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
@@ -436,19 +425,19 @@
 
 *   [PredictionBuilder (⭐9)](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
 
-## [27. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [26. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### DApp directories / Services
 
 *   [DappRadar](https://dappradar.com/eos-dapps)
 
-## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [27. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
 *   [TypeScript composite monorepo (⭐125)](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
 
-## [29. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Other multimodal data formats / Ruby
 
@@ -458,33 +447,33 @@
 
 *   [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Texas Instruments
 
 *   [`tm4c123x`](https://crates.io/crates/tm4c123x) Peripheral access API for TM4C123x microcontrollers (generated using svd2rust)
 *   [`tm4c129x`](https://crates.io/crates/tm4c129x) Peripheral access API for TM4C129x microcontrollers (generated using svd2rust)
 
-## [31. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [30. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
 *   [Barcelona](https://www.meetup.com/dddbcn/)
 
-## [32. Guides](/content/NARKOZ/guides/week/README.md)
+## [31. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / Bots
 
 *   [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 *   [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
-## [33. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [32. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### SSRF
 
 *   [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) - Written by [@0xacb](https://twitter.com/0xacb).
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
@@ -498,19 +487,19 @@
 
 *   [Testavior (⭐41)](https://github.com/geeklearningio/Testavior) - Testavior is a lightweight solution to help you develop Behavior Tests for ASP.NET Core.
 
-## [35. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [34. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation / Code libraries and bindings
 
 *   [python-dshield (⭐21)](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
-*   [python-sandboxapi (⭐116)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
-*   [python-stix2 (⭐283)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
+*   [python-sandboxapi (⭐121)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
+*   [python-stix2 (⭐286)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
 
 ### Threat intelligence / Threat hunting
 
-*   [ThreatIngestor (⭐601)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
+*   [ThreatIngestor (⭐618)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
 
-## [36. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [35. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Community
 
@@ -575,7 +564,7 @@
 *   [User Scripts (⭐803)](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
 *   [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
 
-## [37. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [36. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Newsletters / Other
 
@@ -584,20 +573,20 @@
     Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
     Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
 
-## [38. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [37. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Enterprise™ (⭐1.5k)](https://github.com/joaomilho/Enterprise) - Non deterministic unnecessarily statically typed language.
 *   [Rockstar (⭐69)](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
 
-## [39. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [38. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [tomimick/tm-nextjs-starter (⭐49)](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
 
-## [40. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [39. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
@@ -615,26 +604,26 @@
 
 *   [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information.
 
-## [41. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [40. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Other Useful Tools and Libraries
 
 *   [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
 
-## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [41. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Email
 
 *   [Elastic Email plugin (⭐4)](https://github.com/sprintcube/cakephp-elastic-email) - Email transport plugin for sending email via Elastic Email API.
 
-## [43. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [42. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 *   [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 
-## [44. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [43. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -644,37 +633,37 @@
 
 *   [ember-cli-extended-resolver](https://www.npmjs.com/package/ember-cli-extended-resolver) - This addons allows to modify default files structure to be more feature-grouped.
 
-## [45. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
 *   [How to use React Native Navigation v2 with Redux and Google Analytics](https://www.codingsavvy.com/2018/08/react-native-navigation-v2-with-redux.html)
 
-## [46. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [45. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
 
-## [47. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [46. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Presentations / Hylomorphisms in the Wild
 
 *   [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE\&t=3s) - Zainab Ali's Introductory talk presented at LambdaWorld.
 
-## [48. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [47. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Community / Mesh tools
 
 *   [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 
-## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [FIRST Robotics Competition (⭐86)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
+*   [FIRST Robotics Competition (⭐87)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 
-## [50. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Machine Learning
 
@@ -688,7 +677,7 @@
 *   [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Introduction to Clojure one function at a time
 *   [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
 
-## [51. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [50. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Resources / Articles
 

@@ -2,7 +2,7 @@
 
 Largest list of models for Core ML (for iOS 11+)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/likedan/Awesome-CoreML-Models/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) · ⭐ 5.5K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/likedan/Awesome-CoreML-Models/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) · ⭐ 5.5K · 🏷️ Computer Science
 
 [ [Daily](/content/likedan/Awesome-CoreML-Models/README.md) / Weekly / [Overview](/content/likedan/Awesome-CoreML-Models/readme/README.md) ]
 

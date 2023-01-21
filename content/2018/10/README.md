@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 05 - Mar 11, 2018
 
-60 awesome lists updated this week.
+59 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Utils / Third Party
 
-*   [crossfilter (⭐1.6k)](https://github.com/crossfilter/crossfilter) - Library for exploring large multivariate datasets
+*   [crossfilter (⭐1.7k)](https://github.com/crossfilter/crossfilter) - Library for exploring large multivariate datasets
 
 ## [4. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -256,7 +256,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Database Drivers
 
-*   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.7k)](https://github.com/MagicStack/asyncpg) dialect.
+*   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.8k)](https://github.com/MagicStack/asyncpg) dialect.
 
 ## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -269,10 +269,10 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐503)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
+    *   [a8m/pb (⭐508)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
     *   [console-rs/indicatif (⭐3.2k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
-    *   [etienne-napoleone/spinach (⭐62)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐429)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
+    *   [etienne-napoleone/spinach (⭐63)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
+    *   [FGRibreau/spinners (⭐435)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
 ## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -382,7 +382,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Networking
 
-*   [ipaddress.cr (⭐40)](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
+*   [ipaddress.cr (⭐41)](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
 
 ### Template Engine
 
@@ -433,27 +433,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Creative Audio Visualizers](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/?utm_source=feedburner\&utm_medium=feed\&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
 
-## [38. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Bash / Non-X86
-
-*   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
-*   [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
-*   [BASH Programming (2000)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)
-*   [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html) (HTML)
-*   [BashGuide](http://mywiki.wooledge.org/BashGuide) - Maarten Billemont (HTML) [(PDF)](http://s.ntnu.no/bashguide.pdf)
-*   [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php) (HTML)
-*   [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Paul Armstrong (HTML)
-*   [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School (HTML)
-*   [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML)
-*   [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite (HTML)
-*   [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
-
-### HTML and CSS / Spock Framework
-
-*   [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
-
-## [39. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [38. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Base Shells
 
@@ -515,7 +495,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [bash-guide (⭐11k)](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 
-## [40. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [39. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -525,7 +505,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Loop Habit Tracker (⭐5.4k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
-## [41. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [40. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -565,13 +545,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 *   [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM)
 *   [Fashion-MNIST (⭐10k)](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
 *   [xgboost-node (⭐31)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 
-## [43. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [42. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Deep Learning
 
@@ -649,13 +629,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 *   [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 *   [Expert C Programming: Deep C Secrets](https://dl.acm.org/citation.cfm?id=179241) - Interesting, in-depth and *entertaining* look at the innards of C.
 
-## [44. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [43. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
 *   [TNTSearch driver (⭐1k)](https://github.com/teamtnt/laravel-scout-tntsearch-driver) - Driver for [Laravel Scout (⭐1.3k)](https://github.com/laravel/scout) search package based on TNTSearch
 
-## [45. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [44. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-url](https://github.com/zdharma/git-url)
 
@@ -713,7 +693,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
     Checking out revision/reference v1.0... OK
     HEAD is at: 5d10a204, created directory git-url
 
-## [46. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [45. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Collections
 
@@ -734,26 +714,26 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Design Essentials](https://github.com/collections/design-essentials)
 
-## [47. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [46. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Security
 
-*   [upash (⭐510)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐509)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
-## [48. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [47. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Testing / Omniauth
 
 *   [factory\_bot (⭐7.6k)](https://github.com/thoughtbot/factory_bot) - Factory\_bot is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin\_user, and so on), including factory inheritance.
 *   [factory\_bot\_rails (⭐2.9k)](https://github.com/thoughtbot/factory_bot_rails) - Factory\_bot\_rails provides Rails integration for factory\_bot.
 
-## [49. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Resources / Custom Dialog
 
 *   [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - Android Tutorials & Courses submitted and voted by the programming community.
 
-## [50. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [49. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Retro
 
@@ -763,16 +743,16 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
 
-## [51. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [50. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐456)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐462)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### HTML
 
 *   [floki (⭐1.8k)](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
-*   [html\_sanitize\_ex (⭐213)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
+*   [html\_sanitize\_ex (⭐217)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
 *   [modest\_ex (⭐32)](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 *   [myhtmlex (⭐14)](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
 *   [readability (⭐196)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
@@ -789,26 +769,26 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [The Beam Book](https://happi.github.io/theBeamBook/) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 
-## [52. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [51. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
 *   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐124)](https://github.com/sindresorhus/ama) for an example.
 *   [Utterences (⭐7.2k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 
-## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Pagination / Barcode
 
-*   [SlideController (⭐409)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
+*   [SlideController (⭐411)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
-## [54. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [53. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Framework-Specific Libraries / React
 
 *   [Potion](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
 
-## [55. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [54. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Investigate Papers / HTML+CSS+JS
 
@@ -818,19 +798,19 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [CC Search](https://ccsearch.creativecommons.org/): Search engine for images under CC License.
 
-## [56. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [55. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [Digitized Speech in Game Boy Games](https://youtube.com/watch?v=1lzHfLYzyRM)
 
-## [57. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [56. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Nocode (⭐10)](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
 
-## [58. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [57. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Code
 
@@ -844,7 +824,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [XRP Tip Bot for Reddit, Twitter & Discord](https://xrptipbot.com)
 
-## [59. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [58. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -1238,7 +1218,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 
 
-## [60. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [59. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Conferences
 
@@ -1246,13 +1226,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Resources / Examples
 
-*   [laravel-vue-boilerplate (⭐530)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
+*   [laravel-vue-boilerplate (⭐534)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
 *   [Vue Design System (⭐2.1k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
 *   [Vue Bulma Demo (⭐48)](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 
 ### Projects Using Vue.js / Open Source
 
-*   [Leo Vue (⭐149)](https://github.com/kaleguy/leovue) - Use the open source Leo outlining editor/IDE to create webapps with nested menus, with support for Vue components in content.
+*   [Leo Vue (⭐150)](https://github.com/kaleguy/leovue) - Use the open source Leo outlining editor/IDE to create webapps with nested menus, with support for Vue components in content.
 
 ### Components & Libraries / UI Components
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome Fuse applications, articles, and plugins
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fuse-compound/awesome-fuse/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fuse-compound/awesome-fuse](https://github.com/fuse-compound/awesome-fuse) · ⭐ 322 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fuse-compound/awesome-fuse/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fuse-compound/awesome-fuse](https://github.com/fuse-compound/awesome-fuse) · ⭐ 322 · 🏷️ Platforms
 
 [ [Daily](/content/fuse-compound/awesome-fuse/README.md) / [Weekly](/content/fuse-compound/awesome-fuse/week/README.md) / Overview ]
 

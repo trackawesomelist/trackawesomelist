@@ -2,7 +2,7 @@
 
 A curated list of resources dedicated to Natural Language Generation (NLG)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/accelerated-text/awesome-nlg/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) · ⭐ 382 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/accelerated-text/awesome-nlg/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) · ⭐ 382 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/accelerated-text/awesome-nlg/week/README.md) / [Overview](/content/accelerated-text/awesome-nlg/readme/README.md) ]
 

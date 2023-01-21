@@ -2,7 +2,7 @@
 
 A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/matteocrippa/awesome-swift/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) · ⭐ 23K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/matteocrippa/awesome-swift/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) · ⭐ 23K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 

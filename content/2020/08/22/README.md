@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,13 +20,13 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [vue-tut (⭐44)](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
+*   [vue-tut (⭐45)](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Official Resources
 
-*   [GitHub Repo (⭐50k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐51k)](https://github.com/vitejs/vite)
 
 ## [4. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
@@ -59,25 +59,25 @@
 
 ### Tools / Vendor supported providers
 
-*   [hcledit (⭐265)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐268)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [Piggyvault (⭐326)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Piggyvault (⭐351)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐791)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐805)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
-*   [TuneIN (⭐124)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
+*   [TuneIN (⭐134)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐602)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐613)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [8. Tools](/content/lvwzhen/tools/README.md)
 

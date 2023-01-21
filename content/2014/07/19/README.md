@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -343,15 +343,15 @@
 
 ### Build Automation
 
-*   [Invoke-Build (⭐539)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐542)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Logging
 
-*   [StackExchange.Exceptional (⭐846)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [StackExchange.Exceptional (⭐847)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### Queue
 
-*   [MassTransit (⭐5k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [MassTransit (⭐5.1k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

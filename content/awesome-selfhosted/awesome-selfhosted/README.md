@@ -2,7 +2,7 @@
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) · ⭐ 116K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) · ⭐ 116K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 

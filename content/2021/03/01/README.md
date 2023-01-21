@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [regula (⭐793)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
+*   [regula (⭐806)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Tools
 
-*   🌍🔧💼 [Twind (⭐3k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
+*   🌍🔧💼 [Twind (⭐3.1k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
 ## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -42,9 +42,9 @@
 ### Editor Plugins
 
 *   Acme:
-    *   [acmecrystal (⭐4)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
+    *   [acmecrystal (⭐5)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
 *   Emacs
-    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐38)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
+    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐41)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -89,8 +89,8 @@
 
 ### Individual components / Others
 
-*   [BlazorDownloadFile (⭐135)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
-*   [BlazorSliders (⭐25)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
+*   [BlazorDownloadFile (⭐139)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
+*   [BlazorSliders (⭐27)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
 
 ### Community / Others
 

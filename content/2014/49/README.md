@@ -2,7 +2,7 @@
 
 16 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -198,7 +198,7 @@
 
 ### Regular Expressions
 
-*   [Re (⭐193)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
+*   [Re (⭐194)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
 *   [ocaml-pcre (⭐24)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ### Serialization
@@ -220,15 +220,15 @@
 ### API Builder and Discovery
 
 *   [Version Cake (⭐647)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
-*   [versionist (⭐965)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+*   [versionist (⭐963)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization
 
-*   [acl9 (⭐858)](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
+*   [acl9 (⭐857)](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
 
 ### Data Visualization
 
-*   [LazyHighCharts (⭐1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
+*   [LazyHighCharts (⭐1.1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
 
 ### Database Tools
 
@@ -277,7 +277,7 @@
     *   [CQL (⭐22)](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
     *   [cuke\_modeler (⭐19)](https://github.com/enkessler/cuke_modeler) - An modeling library for `.feature` files that is an abstration layer on top of the `gherkin` gem, providing a stable base upon which to build other Gherkin related tools.
     *   [gitarro (⭐15)](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
-    *   [Knapsack (⭐475)](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
+    *   [Knapsack (⭐480)](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
     *   [mutant (⭐1.9k)](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.
     *   [Parallel Tests (⭐3.2k)](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
     *   [power\_assert (⭐1)](https://github.com/k-tsj/power_assert) - Power Assert for Ruby.
@@ -302,7 +302,7 @@
 
 ### Packages / Command-line apps
 
-*   [browser-run (⭐413)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+*   [browser-run (⭐417)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 
 ### Packages / Command-line utilities
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -78,23 +78,23 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nix-du (⭐186)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
+*   [nix-du (⭐192)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 
 ## [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
-*   [rails-mermaid\_erd (⭐9)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
+*   [rails-mermaid\_erd (⭐11)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Date and Time
 
-*   [go-anytime (⭐5)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
+*   [go-anytime (⭐8)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
 
 ### Distributed Systems
 
-*   [Kitex (⭐5.4k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
+*   [Kitex (⭐5.5k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
 
 ### Embeddable Scripting Languages
 
@@ -102,14 +102,14 @@
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Go in 7 days (⭐110)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
+*   [Go in 7 days (⭐116)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
 *   [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
-*   [skydoves/balloon (⭐2.7k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
+*   [skydoves/balloon (⭐2.9k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
 *   [ChuckerTeam/chucker (⭐2.9k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
 ## [10. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
@@ -130,7 +130,7 @@
 
 ### Utility / Diagnostics
 
-*   [folke/noice.nvim (⭐1.6k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [folke/noice.nvim (⭐1.8k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 
 ---
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,11 +60,11 @@
 
 ### Applications / Other / unknown licence
 
-*   [railway-simulation (⭐4)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
+*   [railway-simulation (⭐5)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 
 ### Bindings / Other / unknown licence
 
-*   [svd2ada (⭐50)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐53)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
 ## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

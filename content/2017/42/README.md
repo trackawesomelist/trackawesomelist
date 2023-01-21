@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 16 - Oct 22, 2017
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [YoutubeExplode (⭐2.1k)](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
+*   [YoutubeExplode (⭐2.2k)](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
 
 ## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -221,11 +221,11 @@
 
 ### Bluetooth
 
-*   [SwiftyBluetooth (⭐179)](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
+*   [SwiftyBluetooth (⭐180)](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
 
 ### Math / Barcode
 
-*   [BigInt (⭐705)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
+*   [BigInt (⭐708)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -237,7 +237,7 @@
 
 ### Networking
 
-*   [Seasocks (⭐621)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐622)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [16. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -330,7 +330,7 @@
 
 ### Libraries
 
-*   [Lattice (⭐500)](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
+*   [Lattice (⭐505)](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
 *   [TensorForce (⭐3.2k)](https://github.com/reinforceio/tensorforce) - TensorForce: A TensorFlow library for applied reinforcement learning
 
 ## [27. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
@@ -519,26 +519,7 @@
 
 *   [Agile Boiler Plate (⭐45)](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
 
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Basic / Non-X86
-
-*   [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
-
-### Clojure / Non-X86
-
-*   [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
-*   [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (HTML)
-
-### Elixir / Ecto
-
-*   [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
-
-### Self / Play Scala
-
-*   [The Self Handbook](http://handbook.selflanguage.org)
-
-## [44. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [43. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Slides
 
@@ -643,29 +624,29 @@
 *   [raquelxmoss/cycle-color-picker ★44 (⭐58)](https://github.com/raquelxmoss/cycle-color-picker) - A Color Picker component for Cycle.js. [Check out the example](https://raquelxmoss.github.io/cycle-color-picker).
 *   [cyclejs-community/cycle-svg-pan-and-zoom ★4 (⭐4)](https://github.com/cyclejs-community/cycle-svg-pan-and-zoom) - A Google Maps style SVG pan and zoom component for Cycle.js
 
-## [45. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [44. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web / Playground
 
 *   :octocat: [ionic (⭐48k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [Stencil (⭐11k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
 *   :octocat: [redux-zero (⭐2k)](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
-*   :octocat: [wretch (⭐2.5k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+*   :octocat: [wretch (⭐2.7k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 
-## [46. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [45. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
 *   [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 
-## [47. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [46. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Stackoverflow Q&A
 
 *   [Universal Bluetooth Beacon Library (⭐198)](https://github.com/andijakl/universal-beacon) - open source library and links to apps to talk to Eddystone and iBeacon beacons
 
-## [48. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [47. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Code Quality
 
@@ -675,20 +656,20 @@
 
 *   [Honeybadger](https://www.honeybadger.io) `requires-approval` `non-commercial` - Exception and uptime monitoring for Ruby.
 
-## [49. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [48. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Other
 
 *   [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.
 *   [Voyage](https://framer.com/voyage/) - A free travel-themed UI kit that’s fully interactive and made for Framer.
 
-## [50. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [49. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
-*   [facebook-cli (⭐372)](https://github.com/specious/facebook-cli) - Facebook command line tool
+*   [facebook-cli (⭐377)](https://github.com/specious/facebook-cli) - Facebook command line tool
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -704,7 +685,7 @@
 
 *   [vue-configuration (⭐38)](https://github.com/alex-oleshkevich/vue-config) - A static configuration object for Vue.js
 
-## [52. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [51. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -716,7 +697,7 @@
 
 ### JavaScript / Misc
 
-*   [stdlib (⭐3.1k)](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+*   [stdlib (⭐3.2k)](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 ---
 

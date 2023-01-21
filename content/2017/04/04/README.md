@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -119,9 +119,9 @@ $ git config --global merge.tool meld
 
 ### Programming / Python
 
-*   [Nitime (⭐210)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
-*   [MNE-Python (⭐2k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
-*   [NiBabel (⭐499)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+*   [Nitime (⭐212)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+*   [MNE-Python (⭐2.1k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+*   [NiBabel (⭐511)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
 
 ### Resources / MOOCs
 
@@ -135,7 +135,7 @@ $ git config --global merge.tool meld
 
 ### Models/Projects
 
-*   [CNN visualization using Tensorflow (⭐776)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
+*   [CNN visualization using Tensorflow (⭐778)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
 
 ## [8. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 

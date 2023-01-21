@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -87,7 +87,7 @@
 
 ### Programming Languages / PHP
 
-*   [composer2nix (⭐74)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+*   [composer2nix (⭐78)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 *   [composition-c4 (⭐5)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
 *   [nix-phps (⭐20)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
@@ -99,7 +99,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐174)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐178)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Database Tools
 
@@ -112,8 +112,8 @@
 ### Framework Components
 
 *   [mochi (⭐23)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
-*   [motion.cr (⭐48)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐139)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [motion.cr (⭐47)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
+*   [tourmaline (⭐141)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
@@ -121,11 +121,11 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐146)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐149)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐180)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐188)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -139,7 +139,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐297)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐309)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐412)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [hexagonkt/hexagon (⭐414)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -215,7 +215,7 @@
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐561)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐592)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

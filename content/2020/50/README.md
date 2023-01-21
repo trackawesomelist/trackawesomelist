@@ -1,39 +1,30 @@
 # Awesome List Updates on Dec 14 - Dec 20, 2020
 
-66 awesome lists updated this week.
+64 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
-
-### Deadpool / Blockchain projects for AI algorithms
-
-*   [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models.
-*   [Fitchain](https://fitchain.io/) - Fitchain is a blockchain-based machine learning factory that allows data scientists to train models, tracing them from inception and throughout their lifetime.
-*   [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
-*   [Pandora Boxchain](https://pandoraboxchain.ai/) - A marketplace for AI kernels, computations and big data powered by Proof of Cognitive Work (PoCW).
-
-## [2. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [1. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
 *   🔌 [Firestore Lite (⭐208)](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight Cloud Firestore library for the browser.
 
-## [3. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [2. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Terminal Emulation Applications
 
 *   [Terminator (⭐1.4k)](https://github.com/gnome-terminator/terminator) - Multiple GNOME terminals in one window.
 
-## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Tutorials
 
 *   [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) - A collection of the most common commands used in PostgreSQL
 
-## [5. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [4. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Admin
 
@@ -270,7 +261,7 @@
 *   [sr.ht](https://git.sr.ht/\~sircmpwn/core.sr.ht/tree) - Git hosting service (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well).
 *   [Timesketch (⭐2k)](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
@@ -306,90 +297,90 @@
 
 *   [Percy](https://percy.io/) - Continuous visual testing.
 
-## [7. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Books and Reading / Telegram
 
 *   [Read This Twice](https://readthistwice.com)
 
-## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
 *   [Image Processing and Analysis](https://www.amazon.com/Processing-Analysis-Activate-Learning-Engineering/dp/1285179528) - Stan Birchfield 2018
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### VSCode / Third-party APIs
 
-*   [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub (⭐35)](https://github.com/ailisp/commonlisp-vscode/).
+*   [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub (⭐36)](https://github.com/ailisp/commonlisp-vscode/).
 *   [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
 
-## [10. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [9. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Tutorials / Video Tutorials
 
 *   [Awesome Haskell Videos (⭐33)](https://github.com/andys8/awesome-haskell-videos) - Curated list of Haskell talks and tutorials
 
-## [11. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [10. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Other
 
 *   [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
 
-## [12. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [11. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utilities / Navigation Demos
 
 *   [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
 
-## [13. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [rust-async-wasm-demo (⭐39)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
+*   [rust-async-wasm-demo (⭐40)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
 
 ### Crates / Component Libraries
 
 *   [muicss-yew (⭐28)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 *   [yew-bulma (⭐14)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
-*   [ybc (⭐197)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
-*   [patternfly-yew (⭐71)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+*   [ybc (⭐202)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
+*   [patternfly-yew (⭐75)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 
 ### Crates / Components
 
-*   [Yew Form (⭐76)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
+*   [Yew Form (⭐78)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 
 ### Crates / Utils
 
 *   [reacty\_yew (⭐46)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
-*   [styled-yew (⭐30)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+*   [styled-yew (⭐32)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 
-## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / I/O
 
 *   [Dynamium/EVCalc](https://github.com/Dynamium/EVCalc) - EVCalc is a calculation engine for mobile electric venicles (Electric scooters, electric unicycles, and so on) written in Kotlin.
 
-## [15. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [14. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Reference Projects
 
 *   [continuous-k6k8s (⭐12)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 
-## [16. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Documentation
 
 *   [Log4brains (⭐630)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
-## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
 *   [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
 
-## [18. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -399,13 +390,13 @@
 
 *   [JustPrivacy](https://justprivacy.org/google-alternatives/) - An in-depth list of alternatives to Google and its products.
 
-## [19. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [18. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Security
 
 *   [k9-cdk (⭐6)](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
 
-## [20. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+## [19. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Community Resources
 
@@ -413,30 +404,30 @@
 
 ### Prompts
 
-*   [Tide (⭐1.6k)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
+*   [Tide (⭐1.7k)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 
 ### Plugins
 
-*   [z (⭐973)](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping.
-*   [fzf (⭐1k)](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative (⭐783)](https://github.com/jethrokuan/fzf)).
+*   [z (⭐1k)](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping.
+*   [fzf (⭐1.1k)](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative (⭐796)](https://github.com/jethrokuan/fzf)).
 *   [nvm (⭐1.5k)](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish.
-*   [Done (⭐588)](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes.
-*   [Replay (⭐301)](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative (⭐1.8k)](https://github.com/edc/bass))
-*   [GitNow (⭐246)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow.
-*   [Getopts (⭐196)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
-*   [Fishtape (⭐310)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
+*   [Done (⭐599)](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes.
+*   [Replay (⭐307)](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative (⭐1.9k)](https://github.com/edc/bass))
+*   [GitNow (⭐259)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow.
+*   [Getopts (⭐201)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
+*   [Fishtape (⭐314)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
 
-## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [20. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Blog posts / Ruby
 
 *   ["How to use GTFS data to track transit vehicles in realtime" by Tom Camp](https://www.ably.io/blog/gtfs-data-track-transit-vehicles-realtime) - Using GTFS and GTFS Realtime to provide continuous realtime updates.
 
-## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
-*   [smoke (⭐158)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
+*   [smoke (⭐160)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 
 ### Packages / Web frameworks
 
@@ -444,48 +435,48 @@
 
 ### Packages / Testing
 
-*   [testcontainers-node (⭐952)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+*   [testcontainers-node (⭐995)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ### Packages / Automation
 
-*   [nut.js (⭐1.1k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+*   [nut.js (⭐1.2k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
-## [23. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [22. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [IconPark (⭐6.5k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
 *   [Remix Icon (⭐4.9k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [Web.Dev](https://web.dev/measure/) — This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.
 
-## [25. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### QA and Testing Road Map / Useful References
 
 *   [How to start QA and Testing career (⭐1.2k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [PHP-ML](https://gitlab.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 
-## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### CSS / Angular
 
 *   [Tailwind Weekly](https://tailwindweekly.com/). Weekly newsletter about all things TailwindCSS.
 
-## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
-*   🎨🔧💼 [Colorkraken (⭐12)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
+*   🎨🔧💼 [Colorkraken (⭐13)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
 
 ### UI Libraries, Components & Templates
 
@@ -493,9 +484,9 @@
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐628)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐632)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
-## [29. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [28. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
@@ -512,7 +503,7 @@
 *   [Hexen: Beyond Heretic (⭐29)](https://github.com/OpenSourcedGames/Hexen) - Indirect sequel to Heretic.
     *   Original [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
 
-## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
@@ -522,36 +513,36 @@
 
 *   [How do you do Capacity Planning](https://jvns.ca/blog/2016/03/20/how-do-you-do-capacity-planning/)
 
-## [31. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [30. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Tools / Custom Time Series
 
 *   [Instaclustr Minotaur (⭐5)](https://github.com/instaclustr/instaclustr-minotaur) - Command line tool for consistent rebuilding of a Cassandra cluster.
 
-## [32. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Best Practices
 
 *   [Concurrent, High Throughput Performance Testing with JMeter](https://howtojboss.wordpress.com/2012/07/31/concurrent-high-throughput-performance-testing-with-jmeter/)
 
-## [33. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [32. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tutorials / React and TypeScript
 
 *   [React by Example](https://reactbyexample.github.io/)
 
-## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [33. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Databases
 
 *   **New Implementations**
-    *   [Irmin (⭐1.6k)](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
+    *   [Irmin (⭐1.7k)](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
     *   [Obigstore](http://obigstore.forge.ocamlcore.org/) — A database with BigTable-like data model atop LevelDB.
     *   [RunOrg (⭐11)](https://github.com/RunOrg/RunOrg) - It is a WIP database server written in OCaml.
     *   [dokeysto (⭐11)](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
         values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
 
-## [35. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [34. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / SEO and SMO
 
@@ -561,19 +552,19 @@
 
 *   [Wagtail SVG (⭐29)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 
-## [36. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [javascript-algorithms (⭐157k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
-## [37. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [36. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) by [John Clingan](https://twitter.com/jclingan) and [Ken Finnigan](https://twitter.com/kenfinnigan)
 
-## [38. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [37. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based projects / Not Linux
 
@@ -583,13 +574,13 @@
 
 *   [MagpieOS](https://github.com/magpie-linux) - Get a fresh experience of Arch.
 
-## [39. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [38. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
 *   [Depix (⭐23k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
 
-## [40. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [39. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Fuzzing
 
@@ -598,28 +589,28 @@
 ### Threat intelligence / Threat signature packages and collections
 
 *   [FireEye's Red Team Tool Countermeasures (⭐2.5k)](https://github.com/fireeye/red_team_tool_countermeasures) - Collection of Snort and YARA rules to detect attacks carried out with FireEye's own Red Team tools, first released after FireEye disclosed a breach in December 2020.
-*   [YARA Rules (⭐3.3k)](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
+*   [YARA Rules (⭐3.4k)](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
 
-## [41. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [40. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Syntax highlighting packages
 
 *   [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) - A Sublime Text 3 package for RGBDS, including syntax highlighting and some completion snippets.
 
-## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Computer Vision
 
 *   [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
 *   [JavaCV (⭐6.3k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
 
-## [43. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [42. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Editors
 
 *   [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 editor that give life to pixel art with a little wobble.
 
-## [44. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Control packs
 
@@ -630,25 +621,25 @@
 *   [Keras4Delphi (⭐37)](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
 *   [TZDB (⭐71)](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
 
-## [45. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [44. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
 *   [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 
-## [46. Guides](/content/NARKOZ/guides/week/README.md)
+## [45. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / CLI
 
 *   [Command Line Interface Guidelines](https://clig.dev/#guidelines)
 
-## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Hawkpass (⭐58)](https://github.com/kalpetros/hawkpass) - Password generator.
+*   [Hawkpass (⭐57)](https://github.com/kalpetros/hawkpass) - Password generator.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -659,13 +650,13 @@
 
 *   [vue-context-composition (⭐18)](https://github.com/AlbertBrand/vue-context-composition) - share state created with the composition API between components, similar to `useContext` from React Hooks
 
-## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Timelane](http://timelane.tools) - Visually profile your asynchronous code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/icanzilb/Timelane) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [50. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [49. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Args
 
@@ -697,7 +688,7 @@
 
 *   [RxPerl](https://metacpan.org/pod/RxPerl) - Perl implementation of [Reactive Extensions](http://reactivex.io) / rxjs
 
-## [51. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [50. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -727,7 +718,7 @@
 
 
 
-## [52. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [51. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Legend
 
@@ -737,60 +728,24 @@
 
 ### Community
 
-*   [Terraform PDF Doc (⭐50)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
+*   [Terraform PDF Doc (⭐53)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 
 ### Testing / Vendor supported providers
 
-*   [clarity (⭐116)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
+*   [clarity (⭐117)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
 
 ### Tools / Vendor supported providers
 
-*   [astro (⭐413)](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
-*   [blast radius (⭐1.7k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
-*   [json2hcl (⭐430)](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
-*   [para (⭐49)](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
+*   [astro (⭐418)](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
+*   [blast radius (⭐1.8k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
+*   [json2hcl (⭐441)](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
+*   [para (⭐50)](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
 *   [scenery (⭐367)](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier. :ghost:
-*   [terraform-plan-parser (⭐139)](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON. :ghost:
-*   [terrahub (⭐211)](https://github.com/TerraHubCorp/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
-*   [tfjson (⭐180)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
+*   [terraform-plan-parser (⭐140)](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON. :ghost:
+*   [terrahub (⭐213)](https://github.com/TerraHubCorp/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
+*   [tfjson (⭐181)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
 
-## [53. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Bash / Non-X86
-
-*   [Introduction to Bash Scripting (⭐2.2k)](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
-
-### C++ / Non-X86
-
-*   [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)
-*   [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) - Samy Pesse
-
-### Haskell / Spock Framework
-
-*   [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) - Simon Marlow
-
-### PHP / CodeIgniter
-
-*   [CodeIgniter 3 User Guide](https://codeigniter.com/userguide3/index.html)
-*   [CodeIgniter 4 User Guide](https://codeigniter.com/user_guide/index.html)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) - Zachary Radtka, Donald Miner
-
-### Python / Flask
-
-*   [Flask Documentation](https://flask.palletsprojects.com) - Pallets
-
-### Raku / Tornado
-
-*   [Metagenomics](https://kyclark.gitbooks.io/metagenomics) - Ken Youens-Clark
-
-### Smalltalk / Play Scala
-
-*   [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) - S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
-
-## [54. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [52. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services
 
@@ -801,7 +756,7 @@
 *   [ipfs-pinner (⭐37)](https://github.com/wabarc/ipfs-pinner) - A toolkit help upload files to IPFS pinning services.
 *   [wbipfs (⭐2)](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 
-## [55. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [53. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Overview
 
@@ -1104,7 +1059,7 @@
 
 *   [cryptoanarchy.wiki](https://cryptoanarchy.wiki) - Cypherpunks overlaps with security. This wiki compiles information about the movement, its history and the people/events of note.
 
-## [56. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [54. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -1148,17 +1103,17 @@
 *   Make a change.
 *   Commit and push to your repo.
 
-## [57. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [55. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code (⭐5.1k)](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++`
+*   [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code (⭐5.2k)](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++`
 
 ### Software / Miscellaneous
 
-*   [DailyTxT (⭐86)](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`
+*   [DailyTxT (⭐87)](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`
 
-## [58. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [56. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Motivation / Happiness
 
@@ -1176,13 +1131,13 @@
 
 *   [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
 
-## [59. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [57. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Boilerplates
 
 *   [snowpack-cycle (⭐2)](https://github.com/rajasegar/snowpack-cycle) - Snowpack app template to create Cycle.js projects with create-snowpack-app
 
-## [60. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [58. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Cost Forecast / Market Research
 
@@ -1225,7 +1180,7 @@
 
 *   [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - Accounting paintings were a significant genre in Dutch art.
 
-## [61. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [59. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Meta
 
@@ -1272,7 +1227,7 @@
 
 *   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
 *   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐815)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Awesome Unicode (⭐819)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 *   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
@@ -1305,13 +1260,13 @@
 
 *   [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A complete reverse of the falsehoods format, on the topic of case (as in uppercase and lowercase text).
 
-## [62. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [60. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Getting Started with Service Accounts in Keycloak](https://medium.com/@mihirrajdixit/getting-started-with-service-accounts-in-keycloak-c8f6798a0675)
 
-## [63. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -1333,17 +1288,17 @@
 
 *   [CamVox (⭐432)](https://github.com/ISEE-Technology/CamVox) - A low-cost SLAM system based on camera and Livox lidar.
 
-## [64. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [62. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [qr-code (⭐16)](https://github.com/spider-gazelle/qr-code) - QR Code generator
+*   [qr-code (⭐18)](https://github.com/spider-gazelle/qr-code) - QR Code generator
 
 ### Image processing
 
-*   [celestine (⭐80)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
+*   [celestine (⭐82)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
 
-## [65. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [63. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Bots / Self-hosted
 
@@ -1354,11 +1309,11 @@
 
 *   [teleirc (⭐116)](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
 
-## [66. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [64. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Custom Scrollbar
 
-*   [rc-scrollbars (⭐96)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
+*   [rc-scrollbars (⭐98)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
 
 ### Form Components / Autosize Input / Textarea
 

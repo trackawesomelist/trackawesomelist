@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,11 +43,11 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [miniserve (⭐3.9k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
+*   [miniserve (⭐4.2k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
 
 ### Software / Wikis
 
-*   [Wikmd (⭐157)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python`
+*   [Wikmd (⭐189)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python`
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [simple-vue-camera (⭐27)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
+*   [simple-vue-camera (⭐28)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 
 ## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-electron (⭐199)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
+*   [vite-plugin-electron (⭐223)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Developer Tools / Databases
 
-*   [Sequel Ace (⭐5.1k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
+*   [Sequel Ace (⭐5.2k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

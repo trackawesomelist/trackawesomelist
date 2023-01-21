@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Demo](https://playground.eonza.org/), [Source Code (⭐66)](https://github.com/gentee/eonza)) `MIT` `Go`
+*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Demo](https://playground.eonza.org/), [Source Code (⭐73)](https://github.com/gentee/eonza)) `MIT` `Go`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
@@ -18,7 +18,7 @@
 
 ### Software / Personal Dashboards
 
-*   [LittleLink Custom](https://littlelink-custom.com/) - Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LittleLink Custom allows you to link all your social media platforms easily accessible on one page. ([Demo](https://demo.littlelink-custom.com/), [Source Code (⭐590)](https://github.com/JulianPrieber/littlelink-custom)) `GPL-3.0` `PHP`
+*   [LittleLink Custom](https://littlelink-custom.com/) - Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LittleLink Custom allows you to link all your social media platforms easily accessible on one page. ([Demo](https://demo.littlelink-custom.com/), [Source Code (⭐627)](https://github.com/JulianPrieber/littlelink-custom)) `GPL-3.0` `PHP`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Algorithms and data structures
 
-*   [JakubSzark/zig-string (⭐64)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
+*   [JakubSzark/zig-string (⭐82)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
 
 ---
 

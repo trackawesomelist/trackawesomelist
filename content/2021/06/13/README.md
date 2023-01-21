@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐380)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust [![Build Status](https://api.travis-ci.org/boxtown/statrs.svg?branch=master)](https://travis-ci.org/boxtown/statrs)
+    *   [statrs-dev/statrs (⭐385)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust [![Build Status](https://api.travis-ci.org/boxtown/statrs.svg?branch=master)](https://travis-ci.org/boxtown/statrs)
 
 ### Libraries / Cryptography
 
@@ -54,14 +54,14 @@
 ### Official Resources
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
-*   [GitHub Repository (⭐18k)](https://github.com/directus/directus)
+*   [GitHub Repository (⭐19k)](https://github.com/directus/directus)
 *   [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 
 ## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Tools
 
-*   [Amazing GitHub Template (⭐249)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+*   [Amazing GitHub Template (⭐270)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Libraries / New Libraries
 
-*   [exojax (⭐26)](https://github.com/HajimeKawahara/exojax) - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
+*   [exojax (⭐29)](https://github.com/HajimeKawahara/exojax) - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

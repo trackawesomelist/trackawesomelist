@@ -2,7 +2,7 @@
 
 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/serhii-londar/open-source-mac-os-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) · ⭐ 33K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/serhii-londar/open-source-mac-os-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) · ⭐ 33K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 

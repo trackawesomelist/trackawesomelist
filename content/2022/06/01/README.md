@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -66,23 +66,22 @@
 ### Java Examples / React
 
 *   [graphql-java-kickstart-federation-example (⭐8)](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
-*   [dgs-federation-example (⭐79)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
+*   [dgs-federation-example (⭐80)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
 
 ## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
 *   :earth\_americas: [About anti-debug tricks](https://anti-debug.checkpoint.com)
-*   :page\_facing\_up: [Packers](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/corkami/packers.pdf)  :star2: :star2: :star2:
+*   :page\_facing\_up: [Packers](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/corkami/packers.pdf)  :star: :star: :star:
 *   :bar\_chart: [Reverse engineering malware: Binary obfuscation and protection](http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2014_Reverse_Engineering_Malware_AND_Mobile_Platform_Security_AND_Software_Security/luennot-files/Binary%20Obfuscation%20and%20Protection.pdf)
 *   :bar\_chart: [When malware is packing heat](https://www.eurecom.fr/publication/5372)
 
 ### :books: Literature / Scientific Research
 
-*   :newspaper: [Analysis of machine learning approaches to packing detection](https://arxiv.org/abs/2105.00473) (May 2021)  :star: :star:
-*   :newspaper: [Effective, efficient, and robust packing detection and classification](http://www.sciencedirect.com/science/article/pii/S0167404818311040) (May 2019)  :star: :star:
+*   :newspaper: [Analysis of machine learning approaches to packing detection](https://arxiv.org/abs/2105.00473) (May 2021)  :star:
+*   :newspaper: [Effective, efficient, and robust packing detection and classification](http://www.sciencedirect.com/science/article/pii/S0167404818311040) (May 2019)  :star2: :star2: :star2:
 *   :newspaper: [Efficient automatic original entry point detection](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=169_2256) (January 2019)  :star:
-*   :notebook: PE-Miner: Mining structural information to detect malicious executables in realtime (2009)
 *   :notebook: [Syntia: Synthesizing the semantics of obfuscated code](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko) (August 2017)  :star:
 
 ### :bookmark_tabs: Datasets / Scientific Research
@@ -95,9 +94,9 @@
 
 *   [BoxedApp Packer](https://www.boxedapp.com/boxedapppacker)
 *   [NPack](http://www.nsdsn.com/english/nspack.zip) - Can compress 32bits and 64bits exe, dll, ocx, scr Windows program.
-*   [VMPROTECT (⭐543)](https://github.com/eaglx/VMPROTECT) - Obfuscation method using virtual machine.
+*   [VMPROTECT (⭐603)](https://github.com/eaglx/VMPROTECT) - Obfuscation method using virtual machine.
 *   [VMProtect](https://vmpsoft.com/products/vmprotect) - VMProtect protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software.
-*   [Ward (⭐8)](https://github.com/ex0dus-0x/ward) - Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.
+*   [Ward (⭐10)](https://github.com/ex0dus-0x/ward) - Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.
 
 ### :package: Packers / Between 2000 and 2010
 
@@ -130,7 +129,7 @@
 
 ### Stream Processing
 
-*   [goio (⭐56)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
+*   [goio (⭐61)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
 
 ### Parsers/Encoders/Decoders
 
@@ -155,7 +154,7 @@
 
 ### Projects / Frameworks
 
-*   [ConCert (⭐77)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
+*   [ConCert (⭐80)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
 
 ## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

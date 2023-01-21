@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Contents / Tools
 
-*   [NetworkArch (⭐6)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
+*   [NetworkArch (⭐8)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Relational Database Drivers
 
-*   [KSQL (⭐204)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
+*   [KSQL (⭐205)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

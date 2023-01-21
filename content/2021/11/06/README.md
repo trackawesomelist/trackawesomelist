@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,9 +29,9 @@
 ### Libraries / Game development
 
 *   bracket-lib (previously RLTK)
-    *   [bracket-lib (⭐1.1k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK), implemented for Rust. [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
+    *   [bracket-lib (⭐1.2k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK), implemented for Rust. [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
 *   Tcod-rs
-    *   [tomassedovic/tcod-rs (⭐226)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
+    *   [tomassedovic/tcod-rs (⭐227)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
     *   Warning: Not maintained anymore
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
@@ -60,7 +60,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐552)](https://github.com/mineral-ui/mineral-ui)
+  Source code \*: [:octocat: (⭐554)](https://github.com/mineral-ui/mineral-ui)
 
 
 - : [City of Boston Fleet](https://patterns.boston.gov/)
@@ -90,11 +90,11 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐1.9k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐2.1k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Void (⭐156)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐156)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
+*   [Void (⭐164)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐164)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
 
 ## [8. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Third party Guides
 
-*   [Conferences.digital (⭐767)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+*   [Conferences.digital (⭐768)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 
 ### UI / Barcode
 
-*   [Doric Design System Foundation (⭐93)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
+*   [Doric Design System Foundation (⭐94)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
 ## [2. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -53,7 +53,7 @@
 
 ### UI / Sliders
 
-*   [Flutter Xlider (⭐393)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
+*   [Flutter Xlider (⭐405)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
 
 ### Device / Bluetooth / NFC / Beacon
 
@@ -105,13 +105,13 @@
 
 ### Communications security (COMSEC) / Service meshes
 
-*   [GPG Sync (⭐331)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
+*   [GPG Sync (⭐332)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [ClashX (⭐21k)](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClashX (⭐22k)](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

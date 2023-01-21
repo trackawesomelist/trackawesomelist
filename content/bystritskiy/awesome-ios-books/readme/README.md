@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 163 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 163 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 

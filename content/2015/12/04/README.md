@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Testing / Barcode
 
-*   [Erik (⭐543)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐544)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [2. Awesome Chess](/content/hkirat/awesome-chess/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Testing
 
-*   [Bogus (⭐6.5k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐6.6k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 
 ## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

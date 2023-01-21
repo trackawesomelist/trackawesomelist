@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [keaising/im-select.nvim (⭐40)](https://github.com/keaising/im-select.nvim) - Switching and restoring input method automatically depends on Neovim's edit mode.
+*   [keaising/im-select.nvim (⭐43)](https://github.com/keaising/im-select.nvim) - Switching and restoring input method automatically depends on Neovim's edit mode.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -31,8 +31,8 @@
 ### Development tools / Testing
 
 *   Mutation Testing
-    *   [cargo-mutants (⭐179)](https://github.com/sourcefrog/cargo-mutants) \[[cargo-mutants](https://crates.io/crates/cargo-mutants)] - Finds inadequately tested code by injecting mutations, no source changes required. [![build badge](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml/badge.svg?branch=main\&event=push)](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml?query=branch%3Amain)
-    *   [mutagen (⭐529)](https://github.com/llogiq/mutagen) \[[mutagen](https://crates.io/crates/mutagen)] — A source-level mutation testing framework (nightly only) [![build badge](https://api.travis-ci.org/llogiq/mutagen.svg?branch=master)](https://travis-ci.org/llogiq/mutagen)
+    *   [cargo-mutants (⭐183)](https://github.com/sourcefrog/cargo-mutants) \[[cargo-mutants](https://crates.io/crates/cargo-mutants)] - Finds inadequately tested code by injecting mutations, no source changes required. [![build badge](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml/badge.svg?branch=main\&event=push)](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml?query=branch%3Amain)
+    *   [mutagen (⭐543)](https://github.com/llogiq/mutagen) \[[mutagen](https://crates.io/crates/mutagen)] — A source-level mutation testing framework (nightly only) [![build badge](https://api.travis-ci.org/llogiq/mutagen.svg?branch=master)](https://travis-ci.org/llogiq/mutagen)
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -48,32 +48,32 @@
 
 ### DDEV / Community
 
-*   [ddev-viteserve (⭐12)](https://github.com/torenware/ddev-viteserve) - Add-on for running Vite in the PHP-oriented dev environment DDEV.
+*   [ddev-viteserve (⭐16)](https://github.com/torenware/ddev-viteserve) - Add-on for running Vite in the PHP-oriented dev environment DDEV.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Effect
 
-*   [Parallax (⭐800)](https://github.com/roughike/page-transformer) <!--stargazers:roughike/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
+*   [Parallax (⭐811)](https://github.com/roughike/page-transformer) <!--stargazers:roughike/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
 
 ### Game / Redux / ELM / Dependency Injection
 
-*   [Bonfire (⭐742)](https://github.com/RafaelBarbosatec/bonfire) <!--stargazers:RafaelBarbosatec/bonfire--> - Flame engine based game engine for 2D RPG games
-*   [Zerker (⭐513)](https://github.com/flutterkit/zerker) <!--stargazers:flutterkit/zerker--> - Lightweight and powerful graphic animation library by [drawcall](https://github.com/drawcall).
+*   [Bonfire (⭐781)](https://github.com/RafaelBarbosatec/bonfire) <!--stargazers:RafaelBarbosatec/bonfire--> - Flame engine based game engine for 2D RPG games
+*   [Zerker (⭐518)](https://github.com/flutterkit/zerker) <!--stargazers:flutterkit/zerker--> - Lightweight and powerful graphic animation library by [drawcall](https://github.com/drawcall).
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Websockets / Isomorphic web frameworks
 
 *   [clws (⭐72)](https://github.com/3b/clws) -  websockets server in CL, built on IOlib and libfixposix. No licence specified.
-*   [Hunchensocket (⭐100)](https://github.com/joaotavora/hunchensocket) -  RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. [MIT](https://opensource.org/licenses/MIT).
-*   [websocket-driver (⭐87)](https://github.com/fukamachi/websocket-driver) - based on Clack.
+*   [Hunchensocket (⭐102)](https://github.com/joaotavora/hunchensocket) -  RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. [MIT](https://opensource.org/licenses/MIT).
+*   [websocket-driver (⭐89)](https://github.com/fukamachi/websocket-driver) - based on Clack.
 
 ## [9. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Icons
 
-*   [svelte-icomoon (⭐3)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
+*   [svelte-icomoon (⭐5)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

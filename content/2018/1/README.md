@@ -2,7 +2,7 @@
 
 42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Models/Projects
 
-*   [Tensorflow FastText (⭐305)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
+*   [Tensorflow FastText (⭐306)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Integrations
 
-*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐829)](https://github.com/zmartzone/mod_auth_openidc)
+*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐841)](https://github.com/zmartzone/mod_auth_openidc)
 
 ## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -124,14 +124,14 @@
 
 *   [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 *   **Editor Integration**:
-    *   [ocaml-lsp (⭐504)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐138k)](https://github.com/microsoft/vscode), Vim and Emacs.
+    *   [ocaml-lsp (⭐529)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐141k)](https://github.com/microsoft/vscode), Vim and Emacs.
     *   [merlin (⭐1.4k)](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
-    *   [tuareg (⭐326)](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
-    *   [merlin-eldoc (⭐40)](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
-    *   [vscode-ocaml (⭐175)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐138k)](https://github.com/microsoft/vscode)
-    *   [OCaml Debugger (⭐136)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐138k)](https://github.com/microsoft/vscode)
+    *   [tuareg (⭐330)](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+    *   [merlin-eldoc (⭐41)](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
+    *   [vscode-ocaml (⭐173)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐141k)](https://github.com/microsoft/vscode)
+    *   [OCaml Debugger (⭐143)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐141k)](https://github.com/microsoft/vscode)
     *   [Sublime better ocaml (⭐23)](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
-        *   [Sublime text package (⭐13)](https://github.com/def-lkb/sublime-text-merlin)
+        *   [Sublime text package (⭐12)](https://github.com/def-lkb/sublime-text-merlin)
     *   [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
         *   [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – Small ncurses-based API and documentation browser.
         *   [ocp-index-top (⭐19)](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
@@ -194,7 +194,7 @@
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐807)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐809)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 
 ## [25. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -218,14 +218,14 @@
 
 ### C, C++
 
-*   [cl-monero-tools (⭐18)](https://github.com/glv2/cl-monero-tools) -  Common Lisp toolbox to work with the Monero cryptocurrency. [GPL3](http://www.gnu.org/copyleft/gpl.html). Not in Quicklisp.
+*   [cl-monero-tools (⭐17)](https://github.com/glv2/cl-monero-tools) -  Common Lisp toolbox to work with the Monero cryptocurrency. [GPL3](http://www.gnu.org/copyleft/gpl.html). Not in Quicklisp.
 *   [peercoin-blockchain-parser (⭐4)](https://github.com/glv2/peercoin-blockchain-parser) - parse the blockchain contained in a file and export some of its data to a text file, a SQL script or a database. It can also create a database using the RPC of a Peercoin daemon as source of data instead of a blockchain file. LGPL3. Not in Quicklisp.
 *   [peercoin-calculator (⭐2)](https://github.com/glv2/peercoin-calculator) - This program gives you the probability of generating a POS or POW block within 10 minutes, 24 hours, 31 days, 90 days and 1 year, as well as the reward that can be expected. GUI in Qt. [GPL3](http://www.gnu.org/copyleft/gpl.html). Not in Quicklisp.
 *   [peercoin-vote (⭐5)](https://github.com/glv2/peercoin-vote) -  A voting system based on data from the blockchain (addresses and balances). [GPL3](http://www.gnu.org/copyleft/gpl.html). Not in Quicklisp.
 
 ### Mobile
 
-*   👍 [serapeum (⭐343)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [serapeum (⭐355)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 
 ### CLOS extensions
@@ -244,7 +244,7 @@
 
 ### Date and time / Third-party APIs
 
-*   [chronicity (⭐60)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [chronicity (⭐62)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Files and directories / Third-party APIs
 
@@ -257,7 +257,7 @@
 
 ### GUI
 
-*   [QtSharp (⭐557)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
+*   [QtSharp (⭐558)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 
 ### IDE
 
@@ -265,7 +265,7 @@
 
 ### Protocols
 
-*   [DNS (⭐361)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
+*   [DNS (⭐364)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
 ## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -284,11 +284,11 @@
 
 ### Images / Barcode
 
-*   [MCScratchImageView (⭐358)](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
+*   [MCScratchImageView (⭐359)](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
 
 ### Network / Barcode
 
-*   [Ciao (⭐54)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
+*   [Ciao (⭐55)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
 
 ### Styling / Barcode
 
@@ -296,7 +296,7 @@
 
 ### UI / Barcode
 
-*   [Shiny (⭐768)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
+*   [Shiny (⭐767)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 
 ### Alert / Barcode
 
@@ -420,14 +420,14 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
     *   [signal (⭐46)](https://github.com/soumith/torch-signal) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft.
     *   [nn (⭐1.3k)](https://github.com/torch/nn) - Neural Network package for Torch.
     *   [torchnet (⭐993)](https://github.com/torchnet/torchnet) - framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming.
-    *   [nngraph (⭐297)](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
+    *   [nngraph (⭐296)](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
     *   [nnx (⭐96)](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library.
     *   [rnn (⭐932)](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
     *   [dpnn (⭐193)](https://github.com/Element-Research/dpnn) - Many useful features that aren't part of the main nn package.
     *   [dp (⭐346)](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns. **\[Deprecated]**
     *   [optim (⭐195)](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
     *   [unsup (⭐85)](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA). **\[Deprecated]**
-    *   [manifold (⭐133)](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
+    *   [manifold (⭐134)](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
     *   [svm (⭐43)](https://github.com/koraykv/torch-svm) - Torch-SVM library. **\[Deprecated]**
     *   [lbfgs (⭐2)](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs. **\[Deprecated]**
     *   [vowpalwabbit (⭐2)](https://github.com/clementfarabet/vowpal_wabbit) - An old vowpalwabbit interface to torch. **\[Deprecated]**
@@ -435,7 +435,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
     *   [spaghetti (⭐2)](https://github.com/MichaelMathieu/lua---spaghetti) - Spaghetti (sparse linear) module for torch7 by @MichaelMathieu **\[Deprecated]**
     *   [LuaSHKit (⭐3)](https://github.com/ocallaco/LuaSHkit) - A Lua wrapper around the Locality sensitive hashing library SHKit **\[Deprecated]**
     *   [kernel smoothing (⭐5)](https://github.com/rlowrance/kernel-smoothers) - KNN, kernel-weighted average, local linear regression smoothers. **\[Deprecated]**
-    *   [cutorch (⭐333)](https://github.com/torch/cutorch) - Torch CUDA Implementation.
+    *   [cutorch (⭐334)](https://github.com/torch/cutorch) - Torch CUDA Implementation.
     *   [cunn (⭐209)](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation.
     *   [imgraph (⭐22)](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images. **\[Deprecated]**
     *   [videograph (⭐9)](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos. **\[Deprecated]**
@@ -443,7 +443,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
     *   [stitch (⭐4)](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence. **\[Deprecated]**
     *   [sfm (⭐3)](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package. **\[Deprecated]**
     *   [fex (⭐10)](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules. **\[Deprecated]**
-    *   [OverFeat (⭐594)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
+    *   [OverFeat (⭐593)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
     *   [wav2letter (⭐6.2k)](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
 ## [39. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
@@ -456,8 +456,8 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ### Projects Using Vue.js / Open Source
 
-*   [fd-vue (⭐62)](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
-*   [wildfire (⭐178)](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
+*   [fd-vue (⭐63)](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
+*   [wildfire (⭐179)](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
 *   [vue-chrome-extension-boilerplate (⭐244)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
 
 ### Components & Libraries / UI Components
@@ -507,7 +507,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ### Bindings
 
-*   [Vulkano (⭐3.5k)](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
+*   [Vulkano (⭐3.6k)](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
 
 ---
 

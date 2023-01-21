@@ -2,7 +2,7 @@
 
 63 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -195,7 +195,7 @@
 
 ### Community
 
-*   [Embedded WG (⭐1.5k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
+*   [Embedded WG (⭐1.6k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
 
 ## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -229,8 +229,8 @@
 
 ### Apps
 
-*   [vkQuake2 (⭐739)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
-*   [q2vkpt (⭐942)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
+*   [vkQuake2 (⭐745)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
+*   [q2vkpt (⭐945)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
 
 ## [17. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -364,7 +364,7 @@
 
 ### Interoperability
 
-*   [PInvoke Interop Assistant (⭐343)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
+*   [PInvoke Interop Assistant (⭐348)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
 
 ### Search
 
@@ -468,7 +468,7 @@
 
 ### Download Management Tools / File Sharing
 
-*   [youtube-dl (⭐116k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [youtube-dl (⭐117k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Proxy and VPN Tools / File Sharing
 
@@ -511,7 +511,7 @@
 
 *   [Twill](https://twill.io) - An open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.
 *   [MATH\_BOT](https://mathbot.com) - Learn math by programming a robot.
-*   [Vue Crossword (⭐57)](https://github.com/Piterden/vue-crossword) - A Vue.js based crossword puzzle builder and filler front-end application. Built with [CodeSandbox](https://codesandbox.io/s/github/Piterden/vue-crossword/tree/master/).
+*   [Vue Crossword (⭐58)](https://github.com/Piterden/vue-crossword) - A Vue.js based crossword puzzle builder and filler front-end application. Built with [CodeSandbox](https://codesandbox.io/s/github/Piterden/vue-crossword/tree/master/).
 
 ### Components & Libraries / UI Components
 
@@ -595,52 +595,52 @@
 ### Contents / Business
 
 *   [Invoice Ninja (⭐1.3k)](https://github.com/invoiceninja/flutter-mobile) - Companion app for the Invoice Ninja by [Invoice Ninja](https://github.com/invoiceninja).
-*   [Flutter Jobs App (⭐219)](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche (⭐219)](https://github.com/Rahiche/flutter_jobs_app).
+*   [Flutter Jobs App (⭐222)](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche (⭐222)](https://github.com/Rahiche/flutter_jobs_app).
 
 ### Contents / Communication
 
-*   [FlutterMates (⭐518)](https://github.com/CodemateLtd/FlutterMates) - A sample app for our internal company talk about Flutter by [Codemate Ltd](https://github.com/CodemateLtd).
+*   [FlutterMates (⭐525)](https://github.com/CodemateLtd/FlutterMates) - A sample app for our internal company talk about Flutter by [Codemate Ltd](https://github.com/CodemateLtd).
 
 ### Contents / Health and Fitness
 
-*   [Weight Tracker (⭐341)](https://github.com/MSzalek-Mobile/weight_tracker) - Weight Tracker is an application dedicated for people who want to dump or maintain weight by [Marcin Szałek](https://github.com/MarcinusX).
+*   [Weight Tracker (⭐344)](https://github.com/MSzalek-Mobile/weight_tracker) - Weight Tracker is an application dedicated for people who want to dump or maintain weight by [Marcin Szałek](https://github.com/MarcinusX).
 
 ### Contents / Games
 
-*   [Solitaire (⭐225)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
+*   [Solitaire (⭐227)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
 
 ### Contents / News and Magazine
 
-*   [Flews (⭐159)](https://github.com/jbarr21/flews) - A news client written in Flutter that displays top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos by [James Barr](https://github.com/jbarr21).
+*   [Flews (⭐156)](https://github.com/jbarr21/flews) - A news client written in Flutter that displays top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos by [James Barr](https://github.com/jbarr21).
 
 ### Contents / Personalization
 
-*   [Furniture (⭐301)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
+*   [Furniture (⭐303)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
 
 ### Contents / Productivity
 
 *   [GSYGithubAppFlutter (⭐14k)](https://github.com/CarGuo/GSYGithubAppFlutter) - An open source Github client App developed by Flutter by [Shuyu Guo](https://github.com/CarGuo).
-*   [Habbit (⭐134)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐134)](https://github.com/lzyy/habbit).
+*   [Habbit (⭐135)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐135)](https://github.com/lzyy/habbit).
 
 ### Contents / Social Network
 
 *   [FlutterGram (⭐2.1k)](https://github.com/mdanics/fluttergram) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 *   [Flutter Chat App (⭐1.1k)](https://github.com/rohan20/flutter-chat-app) - A one-to-one chat app built on Flutter with firebase authentication and image sharing capability by [Rohan Taneja](https://github.com/rohan20).
-*   [Lime (⭐374)](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
-*   [Meme Chat (⭐523)](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+*   [Lime (⭐375)](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
+*   [Meme Chat (⭐527)](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 
 ### Contents / Shopping
 
-*   [Grocery-App (⭐749)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
-*   [Flutter Games (⭐227)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
+*   [Grocery-App (⭐802)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
+*   [Flutter Games (⭐232)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
 
 ### Contents / Tools
 
-*   [Trovami (⭐229)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
+*   [Trovami (⭐234)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 
 ### Contents / Travel
 
-*   [Tourism (⭐273)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
+*   [Tourism (⭐276)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
 ## [47. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
@@ -701,7 +701,7 @@
 ### C++ / General-Purpose Machine Learning
 
 *   [Polyaxon (⭐3.2k)](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
-*   [BanditLib (⭐131)](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **\[Deprecated]**
+*   [BanditLib (⭐132)](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **\[Deprecated]**
 *   [DeepDetect (⭐2.4k)](https://github.com/jolibrain/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
 *   [igraph](http://igraph.org/) - General purpose graph library.
 *   [libfm (⭐1.5k)](https://github.com/srendle/libfm) - A generic approach that allows to mimic most factorization models by feature engineering.
@@ -711,11 +711,11 @@
 
 ### APL / General-Purpose Machine Learning
 
-*   [naive-apl (⭐21)](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **\[Deprecated]**
+*   [naive-apl (⭐22)](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **\[Deprecated]**
 
 ### C / General-Purpose Machine Learning
 
-*   [Hybrid Recommender System (⭐11)](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms. **\[Deprecated]**
+*   [Hybrid Recommender System (⭐12)](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms. **\[Deprecated]**
 
 ### C++ / Computer Vision
 
@@ -725,29 +725,29 @@
 ### Python / General-Purpose Machine Learning
 
 *   [Caffe (⭐33k)](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind.
-*   [machine learning (⭐250)](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface (⭐250)](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface (⭐250)](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines. Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
+*   [machine learning (⭐252)](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface (⭐252)](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface (⭐252)](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines. Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
 *   [scikit-learn](https://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 *   [metric-learn (⭐1.3k)](https://github.com/metric-learn/metric-learn) - A Python module for metric learning.
 *   [astroML](https://www.astroml.org/) - Machine Learning and Data Mining for Astronomy.
 *   [hebel (⭐1.2k)](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python. **\[Deprecated]**
-*   [Chainer (⭐5.7k)](https://github.com/chainer/chainer) - Flexible neural network framework.
+*   [Chainer (⭐5.8k)](https://github.com/chainer/chainer) - Flexible neural network framework.
 *   [prophet](https://facebook.github.io/prophet/) - Fast and automated time series forecasting framework by Facebook.
-*   [topik (⭐92)](https://github.com/ContinuumIO/topik) - Topic modelling toolkit. **\[Deprecated]**
+*   [topik (⭐93)](https://github.com/ContinuumIO/topik) - Topic modelling toolkit. **\[Deprecated]**
 *   [Surprise](https://surpriselib.com) - A scikit for building and analyzing recommender systems.
-*   [Crab (⭐1.1k)](https://github.com/muricoca/crab) - A flexible, fast recommender engine. **\[Deprecated]**
-*   [Bolt (⭐88)](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox. **\[Deprecated]**
-*   [CoverTree (⭐27)](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree **\[Deprecated]**
+*   [Crab (⭐1.2k)](https://github.com/muricoca/crab) - A flexible, fast recommender engine. **\[Deprecated]**
+*   [Bolt (⭐87)](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox. **\[Deprecated]**
+*   [CoverTree (⭐28)](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree **\[Deprecated]**
 *   [Pyevolve (⭐307)](https://github.com/perone/Pyevolve) - Genetic algorithm framework. **\[Deprecated]**
-*   [neurolab (⭐151)](https://github.com/zueve/neurolab)
+*   [neurolab (⭐152)](https://github.com/zueve/neurolab)
 *   [Spearmint (⭐1.5k)](https://github.com/HIPS/Spearmint) - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper: Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams. Advances in Neural Information Processing Systems, 2012. **\[Deprecated]**
 *   [Pebl (⭐103)](https://github.com/abhik/pebl/) - Python Environment for Bayesian Learning. **\[Deprecated]**
 *   [pomegranate (⭐3k)](https://github.com/jmschrei/pomegranate) - Hidden Markov Models for Python, implemented in Cython for speed and efficiency.
 *   [pydeep (⭐1.4k)](https://github.com/andersbll/deeppy) - Deep Learning In Python. **\[Deprecated]**
-*   [TPOT (⭐8.8k)](https://github.com/EpistasisLab/tpot) - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
+*   [TPOT (⭐8.9k)](https://github.com/EpistasisLab/tpot) - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 *   [Orange](https://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts.
-*   [milk (⭐609)](https://github.com/luispedro/milk) - Machine learning toolkit focused on supervised classification. **\[Deprecated]**
+*   [milk (⭐610)](https://github.com/luispedro/milk) - Machine learning toolkit focused on supervised classification. **\[Deprecated]**
 *   [REP (⭐662)](https://github.com/yandex/rep) - an IPython-based environment for conducting data-driven research in a consistent and reproducible way. REP is not trying to substitute scikit-learn, but extends it and provides better user experience. **\[Deprecated]**
-*   [rgf\_python (⭐362)](https://github.com/RGF-team/rgf) - Python bindings for Regularized Greedy Forest (Tree) Library.
+*   [rgf\_python (⭐364)](https://github.com/RGF-team/rgf) - Python bindings for Regularized Greedy Forest (Tree) Library.
 *   [modAL (⭐1.9k)](https://github.com/modAL-python/modAL) - A modular active learning framework for Python, built on top of scikit-learn.
 *   [Turi Create (⭐11k)](https://github.com/apple/turicreate) - Machine learning from Apple. Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 
@@ -821,7 +821,7 @@
 *   [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html) - RWeka: R/Weka interface.
 *   [RXshrink](https://cran.r-project.org/web/packages/RXshrink/index.html) - RXshrink: Maximum Likelihood Shrinkage via Generalized Ridge or Least Angle Regression.
 *   [sda](https://cran.r-project.org/web/packages/sda/index.html) - sda: Shrinkage Discriminant Analysis and CAT Score Variable Selection. **\[Deprecated]**
-*   [SuperLearner (⭐238)](https://github.com/ecpolley/SuperLearner) - Multi-algorithm ensemble learning packages.
+*   [SuperLearner (⭐240)](https://github.com/ecpolley/SuperLearner) - Multi-algorithm ensemble learning packages.
 *   [svmpath](https://cran.r-project.org/web/packages/svmpath/index.html) - svmpath: svmpath: the SVM Path algorithm. **\[Deprecated]**
 *   [tgp](https://cran.r-project.org/web/packages/tgp/index.html) - tgp: Bayesian treed Gaussian process models. **\[Deprecated]**
 *   [tree](https://cran.r-project.org/web/packages/tree/index.html) - tree: Classification and regression trees.
@@ -845,13 +845,13 @@
 
 ### Common Lisp / General-Purpose Machine Learning
 
-*   [mgl (⭐336)](https://github.com/melisgl/mgl/) - Neural networks (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes.
+*   [mgl (⭐338)](https://github.com/melisgl/mgl/) - Neural networks (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes.
 *   [mgl-gpr (⭐56)](https://github.com/melisgl/mgl-gpr/) - Evolutionary algorithms. **\[Deprecated]**
 *   [cl-libsvm (⭐16)](https://github.com/melisgl/cl-libsvm/) - Wrapper for the libsvm support vector machine library. **\[Deprecated]**
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [Clojush (⭐322)](https://github.com/lspector/Clojush) - The Push programming language and the PushGP genetic programming system implemented in Clojure.
+*   [Clojush (⭐320)](https://github.com/lspector/Clojush) - The Push programming language and the PushGP genetic programming system implemented in Clojure.
 *   [Encog (⭐136)](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets). **\[Deprecated]**
 *   [Fungp (⭐100)](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure. **\[Deprecated]**
 *   [Statistiker (⭐63)](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure. **\[Deprecated]**
@@ -874,22 +874,22 @@
 
 *   [go-pr (⭐62)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang. **\[Deprecated]**
 *   [go-ml (⭐196)](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution. **\[Deprecated]**
-*   [bayesian (⭐743)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang. **\[Deprecated]**
+*   [bayesian (⭐744)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang. **\[Deprecated]**
 *   [go-galib (⭐193)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **\[Deprecated]**
 *   [Cloudforest (⭐722)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
 
 ### Go / Data Analysis / Data Visualization
 
-*   [SVGo (⭐1.9k)](https://github.com/ajstarks/svgo) - The Go Language library for SVG generation.
+*   [SVGo (⭐2k)](https://github.com/ajstarks/svgo) - The Go Language library for SVG generation.
 *   [RF (⭐112)](https://github.com/fxsjy/RF.go) - Random forests implementation in Go. **\[Deprecated]**
 
 ### Haskell / General-Purpose Machine Learning
 
 *   [haskell-ml (⭐55)](https://github.com/ajtulloch/haskell-ml) - Haskell implementations of various ML algorithms. **\[Deprecated]**
 *   [HLearn (⭐1.6k)](https://github.com/mikeizbicki/HLearn) - a suite of libraries for interpreting machine learning models according to their algebraic structure. **\[Deprecated]**
-*   [hnn (⭐111)](https://github.com/alpmestan/HNN) - Haskell Neural Network library.
+*   [hnn (⭐112)](https://github.com/alpmestan/HNN) - Haskell Neural Network library.
 *   [hopfield-networks (⭐16)](https://github.com/ajtulloch/hopfield-networks) - Hopfield Networks for unsupervised learning in Haskell. **\[Deprecated]**
-*   [DNNGraph (⭐696)](https://github.com/ajtulloch/dnngraph) - A DSL for deep neural networks. **\[Deprecated]**
+*   [DNNGraph (⭐695)](https://github.com/ajtulloch/dnngraph) - A DSL for deep neural networks. **\[Deprecated]**
 *   [LambdaNet (⭐375)](https://github.com/jbarrow/LambdaNet) - Configurable Neural Networks in Haskell. **\[Deprecated]**
 
 ### Java / Natural Language Processing
@@ -909,8 +909,8 @@
 *   [Stanford SPIED](https://nlp.stanford.edu/software/patternslearning.shtml) - Learning entities from unlabeled text starting with seed sets using patterns in an iterative fashion.
 *   [Twitter Text Java (⭐2.9k)](https://github.com/twitter/twitter-text/tree/master/java) - A Java implementation of Twitter's text processing library.
 *   [ClearTK (⭐131)](https://github.com/ClearTK/cleartk) - ClearTK provides a framework for developing statistical natural language processing (NLP) components in Java and is built on top of Apache UIMA. **\[Deprecated]**
-*   [NLP4J (⭐145)](https://github.com/emorynlp/nlp4j) - The NLP4J project provides software and resources for natural language processing. The project started at the Center for Computational Language and EducAtion Research, and is currently developed by the Center for Language and Information Research at Emory University. **\[Deprecated]**
-*   [CogcompNLP (⭐455)](https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of NLP-friendly data structures and a number of NLP-related utilities that support writing NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
+*   [NLP4J (⭐147)](https://github.com/emorynlp/nlp4j) - The NLP4J project provides software and resources for natural language processing. The project started at the Center for Computational Language and EducAtion Research, and is currently developed by the Center for Language and Information Research at Emory University. **\[Deprecated]**
+*   [CogcompNLP (⭐457)](https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of NLP-friendly data structures and a number of NLP-related utilities that support writing NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
 
 ### Scala / General-Purpose Machine Learning
 
@@ -930,7 +930,7 @@
 
 *   [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/) - RankLib is a library of learning to rank algorithms. **\[Deprecated]**
 *   [Stanford Classifier](https://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
-*   [SystemML (⭐934)](https://github.com/apache/systemml) - flexible, scalable machine learning (ML) language.
+*   [SystemML (⭐940)](https://github.com/apache/systemml) - flexible, scalable machine learning (ML) language.
 *   [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks.
 *   [LBJava (⭐12)](https://github.com/CogComp/lbjava) - Learning Based Java is a modelling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application.
 
@@ -955,8 +955,8 @@
 *   [dc.js](https://dc-js.github.io/dc.js/)
 *   [chartjs](https://www.chartjs.org/)
 *   [D3xter (⭐341)](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3. **\[Deprecated]**
-*   [statkit (⭐51)](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript. **\[Deprecated]**
-*   [science.js (⭐870)](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript. **\[Deprecated]**
+*   [statkit (⭐50)](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript. **\[Deprecated]**
+*   [science.js (⭐873)](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript. **\[Deprecated]**
 *   [Z3d (⭐89)](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js **\[Deprecated]**
 *   [C3.js](https://c3js.org/) - customizable library based on D3.js for easy chart drawing.
 *   [Datamaps](https://datamaps.github.io/) - Customizable SVG map/geo visualizations using D3.js. **\[Deprecated]**
@@ -971,16 +971,16 @@
 *   [Convnet.js](https://cs.stanford.edu/people/karpathy/convnetjs/) - ConvNetJS is a JavaScript library for training Deep Learning models\[DEEP LEARNING] **\[Deprecated]**
 *   [Clusterfck](https://harthur.github.io/clusterfck/) - Agglomerative hierarchical clustering implemented in JavaScript for Node.js and the browser. **\[Deprecated]**
 *   [Clustering.js (⭐29)](https://github.com/emilbayes/clustering.js) - Clustering algorithms implemented in JavaScript for Node.js and the browser. **\[Deprecated]**
-*   [Decision Trees (⭐203)](https://github.com/serendipious/nodejs-decision-tree-id3) - NodeJS Implementation of Decision Tree using ID3 Algorithm. **\[Deprecated]**
+*   [Decision Trees (⭐204)](https://github.com/serendipious/nodejs-decision-tree-id3) - NodeJS Implementation of Decision Tree using ID3 Algorithm. **\[Deprecated]**
 *   [DN2A (⭐464)](https://github.com/antoniodeluca/dn2a.js) - Digital Neural Networks Architecture. **\[Deprecated]**
 *   [Node-fann (⭐186)](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js **\[Deprecated]**
 *   [Kmeans.js (⭐44)](https://github.com/emilbayes/kMeans.js) - Simple JavaScript implementation of the k-means algorithm, for node.js and the browser. **\[Deprecated]**
 *   [Learning.js (⭐67)](https://github.com/yandongliu/learningjs) - JavaScript implementation of logistic regression/c4.5 decision tree **\[Deprecated]**
-*   [machinelearn.js (⭐518)](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web, Node.js and developers
+*   [machinelearn.js (⭐522)](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web, Node.js and developers
 *   [Brain.js (⭐13k)](https://github.com/BrainJS/brain.js) - Neural networks in JavaScript - continued community fork of [Brain (⭐8k)](https://github.com/harthur/brain).
 *   [Bayesian-Bandit (⭐44)](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser. **\[Deprecated]**
-*   [NeuralN (⭐274)](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training. **\[Deprecated]**
-*   [kalman (⭐114)](https://github.com/itamarwe/kalman) - Kalman filter for JavaScript. **\[Deprecated]**
+*   [NeuralN (⭐275)](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training. **\[Deprecated]**
+*   [kalman (⭐113)](https://github.com/itamarwe/kalman) - Kalman filter for JavaScript. **\[Deprecated]**
 *   [shaman (⭐108)](https://github.com/luccastera/shaman) - Node.js library with support for both simple and multiple linear regression. **\[Deprecated]**
 
 ### JavaScript / Misc
@@ -995,30 +995,30 @@
 *   [Local Regression (⭐77)](https://github.com/JuliaStats/Loess.jl) - Local regression, so smooooth!
 *   [Naive Bayes (⭐8)](https://github.com/nutsiepully/NaiveBayes.jl) - Simple Naive Bayes implementation in Julia. **\[Deprecated]**
 *   [Simple MCMC (⭐12)](https://github.com/fredo-dedup/SimpleMCMC.jl) - basic MCMC sampler implemented in Julia. **\[Deprecated]**
-*   [Distances (⭐356)](https://github.com/JuliaStats/Distances.jl) - Julia module for Distance evaluation.
+*   [Distances (⭐360)](https://github.com/JuliaStats/Distances.jl) - Julia module for Distance evaluation.
 *   [MCMC (⭐35)](https://github.com/doobwa/MCMC.jl) - MCMC tools for Julia. **\[Deprecated]**
 *   [Online Learning (⭐14)](https://github.com/lendle/OnlineLearning.jl) **\[Deprecated]**
-*   [MultivariateStats (⭐325)](https://github.com/JuliaStats/MultivariateStats.jl) - Methods for dimensionality reduction.
+*   [MultivariateStats (⭐327)](https://github.com/JuliaStats/MultivariateStats.jl) - Methods for dimensionality reduction.
 *   [ANN (⭐57)](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks. **\[Deprecated]**
 *   [Mocha (⭐1.3k)](https://github.com/pluskid/Mocha.jl) - Deep Learning framework for Julia inspired by Caffe. **\[Deprecated]**
 
 ### Julia / Natural Language Processing
 
 *   [Topic Models (⭐36)](https://github.com/slycoder/TopicModels.jl) - TopicModels for Julia. **\[Deprecated]**
-*   [Text Analysis (⭐351)](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
+*   [Text Analysis (⭐352)](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
 
 ### Julia / Data Analysis / Data Visualization
 
-*   [Data Frames Meta (⭐415)](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames.
+*   [Data Frames Meta (⭐417)](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames.
 *   [Julia Data (⭐6)](https://github.com/nfoti/JuliaData) - library for working with tabular data in Julia. **\[Deprecated]**
 *   [Data Read (⭐73)](https://github.com/queryverse/ReadStat.jl) - Read files from Stata, SAS, and SPSS.
-*   [Stats (⭐125)](https://github.com/JuliaStats/StatsKit.jl) - Statistical tests for Julia.
+*   [Stats (⭐126)](https://github.com/JuliaStats/StatsKit.jl) - Statistical tests for Julia.
 *   [DataFrames (⭐1.5k)](https://github.com/JuliaData/DataFrames.jl) - library for working with tabular data in Julia.
 *   [Data Arrays (⭐52)](https://github.com/JuliaStats/DataArrays.jl) - Data structures that allow missing values. **\[Deprecated]**
 
 ### Julia / Misc Stuff / Presentations
 
-*   [SignalProcessing (⭐318)](https://github.com/JuliaDSP/DSP.jl) - Signal Processing tools for Julia.
+*   [SignalProcessing (⭐323)](https://github.com/JuliaDSP/DSP.jl) - Signal Processing tools for Julia.
 
 ### Lua / General-Purpose Machine Learning
 
@@ -1050,7 +1050,7 @@
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [KRFuzzyCMeans-Algorithm (⭐12)](https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm) - It implemented Fuzzy C-Means (FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression. **\[Deprecated]**
-*   [Oml (⭐113)](https://github.com/rleonid/oml) - A general statistics and machine learning library.
+*   [Oml (⭐115)](https://github.com/rleonid/oml) - A general statistics and machine learning library.
 *   [GPR](https://mmottl.github.io/gpr/) - Efficient Gaussian Process Regression in OCaml.
 *   [Libra-Tk](https://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
 *   [Algorithm::SVMLight](https://metacpan.org/pod/Algorithm::SVMLight),
@@ -1073,15 +1073,15 @@
 
 *   [NLTK](https://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 *   [YAlign (⭐128)](https://github.com/machinalis/yalign) - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora. **\[Deprecated]**
-*   [spammy (⭐136)](https://github.com/tasdikrahman/spammy) - A library for email Spam filtering built on top of NLTK
+*   [spammy (⭐137)](https://github.com/tasdikrahman/spammy) - A library for email Spam filtering built on top of NLTK
 *   [loso (⭐82)](https://github.com/fangpenlin/loso) - Another Chinese segmentation library. **\[Deprecated]**
 *   [nut (⭐119)](https://github.com/pprett/nut) - Natural language Understanding Toolkit. **\[Deprecated]**
 *   [BLLIP Parser](https://pypi.org/project/bllipparser/) - Python bindings for the BLLIP Natural Language Parser (also known as the Charniak-Johnson parser). **\[Deprecated]**
-*   [PyNLPl (⭐454)](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for [FoLiA](https://proycon.github.io/folia/), but also ARPA language models, Moses phrasetables, GIZA++ alignments.
+*   [PyNLPl (⭐455)](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for [FoLiA](https://proycon.github.io/folia/), but also ARPA language models, Moses phrasetables, GIZA++ alignments.
 *   [spaCy (⭐25k)](https://github.com/explosion/spaCy) - Industrial strength NLP with Python and Cython.
-*   [Distance (⭐111)](https://github.com/doukremt/distance) - Levenshtein and Hamming distance computation. **\[Deprecated]**
+*   [Distance (⭐112)](https://github.com/doukremt/distance) - Levenshtein and Hamming distance computation. **\[Deprecated]**
 *   [editdistance](https://pypi.org/project/editdistance/) - fast implementation of edit distance.
-*   [stanford-corenlp-python (⭐610)](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP (⭐8.7k)](https://github.com/stanfordnlp/CoreNLP) **\[Deprecated]**
+*   [stanford-corenlp-python (⭐610)](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP (⭐8.8k)](https://github.com/stanfordnlp/CoreNLP) **\[Deprecated]**
 
 ### Python / Data Analysis / Data Visualization
 
@@ -1094,15 +1094,15 @@
 *   [PyDy](https://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modelling of dynamic motion based around NumPy, SciPy, IPython, and matplotlib.
 *   [astropy](https://www.astropy.org/) - A community Python library for Astronomy.
 *   [matplotlib](https://matplotlib.org/) - A Python 2D plotting library.
-*   [altair (⭐7.9k)](https://github.com/altair-viz/altair) - A Python to Vega translator.
+*   [altair (⭐8k)](https://github.com/altair-viz/altair) - A Python to Vega translator.
 *   [ggplot (⭐3.6k)](https://github.com/yhat/ggpy) - Same API as ggplot2 for R. **\[Deprecated]**
 *   [pycascading (⭐223)](https://github.com/twitter/pycascading) **\[Deprecated]**
-*   [windML (⭐124)](https://github.com/cigroup-ol/windml) - A Python Framework for Wind Energy Analysis and Prediction.
+*   [windML (⭐125)](https://github.com/cigroup-ol/windml) - A Python Framework for Wind Energy Analysis and Prediction.
 *   [cerebro2 (⭐24)](https://github.com/numenta/nupic.cerebro2) A web-based visualization and debugging platform for NuPIC. **\[Deprecated]**
 *   [NuPIC Studio (⭐93)](https://github.com/htm-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool! **\[Deprecated]**
 *   [Seaborn](https://seaborn.pydata.org/) - A python visualization library based on matplotlib.
 *   [Superset (⭐50k)](https://github.com/apache/incubator-superset) - A data exploration platform designed to be visual, intuitive, and interactive.
-*   [visualize\_ML (⭐163)](https://github.com/ayush1997/visualize_ML) - A python package for data exploration and data analysis. **\[Deprecated]**
+*   [visualize\_ML (⭐164)](https://github.com/ayush1997/visualize_ML) - A python package for data exploration and data analysis. **\[Deprecated]**
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -1113,7 +1113,7 @@
 
 ### Python / Neural Networks
 
-*   [Neuron (⭐37)](https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm. **\[Deprecated]**
+*   [Neuron (⭐38)](https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm. **\[Deprecated]**
 *   [NeuralTalk (⭐5.3k)](https://github.com/karpathy/neuraltalk2) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. **\[Deprecated]**
 
 ### Ruby / Natural Language Processing
@@ -1141,7 +1141,7 @@
 ### Rust / General-Purpose Machine Learning
 
 *   [leaf (⭐5.5k)](https://github.com/autumnai/leaf) - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe. Available under the MIT license. [**\[Deprecated\]**](https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.s0a3uy4cc)
-*   [RustNN (⭐310)](https://github.com/jackm321/RustNN) - RustNN is a feedforward neural network library. **\[Deprecated]**
+*   [RustNN (⭐316)](https://github.com/jackm321/RustNN) - RustNN is a feedforward neural network library. **\[Deprecated]**
 
 ### R / Data Manipulation | Data Analysis | Data Visualization
 
@@ -1168,15 +1168,15 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐555)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐554)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ### Swift / General-Purpose Machine Learning
 
 *   [Swift AI (⭐5.9k)](https://github.com/Swift-AI/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
 *   [BrainCore (⭐377)](https://github.com/alejandro-isaza/BrainCore) - The iOS and OS X neural network framework.
 *   [swix (⭐591)](https://github.com/stsievert/swix) - A bare bones library that includes a general matrix language and wraps some OpenCV for iOS development. **\[Deprecated]**
-*   [AIToolbox (⭐774)](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
-*   [Awesome CoreML (⭐531)](https://github.com/SwiftBrain/awesome-CoreML-models) - A curated list of pretrained CoreML models.
+*   [AIToolbox (⭐776)](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
+*   [Awesome CoreML (⭐532)](https://github.com/SwiftBrain/awesome-CoreML-models) - A curated list of pretrained CoreML models.
 
 ## [52. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
@@ -1196,7 +1196,7 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐305)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐304)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 *   [Mobile Web Development (⭐1.1k)](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
 
 ### Entertainment
@@ -1209,7 +1209,7 @@
 
 ### Hardware
 
-*   [Electronics (⭐4.4k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐4.5k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ### Miscellaneous
 
@@ -1248,7 +1248,7 @@
 
 ### Debug
 
-*   [check (⭐923)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐925)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 
@@ -1272,7 +1272,7 @@
 
 ### Utility / Barcode
 
-*   [TSAO (⭐134)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
+*   [TSAO (⭐135)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 
 ## [59. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -1319,7 +1319,7 @@
 
 ### Open Source Projects / Games
 
-*   [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
+*   [Lutris](https://www.patreon.com/lutris), [#2](https://liberapay.com/Lutris) - Game launcher & platform.
 *   [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 
 ### People Doing Open Source Work / Hardware related

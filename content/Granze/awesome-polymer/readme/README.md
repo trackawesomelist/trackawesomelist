@@ -2,7 +2,7 @@
 
 A collection of awesome Polymer resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Granze/awesome-polymer/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Granze/awesome-polymer](https://github.com/Granze/awesome-polymer) · ⭐ 393 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Granze/awesome-polymer/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Granze/awesome-polymer](https://github.com/Granze/awesome-polymer) · ⭐ 393 · 🏷️ Front-End Development
 
 [ [Daily](/content/Granze/awesome-polymer/README.md) / [Weekly](/content/Granze/awesome-polymer/week/README.md) / Overview ]
 

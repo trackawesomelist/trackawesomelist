@@ -2,7 +2,7 @@
 
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fffaraz/awesome-cpp/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ⭐ 43K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fffaraz/awesome-cpp/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ⭐ 43K · 🏷️ Programming Languages
 
 [ [Daily](/content/fffaraz/awesome-cpp/README.md) / Weekly / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 

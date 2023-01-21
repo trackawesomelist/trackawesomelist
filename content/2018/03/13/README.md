@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -81,7 +81,7 @@ Donationware
 
 ### Typescript Project Starters
 
-*   [typescript-starter (⭐3.2k)](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
+*   [typescript-starter (⭐3.3k)](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 
 ---
 

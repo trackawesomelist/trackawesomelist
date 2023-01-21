@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,19 +14,19 @@
 
 ### Machine Learning
 
-*   [AI4R (⭐710)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-*   [ruby-fann (⭐451)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+*   [AI4R (⭐708)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+*   [ruby-fann (⭐454)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
 *   [Foreman (⭐5.8k)](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
-*   [Procodile (⭐605)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
+*   [Procodile (⭐607)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 
 ### Scientific
 
 *   Bindings
-    *   [PyCall (⭐873)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
-    *   [ruby-opencv (⭐809)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+    *   [PyCall (⭐876)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
+    *   [ruby-opencv (⭐807)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ## [2. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 

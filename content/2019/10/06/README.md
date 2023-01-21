@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -104,7 +104,7 @@
 
 ### Python / Computer Vision
 
-*   [neural-style-pt (⭐761)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
+*   [neural-style-pt (⭐770)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 
 ## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Artificial Intelligence
 
-*   [Exnn (⭐96)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
+*   [Exnn (⭐97)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
 *   [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
 
 ### Authentication
@@ -151,34 +151,34 @@
 
 ### Authorization
 
-*   [canary (⭐463)](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
+*   [canary (⭐462)](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
 *   [terminator (⭐58)](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
 ### Chatting
 
-*   [ExGram (⭐146)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
-*   [hedwig (⭐642)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
+*   [ExGram (⭐147)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
+*   [hedwig (⭐645)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
 
 ### Cloud Infrastructure and Management
 
-*   [erlcloud (⭐649)](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
+*   [erlcloud (⭐650)](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
 *   [libcluster (⭐1.7k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
 
 ### Code Analysis
 
 *   [credo (⭐4.5k)](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir. ([Docs](https://hexdocs.pm/credo/Credo.html)).
 *   [dialyxir (⭐1.5k)](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.([Docs](https://hexdocs.pm/dialyzex/Mix.Tasks.Dialyzer.html)).
-*   [dogma (⭐472)](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
+*   [dogma (⭐471)](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
 
 ### Cryptography
 
-*   [cloak (⭐510)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
+*   [cloak (⭐511)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
 *   [comeonin (⭐1.2k)](https://github.com/riverrun/comeonin) - Password hashing (argon2, bcrypt, pbkdf2\_sha512) library for Elixir.(<https://hexdocs.pm/comeonin/api-reference.html>).
 *   [ex\_crypto (⭐125)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
 
 ### Date and Time
 
-*   [quantum (⭐2k)](https://github.com/quantum-elixir/quantum-core) - Cron-like job scheduler for Elixir applications.
+*   [quantum (⭐2.1k)](https://github.com/quantum-elixir/quantum-core) - Cron-like job scheduler for Elixir applications.
 
 ### Framework Components
 
@@ -203,7 +203,7 @@
 ### Packages / Penetration testing
 
 *   [aztarna (⭐84)](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
-*   [ros2\_fuzzer (⭐17)](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer.
+*   [ros2\_fuzzer (⭐18)](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,12 +44,8 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ### Charts
 
-*   [d3-message-sequence (⭐92)](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
-*   [dTree (⭐408)](https://github.com/ErikGartner/dTree) - Family tree library
-
-### Utils / Third Party
-
-*   [d3-starterkit (⭐127)](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
+*   [d3-message-sequence (⭐93)](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
+*   [dTree (⭐420)](https://github.com/ErikGartner/dTree) - Family tree library
 
 ### Miscellaneous / Third Party
 

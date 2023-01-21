@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 23 - Nov 29, 2020
 
-63 awesome lists updated this week.
+61 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -87,7 +87,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Applications / Cryptocurrencies
 
-*   [Phala-Network/phala-blockchain (⭐313)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
+*   [Phala-Network/phala-blockchain (⭐315)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
 
 ## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -148,7 +148,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Open Source / Other
 
-*   [Graviton Editor (⭐947)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
+*   [Graviton Editor (⭐980)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
 ## [13. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
@@ -172,7 +172,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Decentralized Systems
 
-*   [Substrate (⭐615)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐626)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## [17. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -226,7 +226,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Pipelines
 
-*   **[Bactopia (⭐204)](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. \[ [web](https://bactopia.github.io/) ]
+*   **[Bactopia (⭐211)](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. \[ [web](https://bactopia.github.io/) ]
 
 ## [26. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -379,29 +379,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 
 
-## [34. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Bootstrap
-
-*   [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
-
-### PHP / Laravel
-
-*   [100 (and counting) Laravel Quick Tips](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) - Povilas Korop / LaravelDaily Team (PDF)
-
-### PowerShell / Zend
-
-*   [PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell](https://leanpub.com/powershell101) - Mike F. Robbins *(Leanpub account or valid email requested)*
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
-
-### Python / Django
-
-*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) (PDF) (3.1)
-
-## [35. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [34. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Composer
 
@@ -414,7 +392,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 *   [Composer-Symlinker (⭐18)](https://github.com/e-picas/composer-symlinker) - Enables you to load packages from different directories (instead of loading them from /vendor).
 *   [Composer-Compile-Plugin (⭐11)](https://github.com/civicrm/composer-compile-plugin) - Allow PHP libraries to define simple, freeform compilation tasks. Support post-install hooks in any package.
 
-## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [35. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -425,7 +403,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 *   [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/OpenTracksApp/OpenTracks) - A sport tracking application that completely respects your privacy.
 *   [gammastep](https://gitlab.com/chinstrap/gammastep) - Linux tool to adjust the color temperature of your screen to your surroundings.
 
-## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Effect
 
@@ -433,27 +411,27 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Charts / Image Picker
 
-*   [Graphic (⭐794)](https://github.com/entronad/graphic) <!--stargazers:entronad/graphic--> - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad)
+*   [Graphic (⭐899)](https://github.com/entronad/graphic) <!--stargazers:entronad/graphic--> - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad)
 
-## [38. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [37. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Podcasts
 
 *   [Real Talk JavaScript, episode 101: Back to Basics with Native HTML and LitElement](https://realtalkjavascript.simplecast.com/episodes/episode-101-back-to-basics-with-native-html-and-litelement)
 
-## [39. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [38. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Machine Learning
 
 *   [PyTorch Geometric Temporal (⭐1.8k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - a temporal extension library for PyTorch Geometric .
 
-## [40. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDDSample (⭐4.2k)](https://github.com/citerus/dddsample-core) - Sample DDD project using Spring Boot (originally hosted in <http://dddsample.sourceforge.net/>)
 
-## [41. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [40. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Driver layer
 
@@ -463,7 +441,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 *   [FARobot](https://www.farobottech.com/) - Swarm Robot System, a ROS 2/DDS based Fleet Management System.
 
-## [42. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [41. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
@@ -477,13 +455,13 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 *   [Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg) by **Sandro Mancuso** \[57:59]
 
-## [43. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [42. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Phone Number Research / Telegram
 
-*   [PhoneInfoga (⭐7.7k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+*   [PhoneInfoga (⭐8.8k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 
-## [44. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [43. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Build tools
 
@@ -505,13 +483,13 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 *   [Glue (⭐1)](https://github.com/vinscom/glue) - Proven and opinionated programming, and configuration model for Java and Vert.x based applications. Inspired from ATG Nucleus, provides powerful layer base configuration management using simple properties file.
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Articles
 
 *   [CppCon 2020 Presentation Materials (⭐1.6k)](https://github.com/CppCon/CppCon2020) - CppCon 2020 Presentation Materials.
 
-## [46. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### APM
 
@@ -537,19 +515,19 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 *   [NetBeans (⭐45)](https://github.com/junichi11/cakephp3-netbeans) -  This package provides support for CakePHP in NetBeans 8.1+.
 
-## [47. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [46. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [apex/apex  (⭐23)](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
 
-## [48. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [47. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### Endpoints
 
 *   [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code (⭐3.3k)](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
 
-## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -560,9 +538,10 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
     *   [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month
     *   [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
     *   [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
-    *   [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo)
+    *   [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month
     *   [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
     *   [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
+    *   [RDS](https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups
     *   [Glacier](https://aws.amazon.com/glacier) - 10GB long-term object storage
     *   [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
     *   [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
@@ -586,13 +565,13 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 *   [FaunaDB](https://fauna.com/) — Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 100 MB
 
-## [50. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [49. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-bitwarden (⭐19)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+*   [tmux-bitwarden (⭐20)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
-## [51. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [50. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Code and Run
 
@@ -614,18 +593,18 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 *   [blickfeld-scanner-lib (⭐15)](https://github.com/Blickfeld/blickfeld-scanner-lib) - Cross-platform library to communicate with LiDAR devices of the Blickfeld GmbH.
 
-## [52. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [51. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 
 *   [Faker (⭐2.6k)](https://github.com/fakerphp/faker) - A fake data generator library.
 
-## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-schedule-board (⭐17)](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement.
-*   [x5-gmaps (⭐102)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
+*   [x5-gmaps (⭐103)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
 
 ### Components & Libraries / UI Utilities
 
@@ -633,60 +612,54 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 *   [vue-svg-sprite (⭐59)](https://github.com/thierrymichel/vue-svg-sprite) - A plugin, component or directive to simply use SVG sprite (vue 3.x, vue 2.x).
 *   [v-visible (⭐2)](https://github.com/andrewvasilchuk/v-visible) - Vue.js directive for setting visibility of an element.
 
-## [54. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [53. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
 *   [Beatrix (⭐28)](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### CMS
 
-*   [JHipster.NET (⭐266)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
-*   [RapidCMS (⭐244)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
+*   [JHipster.NET (⭐271)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
+*   [RapidCMS (⭐249)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
 
 ### Games
 
-*   [AsteroidsWasm (⭐133)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
+*   [AsteroidsWasm (⭐134)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 
 ### Tools & Utilities / Others
 
-*   [BlazorGoogleMaps (⭐209)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
-*   [BlazorRouter (⭐44)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
+*   [BlazorGoogleMaps (⭐216)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
+*   [BlazorRouter (⭐50)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
 *   [DataJuggler.Blazor.FileUpload (⭐23)](https://github.com/DataJuggler/BlazorFileUpload) - ![stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=86400) Wrapper for Steve Sanderson's BlazorFileInput component.
 
-## [56. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
-
-### Online Books
-
-*   [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
-
-## [57. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [55. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Image Optimizers / Meetups
 
 *   [Optimizt (⭐785)](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
 
-## [58. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [56. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Domain-specific language
 
 *   [absinthe\_gen (⭐27)](https://github.com/sashman/absinthe_gen) - Scaffold generator for Absithne.
 
-## [59. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [57. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### :sparkles: Tutorials
 
 *   [Ruby neural networks](https://www.honeybadger.io/blog/ruby-neural-networks/)
 
-## [60. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [58. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Frameworks
 
 *   [aleph.js (⭐4.9k)](https://github.com/alephjs/aleph.js) - The React Framework in Deno
 
-## [61. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [59. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -707,7 +680,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 *   [Pointcloudprinter :octocat: (⭐141)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 
-## [62. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [60. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -761,12 +734,12 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### More Awesome / Switzerland
 
-*   [Computer History (⭐2.3k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.1k)](https://github.com/fasouto/awesome-dataviz#readme)
-*   [Research Tools (⭐1.5k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
+*   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
+*   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
+*   [Scientific Writing (⭐486)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
-## [63. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [61. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 

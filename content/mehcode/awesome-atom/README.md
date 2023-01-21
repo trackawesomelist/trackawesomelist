@@ -2,7 +2,7 @@
 
 A curated list of delightful Atom packages and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mehcode/awesome-atom/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) · ⭐ 1.9K · 🏷️ Editors
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mehcode/awesome-atom/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) · ⭐ 1.9K · 🏷️ Editors
 
 [ Daily / [Weekly](/content/mehcode/awesome-atom/week/README.md) / [Overview](/content/mehcode/awesome-atom/readme/README.md) ]
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 29, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐69)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐74)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
 
 ## [4. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
@@ -40,21 +40,21 @@
 
 ### Utility / Diagnostics
 
-*   [axieax/urlview.nvim (⭐106)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
+*   [axieax/urlview.nvim (⭐121)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Über SQL
 
 *   [csvq (⭐1.2k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
-*   [dsq (⭐3k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+*   [dsq (⭐3.1k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 *   [OctoSQL (⭐4.2k)](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 *   [TextQL (⭐8.9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
-*   [trdsql (⭐1.3k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
+*   [trdsql (⭐1.4k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 
 ### Papers / Compare
 
-*   [The "Database as Code" Manifesto (⭐34)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+*   [The "Database as Code" Manifesto (⭐37)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [awesome-image (⭐55)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
+*   [awesome-image (⭐57)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
 
 ### Components & Libraries / Frameworks
 
@@ -113,29 +113,19 @@
 ### Libraries / Command-line
 
 *   Pipeline
-    *   [hniksic/rust-subprocess (⭐370)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines [![build badge](https://api.travis-ci.org/hniksic/rust-subprocess.svg?branch=master)](https://travis-ci.org/hniksic/rust-subprocess)
+    *   [hniksic/rust-subprocess (⭐375)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines [![build badge](https://api.travis-ci.org/hniksic/rust-subprocess.svg?branch=master)](https://travis-ci.org/hniksic/rust-subprocess)
     *   [imp/pager-rs](https://gitlab.com/imp/pager-rs) \[[pager](https://crates.io/crates/pager)] — pipe your output through an external pager
-    *   [oconnor663/duct.rs (⭐628)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection [![build badge](https://api.travis-ci.org/oconnor663/duct.rs.svg?branch=master)](https://travis-ci.org/oconnor663/duct.rs)
-    *   [rust-cli/rexpect (⭐173)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
-    *   [zhiburt/expectrl (⭐131)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
+    *   [oconnor663/duct.rs (⭐637)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection [![build badge](https://api.travis-ci.org/oconnor663/duct.rs.svg?branch=master)](https://travis-ci.org/oconnor663/duct.rs)
+    *   [rust-cli/rexpect (⭐177)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
+    *   [zhiburt/expectrl (⭐132)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 
 ## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Web History and Website Capture / Telegram
 
-*   [waybackpy (⭐227)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+*   [waybackpy (⭐262)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
-## [13. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-### QubesOS Websites
-
-*   [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
-
-### Networking Server
-
-*   [qubes-network-server (⭐76)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
-
-## [14. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [13. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Arcade
 

@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -92,11 +92,11 @@
 
 ### UI / Bottom bars
 
-*   [Bottom Navy Bar (⭐856)](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+*   [Bottom Navy Bar (⭐868)](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
 
 ### UI / Sliders
 
-*   [RangeSlider (⭐352)](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
+*   [RangeSlider (⭐358)](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 
 ## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

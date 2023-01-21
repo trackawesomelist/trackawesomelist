@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/): explained by Jay Alammar (Visualizing machine learning one concept at a time)
 
@@ -70,7 +70,7 @@
 
 ### Database Drivers
 
-*   [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor (⭐2k)](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
+*   [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor (⭐2.1k)](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
 
 ## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -86,27 +86,27 @@
 
 ## [10. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [GitHub Recommender (⭐27)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Recommender (⭐29)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 218 | Stars: 27 | Last update: 10 Aug 2022
+Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### IDEs / Visual Studio
 
-*   [Algorand Visual Studio Extension (⭐8)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
+*   [Algorand Visual Studio Extension (⭐10)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### PHP / Laravel
+### Graphics Programming
 
-*   [Learning Laravel](https://riptutorial.com/Download/laravel.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [JPEG - Idea and Practice](https://en.wikibooks.org/wiki/JPEG_-_Idea_and_Practice)
 
-### Python / Constraint Logic Programming (extended Prolog)
+### Security & Privacy
 
-*   [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
+*   [Programming Differential Privacy](https://programming-dp.com) - Joseph Near, Chiké Abuah (HTML, PDF)
 
 ---
 

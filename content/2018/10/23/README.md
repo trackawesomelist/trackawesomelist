@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Measurements
 
-*   [Measured (⭐264)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Measured (⭐268)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
 *   [Ruby Units (⭐442)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
@@ -61,7 +61,7 @@
 
 ### Software / Frameworks
 
-*   [Astarte (⭐192)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
+*   [Astarte (⭐196)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 *   [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
 
 ### Software / Middlewares
@@ -80,11 +80,11 @@
 
 ### UI / Barcode
 
-*   [DockProgress (⭐955)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [DockProgress (⭐958)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐468)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐472)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
@@ -220,11 +220,11 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code (⭐997)](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`
+*   [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code (⭐1k)](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐3.9k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP`
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP`
 
 ---
 

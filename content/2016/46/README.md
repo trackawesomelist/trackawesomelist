@@ -2,7 +2,7 @@
 
 48 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -142,7 +142,7 @@
 ### For Electron / Other
 
 *   [electron-is-accelerator (⭐15)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
-*   [electron-pdf-window (⭐265)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐266)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -298,7 +298,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐367)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐368)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [22. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -334,12 +334,12 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐8.4k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐8.6k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Compilers, Transpilers and Languages
 
-*   [P (⭐2.6k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐702)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [P (⭐2.7k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+*   [Roslyn-linq-rewrite (⭐703)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ### Visual Studio Plugins
 
@@ -391,7 +391,7 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐86k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [three.js (⭐88k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 *   [regl (⭐4.8k)](https://github.com/regl-project/regl) - Functional WebGL.
 *   [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
@@ -412,10 +412,10 @@
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐304)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
+*   [WebGL Lessons — Fragment Shaders (⭐305)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
-*   [GLSL lighting walkthrough (⭐437)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+*   [GLSL lighting walkthrough (⭐442)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 
 ### Interactive / Other
 

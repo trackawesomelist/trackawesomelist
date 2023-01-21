@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot FPS Template (⭐37)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot FPS Template (⭐40)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Layout / Barcode
 
-*   [Scaling Header Scroll View (⭐380)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
+*   [Scaling Header Scroll View (⭐404)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Utilities / Clipboard Tools
 
-*   [Flycut (⭐2.1k)](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TermiT/Flycut) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Flycut (⭐2.2k)](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TermiT/Flycut) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Media
 
-*   [Icons (⭐478)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
+*   [Icons (⭐497)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
 ## [7. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 

@@ -2,7 +2,7 @@
 
 :sunglasses: A curated list of awesome functional programming stuff in js
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stoeffel/awesome-fp-js/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) · ⭐ 5.7K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stoeffel/awesome-fp-js/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) · ⭐ 5.7K · 🏷️ Programming Languages
 
 [ [Daily](/content/stoeffel/awesome-fp-js/README.md) / Weekly / [Overview](/content/stoeffel/awesome-fp-js/readme/README.md) ]
 

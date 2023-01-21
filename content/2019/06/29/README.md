@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,11 +28,11 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐6.2k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐6.3k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐411)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐421)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
@@ -64,7 +64,7 @@
 
 ### Cryptography
 
-*   [sodium.cr (⭐43)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
+*   [sodium.cr (⭐44)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

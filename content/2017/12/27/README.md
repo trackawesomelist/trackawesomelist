@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,7 +50,7 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite (⭐179)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐181)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Networking
 
-*   [evpp (⭐3.1k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
+*   [evpp (⭐3.2k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

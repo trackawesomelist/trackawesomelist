@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -61,10 +61,10 @@
 ### Samples
 
 *   Google
-    *   [Android port of LunarG samples (⭐439)](https://github.com/googlesamples/vulkan-basic-samples).
-    *   [android tutorials (⭐722)](https://github.com/googlesamples/android-vulkan-tutorials).
+    *   [Android port of LunarG samples (⭐441)](https://github.com/googlesamples/vulkan-basic-samples).
+    *   [android tutorials (⭐729)](https://github.com/googlesamples/android-vulkan-tutorials).
 *   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐147)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
-    *   [gl\_vk\_chopper (⭐199)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
+    *   [gl\_vk\_chopper (⭐201)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
     *   [gl\_vk\_threaded\_cadscene (⭐147)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
     *   [gl\_vk\_bk3dthreaded (⭐80)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
     *   [gl\_vk\_supersampled (⭐57)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.

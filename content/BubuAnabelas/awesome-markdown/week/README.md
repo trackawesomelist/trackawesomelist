@@ -2,7 +2,7 @@
 
 :memo: Delightful Markdown stuff.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/BubuAnabelas/awesome-markdown/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) · ⭐ 614 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/BubuAnabelas/awesome-markdown/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) · ⭐ 614 · 🏷️ Miscellaneous
 
 [ [Daily](/content/BubuAnabelas/awesome-markdown/README.md) / Weekly / [Overview](/content/BubuAnabelas/awesome-markdown/readme/README.md) ]
 

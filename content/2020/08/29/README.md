@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [Pexies (⭐7)](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
+*   [Pexies (⭐8)](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
 
 ### Components & Libraries / UI Utilities
 
@@ -70,7 +70,7 @@
 
 ### Miscellaneous
 
-*   [Inertia plugin (⭐29)](https://github.com/ishanvyas22/cakephp-inertiajs) - Server side adapter for Inertia.js.
+*   [Inertia plugin (⭐28)](https://github.com/ishanvyas22/cakephp-inertiajs) - Server side adapter for Inertia.js.
 
 ## [5. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 

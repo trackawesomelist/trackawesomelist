@@ -2,7 +2,7 @@
 
 A collection of awesome things regarding Prisma ecosystem.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/catalinmiron/awesome-prisma/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma) · ⭐ 488 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/catalinmiron/awesome-prisma/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma) · ⭐ 488 · 🏷️ Miscellaneous
 
 [ [Daily](/content/catalinmiron/awesome-prisma/README.md) / [Weekly](/content/catalinmiron/awesome-prisma/week/README.md) / Overview ]
 

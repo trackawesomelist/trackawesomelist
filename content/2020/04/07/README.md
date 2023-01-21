@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Shells
 
-*   [nushell (⭐21k)](https://github.com/nushell/nushell) - A modern shell written in Rust
+*   [nushell (⭐22k)](https://github.com/nushell/nushell) - A modern shell written in Rust
 
 ### Command-Line Productivity
 
@@ -18,9 +18,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bash-language-server (⭐1.4k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+*   [bash-language-server (⭐1.5k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 *   [critic.sh (⭐449)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-*   [esh (⭐161)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
+*   [esh (⭐166)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
 
 ## [2. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐17)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐19)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 

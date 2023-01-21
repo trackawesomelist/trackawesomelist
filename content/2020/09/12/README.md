@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,11 +47,11 @@
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐219)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐218)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ### Software / Task Management & To-do Lists
 
-*   [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source Code (⭐92)](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`
+*   [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source Code (⭐94)](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -65,9 +65,9 @@
 
 *   [DevSound (⭐48)](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
 *   [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
-*   [GBT PLAYER (⭐243)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
-*   [mmlgb (⭐34)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
-*   [XPMCK (⭐24)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
+*   [GBT PLAYER (⭐244)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
+*   [mmlgb (⭐35)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
+*   [XPMCK (⭐25)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
 
 ## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

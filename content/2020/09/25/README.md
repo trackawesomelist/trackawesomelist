@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -97,12 +97,12 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Web Scraping / Others
 
-*   [Pattern (⭐8.3k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
+*   [Pattern (⭐8.4k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
 
 ### Deployment / NLP
 
-*   [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 *   [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python
+*   [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 
 ### Reinforcement Learning / NLP
 
@@ -119,7 +119,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Packages / "System" bindings
 
 *   [ROS2-Integration-Service (⭐12)](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
-*   [soss (⭐54)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
+*   [soss (⭐55)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -151,7 +151,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Showcases / XML
 
-*   [GitHub Profile Trophy (⭐3.1k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+*   [GitHub Profile Trophy (⭐3.2k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 
 ## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -178,7 +178,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Books
 
-*   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.5k)](https://github.com/antonbabenko/terraform-best-practices)
+*   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.6k)](https://github.com/antonbabenko/terraform-best-practices)
 *   [The Terraform Book](https://terraformbook.com/)
 
 ### Community Modules / Miscellaneous
@@ -188,7 +188,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Tools / Vendor supported providers
 
 *   [flora (⭐19)](https://github.com/ketchoop/flora) - Terraform version manager.
-*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐449)](https://github.com/antonbabenko/serverless.tf).
+*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐477)](https://github.com/antonbabenko/serverless.tf).
 *   [terraspace](https://terraspace.cloud) - The Terraform Framework
 
 ---

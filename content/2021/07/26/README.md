@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,11 +26,11 @@
 
 ### Action
 
-*   [Rigel Engine (⭐730)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
+*   [Rigel Engine (⭐752)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 
 ### Online
 
-*   [Space Station 14 (⭐948)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
+*   [Space Station 14 (⭐1.1k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -125,15 +125,15 @@
 
 ### C / Syntax highlighting packages
 
-*   [Super Princess' 2092 Exodus (⭐24)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐540)](https://github.com/Zal0/ZGB/)).
-*   [Tobu Tobu Girl Deluxe (⭐54)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
+*   [Super Princess' 2092 Exodus (⭐24)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐550)](https://github.com/Zal0/ZGB/)).
+*   [Tobu Tobu Girl Deluxe (⭐53)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
 *   [Black Castle](https://gbdev.gg8.se/forums/viewtopic.php?id=743) - Side scrolling platformer for the Game Boy ([itch.io](https://user0x7f.itch.io/black-castle)).
 *   [Genesis](https://gbdev.gg8.se/forums/viewtopic.php?id=674) - Shmup for the Game Boy ([itch.io](https://user0x7f.itch.io/genesis)).
 *   [Indestructo Tank!](https://antonylavelle.itch.io/indestructotank-gb)
 *   [Super JetPak DX](https://pocketpixel.design/super-jetpak-dx-game-boy-rom.html)
-*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐540)](https://github.com/Zal0/ZGB/)).
-*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐540)](https://github.com/Zal0/ZGB/)).
-*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐540)](https://github.com/Zal0/ZGB/)).
+*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐550)](https://github.com/Zal0/ZGB/)).
+*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐550)](https://github.com/Zal0/ZGB/)).
+*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐550)](https://github.com/Zal0/ZGB/)).
 *   [The Bouncing Ball](https://gamejolt.com/games/the-bouncing-ball-gb/86699)
 *   [DMG Deals Damage](https://drludos.itch.io/dmg-deals-damage)
 
@@ -179,24 +179,24 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [DFTimewolf (⭐215)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
-*   [Shuffle (⭐817)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
+*   [DFTimewolf (⭐225)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
+*   [Shuffle (⭐861)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 
 ### IR Tools Collection / Other Tools
 
-*   [Raccine (⭐846)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
-*   [sysmon-config (⭐3.8k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
-*   [sysmon-modular (⭐2k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+*   [Raccine (⭐850)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
+*   [sysmon-config (⭐3.9k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
+*   [sysmon-modular (⭐2.1k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 
 ## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Gateway
 
-*   [Tyk API Gateway (⭐7.9k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
+*   [Tyk API Gateway (⭐8k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
 
 ### Projects / BRE
 
-*   [Easy Rules (⭐4.1k)](https://github.com/j-easy/easy-rules) - A simple Java rules engine.
+*   [Easy Rules (⭐4.3k)](https://github.com/j-easy/easy-rules) - A simple Java rules engine.
 
 ### Projects / BPM
 
@@ -227,7 +227,7 @@
 *   [IBM DataStage](https://www.ibm.com/products/datastage) - A data integration platform that helps businesses understand, cleanse, transform, and deliver trusted information.
 *   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - Delivers enterprise data integration and management software powering analytics for big data and cloud.
 *   [Oracle Data Integrator](https://www.oracle.com/middleware/technologies/data-integrator.html) - A comprehensive data integration platform that covers all data integration requirements, including batch loads, integration processes, and SOA-enabled data services.
-*   [Pentaho Data Integration (⭐6.2k)](https://github.com/pentaho/pentaho-kettle) - Enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools to eliminate coding and complexity.
+*   [Pentaho Data Integration (⭐6.3k)](https://github.com/pentaho/pentaho-kettle) - Enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools to eliminate coding and complexity.
 *   [SAS Data Management](https://www.sas.com/en_us/software/data-management.html) - Helps transform, integrate, govern, and secure data while improving its overall quality and reliability.
 *   [Stitch](https://www.stitchdata.com/) - A simple, powerful ETL service for businesses of all sizes, up to and including the enterprise. Running on a scalable, fault-tolerant cloud platform, Stitch integrates data from dozens of different sources.
 *   [Talend Data Integration](https://www.talend.com/products/integrate-data/) - Bring data together from multiple sources to power all your business decisions.
@@ -268,13 +268,13 @@
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐28k)](https://github.com/apache/airflow) - A platform to programmatically author, schedule, and monitor workflows.
+*   [Apache Airflow (⭐29k)](https://github.com/apache/airflow) - A platform to programmatically author, schedule, and monitor workflows.
 *   [Argo Workflows (⭐12k)](https://github.com/argoproj/argo-workflows) -  An open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 *   [Azkaban (⭐4.2k)](https://github.com/azkaban/azkaban) - A distributed Workflow Manager, implemented at LinkedIn to solve the problem of Hadoop job dependencies.
-*   [Bonita (⭐126)](https://github.com/bonitasoft/bonita-engine) - BPMN engine that comes with an optional development environment, a designer, an optional user interface and administrative tools.
-*   [Elsa Core (⭐3.9k)](https://github.com/elsa-workflows/elsa-core) -  A workflows library that enables workflow execution in any .NET Core application.
-*   [Flowable (⭐5.8k)](https://github.com/flowable/flowable-engine) - Provides a core set of open source business process engines that are compact and highly efficient.
-*   [StackStorm (⭐5k)](https://github.com/StackStorm/st2) - Robust Automation Engine providing Sensors, Triggers, Rules, Workflows, and Actions. StackStorm is how you “glue” your applications together.
+*   [Bonita (⭐128)](https://github.com/bonitasoft/bonita-engine) - BPMN engine that comes with an optional development environment, a designer, an optional user interface and administrative tools.
+*   [Elsa Core (⭐4.1k)](https://github.com/elsa-workflows/elsa-core) -  A workflows library that enables workflow execution in any .NET Core application.
+*   [Flowable (⭐6k)](https://github.com/flowable/flowable-engine) - Provides a core set of open source business process engines that are compact and highly efficient.
+*   [StackStorm (⭐5.3k)](https://github.com/StackStorm/st2) - Robust Automation Engine providing Sensors, Triggers, Rules, Workflows, and Actions. StackStorm is how you “glue” your applications together.
 
 ### Resources / Articles
 

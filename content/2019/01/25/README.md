@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,8 +44,8 @@
 
 ### Apps
 
-*   [vkQuake2 (⭐739)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
-*   [q2vkpt (⭐942)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
+*   [vkQuake2 (⭐745)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
+*   [q2vkpt (⭐945)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -75,11 +75,11 @@
 
 ### Contents / Games
 
-*   [Solitaire (⭐225)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
+*   [Solitaire (⭐227)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
 
 ### Contents / Productivity
 
-*   [Habbit (⭐134)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐134)](https://github.com/lzyy/habbit).
+*   [Habbit (⭐135)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐135)](https://github.com/lzyy/habbit).
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 

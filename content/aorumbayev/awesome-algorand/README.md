@@ -2,7 +2,7 @@
 
 ⚡A curated list of awesome resources related to the Algorand Blockchain ⛓
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aorumbayev/awesome-algorand/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand) · ⭐ 106 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aorumbayev/awesome-algorand/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand) · ⭐ 106 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
@@ -335,7 +335,7 @@
 
 ### Wallets
 
-*   [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for mobile devices. Maintained by the team behind official Algorand Wallet.
+*   [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet.
 *   [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
 
 ## [Feb 25, 2022](/content/2022/02/25/README.md)
@@ -550,7 +550,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
+*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
 
 ### Other Development Tools / Docker
 
@@ -627,7 +627,7 @@
 ### NFT Marketplaces / Wallets
 
 *   [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2\_gallery](https://twitter.com/AB2_Gallery).
-*   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and markeplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
+*   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
 *   [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 *   [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
 

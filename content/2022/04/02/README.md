@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,59 +19,27 @@
 
 ### Tools
 
-*   [php-ansible Library (⭐184)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
-*   [TD4A (⭐187)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
-*   [Ansible Playbook Grapher (⭐424)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+*   [php-ansible Library (⭐185)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
+*   [TD4A (⭐188)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
+*   [Ansible Playbook Grapher (⭐426)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Android
+### 0 - Meta-Lists
 
-*   [Android Tutorial](http://www.tutorialspoint.com/android/) - Tutorials Point (HTML, PDF)
+*   [Tutorials Point](http://www.tutorialspoint.com)
 
-### C / Non-X86
+### Algorithms & Data Structures
 
-*   [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/) - Tutorials Point (HTML, PDF)
+*   [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point (HTML, PDF)
 
-### Flutter / Phoenix
+### Containers
 
-*   [Flutter Tutorial](https://www.tutorialspoint.com/flutter/) - Tutorials Point (HTML, PDF)
+*   [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
 
-### Go / Phoenix
+### Machine Learning
 
-*   [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
-
-### Lua / PicoLisp
-
-*   [Lua Tutorial](http://www.tutorialspoint.com/lua/) - Tutorials Point (HTML, PDF)
-
-### MongoDB / PicoLisp
-
-*   [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb/) - Tutorials Point (HTML, PDF)
-
-### PostgreSQL / Zend
-
-*   [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/) - Tutorials Point (HTML, PDF)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
-
-### Python / Flask
-
-*   [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
-
-### Scala / Sinatra
-
-*   [Scala Tutorial](https://www.tutorialspoint.com/scala/) - Tutorials Point (HTML, PDF)
-
-### Solidity / Play Scala
-
-*   [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/) - Tutorials Point (HTML)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) (HTML, PDF)
+*   [Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python/) - Tutorials Point (HTML, [PDF](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf))
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -81,7 +49,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [brisa (⭐1)](https://github.com/brisa-dev/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
+*   [brisa (⭐1)](https://github.com/brisa-dev/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
 *   [clipper (⭐0)](https://github.com/Robert-96/clipper) - Minimalist ZSH theme with `git` support. It includes decorations for pwd, last command exit status code and `git` status & branch.
 
 ## [5. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
@@ -100,11 +68,11 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-tuple (⭐41)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
+*   [go-tuple (⭐45)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
 
 ### SQL Query Builders
 
-*   [sqlc (⭐6.9k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
+*   [sqlc (⭐7.2k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
 
 ### Geographic
 
@@ -116,7 +84,7 @@
 
 ### Dependency Injection
 
-*   [nject (⭐22)](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
+*   [nject (⭐25)](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
 
 ### Utilities
 
@@ -125,7 +93,7 @@
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [nchi (⭐9)](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
+*   [nchi (⭐11)](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

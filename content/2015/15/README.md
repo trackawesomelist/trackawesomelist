@@ -2,7 +2,7 @@
 
 19 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -116,11 +116,11 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Email
 
-*   [Sup (⭐859)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐860)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### Error Handling
 
-*   [Exception Handler (⭐501)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐502)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### HTML/XML Parsing
 
@@ -132,7 +132,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### RSS
 
-*   [Stringer (⭐3.5k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+*   [Stringer (⭐3.6k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
 
 ### Static Site Generation
 
@@ -173,7 +173,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Image Processing
 
-*   [Video++ (⭐690)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐692)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Inter-process communication
 
@@ -185,11 +185,11 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Math
 
-*   [QuantLib (⭐3.5k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐3.6k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ### Integrated Development Environment
 
-*   [color\_coded (⭐863)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
+*   [color\_coded (⭐862)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
 ## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 

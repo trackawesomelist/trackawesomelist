@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Projects / User Interfaces
 
-*   [VsCoq (⭐206)](https://github.com/coq-community/vscoq) - Extension for the Visual Studio Code and VSCodium editors.
+*   [VsCoq (⭐209)](https://github.com/coq-community/vscoq) - Extension for the Visual Studio Code and VSCodium editors.
 
 ### Projects / Tools
 
@@ -68,8 +68,8 @@
 
 ### Compilers and interpreters
 
-*   [dantecatalfamo/mruby-zig (⭐19)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
-*   [dantecatalfamo/wren-zig (⭐20)](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
+*   [dantecatalfamo/mruby-zig (⭐21)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
+*   [dantecatalfamo/wren-zig (⭐23)](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 
 ## [6. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Contents / Tools
 
-*   [Voting Dapp (⭐10)](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
+*   [Voting Dapp (⭐11)](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -129,7 +129,7 @@
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Tools / Smart Contracts
+### Other Development Tools / Smart Contracts
 
 *   [ASC Builder](https://ascbuilderapp.com) - A GUI (drag and drop) tool for developing & deploying Algorand smart contracts developed by [Algoknox](https://twitter.com/Algoknox).
 
@@ -143,31 +143,30 @@
 
 ### Color / Diagnostics
 
-*   [lcheylus/overlength.nvim (⭐29)](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
+*   [lcheylus/overlength.nvim (⭐33)](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Other Tools / Telegram
 
-*   [CrowdSec (⭐5.7k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐5.9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Archivematica](https://www.archivematica.org/en/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](https://sandbox.archivematica.org/administration/accounts/login/), [Source Code (⭐337)](https://github.com/artefactual/archivematica)) `AGPL-3.0-only` `Python`
-*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/demo), [Source Code (⭐272)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
+*   [Archivematica](https://www.archivematica.org/en/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](https://sandbox.archivematica.org/administration/accounts/login/), [Source Code (⭐341)](https://github.com/artefactual/archivematica)) `AGPL-3.0-only` `Python`
+*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/demo), [Source Code (⭐275)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
 
 ### Software / Automation
 
-*   [Accelerated Text](https://www.acceleratedtext.com/) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐637)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
 *   [feed2toot](https://feed2toot.readthedocs.io/en/latest/) - Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon. ([Source Code](https://gitlab.com/chaica/feed2toot)) `GPL-3.0` `Python`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Hackershare (⭐402)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. ([Demo](https://hackershare.dev/en)) `MIT` `Ruby`
-*   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐1.7k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `PHP`
-*   [linkding (⭐2.6k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. ([Demo](https://demo.linkding.link/bookmarks)) `MIT` `Docker/Python/Nodejs`
+*   [Hackershare (⭐427)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. ([Demo](https://hackershare.dev/en)) `MIT` `Ruby`
+*   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐1.8k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `PHP`
+*   [linkding (⭐2.8k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. ([Demo](https://demo.linkding.link/bookmarks)) `MIT` `Docker/Python/Nodejs`
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Servers
 
@@ -175,11 +174,11 @@
 
 ### Software / Remote Access
 
-*   [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code (⭐3.3k)](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir`
+*   [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code (⭐3.6k)](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir`
 *   [Guacamole](https://guacamole.apache.org) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `Apache-2.0` `Java/C`
 *   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code (⭐1k)](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`
 *   [Sshwifty (⭐1.3k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`
-*   [Warpgate (⭐1.8k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
+*   [Warpgate (⭐1.9k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
 
 ### List of Licenses / Wikis
 
@@ -199,7 +198,7 @@
 
 ### Get Started
 
-*   [create-vite-app (⭐87)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
+*   [create-vite-app (⭐97)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 
 ---
 

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,7 +45,7 @@
 
 ### For Electron / Other
 
-*   [electron-store (⭐3.8k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
+*   [electron-store (⭐3.9k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

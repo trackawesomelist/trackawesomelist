@@ -2,7 +2,7 @@
 
 :star: Useful resources for the Ledger command-line accounting system
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sfischer13/awesome-ledger/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sfischer13/awesome-ledger](https://github.com/sfischer13/awesome-ledger) · ⭐ 126 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sfischer13/awesome-ledger/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sfischer13/awesome-ledger](https://github.com/sfischer13/awesome-ledger) · ⭐ 126 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/sfischer13/awesome-ledger/week/README.md) / [Overview](/content/sfischer13/awesome-ledger/readme/README.md) ]
 

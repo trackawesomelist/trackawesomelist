@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐355)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐371)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [4. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

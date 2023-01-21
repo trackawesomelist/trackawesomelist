@@ -2,7 +2,7 @@
 
 43 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,7 +39,7 @@
 
 ### JSON
 
-*   [cJSON (⭐8.2k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐8.3k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐16k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
@@ -570,7 +570,7 @@
 
 ### HTTP
 
-*   [Crawly (⭐643)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [Crawly (⭐647)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐20)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -611,7 +611,7 @@
 
 ### Program analysis
 
-*   [cwe\_checker (⭐741)](https://github.com/fkie-cad/cwe_checker) - cwe\_checker finds vulnerable patterns in binary executables.
+*   [cwe\_checker (⭐759)](https://github.com/fkie-cad/cwe_checker) - cwe\_checker finds vulnerable patterns in binary executables.
 
 ## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -625,7 +625,7 @@
 
 ### React Hooks / Themes
 
-*   [Sunflower(🌻) (⭐480)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
+*   [Sunflower(🌻) (⭐484)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
 
 ## [23. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -675,29 +675,25 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Rapidbay (⭐406)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+*   [Rapidbay (⭐427)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
 ## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [the-elements-of-statistical-learning (⭐366)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
+*   [the-elements-of-statistical-learning (⭐369)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
 ## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [thetool (⭐200)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
+*   [thetool (⭐206)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 
 ## [32. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
-*   [Open Watcom](http://openwatcom.org/) - Formerly commercial C/C++ development environment for 16- and 32-bit DOS and
-    Windows. The current official version is 1.9. A GitHub fork is also available. Used for Doom I-II, Warcraft I-II, Duke Nukem 3D, Full Throttle, Dark Forces and Retro City Rampage.
-    *   The [documentation](http://openwatcom.org/doc.php) is very valuable in order to understand working with both version 1.9 and the V2 fork.
-    *   [Arch Wiki page](https://wiki.archlinux.org/index.php/Open_Watcom)
-*   [Open Watcom V2 (⭐690)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
+*   [Open Watcom V2 (⭐719)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
 ## [33. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
@@ -718,11 +714,11 @@
 
 ### Top / Game Engine resources
 
-*   [Enigma (⭐388)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
+*   [Enigma (⭐389)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 
 ### Guide & Interviews / Game Engine resources
 
-*   [Interview Questions (⭐320)](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders (⭐41)](https://github.com/whatsupcoders/Whatsupcoders-flutter)
+*   [Interview Questions (⭐325)](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders (⭐41)](https://github.com/whatsupcoders/Whatsupcoders-flutter)
 
 ### 🇯🇵 Japan / Misc
 
@@ -756,11 +752,11 @@
 
 ### UITableView / Barcode
 
-*   [DiffableDataSources (⭐761)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
+*   [DiffableDataSources (⭐763)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐869)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐889)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
 ## [36. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 

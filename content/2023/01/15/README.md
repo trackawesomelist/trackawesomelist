@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 15, 2023
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Applications / Command-line
+### Command-line
 
 *   [vcli (⭐0)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 
@@ -61,7 +61,7 @@
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history and maps
+### The Generative AI Area: history, maps, and definitions
 
 *   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 
@@ -74,7 +74,7 @@
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) tools / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
@@ -92,12 +92,7 @@
 
 *   [GNNs for Solving Combinatorial Optimization Problems (⭐1)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [Algorithms Design (in C)](https://www.ime.usp.br/\~pf/algorithms/) - Paulo Feofiloff (HTML)
-
 ---
 
+- Prev: [Jan 16, 2023](/content/2023/01/16/README.md)
 - Next: [Jan 14, 2023](/content/2023/01/14/README.md)

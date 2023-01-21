@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐201)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐206)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Apps / Third-party APIs
 
-*   [cl-mock (⭐15)](https://github.com/Ferada/cl-mock) - Another mocking library. It has more features than Mockingbird, like pattern matching on the mocked call, etc.
+*   [cl-mock (⭐16)](https://github.com/Ferada/cl-mock) - Another mocking library. It has more features than Mockingbird, like pattern matching on the mocked call, etc.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Multimedia
 
-*   [Clapper (⭐471)](https://github.com/Rafostar/clapper) - Simple and modern media player.
+*   [Clapper (⭐515)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dataset (⭐171)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+*   [vue-dataset (⭐177)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
 
 ---
 

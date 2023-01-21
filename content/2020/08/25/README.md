@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Automation / Conversion
 
-*   [swaggerjmx (⭐89)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
+*   [swaggerjmx (⭐92)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -64,8 +64,8 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor I18n/Localization Text (⭐175)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
-*   [MvvmBlazor (⭐191)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
+*   [Blazor I18n/Localization Text (⭐182)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
+*   [MvvmBlazor (⭐204)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
 
 ## [10. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Contents / Finance
 
-*   [Bank Git (⭐25)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
+*   [Bank Git (⭐26)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
 
 ## [13. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
@@ -144,7 +144,7 @@
 
 ### UI / Barcode
 
-*   [BetterSafariView (⭐385)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+*   [BetterSafariView (⭐397)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 
 ## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

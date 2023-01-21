@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Command-Line Productivity
 
-*   [fz (⭐432)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
+*   [fz (⭐441)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 
 ## [2. Tools](/content/lvwzhen/tools/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Applications / Themes
 
-*   [Productivity Application (⭐243)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
+*   [Productivity Application (⭐244)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ---
 

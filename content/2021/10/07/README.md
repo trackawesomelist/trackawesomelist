@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -148,7 +148,7 @@ Free (Open Source)
 
 ### Bonus / Game Engine resources
 
-*   [Awesome Flutter Linux (⭐101)](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects by [J-P Nurmi](https://twitter.com/jpnurmi)
+*   [Awesome Flutter Linux (⭐110)](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects by [J-P Nurmi](https://twitter.com/jpnurmi)
 
 ## [7. Awesome](/content/craftcms/awesome/README.md)
 
@@ -170,7 +170,7 @@ Free (Open Source)
 
 ### Tools & Software / Acquisition
 
-*   [Wayback (⭐338)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
+*   [Wayback (⭐423)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
 
 ## [10. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -186,35 +186,27 @@ Free (Open Source)
 
 ### Extensions
 
-*   [Editor.js Interface (⭐123)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
+*   [Editor.js Interface (⭐138)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 
 ## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [optionals (⭐107)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
+*   [optionals (⭐113)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Assembly Language / Blazor
+### 0 - Meta-Lists
 
-*   [WebAssembly friendly programming with C/C++ (⭐1.2k)](https://github.com/3dgen/cppwasm-book/tree/master/en) - Ending, Chai Shushan, Yushih (HTML, [:package: examples (⭐1.2k)](https://github.com/3dgen/cppwasm-book/tree/master/examples))
+*   [Rip Tutorials](https://riptutorial.com/ebook)
 
-### Java / Bootstrap
+### Mathematics
 
-*   [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
 
-### JavaScript / Next.js
+### Professional Development
 
-*   [Mastering Next.js](https://masteringnextjs.com)
-
-### JavaScript / Node.js
-
-*   [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
-
-### NoSQL / PicoLisp
-
-*   [How To Manage a Redis Database](https://www.digitalocean.com/community/books/how-to-manage-a-redis-database-ebook) - Mark Drake (PDF, EPUB)
+*   [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 
 ## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -423,7 +415,7 @@ Free (Open Source)
 
 ### Miscellaneous / Development and testing
 
-*   [sixel-tmux (⭐291)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
+*   [sixel-tmux (⭐302)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
 
 ---
 

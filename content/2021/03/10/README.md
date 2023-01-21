@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Demo
 
-*   [Sitecore DXP Demo (⭐23)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [Sitecore DXP Demo (⭐24)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 
 ## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -22,11 +22,11 @@
 
 ### UI
 
-*   [Timeline Tile (⭐529)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Timeline Tile (⭐544)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ### Templates / Preferences
 
-*   [Beautiful Timelines (⭐223)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Beautiful Timelines (⭐233)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ## [4. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
@@ -119,13 +119,13 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Source Code (⭐2.2k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Source Code (⭐2.3k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐333)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐352)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
 ## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -137,13 +137,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐3.8k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐4k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Testing
 
-*   [Quality Assurance Roadmap (⭐1.2k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
+*   [Quality Assurance Roadmap (⭐1.3k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

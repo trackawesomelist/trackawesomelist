@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 24, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,35 +10,29 @@
 
 ### Applications / Security tools
 
-*   [Inspektor (⭐255)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
+*   [Inspektor (⭐259)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
 
 ### Applications / Text processing
 
-*   [ruplacer (⭐329)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
+*   [ruplacer (⭐331)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
 
 ### Development tools / Deployment
 
 *   Github Pages
-    *   [wasm-template-rust (⭐101)](https://github.com/sn99/wasm-template-rust) — A wasm template for Rust to publish to gh-pages without npm-deploy
+    *   [wasm-template-rust (⭐103)](https://github.com/sn99/wasm-template-rust) — A wasm template for Rust to publish to gh-pages without npm-deploy
 
-## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Completion / Diagnostics
-
-*   [GitHub/copilot.vim (⭐3.9k)](https://github.com/github/copilot.vim) - GitHub Copilot.
-
-## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Rendering/Publishing/Conversion
 
-*   [Mercury (⭐2.2k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
+*   [Mercury (⭐2.3k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
 *   [nbconvert](https://nbconvert.readthedocs.io) - Convert notebooks to other formats.
 
 ### JupyterLab Extensions
 
-*   [lineapy (⭐433)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐444)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
@@ -48,20 +42,20 @@
 
 *   [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3) - Free course on Vue 3 with intuitive explanations from Vue Mastery
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [XCSnippetsApp (⭐118)](https://github.com/MarcoEidinger/XCSnippetsApp) - Explore code snippets from the Swift and iOS community, view and edit the snippets before adding them conveniently to Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MarcoEidinger/XCSnippetsApp)
+*   [XCSnippetsApp (⭐122)](https://github.com/MarcoEidinger/XCSnippetsApp) - Explore code snippets from the Swift and iOS community, view and edit the snippets before adding them conveniently to Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MarcoEidinger/XCSnippetsApp)
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [ribbon (⭐0)](https://github.com/pyjamafish/ribbon-prompt) - Reminiscent of powerline. Includes Python `virtualenv` decorator.
 *   [snazzy (⭐0)](https://github.com/Gary-Ash/SnazzyPrompt) - A powerline-style prompt. Includes segments for current working directory, error status of the last command, `git` status information, hostname and username. Requires `libgit2`.
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 

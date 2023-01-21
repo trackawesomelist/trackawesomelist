@@ -2,7 +2,7 @@
 
 Educational resources to learn to program (Foundation in Web Development)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 2.7K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 2.7K · 🏷️ Learn
 
 [ [Daily](/content/karlhorky/learn-to-program/README.md) / Weekly / [Overview](/content/karlhorky/learn-to-program/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,43 +10,43 @@
 
 ### API
 
-*   [TLSharp (⭐993)](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
+*   [TLSharp (⭐994)](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
 
 ### Application Frameworks
 
-*   [HopFramework (⭐50)](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
+*   [HopFramework (⭐51)](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
 
 ### Blockchain
 
-*   [Nethermind (⭐772)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
+*   [Nethermind (⭐809)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
 
 ### Database Drivers
 
-*   [Storage.Net (⭐588)](https://github.com/aloneguid/storage) - Generic storage abstractions and implementations for popular cloud storage providers like Amazon S3, Azure Service Bus, Azure Event Hub, Azure Storage, Azure Data Lake Store and many others.
+*   [Storage.Net (⭐596)](https://github.com/aloneguid/storage) - Generic storage abstractions and implementations for popular cloud storage providers like Amazon S3, Azure Service Bus, Azure Event Hub, Azure Storage, Azure Data Lake Store and many others.
 
 ### GUI
 
-*   [HandyControl (⭐4.3k)](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+*   [HandyControl (⭐4.4k)](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 
 ### HTML and CSS
 
-*   [LtGt (⭐116)](https://github.com/Tyrrrz/LtGt) - lightweight HTML processor, can be used to parse and navigate DOM, handles CSS selectors, can convert to Linq2Xml, easily extensible, and more.
+*   [LtGt (⭐117)](https://github.com/Tyrrrz/LtGt) - lightweight HTML processor, can be used to parse and navigate DOM, handles CSS selectors, can convert to Linq2Xml, easily extensible, and more.
 
 ### Image Processing
 
-*   [Colourful (⭐230)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
+*   [Colourful (⭐235)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
 
 ### Install tools
 
-*   [Onova (⭐364)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
+*   [Onova (⭐369)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
 ### Machine Learning and Data Science
 
-*   [Catalyst (⭐442)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+*   [Catalyst (⭐454)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 
 ### Mathematics
 
-*   [Rationals (⭐59)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
+*   [Rationals (⭐60)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
 
 ### Misc
 
@@ -54,11 +54,11 @@
 
 ### Queue
 
-*   [Gofer.NET (⭐462)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
+*   [Gofer.NET (⭐479)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
 
 ### Tools
 
-*   [Mockaco (⭐252)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
+*   [Mockaco (⭐259)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 *   [AnyStatus](https://www.anystat.us) - A desktop notifications app for monitoring CI/CD pipelines, servers, network, health and metrics. AnyStatus supports Azure DevOps, Jenkins, TeamCity, AppVeyor and more.
 
 ### Source Generator

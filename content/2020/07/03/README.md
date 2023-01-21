@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Validation / Playground
 
-*   [zod (⭐15k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+*   [zod (⭐16k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [runtypes (⭐2.3k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ow (⭐3.7k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
 *   [superstruct (⭐6.3k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
@@ -74,11 +74,11 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Back-End Development
 
-*   [FastAPI (⭐4.8k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+*   [FastAPI (⭐5k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 
 ### Security
 
-*   [DevSecOps (⭐796)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+*   [DevSecOps (⭐853)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -96,7 +96,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐76)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐79)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -108,18 +108,18 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Authentication
 
-*   [Blazor-WASM-AzureAD-gRPC (⭐15)](https://github.com/StefH/BlazorWasmGrpcWithAADAuth) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAADAuth?style=flat-square\&cacheSeconds=86400) Blazor WASM, Azure AD, REST & gRPC.
+*   [Blazor-WASM-AzureAD-gRPC (⭐16)](https://github.com/StefH/BlazorWasmGrpcWithAADAuth) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAADAuth?style=flat-square\&cacheSeconds=86400) Blazor WASM, Azure AD, REST & gRPC.
 
 ### Individual components / API
 
-*   [Head Element Helper (⭐142)](https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=86400) `<Title>` and `<Meta>` components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. ([Demo](https://demo-blazor-headelement.azurewebsites.net/)).
+*   [Head Element Helper (⭐145)](https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=86400) `<Title>` and `<Meta>` components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. ([Demo](https://demo-blazor-headelement.azurewebsites.net/)).
 
 ### Tools & Utilities / Others
 
 *   [Blazor.SpeechSynthesis (⭐62)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
 *   [BlazorState.Redux (⭐28)](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square\&cacheSeconds=86400) Develop Blazor apps with Redux.
-*   [Howler.Blazor (⭐25)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
-*   [jsMind.Blazor (⭐11)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
+*   [Howler.Blazor (⭐26)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
+*   [jsMind.Blazor (⭐12)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -129,7 +129,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Components & Libraries / Utilities
 
-*   [vue-concurrency (⭐264)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
+*   [vue-concurrency (⭐270)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 
 ## [11. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -154,7 +154,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Apps / Outline Processor Markup Language
 
-*   [Livemarks (⭐183)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
+*   [Livemarks (⭐186)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
 *   [CubeRSS Reader](https://www.cube-soft.jp/cuberssreader/) <sup>[700](https://t.me/s/aboutrss/700)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.cube-soft.jp/cuberssreader/confirm.php)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cube-soft/Cube.Net)
 *   [Drop Feeds (⭐19)](https://github.com/dauphine-dev/drop-feeds) <sup>[701](https://t.me/s/aboutrss/701)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dauphine-dev/drop-feeds)
 
@@ -202,7 +202,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Utilities / General Tools
 
-*   [Ultra TabSaver (⭐226)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
+*   [Ultra TabSaver (⭐229)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
 ---
 

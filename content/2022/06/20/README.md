@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐6.7k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
+*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐6.8k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,20 +32,20 @@
 
 ## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Development / JavaScript & TypeScript
+### Languages / JavaScript & TypeScript
 
-*   [perawallet-connect (⭐47)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
+*   [perawallet-connect (⭐52)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   [Raylib](https://www.raylib.com/)
-    *   [deltaphc/raylib-rs (⭐474)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Rust bindings for raylib
+    *   [deltaphc/raylib-rs (⭐484)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Rust bindings for raylib
 
 ### Libraries / Logging
 
-*   [rbatis/fast\_log (⭐104)](https://github.com/rbatis/fast_log) — Rust async log High-performance asynchronous logging [![Build Status](https://api.travis-ci.com/rbatis/fast_log.svg?branch=master)](https://travis-ci.org/rbatis/fast_log)
+*   [rbatis/fast\_log (⭐111)](https://github.com/rbatis/fast_log) — Rust async log High-performance asynchronous logging [![Build Status](https://api.travis-ci.com/rbatis/fast_log.svg?branch=master)](https://travis-ci.org/rbatis/fast_log)
 
 ### Libraries / Virtualization
 
@@ -80,7 +80,7 @@
 
 ### Examples
 
-*   [NASA/ogma (⭐205)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
+*   [NASA/ogma (⭐221)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
 
 ---
 

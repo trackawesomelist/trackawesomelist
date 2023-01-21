@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### CLI Utils
 
-*   [tallboy (⭐48)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
+*   [tallboy (⭐49)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -22,14 +22,14 @@
 
 ### Proprietary Extensions / Progressive Web Application
 
-*   [ScandiPWA Theme (⭐507)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
+*   [ScandiPWA Theme (⭐509)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐193)](https://github.com/eclipse/corrosion)
+    *   [Eclipse Corrosion (⭐194)](https://github.com/eclipse/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

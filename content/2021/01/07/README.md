@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,13 +31,13 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [CAEs for Data Assimilation (⭐20)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
+*   [CAEs for Data Assimilation (⭐23)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💙💼 [Line Clamp (⭐922)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
+*   💙💼 [Line Clamp (⭐963)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 *   🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
 
 ## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
@@ -63,17 +63,17 @@
 
 ### Back-End Development
 
-*   [CDK (⭐1.6k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
+*   [CDK (⭐1.7k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Official Resources
 
-*   [Release Notes (⭐50k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐51k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### Open Source / Community
 
-*   [VitePress (⭐6.3k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
+*   [VitePress (⭐6.5k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
 
 ## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -97,12 +97,12 @@
 
 ### Showcases / XML
 
-*   [Deno Rest (⭐85)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
+*   [Deno Rest (⭐88)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 *   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ### Tools / XML
 
-*   [lume (⭐873)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+*   [lume (⭐1.1k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 
 ---
 

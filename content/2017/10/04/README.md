@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -79,7 +79,7 @@
 
 ### GIS
 
-*   [GeoJSON.NET (⭐391)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
+*   [GeoJSON.NET (⭐393)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
 ## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
@@ -131,10 +131,6 @@
 *   [designers.how Framer Courses](https://designers.how/topics/framer) - List of basic and more advanced Framer courses.
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### API
-
-*   [SwiftInstagram (⭐580)](https://github.com/AnderGoig/SwiftInstagram) - Instagram API wrapper.
 
 ### Date
 

@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### VSCode Extensions / Other / unknown licence
 
-*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐161)](https://github.com/AdaCore/ada_language_server).
+*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐179)](https://github.com/AdaCore/ada_language_server).
 
 ### Sound / Other / unknown licence
 
@@ -70,17 +70,17 @@
 
 ### Networking
 
-*   [Real-Time Communications (⭐208)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+*   [Real-Time Communications (⭐213)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 
 ### Testing
 
-*   [Playwright (⭐310)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐329)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Automation
 
-*   [autopilot (⭐440)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
+*   [autopilot (⭐443)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -101,13 +101,13 @@
 ### Text & Rich Content / Image Picker
 
 *   [Zefyr (⭐2.1k)](https://github.com/memspace/zefyr) <!--stargazers:memspace/zefyr--> - Soft & gentle rich text editor by [Memspace (⭐2.1k)](https://github.com/memspace/zefyr)
-*   [TeX (⭐216)](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
+*   [TeX (⭐220)](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
 
 ## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
-*   [yuniql (⭐335)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐339)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ## [12. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-file-toolbar-menu (⭐115)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
+*   [vue-file-toolbar-menu (⭐117)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 
 ## [14. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

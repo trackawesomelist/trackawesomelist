@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -79,7 +79,7 @@
 
 ### Projects
 
-*   [I Love Hue! (rs) (⭐12)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
+*   [I Love Hue! (rs) (⭐15)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
 
 ## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -98,13 +98,13 @@
 
 ### Other Xcode / Collection View Layout
 
-*   [Xcode Developer Disk Images (⭐245)](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
+*   [Xcode Developer Disk Images (⭐253)](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
 
 ## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
-*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐1.8k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
+*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐1.9k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
 
 ---
 

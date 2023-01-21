@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,11 +28,11 @@
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐162)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐169)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐443)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐471)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
@@ -162,28 +162,31 @@
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
+### Meta Frameworks
+
+*   [AMP (⭐15k)](https://github.com/ampproject/amphtml) - Web component framework to easily create user-first experiences for the web.
+
 ### Component Libraries
 
-*   [AMP (⭐15k)](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
 *   [Brightspace UI core (⭐41)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
-*   [Clever components (⭐149)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+*   [Clever components (⭐154)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 *   [DataFormsJS (⭐156)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
-*   [Elix (⭐696)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+*   [Elix (⭐701)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 *   [Lion Web Components (⭐1.5k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
-*   [LRNWebComponents (⭐215)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
-*   [Microsoft Graph Toolkit (⭐749)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
-*   [Nuxeo Elements (⭐24)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
+*   [LRNWebComponents (⭐214)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
+*   [Microsoft Graph Toolkit (⭐758)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+*   [Nuxeo Elements (⭐23)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
 *   [Tradeshift Elements (⭐13)](https://github.com/Tradeshift/elements) - Reusable Tradeshift UI Components as Web Components.
 *   [Wired Elements (⭐9.2k)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
-*   [Wokwi Elements (⭐113)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+*   [Wokwi Elements (⭐116)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
 ### Design Systems
 
 *   [Calcite Components (⭐188)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 *   [Helix UI (⭐52)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
-*   [NuML | NUDE Elements (⭐311)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
-*   [PatternFly Elements (⭐311)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
-*   [Spectrum Web Components (⭐764)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
+*   [NuML | NUDE Elements (⭐313)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
+*   [PatternFly Elements (⭐313)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
+*   [Spectrum Web Components (⭐771)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
 *   [UI5 Web Components (⭐1.2k)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 *   [Zooplus web components (⭐42)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
 

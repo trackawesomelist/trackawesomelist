@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,7 +11,7 @@
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
-*   [Rerun (⭐922)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+*   [Rerun (⭐925)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Packages / Command-line apps
 
-*   [npm-name (⭐157)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
+*   [npm-name (⭐158)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 
 ### Packages / Date
 
@@ -60,7 +60,7 @@
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐493)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐502)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 

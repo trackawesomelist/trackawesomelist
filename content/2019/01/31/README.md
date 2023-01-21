@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,16 +18,16 @@
 
 ### Command Line Applications
 
-*   [ratatouille (⭐583)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
+*   [ratatouille (⭐585)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
 
 ### Debugging
 
-*   [git\_hooks (⭐132)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
+*   [git\_hooks (⭐134)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 
 ### Examples and funny stuff
 
 *   [changelog.com (⭐2.5k)](https://github.com/thechangelog/changelog.com) - CMS that runs changelog.com built with Phoenix 1.4.
-*   [hexpm (⭐951)](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
+*   [hexpm (⭐956)](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
 *   [tilex (⭐473)](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
 
 ### Validations
@@ -80,7 +80,7 @@
 
 ### Calendar / Barcode
 
-*   [CalendarView (⭐524)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
+*   [CalendarView (⭐531)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
 
 ### UITableView / Barcode
 
@@ -90,7 +90,7 @@
 
 ### API for Food services
 
-*   [tacofancy-api (⭐102)](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy.
+*   [tacofancy-api (⭐101)](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy.
 *   [Spoonacular](https://spoonacular.com/food-api) -
     Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
 *   [Edamam](https://developer.edamam.com/) - API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others.
@@ -110,7 +110,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Overkill (⭐460)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+*   [Overkill (⭐462)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

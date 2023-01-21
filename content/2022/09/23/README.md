@@ -2,21 +2,21 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Artists and Artworks / OpenAI GPT-3
+### People and works / Artists and Artworks
 
 *   [The Steampunk Circus Human Machine Collaboration - Video, Sound and Stories with AI / YouTube](https://www.youtube.com/channel/UCa1xYBYCzBoJ08U9lgbYAFw)
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / Game development
+### Game development
 
-*   [vraylib (⭐1)](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
+*   [vraylib (⭐3)](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
 
 ## [3. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [carriage-return (⭐0)](https://github.com/treyssatvincent/carriage-return.zsh-theme) - omz's [robbyrussell (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) with an added carriage return.
+*   [carriage-return (⭐0)](https://github.com/treyssatvincent/carriage-return.zsh-theme) - omz's [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) with an added carriage return.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.align (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
+*   [echasnovski/mini.nvim#mini.align (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Translation and Speech-to-Text
 
-*   [OpenAI Whisper (⭐18k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
+*   [OpenAI Whisper (⭐21k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

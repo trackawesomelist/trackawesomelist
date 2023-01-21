@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -80,7 +80,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [k8s (⭐252)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
+*   [k8s (⭐256)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
 
 ## [11. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Non-deterministic, logic programming
 
-*   [Temperance (⭐52)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
+*   [Temperance (⭐53)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
 
 ## [13. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -123,8 +123,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-splide (⭐231)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
-*   [Vue Flow Form (⭐623)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
+*   [vue-splide (⭐240)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
+*   [Vue Flow Form (⭐637)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
 
 ## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Mathematics
 
-*   [MKL.NET (⭐62)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
+*   [MKL.NET (⭐61)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 
 ### PDF
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on May 14 - May 20, 2018
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,14 +50,14 @@
 
 ### GUI
 
-*   [TablePlus (⭐2.8k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
+*   [TablePlus (⭐2.9k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 
 ### Schema / Changes
 
 *   [2bass (⭐37)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
 *   [flyway (⭐6.9k)](https://github.com/flyway/flyway) - Database migration tool.
 *   [liquibase (⭐3.6k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
-*   [Pyrseas (⭐357)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
+*   [Pyrseas (⭐358)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### API / Samples
 
@@ -222,7 +222,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code (⭐4.3k)](https://github.com/joomla/joomla-cms)) `GPL-2.0` `PHP`
+*   [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code (⭐4.4k)](https://github.com/joomla/joomla-cms)) `GPL-2.0` `PHP`
 
 ## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -251,13 +251,13 @@
 *   [BitcoinJS (⭐4.8k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
 *   [Bitcore (⭐4.5k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [NodeOS (⭐6.8k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
-*   [Cytoscape.js (⭐8.8k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
-*   [isomorphic-git (⭐6.6k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+*   [Cytoscape.js (⭐8.9k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
+*   [isomorphic-git (⭐6.7k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
 
 ### Packages / Command-line apps
 
-*   [gh-home (⭐183)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-*   [npm-home (⭐179)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐184)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+*   [npm-home (⭐180)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 *   [trash (⭐2.4k)](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 
 ### Packages / Functional programming
@@ -268,10 +268,10 @@
 ### Packages / Command-line utilities
 
 *   [yargs (⭐10k)](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
-*   [get-stdin (⭐319)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
+*   [get-stdin (⭐320)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 *   [Ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-*   [terminal-link (⭐538)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
-*   [terminal-image (⭐902)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
+*   [terminal-link (⭐541)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+*   [terminal-image (⭐911)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 *   [Inquirer.js (⭐17k)](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 *   [sudo-block (⭐92)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 *   [term-size (⭐132)](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
@@ -293,11 +293,11 @@
 
 *   Promises
     *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
-    *   [delay (⭐516)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+    *   [delay (⭐520)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
     *   [promise-memoize (⭐56)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
-    *   [valvelet (⭐37)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
-    *   [p-map (⭐919)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
-    *   [More… (⭐4.1k)](https://github.com/sindresorhus/promise-fun)
+    *   [valvelet (⭐38)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
+    *   [p-map (⭐935)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+    *   [More… (⭐4.2k)](https://github.com/sindresorhus/promise-fun)
 *   Streams
     *   [Highland.js (⭐3.4k)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 
@@ -317,7 +317,7 @@
 
 ### Packages / Testing
 
-*   [WebdriverIO (⭐7.8k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
+*   [WebdriverIO (⭐7.9k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 
 ### Packages / Benchmarking
 
@@ -334,7 +334,7 @@
 ### Packages / Content management systems
 
 *   [ApostropheCMS (⭐3.9k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐50k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [Strapi (⭐51k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 ### Packages / Forum
 
@@ -356,17 +356,7 @@
 
 *   [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
 
-## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### JavaScript / Wicket
-
-*   [JavaScript ES6 and beyond (⭐1k)](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
-
-### R / Tornado
-
-*   [Introduction to Probability and Statistics Using R (⭐123)](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
-
-## [27. Awesome](/content/craftcms/awesome/week/README.md)
+## [26. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
@@ -443,28 +433,28 @@
 *   [Sonos](https://www.sonos.com)
 *   [Wildbit](https://wildbit.com)
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Assembly Manipulation
 
-*   [Fody (⭐3.8k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
-*   [ILRepack (⭐960)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
+*   [Fody (⭐3.9k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
+*   [ILRepack (⭐967)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
 
 ### CLI
 
-*   [Gui.cs (⭐7.7k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+*   [Gui.cs (⭐7.9k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐530)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐538)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
-## [29. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [28. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Databases
 
-*   [razi (⭐31)](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
+*   [razi (⭐32)](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
 
-## [30. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Chats
 
@@ -477,7 +467,7 @@
 
 *   [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
 
-## [31. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [30. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Testing
 
@@ -491,19 +481,19 @@
 
 *   [riddley (⭐186)](https://github.com/ztellman/riddley)
 
-## [32. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
+## [31. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
 
 ### Miscellaneous / Advanced
 
 *   [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
 
-## [33. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [32. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cmake\_templates (⭐114)](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). `[NO LICENSE]`
 
-## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Web Programming • Libraries
 
@@ -511,9 +501,9 @@
 
 ### Math / Other
 
-*   [L-systems (⭐20)](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
+*   [L-systems (⭐19)](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 
-## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / AST
 
@@ -541,7 +531,7 @@
 *   [Isaac Lee: Use D3 with Ember](https://www.youtube.com/watch?v=vD7H9O--tu4)
 *   [Open Source Live - Robert Jackson and Chris Manson pair on ember-cli](https://www.youtube.com/watch?v=rsftBMGOfyo)
 
-## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / iOS SDK
 
@@ -559,14 +549,14 @@
 
 *   [littlstar/s3-lambda :fire::fire::fire::fire: (⭐1.1k)](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter).
 
-## [37. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [36. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [한국어 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
 *   [Português do Europe (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
 
-## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -630,7 +620,7 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 | ---------------------- | ----- | ------ | --------------------------------------------------------------------- | -------------------------------------- |
 | open, password on wall | ✔     | ✔      | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -642,9 +632,9 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 
 ### Components & Libraries / UI Components
 
-*   [vue-gallery-slideshow (⭐167)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
+*   [vue-gallery-slideshow (⭐168)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 
-## [40. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,7 +44,7 @@
 
 ### Debug
 
-*   [μt (⭐936)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework \[Boost]
+*   [μt (⭐948)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework \[Boost]
 
 ## [7. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Health and Social Science
 
-*   [Digital History (⭐153)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐157)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

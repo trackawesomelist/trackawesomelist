@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [budgetzero (⭐491)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
+*   [budgetzero (⭐507)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
 
 ### Software / Note-taking & Editors
 
@@ -37,14 +37,14 @@
 ### Libraries / Command-line
 
 *   Data visualization
-    *   [nukesor/comfy-table (⭐507)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
-    *   [zhiburt/tabled (⭐1.2k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums.  [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
+    *   [nukesor/comfy-table (⭐529)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+    *   [zhiburt/tabled (⭐1.3k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums.  [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-openlayers (⭐389)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
+*   [vue3-openlayers (⭐395)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 
 ## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

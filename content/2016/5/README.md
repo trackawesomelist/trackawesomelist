@@ -2,7 +2,7 @@
 
 42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Misc
 
-*   [aasm.cr (⭐49)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
+*   [aasm.cr (⭐51)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
 
 ## [5. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
@@ -233,17 +233,17 @@ Webpage: <http://hanahaus.com/>
 
 ### Command-Line Productivity
 
-*   [k alias (⭐16)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+*   [k alias (⭐17)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 
 ### Applications / Directory Navigation
 
-*   [moviemon (⭐183)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+*   [moviemon (⭐186)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 
 ## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐140k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐141k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
 ## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -262,7 +262,7 @@ Webpage: <http://hanahaus.com/>
 ### Rust / General-Purpose Machine Learning
 
 *   [deeplearn-rs (⭐199)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐542)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [rustlearn (⭐544)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ## [20. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -393,7 +393,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐169k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
+*   [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
 
 ### Concurrency
 
@@ -417,7 +417,7 @@ git name-rev --name-only <SHA-1>
 
 ### Code Analysis and Metrics
 
-*   [Scientist (⭐6.8k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
+*   [Scientist (⭐6.9k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 
 ### Database Tools
 
@@ -464,7 +464,7 @@ git name-rev --name-only <SHA-1>
 
 ### Documentation
 
-*   [bureaucrat (⭐320)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐321)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
@@ -481,7 +481,7 @@ git name-rev --name-only <SHA-1>
 ### ORM and Datamapping
 
 *   [inquisitor (⭐167)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
-*   [mongodb (⭐540)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐543)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 *   [udpflux (⭐3)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ### Protocols
@@ -508,8 +508,8 @@ git name-rev --name-only <SHA-1>
 ### UITableView / Barcode
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
-*   [PullToRefreshSwift (⭐534)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
-*   [Shoyu (⭐278)](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
+*   [PullToRefreshSwift (⭐535)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
+*   [Shoyu (⭐277)](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
 
 ## [36. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
@@ -531,7 +531,7 @@ git name-rev --name-only <SHA-1>
 
 ### services
 
-*   [geojsonio-cli (⭐155)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
+*   [geojsonio-cli (⭐158)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
 
 ### data
 

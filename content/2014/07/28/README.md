@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Packages / Compression
 
-*   [tar-stream (⭐352)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐329)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐360)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐330)](https://github.com/mafintosh/tar-fs).
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

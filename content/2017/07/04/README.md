@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,8 +49,8 @@
 
 ### Example Projects
 
-*   [Red Hat Single Sign-On Labs (⭐11)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐185)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Red Hat Single Sign-On Labs (⭐12)](https://github.com/RedHatWorkshops/red-hat-sso)
+*   [Spring Boot Keycloak Tutorial (⭐188)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [7. Inspire](/content/noahbuscher/inspire/README.md)
 

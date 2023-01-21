@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### UI
 
-*   [Snaplist (⭐404)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
+*   [Snaplist (⭐416)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -126,7 +126,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Data validation / Third-party APIs
 
-*   [clavier (⭐16)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clavier (⭐15)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

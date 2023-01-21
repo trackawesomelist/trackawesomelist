@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 24, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Next JS Boilerplate (⭐2.9k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
+*   🚀 [Next JS Boilerplate (⭐3.1k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
 
 ## [2. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -20,7 +20,6 @@
 
 ### Development and Design / Design Tooling
 
-*   [Contrast](https://gitlab.gnome.org/World/design/contrast) - Check the contrast between two colors.
 *   [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - Symbolic icons for your apps.
 *   [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - Symbolics Made Easy.
 
@@ -64,19 +63,13 @@
 
 *   [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Make / PicoLisp
-
-*   [Makefile tutorial](https://makefiletutorial.com) - Chase Lambert
-
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
-*   [xtd (⭐423)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
+*   [xtd (⭐432)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
@@ -84,9 +77,9 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-comlink (⭐76)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.2k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+*   [vite-plugin-comlink (⭐78)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.3k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 
-## [9. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
+## [8. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
 ### More
 

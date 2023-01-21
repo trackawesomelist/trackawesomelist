@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,33 +37,33 @@
 
 ### Libraries / C
 
-*   [mongo-c-driver (⭐748)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐753)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### Libraries / C++
 
-*   [mongo-cxx-driver (⭐919)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
+*   [mongo-cxx-driver (⭐928)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### Libraries / C#/.NET
 
 *   [mongo-csharp-driver (⭐2.9k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
 *   [MongoDB Messaging (⭐57)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
-*   [MongoRepository (⭐306)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+*   [MongoRepository (⭐307)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Libraries / Erlang
 
-*   [mongodb-erlang (⭐328)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
+*   [mongodb-erlang (⭐331)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
 
 ### Libraries / Haskell
 
-*   [mongodb (⭐159)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
+*   [mongodb (⭐162)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
 
 ### Libraries / Java
 
 *   [Jongo (⭐572)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
-*   [Hibernate OGM (⭐313)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
+*   [Hibernate OGM (⭐314)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.5k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
-*   [Mongojack (⭐257)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
-*   [Morphium (⭐52)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
+*   [Mongojack (⭐259)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
+*   [Morphium (⭐54)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
 *   [Mungbean (⭐20)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
 
 ### Libraries / JavaScript
@@ -75,17 +75,17 @@
 ### Libraries / Lisp
 
 *   [cl-mongo (⭐134)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
-*   [mongo-cl-driver (⭐35)](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
+*   [mongo-cl-driver (⭐36)](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
 
 ### Libraries / PHP
 
-*   [laravel-mongodb (⭐6.2k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+*   [laravel-mongodb (⭐6.3k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
 
 ### Libraries / Python
 
 *   [MongoLog (⭐132)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
 *   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
-*   [scrapy-mongodb (⭐347)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+*   [scrapy-mongodb (⭐351)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
 
 ### Libraries / Ruby
 
@@ -93,7 +93,7 @@
 
 ### Libraries / Scala
 
-*   [ReactiveMongo (⭐834)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
+*   [ReactiveMongo (⭐836)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
 
 ### Tools / Administration
 
@@ -101,12 +101,12 @@
 
 ### Tools / Deployment
 
-*   [ansible-role-mongodb (⭐325)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
-*   [chef-mongodb (⭐366)](https://github.com/edelight/chef-mongodb) - Chef cookbook
+*   [ansible-role-mongodb (⭐326)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
+*   [chef-mongodb (⭐365)](https://github.com/edelight/chef-mongodb) - Chef cookbook
 
 ### Tools / Monitoring
 
-*   [mongo-munin (⭐148)](https://github.com/erh/mongo-munin) - Collection of Munin plugins
+*   [mongo-munin (⭐147)](https://github.com/erh/mongo-munin) - Collection of Munin plugins
 *   [mongomon (⭐23)](https://github.com/pcdummy/mongomon) - More Munin plugins
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
@@ -121,7 +121,7 @@
 
 ### State machines
 
-*   [Stateless (⭐4.6k)](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
+*   [Stateless (⭐4.7k)](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -168,7 +168,7 @@ git rebase -i --autosquash
 
 ### Applications
 
-*   [Hydra (⭐60)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
+*   [Hydra (⭐61)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
 
 ### Files and Directories
 

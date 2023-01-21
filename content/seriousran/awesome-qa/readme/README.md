@@ -2,7 +2,7 @@
 
 😎 A curated list of the Question Answering (QA)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/seriousran/awesome-qa/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 seriousran/awesome-qa](https://github.com/seriousran/awesome-qa) · ⭐ 706 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/seriousran/awesome-qa/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 seriousran/awesome-qa](https://github.com/seriousran/awesome-qa) · ⭐ 706 · 🏷️ Computer Science
 
 [ [Daily](/content/seriousran/awesome-qa/README.md) / [Weekly](/content/seriousran/awesome-qa/week/README.md) / Overview ]
 

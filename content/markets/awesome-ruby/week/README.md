@@ -2,7 +2,7 @@
 
 :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markets/awesome-ruby/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 markets/awesome-ruby](https://github.com/markets/awesome-ruby) · ⭐ 13K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markets/awesome-ruby/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markets/awesome-ruby](https://github.com/markets/awesome-ruby) · ⭐ 13K · 🏷️ Programming Languages
 
 [ [Daily](/content/markets/awesome-ruby/README.md) / Weekly / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 

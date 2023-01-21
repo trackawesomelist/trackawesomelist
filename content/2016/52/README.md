@@ -2,7 +2,7 @@
 
 32 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,7 +29,7 @@
 
 ### Database Drivers
 
-*   [peewee-async (⭐666)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.6k)](https://github.com/coleifer/peewee) and aiopg.
+*   [peewee-async (⭐667)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.7k)](https://github.com/coleifer/peewee) and aiopg.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Powered by TensorFlow
 
-*   [android-yolo (⭐619)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
+*   [android-yolo (⭐624)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 
 ## [7. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -335,7 +335,7 @@
 
 ### Algorithms and Data structures
 
-*   [qex (⭐24)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
+*   [qex (⭐25)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 
 ### Date and Time
 

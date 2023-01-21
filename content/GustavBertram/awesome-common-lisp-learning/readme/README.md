@@ -2,7 +2,7 @@
 
 A curated list of awesome Common Lisp learning resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/GustavBertram/awesome-common-lisp-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 GustavBertram/awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning) · ⭐ 150 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/GustavBertram/awesome-common-lisp-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 GustavBertram/awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning) · ⭐ 150 · 🏷️ Programming Languages
 
 [ [Daily](/content/GustavBertram/awesome-common-lisp-learning/README.md) / [Weekly](/content/GustavBertram/awesome-common-lisp-learning/week/README.md) / Overview ]
 

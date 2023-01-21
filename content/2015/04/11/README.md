@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Email
 
-*   [Sup (⭐859)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐860)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### HTML/XML Parsing
 
@@ -24,13 +24,13 @@
 
 ### RSS
 
-*   [Stringer (⭐3.5k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+*   [Stringer (⭐3.6k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Integrated Development Environment
 
-*   [color\_coded (⭐863)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
+*   [color\_coded (⭐862)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
 ## [4. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 

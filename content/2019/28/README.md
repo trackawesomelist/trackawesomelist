@@ -2,7 +2,7 @@
 
 47 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [croc (⭐21k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
+*   [croc (⭐22k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 *   [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
 *   [twtxt (⭐37)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
 
@@ -245,11 +245,11 @@
 
 ### Packages / Containerization
 
-*   [micro-ROS/docker (⭐32)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
+*   [micro-ROS/docker (⭐33)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 
 ### Packages / Application layer
 
-*   [apriltag\_ros (⭐46)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
+*   [apriltag\_ros (⭐55)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 
 ### Packages / Driver layer
 
@@ -262,7 +262,7 @@
 
 ### Operating systems / Build system (ROS2)
 
-*   [NuttX (⭐74)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
+*   [NuttX (⭐75)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
 
 ### Documentation / Build system (ROS2)
 
@@ -270,7 +270,7 @@
 
 ### Services / Robotics Capture the Flag (RCTF)
 
-*   [rctf-list (⭐28)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
+*   [rctf-list (⭐29)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
 ## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -300,13 +300,13 @@
 
 ### Static Analyzers / Social Engineering Tools
 
-*   [cwe\_checker (⭐741)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
+*   [cwe\_checker (⭐762)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
 
 ## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
-*   [Stratux (⭐919)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
+*   [Stratux (⭐925)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -342,7 +342,7 @@
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Firefox GNOME Theme (⭐2k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐2.3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## [26. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -402,11 +402,11 @@
 
 ### Tools / Web, JavaScript
 
-*   [test-each (⭐98)](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
+*   [test-each (⭐99)](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
 
 ### Tools / Network protocol
 
-*   [T-Fuzz (⭐245)](https://github.com/HexHive/T-Fuzz) - T-Fuzz leverages a coverage guided fuzzer to generate inputs.
+*   [T-Fuzz (⭐244)](https://github.com/HexHive/T-Fuzz) - T-Fuzz leverages a coverage guided fuzzer to generate inputs.
 
 ## [28. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
@@ -466,7 +466,7 @@
 ### Software / Make your life easier
 
 *   [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
-*   [recheck-web (⭐249)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
+*   [recheck-web (⭐252)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
 
 ## [33. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -632,7 +632,7 @@
 
 ### IDE
 
-*   [dbKoda (⭐874)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+*   [dbKoda (⭐873)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 *   [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
 *   [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
 
@@ -662,13 +662,13 @@
 
 ### UI / Sticky Headers
 
-*   [Sticky Infinite List (⭐288)](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)
-*   [Sticky Header (⭐753)](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
-*   [Sticky Headers (⭐877)](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
+*   [Sticky Infinite List (⭐291)](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)
+*   [Sticky Header (⭐773)](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
+*   [Sticky Headers (⭐900)](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 
 ### Top / Game Engine resources
 
-*   [Chillify (⭐569)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
+*   [Chillify (⭐621)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 
 ### Communication / Misc
 
@@ -686,7 +686,7 @@
 
 ### Data validation / Third-party APIs
 
-*   [sanity-clause (⭐38)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [sanity-clause (⭐40)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -710,7 +710,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.3k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.4k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
 
 ---
 

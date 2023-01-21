@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 24, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -204,13 +204,7 @@
 
 *   [fluent-logger (⭐7)](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 
-## [9. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
-
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Environment
 
@@ -220,7 +214,7 @@
 
 *   [Gourmet/Muffin plugin (⭐2)](https://github.com/gourmet/muffin) - [FactoryMuffin (⭐528)](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
 
-## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Networking / Field Validation
 
@@ -230,7 +224,7 @@
 
 *   [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 
-## [12. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md)
+## [11. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md)
 
 ### Workshoppers
 
@@ -240,7 +234,7 @@
 
 
 
-## [13. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 

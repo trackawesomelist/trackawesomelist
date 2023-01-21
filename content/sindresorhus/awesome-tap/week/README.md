@@ -2,7 +2,7 @@
 
 Useful resources for the Test Anything Protocol
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-tap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap) · ⭐ 587 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-tap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap) · ⭐ 587 · 🏷️ Testing
 
 [ [Daily](/content/sindresorhus/awesome-tap/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-tap/readme/README.md) ]
 

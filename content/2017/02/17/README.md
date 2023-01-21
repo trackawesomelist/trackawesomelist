@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -58,13 +58,13 @@
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐1.9k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.1k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
-*   [any\_hash.cr (⭐32)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
+*   [any\_hash.cr (⭐33)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
 
 ---
 

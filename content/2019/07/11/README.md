@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,9 +28,9 @@
 
 ### UI / Sticky Headers
 
-*   [Sticky Infinite List (⭐288)](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)
-*   [Sticky Header (⭐753)](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
-*   [Sticky Headers (⭐877)](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
+*   [Sticky Infinite List (⭐291)](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)
+*   [Sticky Header (⭐773)](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
+*   [Sticky Headers (⭐900)](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

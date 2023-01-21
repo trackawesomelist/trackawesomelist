@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,7 +47,7 @@
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐218)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+*   [ZImageCropper (⭐220)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ## [7. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Email
 
-*   [Maily (⭐681)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐680)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### Form Builder
 

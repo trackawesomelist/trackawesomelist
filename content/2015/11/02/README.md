@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 02, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,21 +34,7 @@
 
 *   [StarryStars (⭐175)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Agda
-
-*   [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
-
-### Force.com / Phoenix
-
-*   [Developer Workbooks](http://developer.force.com/workbook)
-
-### Groovy / Spock Framework
-
-*   [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
-
-## [6. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [5. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -74,7 +60,7 @@
 
 *   [J-Bob (⭐400)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 
-## [7. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
+## [6. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
 ### Programming Languages / Scala
 

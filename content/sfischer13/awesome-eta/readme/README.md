@@ -2,7 +2,7 @@
 
 :star: Useful resources for the Eta programming language
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sfischer13/awesome-eta/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sfischer13/awesome-eta](https://github.com/sfischer13/awesome-eta) · ⭐ 59 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sfischer13/awesome-eta/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sfischer13/awesome-eta](https://github.com/sfischer13/awesome-eta) · ⭐ 59 · 🏷️ Programming Languages
 
 [ [Daily](/content/sfischer13/awesome-eta/README.md) / [Weekly](/content/sfischer13/awesome-eta/week/README.md) / Overview ]
 

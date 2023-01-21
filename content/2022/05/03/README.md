@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-material-design-icons (⭐125)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+*   [vue-material-design-icons (⭐126)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 
 ### Components & Libraries / Frameworks
 
@@ -36,13 +36,13 @@
 
 ### Processes and Threads
 
-*   [concurrent.cr (⭐42)](https://github.com/didactic-drunk/concurrent.cr) - Simplified concurrency using streams/pipelines, waitgroups, semaphores, smores and more
+*   [concurrent.cr (⭐44)](https://github.com/didactic-drunk/concurrent.cr) - Simplified concurrency using streams/pipelines, waitgroups, semaphores, smores and more
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [BottomSheet (⭐95)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+*   [BottomSheet (⭐105)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Miscellaneous / React
 
-*   [schemathesis (⭐1.5k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
+*   [schemathesis (⭐1.6k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -71,16 +71,16 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [jupyterlab\_nbconvert\_nocode (⭐12)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
+*   [jupyterlab\_nbconvert\_nocode (⭐13)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_autoversion (⭐60)](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version notebooks in JupyterLab.
+*   [jupyterlab\_autoversion (⭐62)](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version notebooks in JupyterLab.
 *   [jupyterlab\_commands (⭐40)](https://github.com/timkpaine/jupyterlab_commands) - Add arbitrary python commands to the JupyterLab command palette.
 
 ### Testing
 
-*   [nbcelltests (⭐67)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
+*   [nbcelltests (⭐66)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
 *   [sphinxcontrib-jupyter (⭐72)](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx extension for generating Jupyter notebooks.
 
 ## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
@@ -160,7 +160,7 @@
 
 ### specifically from (  *a certain platform*  ) / Wechat Subscription Accounts (微信公众号)
 
-*   [Liuli (⭐649)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
+*   [Liuli (⭐681)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
 
 ### RSS2KINDLE / Docsify
 

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Top / Game Engine resources
 
-*   [Chillify (⭐569)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
+*   [Chillify (⭐621)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

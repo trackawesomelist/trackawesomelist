@@ -2,7 +2,7 @@
 
 List of Continuous Integration services
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ligurio/awesome-ci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) · ⭐ 3.1K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ligurio/awesome-ci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) · ⭐ 3.1K · 🏷️ Development Environment
 
 [ [Daily](/content/ligurio/awesome-ci/README.md) / [Weekly](/content/ligurio/awesome-ci/week/README.md) / Overview ]
 

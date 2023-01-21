@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Extensions
 
-*   [Serverless Framework plugin for Next.js (⭐3.9k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
+*   [Serverless Framework plugin for Next.js (⭐4k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Automation / Code libraries and bindings
 
-*   [censys-python (⭐297)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
+*   [censys-python (⭐305)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

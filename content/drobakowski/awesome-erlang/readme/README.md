@@ -2,7 +2,7 @@
 
 A curated list of awesome Erlang libraries, resources and shiny things.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/drobakowski/awesome-erlang/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang) · ⭐ 1.4K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/drobakowski/awesome-erlang/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang) · ⭐ 1.4K · 🏷️ Programming Languages
 
 [ [Daily](/content/drobakowski/awesome-erlang/README.md) / [Weekly](/content/drobakowski/awesome-erlang/week/README.md) / Overview ]
 

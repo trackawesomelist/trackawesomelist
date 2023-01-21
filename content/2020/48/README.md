@@ -2,7 +2,7 @@
 
 70 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -222,8 +222,8 @@
 
 ### Community
 
-*   [Complete Terraform documentation as PDF files (Updated nightly) (⭐179)](https://github.com/antonbabenko/terraform-docs-as-pdf)
-*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐67)](https://github.com/terraform-aws-modules/meta)
+*   [Complete Terraform documentation as PDF files (Updated nightly) (⭐181)](https://github.com/antonbabenko/terraform-docs-as-pdf)
+*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐69)](https://github.com/terraform-aws-modules/meta)
 *   [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 
 ### Tutorials and Blog Posts / Writing Custom Providers
@@ -237,14 +237,14 @@
 
 ### Tools / Vendor supported providers
 
-*   [Checkov (⭐4.9k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [Checkov (⭐5k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 *   [TerraDepot (⭐59)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-*   [Terraform-Visual (⭐421)](https://github.com/hieven/terraform-visual) A simple but powerful tool to visualize Terraform plan.
-*   [terratag (⭐712)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
+*   [Terraform-Visual (⭐434)](https://github.com/hieven/terraform-visual) A simple but powerful tool to visualize Terraform plan.
+*   [terratag (⭐733)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 
 ### Libraries / Vendor supported providers
 
-*   [python-hcl2 (⭐156)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
+*   [python-hcl2 (⭐164)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 
 ## [17. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -266,7 +266,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐9.6k)](https://github.com/tinode/chat), [Clients (⭐243)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
+*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐9.7k)](https://github.com/tinode/chat), [Clients (⭐250)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
 
 ### Software / Polls and Events
 
@@ -288,8 +288,8 @@
 
 ### Translations
 
-*   [English (⭐58)](https://github.com/mbiesiad/awesome-translations)
-*   [Polish (⭐58)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+*   [English (⭐65)](https://github.com/mbiesiad/awesome-translations)
+*   [Polish (⭐65)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
 ### Platforms
 
@@ -303,22 +303,22 @@
 
 ### Apps
 
-*   [RTranslator (⭐75)](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
-*   [Crow Translate (⭐969)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+*   [RTranslator (⭐85)](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
+*   [Crow Translate (⭐1k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 *   [Copy Translator (⭐15k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 *   [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 
 ### Tools
 
-*   [deep-translator (⭐713)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+*   [deep-translator (⭐812)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 *   [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 *   [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 *   [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 *   [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
 *   [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
-*   [i18n Ally (⭐2.5k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+*   [i18n Ally (⭐2.7k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 *   [Pootle (⭐1.4k)](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
-*   [Translator (⭐810)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+*   [Translator (⭐920)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 *   [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
 
 ### Articles
@@ -342,8 +342,8 @@
 
 ### Security
 
-*   [Lockpicking (⭐988)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-*   [Cybersecurity Blue Team (⭐2.9k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+*   [Lockpicking (⭐1k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+*   [Cybersecurity Blue Team (⭐3k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 
 ## [25. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
@@ -394,11 +394,11 @@
 
 ### Messaging
 
-*   [ChatLayout (⭐500)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
+*   [ChatLayout (⭐523)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
 
 ### Official
 
-*   [Adapty (⭐413)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+*   [Adapty (⭐339)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ## [32. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -454,7 +454,7 @@
 
 ### Automation / DSL
 
-*   [jmeter-groovy-dsl (⭐10)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+*   [jmeter-groovy-dsl (⭐11)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 
 ## [39. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -470,7 +470,7 @@
 
 ### API
 
-*   [Swiftkube (⭐92)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐94)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [41. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -515,14 +515,13 @@
 
 ### Radio and Podcasts Tools / Telegram
 
-*   [Podgrab (⭐869)](https://github.com/akhilrex/podgrab)
+*   [Podgrab (⭐944)](https://github.com/akhilrex/podgrab)
 
 ## [47. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Applets / Design Tooling
 
 *   [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
-*   [Extensions Sync (⭐219)](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 
 ## [48. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -561,7 +560,7 @@
 ### Packages / Ecosystem
 
 *   [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
-*   [Unity Robotics Hub (⭐1.3k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
+*   [Unity Robotics Hub (⭐1.4k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
 ### Papers / ROSCon 2015
 
@@ -583,7 +582,7 @@
 
 ### Others
 
-*   [LinqToTwitter Blazor sample (⭐486)](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![stars](https://img.shields.io/github/stars/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=86400) LINQ Provider for the Twitter API (Twitter Library).
+*   [LinqToTwitter Blazor sample (⭐491)](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![stars](https://img.shields.io/github/stars/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=86400) LINQ Provider for the Twitter API (Twitter Library).
 
 ### Individual components / Others
 
@@ -601,11 +600,11 @@
 
 ### UI
 
-*   [Timelines (⭐543)](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
+*   [Timelines (⭐563)](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 
 ### Desktop / Game Engine resources
 
-*   [bitsdojo\_window (⭐579)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
+*   [bitsdojo\_window (⭐605)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
 
 ## [56. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -1072,7 +1071,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ishan9299/modus-theme-vim (⭐111)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
+*   [ishan9299/modus-theme-vim (⭐114)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
 
 ## [61. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -1090,11 +1089,11 @@
 
 ### Themes
 
-*   [dracula/tmux (⭐343)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
+*   [dracula/tmux (⭐359)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 
 ### Plugins
 
-*   [tmux-notify (⭐64)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
+*   [tmux-notify (⭐66)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
 
 ## [64. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -1178,14 +1177,14 @@
 
 ### Projects / Tools
 
-*   [hs-to-coq (⭐64)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
+*   [hs-to-coq (⭐65)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
 *   [Roosterize (⭐14)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 
 ## [69. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐430)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐442)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
 ## [70. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 

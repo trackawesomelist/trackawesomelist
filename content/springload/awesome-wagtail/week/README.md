@@ -2,7 +2,7 @@
 
 A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/springload/awesome-wagtail/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) · ⭐ 1.7K · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/springload/awesome-wagtail/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) · ⭐ 1.7K · 🏷️ Content Management Systems
 
 [ [Daily](/content/springload/awesome-wagtail/README.md) / Weekly / [Overview](/content/springload/awesome-wagtail/readme/README.md) ]
 

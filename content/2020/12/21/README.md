@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,7 +39,7 @@
 
 ### Tools and session management
 
-*   [smug (⭐446)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐456)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
 ## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -63,12 +63,12 @@
 
 ### Image / Image Picker
 
-*   [Image Picker (⭐16k)](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
+*   [Image Picker (⭐17k)](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 *   [WeChat Assets Picker (⭐1.1k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Desktop / Game Engine resources
 
-*   [Raspberry Pi Embedder (⭐1k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
+*   [Raspberry Pi Embedder (⭐1.1k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
 ## [9. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -173,16 +173,16 @@
 
 ### Prompts
 
-*   [Pure (⭐965)](https://github.com/rafaelrinaldi/pure) - One-to-one port of [*that*](https://github.com/sindresorhus/pure) ZSH prompt to Fish.
-*   [Hydro (⭐391)](https://github.com/jorgebucaran/hydro) - Minimal, lag-free prompt with async Git status.
+*   [Pure (⭐993)](https://github.com/rafaelrinaldi/pure) - One-to-one port of [*that*](https://github.com/sindresorhus/pure) ZSH prompt to Fish.
+*   [Hydro (⭐415)](https://github.com/jorgebucaran/hydro) - Minimal, lag-free prompt with async Git status.
 
 ### Plugins
 
-*   [Fisher (⭐6.1k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
-*   [Fundle (⭐331)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager.
-*   [Autopair (⭐189)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐249)](https://github.com/laughedelic/pisces)).
-*   [Async Prompt (⭐275)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
-*   [Abbreviation Tips (⭐167)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
+*   [Fisher (⭐6.3k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
+*   [Fundle (⭐340)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager.
+*   [Autopair (⭐201)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐250)](https://github.com/laughedelic/pisces)).
+*   [Async Prompt (⭐291)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
+*   [Abbreviation Tips (⭐181)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
 
 ## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -195,7 +195,7 @@
 ### Dependency Injection / Collection View Layout
 
 *   [Typhoon (⭐2.7k)](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
-*   [Pilgrim (⭐59)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
+*   [Pilgrim (⭐60)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
 
 ---
 

@@ -2,7 +2,7 @@
 
 A list of awesome resources for tmux
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rothgar/awesome-tmux/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) · ⭐ 5.4K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rothgar/awesome-tmux/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) · ⭐ 5.4K · 🏷️ Development Environment
 
 [ [Daily](/content/rothgar/awesome-tmux/README.md) / Weekly / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Libraries
 
-*   [Fortuna (⭐199)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
+*   [Fortuna (⭐369)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 
 ## [4. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -34,16 +34,13 @@
 
 ### Plugins
 
-*   🎨💼 [Accent (⭐1)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
+*   🎨💼 [Accent (⭐2)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Remote Jobs:
 
 - Website: <https://remotefrontendjobs.com>
-
-
-- Website: <https://www.remotescout.ch>
 
 
 
@@ -57,11 +54,11 @@
 
 ### Plugin Manager
 
-*   [folke/lazy.nvim (⭐1.1k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [folke/lazy.nvim (⭐1.8k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-various-textobjs (⭐10)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
+*   [chrisgrieser/nvim-various-textobjs (⭐83)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -78,4 +75,5 @@
 
 ---
 
+- Prev: [Dec 28, 2022](/content/2022/12/28/README.md)
 - Next: [Dec 26, 2022](/content/2022/12/26/README.md)

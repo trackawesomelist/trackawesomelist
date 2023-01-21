@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to MDBootstrap
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 23 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 23 · 🏷️ Front-End Development
 
 [ [Daily](/content/mdbootstrap/awesome-mdbootstrap/README.md) / [Weekly](/content/mdbootstrap/awesome-mdbootstrap/week/README.md) / Overview ]
 

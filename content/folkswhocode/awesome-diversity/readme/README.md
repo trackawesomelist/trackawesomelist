@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/folkswhocode/awesome-diversity/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 folkswhocode/awesome-diversity](https://github.com/folkswhocode/awesome-diversity) · ⭐ 572 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/folkswhocode/awesome-diversity/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 folkswhocode/awesome-diversity](https://github.com/folkswhocode/awesome-diversity) · ⭐ 572 · 🏷️ Health and Social Science
 
 [ [Daily](/content/folkswhocode/awesome-diversity/README.md) / [Weekly](/content/folkswhocode/awesome-diversity/week/README.md) / Overview ]
 

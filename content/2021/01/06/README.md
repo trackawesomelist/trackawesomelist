@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,12 +31,12 @@
 
 ### Others / Third-party APIs
 
-*   [Vellum (⭐67)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD\_2Clause.
-*   [rtg-math (⭐51)](https://github.com/cbaggers/rtg-math/) - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD\_2Clause.
+*   [Vellum (⭐64)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD\_2Clause.
+*   [rtg-math (⭐52)](https://github.com/cbaggers/rtg-math/) - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD\_2Clause.
 
 ### Matrix libraries / Third-party APIs
 
-*   [lisp-matrix (⭐66)](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [lisp-matrix (⭐65)](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Statistics / Third-party APIs
 
@@ -100,12 +100,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vueform/slider (⭐171)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
-*   [@vueform/toggle (⭐75)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
+*   [@vueform/slider (⭐173)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
+*   [@vueform/toggle (⭐76)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
 
 ### Components & Libraries / Scaffold
 
-*   [vue-composable-starter (⭐48)](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
+*   [vue-composable-starter (⭐49)](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

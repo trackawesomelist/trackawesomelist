@@ -2,7 +2,7 @@
 
 :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/unicodeveloper/awesome-nextjs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) · ⭐ 8.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/unicodeveloper/awesome-nextjs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) · ⭐ 8.2K · 🏷️ Front-End Development
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 

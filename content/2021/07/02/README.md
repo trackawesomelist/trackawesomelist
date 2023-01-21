@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Courses / Build system (ROS2)
 
-*   [ROS2-Industrial training material (⭐141)](https://github.com/ros-industrial/ros2_i_training)
+*   [ROS2-Industrial training material (⭐139)](https://github.com/ros-industrial/ros2_i_training)
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Software / Blogging Platforms
 
-*   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐184)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
+*   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐185)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Solana (⭐9.8k)](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
+*   [Solana (⭐9.9k)](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
 
 ---
 

@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Software / Proxy
 
-*   [SOCKS5Engine (⭐31)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
+*   [SOCKS5Engine (⭐32)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
 
 ## [4. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
@@ -50,8 +50,8 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Theming / Themes
 
-*   [ant-design-dark-theme (⭐470)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
-*   [ant-dark-theme (⭐14)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-design-dark-theme (⭐466)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-dark-theme (⭐13)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
 ## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -63,11 +63,11 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Reference
 
-*   [adalib (⭐15)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
+*   [adalib (⭐16)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
 ### Database / Other / unknown licence
 
-*   [ada-base (⭐29)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
+*   [ada-base (⭐31)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
 ### Generation / Other / unknown licence
 
@@ -80,7 +80,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Patterns / Other / unknown licence
 
-*   [rxada (⭐7)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
+*   [rxada (⭐12)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
 
@@ -127,7 +127,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Tools
 
-*   [web-component-analyzer (⭐408)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+*   [web-component-analyzer (⭐409)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
 ## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

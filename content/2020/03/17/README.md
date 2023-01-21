@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lightwood (⭐298)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐311)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -21,7 +21,7 @@
 ### Cartridges / Misc
 
 *   [Introduction to Game Boy Hacking](http://pepijndevos.nl/sha2017/workshop.pdf) - Workshop introducing basic assembly, debugging and reverse engineering.
-*   [GBSOUND.txt (⭐39)](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) - A document detailing the Game Boy sound engine.
+*   [GBSOUND.txt (⭐40)](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) - A document detailing the Game Boy sound engine.
 *   [gbdev FAQs](http://www.devrs.com/gb/files/faqs.html) - Must read by Jeff Frohwein.
 *   [Game Boy Bootrom](http://www.neviksti.com/DMG/DMG_ROM.asm) - Commented dump of the DMG bootrom.
 *   [Differences between the Z80 and the gameboy's processor](http://www.z80.info/z80gboy.txt)
@@ -29,7 +29,7 @@
 
 ### Emulator Development / Misc
 
-*   [Emulation of Nintendo Game Boy (⭐3.7k)](https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf) - Overview of the Game Boy hardware with the perspective of building an emulator.
+*   [Emulation of Nintendo Game Boy (⭐3.8k)](https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf) - Overview of the Game Boy hardware with the perspective of building an emulator.
 
 ### Websites / Syntax highlighting packages
 
@@ -45,7 +45,7 @@
 
 ### Icons
 
-*   [react-open-doodles (⭐49)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
+*   [react-open-doodles (⭐50)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -70,10 +70,10 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-checkout (⭐936)](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
+*   [vue-stripe-checkout (⭐944)](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
 *   [vue-stripe-payment (⭐16)](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
-*   [vue-paypal-checkout (⭐153)](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
-*   [vue-plaid-link (⭐30)](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.
+*   [vue-paypal-checkout (⭐151)](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
+*   [vue-plaid-link (⭐29)](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.
 
 ## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -146,7 +146,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐528)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐538)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,10 +10,8 @@
 
 ### :books: Literature / Scientific Research
 
-*   :newspaper: Bypassing anti-analysis of commercial protector methods using DBI tools (January 2021)  :star: :star:
-*   :newspaper: A survey on malware analysis techniques: Static, dynamic, hybrid and memory analysis (September 2018)  :star:
-*   :notebook: [Towards paving the way for large-scale Windows malware analysis: Generic binary unpacking with orders-of-magnitude performance boost](https://dl.acm.org/doi/10.1145/3243734.3243771) (October 2018)  :star: :star:
-*   :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020)  :star: :star: :star:
+*   :notebook: [Towards paving the way for large-scale Windows malware analysis: Generic binary unpacking with orders-of-magnitude performance boost](https://dl.acm.org/doi/10.1145/3243734.3243771) (October 2018)  :star:
+*   :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020)  :star:
 
 ### :wrench: Tools / Before 2000
 
@@ -30,19 +28,19 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Soketi is a free, open-source Pusher drop-in alternative. ([Source Code (⭐3.2k)](https://github.com/soketi/soketi)) `MIT` `Nodejs`
+*   [Soketi](https://soketi.app/) - Soketi is a free, open-source Pusher drop-in alternative. ([Source Code (⭐3.3k)](https://github.com/soketi/soketi)) `MIT` `Nodejs`
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐203)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐205)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
-*   [OpenMV (⭐1.9k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
+*   [OpenMV (⭐2k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -54,13 +52,13 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐15)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐16)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace-spec (⭐3)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐4)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Functional
 

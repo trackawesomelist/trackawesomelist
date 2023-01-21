@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Cryptography
 
-*   [NaCl.Core (⭐58)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
+*   [NaCl.Core (⭐59)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Applications
 
-*   [ipfs-chat (⭐89)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
+*   [ipfs-chat (⭐92)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐263)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐298)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ---
 

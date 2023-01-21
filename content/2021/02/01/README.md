@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -44,7 +44,7 @@
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐112)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐121)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Examples / Hardware Offload
 
-*   [ebpf-kill-example (⭐16)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
+*   [ebpf-kill-example (⭐17)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 
 ## [11. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

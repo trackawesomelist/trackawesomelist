@@ -2,7 +2,7 @@
 
 A List of Awesome Bitcoin (Pleb) Projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/quilloughbee/awesome-pleb-projects/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 quilloughbee/awesome-pleb-projects](https://github.com/quilloughbee/awesome-pleb-projects) · ⭐ 4 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/quilloughbee/awesome-pleb-projects/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 quilloughbee/awesome-pleb-projects](https://github.com/quilloughbee/awesome-pleb-projects) · ⭐ 4 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/quilloughbee/awesome-pleb-projects/README.md) / Weekly / [Overview](/content/quilloughbee/awesome-pleb-projects/readme/README.md) ]
 

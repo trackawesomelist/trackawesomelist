@@ -2,7 +2,7 @@
 
 A curated list of awesome Lit resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/web-padawan/awesome-lit/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit) · ⭐ 1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/web-padawan/awesome-lit/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit) · ⭐ 1K · 🏷️ Front-End Development
 
 [ [Daily](/content/web-padawan/awesome-lit/README.md) / [Weekly](/content/web-padawan/awesome-lit/week/README.md) / Overview ]
 

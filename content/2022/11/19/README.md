@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,13 +20,13 @@
 
 ### Utilities / General Tools
 
-*   [DevToysMac (⭐6.3k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DevToysMac (⭐6.4k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [Ninja-Squad/springmockk (⭐384)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
+*   [Ninja-Squad/springmockk (⭐391)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
 
 ## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐9.6k)](https://github.com/Schniz/fnm).
+*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐9.9k)](https://github.com/Schniz/fnm).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -47,7 +47,7 @@
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Learning / Crash Courses
+### Crash Courses
 
 *   [Dissecting Algorand](https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72) - Introduction Algorand and an analysis on Algorand's inner workings.
 

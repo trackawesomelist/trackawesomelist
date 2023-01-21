@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,8 +50,8 @@
 
 ### Tools & Software / Acquisition
 
-*   [WAIL (⭐289)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐107)](https://github.com/n0tan3rd/wail). *(Stable)*
-*   [Warcprox (⭐318)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
+*   [WAIL (⭐296)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐108)](https://github.com/n0tan3rd/wail). *(Stable)*
+*   [Warcprox (⭐331)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
 
 ## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

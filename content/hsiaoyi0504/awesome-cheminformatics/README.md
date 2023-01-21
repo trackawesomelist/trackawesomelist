@@ -2,7 +2,7 @@
 
 A curated list of Cheminformatics libraries and software.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hsiaoyi0504/awesome-cheminformatics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hsiaoyi0504/awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) · ⭐ 471 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hsiaoyi0504/awesome-cheminformatics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hsiaoyi0504/awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) · ⭐ 471 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md) / [Overview](/content/hsiaoyi0504/awesome-cheminformatics/readme/README.md) ]
 
@@ -149,7 +149,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / General Purpose
 
-*   [ChemPy](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
+*   [ChemPy (⭐405)](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
 
 ## [May 17, 2020](/content/2020/05/17/README.md)
 
@@ -218,7 +218,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Applications / Virtual Machine
 
-*   [3D e-Chem Virtual Machine (⭐16)](https://github.com/3D-e-Chem/3D-e-Chem-VM) -
+*   [3D e-Chem Virtual Machine (⭐16)](https://github.com/3D-e-Chem/3D-e-Chem-VM) - Virtual machine with all software and sample data to run 3D-e-Chem Knime workflows
 
 ## [Jan 29, 2020](/content/2020/01/29/README.md)
 
@@ -397,7 +397,7 @@ A curated list of Cheminformatics libraries and software.
 ### Libraries / Molecular Descriptors
 
 *   [mordred (⭐250)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
-*   [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
+*   [mol2vec (⭐202)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 
 ### Libraries / Web APIs
 

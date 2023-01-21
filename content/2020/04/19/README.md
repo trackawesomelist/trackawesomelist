@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Tools
 
-*   [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API (⭐122)](https://github.com/ccouzens/keycloak-openapi)
+*   [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API (⭐132)](https://github.com/ccouzens/keycloak-openapi)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Blazor / Themes
 
-*   [Blazorise (⭐2.5k)](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
+*   [Blazorise (⭐2.6k)](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -96,7 +96,7 @@
 
 *   [TodoMVC Vue 3 Composition API (⭐121)](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
 *   [TodoMVC Vue (⭐28)](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
-*   [Movie search app with Composition API (⭐39)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
+*   [Movie search app with Composition API (⭐40)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
 
 ### Components & Libraries / UI Components
 
@@ -113,7 +113,7 @@
 ### Apps / Outline Processor Markup Language
 
 *   [Sismics Reader](https://www.sismics.com/reader/#!/home) ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.sismics.reader)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sismics/reader)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [RSSOwlnix (⭐212)](https://github.com/Xyrio/RSSOwlnix) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Xyrio/RSSOwlnix)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSOwlnix (⭐215)](https://github.com/Xyrio/RSSOwlnix) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Xyrio/RSSOwlnix)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -123,7 +123,7 @@
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
-*   [Feed Readers @ Awesome-Selfhosted (⭐106k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
+*   [Feed Readers @ Awesome-Selfhosted (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 
 ### Telegram / Bot of RSS屋 (a Full Article Extractor Service)
 

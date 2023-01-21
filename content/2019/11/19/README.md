@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -134,23 +134,23 @@
 
 ### Tools
 
-*   👍 [str (⭐237)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [str (⭐246)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT](https://opensource.org/licenses/MIT).
 *   [trivial-extensible-sequences (⭐11)](https://github.com/Shinmera/trivial-extensible-sequences) - Portability library for the extensible sequences protocol ([SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences)). [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [listopia (⭐25)](https://github.com/Dimercel/listopia) - a list manipulation library inspired by Haskell's Data.List. [LLGPL](http://opensource.franz.com/preamble.html).
-*   👍 [access (⭐72)](https://github.com/AccelerationNet/access/) - Consistent and nested access to most common data structures. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [modf (⭐49)](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
+*   [listopia (⭐27)](https://github.com/Dimercel/listopia) - a list manipulation library inspired by Haskell's Data.List. [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [access (⭐74)](https://github.com/AccelerationNet/access/) - Consistent and nested access to most common data structures. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [modf (⭐52)](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
 
 ### Mobile
 
-*   [generic-cl (⭐103)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT](https://opensource.org/licenses/MIT). See also the more lightweight [generic-comparability (⭐13)](https://github.com/pnathan/generic-comparability). [LLGPL](http://opensource.franz.com/preamble.html).
+*   [generic-cl (⭐105)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT](https://opensource.org/licenses/MIT). See also the more lightweight [generic-comparability (⭐13)](https://github.com/pnathan/generic-comparability). [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Changing the syntax
 
-*   [cl21 (⭐887)](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl21 (⭐888)](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-syntax (⭐35)](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax) - An indentation-sensitive reader system. Not available on Quicklisp. Public domain.
 *   [cl-annot (⭐125)](https://github.com/m2ym/cl-annot) - Python-like annotations for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [cl-annot-revisit (⭐3)](https://github.com/y2q-actionman/cl-annot-revisit/) -  re-implementation of cl-annot. WTFPL.
+    *   [cl-annot-revisit (⭐4)](https://github.com/y2q-actionman/cl-annot-revisit/) -  re-implementation of cl-annot. WTFPL.
 *   [cl-reader (⭐6)](https://github.com/digikar99/reader) - A utility library
     intended at providing reader macros for lambdas, mapping, accessors,
     hash-tables and hash-sets. [MIT](https://opensource.org/licenses/MIT).
@@ -159,7 +159,7 @@
 
 *   [ppath (⭐27)](https://github.com/fourier/ppath) - Common Lisp's
     implementation of the Python's os.path module. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [mmap (⭐27)](https://github.com/Shinmera/mmap) - Portable mmap file memory mapping utility library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [mmap (⭐28)](https://github.com/Shinmera/mmap) - Portable mmap file memory mapping utility library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

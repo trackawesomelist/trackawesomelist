@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐367)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐368)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [3. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -56,8 +56,8 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [P (⭐2.6k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐702)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [P (⭐2.7k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+*   [Roslyn-linq-rewrite (⭐703)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -109,7 +109,7 @@
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐304)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
+*   [WebGL Lessons — Fragment Shaders (⭐305)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 

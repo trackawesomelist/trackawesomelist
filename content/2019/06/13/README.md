@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,7 +48,7 @@
 
 ### Monetization / Preferences
 
-*   [Square In-App Payments SDK (⭐311)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+*   [Square In-App Payments SDK (⭐317)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
 ## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

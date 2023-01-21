@@ -2,7 +2,7 @@
 
 :chart_with_upwards_trend: Curated list of resources to help you get started with Data Science
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/siboehm/awesome-learn-datascience/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) · ⭐ 563 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/siboehm/awesome-learn-datascience/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) · ⭐ 563 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/siboehm/awesome-learn-datascience/week/README.md) / [Overview](/content/siboehm/awesome-learn-datascience/readme/README.md) ]
 

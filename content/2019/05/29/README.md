@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [CSV (⭐463)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+*   [CSV (⭐478)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 
 ## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Top / Game Engine resources
 
-*   [Spacex-Go (⭐750)](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
+*   [Spacex-Go (⭐779)](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 *   [Superhero Interaction (⭐218)](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
@@ -65,7 +65,7 @@
 
 ### Networking
 
-*   [libhttpserver (⭐708)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+*   [libhttpserver (⭐711)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [dark-mode (⭐631)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [dark-mode (⭐630)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Taskbook (⭐8.6k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/klaussinani/taskbook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
@@ -123,26 +123,26 @@
 
 ### Resources / Controllers
 
-*   [gdx-controllerutils (⭐49)](https://github.com/MrStahlfelge/gdx-controllerutils) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
+*   [gdx-controllerutils (⭐51)](https://github.com/MrStahlfelge/gdx-controllerutils) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
 
 ### Resources / Services
 
-*   [steamworks4j (⭐400)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
+*   [steamworks4j (⭐405)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 
 ### Resources / User Interface
 
-*   [gdx-dialogs (⭐76)](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
-*   [InGameConsole (⭐123)](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
+*   [gdx-dialogs (⭐77)](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
+*   [InGameConsole (⭐125)](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
 
 ### Resources / Visual Effects
 
-*   [Box2DLights (⭐238)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
-*   [Particle Park (⭐48)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
+*   [Box2DLights (⭐240)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
+*   [Particle Park (⭐52)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 
 ### Resources / Others
 
-*   [gdxGifRecorder (⭐38)](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
-*   [noise4j (⭐85)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
+*   [gdxGifRecorder (⭐37)](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
+*   [noise4j (⭐86)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 
 ---
 

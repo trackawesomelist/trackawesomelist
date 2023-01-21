@@ -2,7 +2,7 @@
 
 A curated list of packages and resources regarding the FIRST Robotics Competition.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/andrewda/awesome-frc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 andrewda/awesome-frc](https://github.com/andrewda/awesome-frc) · ⭐ 85 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/andrewda/awesome-frc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 andrewda/awesome-frc](https://github.com/andrewda/awesome-frc) · ⭐ 85 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/andrewda/awesome-frc/week/README.md) / [Overview](/content/andrewda/awesome-frc/readme/README.md) ]
 

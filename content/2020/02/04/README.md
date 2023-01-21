@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,8 +16,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐299)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
-*   [Babelfish (⭐341)](https://github.com/bblfsh/bblfshd) - Self-hosted server for source code parsing. It can parse any file, in any supported language, extract an Abstract Syntax Tree from it, and convert it to a Universal Abstract Syntax Tree which can enable further analysis and transformation. `GPL-3.0` `Go`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐320)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -47,11 +46,11 @@
 
 ### Styling / Barcode
 
-*   [Themes (⭐237)](https://github.com/onmyway133/EasyTheme) - Theme management.
+*   [Themes (⭐238)](https://github.com/onmyway133/EasyTheme) - Theme management.
 
 ### Video / Barcode
 
-*   [Swifty360Player (⭐147)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
+*   [Swifty360Player (⭐148)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

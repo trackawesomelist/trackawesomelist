@@ -1,26 +1,20 @@
 # Awesome List Updates on Dec 12, 2015
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Scala / Sinatra
-
-*   [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
-
-## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [1. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [spot (⭐896)](https://github.com/rauchg/spot) - Tiny file search utility
+*   [spot (⭐900)](https://github.com/rauchg/spot) - Tiny file search utility
 
 ### Customization / Directory Navigation
 
-*   [Gogh - Color Scheme (⭐7.3k)](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
+*   [Gogh - Color Scheme (⭐7.5k)](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
 
 ### For Developers / Directory Navigation
 
@@ -38,13 +32,13 @@
 
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
-## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Misc
 
 *   [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 
-## [4. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [3. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Developer Utilities
 

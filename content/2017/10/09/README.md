@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -99,7 +99,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Wiki.js (⭐19k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-*   [vue-speech-streaming (⭐64)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
+*   [vue-speech-streaming (⭐65)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
 
 ---
 

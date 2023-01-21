@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,7 +51,7 @@
 ### Software / Middlewares
 
 *   [IOStash](https://iostash.io) - IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation.
-*   [Kuzzle (⭐1.2k)](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
+*   [Kuzzle (⭐1.3k)](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

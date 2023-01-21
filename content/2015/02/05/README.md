@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐531)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐532)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ---
 

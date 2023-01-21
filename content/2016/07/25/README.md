@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -72,9 +72,9 @@
 
 ### ORM and Datamapping
 
-*   [ecto (⭐5.6k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
-*   [ecto\_ordered (⭐38)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
-*   [postgrex (⭐968)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+*   [ecto (⭐5.7k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+*   [ecto\_ordered (⭐39)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
+*   [postgrex (⭐972)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 *   [sql\_dust (⭐115)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
@@ -85,7 +85,6 @@
 
 *   [bandwidth (⭐4)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
 *   [kane (⭐93)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
-*   [omise](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
 
 ### Utilities
 

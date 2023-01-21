@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Architecture
 
-*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐62)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐63)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ## [2. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -49,11 +49,11 @@
 
 ### Activity Indicator
 
-*   [ActivityIndicatorView (⭐906)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐956)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### User Consent / Collection View Layout
 
-*   [PrivacyFlash Pro (⭐138)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
+*   [PrivacyFlash Pro (⭐141)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
 ---
 

@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Serialization
 
-*   [Json.NET (⭐9.7k)](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
+*   [Json.NET (⭐9.8k)](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 *   [ServiceStack.Text (⭐1.2k)](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
 *   [Msgpack-Cli (⭐793)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 

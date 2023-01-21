@@ -2,7 +2,7 @@
 
 A curated list of tech stacks for building different applications & features
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stackshareio/awesome-stacks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) · ⭐ 2.9K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stackshareio/awesome-stacks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) · ⭐ 2.9K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/stackshareio/awesome-stacks/week/README.md) / [Overview](/content/stackshareio/awesome-stacks/readme/README.md) ]
 

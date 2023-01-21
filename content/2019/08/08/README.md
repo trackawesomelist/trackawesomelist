@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,7 +45,7 @@
 
 ### IntelliJ / Android Studio / Game Engine resources
 
-*   [Enhancement\_Suite (⭐239)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
+*   [Enhancement\_Suite (⭐241)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
 
 ### 🇷🇺 Russia / Misc
 
@@ -65,7 +65,7 @@
 
 ### Icons
 
-*   [iconify-react (⭐179)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐182)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 

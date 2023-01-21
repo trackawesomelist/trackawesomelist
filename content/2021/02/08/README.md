@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,9 +53,8 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐425)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐427)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
-*   [Falsehoods about Cars (⭐6)](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
 
 ### Dates and Time
 
@@ -95,7 +94,7 @@
 
 ### Phone Numbers
 
-*   [Falsehoods about Phone Numbers (⭐14k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
+*   [Falsehoods about Phone Numbers (⭐15k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
 
 ### Postal Addresses
 
@@ -118,11 +117,15 @@
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
 *   [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An attempt to establish a list of falsehoods about testing.
 *   [Falsehoods about Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why search (including analysis, tokenization, highlighting) is deceptively complex.
-*   [Falsehoods about Bitcoin (⭐36)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐37)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 *   [Falsehoods about Pagination](https://www.hezmatt.org/\~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - Why your pagination algorithm is giving someone (possibly you) a headache.
 *   [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - Diversity of file-systems and OSes makes file paths a little harder than we might think of.
 *   [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 *   [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There are a few things about `/dev/urandom` and `/dev/random` that are repeated again and again. Still they are false.
+
+### Transportation
+
+*   [Falsehoods about Cars (⭐6)](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
 
 ### Typography
 

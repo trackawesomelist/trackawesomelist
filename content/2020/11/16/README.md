@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 16, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-bitwarden (⭐19)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+*   [tmux-bitwarden (⭐20)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -62,39 +62,33 @@
 
 ### Games
 
-*   [AsteroidsWasm (⭐133)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
+*   [AsteroidsWasm (⭐134)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 
-## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
-
-### Online Books
-
-*   [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
-
-## [11. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Image Optimizers / Meetups
 
 *   [Optimizt (⭐785)](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Domain-specific language
 
 *   [absinthe\_gen (⭐27)](https://github.com/sashman/absinthe_gen) - Scaffold generator for Absithne.
 
-## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [12. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### :sparkles: Tutorials
 
 *   [Ruby neural networks](https://www.honeybadger.io/blog/ruby-neural-networks/)
 
-## [14. Awesome React](/content/enaqx/awesome-react/README.md)
+## [13. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Frameworks
 
 *   [aleph.js (⭐4.9k)](https://github.com/alephjs/aleph.js) - The React Framework in Deno
 
-## [15. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
@@ -112,13 +106,13 @@
 
 *   [Pointcloudprinter :octocat: (⭐141)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 
-## [16. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [15. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Learning / Switzerland
 
 *   [Local Linkages](https://locallinkages.org/) - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
 
-## [17. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [16. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Forms / Normal Forms
 

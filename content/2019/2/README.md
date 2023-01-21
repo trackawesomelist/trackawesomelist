@@ -2,7 +2,7 @@
 
 40 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -176,11 +176,11 @@
 
 ### Misc
 
-*   [Model2App (⭐131)](https://github.com/Q-Mobile/Model2App) - Turn your data model into a working CRUD app.
+*   [Model2App (⭐133)](https://github.com/Q-Mobile/Model2App) - Turn your data model into a working CRUD app.
 
 ### Animation
 
-*   [Comets (⭐591)](https://github.com/cruisediary/Comets) - Animating Particles.
+*   [Comets (⭐593)](https://github.com/cruisediary/Comets) - Animating Particles.
 
 ### Audio
 
@@ -197,11 +197,11 @@
 
 ### Dependency Injection
 
-*   [Pure (⭐361)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐363)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
-*   [PMKVObserver (⭐708)](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
+*   [PMKVObserver (⭐707)](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
 *   [RxSwift (⭐23k)](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx).
 
 ### Images / Barcode
@@ -246,7 +246,7 @@
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐376)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐378)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
 ## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -258,8 +258,8 @@
 
 ### Tools / XML
 
-*   [denopkg (⭐226)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
-*   [elm-live-reload (⭐63)](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+*   [denopkg (⭐230)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [elm-live-reload (⭐62)](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 
 ### Resources in Other Languages / Japanese
 
@@ -282,7 +282,7 @@
 ### Cookbooks
 
 *   [pizza-dough (⭐3k)](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
-*   [mozzarella (⭐54)](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella.
+*   [mozzarella (⭐55)](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella.
 
 ## [19. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
@@ -300,7 +300,7 @@
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐29)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐30)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [22. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -476,7 +476,7 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Flux (⭐372)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
+*   [Flux (⭐374)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 
 ### Top / Game Engine resources
 
@@ -545,17 +545,17 @@
 
 ### Testing
 
-*   [crytic (⭐58)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
+*   [crytic (⭐59)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
 
 ## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Feast (⭐3.8k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐3.9k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyOD (⭐6.4k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
+*   [PyOD (⭐6.6k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
 ---
 

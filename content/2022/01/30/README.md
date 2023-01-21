@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐528)](https://github.com/aws-amplify/amplify-ui/)
+  Source code \*: [:octocat: (⭐568)](https://github.com/aws-amplify/amplify-ui/)
 
 
 
@@ -37,7 +37,7 @@
 
 ### Tools / Network protocol
 
-*   [MTF (⭐18)](https://github.com/artemiosv/etfa2015) - A Modbus/TCP Fuzzer for testing internetworked industrial systems
+*   [MTF (⭐19)](https://github.com/artemiosv/etfa2015) - A Modbus/TCP Fuzzer for testing internetworked industrial systems
 
 ## [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -55,39 +55,39 @@
 
 ### Form Components / Type Select
 
-*   [rich-textarea (⭐158)](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
+*   [rich-textarea (⭐176)](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [MetaTube (⭐130)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
+*   [MetaTube (⭐153)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
 
 ### Software / Feed Readers
 
-*   [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://www.jarr.info/), [Source Code (⭐101)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Python`
+*   [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://www.jarr.info/), [Source Code (⭐100)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐273)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
+*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐278)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Supysonic (⭐228)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python`
+*   [Supysonic (⭐229)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python`
 
 ### Software / Office Suites
 
-*   [Grist](https://getgrist.com/) - Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format. Alternative to Airtable. ([Demo](https://docs.getgrist.com), [Source Code (⭐3.5k)](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python`
+*   [Grist](https://getgrist.com/) - Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format. Alternative to Airtable. ([Demo](https://docs.getgrist.com), [Source Code (⭐3.6k)](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python`
 
 ### Software / Pastebins
 
-*   [wantguns/bin (⭐95)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust`
+*   [wantguns/bin (⭐98)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust`
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [aminography/PrimeCalendar (⭐51)](https://github.com/aminography/PrimeCalendar) - Provides all of the java.util.Calendar functionalities for Civil, Persian, Hijri, Japanese, etc, as well as their conversion to each other.
+*   [aminography/PrimeCalendar (⭐52)](https://github.com/aminography/PrimeCalendar) - Provides all of the java.util.Calendar functionalities for Civil, Persian, Hijri, Japanese, etc, as well as their conversion to each other.
 
 ## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Crates / Utils
 
-*   [Yew Interop (⭐31)](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
+*   [Yew Interop (⭐32)](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

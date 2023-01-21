@@ -2,7 +2,7 @@
 
 20 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -95,24 +95,24 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐427)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐428)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐915)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐923)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐599)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐601)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Packages / Data validation
 
-*   [is-my-json-valid (⭐947)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
+*   [is-my-json-valid (⭐948)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐702)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
-*   [generator-nm (⭐733)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
+*   [node-module-boilerplate (⭐704)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [generator-nm (⭐735)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [8. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
@@ -578,7 +578,7 @@ to this,
 
 ### Natural Language Processing
 
-*   [pocketsphinx-ruby (⭐253)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
+*   [pocketsphinx-ruby (⭐254)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 
 ## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -605,7 +605,7 @@ to this,
 
 ### CSV
 
-*   [csv (⭐444)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐446)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Date and Time
 
@@ -613,12 +613,12 @@ to this,
 
 ### Debugging
 
-*   [eper (⭐439)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐438)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
 *   [ex\_minimatch (⭐11)](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
-*   [fs (⭐215)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐217)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### Formulars
 
@@ -654,7 +654,7 @@ to this,
 
 ### Miscellaneous
 
-*   [huex (⭐60)](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
+*   [huex (⭐62)](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 
 ### ORM and Datamapping
 
@@ -662,7 +662,7 @@ to this,
 
 ### OTP
 
-*   [immortal (⭐169)](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
+*   [immortal (⭐170)](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
 
 ### Queue
 
@@ -676,7 +676,7 @@ to this,
 
 ### Templating
 
-*   [mustache (⭐50)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
+*   [mustache (⭐51)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 
 ### Testing
 

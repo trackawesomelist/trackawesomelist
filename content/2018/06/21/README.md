@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,13 +22,13 @@
 
 ### UI
 
-*   [Facebook Reactions (⭐301)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
+*   [Facebook Reactions (⭐313)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Converters
 
-*   [money (⭐26)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.5k)](https://github.com/RubyMoney/money))
+*   [money (⭐25)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
 
 ## [5. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐415)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐419)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐245)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [pganalyze collector (⭐248)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
 *   [PgHero (⭐6.8k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 
 ### DevOps / Zabbix
@@ -118,7 +118,7 @@
 
 ### Cards / Barcode
 
-*   [VerticalCardSwiper (⭐1.1k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
+*   [VerticalCardSwiper (⭐1.2k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
 
 ## [14. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -175,7 +175,7 @@
 
 ### Contents / Libraries
 
-*   [Python HL7 (⭐236)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+*   [Python HL7 (⭐238)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
 
 ### Contents / PHR
 
@@ -191,12 +191,12 @@
 
 ### Contents / Hardware
 
-*   [Gluco (⭐27)](https://github.com/nebulabio/gluco) - Glucometer.
+*   [Gluco (⭐28)](https://github.com/nebulabio/gluco) - Glucometer.
 *   [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
 
 ### Contents / Bioinformatics
 
-*   [ADAM (⭐936)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
+*   [ADAM (⭐937)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
 *   [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
 
 ---

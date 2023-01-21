@@ -2,7 +2,7 @@
 
 38 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Misc. Tools
 
-*   [CaTeX (⭐7)](https://github.com/Alexis-benoist/CaTeX) - Concatenates LaTeX documents with attention for properly merging the preamble.
+*   [CaTeX (⭐8)](https://github.com/Alexis-benoist/CaTeX) - Concatenates LaTeX documents with attention for properly merging the preamble.
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -42,8 +42,8 @@
 
 ### Command-Line Productivity
 
-*   [SHML (⭐420)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
-*   [sudocabulary (⭐147)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
+*   [SHML (⭐421)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
+*   [sudocabulary (⭐151)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -369,7 +369,7 @@ git rev-list --count <branch-name>
 
 ### Packages / Filesystem
 
-*   [filehound (⭐208)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+*   [filehound (⭐209)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
 ## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -414,7 +414,7 @@ git rev-list --count <branch-name>
 
 ### Game
 
-*   [MonoGame (⭐9k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐9.1k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ### ORM
 
@@ -677,7 +677,7 @@ git flow init -d
 ### Chatting
 
 *   [chatty (⭐34)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
-*   [cog (⭐920)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+*   [cog (⭐921)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 *   [ExIrc (⭐145)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 *   [Guri (⭐19)](https://github.com/elvio/guri) - Automate tasks using chat messages.
 *   [kaguya (⭐72)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
@@ -686,7 +686,7 @@ git flow init -d
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐618)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐620)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
@@ -706,7 +706,7 @@ git flow init -d
 
 ### Images
 
-*   [ex\_image\_info (⭐88)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐87)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ### Logging
 
@@ -764,7 +764,7 @@ git flow init -d
 ### Template Engine
 
 *   [Kilt (⭐144)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐224)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Slang (⭐227)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ### Web Frameworks
 

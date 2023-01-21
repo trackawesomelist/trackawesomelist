@@ -2,7 +2,7 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 202 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 202 · 🏷️ Miscellaneous
 
 [ [Daily](/content/j0hnm4r5/awesome-creative-technology/README.md) / Weekly / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
 

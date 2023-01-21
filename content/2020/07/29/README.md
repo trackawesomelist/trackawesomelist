@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Tools and session management
 
-*   [vim-tmux-navigator (⭐3.9k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+*   [vim-tmux-navigator (⭐4k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
 ## [6. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
@@ -72,18 +72,18 @@
 
 ### General
 
-*   [GitHub repository (⭐30k)](https://github.com/dotnet/aspnetcore) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore?style=flat-square\&cacheSeconds=86400) The official Blazor repository (which is the ASP.NET Core repository).
+*   [GitHub repository (⭐31k)](https://github.com/dotnet/aspnetcore) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore?style=flat-square\&cacheSeconds=86400) The official Blazor repository (which is the ASP.NET Core repository).
 
 ### Tools & Utilities / Others
 
-*   [BlazorApplicationInsights (⭐120)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
+*   [BlazorApplicationInsights (⭐123)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-grid-responsive (⭐27)](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x.
-*   [@geospoc/v-mapbox (⭐131)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
+*   [@geospoc/v-mapbox (⭐134)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 *   [@geospoc/v-mapbox-geocoder (⭐8)](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 
 ### Components & Libraries / UI Utilities
@@ -92,11 +92,11 @@
 
 ### Components & Libraries / Utilities
 
-*   [v-intl (⭐15)](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
+*   [v-intl (⭐14)](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
 
 ### Components & Libraries / Scaffold
 
-*   [janak (⭐26)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
+*   [janak (⭐25)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 
 ## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

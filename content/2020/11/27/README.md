@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 27, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 
 ### Messaging
 
-*   [ChatLayout (⭐500)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
+*   [ChatLayout (⭐523)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
 
 ## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -87,13 +87,7 @@
 
 *   [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT (⭐1.2k)](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
 
-## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Applets / Design Tooling
-
-*   [Extensions Sync (⭐219)](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
-
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

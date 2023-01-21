@@ -1,8 +1,8 @@
 # Awesome List Updates on Apr 14, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,37 +12,13 @@
 
 *   [cam-geom](https://crates.io/crates/cam-geom): Geometric models of cameras for photogrammetry. ![crates.io](https://img.shields.io/crates/v/cam-geom.svg)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Awk / Non-X86
-
-*   [Awk](https://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
-*   [GNU awk](https://learnbyexample.github.io/learn_gnuawk/) - Sundeep Agarwal
-
-### Perl / PicoLisp
-
-*   [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/) - Sundeep Agarwal
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
-
-### Ruby / Tornado
-
-*   [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal
-
-### Sed / Play Scala
-
-*   [GNU sed](https://learnbyexample.github.io/learn_gnused/) - Sundeep Agarwal
-*   [Sed - An Introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html) - Bruce Barnett
-
-## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### WebApi
 
 *   [Sitecore Shared Source: Web API Client (⭐7)](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
 
-## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 
@@ -50,10 +26,10 @@
 
 ### C / Syntax highlighting packages
 
-*   [8-Bit Wonderland (⭐18)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
-*   [Infinity (⭐8)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
+*   [8-Bit Wonderland (⭐22)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
+*   [Infinity (⭐10)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
 
-## [5. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [4. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Cassandra Use Cases
 
@@ -122,13 +98,13 @@
 *   [Instaclustr Exporter (⭐54)](https://github.com/instaclustr/cassandra-exporter) - Java agent that exports Cassandra metrics to Prometheus.
 *   [Instaclustr Go Client for Instaclustr Icarus (⭐4)](https://github.com/instaclustr/instaclustr-icarus-go-client) - Go client for Instaclustr Icarus sidecar.
 
-## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Build and Package / Other / unknown licence
 
 *   [cmake-ada-offa (⭐11)](https://github.com/offa/cmake-ada) - Ada language support for CMake.
 
-## [7. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [6. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Food
 
@@ -139,13 +115,13 @@
 
 *   [awesome-sustainability-jobs (⭐367)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
-## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Installation Media / Newsletters
 
-*   [nixos-up (⭐166)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+*   [nixos-up (⭐169)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 
-## [9. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
+## [8. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
 ### Articles and Documentation
 
@@ -157,7 +133,7 @@
 *   [Interaction Media Features and Their Potential (for Incorrect Assumptions](https://css-tricks.com/interaction-media-features-and-their-potential-for-incorrect-assumptions/) - On detection of various input devices.
 *   [Mobile Performance Inequality Gap](https://infrequently.org/2021/03/the-performance-inequality-gap/) - Why you need to care of performance on cheap smartphones.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
@@ -165,11 +141,11 @@
 
 ### Persistent object databases
 
-*   [ubiquitous (⭐23)](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [ubiquitous (⭐24)](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Miscellaneous
 
-*   👍 [Qtools (⭐195)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
+*   👍 [Qtools (⭐197)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 
 ### Portability layers
 
@@ -204,7 +180,7 @@
 
 ### Apps / Third-party APIs
 
-*   [Parachute (⭐66)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Parachute (⭐74)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Data validation / Third-party APIs
 
@@ -212,17 +188,17 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [trivial-benchmark (⭐37)](https://github.com/Shinmera/trivial-benchmark) - Tiny benchmarking library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [trivial-benchmark (⭐33)](https://github.com/Shinmera/trivial-benchmark) - Tiny benchmarking library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Documentation builders / Third-party APIs
 
-*   [Staple (⭐48)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Staple (⭐50)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Files and directories / Third-party APIs
 
 *   [pathname-utils (⭐9)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib](https://directory.fsf.org/wiki/License:Zlib).
     *   [filesystem-utils (⭐10)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
-    *   [file-attributes (⭐8)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
+    *   [file-attributes (⭐9)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
 
 ### Git / Third-party APIs
 
@@ -239,7 +215,7 @@
 
 *   [verbose](https://shinmera.github.io/verbose) - A fast and highly configurable logging framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [11. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [10. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Theory Teaching
 

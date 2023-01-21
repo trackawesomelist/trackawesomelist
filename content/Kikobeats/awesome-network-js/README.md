@@ -2,7 +2,7 @@
 
 A :tophat: list of network layer resources written pure JS.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kikobeats/awesome-network-js/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) · ⭐ 518 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kikobeats/awesome-network-js/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) · ⭐ 518 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/Kikobeats/awesome-network-js/week/README.md) / [Overview](/content/Kikobeats/awesome-network-js/readme/README.md) ]
 

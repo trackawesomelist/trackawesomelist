@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -52,7 +52,7 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [mocha-vite-puppeteer (⭐36)](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
+*   [mocha-vite-puppeteer (⭐37)](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 
 ## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

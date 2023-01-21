@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,7 +29,7 @@
 
 ### Templates / Preferences
 
-*   [Smart Washing Machine (⭐720)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
+*   [Smart Washing Machine (⭐751)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -47,13 +47,13 @@
 
 ### Charts
 
-*   [d3-upset (⭐13)](https://github.com/chuntul/d3-upset) - Functions for plotting an UpSet plot \[upset, bar, intersections, venn, relationships]
+*   [d3-upset (⭐14)](https://github.com/chuntul/d3-upset) - Functions for plotting an UpSet plot \[upset, bar, intersections, venn, relationships]
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [wezterm (⭐6.5k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐6.8k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -97,11 +97,11 @@
 
 ### Framework Components
 
-*   [Athena Event Dispatcher (⭐11)](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
+*   [Athena Event Dispatcher (⭐12)](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
 
 ### Web Frameworks
 
-*   [Athena (⭐163)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐166)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -271,7 +271,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐691)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐714)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

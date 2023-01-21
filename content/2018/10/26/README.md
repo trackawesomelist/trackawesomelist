@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -113,7 +113,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml5 (⭐5.8k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
+*   [ml5 (⭐5.9k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
 
 ## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

@@ -2,7 +2,7 @@
 
 33 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,11 +49,11 @@
 
 ### Command-Line Productivity
 
-*   [sman (⭐275)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
+*   [sman (⭐277)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 
 ### Shell Script Development / Directory Navigation
 
-*   [is.sh (⭐147)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
+*   [is.sh (⭐151)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -105,7 +105,7 @@
 ### Bindings
 
 *   [dvulkan (⭐16)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*   [VulkanSharp (⭐492)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
+*   [VulkanSharp (⭐495)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
 *   [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. \[BSD]
 
 ## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
@@ -148,7 +148,7 @@
 
 ### Authorization
 
-*   [AccessGranted (⭐748)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐757)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -160,7 +160,7 @@
 
 ### Geolocation
 
-*   [rgeo (⭐951)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐953)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ### Git Tools
 
@@ -168,7 +168,7 @@
 
 ### Queues and Messaging
 
-*   [Gush (⭐988)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
+*   [Gush (⭐987)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -581,7 +581,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Geolocation
 
-*   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
+*   [segseg (⭐6)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
 ## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 

@@ -2,34 +2,46 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### The Generative AI Area: history, maps, and definitions
+
+*   \[🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
+*   [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
+
+### Inbox: Stable Diffusion / References Collection about Stable Diffusion
+
+*   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
+*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion (⭐785)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
+*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share\&utm_medium=web2x\&context=3): a general update on all the "most important" news/repos available
+*   [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
+*   [Stable Diffusion Akashic Records | Maks-s/sd-akashic (⭐1.3k)](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
+*   [Voldy Guide](https://rentry.co/voldy): detailed beginners guide for Stable Diffusion
+*   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
+*   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
+
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [Useful Prompt Engineering tools and resources | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/)
 *   [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/)
 *   [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
 
-### Deforum
+### Inbox: Stable Diffusion / For text-to-image
 
-*   [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
-
-### Stable Diffusion Inbox
-
-*   [examples/stable-diffusion-finetuning at main · LambdaLabsML/examples (⭐482)](https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning): Fine Tuning Stable Diffusion
-*   [lkwq007/stablediffusion-infinity (⭐2.8k)](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas
+*   [examples/stable-diffusion-finetuning at main · LambdaLabsML/examples (⭐525)](https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning): Fine Tuning Stable Diffusion
+*   [lkwq007/stablediffusion-infinity (⭐2.9k)](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas
 *   \[🔥🔥🔥] [ML News Stable Diffusion Takes Over! (Open Source AI Art) by Yannic Kilcher - YouTube](https://www.youtube.com/watch?v=xbxe-x6wvRw): video with examples, updates, and discussion about the impact of Stable Diffusion
 *   [Diffusion Models in Vision: A Survey | DeepAI](https://deepai.org/publication/diffusion-models-in-vision-a-survey): paper about the diffusion techniques which also discuss the relation with other generative deep learning models
-*   [ThereforeGames/txt2mask (⭐392)](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
-*   [basujindal/stable-diffusion (⭐2.5k)](https://github.com/basujindal/stable-diffusion): Optimized Stable Diffusion modified to run on lower GPU VRAM
+*   [ThereforeGames/txt2mask (⭐407)](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
+*   [basujindal/stable-diffusion (⭐2.6k)](https://github.com/basujindal/stable-diffusion): Optimized Stable Diffusion modified to run on lower GPU VRAM
 *   [Stable WarpFusion v0.5 (restricted to patreons)](https://www.patreon.com/sxela): conditioning video frames with Stable Diffusion by [@devdef](https://twitter.com/devdef)
-*   [nateraw/stable-diffusion-videos (⭐1.7k)](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
+*   [nateraw/stable-diffusion-videos (⭐1.9k)](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [getimg.ai](https://getimg.ai/): Generate photo-realistic images from text using Stable Diffusion
 *   [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
@@ -40,35 +52,23 @@
 *   [tencentarc/gfpgan – Run with an API on Replicate](https://replicate.com/tencentarc/gfpgan)
 *   [andreasjansson/stable-diffusion-wip – Run with an API on Replicate](https://replicate.com/andreasjansson/stable-diffusion-wip)
 
-### Stable Diffusion Inbox / Web UI for Stable Diffusion via Google Colab
+### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐24k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
-*   [GitHub - sd-webui/stable-diffusion-webui (⭐6k)](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
+*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐28k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
+*   [GitHub - sd-webui/stable-diffusion-webui (⭐6.1k)](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
 *   [Stable\_Diffusion\_WebUi\_Simplified.ipynb - Colaboratory](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb#scrollTo=gk1TyBA0Arxt)
 
-### Stable Diffusion Inbox / References Collection about Stable Diffusion
+### Hypertechniques / Textual Inversion
 
-*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion (⭐733)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
-*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share\&utm_medium=web2x\&context=3): a general update on all the "most important" news/repos available
-*   [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
-*   [Stable Diffusion Akashic Records | Maks-s/sd-akashic (⭐1.2k)](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
-*   [Voldy Guide](https://rentry.co/voldy): detailed beginners guide for Stable Diffusion
-*   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
-*   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
-
-### History / References Collection about Stable Diffusion
-
-*   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
-*   \[🔥🔥🔥][AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
-*   [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
-
-### Textual Inversion / References Collection about Stable Diffusion
-
-*   [rinongal/textual\_inversion (⭐1.8k)](https://github.com/rinongal/textual_inversion): repo contains the official code, data and sample inversions of Textual Inversion paper
+*   [rinongal/textual\_inversion (⭐1.9k)](https://github.com/rinongal/textual_inversion): repo contains the official code, data and sample inversions of Textual Inversion paper
 *   [2208.01618 An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618): paper that describes the Textual Inversion technique
 *   [sd-concepts-library (Stable Diffusion concepts library)](https://huggingface.co/sd-concepts-library): Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
 
-### Creative Uses of Text-to-Image Tools / References Collection about Stable Diffusion
+### Hypertechniques / Deforum
+
+*   [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
+
+### Creative Uses of Generative AI Tools / Deforum
 
 *   [De-painting historical photographs | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgbug2/depainting_historical_photographs/)
 *   [img2img animation with hands | Reddit](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/)
@@ -80,20 +80,16 @@
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐5.3k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐6k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 
-### Courses and Educational Materials / References Collection about Stable Diffusion
+### Courses and Educational Materials / Deforum
 
 *   [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
 *   [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
-*   [GitHub - johnowhitaker/aiaiart (⭐476)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
+*   [GitHub - johnowhitaker/aiaiart (⭐492)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
 *   [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
 
-### Exploring Images Databases / References Collection about Stable Diffusion
-
-*   [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
-
-### Discussions and Philosophy / References Collection about Stable Diffusion
+### Discussions and Philosophy / Papers Collections
 
 *   [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
 *   [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
@@ -103,20 +99,30 @@
 *   [Rutkowski battling AI art overlord | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgv0dw/rutkowski_battling_ai_art_overlord/)
 *   [Instead of mining cryptocoins with GPUs, are we now mining art? | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xg8s8e/instead_of_mining_cryptocoins_with_gpus_are_we/)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Promptism
+
+*   \[🔥] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
+*   \[🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
+*   \[🔥] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
+*   [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
+*   \[🔥] [yuval-alaluf/hyperstyle (⭐885)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
+*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐689)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
+
+### Image Synthesis / Collections
+
+*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐45)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
+
+### Image Synthesis / Generative Adversarial Networks (GANs)
 
 *   [These Bored Apes Do Not Exist: GAN to NFT Pipeline | Medium](https://medium.com/@nathancooperjones/these-bored-apes-do-not-exist-6bed2c73f02c)
-*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐43)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
-*   \[🔥🚀] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
-*   \[🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
-*   \[🔥🚀] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
-*   \[🔍] [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
-*   \[🔥] [yuval-alaluf/hyperstyle (⭐883)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
-*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐687)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
-*   \[🔥] [dvschultz/stylegan3 (⭐82)](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
+*   \[🔥] [dvschultz/stylegan3 (⭐84)](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
 *   \[🚀] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Datasets / Generative Adversarial Networks (GANs)
+
+*   [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
+
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
 *   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 
@@ -167,11 +173,11 @@
 
 ### Color / Diagnostics
 
-*   [uga-rosa/ccc.nvim (⭐306)](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
+*   [uga-rosa/ccc.nvim (⭐331)](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
 
 ### Motion / Diagnostics
 
-*   [gen740/SmoothCursor.nvim (⭐171)](https://github.com/gen740/SmoothCursor.nvim) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
+*   [gen740/SmoothCursor.nvim (⭐180)](https://github.com/gen740/SmoothCursor.nvim) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -195,7 +201,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Grid (⭐666)](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
+*   :tada: [Grid (⭐677)](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
 
 ---
 

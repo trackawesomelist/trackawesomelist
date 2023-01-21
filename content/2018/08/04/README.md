@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -165,7 +165,7 @@
 *   NoSQL Databases
     *   [cassandra-driver (⭐1.3k)](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
     *   [happybase (⭐598)](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
-    *   [kafka-python (⭐5k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
+    *   [kafka-python (⭐5.1k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
     *   [py2neo](https://py2neo.org/) - A client library and toolkit for working with Neo4j.
     *   [pymongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
     *   [redis-py (⭐11k)](https://github.com/andymccurdy/redis-py) - The Python client for Redis.

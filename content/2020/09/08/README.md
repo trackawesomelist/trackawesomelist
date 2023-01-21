@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-router-tab (⭐420)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-router-tab (⭐424)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Component Libraries
 
-*   [Joomla UI custom elements (⭐25)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
+*   [Joomla UI custom elements (⭐24)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
 ## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -364,13 +364,13 @@
 
 ### Fonts
 
-*   [SwiftUI-FontIcon (⭐79)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
+*   [SwiftUI-FontIcon (⭐81)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
 
 ## [11. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Utilities
 
-*   [LibreSelery (⭐114)](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions.
+*   [LibreSelery (⭐117)](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions.
 
 ## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -384,8 +384,8 @@
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [cl-ssh-keys (⭐11)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-bcrypt (⭐9)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-    *   see also [cl-pass (⭐24)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
+*   [cl-bcrypt (⭐10)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   see also [cl-pass (⭐25)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 
 ### Python
 
@@ -403,7 +403,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐567)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐571)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [15. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -447,12 +447,12 @@
 
 ### Game Development
 
-*   [crystal-chipmunk (⭐38)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐13)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐43k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-chipmunk (⭐39)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐50)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐43k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐52)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ---
 

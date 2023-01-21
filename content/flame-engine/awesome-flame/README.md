@@ -2,7 +2,7 @@
 
 An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 634 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 634 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 

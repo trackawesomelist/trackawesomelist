@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Misc
 
-*   [anyolite (⭐121)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
+*   [anyolite (⭐125)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Antares SQL (⭐897)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
+*   [Antares SQL (⭐946)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 
 ### Components & Libraries / UI Components
 
@@ -55,26 +55,26 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-windicss-starter (⭐169)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
+*   [vite-vue2-windicss-starter (⭐173)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-node (⭐609)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
+*   [vite-plugin-node (⭐624)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 
 ### Framework-agnostic Plugins / Bundling
 
 *   [vite-plugin-importer (⭐47)](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
-*   [vite-plugin-banner (⭐39)](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
+*   [vite-plugin-banner (⭐41)](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-tsconfig-paths (⭐633)](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
+*   [vite-tsconfig-paths (⭐670)](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 *   [vite-plugin-theme (⭐111)](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐600)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐604)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 
 ### Vue / Routing
 
@@ -82,12 +82,12 @@
 
 ### Vue / Loaders
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐455)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐287)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐464)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐302)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 ### Vue / SSG
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-ssg (⭐884)](https://github.com/antfu/vite-ssg) - Server-side generation.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-ssg (⭐907)](https://github.com/antfu/vite-ssg) - Server-side generation.
 
 ### Vue / Ecosystem
 
@@ -101,7 +101,7 @@
 
 ### Software / Pastebins
 
-*   [FlashPaper (⭐157)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`
+*   [FlashPaper (⭐165)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`
 
 ## [9. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 

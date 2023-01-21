@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -104,54 +104,54 @@
 ### 2D / Godot 3.2+
 
 *   [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
-*   [SuperStarfighter (⭐365)](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena.
-*   [TuxBuilder (⭐192)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
+*   [SuperStarfighter (⭐380)](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena.
+*   [TuxBuilder (⭐195)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
 ### 2D / Godot 3.1
 
-*   [Blipshift (⭐13)](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game.
-*   [Circle Jump (⭐126)](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
-*   [Haldric (⭐374)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
+*   [Blipshift (⭐14)](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game.
+*   [Circle Jump (⭐130)](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
+*   [Haldric (⭐375)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 *   [SealedBite](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam.
-*   [Unknown Horizons (⭐454)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
+*   [Unknown Horizons (⭐480)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 ### 2D / Godot 3.0
 
-*   [Breakable (⭐58)](https://github.com/didier-v/breakable) - A breakout-like game.
+*   [Breakable (⭐60)](https://github.com/didier-v/breakable) - A breakout-like game.
 *   [Memory Game (⭐25)](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
 
 ### 2D / Godot 2.1
 
 *   [BlockPop (⭐25)](https://github.com/vnen/blockpop) - A simple Breakout clone.
 *   [Bombs (⭐14)](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
-*   [Captain Holetooth (⭐57)](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
-*   [Dolphin Island 2 (⭐162)](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
-*   [DynaDungeons (⭐193)](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
+*   [Captain Holetooth (⭐59)](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
+*   [Dolphin Island 2 (⭐163)](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
+*   [DynaDungeons (⭐194)](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 *   [Kraken-Rampage (⭐4)](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
 *   [Minehunter (⭐14)](https://github.com/genete/Minehunter) - A Minesweeper clone.
 *   [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 *   [Mountain of Hope (⭐11)](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015).
 *   [Ninja-Training (⭐34)](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 *   [No hope (⭐8)](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
-*   [Planet Rider (⭐32)](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
-*   [Platshoot (⭐41)](https://github.com/Calinou/platshoot) - A 2D shooter game.
-*   [Ringed (⭐76)](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
-*   [Tanks of Freedom (⭐994)](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
+*   [Planet Rider (⭐33)](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
+*   [Platshoot (⭐40)](https://github.com/Calinou/platshoot) - A 2D shooter game.
+*   [Ringed (⭐77)](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
+*   [Tanks of Freedom (⭐1k)](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 *   [Three Hungry Mice (⭐4)](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
 
 ### 3D / Godot 3.2+
 
-*   [Broken Seals (⭐271)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
+*   [Broken Seals (⭐287)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
 *   [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
-*   [Thrive (⭐1.8k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
+*   [Thrive (⭐1.9k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 ### 3D / Godot 3.1
 
-*   [Rapid Rescue (⭐61)](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth.
+*   [Rapid Rescue (⭐62)](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth.
 
 ### 3D / Godot 3.0
 
-*   [Meteorite (⭐277)](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
+*   [Meteorite (⭐284)](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
 
 ### 3D / Godot 2.1
 
@@ -159,20 +159,20 @@
 
 ### Projects / Godot 3.2+
 
-*   [Godello (⭐552)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
-*   [Material Maker (⭐2.1k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
-*   [Pixelorama (⭐3.7k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
+*   [Godello (⭐572)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
+*   [Material Maker (⭐2.2k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
+*   [Pixelorama (⭐4k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
 
 ### Templates / Godot 3.2+
 
-*   [First Person Starter (⭐286)](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
-*   [Minimum Game (⭐44)](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving.
-*   [Multiplayer First Person Shooter (⭐54)](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - Multiplayer first person shooter example project.
-*   [Multiplayer Third Person Shooter (⭐52)](https://github.com/jasonswearingen/TPS-MP) - Multiplayer third person shooter example project.
+*   [First Person Starter (⭐311)](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
+*   [Minimum Game (⭐48)](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving.
+*   [Multiplayer First Person Shooter (⭐56)](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - Multiplayer first person shooter example project.
+*   [Multiplayer Third Person Shooter (⭐54)](https://github.com/jasonswearingen/TPS-MP) - Multiplayer third person shooter example project.
 
 ### Templates / Godot 3.1
 
-*   [Godot-GameTemplate (⭐752)](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
+*   [Godot-GameTemplate (⭐778)](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
 
 ### Demos / Godot 3.2+
 
@@ -180,67 +180,67 @@
 
 ### Demos / Godot 3.1
 
-*   [Realistic Water Shader (⭐397)](https://github.com/godot-extended-libraries/godot-realistic-water) - Realistic 3D water shader with foam and caustics.
+*   [Realistic Water Shader (⭐412)](https://github.com/godot-extended-libraries/godot-realistic-water) - Realistic 3D water shader with foam and caustics.
 *   [OpenRPG (⭐1.2k)](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template.
-*   [voxelgame (⭐304)](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot\_voxel module.
+*   [voxelgame (⭐310)](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot\_voxel module.
 
 ### Demos / Godot 3.0
 
-*   [Open Source A-RPG Demo (⭐840)](https://github.com/GDQuest/godot-make-pro-2d-games) - RPG demo.
+*   [Open Source A-RPG Demo (⭐858)](https://github.com/GDQuest/godot-make-pro-2d-games) - RPG demo.
 
 ### Demos / Godot 2.1
 
 *   [FPS Test (⭐58)](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
 *   [Pathfinding 2d (⭐65)](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
 *   [UDP Snapshot interpolation (⭐59)](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
-*   [UDP State synchronization (⭐139)](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
-*   [Voxel Game (⭐67)](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
+*   [UDP State synchronization (⭐140)](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
+*   [Voxel Game (⭐68)](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GodotPhoenixChannels (⭐200)](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.\*).
-*   [GodotTIE (⭐265)](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
-*   [gterm (⭐87)](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot >= 2.1).
-*   [GUT (⭐1k)](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
-*   [InGrid (⭐72)](https://github.com/Larpon/ingrid) - Infinite scrolling grid (Godot 3.x).
-*   [Tiled importer (⭐667)](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
-*   [TileSet Builder (⭐13)](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
+*   [GodotPhoenixChannels (⭐209)](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.\*).
+*   [GodotTIE (⭐267)](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
+*   [gterm (⭐89)](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot >= 2.1).
+*   [GUT (⭐1.1k)](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
+*   [InGrid (⭐73)](https://github.com/Larpon/ingrid) - Infinite scrolling grid (Godot 3.x).
+*   [Tiled importer (⭐685)](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
+*   [TileSet Builder (⭐15)](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Cartographer (⭐356)](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor.
-*   [Delaunator GDScript (⭐56)](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
-*   [GDGIFExporter (⭐78)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
-*   [GitHub integration (⭐204)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
-*   [GDGotm (⭐39)](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API for [gotm.io](https://gotm.io/).
-*   [godotccd (⭐52)](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
-*   [godotdetour (⭐113)](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
-*   [Godot NExt (⭐739)](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
-*   [Godot Mixing Desk (⭐515)](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code.
-*   [GodotRx (⭐63)](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
-*   [Godot-Trail-System (⭐266)](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
-*   [Level of Detail (LOD) (⭐183)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
-*   [MDFramework (⭐69)](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
-*   [NI mate Motion Capture (⭐28)](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
-*   [Qodot (⭐768)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
-*   [UI Design Tool (⭐237)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
-*   [Volumetrics (⭐258)](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
-*   [VPainter (⭐321)](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
-*   [Waterways (⭐594)](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves.
-*   [Yume Visual Novel Editor (⭐85)](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games.
+*   [Cartographer (⭐361)](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor.
+*   [Delaunator GDScript (⭐60)](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
+*   [GDGIFExporter (⭐83)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
+*   [GitHub integration (⭐211)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
+*   [GDGotm (⭐41)](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API for [gotm.io](https://gotm.io/).
+*   [godotccd (⭐50)](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
+*   [godotdetour (⭐115)](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
+*   [Godot NExt (⭐758)](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
+*   [Godot Mixing Desk (⭐531)](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code.
+*   [GodotRx (⭐67)](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
+*   [Godot-Trail-System (⭐272)](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
+*   [Level of Detail (LOD) (⭐192)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
+*   [MDFramework (⭐73)](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
+*   [NI mate Motion Capture (⭐29)](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
+*   [Qodot (⭐804)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
+*   [UI Design Tool (⭐240)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
+*   [Volumetrics (⭐264)](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
+*   [VPainter (⭐330)](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
+*   [Waterways (⭐633)](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves.
+*   [Yume Visual Novel Editor (⭐87)](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games.
 
 ### Plugins and scripts / Godot 3.1
 
-*   [FMOD GDNative (⭐153)](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
+*   [FMOD GDNative (⭐170)](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
 
 ### Plugins and scripts / Godot 3.0
 
-*   [gdstats (⭐31)](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions.
+*   [gdstats (⭐33)](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions.
 
 ### Plugins and scripts / Godot 2.1
 
 *   [Auto Tile Layer (⭐28)](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format.
-*   [Grass Plugin (⭐61)](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
+*   [Grass Plugin (⭐62)](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
 *   [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 
 ---

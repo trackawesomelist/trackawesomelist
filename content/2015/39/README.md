@@ -2,7 +2,7 @@
 
 33 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -322,7 +322,7 @@
 
 ## [14. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Workflows
+### Articles
 
 *   [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
@@ -348,11 +348,11 @@
 
 ### Application Skeleton
 
-*   [MVC (⭐801)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐804)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 
-*   [phalcon-cron (⭐75)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
+*   [phalcon-cron (⭐76)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
 ## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -538,7 +538,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐329)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐330)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -645,11 +645,11 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 ### Push Notifications
 
-*   [PushSharp (⭐4.4k)](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
+*   [PushSharp (⭐4.3k)](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
 
 ### Static Site Generators
 
-*   [Pretzel (⭐594)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐598)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [29. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -793,7 +793,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashmanager (⭐85)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+*   [bashmanager (⭐86)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 
 ## [33. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 

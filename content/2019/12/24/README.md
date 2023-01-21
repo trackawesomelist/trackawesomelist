@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Tools
 
-*   [formik-antd (⭐551)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
+*   [formik-antd (⭐563)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - Project Management
 
-*   [Re:Backlogs (⭐159)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
+*   [Re:Backlogs (⭐163)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
 
 ## [3. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Tools
 
-*   [renderdoc (⭐6.9k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
+*   [renderdoc (⭐7k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
     *   [RDCtoVkCpp (⭐22)](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
 
 ---

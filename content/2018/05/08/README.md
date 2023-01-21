@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-persian-datetime-picker (⭐552)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
+*   [vue-persian-datetime-picker (⭐554)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 
 ### Components & Libraries / UI Utilities
 
@@ -40,21 +40,17 @@
 
 ### Libraries / Visualization
 
-*   [JChemPaint (⭐91)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
+*   [JChemPaint (⭐92)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 
-*   [SpriteKitEasingSwift (⭐109)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
+*   [SpriteKitEasingSwift (⭐110)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
 
 ### Images / Barcode
 
-*   [BlockiesSwift (⭐57)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
-
-### Maps / Barcode
-
-*   [MapViewPlus (⭐162)](https://github.com/okhanokbay/MapViewPlus) - Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.
+*   [BlockiesSwift (⭐56)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
 
 ### Text / Barcode
 

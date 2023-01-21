@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,44 +18,34 @@
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
-Installs: 10000 | Stars: 3264 | Last update: 6 Mar 2022
+Installs: 10000 | Stars: 3307 | Last update: 12 Jan 2023
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrollbar / Diagnostics
 
-*   [gorbit99/codewindow.nvim (⭐178)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
+*   [gorbit99/codewindow.nvim (⭐205)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
 
 ## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
-### Specialty Topics
+### Specialty Topics / Hair
 
-*   ### Hair
-    *   📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) [:octocat: (⭐33)](https://github.com/zadvorsky/three-fuzzy-mesh) - Simulating fur with cones and gravity.
+*   📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) [:octocat: (⭐34)](https://github.com/zadvorsky/three-fuzzy-mesh) - Simulating fur with cones and gravity.
 
-### Tools / Software
+### Tools / Software / Generative Art
 
-*   ### Generative Art
-    *   #### Imaging
-        *   💸 [DALL·E 2](https://openai.com/dall-e-2/) - Create realistic images from natural language.
-        *   🆓 [Disco Diffusion](http://discodiffusion.com/) [:octocat: (⭐6.3k)](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for AI art and animations.
-        *   💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
-        *   💸 [Replicate](https://replicate.com/) - Run open-source models with a cloud API.
-        *   💸 [Stable Diffusion (⭐37k)](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model.
-    *   #### Modeling
-        *   📚 [Dream Fusion](https://dreamfusion3d.github.io/) - Text-to-3D using 2D diffusion.
-        *   📚 [GET3D](https://nv-tlabs.github.io/GET3D/) [:octocat: (⭐2.5k)](https://github.com/nv-tlabs/GET3D) - (by NVIDIA) Generative model of 3D shapes from images.
-        *   📚 [Magic3D](https://deepimagination.cc/Magic3D/) - High-resolution text-to-3D content creation.
-        *   📚 [NeRF](https://www.matthewtancik.com/nerf) [:octocat: (⭐6.4k)](https://github.com/bmild/nerf) - View synthesis of scenes as neural radiance fields.
-    *   #### Sound
-        *   🆓 [Dittytoy](https://dittytoy.net/) - Create generative music using a simple JavaScript API.
-        *   🆓 [Sonic Pi](https://sonic-pi.net/) [:octocat: (⭐9.7k)](https://github.com/sonic-pi-net/sonic-pi) - Kind of musical instrument where you code music.
+*   Imaging
+    *   💸 [DALL·E 2](https://openai.com/dall-e-2/) - Create realistic images from natural language.
+    *   🆓 [Disco Diffusion](http://discodiffusion.com/) [:octocat: (⭐6.4k)](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for AI art and animations.
+    *   💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
+    *   💸 [Replicate](https://replicate.com/) - Run open-source models with a cloud API.
+    *   💸 [Stable Diffusion (⭐38k)](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model.
 
 ## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [sujit-baniya/goravel (⭐3)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
+*   [sujit-baniya/goravel (⭐5)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

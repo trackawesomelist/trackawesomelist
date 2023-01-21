@@ -2,7 +2,7 @@
 
 26 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -109,7 +109,7 @@ git rev-parse --abbrev-ref HEAD
 
 ### Coding Style
 
-*   [C++ Core Guidelines (⭐36k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+*   [C++ Core Guidelines (⭐37k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
 ## [9. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -228,7 +228,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Packages / URL
 
-*   [url-unshort (⭐98)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [url-unshort (⭐101)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 *   [embedza (⭐57)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
@@ -468,7 +468,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Templates
 
-*   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
+*   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open source email templates.
 
 ### Statistics
 
@@ -493,7 +493,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐552)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐554)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 

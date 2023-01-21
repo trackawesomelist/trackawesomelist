@@ -2,7 +2,7 @@
 
 A collection of awesome things related to the AWS Cloud Development Kit (CDK)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kalaiser/awesome-cdk/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) · ⭐ 1.6K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kalaiser/awesome-cdk/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) · ⭐ 1.6K · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/kalaiser/awesome-cdk/week/README.md) / [Overview](/content/kalaiser/awesome-cdk/readme/README.md) ]
 

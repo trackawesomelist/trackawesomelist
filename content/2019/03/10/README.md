@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -163,18 +163,18 @@
 
 ## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Continuous Integration & Continuous Deployment
+### Software / Continuous Integration & Continuous Deployment
 
-*   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐4.9k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
+*   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐5k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 *   [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code (⭐96)](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
 *   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐26k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
 *   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐81)](https://github.com/factor-io/factor)) `MIT` `Ruby`
-*   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce) `MIT` `Ruby`
-*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.6k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
+*   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
+*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.7k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
 *   [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code (⭐54)](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
 *   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐20k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐236)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
-*   [PHP Censor (⭐658)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
+*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐243)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
+*   [PHP Censor (⭐660)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 

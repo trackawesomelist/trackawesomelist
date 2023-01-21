@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 06, 2020
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 *   [HPX (⭐2.1k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
 *   [Kokkos (⭐1.2k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
-*   [Quantum (⭐483)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+*   [Quantum (⭐490)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -57,29 +57,19 @@
 
 *   ["Visualizing Better Transportation: Data & Tools" by Steve Pepple](https://medium.com/@stevepepple/visualizing-better-transportation-data-tools-e48b8317a21c) - A collection of transportation-related data and tools for the San Francisco Bay Area and other cities in North America, originally collected and discussed at a 2018 Transit Week Event at ARUP in San Francisco.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison (PDF)
-
-### SQL Server / Play Scala
-
-*   [SQL Server for C# Developers Succinctly](https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly) - Sander Rossel
-
-## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Get Commit Difference Count Between Two Branches (⭐5)](https://github.com/jessicalostinspace/commit-difference-action)
 
-## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [sub-events (⭐30)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 
-## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Data Collection
 

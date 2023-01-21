@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [oruga (⭐881)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
+*   [oruga (⭐898)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 
 ### Components & Libraries / UI Utilities
 
@@ -33,7 +33,7 @@
 
 ### Official
 
-*   [Apphud (⭐138)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
+*   [Apphud (⭐143)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
 ## [5. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [neix (⭐179)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
+*   [neix (⭐185)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
 
 ### Telegram / Telegram RSS bots
 
@@ -125,7 +125,7 @@
 
 ### RSS2WIDGET / For browser
 
-*   [Epiboard (⭐305)](https://github.com/Alexays/Epiboard) <sup>[782](https://t.me/s/aboutrss/782)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/epiboard/eblmkpheecdcbflbhbadgfciakhlhdnm)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/fr/firefox/addon/epiboard/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Alexays/Epiboard)
+*   [Epiboard (⭐309)](https://github.com/Alexays/Epiboard) <sup>[782](https://t.me/s/aboutrss/782)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/epiboard/eblmkpheecdcbflbhbadgfciakhlhdnm)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/fr/firefox/addon/epiboard/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Alexays/Epiboard)
 
 ### RSS2DISCORD / For Android device
 
@@ -179,10 +179,6 @@
 *   [Bootstrapped](http://bootstrapped.fm/) - Both Ian and Andrey are experienced startup founders, both have had major blows and successes in their career. You can learn a lot listening to them.
 *   [DevelopersHangout](http://www.developershangout.io/) - Two Developers talk about challenges, articles, news, books and other podcasts that came across their radar every 2 weeks. Laravel, PHP are two key topics, and other great podcasts like the ones listed above.
 *   [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer-related topics.
-
-### In Turkish
-
-*   [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology, programming languages, conferences, Linux, Unix, iOS, MacOS, Python, Ruby, Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

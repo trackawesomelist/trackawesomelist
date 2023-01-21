@@ -2,7 +2,7 @@
 
 64 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -333,7 +333,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐803)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐985)](https://github.com/megadose/toutatis)
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Go / Data Analysis / Data Visualization
 
-*   [dataframe-go (⭐905)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
+*   [dataframe-go (⭐917)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 
 ## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -482,7 +482,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [How They Test (⭐4.4k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+*   [How They Test (⭐4.5k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## [22. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -514,7 +514,7 @@
 
 ## [25. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### VPN / Metric & Metric Collection
+### Software / VPN
 
 *   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 
@@ -582,7 +582,7 @@
 
 ### Packages / Miscellaneous
 
-*   [husky (⭐28k)](https://github.com/typicode/husky) - Create Git hook scripts.
+*   [husky (⭐29k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
 ## [33. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -656,7 +656,7 @@
 
 ### Security / Barcode
 
-*   [SecurePropertyStorage (⭐440)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+*   [SecurePropertyStorage (⭐443)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 
 ### Converters
 
@@ -669,11 +669,11 @@
 
 ### Animation
 
-*   [Elephant (⭐126)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐127)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐74)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐77)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### App Routing
 
@@ -685,11 +685,11 @@
 
 ### XML
 
-*   [XMLCoder (⭐654)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐657)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐641)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐652)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
@@ -710,7 +710,7 @@
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift (⭐86)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐87)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [38. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -753,18 +753,18 @@
 
 ### CSV
 
-*   [CodableCSV (⭐356)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐366)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ## [43. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
-*   [nushell (⭐21k)](https://github.com/nushell/nushell) - A modern shell written in Rust
+*   [nushell (⭐22k)](https://github.com/nushell/nushell) - A modern shell written in Rust
 
 ### Command-Line Productivity
 
 *   [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
-*   [xxh (⭐3.9k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+*   [xxh (⭐4k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### System Utilities / Directory Navigation
 
@@ -772,9 +772,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bash-language-server (⭐1.4k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+*   [bash-language-server (⭐1.5k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 *   [critic.sh (⭐449)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-*   [esh (⭐161)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
+*   [esh (⭐166)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
 
 ## [44. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -940,7 +940,7 @@
 ### Functional Programming
 
 *   [Coconut (⭐3.6k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [more-itertools (⭐2.8k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+*   [more-itertools (⭐2.9k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 
 ### RPC Servers
 
@@ -996,7 +996,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐17)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐19)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [52. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -1022,17 +1022,17 @@
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐233)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐238)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
 ## [55. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / DDoS Tools
 
-*   [Low Orbit Ion Canon (LOIC) (⭐2.1k)](https://github.com/NewEraCracker/LOIC) - Open source network stress tool written for Windows.
+*   [Low Orbit Ion Canon (LOIC) (⭐2.2k)](https://github.com/NewEraCracker/LOIC) - Open source network stress tool written for Windows.
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Fridax (⭐121)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
+*   [Fridax (⭐125)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -1070,7 +1070,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Kapitsa (⭐8)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
+*   [Kapitsa (⭐9)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 
 ### JupyterLab Extensions
 
@@ -1080,16 +1080,16 @@
 
 ### IR Tools Collection / Evidence Collection
 
-*   [CyLR (⭐511)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+*   [CyLR (⭐521)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 
 ### IR Tools Collection / Other Tools
 
-*   [PowerSponse (⭐32)](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
+*   [PowerSponse (⭐34)](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [Invoke-LiveResponse (⭐132)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
-*   [IRTriage (⭐111)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
+*   [Invoke-LiveResponse (⭐133)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
+*   [IRTriage (⭐115)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
 
 ## [62. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 

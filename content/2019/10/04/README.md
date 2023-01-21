@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -67,7 +67,7 @@
 
 ### Image / Backend-Driven
 
-*   [Bitmap (⭐150)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Bitmap (⭐152)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [formsy-react (⭐752)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+*   [formsy-react (⭐754)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 
 ## [15. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

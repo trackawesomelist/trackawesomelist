@@ -2,7 +2,7 @@
 
 The most cited deep learning papers
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/terryum/awesome-deep-learning-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) · ⭐ 24K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/terryum/awesome-deep-learning-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) · ⭐ 24K · 🏷️ Computer Science
 
 [ [Daily](/content/terryum/awesome-deep-learning-papers/README.md) / [Weekly](/content/terryum/awesome-deep-learning-papers/week/README.md) / Overview ]
 

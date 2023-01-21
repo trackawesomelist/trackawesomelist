@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [camspiers/snap (⭐379)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
+*   [camspiers/snap (⭐382)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Tools & Software / Utilities
 
-*   [gowarcserver (⭐6)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐11k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
+*   [gowarcserver (⭐8)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐12k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Form Components / Color Picker
 
-*   [react-color (⭐57)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
+*   [react-color (⭐71)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Templates / React
 
-*   [Tropical (⭐103)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+*   [Tropical (⭐108)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

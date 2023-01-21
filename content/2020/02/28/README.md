@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ### External Services
 
-*   [douban-box (⭐10)](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
+*   [douban-box (⭐11)](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 
 ## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -50,12 +50,12 @@
 
 *   Testing in Cloud
     *   Kubernetes
-        *   [jmeter-kubernetes (⭐315)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
-        *   [jmeter-k8s-starterkit (⭐47)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
-        *   [kangal (⭐132)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
-        *   [aks\_testing\_fwk (⭐32)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
+        *   [jmeter-kubernetes (⭐320)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
+        *   [jmeter-k8s-starterkit (⭐48)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
+        *   [kangal (⭐138)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
+        *   [aks\_testing\_fwk (⭐34)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
     *   Amazon Web Services
-        *   [jmeter-ec2 (⭐454)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
+        *   [jmeter-ec2 (⭐456)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
         *   [gee (⭐16)](https://github.com/kowalcj0/gee) - A modified version of JMeter-EC2 project.
         *   [os-jmeter-aws (⭐1)](https://github.com/Aptimyze/os-jmeter-aws) - Run JMeter on multiple Amazon EC2 instances, view results in ELK.
         *   [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
@@ -64,13 +64,13 @@
     *   DigitalOcean
         *   [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using DigitalOcean, JMeter and Docker.
     *   Microsoft Azure
-        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐116)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
+        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐117)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
 
 ## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [sulu/sulu (⭐875)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
+*   [sulu/sulu (⭐911)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Samples
 
-*   Sascha Willems's [samples (⭐7.9k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐157)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*   Sascha Willems's [samples (⭐8.1k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐158)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -114,13 +114,13 @@
 
 ### Blazor / Themes
 
-*   [ant-design-blazor (⭐10)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
+*   [ant-design-blazor (⭐13)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
 
 ## [15. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐4k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐4.1k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ## [16. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -137,7 +137,7 @@
 ### Recruitment / Coding Challenge
 
 *   [FizzBuzz Enterprise Edition (⭐18k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
-*   [Awesome Interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
+*   [Awesome Interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
 
 ### Meetings / 1 on 1
 

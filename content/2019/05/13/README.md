@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,7 +33,7 @@
 
 ### Reflection
 
-*   [visit\_struct (⭐391)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
+*   [visit\_struct (⭐393)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
 
 ### Miscellaneous
 
@@ -49,12 +49,11 @@
 
 ### External Services
 
-*   [bird-box (⭐177)](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
-*   [waka-box (⭐1.2k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
+*   [bird-box (⭐181)](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
 
 ### GitHub
 
-*   [activity-box (⭐185)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+*   [activity-box (⭐190)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 
 ### Resources
 
@@ -82,11 +81,11 @@
 
 ### Packages / Filesystem
 
-*   [tempy (⭐368)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐370)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
-*   [crypto-hash (⭐595)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐598)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
@@ -98,11 +97,11 @@
 
 *   [.NET (⭐16k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐530)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐538)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Learn
 
-*   [Roadmaps (⭐2.7k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐2.8k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

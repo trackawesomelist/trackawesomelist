@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 16, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -120,10 +120,10 @@
 ### Documentation
 
 *   [CHIP-8 Instruction Set](http://johnearnest.github.io/Octo/docs/chip8ref.pdf) - Quick cheat sheet for CHIP-8 instructions.
-*   [CHIP-8 Instruction Set (⭐210)](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Instruction-Set) - A comprehensive instruction/opcode table.
-*   [CHIP-8 Technical Reference (⭐210)](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference) - Overview of how the CHIP-8 interpreter works.
-*   [CHIP-8 Extensions Reference (⭐210)](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Extensions-Reference) - A list of CHIP-8 variants and extensions.
-*   [HP48-Superchip (⭐23)](https://github.com/Chromatophore/HP48-Superchip) - An in-depth look at CHIP48 and Super-CHIP for the HP48 calculators, and modifications to make them CHIP-8 compatible.
+*   [CHIP-8 Instruction Set (⭐214)](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Instruction-Set) - A comprehensive instruction/opcode table.
+*   [CHIP-8 Technical Reference (⭐214)](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference) - Overview of how the CHIP-8 interpreter works.
+*   [CHIP-8 Extensions Reference (⭐214)](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Extensions-Reference) - A list of CHIP-8 variants and extensions.
+*   [HP48-Superchip (⭐24)](https://github.com/Chromatophore/HP48-Superchip) - An in-depth look at CHIP48 and Super-CHIP for the HP48 calculators, and modifications to make them CHIP-8 compatible.
 *   [Octo Extensions](http://johnearnest.github.io/Octo/docs/XO-ChipSpecification.html) - Specification for Octo's XO-CHIP extension.
 
 ### Emulator/interpreter development
@@ -136,7 +136,7 @@
 *   [Octo](http://johnearnest.github.io/Octo/) - An IDE for development of CHIP-8, Super-CHIP and XO-Chip games.
 *   [Emma02](https://www.emma02.hobby-site.com/) - An emulator for many old microcomputers, including COSMAC VIP, Telmac 1800 and ETI 660, which ran early CHIP-8 interpreters (which are included in the emulator).
 *   [Super-Chip8x (⭐14)](https://github.com/Ersanio/Super-Chip8x) - CHIP-8 emulator for the SNES.
-*   [CHIP-8 console on FPGA (⭐177)](https://github.com/pwmarcz/fpga-chip8) - A CHIP-8 emulator for the TinyFPGA BX chip.
+*   [CHIP-8 console on FPGA (⭐180)](https://github.com/pwmarcz/fpga-chip8) - A CHIP-8 emulator for the TinyFPGA BX chip.
 *   [Vinegar](http://benryves.com/bin/vinegar/) - CHIP-8/Super-CHIP interpreter for TI-83 (Plus) calculators.
 
 ### Software development / Tools
@@ -168,7 +168,7 @@
 ### Games / Postmortems
 
 *   [CHIP-8 Archive](https://johnearnest.github.io/chip8Archive/) - A collection of public domain (CC0) games, all playable online.
-*   [A collection of CHIP-8 programs and documentation (⭐210)](https://github.com/mattmikolay/chip-8) - Matt Mikolay's games, programs and documentation.
+*   [A collection of CHIP-8 programs and documentation (⭐214)](https://github.com/mattmikolay/chip-8) - Matt Mikolay's games, programs and documentation.
 
 ## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -190,7 +190,7 @@
 
 ### Notification
 
-*   [cogo-toast (⭐665)](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, \~3.5K. *(No refs / provider needed 😊)*
+*   [cogo-toast (⭐669)](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, \~3.5K. *(No refs / provider needed 😊)*
 
 ### Chart
 
@@ -198,11 +198,11 @@
 
 ### Miscellaneous
 
-*   [react-awesome-query-builder (⭐1.3k)](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
+*   [react-awesome-query-builder (⭐1.4k)](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 
 ### Form Components / Input Types
 
-*   [react-numpad (⭐127)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
+*   [react-numpad (⭐130)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 
 ### Form Components / Sortable List
 
@@ -211,14 +211,14 @@
 ### Form Components / Rich Text Editor
 
 *   [react-ace (⭐3.7k)](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
-*   [react-draft-wysiwyg (⭐5.9k)](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
-*   [react-medium-editor (⭐490)](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
-*   [react-quill (⭐5.5k)](https://github.com/zenoamaro/react-quill) - Quill wrapper.
-*   [react-trumbowyg (⭐139)](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
+*   [react-draft-wysiwyg (⭐6k)](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
+*   [react-medium-editor (⭐491)](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
+*   [react-quill (⭐5.6k)](https://github.com/zenoamaro/react-quill) - Quill wrapper.
+*   [react-trumbowyg (⭐142)](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
 
 ### Form Components / Image Editing
 
-*   [react-image-cropper (⭐175)](https://github.com/jerryshew/react-image-cropper) - Image cropper.
+*   [react-image-cropper (⭐176)](https://github.com/jerryshew/react-image-cropper) - Image cropper.
 
 ### Form Components / Form Component Collections
 
@@ -226,33 +226,33 @@
 
 ### Form Components / Syntax Highlight
 
-*   [react-syntax-highlighter (⭐2.9k)](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
+*   [react-syntax-highlighter (⭐3k)](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
 
 ### UI Layout / Syntax Highlight
 
-*   [golden-layout (⭐5.7k)](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager.
-*   [hedron (⭐860)](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
-*   [m-react-splitters (⭐147)](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
+*   [golden-layout (⭐5.8k)](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager.
+*   [hedron (⭐858)](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
+*   [m-react-splitters (⭐149)](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 *   [react-masonry-component (⭐1.4k)](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
 *   [react-stonecutter (⭐1.2k)](https://github.com/dantrain/react-stonecutter) - Animated grid layout component.
 
 ### UI Animation / Syntax Highlight
 
-*   [data-driven-motion (⭐532)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
+*   [data-driven-motion (⭐531)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
 *   [react-mt-svg-lines (⭐355)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
-*   [react-spring (⭐24k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
+*   [react-spring (⭐25k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 *   [react-transitive-number (⭐208)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
 *   [velocity-react (⭐3k)](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper.
-*   [react-particles-bg (⭐554)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
+*   [react-particles-bg (⭐561)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Responsive / Syntax Highlight
 
 *   [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from *badge* to *tree table*.
-*   [carbon (⭐6.1k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
-*   [chakra-ui (⭐30k)](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
+*   [carbon (⭐6.2k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
+*   [chakra-ui (⭐31k)](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
 *   [evergreen (⭐12k)](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
-*   [gestalt (⭐4k)](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
+*   [gestalt (⭐4.1k)](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
 
 ### Responsive / Material Design
 
@@ -266,23 +266,8 @@
 
 ### Component Collections / Material Design
 
-*   [blueprint (⭐19k)](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-*   [rsuite (⭐7.2k)](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
-
-## [20. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Java / Bootstrap
-
-*   [Data Structures in Java for the Principled Programmer (2007)](https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/\~bailey/JavaStructures/Book_files/JavaStructures.pdf) - Duane A. Bailey (PDF)
-*   [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi *(Leanpub account or valid email requested)*
-
-### Scala / Sinatra
-
-*   [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read) - Jens Grassel
-
-### Windows 8 / Vulkan
-
-*   [Programming Windows Store Apps with HTML, CSS, and JavaScript, Second Edition](https://web.archive.org/web/20150624142410/http://download.microsoft.com/download/6/6/5/665AF7A6-2184-45DC-B9DA-C89185B01937/Microsoft_Press_eBook_Programming_Windows_8_Apps_HTML_CSS_JavaScript_2E_PDF.pdf) - Kraig Brockschmidt (PDF)
+*   [blueprint (⭐20k)](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
+*   [rsuite (⭐7.3k)](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
 
 ---
 

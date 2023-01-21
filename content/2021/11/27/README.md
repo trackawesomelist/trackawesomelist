@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,11 +28,6 @@
 ### Applications / System tools
 
 *   [sharkdp/fd (⭐26k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
-
-### Libraries / Peripherals
-
-*   Serial Port
-    *   [Susurrus/serialport-rs](https://gitlab.com/susurrus/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -74,15 +69,15 @@
 
 ### Plugins
 
-*   [tmux-super-fingers (⭐52)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
+*   [tmux-super-fingers (⭐56)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Windows-based defenses / Active Directory
 
-*   [Active Directory Control Paths (⭐582)](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
+*   [Active Directory Control Paths (⭐588)](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
 *   [PingCastle](https://www.pingcastle.com/) - Active Directory vulnerability detection and reporting tool.
-*   [PlumHound (⭐693)](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
+*   [PlumHound (⭐714)](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

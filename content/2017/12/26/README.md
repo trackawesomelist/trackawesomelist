@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,9 +16,9 @@
 
 ### Software / Automation
 
-*   [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on the Internet (browser fingerprinting tool). ([Source Code (⭐643)](https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`
-*   [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code (⭐2.7k)](https://github.com/pyload/pyload)) `GPL-3.0` `Python`
-*   [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code (⭐6.9k)](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#`
+*   [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on the Internet (browser fingerprinting tool). ([Source Code (⭐648)](https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`
+*   [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code (⭐2.8k)](https://github.com/pyload/pyload)) `GPL-3.0` `Python`
+*   [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code (⭐7.1k)](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#`
 
 ### Software / Blogging Platforms
 
@@ -26,15 +26,15 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Shaarli (⭐2.8k)](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. ([Demo](https://demo.shaarli.org)) `Zlib` `PHP`
+*   [Shaarli (⭐2.9k)](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. ([Demo](https://demo.shaarli.org)) `Zlib` `PHP`
 
 ### Software / Communication - Custom Communication Systems
 
 *   [GNUnet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking. ([Source Code](https://gnunet.org/git/)) `GPL-3.0` `C`
-*   [Hawkpost](https://hawkpost.co) - HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address. ([Source Code (⭐899)](https://github.com/whitesmith/hawkpost)) `MIT` `Python`
-*   [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source Code (⭐444)](https://github.com/Mibew/mibew)) `Apache-2.0` `PHP`
-*   [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code (⭐34k)](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
-*   [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/) - Peer-to-peer video chat that works. ([Source Code (⭐363)](https://github.com/trailofbits/tubertc)) `MIT` `Javascript`
+*   [Hawkpost](https://hawkpost.co) - HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address. ([Source Code (⭐901)](https://github.com/whitesmith/hawkpost)) `MIT` `Python`
+*   [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source Code (⭐443)](https://github.com/Mibew/mibew)) `Apache-2.0` `PHP`
+*   [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code (⭐35k)](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
+*   [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/) - Peer-to-peer video chat that works. ([Source Code (⭐365)](https://github.com/trailofbits/tubertc)) `MIT` `Javascript`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -53,10 +53,9 @@
 ### Software / Communication - Social Networks and Forums
 
 *   [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache-2.0` `Java`
-*   [cartulary (⭐175)](https://github.com/daveajones/cartulary) - RSS reader, readability tool, article archiver, microblogger, social graph manager and reading list manager. `CDDL-1.0` `PHP`
 *   [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code (⭐2.2k)](https://github.com/loomio/loomio)) `AGPL-3.0` `Ruby`
-*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code (⭐37k)](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
-*   [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code (⭐918)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
+*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code (⭐39k)](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
+*   [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code (⭐927)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
 *   [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([Source Code (⭐1.6k)](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`
 *   [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code (⭐2.6k)](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`
 
@@ -67,9 +66,9 @@
 ### Software / Content Management Systems (CMS)
 
 *   [BigTree CMS](https://www.bigtreecms.org/) - Straightforward, well documented, and capable written with PHP and MySQL. ([Source Code (⭐200)](https://github.com/bigtreecms/BigTree-CMS)) `LGPL-2.1` `PHP`
-*   [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever. ([Source Code (⭐368)](https://github.com/GetSimpleCMS/GetSimpleCMS)) `GPL-3.0` `PHP`
+*   [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever. ([Source Code (⭐371)](https://github.com/GetSimpleCMS/GetSimpleCMS)) `GPL-3.0` `PHP`
 *   [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `ZPL-2.0` `Python`
-*   [Umbraco](https://umbraco.com/) - The friendly CMS. Free and open source with an amazing community. ([Source Code (⭐3.7k)](https://github.com/umbraco/Umbraco-CMS)) `MIT` `.NET`
+*   [Umbraco](https://umbraco.com/) - The friendly CMS. Free and open source with an amazing community. ([Source Code (⭐3.8k)](https://github.com/umbraco/Umbraco-CMS)) `MIT` `.NET`
 
 ### Software / DNS
 
@@ -77,32 +76,32 @@
 
 ### Software / Document Management - Integrated Library Systems (ILS)
 
-*   [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code (⭐101)](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
-*   [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code (⭐413)](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
+*   [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code (⭐102)](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
+*   [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code (⭐414)](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
 
 ### Software / Feed Readers
 
-*   [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code (⭐1.9k)](https://github.com/Athou/commafeed)) `Apache-2.0` `Java`
-*   [RSS Monster (⭐379)](https://github.com/pietheinstrengholt/rssmonster) - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. `MIT` `PHP`
+*   [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code (⭐2k)](https://github.com/Athou/commafeed)) `Apache-2.0` `Java`
+*   [RSS Monster (⭐381)](https://github.com/pietheinstrengholt/rssmonster) - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. `MIT` `PHP`
 
 ### Software / File Transfer & Synchronization
 
 *   [Kinto](https://kinto.readthedocs.org) - Kinto is a minimalist JSON storage service with synchronisation and sharing abilities. ([Source Code](https://github.com/Kinto)) `Apache-2.0` `Python`
 *   [Samba](https://www.samba.org/) - Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. ([Source Code](https://git.samba.org/samba.git/)) `GPL-3.0` `C`
-*   [Syncthing](https://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool. ([Source Code (⭐48k)](https://github.com/syncthing/syncthing)) `MPL-2.0` `Go`
+*   [Syncthing](https://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool. ([Source Code (⭐49k)](https://github.com/syncthing/syncthing)) `MPL-2.0` `Go`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Files Sharing (⭐67)](https://github.com/axeloz/filesharing) - Open Source and self-hosted files sharing application based on unique and temporary links. `GPL-3.0` `PHP`
-*   [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code (⭐542)](https://github.com/nokonoko/uguu)) `MIT` `PHP`
+*   [Files Sharing (⭐71)](https://github.com/axeloz/filesharing) - Open Source and self-hosted files sharing application based on unique and temporary links. `GPL-3.0` `PHP`
+*   [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code (⭐551)](https://github.com/nokonoko/uguu)) `MIT` `PHP`
 
 ### Software / Human Resources Management (HRM)
 
-*   [admidio](https://www.admidio.org/) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. ([Demo](https://www.admidio.org/demo/), [Source Code (⭐211)](https://github.com/Admidio/admidio)) `GPL-2.0` `PHP`
+*   [admidio](https://www.admidio.org/) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. ([Demo](https://www.admidio.org/demo/), [Source Code (⭐216)](https://github.com/Admidio/admidio)) `GPL-2.0` `PHP`
 
 ### Software / Learning and Courses
 
-*   [Mahara](https://mahara.org/) - Open Source fully featured web application to build students electronic portfolio. ([Source Code (⭐98)](https://github.com/MaharaProject/mahara)) `GPL-3.0` `PHP`
+*   [Mahara](https://mahara.org/) - Open Source fully featured web application to build students electronic portfolio. ([Source Code (⭐99)](https://github.com/MaharaProject/mahara)) `GPL-3.0` `PHP`
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -114,21 +113,21 @@
 
 ### Software / Miscellaneous
 
-*   [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code (⭐18k)](https://github.com/monicahq/monica)) `AGPL-3.0` `PHP`
-*   [Musical Artifacts](https://musical-artifacts.com/) - Helping to catalog, preserve and free the artifacts you need to produce music. ([Source Code (⭐84)](https://github.com/lfzawacki/musical-artifacts)) `MIT` `Ruby`
-*   [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code (⭐310)](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
+*   [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code (⭐19k)](https://github.com/monicahq/monica)) `AGPL-3.0` `PHP`
+*   [Musical Artifacts](https://musical-artifacts.com/) - Helping to catalog, preserve and free the artifacts you need to produce music. ([Source Code (⭐88)](https://github.com/lfzawacki/musical-artifacts)) `MIT` `Ruby`
+*   [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code (⭐319)](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code (⭐5.8k)](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`
-*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐359)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
-*   [PartKeepr](https://www.partkeepr.org) - PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. ([Demo](https://demo.partkeepr.org/), [Source Code (⭐1.1k)](https://github.com/partkeepr/PartKeepr)) `GPL-3.0` `PHP`
+*   [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code (⭐5.9k)](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`
+*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐364)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
+*   [PartKeepr](https://www.partkeepr.org) - PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. ([Demo](https://demo.partkeepr.org/), [Source Code (⭐1.2k)](https://github.com/partkeepr/PartKeepr)) `GPL-3.0` `PHP`
 *   [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System. `MIT` `Python`
 
 ### Software / Note-taking & Editors
 
 *   [Leanote](http://leanote.org/) - Leanote, Not Just A Notepad! Open source cloud notepad. ([Demo](https://leanote.com/note), [Source Code (⭐11k)](https://github.com/leanote/leanote)) `GPL-2.0` `Go`
-*   [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown support. ([Source Code (⭐303)](https://github.com/nebulade/meemo)) `MIT` `Nodejs`
+*   [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown support. ([Source Code (⭐307)](https://github.com/nebulade/meemo)) `MIT` `Nodejs`
 *   [OpenNote (⭐1.6k)](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote. ([Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)) `MIT` `HTML5`
 
 ### Software / Password Managers
@@ -137,12 +136,12 @@
 
 ### Software / Pastebins
 
-*   [PrivateBin](https://privatebin.info/) - PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data. ([Demo](https://privatebin.net/), [Source Code (⭐4.5k)](https://github.com/PrivateBin/PrivateBin)) `Zlib` `PHP`
+*   [PrivateBin](https://privatebin.info/) - PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data. ([Demo](https://privatebin.net/), [Source Code (⭐4.6k)](https://github.com/PrivateBin/PrivateBin)) `Zlib` `PHP`
 
 ### Software / Photo and Video Galleries
 
 *   [Gallery CSS](https://benschwarz.github.io/gallery-css/) - Gallery.css is all CSS. Think: Simple, maintainable and understandable galleries without the use of Javascript. ([Source Code (⭐1.1k)](https://github.com/benschwarz/gallery-css)) `MIT` `CSS`
-*   [sigal (⭐772)](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`
+*   [sigal (⭐775)](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`
 
 ### Software / Proxy
 
@@ -165,8 +164,8 @@
 
 ### Software / Wikis
 
-*   [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code (⭐1.7k)](https://github.com/documize/community)) `AGPL-3.0` `Go`
-*   [PineDocs (⭐107)](https://github.com/xy2z/PineDocs) - Simple, fast, customizable and lightweight site for browsing files. `GPL-3.0` `PHP`
+*   [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code (⭐1.8k)](https://github.com/documize/community)) `AGPL-3.0` `Go`
+*   [PineDocs (⭐115)](https://github.com/xy2z/PineDocs) - Simple, fast, customizable and lightweight site for browsing files. `GPL-3.0` `PHP`
 
 ### List of Licenses / Wikis
 

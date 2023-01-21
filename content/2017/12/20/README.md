@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 20, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,19 +38,13 @@
 
 *   [striptags (⭐469)](https://github.com/ericnorris/striptags) - An implementation of PHP's strip\_tags in Node.js.
 
-## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Applets / Design Tooling
-
-*   [Docker Integration (⭐148)](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
-
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Products/Technologies / K technologies
 
 *   Kotlin <https://blog.jetbrains.com/kotlin/>
 
-## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Resources / Organizations
 

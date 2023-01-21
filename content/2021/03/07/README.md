@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,13 +39,13 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Gif Getter (⭐26)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
+*   [Godot Gif Getter (⭐27)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
 
 ## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries
 
-*   [RLax (⭐936)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
+*   [RLax (⭐959)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 
 ## [6. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Back-End Development
 
-*   [IAM (⭐947)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐992)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -165,13 +165,13 @@
 
 ### Open Source / Other
 
-*   [Yana (⭐188)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [Yana (⭐192)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 
 ## [13. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools
 
-*   [SimpleLocalize CLI (⭐34)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+*   [SimpleLocalize CLI (⭐35)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 *   [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 
 ### Articles
@@ -193,8 +193,8 @@
     *   [Keyv (⭐2k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐181)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
     *   [database-js (⭐57)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐494)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐473)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [Mongo Seeding (⭐496)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [@databases (⭐488)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
     *   [pg-mem (⭐1.2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ---

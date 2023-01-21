@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -83,7 +83,7 @@
 *   [Bongo (⭐481)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
 *   [minquery (⭐60)](https://github.com/icza/minquery) - MongoDB cursor that paginates
-*   [mongo-go-driver (⭐7k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
+*   [mongo-go-driver (⭐7.1k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
 ### Libraries / Java
 

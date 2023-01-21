@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,10 +23,6 @@
 ### Network / Barcode
 
 *   [SwiftHTTP (⭐1.9k)](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
-
-### UI / Barcode
-
-*   [MediumScrollFullScreen (⭐548)](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 
 ## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

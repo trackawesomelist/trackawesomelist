@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,14 +22,14 @@
 
 ### Non-JavaScript Libraries / Themes
 
-*   [Antizer (⭐255)](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
+*   [Antizer (⭐256)](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Scripting
 
 *   [gluon-lang/gluon (⭐2.7k)](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
-*   [murarth/ketos (⭐720)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
+*   [murarth/ketos (⭐721)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-img (⭐417)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
+*   [v-img (⭐419)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
 
 ---
 

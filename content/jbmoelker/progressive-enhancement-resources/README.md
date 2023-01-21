@@ -2,7 +2,7 @@
 
 Resources on Progressive Enhancement. From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jbmoelker/progressive-enhancement-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jbmoelker/progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) · ⭐ 91 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jbmoelker/progressive-enhancement-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jbmoelker/progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) · ⭐ 91 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/jbmoelker/progressive-enhancement-resources/week/README.md) / [Overview](/content/jbmoelker/progressive-enhancement-resources/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kaiuri/nvim-juliana (⭐45)](https://github.com/kaiuri/nvim-juliana) - Port of Sublime's Mariana Theme to Neovim for short attention span developers with Tree-sitter support.
+*   [kaiuri/nvim-juliana (⭐46)](https://github.com/kaiuri/nvim-juliana) - Port of Sublime's Mariana Theme to Neovim for short attention span developers with Tree-sitter support.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Application platforms / Samples
 
-*   [Nhost (⭐5.3k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐5.5k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
 ## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [tarcadia (⭐2)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
+*   [tarcadia (⭐2)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
 
 ## [11. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -87,11 +87,11 @@
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Development / Python
+### Other Development Tools / Smart Contracts
 
-*   [beaker (⭐63)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
+*   [beaker (⭐64)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 
-### Community / Projects
+### Projects / Wallets
 
 *   [AgorHash (⭐3)](https://github.com/bafio89/agorhash) - Public, permissionless, decentralized and uncensorable free speech protocol.
 

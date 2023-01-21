@@ -2,7 +2,7 @@
 
 39 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Development Environment / Other
 
-*   [Kitt (⭐8)](https://github.com/senges/kitt) - A portable and disposable Shell environment, based on Docker and Nix. By [@senges](https://github.com/senges)
+*   [Kitt (⭐11)](https://github.com/senges/kitt) - A portable and disposable Shell environment, based on Docker and Nix. By [@senges](https://github.com/senges)
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -34,21 +34,21 @@
 
 ### Database
 
-*   [libpqxx (⭐710)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
+*   [libpqxx (⭐716)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [jwt-cpp (⭐538)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
+*   [jwt-cpp (⭐543)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Demo](https://demo.coolify.io/), [Source Code (⭐5.2k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
+*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Demo](https://demo.coolify.io/), [Source Code (⭐5.5k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
 
 ## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### Bridges / Wallets
+### Blockchain Bridges / Wallets
 
 *   [Messina](https://messina.one/) - The ALGO — ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
 
@@ -56,7 +56,7 @@
 
 ### Web Frameworks
 
-*   [marten (⭐218)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
+*   [marten (⭐259)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -66,33 +66,33 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-assemblyscript-asc (⭐2)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
+*   [vite-plugin-assemblyscript-asc (⭐3)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [unplugin-compression (⭐2)](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
+*   [unplugin-compression (⭐3)](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-version-mark (⭐1)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
+*   [vite-plugin-version-mark (⭐2)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-preview (⭐206)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
+*   [vitest-preview (⭐212)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
 
 ### Vue / Loaders
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-svg-component (⭐2)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-svg-component (⭐3)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
 
 ### React / Helpers
 
-*   [vite-plugin-react-inspector (⭐108)](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
+*   [vite-plugin-react-inspector (⭐111)](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Pokemon
 
-*   [Pokete (⭐2.5k)](https://github.com/lxgr-linux/pokete) - A small terminal based game in the style of a very popular and old game by Gamefreak.
+*   [Pokete (⭐2.6k)](https://github.com/lxgr-linux/pokete) - A small terminal based game in the style of a very popular and old game by Gamefreak.
 
 ### No email verification, accepting monero
 
@@ -102,7 +102,7 @@
 
 ### Advanced Console UIs
 
-*   [lipgloss (⭐5.3k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
+*   [lipgloss (⭐5.4k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
 
 ### Meetups / Libraries for creating HTTP middlewares
 
@@ -112,11 +112,11 @@
 
 ### Libraries/Frameworks / Web
 
-*   [Ahoo-Wang/CoSec (⭐5)](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
+*   [Ahoo-Wang/CoSec (⭐8)](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
 
 ### Libraries/Frameworks / Misc
 
-*   [Ahoo-Wang/CoCache (⭐4)](https://github.com/Ahoo-Wang/CoCache) - Level 2 Distributed Coherence Cache Framework
+*   [Ahoo-Wang/CoCache (⭐5)](https://github.com/Ahoo-Wang/CoCache) - Level 2 Distributed Coherence Cache Framework
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -134,9 +134,9 @@
 
 ### Python / Spiking Neural Networks
 
-*   [Rockpool (⭐19)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
-*   [Sinabs (⭐27)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
-*   [Tonic (⭐92)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
+*   [Rockpool (⭐21)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
+*   [Sinabs (⭐32)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
+*   [Tonic (⭐97)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
 
 ## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -166,25 +166,25 @@
 
 ### Others / Email
 
-*   [sendgrid (⭐12)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT](https://opensource.org/licenses/MIT).
+*   [sendgrid (⭐13)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
-*   [Ciao (⭐4)](https://github.com/kjinho/ciao) - an easy-to-use Common Lisp OAuth 2.0 client library. It is a port of the Racket OAuth 2.0 Client to Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [Ciao (⭐6)](https://github.com/kjinho/ciao) - an easy-to-use Common Lisp OAuth 2.0 client library. It is a port of the Racket OAuth 2.0 Client to Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ### Actors pattern / Third-party APIs
 
-*   👍 [Sento (⭐122)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   👍 [Sento (⭐128)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Caching / Third-party APIs
 
-*   [function-cache (⭐43)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [function-cache (⭐44)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
-*   [Raw Node.js Vulkan API (⭐5)](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
+*   [Raw Node.js Vulkan API (⭐7)](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
 
 ## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -198,9 +198,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [TwicPics (⭐29)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
+*   [TwicPics (⭐35)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
 *   [vue2-text-annotation (⭐5)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
-*   [vue-auth-ui (⭐12)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
+*   [vue-auth-ui (⭐13)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
 
 ## [18. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -212,11 +212,11 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Bytewax (⭐259)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
+*   [Bytewax (⭐281)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
 
 ### Table of Contents / Online Machine Learning
 
-*   [River (⭐3.8k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
+*   [River (⭐4k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
 
 ## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
@@ -236,7 +236,7 @@
 
 ### Modules / Frontend framework
 
-*   [fresh (⭐9.5k)](https://github.com/denoland/fresh) - The next-gen web framework.
+*   [fresh (⭐9.7k)](https://github.com/denoland/fresh) - The next-gen web framework.
 
 ## [23. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -248,12 +248,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [goenv (cda0) (⭐0)](https://github.com/CDA0/zsh-goenv/blob/master/zsh-goenv.plugin.zsh) - Plugin for installing, updating and loading `goenv`.
+*   [goenv (cda0) (⭐1)](https://github.com/CDA0/zsh-goenv/blob/master/zsh-goenv.plugin.zsh) - Plugin for installing, updating and loading `goenv`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [meganerd (⭐0)](https://github.com/meganerd/meganerd-zsh/) - Inspired by jonathan. Includes decorators for `git` status, user\@hostname, current directory, time and the last command's exit status.
-*   [paroape (⭐0)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐33)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
+*   [paroape (⭐0)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐35)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
 *   [troopert (⭐0)](https://github.com/TrooperT/Troopert-theme/) - Includes decorators for `git` status, last return code if non-zero, full pwd and a configurable display of `$RPROMPT`.
 
 ## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
@@ -263,28 +263,28 @@
 *   [Theory-based Bayesian models of inductive learning and reasoning](https://cocosci.princeton.edu/tom/papers/theoriestics.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian theory induction.
 *   [How to Grow a Mind: Statistics, Structure, and Abstraction](https://cocosci.princeton.edu/tom/papers/growamind.pdf) - ***Science***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian theory induction.
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926\&hl=en\&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
 
 ## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [CLIP Interrogator - a Hugging Face Space by pharma](https://huggingface.co/spaces/pharma/CLIP-Interrogator): image-to-text tool to figure out what a good prompt might be to create new images like an existing one
 
-### Deforum
-
-*   [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
-
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   \[🔥🔥🔥] [SD GUIDE FOR ARTISTS AND NON-ARTISTS - Google Docs](https://docs.google.com/document/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/edit#): a Google Docs with in-depth tips, tricks, tutorials and more related to Stable Diffusion
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [Astria](https://www.astria.ai/): tailor-made AI image generation
 *   [drawanyone](https://drawanyone.com/): generate drawings based on five input images
+
+### Hypertechniques / Deforum
+
+*   [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
 
 ### Image Synthesis / Promptism
 
@@ -292,12 +292,12 @@
 
 ### Image Synthesis / DALL-E 2
 
-*   [lucidrains/DALLE2-pytorch (⭐8.4k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+*   [lucidrains/DALLE2-pytorch (⭐8.7k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Related Awesome Lists / Galleries
 
-*   [chaosreactor/awesome-generative-ai (⭐6)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
-*   [steven2358/awesome-generative-ai (⭐64)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐145)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   [chaosreactor/awesome-generative-ai (⭐7)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
 ## [27. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -333,21 +333,21 @@
 
 ### Templates
 
-*   [Text Editor from scratch with Blazor and C#](https://www.youtube.com/playlist?list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1) - Serie of videos on YouTube who explain how to build your own IDE from scratch with Blazor and .NET. [Starting point repo (⭐5)](https://github.com/huntercfreeman/Blazor.Text.Editor-VideoSeries) ![stars](https://img.shields.io/github/stars/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square). [Blazor Studio repo (⭐49)](https://github.com/huntercfreeman/BlazorStudio) ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square).
+*   [Text Editor from scratch with Blazor and C#](https://www.youtube.com/playlist?list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1) - Serie of videos on YouTube who explain how to build your own IDE from scratch with Blazor and .NET. [Starting point repo (⭐5)](https://github.com/huntercfreeman/Blazor.Text.Editor-VideoSeries) ![stars](https://img.shields.io/github/stars/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square). [Blazor Studio repo (⭐80)](https://github.com/huntercfreeman/BlazorStudio) ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square).
 
 ### Others
 
-*   [Blazor Studio (⭐49)](https://github.com/huntercfreeman/BlazorStudio) - ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=86400) A free and open source IDE written using .NET - a Photino host, Blazor UI, and C#.
-*   [Blazor.Text.Editor (⭐22)](https://github.com/huntercfreeman/Blazor.Text.Editor) - ![Last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor?style=flat-square\&cacheSeconds=86400) Blazor.Text.Editor is a Text Editor component library using the Blazor UI Framework for .NET. [Demo](https://hunter-freeman-dev.azurewebsites.net/).
+*   [Blazor Studio (⭐80)](https://github.com/huntercfreeman/BlazorStudio) - ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=86400) A free and open source IDE written using .NET - a Photino host, Blazor UI, and C#.
+*   [Blazor.Text.Editor (⭐77)](https://github.com/huntercfreeman/Blazor.Text.Editor) - ![Last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor?style=flat-square\&cacheSeconds=86400) Blazor.Text.Editor is a Text Editor component library using the Blazor UI Framework for .NET. [Demo](https://hunter-freeman-dev.azurewebsites.net/).
 
 ### Tutorials
 
-*   [NextTechEvent by Coding After Work](https://www.youtube.com/watch?v=Z2EZXY6G5ZU) - Build "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent) ![stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400).
+*   [NextTechEvent by Coding After Work](https://www.youtube.com/watch?v=Z2EZXY6G5ZU) - Build "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. [Source code (⭐4)](https://github.com/CodingAfterWork/NextTechEvent) ![stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400).
 
 ### Videos / Others
 
 *   [Use the IDE to make a Fluxor CRUD Application | Blazor IDE Part 2](https://www.youtube.com/watch?v=r2XaCISF4dQ) - ![duration](https://img.shields.io/badge/Duration:%20-147%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 18, 2022 - Use the IDE to make a Fluxor CRUD Application.
-*   [Building "Next Tech Event" using Blazor and RavenDB Part 12](https://www.youtube.com/watch?v=tpF61oKd3-I) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 2, 2022 - Part 12 of the project "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we add search functionality using RavenDB by adding an index. A way for organizers to filter conferences by name, country, location, city, and tags or a combination of them. This way we can see how many conferences are happening in "Stockholm" or all the conferences named "NDC". ![GitHub stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400)  [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent).
+*   [Building "Next Tech Event" using Blazor and RavenDB Part 12](https://www.youtube.com/watch?v=tpF61oKd3-I) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 2, 2022 - Part 12 of the project "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we add search functionality using RavenDB by adding an index. A way for organizers to filter conferences by name, country, location, city, and tags or a combination of them. This way we can see how many conferences are happening in "Stockholm" or all the conferences named "NDC". ![GitHub stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400)  [Source code (⭐4)](https://github.com/CodingAfterWork/NextTechEvent).
 *   [Make a Text Editor in Blazor from scratch, Blazor Text Editor Part 1.](https://www.youtube.com/watch?v=D5PdeRsV-Hk\&list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-44%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 8, 2022 - Make a Text Editor in Blazor from scratch, Blazor Text Editor Part 1.
 *   [Roslyn Syntax Highlighting | Blazor Text Editor Part 2](https://www.youtube.com/watch?v=ZIt0-mbCgG8\&list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-36%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 8, 2022 - Roslyn Syntax Highlighting | Blazor Text Editor Part 2.
 *   [Make a Text Editor in Blazor from scratch | Blazor Text Editor Part 1](https://www.youtube.com/watch?v=D5PdeRsV-Hk\&t=0s) - ![duration](https://img.shields.io/badge/Duration:%20-44%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 8, 2022 - Make a Text Editor in Blazor from scratch | Blazor Text Editor Part 1.
@@ -365,9 +365,9 @@
 
 ### Tools / Vendor supported providers
 
-*   [terraform-iam-policy-validator (⭐122)](https://github.com/awslabs/terraform-iam-policy-validator) - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
-*   [tfproviderlint (⭐103)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
-*   [tftree (⭐41)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
+*   [terraform-iam-policy-validator (⭐147)](https://github.com/awslabs/terraform-iam-policy-validator) - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
+*   [tfproviderlint (⭐113)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
+*   [tftree (⭐97)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
 
 ## [30. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
@@ -378,10 +378,6 @@
 *   [Mix & Go](https://www.youtube.com/@mixandgo/videos)
 *   [Phil Smy](https://www.youtube.com/@PhilSmy/videos)
 *   [David Battersby](https://www.youtube.com/@davidbattersby/videos)
-
-### Jobs / Other external resources
-
-*   [rails jobs on RubyJobBoard](https://rubyjobboard.com)
 
 ### Community / Other external resources
 
@@ -400,33 +396,33 @@
 
 ### Libraries / Kotlin
 
-*   [kmongo (⭐711)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+*   [kmongo (⭐724)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Applications / Interpreters/Compilers
+### Interpreters/Compilers
 
-*   [stas (⭐27)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
+*   [stas (⭐31)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 
 ## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [cairo (⭐421)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
-*   [sigma-rust (⭐53)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
+*   [cairo (⭐513)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
+*   [sigma-rust (⭐52)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
 
 ### Applications / Social networks
 
 *   Mastodon
-    *   [Rustodon (⭐714)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
+    *   [Rustodon (⭐745)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 
 ### Applications / System tools
 
-*   [qarmin/cakawka (⭐8.9k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/cakawka (⭐9.2k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Libraries / Graph algorithms
 
-*   [s1ck/graph (⭐215)](https://github.com/s1ck/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/s1ck/graph/CI/main?label=CI)](https://github.com/s1ck/graph/actions/workflows/rust.yml)
+*   [s1ck/graph (⭐224)](https://github.com/s1ck/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/s1ck/graph/CI/main?label=CI)](https://github.com/s1ck/graph/actions/workflows/rust.yml)
 
 ## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -448,7 +444,7 @@
 
 ### Gaming
 
-*   [Learn Gamedev (⭐1.6k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+*   [Learn Gamedev (⭐1.7k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
 
 ## [36. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -460,13 +456,13 @@
 
 ### Form Components / Select
 
-*   [react-select-search (⭐603)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React
+*   [react-select-search (⭐611)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React
 
 ## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
-*   [ts-toolbelt (⭐5.1k)](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
+*   [ts-toolbelt (⭐5.3k)](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 
 ## [39. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome OpenGL libraries, debuggers and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/eug/awesome-opengl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 eug/awesome-opengl](https://github.com/eug/awesome-opengl) · ⭐ 1.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/eug/awesome-opengl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 eug/awesome-opengl](https://github.com/eug/awesome-opengl) · ⭐ 1.7K · 🏷️ Miscellaneous
 
 [ [Daily](/content/eug/awesome-opengl/README.md) / [Weekly](/content/eug/awesome-opengl/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -101,7 +101,7 @@
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐142)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Fluxtream (⭐143)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
 ## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

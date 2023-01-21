@@ -2,7 +2,7 @@
 
 A curated list of awesome IRC resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/davisonio/awesome-irc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) · ⭐ 687 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/davisonio/awesome-irc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) · ⭐ 687 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/davisonio/awesome-irc/week/README.md) / [Overview](/content/davisonio/awesome-irc/readme/README.md) ]
 

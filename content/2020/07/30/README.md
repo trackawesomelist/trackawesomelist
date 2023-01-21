@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-use-switch-map (⭐8)](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
+*   [vue-use-switch-map (⭐9)](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -22,7 +22,7 @@
 
 ### External Services
 
-*   [netease-music-box (⭐54)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
+*   [netease-music-box (⭐57)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

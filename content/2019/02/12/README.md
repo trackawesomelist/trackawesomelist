@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 12, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Images / Barcode
 
-*   [JLStickerTextView (⭐477)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
+*   [JLStickerTextView (⭐478)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -45,15 +45,12 @@
 
 ### In English
 
-*   [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
 *   [CTRL+Click Cast](https://www.ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
 *   [Developer On Fire](https://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
 *   [Fragmented](https://fragmentedpodcast.com/) - An Android Developer Podcast.
 *   [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
-*   [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) - Weekly Linux live and open talk show
 *   [Podcast.\_*init*\_](https://www.pythonpodcast.com/) - A podcast about Python and the people who make it great.
 *   [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch/) - Official podcast from NASA’s Kennedy Space Center.
-*   [The Linux Action Show](https://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
 *   [Why Are Computers](https://whyarecomputers.com/) - A podcast about computers and computer programs and why.
 
 ### In Portuguese
@@ -63,10 +60,6 @@
 ### In Russian
 
 *   [Razbor Poletov](http://razborpoletov.com) - Podcast about world of Java, technologies and software development.
-
-### In French
-
-*   [La Dev Team](https://www.radiokawa.com/episode/la-dev-team-hs2/) - Monthly podcast hosted by developers and talking about the video game industry.
 
 ### In German
 
@@ -106,13 +99,7 @@
 
 *   [deno-globrex (⭐7)](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [Bare-metal programming for ARM (⭐386)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-
-## [12. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [11. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### CMS / Blogs
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,8 +28,8 @@
 
 *   [Better Enums (⭐1.4k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
 *   [CPFG (⭐208)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2] [website](http://www.cpgf.org/)
-*   [CPP-Reflection (⭐553)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
-*   [Ponder (⭐570)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [CPP-Reflection (⭐555)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [Ponder (⭐575)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
 *   [RTTR (⭐2.5k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis

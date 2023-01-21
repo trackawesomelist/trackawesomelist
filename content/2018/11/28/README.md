@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -54,9 +54,9 @@
 
 ### Command-Line Productivity
 
-*   [ddgr (⭐2.4k)](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
-*   [mackup (⭐12k)](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
-*   [pdd (⭐281)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
+*   [ddgr (⭐2.5k)](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
+*   [mackup (⭐13k)](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
+*   [pdd (⭐332)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
 
 ### Applications / Directory Navigation
 

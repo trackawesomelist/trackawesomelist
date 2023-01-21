@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Other scripting utilities / Third-party APIs
 
-*   [WCL (⭐68)](https://github.com/wadehennessey/wcl) \[stalled] - allow hundreds of Lisp
+*   [WCL (⭐72)](https://github.com/wadehennessey/wcl) \[stalled] - allow hundreds of Lisp
     applications to be realistically available at once, while allowing
     several of them to run concurrently.  WCL accomplishes this by
     providing Common Lisp as a Unix shared library that can be linked with
@@ -24,6 +24,7 @@
     supports a full development environment, including dynamic file
     loading and debugging.  A modified version of GDB is used to debug WCL
     programs, providing support for mixed language debugging.
+    *   a [paper](https://dl.acm.org/doi/abs/10.1145/141478.141560): "Delivering efficient Common Lisp applications under Unix".
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -35,7 +36,7 @@
 
 ### Server side / Third Party
 
-*   [Kyrix (⭐133)](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support.
+*   [Kyrix (⭐135)](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support.
 
 ## [4. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
@@ -55,11 +56,11 @@
 
 ### Text / Barcode
 
-*   [Tagging (⭐109)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
+*   [Tagging (⭐110)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### Transition / Barcode
 
-*   [SamuraiTransition (⭐274)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
+*   [SamuraiTransition (⭐273)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -71,7 +72,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [surveyjs (⭐3.4k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
+*   [surveyjs (⭐3.5k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

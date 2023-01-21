@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Other plugins
 
-*   [Playlist (⭐13)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
+*   [Playlist (⭐14)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐544)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐594)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

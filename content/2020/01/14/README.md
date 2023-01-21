@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@
 
 ### Samples
 
-*   Khronos [Vulkan samples (⭐2.7k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐2.7k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
+*   Khronos [Vulkan samples (⭐2.8k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐2.8k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Deployment
 
-*   [Github Actions for Magento2 (⭐101)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+*   [Github Actions for Magento2 (⭐105)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
 
 ### Infrastructure
 
@@ -78,11 +78,11 @@
 
 ### Button / Barcode
 
-*   [FloatingButton (⭐706)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐719)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ### Walkthrough / Barcode
 
-*   [ConcentricOnboarding (⭐942)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
+*   [ConcentricOnboarding (⭐958)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -93,10 +93,6 @@
 ### Monitoring
 
 *   [letsmonitor.org](https://letsmonitor.org) - SSL monitoring, free for up to 5 monitors
-
-### DBaaS
-
-*   [Quickmetrics](https://www.quickmetrics.io/) — Timeseries database with dashboard included, free up to 10,000 events/day and total of 5 metrics.
 
 ### Design and UI
 
@@ -113,7 +109,7 @@
 
 ### Networking
 
-*   [httpx (⭐9.6k)](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests (⭐48k)](https://github.com/psf/requests) compatible API.
+*   [httpx (⭐9.8k)](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests (⭐49k)](https://github.com/psf/requests) compatible API.
 
 ## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -137,7 +133,7 @@
 
 ### Projects
 
-*   [Rust-Full-Stack (⭐1.2k)](https://github.com/steadylearner/Rust-Full-Stack) - Easily testable and working Rust codes with blog posts to explain them.
+*   [Rust-Full-Stack (⭐1.3k)](https://github.com/steadylearner/Rust-Full-Stack) - Easily testable and working Rust codes with blog posts to explain them.
 
 ### Books / Frameworks
 

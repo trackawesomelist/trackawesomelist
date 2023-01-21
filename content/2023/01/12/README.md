@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,6 +53,10 @@
 
 ## [7. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
+### Prompting
+
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
 ### Assistants
 
 *   [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs, etc.)](https://twitter.com/gabe_ragland/status/1599466486422470656)
@@ -61,25 +65,17 @@
 
 *   [(Another) Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
 
-### Other
-
-*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
-
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [KotUniL (⭐27)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
 ## [9. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Qubes OS Websites
 
-*   [Qubes OS GitHub Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
+*   [Qubes OS GitHub Documentation (⭐287)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 
 ### Training and Materials / Web articles
 
@@ -133,4 +129,5 @@
 
 ---
 
+- Prev: [Jan 13, 2023](/content/2023/01/13/README.md)
 - Next: [Jan 11, 2023](/content/2023/01/11/README.md)

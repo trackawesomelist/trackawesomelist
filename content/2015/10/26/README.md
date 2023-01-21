@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### PDF
 
-*   [CombinePDF (⭐643)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐645)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ## [2. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
@@ -97,21 +97,21 @@
 
 ### Packages / Mad science
 
-*   [turf (⭐7.6k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐7.7k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 
 ### Packages / Filesystem
 
-*   [find-up (⭐503)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
-*   [load-json-file (⭐222)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-*   [write-json-file (⭐200)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+*   [find-up (⭐508)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+*   [load-json-file (⭐224)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
+*   [write-json-file (⭐202)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 
 ### Packages / Streams
 
-*   [get-stream (⭐296)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐298)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐291)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐296)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 

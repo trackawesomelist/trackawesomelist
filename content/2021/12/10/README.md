@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐66)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP`
+*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐65)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP`
 
 ### Software / Search Engines
 
@@ -35,11 +35,11 @@
 *   🛑💼 [Aspect Ratio (⭐250)](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities.
 *   🛑💼 [Shadow Outline Colors (⭐9)](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 *   🛑💼 [Alpha (⭐71)](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variant utilities.
-*   🛑🧬 [Direction (⭐211)](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
+*   🛑🧬 [Direction (⭐210)](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
 *   🛑🧬 [Important (⭐42)](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
 *   🛑🧬🎨 [Prefers Dark Mode (⭐12)](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - Adds variants based on the `prefers-color-scheme` media query.
 *   🛑🧬🎨 [Dark Mode (⭐15)](https://github.com/danestves/tailwindcss-darkmode) - Adds `dark` variants based on CSS classes.
-*   🛑🧬🎨 [Dark Mode (⭐647)](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
+*   🛑🧬🎨 [Dark Mode (⭐644)](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -50,8 +50,8 @@
 
 ### Tools & Utilities / Others
 
-*   [BlazorTemplater (⭐92)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
-*   [MediaSession.Blazor (⭐3)](https://github.com/zuozishi/MediaSession.Blazor) - ![last-commit](https://img.shields.io/github/last-commit/zuozishi/MediaSession.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. ([Demo](https://zuozishi.github.io/MediaSession.Blazor/)).
+*   [BlazorTemplater (⭐95)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
+*   [MediaSession.Blazor (⭐4)](https://github.com/zuozishi/MediaSession.Blazor) - ![last-commit](https://img.shields.io/github/last-commit/zuozishi/MediaSession.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. ([Demo](https://zuozishi.github.io/MediaSession.Blazor/)).
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -63,40 +63,40 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dashy (⭐8.5k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
+*   [Dashy (⭐8.7k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 
 ### Components & Libraries / Frameworks
 
-*   [Admin One Vue 3 Tailwind dashboard (⭐982)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
+*   [Admin One Vue 3 Tailwind dashboard (⭐1.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [sQVe/sort.nvim (⭐74)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
+*   [sQVe/sort.nvim (⭐79)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [CosmicNvim/CosmicNvim (⭐787)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+*   [CosmicNvim/CosmicNvim (⭐814)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Promptism
 
-*   [mikaelalafriz/lucid-sonic-dreams (⭐727)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
+*   [mikaelalafriz/lucid-sonic-dreams (⭐732)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
 *   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
 
-### Improving Google Colab experience / OpenAI GPT-3
+### Miscellaneous / Improving Google Colab experience
 
 *   [Jupyter Widgets official documentation](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html)
 
-### Inbox for Related References / OpenAI GPT-3
+### Miscellaneous / Auxiliary tools and concepts
 
 *   [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
-*   [HashLips/hashlips\_art\_engine (⭐6.6k)](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
+*   [HashLips/hashlips\_art\_engine (⭐6.7k)](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
 
 ---
 

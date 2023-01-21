@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,9 +10,9 @@
 
 ### Packages / Command-line apps
 
-*   [empty-trash (⭐125)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+*   [empty-trash (⭐126)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 *   [is-online (⭐1.1k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐957)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [public-ip (⭐966)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
@@ -27,7 +27,7 @@
 
 ### Authentication
 
-*   [oauth2 (⭐685)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐687)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐56)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks

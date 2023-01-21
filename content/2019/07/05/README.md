@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -95,7 +95,7 @@
 
 ### HTTP
 
-*   [Crawly (⭐643)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [Crawly (⭐647)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐20)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)

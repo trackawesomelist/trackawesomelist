@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Logging / Barcode
 
-*   [AEConsole (⭐141)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
+*   [AEConsole (⭐142)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 
 ## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Logging
 
-*   [logster (⭐186)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
+*   [logster (⭐188)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
 
 ### Release Management
 

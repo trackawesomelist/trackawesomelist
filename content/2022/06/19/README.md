@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Tools / Network protocol
 
-*   [Scapy (⭐8.1k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Can fuzz any protocol. See the `fuzz` function.
+*   [Scapy (⭐8.3k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Can fuzz any protocol. See the `fuzz` function.
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -53,11 +53,11 @@
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐24)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐35)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐50)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐125)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
 

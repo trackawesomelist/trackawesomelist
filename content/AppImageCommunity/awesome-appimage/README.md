@@ -2,7 +2,7 @@
 
 Lovingly crafted AppImage tools and resources 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AppImageCommunity/awesome-appimage/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) · ⭐ 252 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AppImageCommunity/awesome-appimage/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) · ⭐ 252 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/AppImageCommunity/awesome-appimage/week/README.md) / [Overview](/content/AppImageCommunity/awesome-appimage/readme/README.md) ]
 

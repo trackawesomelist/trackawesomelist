@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,8 +22,8 @@
 
 ### Deployment / NLP
 
-*   [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 *   [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
+*   [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 
 ## [4. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -98,9 +98,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-horizontal-timeline (⭐87)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
+*   [vue-horizontal-timeline (⭐88)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
 *   [vue-image-kit (⭐9)](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
-*   [vue-paycard (⭐93)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
+*   [vue-paycard (⭐94)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
 *   [vue-list-picker (⭐14)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
 
 ## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
@@ -135,8 +135,8 @@
 ### Canvas
 
 *   [react-konva (⭐4.9k)](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
-*   [react-sketch (⭐580)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
-*   [react-sketch-canvas (⭐211)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
+*   [react-sketch (⭐588)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
+*   [react-sketch-canvas (⭐232)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 
 ## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

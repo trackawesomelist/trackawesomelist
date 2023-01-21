@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,13 +20,13 @@
 
 ### Reporter / Visibility Reporter
 
-*   [react-intersection-observer (⭐3.7k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
+*   [react-intersection-observer (⭐3.8k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
 ## [3. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### GFF BED File Utilities / Structural variant callers
 
-*   **[AGAT (⭐274)](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
+*   **[AGAT (⭐281)](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
 
 ## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐401)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐403)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -77,7 +77,7 @@
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐356)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐362)](https://github.com/loseys/Oblivion)
 
 ### Social Media Tools / VKontakte
 
@@ -132,7 +132,7 @@
 *   [Insecam](http://insecam.org/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐167)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐181)](https://github.com/yaochih/awesome-video-stabilization)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
@@ -157,7 +157,7 @@
 ### Other Tools / Telegram
 
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.1k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐2.2k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ### OSINT Videos / Telegram
 
@@ -241,7 +241,7 @@
 
 ### Modules / Utils
 
-*   [buckets (⭐21)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
+*   [buckets (⭐22)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 
 ## [13. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/love2d-community/awesome-love2d/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) · ⭐ 2.6K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/love2d-community/awesome-love2d/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) · ⭐ 2.6K · 🏷️ Gaming
 
 [ [Daily](/content/love2d-community/awesome-love2d/README.md) / [Weekly](/content/love2d-community/awesome-love2d/week/README.md) / Overview ]
 

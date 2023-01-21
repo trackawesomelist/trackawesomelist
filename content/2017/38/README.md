@@ -2,7 +2,7 @@
 
 33 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -78,11 +78,11 @@
 
 ### Images / Barcode
 
-*   [DTPhotoViewerController (⭐276)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
+*   [DTPhotoViewerController (⭐278)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 
 ### Cryptography / Barcode
 
-*   [Siphash (⭐261)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+*   [Siphash (⭐263)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 
 ### Mock / Barcode
 
@@ -149,7 +149,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐856)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐861)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Tools
 
-*   [Fake JSON Server (⭐343)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
+*   [Fake JSON Server (⭐348)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 
 ## [15. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
@@ -366,11 +366,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-inputmask (⭐117)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
+*   [vue-inputmask (⭐119)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐721)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐726)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [25. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -382,8 +382,8 @@
 
 ### Hardware
 
-*   [keyboard (⭐3.2k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-*   [mouse (⭐710)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
+*   [keyboard (⭐3.3k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+*   [mouse (⭐724)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 
 ## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -434,10 +434,6 @@
 
 *   [Explain me like I'm 5: How digital signatures actually work](http://blog.oleganza.com/post/162861219668/eli5-how-digital-signatures-actually-work) - EdDSA explained with ease and elegance.
 
-### Specific topics / Zero Knowledge Proofs
-
-*   [Information Theoretic Reductions among Disclosure Problems](http://crypto.cs.mcgill.ca/\~crepeau/BCR86.pdf) - Brassau et al.
-
 ### Lectures and educational courses / Post-quantum cryptography
 
 *   [Understanding cryptography: A textbook for Students and Practitioners](http://www.crypto-textbook.com/) - Textbook, great lectures and problems to solve.
@@ -448,19 +444,19 @@
 
 ### Application Libraries
 
-*   [Core (⭐949)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐214)](https://github.com/janestreet/core_kernel).
+*   [Core (⭐961)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐214)](https://github.com/janestreet/core_kernel).
 *   [Minicli (⭐27)](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
 
 ### User Interface
 
-*   [lablqml (⭐146)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+*   [lablqml (⭐149)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐294)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
+*   [Notty (⭐299)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
 ### Security and Cryptography
 
-*   [cryptokit (⭐83)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
+*   [cryptokit (⭐87)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 
 ## [31. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 

@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Community Extensions
 
-*   [Organizations for Keycloak (⭐58)](https://github.com/p2-inc/keycloak-orgs)
+*   [Organizations for Keycloak (⭐92)](https://github.com/p2-inc/keycloak-orgs)
 
 ### Integrations
 
@@ -30,41 +30,40 @@
 
 ### DevSecOps / Dependency confusion
 
-*   [snync (⭐27)](https://github.com/snyk-labs/snync) - Prevent and detect if you're vulnerable to dependency confusion supply chain security attacks.
+*   [snync (⭐28)](https://github.com/snyk-labs/snync) - Prevent and detect if you're vulnerable to dependency confusion supply chain security attacks.
 
 ### Threat intelligence / Fingerprinting
 
-*   [HASSH (⭐465)](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
+*   [HASSH (⭐469)](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
 *   [JA3](https://ja3er.com/) - Extracts SSL/TLS handshake settings for fingerprinting and communicating about a given TLS implementation.
 
 ## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
-### Open Source Games
+### Open Source Games / Java
 
-*   ### Java
-    *   🔒 [Pixel Dungeon (⭐3.2k)](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
+*   🔒 [Pixel Dungeon (⭐3.2k)](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 
 ## [5. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions
 
-*   [Tags M2M (⭐20)](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
+*   [Tags M2M (⭐29)](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-dnd (⭐136)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
+*   [vue3-dnd (⭐144)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [inthedeepspace (⭐1)](https://github.com/alionapermes/inthedeepspace/) - Based on [intheloop (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#user-content-intheloop) and inspired by [vim-deep-space (⭐274)](https://github.com/tyrannicaltoucan/vim-deep-space).
+*   [inthedeepspace (⭐1)](https://github.com/alionapermes/inthedeepspace/) - Based on [intheloop (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#user-content-intheloop) and inspired by [vim-deep-space (⭐274)](https://github.com/tyrannicaltoucan/vim-deep-space).
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [shtab (⭐214)](https://github.com/iterative/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
+*   [shtab (⭐218)](https://github.com/iterative/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
 
 ## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -76,19 +75,19 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [genfuncs (⭐37)](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
+*   [genfuncs (⭐41)](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Text search
 
-*   [tantivy (⭐7.4k)](https://github.com/quickwit-oss/tantivy) \[[tantivy](https://crates.io/crates/tantivy)] — A horse-speed full-text search engine library written in Rust. [![Build Status](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml)
+*   [tantivy (⭐7.5k)](https://github.com/quickwit-oss/tantivy) \[[tantivy](https://crates.io/crates/tantivy)] — A horse-speed full-text search engine library written in Rust. [![Build Status](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Session / Diagnostics
 
-*   [jedrzejboczar/possession.nvim (⭐162)](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management with arbitrary persistent data stored as JSON.
+*   [jedrzejboczar/possession.nvim (⭐170)](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management with arbitrary persistent data stored as JSON.
 
 ## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

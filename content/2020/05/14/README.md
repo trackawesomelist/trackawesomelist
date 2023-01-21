@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,8 +28,8 @@
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [Inveigh (⭐1.9k)](https://github.com/Kevin-Robertson/Inveigh) - Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/machine-in-the-middle tool.
-*   [Rubeus (⭐2.7k)](https://github.com/GhostPack/Rubeus) - Toolset for raw Kerberos interaction and abuses.
+*   [Inveigh (⭐2k)](https://github.com/Kevin-Robertson/Inveigh) - Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/machine-in-the-middle tool.
+*   [Rubeus (⭐2.9k)](https://github.com/GhostPack/Rubeus) - Toolset for raw Kerberos interaction and abuses.
 
 ## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -46,16 +46,16 @@
 
 ### Modules / CLI utils
 
-*   [cli-spinner (⭐53)](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
+*   [cli-spinner (⭐54)](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 
 ### Modules / Template engine
 
-*   [dejs (⭐131)](https://github.com/syumai/dejs) - Ejs template engine for deno.
+*   [dejs (⭐132)](https://github.com/syumai/dejs) - Ejs template engine for deno.
 
 ### Modules / Utils
 
 *   deno-dotenv
-    *   [pietvanzoen/deno-dotenv (⭐149)](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
+    *   [pietvanzoen/deno-dotenv (⭐153)](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
     *   [cardosomarcos/deno-dotenv (⭐7)](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for Deno projects.
 *   [deno-plugin-prepare (⭐46)](https://github.com/manyuanrong/deno-plugin-prepare) - A library for managing Deno native plugin dependencies.
 *   [ms (⭐13)](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
@@ -65,8 +65,8 @@
 *   [clone (⭐4)](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 *   [denoinit (⭐28)](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
 *   [denoversion (⭐6)](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
-*   [deno-vscode (⭐144)](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension.
-*   [udd (⭐248)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
+*   [deno-vscode (⭐143)](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension.
+*   [udd (⭐263)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 
 ### Articles / XML
 
@@ -98,16 +98,16 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [visidata (⭐6.1k)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
+*   [visidata (⭐6.2k)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 
 ### Applications / Directory Navigation
 
-*   [nomino (⭐434)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
-*   [pockyt (⭐471)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+*   [nomino (⭐456)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
+*   [pockyt (⭐472)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ## [8. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### Links / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Top 100 sci-fi and fantasy books as picked by NPR listeners](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
 
@@ -120,7 +120,7 @@
 
 ### Integrations
 
-*   [Keycloak Connect GraphQL Adapter for Node.js (⭐151)](https://github.com/aerogear/keycloak-connect-graphql)
+*   [Keycloak Connect GraphQL Adapter for Node.js (⭐152)](https://github.com/aerogear/keycloak-connect-graphql)
 
 ### Themes
 
@@ -167,7 +167,7 @@
 
 ### Encryption / File Sharing
 
-*   [Deadbolt (⭐273)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Deadbolt (⭐278)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mljar-supervised (⭐2.3k)](https://github.com/mljar/mljar-supervised) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
+*   [mljar-supervised (⭐2.4k)](https://github.com/mljar/mljar-supervised) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
 
 ## [15. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ts-audio (⭐282)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+*   :octocat: [ts-audio (⭐285)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 
 ## [18. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

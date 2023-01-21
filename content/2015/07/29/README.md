@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 29, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Math
 
-*   [MIRACL (⭐517)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐521)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ## [2. Tips](/content/git-tips/tips/README.md)
 
@@ -36,19 +36,13 @@ git ls-files --others -i --exclude-standard
 
 *   [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 
-## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Miscellaneous / Third Party
-
-*   [d3-resume (⭐40)](https://github.com/glena/d3-resume) - Resume visualizer
-
-## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Android tools / Misc
 
 *   [MPAndroidChart (⭐36k)](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
 
-## [6. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [5. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Videos / Tutorial-only
 
@@ -80,19 +74,19 @@ git ls-files --others -i --exclude-standard
 *   [on Reddit](http://www.reddit.com/r/sketchapp)
 *   [SketchTalk](http://sketchtalk.io/), unofficial forum
 
-## [7. Amas](/content/sindresorhus/amas/README.md)
+## [6. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Rob Furlong (⭐1)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
 
-## [8. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
+## [7. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 
 ### terminal
 
 *   [vantage.js (⭐3.5k)](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
 
-## [9. Tools](/content/lvwzhen/tools/README.md)
+## [8. Tools](/content/lvwzhen/tools/README.md)
 
 ### CSS
 

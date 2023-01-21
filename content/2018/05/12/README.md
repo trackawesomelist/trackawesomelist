@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [LCVPN (⭐498)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
+*   [LCVPN (⭐503)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 *   [Meshbird (⭐3.4k)](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
 *   [nuTorrent ☠️ (⭐231)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 
@@ -65,7 +65,7 @@
 
 ### Images / Barcode
 
-*   [ImageDetect (⭐298)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
+*   [ImageDetect (⭐299)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
 
 ## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

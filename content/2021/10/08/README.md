@@ -2,13 +2,13 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Artists and Artworks / OpenAI GPT-3
+### People and works / Artists and Artworks
 
 *   <https://www.instagram.com/refikanadol/>
 
@@ -76,11 +76,11 @@
 
 ### Recruitment / Interview
 
-*   [Engineering Leadership Interviews (⭐72)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
+*   [Engineering Leadership Interviews (⭐77)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
 
 ### Cognitive Tools / Collections
 
-*   [Awesome Concepts (⭐420)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
+*   [Awesome Concepts (⭐421)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
 
 ### Engineering / Engineering Practices
 
@@ -90,8 +90,8 @@
 
 ### Accounting / Bookkeeping
 
-*   [Ledger (⭐517)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
-*   [Akaunting (⭐5.7k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Ledger (⭐538)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Akaunting (⭐5.8k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -244,15 +244,11 @@
 
 
 
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [17. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### JavaScript / React
+### Containers
 
-*   [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content) - Krasimir Tsonev
-
-### Python / Django
-
-*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
+*   [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 
 ---
 

@@ -2,7 +2,7 @@
 
 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sorrycc/awesome-javascript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ⭐ 29K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sorrycc/awesome-javascript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ⭐ 29K · 🏷️ Programming Languages
 
 [ [Daily](/content/sorrycc/awesome-javascript/README.md) / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / Overview ]
 

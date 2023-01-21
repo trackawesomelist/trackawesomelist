@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,11 +19,11 @@
 ### Scientific
 
 *   Numerical arrays
-    *   [NMatrix (⭐464)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
-    *   [Numo::NArray (⭐358)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
+    *   [NMatrix (⭐463)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
+    *   [Numo::NArray (⭐363)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
     *   [mdarray (⭐36)](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
-*   [SciRuby (⭐973)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
-    *   [IRuby (⭐736)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
+*   [SciRuby (⭐974)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+    *   [IRuby (⭐742)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
     *   [statsample (⭐95)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
     *   [statsample-timeseries (⭐13)](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
     *   [statsample-glm (⭐23)](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.

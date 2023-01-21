@@ -2,7 +2,7 @@
 
 23 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -105,7 +105,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Go / Computer vision
 
-*   [GoCV (⭐5.1k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+*   [GoCV (⭐5.2k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
 ### Data Analysis / Data Visualization / Data Analysis / Data Visualization
 
@@ -126,7 +126,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Map/Reduce implementations of common ML algorithms (⭐57)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
+*   [Map/Reduce implementations of common ML algorithms (⭐58)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
 
 ### Python / Reinforcement Learning
 

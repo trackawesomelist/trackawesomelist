@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### UI / UI Helpers
 
-*   [In View Notifier List (⭐497)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
+*   [In View Notifier List (⭐512)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
 
 ## [6. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

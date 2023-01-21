@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code (⭐170)](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Lua/Python`
+*   [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code (⭐181)](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Lua/Python`
 
 ### Software / Pastebins
 
@@ -30,13 +30,13 @@
 
 ### Libraries and Tools / Python
 
-*   [CanoPy (⭐103)](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
+*   [CanoPy (⭐106)](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 
 ## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Other Awesome Lists / Collection View Layout
 
-*   [awesome-ios-developer (⭐646)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
+*   [awesome-ios-developer (⭐660)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
 
 ## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Computer Science
 
-*   [Theoretical Computer Science (⭐312)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+*   [Theoretical Computer Science (⭐331)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -66,13 +66,13 @@
 
 ### Resources / Web programming
 
-*   [RustViz (⭐2.2k)](https://github.com/rustviz/rustviz) — generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
+*   [RustViz (⭐2.3k)](https://github.com/rustviz/rustviz) — generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-cesium (⭐908)](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
+*   [vue-cesium (⭐921)](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
 
 ---
 

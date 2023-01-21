@@ -2,7 +2,7 @@
 
 49 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -219,7 +219,7 @@
 
 ### Gesture
 
-*   [SwiftyGestureRecognition (⭐160)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
+*   [SwiftyGestureRecognition (⭐161)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 
 ## [19. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -356,7 +356,7 @@ git log Branch1 ^Branch2
 
 ### Domain-specific language
 
-*   [Absinthe Graphql (⭐4k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
+*   [Absinthe Graphql (⭐4.1k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
 
 ### Framework Components
 
@@ -410,7 +410,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Text
 
-*   [matcher (⭐521)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐524)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -420,8 +420,8 @@ git log Branch1 ^Branch2
 
 ### Packages / Miscellaneous
 
-*   [mem (⭐984)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-*   [adit (⭐46)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [mem (⭐990)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [adit (⭐47)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -568,7 +568,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### For Electron / Other
 
-*   [electron-packager (⭐8.1k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐8.2k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
 ## [47. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 

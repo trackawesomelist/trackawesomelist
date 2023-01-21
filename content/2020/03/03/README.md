@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,7 +19,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [DataFormsJS JSX Loader (⭐152)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+*   [DataFormsJS JSX Loader (⭐157)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 
 ## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -31,19 +31,19 @@
 
 ### Auth / Image Picker
 
-*   [Firebase Auth (⭐7.2k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
+*   [Firebase Auth (⭐7.3k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
 
 ### Analytics / Image Picker
 
-*   [Firebase Analytics (⭐7.2k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
+*   [Firebase Analytics (⭐7.3k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 
 ### Storage / Voice
 
-*   [Firebase Storage (⭐7.2k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage
+*   [Firebase Storage (⭐7.3k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage
 
 ### Monetization / Preferences
 
-*   [Firebase AdMob (⭐7.2k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase
+*   [Firebase AdMob (⭐7.3k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase
 
 ## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Discord Support (⭐65)](https://github.com/wadahiro/keycloak-discord)
+*   [Keycloak Discord Support (⭐71)](https://github.com/wadahiro/keycloak-discord)
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -82,7 +82,7 @@
 
 ### For Electron / Other
 
-*   [electronegativity (⭐803)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
+*   [electronegativity (⭐819)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
 ## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

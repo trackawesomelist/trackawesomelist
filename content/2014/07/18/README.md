@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Figaro (⭐749)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+*   [Figaro (⭐751)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ## [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Logging
 
-*   [Serilog (⭐5.9k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+*   [Serilog (⭐6k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 
 ## [6. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

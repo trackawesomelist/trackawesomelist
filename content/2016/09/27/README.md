@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### GUI
 
-*   [ScintillaNET (⭐895)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
+*   [ScintillaNET (⭐901)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
 
 ### Image Processing
 
@@ -49,7 +49,7 @@
 
 ### Media
 
-*   [NAudio (⭐4.3k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
+*   [NAudio (⭐4.4k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 
 ### Protocols
 

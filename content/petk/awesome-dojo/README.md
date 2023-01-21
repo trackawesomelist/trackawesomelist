@@ -2,7 +2,7 @@
 
 A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/petk/awesome-dojo/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 petk/awesome-dojo](https://github.com/petk/awesome-dojo) · ⭐ 75 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/petk/awesome-dojo/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 petk/awesome-dojo](https://github.com/petk/awesome-dojo) · ⭐ 75 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/petk/awesome-dojo/week/README.md) / [Overview](/content/petk/awesome-dojo/readme/README.md) ]
 

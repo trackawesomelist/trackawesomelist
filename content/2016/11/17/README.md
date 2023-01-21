@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -80,7 +80,7 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [GLSL lighting walkthrough (⭐437)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+*   [GLSL lighting walkthrough (⭐442)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 
 ### Math / Other
 
@@ -150,7 +150,7 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐8.4k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐8.6k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Visual Studio Plugins
 

@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,7 +12,13 @@
 
 *   [Hoare Type Theory (⭐56)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
 
-## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### Darknet
+
+*   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on qubes-whonix.
+
+## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Web APIs
 
@@ -32,17 +38,13 @@
 *   [RDchiral (⭐107)](https://github.com/connorcoley/rdchiral) - Wrapper for RDKit's RunReactants to improve stereochemistry handling
 *   [confgen (⭐4)](https://github.com/Et9797/confgen-webapp) - Webapp for generating conformers
 
-## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
-
-### Communities
-
-*   [Discord](https://discord.graphql.org/) - Official GraphQL.org discord channel.
+## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Miscellaneous / React
 
 *   [graphql-shield-generator (⭐5)](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
 
-## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
@@ -50,81 +52,74 @@
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Flowbite React (⭐593)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
+*   :octocat: [Flowbite React (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
 
-## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Embodied Intelligence / Explainable Deep Learning
 
 *   [3D dynamic scene graphs: Actionable spatial perception with places, objects, and humans](https://arxiv.org/abs/2002.06289) - ***RSS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4428742298455436054\&hl=en\&as_sdt=0,5)]. A system for modeling 3D dynamic scene graphs on multiple levels (metric-semantic mesh, objects and agents, places and structures, rooms, and buildings).
 
-## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Tips & Tricks / Editors
 
 *   [JMeter tips](https://web.archive.org/web/20221126233834/https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
 
-## [7. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
+## [8. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
 ### Producers / JavaScript
 
 *   [node:test](https://nodejs.org/api/test.html) - Minimal TAP test runner included with Node.js.
 
-## [8. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [9. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
 *   [SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities, 2022](https://compsec.snu.ac.kr/papers/jaewon-specdoctor.pdf)
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Utils
 
 *   [hetzner-k3s (⭐548)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
 *   [ex\_integration\_coveralls (⭐2)](https://github.com/yeshan333/ex_integration_coveralls) - A library for Elixir run-time system code line-level coverage analysis. You can use it to evaluate the integration tests code coverage. [Introduction article (⭐3)](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [12. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Queues and Messaging
 
 *   [Lowkiq (⭐137)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [Stable Diffusion KLMC2 Animation.ipynb forked](https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb): fork by [@DigThatData](https://twitter.com/DigThatData)
 *   [Stable Diffusion KLMC2 Animation.ipynb](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G): notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
 
-### Inbox: Music-and-Sound-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / ChatGPT
 
-*   [neonbjb/tortoise-tts (⭐2.7k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
-
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
-
-*   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
 *   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 
-## [13. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
 
-### Unikernels
+*   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
 
-*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels)
+### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
 
-### TOR
-
-*   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
+*   [neonbjb/tortoise-tts (⭐3.5k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 
 ## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐590)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
+*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐656)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -178,14 +173,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [golang (⭐0)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
-*   [rust (cowboy) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
-*   [rust (wintermi) (⭐0)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
+*   [golang (⭐1)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
+*   [rust (wintermi) (⭐1)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gcloud (littleq0903) (⭐76)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
-*   [gcloud (wintermi) (⭐0)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface (gcloud CLI) completions.
+*   [gcloud (wintermi) (⭐1)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface (gcloud CLI) completions.
 
 ## [19. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -202,4 +196,5 @@
 
 ---
 
+- Prev: [Jan 06, 2023](/content/2023/01/06/README.md)
 - Next: [Jan 04, 2023](/content/2023/01/04/README.md)

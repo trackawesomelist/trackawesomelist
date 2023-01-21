@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,10 +11,6 @@
 ### Events
 
 *   [Bond (⭐4.2k)](https://github.com/DeclarativeHub/Bond) - Binding framework.
-
-### Images / Barcode
-
-*   [SwiftGif (⭐1.3k)](https://github.com/swiftgif/SwiftGif) - A small UIImage extension with GIF support.
 
 ### Layout / Barcode
 
@@ -26,11 +22,11 @@
 
 ### Math / Barcode
 
-*   [Upsurge (⭐179)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
+*   [Upsurge (⭐180)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐982)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐983)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
@@ -81,7 +77,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐159)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐161)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

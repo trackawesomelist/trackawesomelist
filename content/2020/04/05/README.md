@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,19 +20,19 @@
 
 ### External Services
 
-*   [movie-box (⭐16)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+*   [movie-box (⭐20)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Builders
 
-*   [Keimeno (⭐13)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
+*   [Keimeno (⭐14)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 
 ## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Drag and Drop
 
-*   [react-drag-sizing (⭐13)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+*   [react-drag-sizing (⭐14)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 
 ### Form Components / Rich Text Editor
 
@@ -68,7 +68,7 @@
 
 ### Databases
 
-*   [Database Tools (⭐2.4k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐2.7k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
 ## [8. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

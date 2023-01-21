@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,17 +22,17 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Misc
 
-*   [XcodeGen (⭐5.8k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+*   [XcodeGen (⭐5.9k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ### Events
 
-*   [VueFlux (⭐324)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
+*   [VueFlux (⭐326)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Configuration
 
-*   [habitat (⭐74)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
+*   [habitat (⭐75)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
 
 ### Web Frameworks
 
@@ -42,7 +42,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Mathematics
 
-*   [AutoDiff (⭐73)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
+*   [AutoDiff (⭐75)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 23 - Jan 29, 2017
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -221,14 +221,14 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [Falsehoods (⭐19k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐44k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐807)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐815)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐223k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐229k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐5.3k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
-*   [Selenium (⭐845)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
-*   [Security (⭐9k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+*   [Selenium (⭐856)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
+*   [Security (⭐9.2k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
 ## [23. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -249,7 +249,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Samples / Other
 
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐387)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐386)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -537,7 +537,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Interviewing
 
-*   [awesome-interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 
 ### Podcasts
 
@@ -632,8 +632,8 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.1k)](https://github.com/kgryte/awesome-peer-to-peer)
 *   [https://github.com/retrohacker/awesome-p2p (⭐139)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐521)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐182)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐525)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐183)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.5k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 
@@ -684,25 +684,19 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [ggplot (⭐3.6k)](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 
-## [39. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
-
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
 *   [defql (⭐102)](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 
-## [41. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [40. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
 *   [Greece](https://www.meetup.com/dddgreece/)
 
-## [42. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [41. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -711,7 +705,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
     *   [Lecture notes](http://web.stanford.edu/class/cs276/index.html#syllabus)
     *   [Readings](http://web.stanford.edu/class/cs276/index.html#books)
 
-## [43. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [42. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### MusaicFM
 
@@ -731,7 +725,7 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
 
-## [44. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -746,13 +740,13 @@ Free
 
 ### Code Highlighting
 
-*   [CodeRay (⭐832)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [CodeRay (⭐833)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
 *   [pygments.rb (⭐558)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 *   [Rouge (⭐3.2k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐721)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐722)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -760,7 +754,7 @@ Free
 
 ### Feature Flippers and A/B Testing
 
-*   [Motorhead (⭐181)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
+*   [Motorhead (⭐180)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
 *   [flipper (⭐3.1k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 *   [Rollout (⭐2.8k)](https://github.com/FetLife/rollout) - Feature flippers.
 *   [Split (⭐2.6k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
@@ -774,7 +768,7 @@ Free
 
 *   [Video Transcoding (⭐2.3k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
-## [45. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [44. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / A companies
 

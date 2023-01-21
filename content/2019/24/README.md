@@ -2,7 +2,7 @@
 
 50 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -342,7 +342,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-*   [QMK Configurator (⭐509)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐513)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Components & Libraries / UI Components
 
@@ -353,7 +353,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [CabloyJS (⭐702)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+*   [CabloyJS (⭐709)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
 ### Components & Libraries / UI Utilities
 
@@ -396,7 +396,7 @@
 
 ### Tools / Network protocol
 
-*   [SPIKE (⭐67)](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - A fuzzer development framework like sulley, a predecessor of sulley.
+*   [SPIKE (⭐69)](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - A fuzzer development framework like sulley, a predecessor of sulley.
 *   [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) - Security testing of protocol implementations.
 
 ## [22. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
@@ -434,16 +434,16 @@
 
 ### UI
 
-*   [Direct Select (⭐558)](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+*   [Direct Select (⭐575)](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 
 ### Charts / Image Picker
 
-*   [FL Chart (⭐5k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
+*   [FL Chart (⭐5.2k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 
 ### Monetization / Preferences
 
 *   [Facebook Audience Network (⭐148)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
-*   [Square In-App Payments SDK (⭐311)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+*   [Square In-App Payments SDK (⭐317)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
 ### Top / Game Engine resources
 
@@ -482,14 +482,14 @@
 ### Julia / Natural Language Processing
 
 *   [Word Tokenizers (⭐85)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
-*   [Corpus Loaders (⭐31)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
-*   [Embeddings (⭐66)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
+*   [Corpus Loaders (⭐30)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
+*   [Embeddings (⭐67)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
 *   [Languages (⭐47)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
 *   [WordNet (⭐31)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐125)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐130)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -508,7 +508,7 @@
 
 ### Libraries / Machine Learning
 
-*   [chainer-chemistry (⭐547)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
+*   [chainer-chemistry (⭐552)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 
 ## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -615,7 +615,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐47)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐48)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -683,28 +683,28 @@
 
 ### For Electron / Other
 
-*   [debugtron (⭐872)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-better-ipc (⭐634)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [debugtron (⭐904)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-better-ipc (⭐640)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 *   [electron-chrome-extension (⭐119)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
-*   [Pascal (⭐1.4k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
+*   [Pascal (⭐1.5k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 
 ### Theory
 
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐446)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+    *   [Education (⭐470)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐439)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐460)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ### Security
 
-*   [Fuzzing (⭐595)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

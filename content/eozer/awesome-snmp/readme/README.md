@@ -2,7 +2,7 @@
 
 A curated list of awesome SNMP libraries, tools, and other resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/eozer/awesome-snmp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 eozer/awesome-snmp](https://github.com/eozer/awesome-snmp) · ⭐ 21 · 🏷️ Networking
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/eozer/awesome-snmp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 eozer/awesome-snmp](https://github.com/eozer/awesome-snmp) · ⭐ 21 · 🏷️ Networking
 
 [ [Daily](/content/eozer/awesome-snmp/README.md) / [Weekly](/content/eozer/awesome-snmp/week/README.md) / Overview ]
 

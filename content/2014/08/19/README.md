@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 19, 2014
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,17 +27,11 @@
 
 ### Packages / Streams
 
-*   [multistream (⭐275)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐277)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐240)](https://github.com/sindresorhus/ipify) - Get your public IP address.
-
-## [4. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Pune](http://www.meetup.com/Doo-Things)
+*   [ipify (⭐241)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ---
 

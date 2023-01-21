@@ -2,7 +2,7 @@
 
 41 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -86,7 +86,7 @@
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐424)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐435)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -162,7 +162,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐131)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
+*   [AlertHub (⭐132)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
 
 ### Software / Pastebins
 
@@ -218,7 +218,7 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐5.9k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐6.1k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
 ## [26. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -244,7 +244,7 @@ Webpage: <https://yoghut.com/>
 
 ### Math
 
-*   [StatsLib (⭐423)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐424)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [29. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
@@ -315,7 +315,7 @@ Webpage: <https://yoghut.com/>
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐29)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐76)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐31)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐78)](https://github.com/thejpster/pc-keyboard).
 
 ## [36. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -356,11 +356,11 @@ Webpage: <https://yoghut.com/>
 ### Auth / Image Picker
 
 *   [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
-*   [SimpleAuth (⭐337)](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
+*   [SimpleAuth (⭐340)](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 
 ### Templates / Preferences
 
-*   [Book (⭐314)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
+*   [Book (⭐317)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
 ## [40. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 

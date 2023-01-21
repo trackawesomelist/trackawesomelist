@@ -2,7 +2,7 @@
 
 A curated list of awesome Python asyncio frameworks, libraries, software and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/timofurrer/awesome-asyncio/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) · ⭐ 3.8K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/timofurrer/awesome-asyncio/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) · ⭐ 3.8K · 🏷️ Programming Languages
 
 [ [Daily](/content/timofurrer/awesome-asyncio/README.md) / [Weekly](/content/timofurrer/awesome-asyncio/week/README.md) / Overview ]
 

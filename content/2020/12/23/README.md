@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,25 +20,25 @@
 
 ### Datasets / Book Deals (Affiliated) 🛍
 
-*   [5000 Images of Clothes (⭐67)](https://github.com/alexeygrigorev/clothing-dataset)
+*   [5000 Images of Clothes (⭐69)](https://github.com/alexeygrigorev/clothing-dataset)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Data Science Interviews Questions (⭐6.9k)](https://github.com/alexeygrigorev/data-science-interviews)
+*   [Data Science Interviews Questions (⭐7k)](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
-*   [C-Turtle (⭐44)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
+*   [C-Turtle (⭐45)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
 
 ### Multimedia
 
-*   [libass (⭐718)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
+*   [libass (⭐724)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
 
 ### Networking
 
-*   [CppServer (⭐945)](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
+*   [CppServer (⭐953)](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
 
 ### Physics
 
@@ -46,12 +46,12 @@
 
 ### Serialization
 
-*   [Bitsery (⭐766)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
-*   [FastBinaryEncoding (⭐649)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
+*   [Bitsery (⭐769)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
+*   [FastBinaryEncoding (⭐652)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
 
 ### Web Application Framework
 
-*   [oat++ (⭐5.9k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
+*   [oat++ (⭐6k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
 
 ### Online Compiler
 
@@ -154,21 +154,21 @@
 *   [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) - C library extending gbdk.
 *   [gbdk-lib-extension (⭐11)](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
 *   [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
-*   [mgbdis (⭐178)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+*   [mgbdis (⭐181)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
 *   [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
-*   [romusage (⭐24)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
+*   [romusage (⭐30)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
 *   [awake (⭐57)](https://github.com/devdri/awake) - Game Boy decompiler.
 *   [Game Boy Text Tools (⭐8)](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
 
 ### Tools / Graphics utilities
 
 *   [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer (GBTD) and Game Boy Map Builder (GBMB) tools.
-*   [Tilemap Studio (⭐241)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
+*   [Tilemap Studio (⭐251)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
 
 ### Tools / Hardware and ROM utilities
 
-*   [cart-dumper (⭐27)](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
-*   [gbcamextract (⭐41)](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
+*   [cart-dumper (⭐28)](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
+*   [gbcamextract (⭐42)](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
 *   [Game Boy LCD sniffing (⭐142)](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
 *   [swapdump (⭐1)](https://github.com/sanqui/swapdump) - Diagnostic utility for Game Boy flashcarts.
 *   [Gameboy-LinkUp (⭐6)](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
@@ -201,19 +201,19 @@
 ### Studies
 
 *   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
-*   [Will it Scale? (⭐154)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+*   [Will it Scale? (⭐159)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
 
 ### Scaffold / Checkbox
 
-*   [component-template (⭐518)](https://github.com/sveltejs/component-template) - A base for building shareable components.
-*   [svelte-pwa-template (⭐188)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+*   [component-template (⭐522)](https://github.com/sveltejs/component-template) - A base for building shareable components.
+*   [svelte-pwa-template (⭐194)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 
-*   [Sudoku (⭐51)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
-*   [Truth or Dare (⭐41)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
+*   [Sudoku (⭐54)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
+*   [Truth or Dare (⭐43)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 
 ---
 

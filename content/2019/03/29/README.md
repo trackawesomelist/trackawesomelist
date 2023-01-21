@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -54,13 +54,13 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [CrackMapExec (⭐6.6k)](https://github.com/byt3bl33d3r/CrackMapExec) - Swiss army knife for pentesting networks.
-*   [IKEForce (⭐217)](https://github.com/SpiderLabs/ikeforce) - Command line IPSEC VPN brute forcing tool for Linux that allows group name/ID enumeration and XAUTH brute forcing capabilities.
-*   [Legion (⭐803)](https://github.com/GoVanguard/legion) - Graphical semi-automated discovery and reconnaissance framework based on Python 3  and forked from SPARTA.
+*   [CrackMapExec (⭐6.8k)](https://github.com/byt3bl33d3r/CrackMapExec) - Swiss army knife for pentesting networks.
+*   [IKEForce (⭐219)](https://github.com/SpiderLabs/ikeforce) - Command line IPSEC VPN brute forcing tool for Linux that allows group name/ID enumeration and XAUTH brute forcing capabilities.
+*   [Legion (⭐840)](https://github.com/GoVanguard/legion) - Graphical semi-automated discovery and reconnaissance framework based on Python 3  and forked from SPARTA.
 *   [Network-Tools.com](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
 *   [Praeda](http://h.foofus.net/?page_id=218) - Automated multi-function printer data harvester for gathering usable data during security assessments.
-*   [Printer Exploitation Toolkit (PRET) (⭐3.2k)](https://github.com/RUB-NDS/PRET) - Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
-*   [THC Hydra (⭐6.8k)](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
+*   [Printer Exploitation Toolkit (PRET) (⭐3.3k)](https://github.com/RUB-NDS/PRET) - Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
+*   [THC Hydra (⭐7.1k)](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
 *   [dsniff](https://www.monkey.org/\~dugsong/dsniff/) - Collection of tools for network auditing and pentesting.
 *   [impacket (⭐10k)](https://github.com/CoreSecurity/impacket) - Collection of Python classes for working with network protocols.
 *   [routersploit (⭐11k)](https://github.com/reverse-shell/routersploit) - Open source exploitation framework similar to Metasploit but dedicated to embedded devices.
@@ -78,7 +78,7 @@
 ### Tools / Web, JavaScript
 
 *   [fuzzilli (⭐1.5k)](https://github.com/googleprojectzero/fuzzilli) - A (coverage-)guided Javascript engine fuzzer, written by Samuel Groß.
-*   [CodeAlchemist (⭐220)](https://github.com/SoftSec-KAIST/CodeAlchemist) - JavaScript engine fuzzer, written by KAIST SoftSec Lab.
+*   [CodeAlchemist (⭐225)](https://github.com/SoftSec-KAIST/CodeAlchemist) - JavaScript engine fuzzer, written by KAIST SoftSec Lab.
 
 ---
 

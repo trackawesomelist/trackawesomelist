@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,7 +29,7 @@
 
 ### CLI Utilities
 
-*   [Whirly (⭐315)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
+*   [Whirly (⭐316)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
 
 ### Cryptocurrencies and Blockchains
 
@@ -37,7 +37,7 @@
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐545)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐549)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 
@@ -53,7 +53,7 @@
 
 ### Plugins
 
-*   [extrakto (⭐611)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐629)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
 ## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -75,7 +75,7 @@
 
 ### UI / UI Helpers
 
-*   [Reorderables (⭐543)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+*   [Reorderables (⭐571)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 
 ## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -185,7 +185,7 @@
 
 ### Monetization / Preferences
 
-*   [Inapp Purchase (⭐498)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.2k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
+*   [Inapp Purchase (⭐504)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.3k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
 
 ## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -203,7 +203,7 @@
 
 ### Configuration
 
-*   [totem (⭐60)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+*   [totem (⭐62)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -234,51 +234,51 @@
 
 *   [docker-stacks (⭐7k)](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 *   [Hydrogen (⭐3.8k)](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
-*   [Jupyter Notebook (⭐9.6k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
+*   [Jupyter Notebook (⭐9.7k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 *   [JupyterHub (⭐7k)](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 *   [JupyterLab (⭐13k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 *   [kaggle/docker-python (⭐2.1k)](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
-*   [nteract (⭐5.9k)](https://github.com/nteract/nteract) - Native desktop notebook frontend.
-*   [Stencila (⭐658)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
+*   [nteract (⭐5.9k)](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
+*   [Stencila (⭐659)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ### Collaboration/Education
 
-*   [callgraph (⭐61)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
+*   [callgraph (⭐62)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
 *   [jupyter-drive (⭐416)](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
 *   [LTI Launch JupyterHub Authenticator (⭐56)](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
-*   [nbautoeval (⭐17)](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
-*   [nbgrader (⭐1.1k)](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
-*   [nbtutor (⭐416)](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
+*   [nbautoeval (⭐18)](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
+*   [nbgrader (⭐1.2k)](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
+*   [nbtutor (⭐418)](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
 
 ### Visualization
 
-*   [Altair (⭐7.9k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐3.9k)](https://github.com/vega/vega-lite).
+*   [Altair (⭐8k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐4k)](https://github.com/vega/vega-lite).
 *   [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 *   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
-*   [pythreejs (⭐842)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
+*   [pythreejs (⭐844)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 *   [Qgrid (⭐2.9k)](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 
 ### Rendering/Publishing/Conversion
 
 *   [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
-*   [Bookbook (⭐95)](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+*   [Bookbook (⭐96)](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
 *   [nbscan (⭐23)](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 *   [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
-*   [notedown (⭐838)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
+*   [notedown (⭐841)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 *   [Papermill (⭐5k)](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
-*   [pynb (⭐240)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
+*   [pynb (⭐242)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 *   [RISE (⭐3.4k)](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 
 ### Testing
 
-*   [nbval (⭐392)](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
+*   [nbval (⭐393)](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 *   [nosebook (⭐79)](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests.
 
 ### Domain-Specific Projects
 
 *   [GenePattern Notebook](http://genepattern-notebook.org) - Integrating Genomic Analysis with Interactive Notebooks.
 *   [GeoNotebook (⭐1.1k)](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
-*   [lolviz (⭐785)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
+*   [lolviz (⭐786)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 *   [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 *   [vpython-jupyter (⭐65)](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
 
@@ -305,12 +305,12 @@
 
 *   [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - Collection of notebooks covering scientific computing.
 *   [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
-*   [Interactive Web Plotting with Bokeh (⭐695)](https://github.com/bokeh/bokeh-notebooks)
+*   [Interactive Web Plotting with Bokeh (⭐700)](https://github.com/bokeh/bokeh-notebooks)
 *   [Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 *   [Jupyter Notebook Themes (⭐9.4k)](https://github.com/dunovank/jupyter-themes)
 *   [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 *   [Lectures on scientific computing with Python (⭐3.3k)](https://github.com/jrjohansson/scientific-python-lectures)
-*   [pytudes (⭐19k)](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
+*   [pytudes (⭐20k)](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
 *   [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 *   [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
 
@@ -352,7 +352,7 @@
 
 *   [AVA (⭐20k)](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`).
 *   [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
-*   [mos (⭐109)](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
+*   [mos (⭐108)](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 
 ## [17. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 
@@ -364,7 +364,7 @@
 
 ### Open Source / Other
 
-*   [Mark Text (⭐37k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
+*   [Mark Text (⭐38k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 
 ### Boilerplates / Other
 

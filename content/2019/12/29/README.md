@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,8 +20,8 @@
 
 ### Software / Make your life easier
 
-*   [Kiwi TCMS (⭐773)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐7.7k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+*   [Kiwi TCMS (⭐789)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+*   [Captura (⭐7.9k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
 *   [QA Wolf (⭐3.2k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
@@ -60,7 +60,7 @@
 
 ### Migration
 
-*   :strawberry: [Upgrade app (⭐96)](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x and 3.x=>4.x.
+*   :strawberry: [Upgrade app (⭐98)](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x and 3.x=>4.x.
 
 ### Miscellaneous
 

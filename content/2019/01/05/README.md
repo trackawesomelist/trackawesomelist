@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### UI / Bottom bars
 
-*   [Fancy Bottom Navigation (⭐612)](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+*   [Fancy Bottom Navigation (⭐619)](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 
 ## [3. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
 
-*   [aforth (⭐17)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
+*   [aforth (⭐19)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

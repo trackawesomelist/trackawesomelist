@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -31,21 +31,21 @@
 
 ### Others / Email
 
-*   [sendgrid (⭐12)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT](https://opensource.org/licenses/MIT).
+*   [sendgrid (⭐13)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT](https://opensource.org/licenses/MIT).
 
 ### Actors pattern / Third-party APIs
 
-*   👍 [Sento (⭐122)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   👍 [Sento (⭐128)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Caching / Third-party APIs
 
-*   [function-cache (⭐43)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [function-cache (⭐44)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
-*   [Raw Node.js Vulkan API (⭐5)](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
+*   [Raw Node.js Vulkan API (⭐7)](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -60,7 +60,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue2-text-annotation (⭐5)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
-*   [vue-auth-ui (⭐12)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
+*   [vue-auth-ui (⭐13)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
 
 ## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -72,11 +72,11 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Bytewax (⭐259)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
+*   [Bytewax (⭐281)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
 
 ### Table of Contents / Online Machine Learning
 
-*   [River (⭐3.8k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
+*   [River (⭐4k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
 
 ## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -103,27 +103,27 @@
 ### Applications / Social networks
 
 *   Mastodon
-    *   [Rustodon (⭐714)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
+    *   [Rustodon (⭐745)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Frontend framework
 
-*   [fresh (⭐9.5k)](https://github.com/denoland/fresh) - The next-gen web framework.
+*   [fresh (⭐9.7k)](https://github.com/denoland/fresh) - The next-gen web framework.
 
 ## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Deforum
-
-*   [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
-
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   \[🔥🔥🔥] [SD GUIDE FOR ARTISTS AND NON-ARTISTS - Google Docs](https://docs.google.com/document/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/edit#): a Google Docs with in-depth tips, tricks, tutorials and more related to Stable Diffusion
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [Astria](https://www.astria.ai/): tailor-made AI image generation
+
+### Hypertechniques / Deforum
+
+*   [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
 
 ### Image Synthesis / Promptism
 
@@ -131,7 +131,7 @@
 
 ### Image Synthesis / DALL-E 2
 
-*   [lucidrains/DALLE2-pytorch (⭐8.4k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+*   [lucidrains/DALLE2-pytorch (⭐8.7k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
 
 ## [13. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -161,12 +161,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [goenv (cda0) (⭐0)](https://github.com/CDA0/zsh-goenv/blob/master/zsh-goenv.plugin.zsh) - Plugin for installing, updating and loading `goenv`.
+*   [goenv (cda0) (⭐1)](https://github.com/CDA0/zsh-goenv/blob/master/zsh-goenv.plugin.zsh) - Plugin for installing, updating and loading `goenv`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [meganerd (⭐0)](https://github.com/meganerd/meganerd-zsh/) - Inspired by jonathan. Includes decorators for `git` status, user\@hostname, current directory, time and the last command's exit status.
-*   [paroape (⭐0)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐33)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
+*   [paroape (⭐0)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐35)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
 
 ---
 

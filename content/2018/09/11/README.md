@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -59,13 +59,13 @@
 
     *   [Opa Programming Language](http://opalang.org/)
 
-    *   [Rhine (⭐628)](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
+    *   [Rhine (⭐629)](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
 
     *   [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
 
-    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐123)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/\~nr/c--/qc--.html).
+    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐127)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/\~nr/c--/qc--.html).
 
-    *   [tis-interpreter (⭐543)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
+    *   [tis-interpreter (⭐546)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
     *   [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
 
@@ -81,7 +81,7 @@
 
 ### Exercises and Short Examples
 
-*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here (⭐31)](https://github.com/MassD/99).
+*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here (⭐32)](https://github.com/MassD/99).
 
 ### Formal Software Verification
 
@@ -93,7 +93,7 @@
 
 ### User Interface
 
-*   [Lambda-Term (⭐191)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
+*   [Lambda-Term (⭐194)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
 
 ### Language-related
 
@@ -102,7 +102,7 @@
 
 ### Messaging
 
-*   [capnp-ocaml (⭐82)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
+*   [capnp-ocaml (⭐84)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
 
 ### Metaprogramming
 
@@ -119,7 +119,7 @@
     *   [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
         *   [oasis2opam (⭐28)](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
     *   [obuild (⭐51)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
-    *   [ocaml-makefile (⭐71)](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
+    *   [ocaml-makefile (⭐73)](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
     *   [topkg (⭐66)](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
     *   [Bazel (⭐38)](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
 

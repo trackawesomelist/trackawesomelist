@@ -2,7 +2,7 @@
 
 12 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### Packages / Miscellaneous
 
-*   [dotenv (⭐16k)](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
+*   [dotenv (⭐17k)](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 
 ## [3. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### File Manipulation
 
-*   [Proffer plugin (⭐121)](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
+*   [Proffer plugin (⭐122)](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
 
 ## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Actors
 
-*   [pooler (⭐279)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐278)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -111,11 +111,11 @@
 
 ### Date and Time
 
-*   [tzdata (⭐259)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐260)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
-*   [estree (⭐95)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+*   [estree (⭐96)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 
 ### Email
 
@@ -127,8 +127,8 @@
 
 ### Framework Components
 
-*   [corsica (⭐462)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐372)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐463)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐373)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐164)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -142,7 +142,7 @@
 
 ### ORM and Datamapping
 
-*   [eredis (⭐617)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [eredis (⭐616)](https://github.com/wooga/eredis) - Erlang Redis client.
 *   [ex\_bitcask (⭐11)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 *   [mariaex (⭐259)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 
@@ -156,7 +156,7 @@
 
 ### Text and Numbers
 
-*   [base62 (⭐18)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
+*   [base62 (⭐19)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
 *   [custom\_base (⭐19)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
 *   [porterstemmer (⭐5)](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 

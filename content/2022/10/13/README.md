@@ -2,13 +2,13 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Community / Projects
+### Projects / Wallets
 
 *   [AlgoPing (⭐3)](https://github.com/aorumbayev/algoping) - A tiny cron job that issues a [tweet](https://twitter.com/algoping) if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.
 
@@ -16,7 +16,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [cretz/asmble (⭐544)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
+*   [cretz/asmble (⭐547)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 
 ### Projects / Android
 
@@ -31,7 +31,7 @@
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Cloud Orchestration
+### Software / Cloud Orchestration
 
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐13k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 
@@ -39,13 +39,13 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [MutableSecurity (⭐35)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
+*   [MutableSecurity (⭐37)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
 
 ## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Community plugins
 
-*   [File opener (⭐22)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
+*   [File opener (⭐32)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -63,25 +63,25 @@
 
 ### Tools
 
-*   💼🔧 [tailwindcss-vite-plugin (⭐14)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-vite-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrollbar / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.map (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
+*   [echasnovski/mini.nvim#mini.map (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Continuous Integration
 
-*   [gotestfmt (⭐342)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
+*   [gotestfmt (⭐350)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [tailwindcss-vite-plugin (⭐14)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
+*   [tailwindcss-vite-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 
 ## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -91,41 +91,20 @@
 
 ## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [NovelAI Improvements on Stable Diffusion | by NovelAI | Oct, 2022 | Medium](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
-*   [ashawkey/stable-dreamfusion (⭐3.3k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+*   [ashawkey/stable-dreamfusion (⭐3.5k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Go / Phoenix
+### Algorithms & Data Structures
 
-*   [Production Go](https://leanpub.com/productiongo/read) - Herman Schaaf and Shawn Smith (EPUB, HTML, PDF) (:construction: *in process*) *(Leanpub account or valid email requested for EPUB or PDF)*
+*   [Essential Algorithms](https://www.programming-books.io/essential/algorithms) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 
-### JavaScript / Wicket
+### Artificial Intelligence
 
-*   [JavaScript Wikibook](https://en.wikibooks.org/wiki/JavaScript) - Wikibooks (HTML, PDF)
-*   [The Modern JavaScript Tutorial](https://javascript.info) - Ilya Kantor (HTML)
-
-### PHP / Laravel
-
-*   [Laravel Tips and Tricks (⭐139)](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Fundamentals of Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (:construction: *in process*)
-
-### Q# / Tornado
-
-*   [The Q# quantum programming language user guide](https://learn.microsoft.com/en-us/azure/quantum/user-guide) (HTML)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
-
-### TypeScript / Vapor
-
-*   [TypeScript Handbook](https://www.typescriptlang.org/assets/typescript-handbook.pdf) - Microsoft (PDF)
+*   [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 
 ---
 

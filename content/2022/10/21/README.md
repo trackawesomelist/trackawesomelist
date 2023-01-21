@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,7 +12,7 @@
 
 ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
 
-Installs: 80000 | Stars: n/a | Last update: 11 Dec 2022
+Installs: 80000 | Stars: n/a | Last update: 20 Jan 2023
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -32,9 +32,9 @@ Installs: 80000 | Stars: n/a | Last update: 11 Dec 2022
 
 ## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Tools / Wallets
+### Other Development Tools / Wallets
 
-*   [use-wallet (⭐24)](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+*   [use-wallet (⭐32)](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,31 +46,22 @@ Installs: 80000 | Stars: n/a | Last update: 11 Dec 2022
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐6.2k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
+*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐6.8k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
 
 ## [7. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
-### Libraries
+### Libraries / Pascal
 
-*   ### Pascal
-    *   #### - General -
-        *   🌎 [Delphi](https://www.embarcadero.com/products/delphi) - Popular IDE with cross-platform support.
-        *   🌎 [Free Pascal](https://www.freepascal.org/) - Mature, versatile, open source Pascal compiler.
-        *   📚 [Pascal Tutorials](https://www.tutorialspoint.com/pascal/index.htm) - Simple and easy Pascal tutorials.
-    *   #### Awesome Collections
-        *   📚 [Awesome Pascal (⭐1.4k)](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi / Pascal resources.
-    *   #### Pascal: Game Engine w/Editor
-        *   🎉 [Castle](https://castle-engine.io/) [:octocat: (⭐672)](https://github.com/castle-engine/castle-engine) - Cross-platform 3D/2D game engine and visual editor.
-    *   #### Pascal: Game Framework
-        *   🎉 [Apus (⭐133)](https://github.com/Cooler2/ApusGameEngine) - Cross-platform library for making 2D games.
-    *   #### Pascal: Physics
-        *   🎉 [Kraft (⭐88)](https://github.com/BeRo1985/kraft) - Object Pascal 3D physics engine.
+*   Pascal: - General -
+    *   🌎 [Delphi](https://www.embarcadero.com/products/delphi) - Popular IDE with cross-platform support.
+    *   🌎 [Free Pascal](https://www.freepascal.org/) - Mature, versatile, open source Pascal compiler.
+    *   📚 [Pascal Tutorials](https://www.tutorialspoint.com/pascal/index.htm) - Simple and easy Pascal tutorials.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Game Development
 
-*   [littlektframework/littlekt (⭐126)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
+*   [littlektframework/littlekt (⭐131)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
 
 ### Projects / Examples
 
@@ -95,7 +86,13 @@ Installs: 80000 | Stars: n/a | Last update: 11 Dec 2022
 
 *   [Part 1 - UI driven by Elsa Workflows](https://medium.com/@fanekkie/part-1-ui-driven-by-elsa-workflows-6d0e868ea6c) - October 12, 2022 - This series describes the implementation of a User Interface driven by an Elsa workflow engine.
 
-## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Data Science
+
+*   [Probability and Statistics with Examples using R](https://www.isibang.ac.in/\~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) (:construction: *in process*)
+
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vanilla
 
@@ -103,18 +100,7 @@ Installs: 80000 | Stars: n/a | Last update: 11 Dec 2022
 
 ### Templates / Vue 3
 
-*   [vite-vue-js-starter-template (⭐30)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
-
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / React
-
-*   [Hands on React](https://handsonreact.com/docs/) - Craig Mckeachie
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
-*   [The Recursive Book of Recursion](https://inventwithpython.com/recursion/) - Al Swigart (HTML) (3.x)
+*   [vite-vue-js-starter-template (⭐41)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 
 ---
 

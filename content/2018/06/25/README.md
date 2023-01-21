@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,11 +26,11 @@
 
 ### Image / Backend-Driven
 
-*   [SVG (⭐1.4k)](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
+*   [SVG (⭐1.5k)](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
 
 ### Auth / Image Picker
 
-*   [Login (⭐668)](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
+*   [Login (⭐670)](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
 *   [OAuth (⭐173)](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 
 ### Text & Rich Content / Image Picker
@@ -39,28 +39,28 @@
 
 ### Templates / Preferences
 
-*   [Mates (⭐518)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
-*   [UI Kit (⭐5.9k)](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
+*   [Mates (⭐525)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+*   [UI Kit (⭐6k)](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 
 ### Plugins / Augmented Reality
 
-*   [Plugins (⭐16k)](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
+*   [Plugins (⭐17k)](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
 
 ### Device / Augmented Reality
 
-*   [Location (⭐940)](https://github.com/Lyokone/flutterlocation) <!--stargazers:Lyokone/flutterlocation--> - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
+*   [Location (⭐953)](https://github.com/Lyokone/flutterlocation) <!--stargazers:Lyokone/flutterlocation--> - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Built redux (⭐81)](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
+*   [Built redux (⭐80)](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 
 ### Top / Game Engine resources
 
-*   [Planets (⭐748)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
+*   [Planets (⭐751)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 
 ### Utilities / Game Engine resources
 
-*   [Launcher Icons (⭐1.6k)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
+*   [Launcher Icons (⭐1.7k)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 
 ## [4. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐759)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐764)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

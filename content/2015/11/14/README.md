@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 14, 2015
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -412,22 +412,7 @@
 
 *   [JSON Schema + Faker (⭐2.9k)](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 
-## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Monitoring / Metric & Metric Collection
-
-*   Storage
-    *   [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-    *   [KairosDB (⭐1.7k)](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
-    *   [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
-
-### NoSQL / Metric & Metric Collection
-
-*   Graph
-    *   [FlockDB (⭐3.3k)](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
-    *   [Neo4j](http://neo4j.com/) - Graph database.
-
-## [15. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [14. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Node.js
 
@@ -441,7 +426,7 @@
 
 *   [httpie (⭐25k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 
-## [16. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [15. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Theory
 
@@ -531,13 +516,13 @@
 
 *   [suseapplication](https://www.suse.com/products/susestudio/) tools to create suse applications
 
-## [17. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :books: [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/) by [Basarat Ali Syed](https://twitter.com/basarat)
 
-## [18. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Paid Resources / Icons Packages and Collections
 

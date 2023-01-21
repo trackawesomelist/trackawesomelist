@@ -2,7 +2,7 @@
 
 68 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Producers / Bash
 
-*   [ShellSpec (⭐772)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
+*   [ShellSpec (⭐807)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
 
 ## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐219)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐218)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ### Software / Task Management & To-do Lists
 
-*   [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source Code (⭐92)](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`
+*   [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source Code (⭐94)](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`
 
 ## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -180,7 +180,7 @@
 
 ### Apps/Websites / Community
 
-*   [npmview (⭐119)](https://github.com/pd4d10/npmview) - A web application to view npm package files.
+*   [npmview (⭐118)](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 
 ## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -312,7 +312,7 @@
 
 ### Projects / Libraries
 
-*   [TLC (⭐27)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐28)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
@@ -321,8 +321,8 @@
 ### Projects / Type Theory and Mathematics
 
 *   [Completeness and Decidability of Modal Logic Calculi (⭐5)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
-*   [CoqPrime (⭐23)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
-*   [Finmap (⭐45)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
+*   [CoqPrime (⭐25)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
+*   [Finmap (⭐44)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
 *   [Gaia (⭐21)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 
 ### Resources / Community
@@ -363,7 +363,7 @@
 
 ### Tools
 
-*   [Atlas toolkit (⭐214)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
+*   [Atlas toolkit (⭐215)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 
 ## [25. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -394,7 +394,7 @@
 
 ### Apps
 
-*   [Q2RTX (⭐1k)](https://github.com/NVIDIA/Q2RTX) - NVIDIA’s implementation of RTX ray-tracing in Quake II. \[[LICENSE (⭐1k)](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
+*   [Q2RTX (⭐1.1k)](https://github.com/NVIDIA/Q2RTX) - NVIDIA’s implementation of RTX ray-tracing in Quake II. \[[LICENSE (⭐1.1k)](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
 
 ### Tools
 
@@ -404,11 +404,11 @@
 
 ### Contents / Health and Fitness
 
-*   [Covid-Care (⭐7)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
+*   [Covid-Care (⭐8)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
 
 ### Contents / Personalization
 
-*   [Wallbay (⭐107)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
+*   [Wallbay (⭐106)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 
 ## [29. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -433,9 +433,9 @@
 
 *   [DevSound (⭐48)](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
 *   [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
-*   [GBT PLAYER (⭐243)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
-*   [mmlgb (⭐34)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
-*   [XPMCK (⭐24)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
+*   [GBT PLAYER (⭐244)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
+*   [mmlgb (⭐35)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
+*   [XPMCK (⭐25)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
 
 ## [32. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -525,12 +525,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ultimate-skeleton-cards (⭐86)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
-*   [vue-router-tab (⭐420)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-ultimate-skeleton-cards (⭐87)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
+*   [vue-router-tab (⭐424)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ### Components & Libraries / Frameworks
 
-*   [Wave UI (⭐426)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
+*   [Wave UI (⭐432)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 
 ## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -542,7 +542,7 @@
 
 ### Component Libraries
 
-*   [Joomla UI custom elements (⭐25)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
+*   [Joomla UI custom elements (⭐24)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
 ## [45. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/week/README.md)
 
@@ -841,7 +841,7 @@
 
 ### Misc
 
-*   [Fugen (⭐67)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
+*   [Fugen (⭐70)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
 
 ### GraphQL
 
@@ -853,17 +853,17 @@
 
 ### Fonts
 
-*   [SwiftUI-FontIcon (⭐79)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
+*   [SwiftUI-FontIcon (⭐81)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
 
 ### TextField / Barcode
 
-*   [FloatingLabelTextFieldSwiftUI (⭐331)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
+*   [FloatingLabelTextFieldSwiftUI (⭐347)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
 
 ## [47. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
-*   [LibreSelery (⭐114)](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions.
+*   [LibreSelery (⭐117)](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions.
 
 ## [48. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -877,8 +877,8 @@
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [cl-ssh-keys (⭐11)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-bcrypt (⭐9)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-    *   see also [cl-pass (⭐24)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
+*   [cl-bcrypt (⭐10)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   see also [cl-pass (⭐25)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 
 ### Python
 
@@ -954,18 +954,18 @@
 
 ### Game Development
 
-*   [crystal-chipmunk (⭐38)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐13)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐43k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-chipmunk (⭐39)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐50)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐43k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐52)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ## [56. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Debugging Tools
 
-*   [tapping\_device (⭐445)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
+*   [tapping\_device (⭐446)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
 ## [57. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -1101,7 +1101,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐567)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐571)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [67. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 

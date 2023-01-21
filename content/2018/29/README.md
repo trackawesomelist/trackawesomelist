@@ -2,7 +2,7 @@
 
 39 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -149,7 +149,7 @@
 
 ### UI / Material Design
 
-*   [Unicorn Speed Dial (⭐327)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
+*   [Unicorn Speed Dial (⭐334)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 
 ### Image / Backend-Driven
 
@@ -157,24 +157,24 @@
 
 ### Storage / Voice
 
-*   [Secure Storage (⭐862)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
+*   [Secure Storage (⭐892)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
 
 ### Device / Augmented Reality
 
-*   [Badger (⭐256)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
+*   [Badger (⭐258)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐501)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
+*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐504)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Villains (⭐358)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Villains (⭐356)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
-*   [WhatTodo (⭐980)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
-*   [BookSearch (⭐507)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
+*   [WhatTodo (⭐1k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
+*   [BookSearch (⭐509)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 
 ## [17. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -244,13 +244,13 @@
 ### Application Skeleton
 
 *   [Album O'Rama (⭐84)](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
-*   [Base App (⭐64)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+*   [Base App (⭐63)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
 *   [INVO Application (⭐344)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
 *   [Vökuró (⭐368)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 
 ### CMS & Blogs
 
-*   [PhalconCMS (⭐150)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
+*   [PhalconCMS (⭐151)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 
 ### Command Line
 
@@ -262,11 +262,11 @@
 
 ### Miscellaneous
 
-*   [Incubator (⭐737)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+*   [Incubator (⭐735)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
 
 ### RESTful
 
-*   [PhREST API (⭐30)](https://github.com/phrest/api) - Phalcon Framework REST API Package
+*   [PhREST API (⭐29)](https://github.com/phrest/api) - Phalcon Framework REST API Package
 
 ### Templating
 
@@ -339,7 +339,7 @@
 
 ### Documentation
 
-*   [The Cycle-Accurate Game Boy Docs (⭐167)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
+*   [The Cycle-Accurate Game Boy Docs (⭐171)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
 
 ### Related projects / Syntax highlighting packages
 

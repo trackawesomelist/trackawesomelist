@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,10 +28,10 @@
 
 ### Testing
 
-*   [Machine.Specifications (⭐849)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
-*   [Moq (⭐4.9k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
+*   [Machine.Specifications (⭐852)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
+*   [Moq (⭐5k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
 *   [NBuilder (⭐52)](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
-*   [Rhino Mocks (⭐254)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
+*   [Rhino Mocks (⭐253)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Core Extensions
 
-*   [Addressable (⭐1.4k)](https://github.com/sporkmonger/addressable) - Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to RFC 3986, RFC 3987, and RFC 6570 (level 4), providing support for IRIs and URI templates.
+*   [Addressable (⭐1.5k)](https://github.com/sporkmonger/addressable) - Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to RFC 3986, RFC 3987, and RFC 6570 (level 4), providing support for IRIs and URI templates.
 *   [Hamster (⭐1.9k)](https://github.com/hamstergem/hamster) - Efficient, immutable, and thread-safe collection classes for Ruby.
 
 ### Documentation
@@ -56,9 +56,9 @@
 ### Scientific
 
 *   Data analysis/structures
-    *   [daru (⭐957)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
-    *   [Daru::View (⭐83)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐337)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+    *   [daru (⭐961)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
+    *   [Daru::View (⭐84)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Rgl (⭐341)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

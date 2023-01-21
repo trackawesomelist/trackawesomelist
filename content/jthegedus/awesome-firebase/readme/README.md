@@ -2,7 +2,7 @@
 
 🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jthegedus/awesome-firebase/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jthegedus/awesome-firebase](https://github.com/jthegedus/awesome-firebase) · ⭐ 604 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jthegedus/awesome-firebase/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jthegedus/awesome-firebase](https://github.com/jthegedus/awesome-firebase) · ⭐ 604 · 🏷️ Platforms
 
 [ [Daily](/content/jthegedus/awesome-firebase/README.md) / [Weekly](/content/jthegedus/awesome-firebase/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,7 +11,7 @@
 ### Networking and Communication Middleware / Other / unknown licence
 
 *   [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
-*   [mosquitto-ada (⭐4)](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
+*   [mosquitto-ada (⭐5)](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
 
 ## [2. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -19,18 +19,7 @@
 
 *   ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 
-## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Tools
-
-*   💼 [Tailwind CSS Figma UI Design Kit](https://flowbite.com/figma/) - Figma UI Design Kit for Tailwind CSS.
-*   🌍 [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - Tailwind CSS utility class names in a searchable interface.
-
-### UI Libraries, Components & Templates
-
-*   📁 [Admin One Vue 3 (⭐982)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
-
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
@@ -126,6 +115,17 @@
 
 *   [SJSJ (⭐2.3k)](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### Tools
+
+*   💼 [Tailwind CSS Figma UI Design Kit](https://flowbite.com/figma/) - Figma UI Design Kit for Tailwind CSS.
+*   🌍 [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - Tailwind CSS utility class names in a searchable interface.
+
+### UI Libraries, Components & Templates
+
+*   📁 [Admin One Vue 3 (⭐1.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
+
 ## [5. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Developer Groups
@@ -141,13 +141,13 @@
 
 ### Kotlin / Deep Learning
 
-*   [KotlinDL (⭐987)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
+*   [KotlinDL (⭐1.1k)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Mooltik (⭐163)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
+*   [Mooltik (⭐170)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 
 ## [8. Jstips](/content/loverajoel/jstips/README.md)
 
@@ -161,13 +161,13 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐337)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐346)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [stressberry (⭐248)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
+*   [stressberry (⭐250)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

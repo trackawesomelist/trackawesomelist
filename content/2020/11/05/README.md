@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,12 +46,12 @@
 ### ORM/ODM Extensions
 
 *   Bit array
-    *   [ActiveFlag (⭐158)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
+    *   [ActiveFlag (⭐159)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
     *   [Bitfields (⭐218)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
 
 ### Static Site Generation
 
-*   [Bridgetown (⭐838)](https://github.com/bridgetownrb/bridgetown) - A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era.
+*   [Bridgetown (⭐854)](https://github.com/bridgetownrb/bridgetown) - A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era.
 
 ## [7. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 

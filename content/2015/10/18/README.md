@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 18, 2015
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,31 +19,25 @@
 
 *   [James Gosling on Apple, Apache, Google, Oracle and the Future of Java](https://www.youtube.com/watch?v=9ei-rbULWoA) By James Gosling
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### iOS / Bootstrap
-
-*   [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
-
-## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 
-*   [SAWS (⭐5k)](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
+*   [SAWS (⭐5.1k)](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Math / Barcode
 
 *   [Arithmosophi (⭐66)](https://github.com/phimage/Arithmosophi) - Set of protocols for Arithmetic and Logical operations.
 
-## [6. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Links
 
 *   [Update on Ubuntu Phone security issue](https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/)
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -64,7 +58,7 @@
 *   [Gerard Sans](https://twitter.com/gerardsans)
 *   [Pascal Precht](https://twitter.com/PascalPrecht)
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -78,13 +72,13 @@
 
 *   [Elixir Fountain](https://soundcloud.com/elixirfountain) - A weekly podcast with news & interviews from around the Elixir community hosted by [Johnny Winn](https://twitter.com/johnny_rugger).
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Redshift
 
 *   [everythingMe/redshift\_console (⭐92)](https://github.com/EverythingMe/redshift_console) -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
 
-## [10. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [9. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Search Engine Framework
 
@@ -94,13 +88,13 @@
 
 *   [Hadoop360](http://www.hadoop360.com/)
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [data-science-ipython-notebooks (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 
-## [12. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [11. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Extensions / POSIX implementations
 

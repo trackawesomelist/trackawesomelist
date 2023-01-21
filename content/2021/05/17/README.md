@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Front-End Development
 
-*   [Inertia.js (⭐190)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+*   [Inertia.js (⭐194)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 
 ## [2. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -23,9 +23,9 @@
 ### Resources / Examples
 
 *   💜 [Ping CRM / Laravel (⭐1.7k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
-*   💜 [Ping CRM / Svelte (⭐140)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
+*   💜 [Ping CRM / Svelte (⭐145)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
 *   [Ping CRM / Django (⭐39)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
-*   [Ping CRM / React (⭐395)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+*   [Ping CRM / React (⭐407)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 
 ### Resources / Other
 
@@ -45,7 +45,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [folke/zen-mode.nvim (⭐634)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
+*   [folke/zen-mode.nvim (⭐719)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -57,7 +57,6 @@
 *   [Rails, Angular, Postgres, and Bootstrap, Second Edition](https://pragprog.com/titles/dcbang2/rails-angular-postgres-and-bootstrap-second-edition/)
 *   [Growing Rails Applications in Practice](https://pragprog.com/titles/d-kegrap/growing-rails-applications-in-practice/)
 *   [Crafting Rails 4 Applications](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/)
-*   [The Rails 6 Way](https://leanpub.com/therails6way)
 
 ### External Resources / Video tutorials
 
@@ -72,10 +71,6 @@
 *   [TechmakerTV](https://www.youtube.com/c/TechmakerTV/videos)
 *   [Deanin](https://www.youtube.com/c/Deanin/videos)
 *   [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
-
-### External Resources / Other external resources
-
-*   [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 
 ### Community / Other external resources
 

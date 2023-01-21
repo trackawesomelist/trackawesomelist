@@ -2,7 +2,7 @@
 
 A curated list of awesome TikZ documentations, libraries and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xiaohanyu/awesome-tikz/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xiaohanyu/awesome-tikz/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) · ⭐ 1.1K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/xiaohanyu/awesome-tikz/week/README.md) / [Overview](/content/xiaohanyu/awesome-tikz/readme/README.md) ]
 

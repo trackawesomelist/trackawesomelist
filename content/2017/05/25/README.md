@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -92,7 +92,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐320)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐323)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 
 ## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

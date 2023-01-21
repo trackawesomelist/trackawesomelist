@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -131,7 +131,7 @@
 
 *   [d3-beeswarm (⭐50)](https://github.com/Kcnarf/d3-beeswarm) - Plugin which computes a beeswarm arrangement
 *   [neo4jd3 (⭐1.1k)](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
-*   [venn.js (⭐955)](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
+*   [venn.js (⭐960)](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
 *   [visavail (⭐280)](https://github.com/flrs/visavail) - Time data availability visualization
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)

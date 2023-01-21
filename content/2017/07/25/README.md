@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,7 +12,7 @@
 
 *   [graphql-batch (⭐1.3k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐463)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-guard (⭐464)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
@@ -218,7 +218,7 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐775)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐777)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 
 ---
 

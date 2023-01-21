@@ -2,7 +2,7 @@
 
 A curated list of awesome educational games to learn editors, languages, programming, etc
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/yrgo/awesome-educational-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games) · ⭐ 667 · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/yrgo/awesome-educational-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games) · ⭐ 667 · 🏷️ Learn
 
 [ Daily / [Weekly](/content/yrgo/awesome-educational-games/week/README.md) / [Overview](/content/yrgo/awesome-educational-games/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐628)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐631)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -50,11 +50,11 @@
 
 ### Geolocation
 
-*   [geolix (⭐172)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐173)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### ORM and Datamapping
 
-*   [esqlite (⭐109)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+*   [esqlite (⭐114)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [sqlitex (⭐118)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
 *   [tds (⭐100)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.

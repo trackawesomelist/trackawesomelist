@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,16 +10,16 @@
 
 ### Math
 
-*   [universal (⭐294)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license] [website](http://www.stillwater-sc.com/assets/content/stillwater-universal-sw.html)
+*   [universal (⭐296)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license] [website](http://www.stillwater-sc.com/assets/content/stillwater-universal-sw.html)
 
 ## [2. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [Apache Apex (⭐349)](https://github.com/apache/apex-core) \[Java] - unified platform for big data stream and batch processing.
+*   [Apache Apex (⭐351)](https://github.com/apache/apex-core) \[Java] - unified platform for big data stream and batch processing.
 *   [Apache Flink (⭐20k)](https://github.com/apache/flink) \[Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
-*   [Apache Samza (⭐760)](https://github.com/apache/samza) \[Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
-*   [Apache Spark Streaming (⭐34k)](https://github.com/apache/spark) \[Scala] - makes it easy to build scalable fault-tolerant streaming applications.
+*   [Apache Samza (⭐764)](https://github.com/apache/samza) \[Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
+*   [Apache Spark Streaming (⭐35k)](https://github.com/apache/spark) \[Scala] - makes it easy to build scalable fault-tolerant streaming applications.
 *   [Apache Storm (⭐6.4k)](https://github.com/apache/storm) \[Clojure/Java] - distributed real-time computation system. Storm is to stream processing what Hadoop is to batch processing.
 *   [AthenaX (⭐1.2k)](https://github.com/uber/AthenaX) \[Java] - Uber's Stream Analytics Framework used in production
 *   [Faust (⭐6.4k)](https://github.com/robinhood/faust) \[Python] - stream processing library, porting the ideas from Kafka Streams to Python
@@ -37,27 +37,27 @@
 ### Table of Contents / Streaming Library
 
 *   [Apache Kafka Streams (⭐24k)](https://github.com/apache/kafka) \[Java] - lightweight stream processing library included in Apache Kafka (since 0.10 version).
-*   [Benthos (⭐4.9k)](https://github.com/Jeffail/benthos) \[Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
+*   [Benthos (⭐5.5k)](https://github.com/Jeffail/benthos) \[Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
 *   [FS2(prev. 'Scalaz-Stream') (⭐2.2k)](https://github.com/functional-streams-for-scala/fs2) \[Scala] - Compositional, streaming I/O library for Scala.
 *   [monix (⭐1.9k)](https://github.com/monix/monix) \[Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
-*   [Streamline (⭐156)](https://github.com/hortonworks/streamline) \[Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
+*   [Streamline (⭐158)](https://github.com/hortonworks/streamline) \[Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
 *   [StreamAlert (⭐2.7k)](https://github.com/airbnb/streamalert) \[Python] - Airbnb's Real-time Data Analysis and Alerting.
 *   [Swave (⭐173)](https://github.com/sirthias/swave) \[Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
 
 ### Table of Contents / Streaming Application
 
 *   [straw (⭐100)](https://github.com/rwalk/straw) \[Python/Java] - A platform for real-time streaming search.
-*   [storm-crawler (⭐767)](https://github.com/DigitalPebble/storm-crawler) \[Java] - Web crawler SDK based on Apache Storm.
+*   [storm-crawler (⭐773)](https://github.com/DigitalPebble/storm-crawler) \[Java] - Web crawler SDK based on Apache Storm.
 
 ### Table of Contents / IoT
 
-*   [sensorbee (⭐214)](https://github.com/sensorbee/sensorbee) \[Go] - lightweight stream processing engine for IoT.
-*   [Apache Edgent (⭐209)](https://github.com/apache/incubator-edgent) \[Java] - a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM.
+*   [sensorbee (⭐217)](https://github.com/sensorbee/sensorbee) \[Go] - lightweight stream processing engine for IoT.
+*   [Apache Edgent (⭐210)](https://github.com/apache/incubator-edgent) \[Java] - a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM.
 
 ### Table of Contents / DSL
 
-*   [coast (⭐59)](https://github.com/bkirwi/coast) \[Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
-*   [Esper (⭐761)](https://github.com/espertechinc/esper) \[Java] - component for complex event processing (CEP) and event series analysis.
+*   [coast (⭐60)](https://github.com/bkirwi/coast) \[Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
+*   [Esper (⭐760)](https://github.com/espertechinc/esper) \[Java] - component for complex event processing (CEP) and event series analysis.
 *   [Streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) \[Python] - lets you run Python code against real-time streams of data via Apache Storm.
 *   [summingbird (⭐2.1k)](https://github.com/twitter/summingbird) \[Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
 
@@ -71,12 +71,12 @@
 *   [metaq (⭐1.3k)](https://github.com/killme2008/Metamorphosis) \[Java] - Taobao's high available, high performance distributed messaging system
 *   [NATS streaming (⭐2.4k)](https://github.com/nats-io/nats-streaming-server) \[Go] - fast disk-backed messaging solution
 *   [nsq (⭐23k)](https://github.com/nsqio/nsq) \[Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
-*   [suro (⭐771)](https://github.com/Netflix/suro) \[Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
+*   [suro (⭐772)](https://github.com/Netflix/suro) \[Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
 
 ### Table of Contents / Online Machine Learning
 
-*   [Apache Samoa (⭐242)](https://github.com/apache/incubator-samoa) \[Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
-*   [DataSketches (⭐797)](https://github.com/DataSketches/sketches-core) \[Java] - sketches library from Yahoo!.
+*   [Apache Samoa (⭐241)](https://github.com/apache/incubator-samoa) \[Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
+*   [DataSketches (⭐801)](https://github.com/DataSketches/sketches-core) \[Java] - sketches library from Yahoo!.
 *   [StreamingBandit (⭐79)](https://github.com/Nth-iteration-labs/streamingbandit) \[Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
 
 ### Table of Contents / Streaming SQL
@@ -87,17 +87,17 @@
 ### Table of Contents / Benchmark
 
 *   [storm-perf-test (⭐77)](https://github.com/yahoo/storm-perf-test) \[Java] - a simple storm performance/stress test.
-*   [streaming-benchmarks (⭐590)](https://github.com/yahoo/streaming-benchmarks) \[Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
+*   [streaming-benchmarks (⭐592)](https://github.com/yahoo/streaming-benchmarks) \[Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
 *   [flotilla (⭐235)](https://github.com/tylertreat/Flotilla) \[Go] - Automated message queue orchestration for scaled-up benchmarking.
 
 ### Table of Contents / Toolkit
 
 *   [akka (⭐13k)](https://github.com/akka/akka) \[Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 *   [pulsar (⭐1.9k)](https://github.com/quantmind/pulsar/) \[Python] - Actor based event driven concurrent framework for Python.
-*   [aeron (⭐6.2k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
+*   [aeron (⭐6.3k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
 *   [StreamFlow (⭐242)](https://github.com/lmco/streamflow) \[Java] - stream processing tool designed to help build and monitor processing workflows.
 *   [samza-luwak (⭐100)](https://github.com/romseygeek/samza-luwak) \[Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
-*   [Turbine (⭐825)](https://github.com/Netflix/Turbine) \[Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
+*   [Turbine (⭐828)](https://github.com/Netflix/Turbine) \[Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

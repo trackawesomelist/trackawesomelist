@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐57k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐169k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.6k)](https://github.com/Theano/Theano).
+*   [keras (⭐57k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.6k)](https://github.com/Theano/Theano).
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

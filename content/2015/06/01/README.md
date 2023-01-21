@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -66,7 +66,7 @@
 
 ### Images
 
-*   [identicon (⭐25)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
+*   [identicon (⭐24)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 
 ### Logging
 
@@ -74,7 +74,7 @@
 
 ### ORM and Datamapping
 
-*   [mysql (⭐343)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [mysql (⭐344)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐7)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Reading

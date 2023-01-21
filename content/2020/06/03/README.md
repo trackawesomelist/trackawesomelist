@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Media / Audio
 
-*   [AssetsAudioPlayer (⭐645)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
+*   [AssetsAudioPlayer (⭐651)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
 
 ## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -64,11 +64,11 @@
 
 ### Other Data
 
-*   [CoreXLSX (⭐683)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
+*   [CoreXLSX (⭐685)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
 
 ### Auto Layout / Barcode
 
-*   [EasySwiftLayout (⭐348)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
+*   [EasySwiftLayout (⭐350)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
 
 ### Payment / Barcode
 
@@ -207,7 +207,7 @@ Language: English
 
 ### Software / Communication - Custom Communication Systems
 
-*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐514)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
+*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐515)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
 
 ---
 

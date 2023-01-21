@@ -1,8 +1,8 @@
 # Awesome List Updates on May 07, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -64,13 +64,7 @@
 
 *   [Storyboard -> SwiftUI Converter](https://swiftify.com/#/converter/storyboard2swiftui/) - Storyboard -> SwiftUI Converter is a converter to convert .storyboard and .xib to SwiftUI.
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Webserver / Barcode
-
-*   [Corvus (⭐42)](https://github.com/apodini/corvus) :penguin: - Web framework to build REST APIs with a declarative syntax.
-
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Email
 
@@ -78,21 +72,21 @@
 
 ### Environment Management
 
-*   [crenv (⭐232)](https://github.com/crenv/crenv) - Crystal version manager
+*   [crenv (⭐233)](https://github.com/crenv/crenv) - Crystal version manager
 
-## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
 *   [RudderStack (⭐3.4k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
-## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Twilio Fax (⭐5)](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
 
-## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Conferences and Events / Asia
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 26, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,10 +18,10 @@
 
 *   Testing tools and frameworks
     *   [Apache JMeter](https://jmeter.apache.org/) - An open source java based load testing tool.
-    *   [Karate (⭐6.4k)](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
+    *   [Karate (⭐6.6k)](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool.
-    *   [REST Assured (⭐6.1k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐1.5k)](https://github.com/schemathesis/schemathesis) - Property-based testing for API schemas.
+    *   [REST Assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+    *   [Schemathesis (⭐1.6k)](https://github.com/schemathesis/schemathesis) - Property-based testing for API schemas.
 
 ## [3. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -51,7 +51,7 @@
 
 ### UI
 
-*   [cimgui-love (⭐44)](https://github.com/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
+*   [cimgui-love (⭐45)](https://github.com/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -130,9 +130,9 @@
 
 ### Modules / Social Platform APIs
 
-*   [grammY (⭐718)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
-*   [grm (⭐17)](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
-*   [twi (⭐7)](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
+*   [grammY (⭐816)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
+*   [grm (⭐26)](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
+*   [twi (⭐10)](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 *   [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
@@ -147,27 +147,13 @@
 
 *   [Black-Box Ripper: Copying black-box models using generative evolutionary algorithms](https://proceedings.neurips.cc/paper/2020/file/e8d66338fab3727e34a9179ed8804f64-Paper.pdf) - (NeurIPS) *Replicates the functionality of a black-box neural model, yet with no limit on the amount of queries (via a teacher/student scheme and an evolutionary search).*
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Pascal / PicoLisp
-
-*   [Free Pascal Reference guide](https://www.freepascal.org/docs-html/ref/ref.html)
-*   [Modern Object Pascal Introduction for Programmers](https://castle-engine.io/modern_pascal_introduction.html) (HTML)
-*   [Pascal Language Reference](https://docs.oracle.com/cd/E19957-01/802-5762/802-5762.pdf) (PDF)
-*   [Pascal Programming Reference Manual](https://public.support.unisys.com/aseries/docs/clearpath-mcp-17.0/pdf/86000080-103.pdf) - Unisys (PDF)
-*   [Pascal Quick Reference](https://ksvi.mff.cuni.cz/\~dingle/2017/pascal_reference.html)
-*   [Turbo Pascal Reference Guide (1989)](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) - Borland International (PDF)
-*   [Vector Pascal, an Array Language](http://www.dcs.gla.ac.uk/\~wpc/reports/compilers/compilerindex/vp-ver2.html) - Paul Cockshott, Greg Michaelson
-*   [Vector Pascal Reference Manual](https://www.researchgate.net/publication/220177664_Vector_Pascal_reference_manual) (PDF)
-*   [VSI Pascal for OpenVMS Reference Manual](https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf) - VMS Software (PDF)
-
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [katalon.com](https://katalon.com) - Provides a testing platform that can help teams of all sizes at different levels of testing maturity, including  Katalon Studio, TestOps (+ Visual Testing free),TestCloud and Katalon Recorder.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Princeton / Commonsense Knowledgebase
 

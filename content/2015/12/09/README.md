@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 09, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Database Drivers
 
-*   [TinyTDS (⭐589)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
+*   [TinyTDS (⭐590)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -35,12 +35,6 @@
 ### Blogs of core committer
 
 *   [Jochen Theodorou's blog](http://blackdragsview.blogspot.com/)
-
-## [6. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 
 ---
 

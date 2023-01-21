@@ -2,7 +2,7 @@
 
 11 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -539,7 +539,7 @@
 
 ### Packages / Humanize
 
-*   [read-art (⭐333)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
+*   [read-art (⭐334)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
 
 ## [4. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 

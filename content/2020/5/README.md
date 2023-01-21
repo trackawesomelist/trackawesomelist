@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 03 - Feb 09, 2020
 
-65 awesome lists updated this week.
+63 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,7 +39,7 @@
 
 ### Algorithms and Data Structures
 
-*   [ORaft (⭐18)](https://github.com/komamitsu/oraft) - Library of [Raft consensus algorithm](https://raft.github.io/raft.pdf) implemented in OCaml
+*   [ORaft (⭐22)](https://github.com/komamitsu/oraft) - Library of [Raft consensus algorithm](https://raft.github.io/raft.pdf) implemented in OCaml
 
 ## [6. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/week/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Examples
 
-*   [React Parallax Tilt (⭐553)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+*   [React Parallax Tilt (⭐595)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
 
 ## [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Projects
 
-*   [karaoke-rs (⭐138)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
+*   [karaoke-rs (⭐139)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -532,7 +532,7 @@
 
 ## [14. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
-- Name: [Abstruse CI (⭐853)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐861)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -540,7 +540,7 @@
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐853)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐861)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -581,7 +581,7 @@
 
   Description: Automated post-deployment testing and web service monitoring
 
-  Features: [Example Integrations (⭐10)](https://github.com/assertible/deployments)
+  Features: [Example Integrations (⭐11)](https://github.com/assertible/deployments)
 
   Supported repositories: GitHub
 
@@ -639,7 +639,7 @@
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐757)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐770)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -669,7 +669,7 @@
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐690)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐708)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -680,7 +680,7 @@
   Stars: [![Stars](https://img.shields.io/github/stars/buildkite/agent.svg)](https://github.com/buildkite/agent)
 
 
-- Name: [CDS (⭐4k)](https://github.com/ovh/cds)
+- Name: [CDS (⭐4.1k)](https://github.com/ovh/cds)
 
   Description: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 
@@ -690,7 +690,7 @@
 
   Documentation: [Documentation](https://ovh.github.io/cds/)
 
-  Price: [Free Open Source (⭐4k)](https://github.com/ovh/cds)
+  Price: [Free Open Source (⭐4.1k)](https://github.com/ovh/cds)
 
   Stars: [![Stars](https://img.shields.io/github/stars/ovh/cds.svg)](https://github.com/ovh/cds)
 
@@ -830,7 +830,7 @@
   Stars: 
 
 
-- Name: [Evergreen (⭐367)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐373)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -838,7 +838,7 @@
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐367)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐373)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 
@@ -1107,7 +1107,7 @@
 
 ### Templates / Preferences
 
-*   [Flutter Samples (⭐2.7k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
+*   [Flutter Samples (⭐2.8k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 
 ## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -1132,7 +1132,7 @@
 
 ### Schema / Changes
 
-*   [SchemaHero (⭐699)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
+*   [SchemaHero (⭐711)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
 *   [Sqitch (⭐2.5k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 
 ### API / Samples
@@ -1141,7 +1141,7 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [ASH Viewer (⭐123)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+*   [ASH Viewer (⭐127)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 *   [mssql-monitoring (⭐80)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
 
 ### Testing / Zabbix
@@ -1150,7 +1150,7 @@
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [postgresql\_cluster (⭐646)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
+*   [postgresql\_cluster (⭐653)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
 
 ### Configuration Tuning / Zabbix
 
@@ -1159,10 +1159,10 @@
 
 ### Distributions / Zabbix
 
-*   [DBdeployer (⭐631)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
+*   [DBdeployer (⭐635)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
 *   [Postgres.app (⭐6.5k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 *   [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
-*   [Elephant Shed (⭐186)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+*   [Elephant Shed (⭐187)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 
 ### Security / Zabbix
 
@@ -1186,13 +1186,7 @@
 
 *   [eb-node-express-sample :fire::fire: (⭐264)](https://github.com/awslabs/eb-node-express-sample) - Sample express app.
 
-## [23. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
-
-### In Portuguese
-
-*   [Reloading](http://reloading.com.br/) - Podcast semanal que traz as notícias, acontecimentos e curiosidades mais importantes do mundo dos videogames.
-
-## [24. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [23. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Cloud
 
@@ -1206,7 +1200,7 @@
 
 *   [mqtt-camera-streamer (⭐173)](https://github.com/robmarkcole/mqtt-camera-streamer) - Stream images from a connected camera over MQTT & view using Streamlit
 
-## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [24. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -1220,13 +1214,13 @@
 
 *   [Recon-ng (⭐2.2k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 
-## [26. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [25. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [Diffy](https://diffy.website) - Cloud based visual regression tool. Uses puppeteer and proprietary comparison algorithm (detect layout shifts). Great scalability with AWS Lambda.
 
-## [27. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [26. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
@@ -1236,7 +1230,7 @@
 *   [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 *   [Virtual](https://virtualddd.com/)
 
-## [28. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [27. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Other Tools / Telegram
 
@@ -1244,7 +1238,7 @@
 *   [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
     urls and other data effortlessly
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -1254,44 +1248,44 @@
 
 *   [My week shadowing a GitLab Site Reliability Engineer](https://about.gitlab.com/blog/2019/12/16/sre-shadow/)
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
-*   [pprint (⭐880)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐879)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
-## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
 *   [Iconset](https://iconset.io) - Free, cross-platform and fast SVG icon organizer and manager for Mac and Windows.
 
-## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [tiny (⭐809)](https://github.com/osa1/tiny) — A terminal IRC client
+*   [tiny (⭐813)](https://github.com/osa1/tiny) — A terminal IRC client
 
 ### Applications / Security tools
 
-*   [phra/rustbuster (⭐462)](https://github.com/phra/rustbuster) — A Comprehensive Web Fuzzer and Content Discovery Tool
+*   [phra/rustbuster (⭐468)](https://github.com/phra/rustbuster) — A Comprehensive Web Fuzzer and Content Discovery Tool
 
 ### Applications / System tools
 
-*   [dust (⭐5.4k)](https://github.com/bootandy/dust) — A more intuitive version of du
+*   [dust (⭐5.5k)](https://github.com/bootandy/dust) — A more intuitive version of du
 
 ### Applications / Utilities
 
-*   [tversteeg/emplace (⭐201)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
+*   [tversteeg/emplace (⭐203)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 
 ### Libraries / Cryptography
 
-*   [dalek-cryptography/curve25519-dalek (⭐606)](https://github.com/dalek-cryptography/curve25519-dalek) — Pure Rust implementation of Curve25519 operations
-*   [dalek-cryptography/ed25519-dalek (⭐559)](https://github.com/dalek-cryptography/ed25519-dalek) — Pure Rust implementation of Ed25519 digital signatures
-*   [dalek-cryptography/x25519-dalek (⭐248)](https://github.com/dalek-cryptography/x25519-dalek) — Pure Rust implementation of X25519 key exchange
-*   [debris/tiny-keccak (⭐168)](https://github.com/debris/tiny-keccak) — Pure Rust implementation of the Keccak family (SHA3)
+*   [dalek-cryptography/curve25519-dalek (⭐619)](https://github.com/dalek-cryptography/curve25519-dalek) — Pure Rust implementation of Curve25519 operations
+*   [dalek-cryptography/ed25519-dalek (⭐570)](https://github.com/dalek-cryptography/ed25519-dalek) — Pure Rust implementation of Ed25519 digital signatures
+*   [dalek-cryptography/x25519-dalek (⭐255)](https://github.com/dalek-cryptography/x25519-dalek) — Pure Rust implementation of X25519 key exchange
+*   [debris/tiny-keccak (⭐169)](https://github.com/debris/tiny-keccak) — Pure Rust implementation of the Keccak family (SHA3)
 
-## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -1304,6 +1298,12 @@
 ### Frameworks, Libraries and Tools / Misc
 
 *   [AdvanceDLSupport (⭐451)](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.
+
+## [33. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Frameworks
+
+*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 
 ## [34. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -1328,18 +1328,18 @@
 
 ### Platforms
 
-*   [ESP (⭐501)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+*   [ESP (⭐523)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
 ### Events
 
-*   [Events in Italy (⭐147)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
+*   [Events in Italy (⭐145)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
 *   [Events in the Netherlands (⭐50)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Localization / Barcode
 
-*   [CrowdinSDK (⭐99)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐98)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
 
 ### Layout / Barcode
 
@@ -1467,17 +1467,7 @@
 *   [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - Introductory talk that covers the very basics of the command line for people who never used the console before.
 *   [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 
-## [43. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Tools / React Awesome Components
-
-*   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
-
-### React Tools / React Frameworks
-
-*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
-
-## [44. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [43. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Molecular Descriptors
 
@@ -1487,15 +1477,15 @@
 
 *   [Molecular Descriptors for Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766) - More than 3300 descriptors and related terms for chemoinformatic analysis of chemical compound properties.
 
-## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [44. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Auditing / Logging
 
-*   :strawberry: [Muffin/Footprint plugin (⭐87)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
+*   :strawberry: [Muffin/Footprint plugin (⭐88)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 
 ### Authentication and Authorization
 
-*   :strawberry: [CakeDC/Users plugin (⭐504)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   :strawberry: [CakeDC/Users plugin (⭐505)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 *   :strawberry: [Muffin/Tokenize plugin (⭐12)](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 
 ### Migration
@@ -1504,7 +1494,7 @@
 
 ### ORM / Database / Datamapping
 
-*   :strawberry: [Muffin/Trash plugin (⭐76)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
+*   :strawberry: [Muffin/Trash plugin (⭐78)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 
 ### REST and API
 
@@ -1514,7 +1504,7 @@
 
 *   [CloudflareDeploy Plugin (⭐1)](https://github.com/challgren/cakephp-cloudflare-deploy) - Useful console commands for deploying CakePHP apps using Cloudflare.
 
-## [46. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [45. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### VueJS
 
@@ -1526,7 +1516,7 @@
 
 
 
-## [47. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [46. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -1536,13 +1526,13 @@
 
 *   [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space for thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
 
-## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [47. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Contains 10'000 works by over 2'000 authors in German.
 
-## [49. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [48. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -1592,7 +1582,7 @@
 *   [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
 *   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning
 
-## [50. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [49. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -1601,9 +1591,9 @@
 
 ### Tools / Network protocol
 
-*   [DELTA (⭐70)](https://github.com/seungsoo-lee/DELTA) - SDN Security evaluation framework.
+*   [DELTA (⭐71)](https://github.com/seungsoo-lee/DELTA) - SDN Security evaluation framework.
 
-## [51. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [50. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Logging
 
@@ -1615,58 +1605,13 @@
 
 ### Tab Bar
 
-*   [BEKCurveTabbar (⭐170)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
+*   [BEKCurveTabbar (⭐169)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
 
 ### UIPageControl / Collection View Layout
 
 *   [TKRubberIndicator (⭐1.4k)](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift.
 
-## [52. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Hadoop / Spock Framework
-
-*   [Hadoop for Windows Succinctly](https://www.syncfusion.com/ebooks/hadoop-for-windows-succinctly) - Dave Vickers
-
-### JavaScript / Ionic
-
-*   [Ionic 4 Succinctly](https://www.syncfusion.com/ebooks/ionic-4-succinctly) - Ed Freitas
-
-### JavaScript / React
-
-*   [React Succinctly](https://www.syncfusion.com/ebooks/react-succinctly) - Samer Buna
-
-### .NET Framework / PicoLisp
-
-*   [Getting the Most from LINQPad Succinctly](https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly) - José Roberto Olivas Mendoza
-*   [MonoGame Succinctly](https://www.syncfusion.com/ebooks/monogame_succinctly) - Jim Perry
-*   [NuGet In-House Succinctly](https://www.syncfusion.com/ebooks/nuget-in-house-succinctly) - José Roberto Olivas Mendoza
-
-### Racket / Tornado
-
-*   [How to Design Programs](https://htdp.org/2019-02-24/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
-
-### Ruby / Tornado
-
-*   [Mr. Neighborly's Humble Little Ruby Book](https://web.archive.org/web/20180321101922/http://www.humblelittlerubybook.com/book/html/index.html)
-
-### Scala / Lift
-
-*   [Lift Cookbook](https://www.oreilly.com/library/view/lift-cookbook/9781449365042/) - Richard Dallaway
-
-### Smalltalk / Play Scala
-
-*   [Deep into Pharo](http://books.pharo.org/deep-into-pharo/) - Alexandre Bergel, Damien Cassou, Stéphane Ducasse, Jannik Laval
-*   [Numerical Methods with Pharo](http://books.pharo.org/numerical-methods/) - Didier Besset, Stéphane Ducasse, Serge Stinckwich
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/\~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
-
-### SQL Server / Play Scala
-
-*   [SQL Server Metadata Succinctly](https://www.syncfusion.com/ebooks/sql-server-metadata-succinctly) - Joseph D. Booth
-
-## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [51. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -1677,19 +1622,19 @@
 *   [Linting your AWS IAM policy documents for correctness and security issues (⭐31)](https://github.com/xen0l/iam-lint)
 *   [Secret Spreader (⭐34)](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 
-## [54. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [52. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Books
 
 *   [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
 
-## [55. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [53. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Misc/Technical / Hosting
 
 *   [CouchDB - JSON and B-trees and REST, oh my!](https://pozorvlak.livejournal.com/176385.html)
 
-## [56. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Blockchain
 
@@ -1704,7 +1649,7 @@
 
 *   [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS protocol implementation and resolver
 
-## [57. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [55. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -1715,13 +1660,13 @@
 
 *   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 
-## [58. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [56. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [MAX31855 (⭐3)](https://github.com/cs2dsb/max31855.rs) - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
 
-## [59. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [57. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Iconic fonts / Fonts
 
@@ -1731,13 +1676,13 @@
 
 *   [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## [60. Amas](/content/sindresorhus/amas/week/README.md)
+## [58. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Ale Muñoz (⭐1)](https://github.com/bomberstudios/ama) - Developer relations at Sketch, plugin developer, designer & digital toolsmith.
 
-## [61. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [59. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Build Tools to set up performance budget
 
@@ -1749,23 +1694,27 @@
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
 *   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
-## [62. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [60. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Miscellaneous
+
+*   [react-pdf-viewer (⭐1.5k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 
 ### Boilerplate / Mouse Events
 
-*   [crisp-react (⭐154)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+*   [crisp-react (⭐157)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
 ### Miscellaneous / Mouse Events
 
 *   [react-universal-hooks (⭐177)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
-## [63. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [61. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Date and Time
 
 *   [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
 
-## [64. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [62. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Fiction / Fantasy
 
@@ -1797,16 +1746,16 @@
 
 
 
-## [65. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [63. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / DDoS Tools
 
-*   [Anevicon (⭐21)](https://github.com/rozgo/anevicon) - Powerful UDP-based load generator, written in Rust.
+*   [Anevicon (⭐24)](https://github.com/rozgo/anevicon) - Powerful UDP-based load generator, written in Rust.
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [AQUATONE (⭐4.9k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
-*   [OWASP Amass (⭐8k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
+*   [AQUATONE (⭐5k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+*   [OWASP Amass (⭐8.5k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
 *   [subbrute (⭐3k)](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
 
 ### Network Vulnerability Scanners / Wireless Network Tools

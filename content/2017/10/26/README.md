@@ -1,24 +1,18 @@
 # Awesome List Updates on Oct 26, 2017
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Documentation
-
-*   [SourceDocs (⭐349)](https://github.com/eneko/SourceDocs/) - Generate Markdown reference documentation that lives with your code.
-
-## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [1. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Books
 
@@ -29,43 +23,43 @@
 *   [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/).
     by Scott Berkun, 2013.
 
-## [4. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [3. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Utilities
 
 *   [LightBulb (⭐1.6k)](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐435)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐437)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
-## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
 *   [123 Essential JavaScript Interview Question (⭐4.1k)](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
 *   [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Integrations / Components
 
 *   [GraphQL + Angular (⭐1.4k)](https://github.com/apollographql/apollo-angular)
 
-## [9. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
+## [8. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
 ### CCU Addons
 
 *   [homematic\_check\_mk (⭐20)](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check\_mk\_agent.
 
-## [10. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md)
+## [9. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md)
 
 ### Official Resources
 
@@ -80,19 +74,19 @@
 
 *   [Sample Application for inspectIT (⭐7)](https://github.com/inspectit-labs/spring-petclinic-microservices) - Sample application for demonstration purposes, based on the Spring Petclinic.
 
-## [11. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
+## [10. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
 ### ☤ Windows GUI Apps / Physical Coin Wallets
 
 *   [MinerGate](https://minergate.com) - Mine the most profitable cryptocurrency.
 
-## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / Z companies
 
 *   Zapier <https://zapier.com/engineering/>
 
-## [13. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [12. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -107,7 +101,7 @@
 
 
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

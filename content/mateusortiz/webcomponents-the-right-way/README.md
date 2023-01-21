@@ -2,7 +2,7 @@
 
 A curated list of awesome Web Components resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mateusortiz/webcomponents-the-right-way/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mateusortiz/webcomponents-the-right-way](https://github.com/web-padawan/awesome-web-components) · ⭐ 2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mateusortiz/webcomponents-the-right-way/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mateusortiz/webcomponents-the-right-way](https://github.com/web-padawan/awesome-web-components) · ⭐ 2K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 

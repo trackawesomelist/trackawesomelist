@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -99,8 +99,8 @@
 ### Packages / Hardware
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-*   [spi-device (⭐111)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐881)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [spi-device (⭐112)](https://github.com/fivdi/spi-device) - SPI serial bus access.
+*   [pigpio (⭐888)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -46,7 +46,7 @@
 
 ### Applications / Episodes
 
-*   [talking-with-cars (⭐90)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
+*   [talking-with-cars (⭐91)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -93,14 +93,14 @@
 
 ### Developer Tools
 
-*   [Jupyter (⭐230)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
-*   [utop (⭐721)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
-*   [ocamlformat (⭐489)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
+*   [Jupyter (⭐240)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
+*   [utop (⭐729)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
+*   [ocamlformat (⭐499)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
 *   **Foreign Function Interface**:
-    *   [ctypes (⭐322)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
+    *   [ctypes (⭐323)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
     *   [ocaml-main-program-in-c (⭐16)](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
     *   [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
-    *   [Py.ml (⭐135)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
+    *   [Py.ml (⭐138)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 
 ### Messaging
 
@@ -108,7 +108,7 @@
 
 ### Questions
 
-*   [owl (⭐1k)](https://github.com/owlbarn/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
+*   [owl (⭐1.1k)](https://github.com/owlbarn/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

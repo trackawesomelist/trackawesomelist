@@ -2,18 +2,18 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://twitter.com/hpalan).
 *   [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://twitter.com/ClontFont).
 
-### Books / Hellonext
+### Books / Screeb
 
 *   [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
 
@@ -39,7 +39,7 @@
 
 ### Applications / Observability
 
-*   [avito-tech/bioyino (⭐207)](https://github.com/avito-tech/bioyino) — A high-performance scalable StatsD compatible server.
+*   [avito-tech/bioyino (⭐206)](https://github.com/avito-tech/bioyino) — A high-performance scalable StatsD compatible server.
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-word-highlighter (⭐115)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
+*   [vue-word-highlighter (⭐122)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 
 ---
 

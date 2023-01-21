@@ -2,7 +2,7 @@
 
 A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gbdev/awesome-gbdev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) · ⭐ 3.4K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gbdev/awesome-gbdev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) · ⭐ 3.4K · 🏷️ Gaming
 
 [ [Daily](/content/gbdev/awesome-gbdev/README.md) / [Weekly](/content/gbdev/awesome-gbdev/week/README.md) / Overview ]
 

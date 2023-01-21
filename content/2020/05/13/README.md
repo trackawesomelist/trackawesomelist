@@ -2,13 +2,13 @@
 
 23 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### Links / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [List of all the movies from this list on Letterboxd](https://letterboxd.com/potherca/list/the-awesome-sci-fi-list/)
 *   [List of all the novels, short story collections, and comic books from this list on Goodreads](https://www.goodreads.com/list/show/148073.The_Awesome_Sci_Fi_List)
@@ -17,7 +17,7 @@
 
 ### Calendar
 
-*   [iCal.NET (⭐627)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+*   [iCal.NET (⭐643)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ### Functional programming
 
@@ -33,7 +33,7 @@
 
 ### Misc
 
-*   [FormHelper (⭐222)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
+*   [FormHelper (⭐227)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
 
 ### PDF
 
@@ -55,22 +55,22 @@
 
 ### Tools / XML
 
-*   [denox (⭐137)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
+*   [denox (⭐138)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [AppCompatProcessor (⭐160)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
+*   [AppCompatProcessor (⭐163)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [Cutter (⭐12k)](https://github.com/radareorg/cutter) - Reverse engineering platform powered by Radare2.
+*   [Cutter](https://github.com/radareorg/cutter) - Reverse engineering platform powered by Radare2.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Reverse engineering framework and command-line toolset.
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Codelabs
+### Tutorials
 
 *   [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 *   [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
@@ -134,7 +134,7 @@ Free
 
 ### Responsive / Material Design
 
-*   [mdbootstrap (⭐1.2k)](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
+*   [mdbootstrap (⭐1.3k)](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
 
 ## [14. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -179,7 +179,7 @@ Free
 
 ### Demonstrations
 
-*   [Official Gallery (⭐4.5k)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
+*   [Official Gallery (⭐4.8k)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
 
 ### 🇲🇾 Malaysia / Misc
 
@@ -195,8 +195,8 @@ Free
 
 ### Front-End Development
 
-*   [Preact (⭐725)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐77)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐730)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐81)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
@@ -204,7 +204,7 @@ Free
 
 ### Learn
 
-*   [Educational Games (⭐673)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐685)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
@@ -212,13 +212,13 @@ Free
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐234)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐238)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
-*   [Continuous Integration and Continuous Delivery (⭐1.5k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐111k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐159)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Continuous Integration and Continuous Delivery (⭐1.6k)](https://github.com/cicdops/awesome-ciandcd#readme)
+*   [Self Hosted (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐161)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

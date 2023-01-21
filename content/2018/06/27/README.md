@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Libraries / JavaScript
 
-*   [CASL Mongoose (⭐4.4k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [CASL Mongoose (⭐4.5k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -61,11 +61,11 @@
 
 ### Image / Backend-Driven
 
-*   [Image Cropper (⭐877)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
+*   [Image Cropper (⭐889)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [SpinKit (⭐2.6k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+*   [SpinKit (⭐2.7k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
 ---
 

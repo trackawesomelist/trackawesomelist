@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐267)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐269)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -49,32 +49,24 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐789)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐798)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
-*   [d3-circle (⭐129)](https://github.com/tj/d3-circle) - Circle chart \[donut]
 *   [d3fc (⭐1.1k)](https://github.com/d3fc/d3fc) - A collection of interactive chart components \[line, bar, stacked, scatter, candlestick, ohlc]
 *   [d3panels (⭐28)](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing \[dot, scatter, line, heatmap, histogram]
-*   [D4 (⭐430)](https://github.com/heavysixer/d4) - Re-usable charts DSL \[bar, donut, line, scatter, stacked, waterfall]
-*   [epoch (⭐5k)](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library \[area, bar, line, pie, scatter]
-*   [Fancycharts.js (⭐113)](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values \[bar, circles, donut]
-*   [forest-d3 (⭐53)](https://github.com/robinfhu/forest-d3) - A time series charting library \[line, area, stacked, bar, scatter, pie ohlc]
-*   [peek (⭐65)](https://github.com/mtmacdonald/peek) - Object-oriented chart library \[scatter, line, area, bar, pie, donut]
+*   [D4 (⭐429)](https://github.com/heavysixer/d4) - Re-usable charts DSL \[bar, donut, line, scatter, stacked, waterfall]
 *   [plottable (⭐2.9k)](https://github.com/palantir/plottable) - Flexible, interactive charts for the web \[area, bar, line, pie, scatter, stacked]
 *   [rickshaw (⭐6.5k)](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs \[line, scatter, bar]
-*   [vizabi (⭐264)](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools \[bubble, map, line, bar, sankey, donut]
+*   [vizabi (⭐266)](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools \[bubble, map, line, bar, sankey, donut]
 
 ### Charts / Third Party
 
-*   [d3act (⭐302)](https://github.com/AnSavvides/d3act) - d3 with React \[bar, bubble, pie]
-*   [ember-charts (⭐793)](https://github.com/Addepar/ember-charts/) - Charts for Ember \[line, bar, stacked, pie, scatter]
-*   [react-d3 (⭐1.8k)](https://github.com/esbullington/react-d3) - Charts for React \[area, bar, candlestick, line, pie, scatter]
 *   [react-d3-components (⭐1.6k)](https://github.com/codesuki/react-d3-components) - D3 Components \[bar, stacked, scatter, line, area, pie]
 *   [react-d3-library (⭐1.4k)](https://github.com/react-d3-library/react-d3-library) - Library to use D3 in React \[area, bar, line, pie, scatter]
-*   [react-stockcharts (⭐3.5k)](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts \[area, line, scatter, bubble, bar, stacked, candlestick]
+*   [react-stockcharts (⭐3.6k)](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts \[area, line, scatter, bubble, bar, stacked, candlestick]
 *   [react-vis (⭐8.4k)](https://github.com/uber/react-vis) - A collection of react components to render visualizations \[area, bar, heatmap, line, scatter]
 
 ### Maps / Third Party
@@ -104,7 +96,7 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐360)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Next Redux Starter (⭐358)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 
 ---
 

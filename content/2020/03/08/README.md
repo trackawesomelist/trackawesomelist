@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,7 +27,7 @@
 
 ### Applications / System tools
 
-*   [Kondo (⭐913)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
+*   [Kondo (⭐935)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -39,35 +39,35 @@
 
 ### UI
 
-*   [Credit Card Form (⭐404)](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
+*   [Credit Card Form (⭐422)](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
 
 ### Game / Redux / ELM / Dependency Injection
 
-*   [Flame (⭐7k)](https://github.com/flame-engine/flame) <!--stargazers:flame-engine/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
+*   [Flame (⭐7.2k)](https://github.com/flame-engine/flame) <!--stargazers:flame-engine/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
 *   [SpriteWidget (⭐1.2k)](https://github.com/spritewidget/spritewidget) <!--stargazers:spritewidget/spritewidget--> - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt)
 
 ### Game / Open source games
 
-*   [Flip (⭐238)](https://github.com/RedBrogdon/flutterflip) <!--stargazers:RedBrogdon/flutterflip--> - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
-*   [2048 (⭐255)](https://github.com/anuranBarman/2048) <!--stargazers:anuranBarman/2048--> - 2048 game by [Anuran Barman](https://github.com/anuranBarman)
-*   [TRex (⭐0)](https://github.com/renancaraujo/trex-flame) <!--stargazers:renancaraujo/trex-flame--> - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo)
-*   [Crush (⭐472)](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
-*   [Slide Puzzle (⭐176)](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
+*   [Flip (⭐245)](https://github.com/RedBrogdon/flutterflip) <!--stargazers:RedBrogdon/flutterflip--> - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
+*   [2048 (⭐260)](https://github.com/anuranBarman/2048) <!--stargazers:anuranBarman/2048--> - 2048 game by [Anuran Barman](https://github.com/anuranBarman)
+*   [TRex (⭐2)](https://github.com/renancaraujo/trex-flame) <!--stargazers:renancaraujo/trex-flame--> - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Crush (⭐477)](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
+*   [Slide Puzzle (⭐177)](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 *   [Tetris (⭐1.4k)](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
-*   [Party Charades (⭐178)](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
+*   [Party Charades (⭐181)](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
-*   [Blazored.LocalStorage (⭐835)](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/LocalStorage?style=flat-square\&cacheSeconds=86400) A library to provide access to local storage in Blazor applications.
-*   [Blazor-State (⭐379)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
-*   [CssBuilder (⭐166)](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=86400) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
+*   [Blazored.LocalStorage (⭐855)](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/LocalStorage?style=flat-square\&cacheSeconds=86400) A library to provide access to local storage in Blazor applications.
+*   [Blazor-State (⭐387)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
+*   [CssBuilder (⭐172)](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=86400) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
 
 ### Others / Others
 
-*   [Bolero (⭐876)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
-*   [BlazorFabric (⭐756)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
+*   [Bolero (⭐890)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
+*   [BlazorFabric (⭐763)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 
 ## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -93,13 +93,13 @@
 
 ### Projects
 
-*   [yew-styles-page (⭐121)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
+*   [yew-styles-page (⭐122)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
-*   [marl (⭐1.4k)](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
+*   [marl (⭐1.5k)](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
 
 ### Game Engine
 

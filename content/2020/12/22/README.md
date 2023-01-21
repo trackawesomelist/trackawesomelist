@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### UI Libraries
 
-*   [attractions (⭐749)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐793)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐712)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+*   [vue-notion (⭐718)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### Components & Libraries / Utilities
 
@@ -50,7 +50,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐304)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐306)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Projects
 
-*   [wasm-2048 (⭐140)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
+*   [wasm-2048 (⭐142)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 
 ### Crates / Components
 
@@ -73,7 +73,7 @@
 
 ### Hardware
 
-*   [LIDAR (⭐411)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐429)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ---
 

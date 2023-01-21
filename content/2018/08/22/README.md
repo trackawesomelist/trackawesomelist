@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### IR Tools Collection / Evidence Collection
 
-*   [Margarita Shotgun (⭐215)](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+*   [Margarita Shotgun (⭐217)](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 
 ### IR Tools Collection / Other Tools
 
@@ -26,7 +26,7 @@
 
 ### Incident Response tools / Sandboxes
 
-*   [aws\_ir (⭐310)](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
+*   [aws\_ir (⭐314)](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Reactive programming
 
-*   [Cells (⭐186)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
+*   [Cells (⭐189)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
 
 ### Job processing / Third-party APIs
 

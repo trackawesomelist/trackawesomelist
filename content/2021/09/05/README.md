@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,11 +40,11 @@
 
 ### data
 
-*   [historical-basemaps (⭐287)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+*   [historical-basemaps (⭐293)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Upscaling / Generative Adversarial Networks (GANs)
 
 *   [Image Super-Resolution](https://idealo.github.io/image-super-resolution/)
 
@@ -59,7 +59,7 @@
 ### Software / Community-Supported Agriculture (CSA)
 
 *   [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code (⭐125)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
-*   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐901)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
+*   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐917)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
 
 ## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -169,13 +169,13 @@
 
 ### Multi-subject / Crypto or Blockchain relevant
 
-*   [Awesome RSS Feeds (⭐155)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
+*   [Awesome RSS Feeds (⭐213)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
 
 *   [中文博客RSS订阅](https://t.me/s/chinarss) <sup>[299](https://t.me/s/aboutrss/299)</sup>
 *   [RSSBlog](https://rssblog.cn/) <sup>[1079](https://t.me/s/aboutrss/1079)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/caibingcheng/rssblog)
-*   [Awesome-blogCN-feeds (⭐418)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
+*   [Awesome-blogCN-feeds (⭐426)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
 *   [Mataroa Collection](https://collection.mataroa.blog/)
 
 ### Views / Discussions / Experiences / Crypto or Blockchain relevant
@@ -236,11 +236,11 @@
 
 ### Components & Libraries / Frameworks
 
-*   [element-pro-components (⭐153)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
+*   [element-pro-components (⭐156)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 ### Components & Libraries / Dev Tools
 
-*   [components-helper (⭐16)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
+*   [components-helper (⭐18)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
 
 ## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

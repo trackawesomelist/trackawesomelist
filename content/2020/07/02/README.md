@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -38,7 +38,7 @@
 
 ### OS and Kernels / Other / unknown licence
 
-*   [cubit (⭐69)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
+*   [cubit (⭐70)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -115,21 +115,21 @@
 
 ### Resources / Examples
 
-*   [Vue Mini Shop (⭐263)](https://github.com/BosNaufal/vue-mini-shop)
+*   [Vue Mini Shop (⭐265)](https://github.com/BosNaufal/vue-mini-shop)
 *   [**VueChess**](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
 *   [Ngexplorer-vuejs-client (⭐2)](https://github.com/gustaYo/ngexplorer-vuejs-client) - Vue client for `Ngexplorer`
 *   [Vue Simple PWA (⭐195)](https://github.com/BosNaufal/vue-simple-pwa)
-*   [Tour of Heroes (Vue 2.0) (⭐29)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue (⭐2)](https://github.com/revue/revue) (redux bindings for Vue), `vue-router`, [Airbnb eslint (⭐130k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
+*   [Tour of Heroes (Vue 2.0) (⭐29)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue (⭐2)](https://github.com/revue/revue) (redux bindings for Vue), `vue-router`, [Airbnb eslint (⭐131k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
 *   [ngexplorer-quasar (⭐9)](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of `Ngexplorer` with [quasar framework (⭐23k)](https://github.com/rstoenescu/quasar-framework)
 *   [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with `Phoenix Framework`, **Vue** and **Vue Router** ([***demo***](https://phoenix-vue-auth.herokuapp.com))
 *   [**Real Time Social News App**](https://github.com/Angarsk8/loopa-news) developed with `Phoenix Framework`, **Vue**, **Vue Router** and **Vuex** ([***demo***](https://loopa-news.herokuapp.com))
 *   [**vue-calculator**](https://github.com/CaiYiLiang/simply-calculator-vuejs) a simply calculator built with Vue 2.0, vue-cli(webpack-simple).
 *   [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp).
 *   [Chess Storybook Example (⭐13)](https://github.com/gustaYo/vue-chess-storybook) with Vue 2.0
-*   [X-Flowchart-Vue (⭐1.1k)](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue
-*   [X-WebDesktop-Vue (⭐384)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
+*   [X-Flowchart-Vue (⭐1.2k)](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue
+*   [X-WebDesktop-Vue (⭐387)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 *   [**PENV Starter**](https://github.com/jesalg/penv-starter) - A basic example of how to use VueJS, Express and PostgreSQL in conjunction.
-*   [Vue webpack typescript (⭐19)](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
+*   [Vue webpack typescript (⭐21)](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
 
 ### Resources / Blog Posts
 
@@ -146,7 +146,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ads-table-tree (⭐120)](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`
+*   [vue-ads-table-tree (⭐122)](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`
 *   [@voerro/vue-notifications (⭐1)](https://github.com/voerro/vue-notifications) - Simple Vue.js 2 notifications plugin with HTML and styling support.
 *   [vue-popperjs (⭐428)](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
 
@@ -173,13 +173,13 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Cookiecutter-Django-Vue (⭐549)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
+*   [Cookiecutter-Django-Vue (⭐551)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Mock / Barcode
 
-*   [Mockingbird (⭐182)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
+*   [Mockingbird (⭐183)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -191,7 +191,7 @@
 
 ### Carousel
 
-*   [keen-slider (⭐3.7k)](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
+*   [keen-slider (⭐3.8k)](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
 
 ---
 

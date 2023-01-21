@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -42,10 +42,6 @@
 
 *   [Explain me like I'm 5: How digital signatures actually work](http://blog.oleganza.com/post/162861219668/eli5-how-digital-signatures-actually-work) - EdDSA explained with ease and elegance.
 
-### Specific topics / Zero Knowledge Proofs
-
-*   [Information Theoretic Reductions among Disclosure Problems](http://crypto.cs.mcgill.ca/\~crepeau/BCR86.pdf) - Brassau et al.
-
 ### Lectures and educational courses / Post-quantum cryptography
 
 *   [Understanding cryptography: A textbook for Students and Practitioners](http://www.crypto-textbook.com/) - Textbook, great lectures and problems to solve.
@@ -55,19 +51,19 @@
 
 ### Application Libraries
 
-*   [Core (⭐949)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐214)](https://github.com/janestreet/core_kernel).
+*   [Core (⭐961)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐214)](https://github.com/janestreet/core_kernel).
 *   [Minicli (⭐27)](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
 
 ### User Interface
 
-*   [lablqml (⭐146)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+*   [lablqml (⭐149)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐294)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
+*   [Notty (⭐299)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
 ### Security and Cryptography
 
-*   [cryptokit (⭐83)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
+*   [cryptokit (⭐87)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

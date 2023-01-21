@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -184,7 +184,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐593)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -194,7 +194,7 @@
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐577)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐582)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -204,4 +204,5 @@
 
 ---
 
+- Prev: [Dec 25, 2022](/content/2022/12/25/README.md)
 - Next: [Dec 23, 2022](/content/2022/12/23/README.md)

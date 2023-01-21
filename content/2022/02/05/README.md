@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Libraries / Go
 
-*   [gosnmp/gosnmp (⭐907)](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
+*   [gosnmp/gosnmp (⭐924)](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
 
 ### Libraries / Java
 
@@ -33,7 +33,7 @@
 
 ### Libraries / JavaScript
 
-*   [node-net-snmp (⭐156)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
+*   [node-net-snmp (⭐164)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
 
 ### Tools / CLIs
 
@@ -84,7 +84,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [skrapeit/skrape.it (⭐591)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
+*   [skrapeit/skrape.it (⭐607)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
 
 ## [5. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -108,8 +108,8 @@
 
 ### Standard CLI
 
-*   [carapace (⭐70)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐120)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐74)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐137)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
 
@@ -117,14 +117,14 @@
 
 ### Server Applications
 
-*   [dummy (⭐164)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
+*   [dummy (⭐167)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [IPsec VPN Server Auto Setup Scripts (⭐20k)](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-*   [Innernet (⭐4k)](https://github.com/tonarino/innernet) - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
+*   [IPsec VPN Server Auto Setup Scripts (⭐21k)](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
+*   [Innernet (⭐4.1k)](https://github.com/tonarino/innernet) - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
 *   [Nebula (⭐11k)](https://github.com/slackhq/nebula) - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
 *   [OpenVPN](https://openvpn.net/) - Longstanding Free Software traditional SSL/TLS-based virtual private network.
 *   [Tailscale](https://tailscale.com/) - Managed freemium mesh VPN service built on top of WireGuard.
@@ -140,7 +140,7 @@
 
 ### Plugins
 
-*   [tmux-power-zoom (⭐15)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
+*   [tmux-power-zoom (⭐17)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
 
 ---
 

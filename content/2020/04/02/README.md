@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [VAST (⭐414)](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
+*   [VAST (⭐432)](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
 *   [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
 
 ## [4. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
@@ -61,7 +61,7 @@
 *   [base58-ada (⭐4)](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
 *   [libsparkcrypto (⭐26)](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
 *   [sip-hash (⭐1)](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF.
-*   [libkeccak (⭐26)](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
+*   [libkeccak (⭐28)](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
 *   [ascon-spark (⭐1)](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
 *   [spark-sip-hash (⭐5)](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
 *   [spark-norx (⭐8)](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.

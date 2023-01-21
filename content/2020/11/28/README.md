@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Desktop / Game Engine resources
 
-*   [bitsdojo\_window (⭐579)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
+*   [bitsdojo\_window (⭐605)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -55,8 +55,8 @@
 
 ### Community
 
-*   [Complete Terraform documentation as PDF files (Updated nightly) (⭐179)](https://github.com/antonbabenko/terraform-docs-as-pdf)
-*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐67)](https://github.com/terraform-aws-modules/meta)
+*   [Complete Terraform documentation as PDF files (Updated nightly) (⭐181)](https://github.com/antonbabenko/terraform-docs-as-pdf)
+*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐69)](https://github.com/terraform-aws-modules/meta)
 *   [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 
 ### Tutorials and Blog Posts / Writing Custom Providers
@@ -70,14 +70,14 @@
 
 ### Tools / Vendor supported providers
 
-*   [Checkov (⭐4.9k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [Checkov (⭐5k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 *   [TerraDepot (⭐59)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-*   [Terraform-Visual (⭐421)](https://github.com/hieven/terraform-visual) A simple but powerful tool to visualize Terraform plan.
-*   [terratag (⭐712)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
+*   [Terraform-Visual (⭐434)](https://github.com/hieven/terraform-visual) A simple but powerful tool to visualize Terraform plan.
+*   [terratag (⭐733)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 
 ### Libraries / Vendor supported providers
 
-*   [python-hcl2 (⭐156)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
+*   [python-hcl2 (⭐164)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 
 ## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐9.6k)](https://github.com/tinode/chat), [Clients (⭐243)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
+*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐9.7k)](https://github.com/tinode/chat), [Clients (⭐250)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
 
 ### Software / Polls and Events
 
@@ -121,8 +121,8 @@
 
 ### Translations
 
-*   [English (⭐58)](https://github.com/mbiesiad/awesome-translations)
-*   [Polish (⭐58)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+*   [English (⭐65)](https://github.com/mbiesiad/awesome-translations)
+*   [Polish (⭐65)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
 ### Platforms
 
@@ -136,22 +136,22 @@
 
 ### Apps
 
-*   [RTranslator (⭐75)](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
-*   [Crow Translate (⭐969)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+*   [RTranslator (⭐85)](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
+*   [Crow Translate (⭐1k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 *   [Copy Translator (⭐15k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 *   [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 
 ### Tools
 
-*   [deep-translator (⭐713)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+*   [deep-translator (⭐812)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 *   [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 *   [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 *   [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 *   [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
 *   [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
-*   [i18n Ally (⭐2.5k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+*   [i18n Ally (⭐2.7k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 *   [Pootle (⭐1.4k)](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
-*   [Translator (⭐810)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+*   [Translator (⭐920)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 *   [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
 
 ### Articles
@@ -175,8 +175,8 @@
 
 ### Security
 
-*   [Lockpicking (⭐988)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-*   [Cybersecurity Blue Team (⭐2.9k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+*   [Lockpicking (⭐1k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+*   [Cybersecurity Blue Team (⭐3k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 
 ## [15. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 

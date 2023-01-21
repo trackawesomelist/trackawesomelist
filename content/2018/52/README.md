@@ -2,7 +2,7 @@
 
 42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐654)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐663)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.3k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -1307,7 +1307,7 @@ Topics: Standards, Web Assembly\
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [Graphql (⭐3k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+*   [Graphql (⭐3.1k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 
 ### Premium / Game Engine resources
 
@@ -1315,11 +1315,11 @@ Topics: Standards, Web Assembly\
 
 ## [39. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Cloud Computing
+### Software / Cloud Computing
 
 *   [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
 
-### DNS
+### Software / DNS - Servers
 
 *   [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go.
 
@@ -1327,7 +1327,7 @@ Topics: Standards, Web Assembly\
 
 ### Database Drivers
 
-*   [Tortoise ORM (⭐3.2k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
+*   [Tortoise ORM (⭐3.3k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 
 ## [41. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 

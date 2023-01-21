@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,17 +10,17 @@
 
 ### Command-Line Productivity
 
-*   [q (⭐58)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
+*   [q (⭐61)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 
 ### For Developers / Directory Navigation
 
-*   [licins (⭐19)](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
+*   [licins (⭐21)](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 
 ### System Utilities / Directory Navigation
 
-*   [progress (⭐5.8k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
-*   [stronghold (⭐972)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
-*   [xiringuito (⭐1k)](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
+*   [progress (⭐5.9k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
+*   [stronghold (⭐981)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
+*   [xiringuito (⭐1.1k)](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -28,7 +28,7 @@
 
 ### Games / Directory Navigation
 
-*   [piu-piu (⭐679)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
+*   [piu-piu (⭐685)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
 
 ### Shell Script Development / Directory Navigation
 
@@ -44,7 +44,7 @@
 
 ### Email
 
-*   [carbon (⭐78)](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
+*   [carbon (⭐79)](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

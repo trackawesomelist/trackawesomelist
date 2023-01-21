@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -78,19 +78,19 @@
 
 ### Contents / Communication
 
-*   [DroidKaigi2018-flutter (⭐514)](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
+*   [DroidKaigi2018-flutter (⭐515)](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
 
 ### Contents / Finance
 
-*   [Trace (⭐944)](https://github.com/trentpiercy/trace) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
+*   [Trace (⭐976)](https://github.com/trentpiercy/trace) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
 
 ### Contents / Games
 
-*   [Flip (⭐238)](https://github.com/RedBrogdon/flutterflip) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
-*   [2048 (⭐255)](https://github.com/anuranBarman/2048) - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
-*   [TRex (⭐0)](https://github.com/renancaraujo/trex-flame) - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
-*   [Crush (⭐472)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
-*   [Slide Puzzle (⭐176)](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
+*   [Flip (⭐245)](https://github.com/RedBrogdon/flutterflip) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
+*   [2048 (⭐260)](https://github.com/anuranBarman/2048) - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
+*   [TRex (⭐2)](https://github.com/renancaraujo/trex-flame) - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
+*   [Crush (⭐477)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
+*   [Slide Puzzle (⭐177)](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 
 ### Contents / Lifestyle
 
@@ -99,24 +99,24 @@
 ### Contents / Media
 
 *   [Music Player (⭐1.5k)](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
-*   [Cinematic (⭐861)](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+*   [Cinematic (⭐865)](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 
 ### Contents / News and Magazine
 
-*   [NewsBuzz (⭐537)](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
+*   [NewsBuzz (⭐544)](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
 
 ### Contents / Productivity
 
-*   [BookSearch (⭐507)](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
-*   [Taskist (⭐793)](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
+*   [BookSearch (⭐509)](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+*   [Taskist (⭐811)](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
 
 ### Contents / Social Network
 
-*   [Deer (⭐338)](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+*   [Deer (⭐354)](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 
 ### Contents / Tools
 
-*   [Flitter (⭐189)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
+*   [Flitter (⭐187)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Content Management Systems
 
-*   [Umbraco (⭐202)](https://github.com/umbraco-community/awesome-umbraco#readme)
+*   [Umbraco (⭐203)](https://github.com/umbraco-community/awesome-umbraco#readme)
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 

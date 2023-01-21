@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [tmux-thumbs (⭐578)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐594)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -46,12 +46,12 @@
 
 ### CSV
 
-*   [CodableCSV (⭐366)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CodableCSV (⭐370)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
 *   [CSVParser (⭐86)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ### UI / Barcode
 
-*   [ActivityIndicatorView (⭐940)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐971)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Geolocation
 
-*   :strawberry: [Geo plugin (⭐46)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
+*   :strawberry: [Geo plugin (⭐47)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
 ### HTTP
 

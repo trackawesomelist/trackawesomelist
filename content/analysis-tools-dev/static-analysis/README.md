@@ -2,7 +2,7 @@
 
 ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/analysis-tools-dev/static-analysis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) · ⭐ 11K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/analysis-tools-dev/static-analysis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) · ⭐ 11K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 

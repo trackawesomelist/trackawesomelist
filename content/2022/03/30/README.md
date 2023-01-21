@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -164,15 +164,18 @@
 
 *   Falsehoods about Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - Gender is part of human identity and has its own subtleties.
 *   [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - Funny take on how implementation of a falsehood might lead to security holes.
-*   [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐592)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.1k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐547)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.2k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐602)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.2k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐547)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.3k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
 *   [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
+
+### Transportation
+
+*   [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 
 ## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
@@ -301,7 +304,7 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-import-rewriter (⭐3)](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Rewriter the import based on conditions.
+*   [vite-plugin-import-rewriter (⭐4)](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Rewriter the import based on conditions.
 
 ## [17. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -313,7 +316,7 @@
 
 ### Database Tools
 
-*   [rdb (⭐206)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
+*   [rdb (⭐220)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
 
 ### HTTP Clients
 

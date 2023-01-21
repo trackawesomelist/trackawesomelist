@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -108,8 +108,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐862)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
-*   [value-category-cheatsheet (⭐399)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐865)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
+*   [value-category-cheatsheet (⭐400)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ---
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,15 +16,15 @@
 
 ### Graphics
 
-*   [Silk.NET (⭐2.3k)](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
+*   [Silk.NET (⭐2.4k)](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
 
 ### GUI
 
-*   [Lara (⭐121)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
+*   [Lara (⭐123)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 
 ### Template Engine
 
-*   [Scriban (⭐2.2k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
+*   [Scriban (⭐2.3k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
 
 ### UI Automation
 
@@ -33,7 +33,7 @@
 
 ### Parser Library
 
-*   [CSLY (⭐234)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
+*   [CSLY (⭐240)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -56,7 +56,7 @@
 ### Libraries / Compression
 
 *   zip
-    *   [zip-rs/zip (⭐537)](https://github.com/zip-rs/zip) — read and write ZIP archives [![Build Status](https://api.travis-ci.org/mvdnes/zip-rs.svg?branch=master)](https://travis-ci.org/mvdnes/zip-rs)
+    *   [zip-rs/zip (⭐551)](https://github.com/zip-rs/zip) — read and write ZIP archives [![Build Status](https://api.travis-ci.org/mvdnes/zip-rs.svg?branch=master)](https://travis-ci.org/mvdnes/zip-rs)
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -86,7 +86,7 @@
 
 ### APL
 
-*   [April (⭐427)](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp. Replace hundreds of lines of number-crunching code with a single line of APL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [April (⭐462)](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp. Replace hundreds of lines of number-crunching code with a single line of APL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Iteration
 
@@ -94,7 +94,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [sparser (⭐39)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
+*   [sparser (⭐38)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
 
 ### Job processing / Third-party APIs
 
@@ -106,13 +106,13 @@
 
 ### Apps / Third-party APIs
 
-*   [cl-yacc (⭐50)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yacc (⭐52)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-shlex (⭐6)](https://github.com/ruricolist/cl-shlex/) - simple lexical analyzer for shell-like syntaxes. [MIT](https://opensource.org/licenses/MIT).
-*   [smug (⭐97)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
+*   [smug (⭐98)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
 
 ### i18n / Third-party APIs
 
-*   [gettext (⭐6)](https://github.com/rotatef/gettext) -  a port of the gettext runtime to Common Lisp. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [gettext (⭐9)](https://github.com/rotatef/gettext) -  a port of the gettext runtime to Common Lisp. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [10. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 

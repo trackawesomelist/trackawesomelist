@@ -2,7 +2,7 @@
 
 A curated list of awesome WebAudio packages and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/notthetup/awesome-webaudio/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) · ⭐ 878 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/notthetup/awesome-webaudio/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) · ⭐ 878 · 🏷️ Front-End Development
 
 [ [Daily](/content/notthetup/awesome-webaudio/README.md) / [Weekly](/content/notthetup/awesome-webaudio/week/README.md) / Overview ]
 

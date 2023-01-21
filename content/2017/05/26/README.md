@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -64,7 +64,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [shundle (⭐78)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
+*   [shundle (⭐79)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

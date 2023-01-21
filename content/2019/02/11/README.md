@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -90,7 +90,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Clean Code concepts adapted for TypeScript (⭐6.9k)](https://github.com/labs42io/clean-code-typescript)
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐7k)](https://github.com/labs42io/clean-code-typescript)
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -102,7 +102,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Colors
 
-*   [Gradients (⭐772)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
+*   [Gradients (⭐776)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
 
 ### UITableView / Barcode
 

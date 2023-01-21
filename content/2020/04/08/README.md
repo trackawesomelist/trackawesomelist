@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -88,11 +88,11 @@
 
 ### Animation
 
-*   [Elephant (⭐126)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐127)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐74)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐77)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### Multi Database
 
@@ -100,11 +100,11 @@
 
 ### XML
 
-*   [XMLCoder (⭐654)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐657)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐641)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐652)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
@@ -125,7 +125,7 @@
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift (⭐86)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐87)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -146,7 +146,7 @@
 ### Functional Programming
 
 *   [Coconut (⭐3.6k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [more-itertools (⭐2.8k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+*   [more-itertools (⭐2.9k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 
 ### RPC Servers
 
@@ -156,7 +156,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Kapitsa (⭐8)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
+*   [Kapitsa (⭐9)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -248,7 +248,7 @@
 
 ### CSV
 
-*   [CodableCSV (⭐356)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐366)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ---
 

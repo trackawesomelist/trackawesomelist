@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,28 +17,28 @@
 
 ### CLI
 
-*   [pg\_activity (⭐17)](https://github.com/julmon/pg_activity) - Top like application for PostgreSQL server activity monitoring.
+*   [pg\_activity (⭐2k)](https://github.com/julmon/pg_activity) - Top like application for PostgreSQL server activity monitoring.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Adversary Emulation
 
-*   [APTSimulator (⭐2k)](https://github.com/NextronSystems/APTSimulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
+*   [APTSimulator (⭐2.1k)](https://github.com/NextronSystems/APTSimulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 *   [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - Software for defensive security training, which will bring your network analysis training sessions, incident response drills and red team engagements to a new level.
-*   [Caldera (⭐3.8k)](https://github.com/mitre/caldera) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
-*   [DumpsterFire (⭐887)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
-*   [Metta (⭐976)](https://github.com/uber-common/metta) - Information security preparedness tool to do adversarial simulation.
-*   [Network Flight Simulator (⭐780)](https://github.com/alphasoc/flightsim) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
+*   [Caldera (⭐4k)](https://github.com/mitre/caldera) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
+*   [DumpsterFire (⭐894)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
+*   [Metta (⭐983)](https://github.com/uber-common/metta) - Information security preparedness tool to do adversarial simulation.
+*   [Network Flight Simulator (⭐822)](https://github.com/alphasoc/flightsim) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
 *   [RedHunt-OS (⭐1.1k)](https://github.com/redhuntlabs/RedHunt-OS) - Virtual machine for adversary emulation and threat hunting.
 
 ### IR Tools Collection / All-In-One Tools
 
 *   [Belkasoft Evidence Center](https://belkasoft.com/ec) -  The toolkit will quickly extract digital evidence from multiple sources by analyzing hard drives, drive images, memory dumps, iOS, Blackberry and Android backups, UFED, JTAG and chip-off dumps.
-*   [CimSweep (⭐612)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows.
-*   [CIRTkit (⭐131)](https://github.com/byt3smith/CIRTKit) - CIRTKit is not just a collection of tools, but also a framework to aid in the ongoing unification of Incident Response and Forensics investigation processes.
+*   [CimSweep (⭐614)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows.
+*   [CIRTkit (⭐130)](https://github.com/byt3smith/CIRTKit) - CIRTKit is not just a collection of tools, but also a framework to aid in the ongoing unification of Incident Response and Forensics investigation processes.
 *   [Cyber Triage](http://www.cybertriage.com) - Cyber Triage remotely collects and analyzes endpoint data to help determine if it is compromised.  It’s agentless approach and focus on ease of use and automation allows companies to respond without major infrastructure changes and without a team of forensics experts.  Its results are used to decide if the system should be erased or investigated further.
-*   [Doorman (⭐590)](https://github.com/mwielgoszewski/doorman) - osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness.
-*   [Falcon Orchestrator (⭐177)](https://github.com/CrowdStrike/falcon-orchestrator) - Extendable Windows-based application that provides workflow automation, case management and security response functionality.
+*   [Doorman (⭐592)](https://github.com/mwielgoszewski/doorman) - osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness.
+*   [Falcon Orchestrator (⭐179)](https://github.com/CrowdStrike/falcon-orchestrator) - Extendable Windows-based application that provides workflow automation, case management and security response functionality.
 *   [MozDef (⭐2.2k)](https://github.com/mozilla/MozDef) - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
 *   [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/) - Another popular distributed open-source computer forensics framework. This framework was built on Linux platform and uses postgreSQL database for storing data.
 *   [osquery](https://osquery.io/) - Easily ask questions about your Linux and macOS infrastructure using a SQL-like query language; the provided *incident-response pack* helps you detect and respond to breaches.
@@ -46,7 +46,7 @@
 *   [The Sleuth Kit & Autopsy](http://www.sleuthkit.org) - Unix and Windows based tool which helps in forensic analysis of computers. It comes with various tools which helps in digital forensics. These tools help in analyzing disk images, performing in-depth analysis of file systems, and various other things.
 *   [TheHive](https://thehive-project.org/) - Scalable 3-in-1 open source and free solution designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
 *   [X-Ways Forensics](http://www.x-ways.net/forensics/) - Forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis.
-*   [Zentral (⭐650)](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
+*   [Zentral (⭐661)](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
 
 ### IR Tools Collection / Disk Image Creation Tools
 
@@ -56,16 +56,16 @@
 
 ### IR Tools Collection / Evidence Collection
 
-*   [bulk\_extractor (⭐727)](https://github.com/simsong/bulk_extractor) - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
-*   [Cold Disk Quick Response (⭐314)](https://github.com/rough007/CDQR) - Streamlined list of parsers to quickly analyze a forensic image file (`dd`, E01, `.vmdk`, etc) and output nine reports.
-*   [ir-rescue (⭐393)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [bulk\_extractor (⭐758)](https://github.com/simsong/bulk_extractor) - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
+*   [Cold Disk Quick Response (⭐315)](https://github.com/rough007/CDQR) - Streamlined list of parsers to quickly analyze a forensic image file (`dd`, E01, `.vmdk`, etc) and output nine reports.
+*   [ir-rescue (⭐406)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ### IR Tools Collection / Incident Management
 
 *   [CyberCPR](https://www.cybercpr.com) - Community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
 *   [Fast Incident Response (FIR) (⭐1.5k)](https://github.com/certsocietegenerale/FIR/) - Cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike.
 *   [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) is the premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
-*   [threat\_note (⭐408)](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
+*   [threat\_note (⭐409)](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
 
 ### IR Tools Collection / Linux Distributions
 
@@ -84,49 +84,49 @@
 ### IR Tools Collection / Memory Analysis Tools
 
 *   [Evolve (⭐252)](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework.
-*   [inVtero.net (⭐261)](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support.
+*   [inVtero.net (⭐265)](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support.
 *   [LiME (⭐1.4k)](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
 *   [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) - Free memory forensic software that helps incident responders find evil in live memory. Memoryze can acquire and/or analyze memory images, and on live systems, can include the paging file in its analysis.
 *   [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO is the industry standard physical memory and automated malware analysis solution.
-*   [Volatility (⭐5.7k)](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
-*   [VolatilityBot (⭐247)](https://github.com/mkorman90/VolatilityBot) - Automation tool for researchers cuts all the guesswork and manual tasks out of the binary extraction phase, or to help the investigator in the first steps of performing a memory analysis investigation.
+*   [Volatility (⭐5.9k)](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
+*   [VolatilityBot (⭐251)](https://github.com/mkorman90/VolatilityBot) - Automation tool for researchers cuts all the guesswork and manual tasks out of the binary extraction phase, or to help the investigator in the first steps of performing a memory analysis investigation.
 *   [VolDiff (⭐187)](https://github.com/aim4r/VolDiff) - Malware Memory Footprint Analysis based on Volatility.
 
 ### IR Tools Collection / Memory Imaging Tools
 
 *   [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - Tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system.
-*   [Linux Memory Grabber (⭐243)](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
+*   [Linux Memory Grabber (⭐244)](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
 *   [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows.
 
 ### IR Tools Collection / OSX Evidence Collection
 
-*   [macOS Artifact Parsing Tool (mac\_apt) (⭐539)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
+*   [macOS Artifact Parsing Tool (mac\_apt) (⭐556)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
 *   [OSX Auditor (⭐3.1k)](https://github.com/jipegit/OSXAuditor) - Free Mac OS X computer forensics tool.
 *   [OSX Collector (⭐1.8k)](https://github.com/yelp/osxcollector) - OSX Auditor offshoot for live response.
 
 ### IR Tools Collection / Other Lists
 
-*   [List of various Security APIs (⭐707)](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
+*   [List of various Security APIs (⭐735)](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
 
 ### IR Tools Collection / Other Tools
 
 *   [Crits](https://crits.github.io/) - Web-based tool which combines an analytic engine with a cyber threat database.
-*   [Diffy (⭐618)](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
+*   [Diffy (⭐623)](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
 *   [domfind (⭐20)](https://github.com/diogo-fernan/domfind) - Python DNS crawler for finding identical domain names under different TLDs.
-*   [Fileintel (⭐102)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
+*   [Fileintel (⭐105)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
 *   [HELK (⭐3.4k)](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
-*   [Hindsight (⭐804)](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
-*   [Hostintel (⭐237)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
+*   [Hindsight (⭐828)](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
+*   [Hostintel (⭐242)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 *   [imagemounter (⭐99)](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
 *   [RaQet](https://raqet.github.io/) - Unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
 *   [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
-*   [Stenographer (⭐1.7k)](https://github.com/google/stenographer) - Packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
+*   [Stenographer (⭐1.8k)](https://github.com/google/stenographer) - Packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
 *   [sqhunter (⭐65)](https://github.com/0x4d31/sqhunter) - Threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources.
 *   [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
 
 ### IR Tools Collection / Playbooks
 
-*   [IRM (⭐998)](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
+*   [IRM (⭐519)](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
 
 ### IR Tools Collection / Process Dump Tools
 
@@ -134,19 +134,19 @@
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [Cuckoo-modified (⭐379)](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community.
+*   [Cuckoo-modified (⭐381)](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community.
 *   [Cuckoo-modified-api (⭐16)](https://github.com/keithjjones/cuckoo-modified-api) - Python library to control a cuckoo-modified sandbox.
-*   [Mastiff (⭐159)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
+*   [Mastiff (⭐160)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
 *   [Viper (⭐1.5k)](https://github.com/viper-framework/viper) - Python based binary analysis and management framework, that works well with Cuckoo and YARA.
 *   [Virustotal](https://www.virustotal.com) - Free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners.
-*   [Visualize\_Logs (⭐133)](https://github.com/keithjjones/visualize_logs) - Open source visualization library and command line tools for logs (Cuckoo, Procmon, more to come).
+*   [Visualize\_Logs (⭐132)](https://github.com/keithjjones/visualize_logs) - Open source visualization library and command line tools for logs (Cuckoo, Procmon, more to come).
 
 ### IR Tools Collection / Timeline Tools
 
 *   [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise.
 *   [Morgue (⭐1k)](https://github.com/etsy/morgue) - PHP Web app by Etsy for managing postmortems.
 *   [Plaso (⭐1.4k)](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline.
-*   [Timesketch (⭐2k)](https://github.com/google/timesketch) - Open source tool for collaborative forensic timeline analysis.
+*   [Timesketch (⭐2.1k)](https://github.com/google/timesketch) - Open source tool for collaborative forensic timeline analysis.
 
 ### IR Tools Collection / Videos
 
@@ -154,12 +154,12 @@
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [AChoir (⭐162)](https://github.com/OMENScan/AChoir) - Framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
+*   [AChoir (⭐164)](https://github.com/OMENScan/AChoir) - Framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
 *   [Crowd Response](http://www.crowdstrike.com/community-tools/) - Lightweight Windows console application designed to aid in the gathering of system information for incident response and security engagements. It features numerous modules and output formats.
-*   [Fibratus (⭐1.7k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
-*   [Panorama (⭐37)](https://github.com/AlmCo/Panorama) - Fast incident overview on live Windows systems.
-*   [PowerForensics (⭐1.2k)](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
-*   [PSRecon (⭐454)](https://github.com/gfoss/PSRecon/) - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.
+*   [Fibratus (⭐1.8k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
+*   [Panorama (⭐38)](https://github.com/AlmCo/Panorama) - Fast incident overview on live Windows systems.
+*   [PowerForensics (⭐1.3k)](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
+*   [PSRecon (⭐459)](https://github.com/gfoss/PSRecon/) - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.
 
 ## [4. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [liblinear-java (⭐306)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
+*   [liblinear-java (⭐307)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 
 ## [6. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
@@ -286,11 +286,11 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Audio
 
-*   [voice-overlay-ios (⭐487)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+*   [voice-overlay-ios (⭐490)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### Alert / Barcode
 
-*   [Sheet (⭐322)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
+*   [Sheet (⭐323)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
 
 ## [18. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -57,7 +57,7 @@ Webpage: <http://ogniwo.org/>
 ### Applications / Directory Navigation
 
 *   [awless (⭐4.9k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
-*   [ranger (⭐12k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [ranger (⭐13k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 
 ## [7. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
@@ -69,7 +69,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Caching
 
-*   [nebulex (⭐964)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐981)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
@@ -115,7 +115,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Text & Rich Content / Image Picker
 
-*   [Masked Text (⭐261)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+*   [Masked Text (⭐264)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

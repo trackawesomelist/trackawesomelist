@@ -2,7 +2,7 @@
 
 🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/caufieldjh/awesome-bioie/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 caufieldjh/awesome-bioie](https://github.com/caufieldjh/awesome-bioie) · ⭐ 218 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/caufieldjh/awesome-bioie/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 caufieldjh/awesome-bioie](https://github.com/caufieldjh/awesome-bioie) · ⭐ 218 · 🏷️ Health and Social Science
 
 [ [Daily](/content/caufieldjh/awesome-bioie/README.md) / [Weekly](/content/caufieldjh/awesome-bioie/week/README.md) / Overview ]
 

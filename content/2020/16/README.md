@@ -2,7 +2,7 @@
 
 59 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Tools
 
-*   [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API (⭐122)](https://github.com/ccouzens/keycloak-openapi)
+*   [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API (⭐132)](https://github.com/ccouzens/keycloak-openapi)
 
 ## [2. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Blazor / Themes
 
-*   [Blazorise (⭐2.5k)](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
+*   [Blazorise (⭐2.6k)](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
 
 ## [5. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Color
 
-*   [SheetyColors (⭐101)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
+*   [SheetyColors (⭐102)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 
 ## [8. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -181,7 +181,7 @@ Language: English
 
 ### Tools and session management
 
-*   [tmux-cssh (⭐60)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+*   [tmux-cssh (⭐61)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 
 ### Status Bar
 
@@ -221,13 +221,13 @@ Language: English
 
 ### Applications / Utilities
 
-*   [nomino (⭐452)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
+*   [nomino (⭐470)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 
 ## [16. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
-*   [eternal (⭐416)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
+*   [eternal (⭐443)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
 
 ### Other / Other
 
@@ -247,7 +247,7 @@ Language: English
 
 ### Tools / Playground
 
-*   [SweetIQ/schemats (⭐987)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
+*   [SweetIQ/schemats (⭐990)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 
 ## [19. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -291,11 +291,11 @@ Language: English
 *   [Leaf for Mac](https://rockysandstudio.com/) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/id576338668?mt=12)
 *   [Cappuccino](https://cappuccinoapp.com/) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/cappuccino/id1293733688?mt=8\&at=10l4Lz\&ct=cappuiosbadge\&uo=8\&at=10l4Lz)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://geo.itunes.apple.com/us/app/cappuccino-news-reader/id1286725949?mt=12\&app=apps\&at=10l4Lz\&ct=cappumacbadge\&uo=8\&at=10l4Lz)
 *   [RSS Reader Prime](http://orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/) <sup>[487](https://t.me/s/aboutrss/487)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rss-reader-prime/id1454638098)
-*   [Smart RSS extension (⭐80)](https://github.com/SmartRSS/Smart-RSS) <sup>[510](https://t.me/s/aboutrss/510)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/eggggihfcaabljfpjiiaohloefmgejic/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/smart-rss-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SmartRSS/Smart-RSS)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [FeedPop (⭐32)](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xs9627/feedpop)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Smart RSS extension (⭐83)](https://github.com/SmartRSS/Smart-RSS) <sup>[510](https://t.me/s/aboutrss/510)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/eggggihfcaabljfpjiiaohloefmgejic/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/smart-rss-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SmartRSS/Smart-RSS)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [FeedPop (⭐35)](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xs9627/feedpop)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [DEVONthink](https://www.devontechnologies.com/apps/devonthink) ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)
 *   [Sismics Reader](https://www.sismics.com/reader/#!/home) ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.sismics.reader)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sismics/reader)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [RSSOwlnix (⭐212)](https://github.com/Xyrio/RSSOwlnix) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Xyrio/RSSOwlnix)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSOwlnix (⭐215)](https://github.com/Xyrio/RSSOwlnix) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Xyrio/RSSOwlnix)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -346,14 +346,14 @@ Language: English
 ### Wechat Mini Apps / Outline Processor Markup Language
 
 *   [攸阅](https://minapp.com/miniapp/12066/) <sup>[165](https://t.me/s/aboutrss/165), [190](https://t.me/s/aboutrss/190)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [Resser 阅见 (⭐70)](https://github.com/rhinoc/Resser) <sup>[296](https://t.me/s/aboutrss/296), [297](https://t.me/s/aboutrss/297)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rhinoc/Resser)
+*   [Resser 阅见 (⭐68)](https://github.com/rhinoc/Resser) <sup>[296](https://t.me/s/aboutrss/296), [297](https://t.me/s/aboutrss/297)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rhinoc/Resser)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Newspipe](https://www.newspipe.org/) <sup>[464](https://t.me/s/aboutrss/464)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cedricbonhomme/newspipe)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [rss-web (⭐58)](https://github.com/sin1ght/rss-web) <sup>[87](https://t.me/s/aboutrss/87)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sin1ght/rss-web)
 *   [selfoss](https://selfoss.aditu.de/) <sup>[128](https://t.me/s/aboutrss/128), [266](https://t.me/s/aboutrss/266), [389](https://t.me/s/aboutrss/389)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SSilence/selfoss)
-*   [Stringer (⭐3.5k)](https://github.com/swanson/stringer) <sup>[388](https://t.me/s/aboutrss/388)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/swanson/stringer)
+*   [Stringer (⭐3.6k)](https://github.com/swanson/stringer) <sup>[388](https://t.me/s/aboutrss/388)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/swanson/stringer)
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
@@ -367,11 +367,11 @@ Language: English
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [sensor.feedparser (⭐87)](https://github.com/custom-components/feedparser) <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/custom-components/feedparser)
+*   [sensor.feedparser (⭐89)](https://github.com/custom-components/feedparser) <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/custom-components/feedparser)
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
-*   [Feed Readers @ Awesome-Selfhosted (⭐106k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
+*   [Feed Readers @ Awesome-Selfhosted (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 *   [Substats API](https://substats.spencerwoo.com/)
 
 ### TTRSS / Outline Processor Markup Language
@@ -381,7 +381,7 @@ Language: English
 
 ### DEVONthink / Outline Processor Markup Language
 
-*   [devonthink-heti (⭐73)](https://github.com/sivan/devonthink-heti) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sivan/devonthink-heti)
+*   [devonthink-heti (⭐77)](https://github.com/sivan/devonthink-heti) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sivan/devonthink-heti)
 
 ### Telegram / Telegram RSS bots
 
@@ -416,7 +416,7 @@ Language: English
 ### universally from / newsletter/mail
 
 *   Reading Newsletters with RSS Reader <sup>[426](https://t.me/s/aboutrss/426)</sup>
-*   [mail2rss (⭐36)](https://github.com/lengthmin/mail2rss) <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lengthmin/mail2rss)
+*   [mail2rss (⭐37)](https://github.com/lengthmin/mail2rss) <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lengthmin/mail2rss)
 
 ### specifically from (  *a certain platform*  ) / Weibo (微博)
 
@@ -452,7 +452,7 @@ Language: English
 *   [Feedsearch](https://feedsearch.dev/) <sup>[310](https://t.me/s/aboutrss/310)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DBeath/feedsearch-crawler)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS API](https://rssapi.net/) <sup>[279](https://t.me/s/aboutrss/279)</sup> : Convert & subscribe to RSS, ATOM and JSON-Feeds via API
 *   [Feedspot API](https://www.feedspot.com/fs/apireadme) <sup>[290](https://t.me/s/aboutrss/290)</sup>
-*   [feedi (⭐345)](https://github.com/davidesantangelo/feedi) <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/feedi)
+*   [feedi (⭐343)](https://github.com/davidesantangelo/feedi) <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/feedi)
 *   [Substats](https://api.spencerwoo.com/substats/) <sup>[452](https://t.me/s/aboutrss/452), [470](https://t.me/s/aboutrss/470)</sup> : Serverless Function to Count How Many People are Subscribed to You in Your Favorite Services [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spencerwooo/Substats)
 
 ### iOS Shortcut / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
@@ -540,7 +540,7 @@ Language: English
 
 ### Email
 
-*   :strawberry: [EmailQueue plugin (⭐58)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
+*   :strawberry: [EmailQueue plugin (⭐57)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
 
 ### File Manipulation
 
@@ -581,11 +581,11 @@ Language: English
 
 *   [TodoMVC Vue 3 Composition API (⭐121)](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
 *   [TodoMVC Vue (⭐28)](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
-*   [Movie search app with Composition API (⭐39)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
+*   [Movie search app with Composition API (⭐40)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
 
 ### Projects Using Vue.js / Open Source
 
-*   [Sheiley Shop (⭐44)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
+*   [Sheiley Shop (⭐45)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
 ### Components & Libraries / UI Components
 
@@ -676,7 +676,7 @@ Language: English
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐618)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐620)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -727,11 +727,11 @@ Language: English
 ### Tools & Utilities / Others
 
 *   [Blazor.LazyStyleSheet (⭐12)](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square\&cacheSeconds=86400) Lazy loading for CSS style sheets.
-*   [DnetIndexedDb (⭐84)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
+*   [DnetIndexedDb (⭐85)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
 
 ### Others / Others
 
-*   [BlazorWebView (⭐128)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
+*   [BlazorWebView (⭐129)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
 
 ## [39. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -751,23 +751,6 @@ Language: English
 ### Vue
 
 *   [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
-
-### Tutorials
-
-*   "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
-    *   [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
-    *   [Part 2: Custom Elements](https://javascript.info/custom-elements)
-    *   [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
-    *   [Part 4: Template element](https://javascript.info/template-element)
-    *   [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
-    *   [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
-    *   [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
-*   **Angular Elements** article series by [Manfred Steyer](https://www.angulararchitects.io/about/)
-    *   [Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-i/)
-    *   [Part II: Lazy and External Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-ii/)
-    *   [Part III: Angular Elements Without Zone.Js](https://www.angulararchitects.io/aktuelles/angular-elements-part-iii/)
-    *   [Part IV: Content Projection with Slots in Angular Elements (>=7)](https://www.angulararchitects.io/aktuelles/content-projection-with-slots-in-angular-elements-7/)
-    *   [Part V: Your Options for Building Angular Elements with the CLI](https://www.angulararchitects.io/aktuelles/your-options-for-building-angular-elements/)
 
 ### History / 2018
 
@@ -834,15 +817,15 @@ Language: English
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [TEN (⭐27)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
+*   [TEN (⭐28)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
 
 ### Writing, running scripts / Third-party APIs
 
-*   [clawk (⭐41)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+*   [clawk (⭐43)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 
 ### Command-line options parsers / Third-party APIs
 
-*   [Unix-opts (⭐96)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
+*   [Unix-opts (⭐101)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
@@ -860,7 +843,7 @@ Language: English
 
 ### System administration / Third-party APIs
 
-*   [Adams (⭐170)](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
+*   [Adams (⭐175)](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
 
 ### Date and time / Third-party APIs
 
@@ -1164,11 +1147,11 @@ Language: English
 
 ### Packages / Documentation
 
-*   [Docusaurus (⭐40k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+*   [Docusaurus (⭐41k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐7.9k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐8.1k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [59. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 

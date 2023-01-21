@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2015
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,11 +48,11 @@
 
 ### Git Tools
 
-*   [GitLink (⭐555)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+*   [GitLink (⭐556)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ### HTML and CSS
 
-*   [AngleSharp (⭐4.4k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+*   [AngleSharp (⭐4.5k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
 
 ### Logging
 
@@ -64,8 +64,8 @@
 
 ### Misc
 
-*   [CsvHelper (⭐3.9k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐3.9k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐7.2k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [CsvHelper (⭐4k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4k)](https://github.com/JoshClose/CsvHelper)
+*   [Humanizer (⭐7.3k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 *   [Shielded (⭐227)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 
 ### ORM
@@ -78,7 +78,7 @@
 
 ### Search
 
-*   [Elasticsearch .NET (⭐3.3k)](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
+*   [Elasticsearch .NET (⭐3.4k)](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
 
 ### WebSocket
 
@@ -278,7 +278,7 @@
 ### Command-Line Productivity
 
 *   [pathpicker (⭐4.8k)](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
-*   [qfc (⭐548)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
+*   [qfc (⭐555)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 
 ## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -393,20 +393,9 @@
 
 ### Key Value Store
 
-*   [Zephyr (⭐838)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+*   [Zephyr (⭐844)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
-## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Go / Phoenix
-
-*   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
-
-### Haxe / Spock Framework
-
-*   [Flambe Handbook (⭐56)](https://github.com/markknol/flambe-guide/wiki)
-*   [Haxe Manual](http://haxe.org/documentation/introduction/) - Haxe Foundation (PDF, HTML)
-
-## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -416,7 +405,7 @@
 
 *   [NexusData (⭐72)](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 
-## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Universal Seed Projects / Components
 
@@ -426,7 +415,7 @@
 
 *   [Angular 2 Goldilocks seed (⭐40)](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
 
-## [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 

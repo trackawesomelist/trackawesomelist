@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Templates / TikZ
 
-*   [Ultimate Beamer Theme List (⭐894)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
+*   [Ultimate Beamer Theme List (⭐918)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
 ## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Routing
 
-*   [router.cr (⭐252)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+*   [router.cr (⭐254)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -69,7 +69,7 @@
 
 ### IoC
 
-*   [VS MEF (⭐340)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
+*   [VS MEF (⭐348)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 
 ### ORM
 

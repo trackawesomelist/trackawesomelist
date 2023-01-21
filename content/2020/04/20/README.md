@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,22 +37,22 @@
 
 ### ORM
 
-*   [SmartSql (⭐898)](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
+*   [SmartSql (⭐913)](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 
 ### Protocols
 
-*   [DnsClient.NET (⭐609)](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
+*   [DnsClient.NET (⭐623)](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 
 ### Visual Studio Plugins
 
 *   [Web Essentials (⭐52)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
-*   [SideWaffle (⭐653)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
+*   [SideWaffle (⭐654)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
-*   [react-imgix (⭐327)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
+*   [react-imgix (⭐330)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 
 ## [4. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -88,13 +88,13 @@
 
 ### Side-channel Tools / Reverse Engineering Tools
 
-*   [TRRespass (⭐106)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
+*   [TRRespass (⭐107)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Profiler and Optimization
 
-*   [stackprof (⭐1.9k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
+*   [stackprof (⭐2k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
 *   [test-prof (⭐1.6k)](https://github.com/palkan/test-prof) - Ruby Tests Profiling Toolbox
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
@@ -131,17 +131,13 @@
 ### Job boards
 
 *   [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-*   [remote-es/remotes (⭐528)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+*   [remote-es/remotes (⭐543)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 
 ### Companies with "remote DNA"
 
 *   [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
 
 ## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Tools
-
-*   [query-selector-shadow-dom (⭐194)](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 
 ### History / 2016
 
@@ -162,7 +158,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [GORSS - Go RSS Reader (⭐269)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
+*   [GORSS - Go RSS Reader (⭐277)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
 
 ### universally from / newsletter/mail
 

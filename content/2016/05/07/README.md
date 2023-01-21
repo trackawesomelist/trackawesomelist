@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐528)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐529)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
 ## [2. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -58,7 +58,7 @@
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐910)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐919)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 

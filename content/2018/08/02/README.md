@@ -1,18 +1,12 @@
 # Awesome List Updates on Aug 02, 2018
 
-19 awesome lists updated today.
+17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Events
-
-*   [EasyFutures (⭐40)](https://github.com/DimaMishchenko/EasyFutures) - 🔗Futures & Promises. Easy to use. Highly combinable.
-
-## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [1. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Resources
 
@@ -31,13 +25,13 @@
 *   [Converting libraries to Ember CLI addons](https://gist.github.com/kristianmandrup/ae3174217f68a6a51ed5)
 *   [Developing Addons and Blueprints](https://gist.github.com/kristianmandrup/ae3174217f68a6a51ed5)
 
-## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
 *   [carbon-now-cli (⭐5.4k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 
-## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [3. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Braga
 
@@ -51,31 +45,31 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 | ---- | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
 | ✔    | ✔     | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00 |
 
-## [5. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
+## [4. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
 ### ☤ Reading Material
 
 *   [Golden Cryptocurrency and Blockchain Cluster](https://golden.com/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - a cluster of topic pages on cryptocurrency and blockchain.
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### TensorFlow / General-Purpose Machine Learning
 
 *   [Golden TensorFlow](https://golden.com/wiki/TensorFlow) - A page of content on TensorFlow, including academic papers and links to related topics.
 
-## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Free Content
 
 *   [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Awesome lists that include links to InfluxDB / Hooks
 
 *   [awesome-home-assistant (⭐4.1k)](https://github.com/frenck/awesome-home-assistant)
 
-## [9. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [8. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
 *   [@jacobian](https://github.com/jacobian), [Django (⭐67k)](https://github.com/django/django)
     *   "What Part of '... for Life' Don't You Understand?" ([video](https://www.youtube.com/watch?v=EqcuzSwySR4))
@@ -88,13 +82,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
     *   "Maintainer Stories: Evan You" ([interview](https://github.com/open-source/stories/yyx990803))
     *   "The Journey to Full Time Open Source" ([video](https://www.youtube.com/watch?v=SXjA1aIM35E))
 
-## [10. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Assorted
 
 *   [How to select the right React Native database](https://www.simform.com/react-native-database-selection-guide/)
 
-## [11. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [10. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
@@ -113,19 +107,19 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [UI is Communication](https://amzn.to/2vbiALY) - How to make intuitive User Interfaces (UI and Usability Testing).
 *   [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - About how we make decisions and how to run experiments (experiments == tests).
 
-## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [Git katas (⭐759)](https://github.com/praqma-training/gitkatas)
 
-## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [12. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Authentication & OAuth
 
-*   [Padlock (⭐21)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
+*   [Padlock (⭐22)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
 
-## [14. Awesome](/content/craftcms/awesome/README.md)
+## [13. Awesome](/content/craftcms/awesome/README.md)
 
 ### Articles / Getting Started
 
@@ -135,7 +129,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Passing data from Twig to JavaScript](https://cruftlesscraft.com/passing-data-from-twig-to-javascript) by Ben Rogerson - `1 Aug 2018`
 
-## [15. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Community / Ephemera
 
@@ -148,13 +142,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 *   [inconvergent](http://buy.inconvergent.net)
 
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Scratch / Play Scala
-
-*   [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html) (HTML)
-
-## [17. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [15. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
@@ -162,13 +150,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [MailCore (⭐80)](https://github.com/LiveUI/MailCore) – Sending e-mails via SMTP, MailGun and SendGrid.
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [XMLCoding (⭐8)](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
 
-## [18. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / F companies
 
 *   Feedzai <https://medium.com/feedzaitech>
 
-## [19. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [17. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Tools / Custom Time Series
 

@@ -2,7 +2,7 @@
 
 71 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Database Drivers
 
-*   [ruby-pg (⭐642)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
+*   [ruby-pg (⭐652)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
 
 ### Robotics
 
@@ -118,7 +118,7 @@
 
 ## [7. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
 
@@ -163,11 +163,11 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code (⭐5.8k)](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
+*   [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code (⭐6k)](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Share (⭐100)](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more. `MIT` `Nodejs`
+*   [Share (⭐101)](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more. `MIT` `Nodejs`
 
 ## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -184,17 +184,17 @@
 
 ### Map
 
-*   [react-svg-map (⭐201)](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
+*   [react-svg-map (⭐206)](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
 
 ### Component Collections / Material Design
 
-*   [matrix-card (⭐19)](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
+*   [matrix-card (⭐18)](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 
 ## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
-*   [ParityDB (⭐169)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
+*   [ParityDB (⭐174)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
 
 ## [17. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -240,12 +240,12 @@
 
 ### Migration tools
 
-*   [cl-migratum (⭐34)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-migratum (⭐35)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [postmodern-passenger-pigeon (⭐5)](https://github.com/fisxoj/postmodern-passenger-pigeon/) - a migration manager for postmodern. No licence specified.
 
 ### Web frameworks / Clack plugins
 
-*   [cl-rest-server (⭐58)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-rest-server (⭐59)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
@@ -267,7 +267,7 @@
 
 ### Helix
 
-*   [Helix Publishing Pipeline (⭐63)](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
+*   [Helix Publishing Pipeline (⭐64)](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 
 ### Media
 
@@ -275,7 +275,7 @@
 
 ### xConnect and xDB
 
-*   [XConnectHelper (⭐22)](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
+*   [XConnectHelper (⭐21)](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
 
 ## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Gazette (⭐452)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
+*   [Gazette (⭐455)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
 ## [31. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -527,7 +527,7 @@
 
 ### Recruitment / Hiring Process
 
-*   [Open Sourced Interview Process (⭐362)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+*   [Open Sourced Interview Process (⭐363)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 *   [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
 ### Recruitment / Coding Challenge
@@ -655,7 +655,7 @@
 
 *   [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.”
 *   [`proselint`](https://github.com/amperser/proselint/) - Places the world's greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
-*   [alex (⭐4.4k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+*   [alex (⭐4.5k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 
 ### Compensation / Equity
 
@@ -734,7 +734,7 @@
 
 ### Text
 
-*   [CodeMirror Swift (⭐78)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
+*   [CodeMirror Swift (⭐85)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
 
 ## [40. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -856,7 +856,7 @@
 ### Components & Libraries / UI Components
 
 *   [@kouts/vue-modal (⭐96)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
-*   [vue-dynamic-marquee (⭐116)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
+*   [vue-dynamic-marquee (⭐120)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
 
 ## [52. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -864,7 +864,7 @@
 
 *   [Feedbin](https://feedbin.com/) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedbin/feedbin)
 *   [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://newsblur.com/)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/samuelclay/NewsBlur)
-*   [RSSMonster (⭐373)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
+*   [RSSMonster (⭐381)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
 *   [Temboz (⭐60)](https://github.com/fazalmajid/temboz) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fazalmajid/temboz)
 *   [KrISS feed](http://tontof.net/kriss/feed/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tontof/kriss_feed)
 *   [Leed (Light Feed) (⭐189)](https://github.com/LeedRSS/Leed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LeedRSS/Leed)
@@ -883,7 +883,7 @@
 
 ### QQ / 酷Q Plugin
 
-*   [ELF RSS (⭐384)](https://github.com/Quan666/ELF_RSS) <sup>[548](https://t.me/s/aboutrss/548)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Quan666/ELF_RSS)
+*   [ELF RSS (⭐411)](https://github.com/Quan666/ELF_RSS) <sup>[548](https://t.me/s/aboutrss/548)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Quan666/ELF_RSS)
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
@@ -900,8 +900,8 @@
 *   [Power Automate](https://flow.microsoft.com/) <sup>[521](https://t.me/s/aboutrss/521)</sup>
 *   [Feedsub](https://www.feedsub.com/) <sup>[278](https://t.me/s/aboutrss/278)</sup>
 *   [Feedblitz](https://www.feedblitz.com/) <sup>[481](https://t.me/s/aboutrss/481)</sup>
-*   [rss2mail (⭐84)](https://github.com/skx/rss2email) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/skx/rss2email)
-*   [rss-email (⭐3)](https://github.com/derekchuank/rss-email) <sup>[539](https://t.me/s/aboutrss/539)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/derekchuank/rss-email)
+*   [rss2mail (⭐86)](https://github.com/skx/rss2email) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/skx/rss2email)
+*   [rss-email (⭐4)](https://github.com/derekchuank/rss-email) <sup>[539](https://t.me/s/aboutrss/539)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/derekchuank/rss-email)
 
 ### universally from / webpage/html
 
@@ -955,7 +955,7 @@
 
 ### RSS2ACTIVITYPUB / Docsify
 
-*   [RSS to ActivityPub Converter (⭐346)](https://github.com/dariusk/rss-to-activitypub) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dariusk/rss-to-activitypub)
+*   [RSS to ActivityPub Converter (⭐467)](https://github.com/dariusk/rss-to-activitypub) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dariusk/rss-to-activitypub)
 
 ### RSS2SPEECH / Docsify
 
@@ -981,7 +981,7 @@
 *   [RSS+](https://greasyfork.org/zh-CN/scripts/373252-rss-show-site-all-rss)
 *   [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd) <sup>[321](https://t.me/s/aboutrss/321)</sup> ![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)
 *   [RSS button for Safari](https://rss-extension.bitpiston.com/) <sup>[321](https://t.me/s/aboutrss/321), [414](https://t.me/s/aboutrss/414)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/us/app/rss-button-for-safari/id1437501942?ls=1\&mt=12)
-*   [Awesome RSS (⭐156)](https://github.com/shgysk8zer0/awesome-rss) <sup>[321](https://t.me/s/aboutrss/321)</sup>  [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shgysk8zer0/awesome-rss) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/)
+*   [Awesome RSS (⭐161)](https://github.com/shgysk8zer0/awesome-rss) <sup>[321](https://t.me/s/aboutrss/321)</sup>  [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shgysk8zer0/awesome-rss) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/)
 *   [Want My RSS (⭐76)](https://github.com/Reeywhaar/want-my-rss) <sup>[558](https://t.me/s/aboutrss/558)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/want-my-rss/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Reeywhaar/want-my-rss)
 
 ### News / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
@@ -1001,14 +1001,14 @@
 ### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS Kubernetes](https://t.me/rss_kubernetes) <sup>[401](https://t.me/s/aboutrss/401)</sup>
-*   [Chinese Security RSS (⭐737)](https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md) <sup>[462](https://t.me/s/aboutrss/462)</sup>
-*   [CyberSecurityRSS (⭐1.4k)](https://github.com/zer0yu/CyberSecurityRSS) <sup>[463](https://t.me/s/aboutrss/463)</sup>
+*   [Chinese Security RSS (⭐817)](https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md) <sup>[462](https://t.me/s/aboutrss/462)</sup>
+*   [CyberSecurityRSS (⭐1.5k)](https://github.com/zer0yu/CyberSecurityRSS) <sup>[463](https://t.me/s/aboutrss/463)</sup>
 *   [favorite link](https://www.guanguans.cn/favorite-link/) <sup>[513](https://t.me/s/aboutrss/513)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/guanguans/favorite-link)
 *   [软件开发相关RSS源推荐](https://blog.liyaodong.com/posts/rss-list-for-software-development/) <sup>[557](https://t.me/s/aboutrss/557)</sup>
 
 ### Multi-subject / Crypto or Blockchain relevant
 
-*   [Feed43 Feeds List (⭐2.1k)](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a **subproject** of 「ALL about RSS」.
+*   [Feed43 Feeds List (⭐2.3k)](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a **subproject** of 「ALL about RSS」.
 *   <strike>[Henix's feeds](https://henix.github.io/feeds/)</strike> <sup>[186](https://t.me/s/aboutrss/186)</sup>
 *   [rss-源共享](https://trello.com/b/lvMGhlNB/%F0%9F%8E%89rss-%E6%BA%90%E5%85%B1%E4%BA%AB) <sup>[191](https://t.me/s/aboutrss/191)</sup>
 *   [「一天世界」推荐的RSS订阅列表](https://blog.yitianshijie.net/2019/12/10/rss-feeds-recommendation/) <sup>[313](https://t.me/s/aboutrss/313)</sup>
@@ -1016,7 +1016,7 @@
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
 
-*   [中文独立博客列表 (⭐10k)](https://github.com/timqian/chinese-independent-blogs) <sup>[301](https://t.me/s/aboutrss/301), [417](https://t.me/s/aboutrss/417)</sup>
+*   [中文独立博客列表 (⭐12k)](https://github.com/timqian/chinese-independent-blogs) <sup>[301](https://t.me/s/aboutrss/301), [417](https://t.me/s/aboutrss/417)</sup>
 *   [BlogHub](https://bloghub.fun/) <sup>[417](https://t.me/s/aboutrss/417)</sup>
 *   [seekbetter.me 寻我](https://seekbetter.me/) <sup>[417](https://t.me/s/aboutrss/417)</sup>
 *   [BlogWe](https://blogwe.com/)
@@ -1115,7 +1115,7 @@
 
 ### Individual components / Others
 
-*   [BlazorMonaco (⭐211)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐32k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
+*   [BlazorMonaco (⭐224)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐33k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
 
 ## [57. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -1266,7 +1266,7 @@
 
 ### Programming Languages
 
-*   [V (⭐1.4k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
+*   [V (⭐1.5k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 
 ## [67. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -1296,31 +1296,30 @@
 
 ### Custom Elements
 
-*   [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 *   [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 *   [All about HTML Custom Elements (⭐196)](https://github.com/shawnbot/custom-elements)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
+*   [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
 ### Shadow DOM
 
-*   [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
 *   [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 *   [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
-*   [Shadow DOM in depth (⭐219)](https://github.com/praveenpuglia/shadow-dom-in-depth)
+*   [Shadow DOM in depth (⭐221)](https://github.com/praveenpuglia/shadow-dom-in-depth)
 *   [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 *   [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
 ### HTML Templates
 
 *   [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
 ### CSS Shadow Parts
 
 *   [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
 *   [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
 
 ### Interoperability
 
@@ -1346,23 +1345,23 @@
 
 *   [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 *   [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
-
-### Custom State Pseudo class
-
-*   [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
-*   [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
 ### Constructable Stylesheet Objects
 
 *   [Specification Draft](https://wicg.github.io/construct-stylesheets/)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
 *   [Explainer (⭐136)](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 *   [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
 
+### Custom State Pseudo Class
+
+*   [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
+*   [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
+
 ### Polyfills / Custom Elements polyfills
 
-*   [@webcomponents/custom-elements (⭐994)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
+*   [@webcomponents/custom-elements (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
 *   [document-register-element (⭐1.1k)](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
 
 ### Polyfills / Customized Built-in Elements polyfills
@@ -1372,13 +1371,13 @@
 
 ### Polyfills / Shadow DOM shims
 
-*   [@webcomponents/shadydom (⭐994)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
-*   [@webcomponents/shadycss (⭐994)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
+*   [@webcomponents/shadydom (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
+*   [@webcomponents/shadycss (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
 *   [@lwc/synthetic-shadow (⭐1.3k)](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
 
 ### Polyfills / HTML Templates polyfills
 
-*   [@webcomponents/template (⭐994)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
+*   [@webcomponents/template (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
 *   [@ungap/import-node (⭐7)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
 
 ## [71. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)

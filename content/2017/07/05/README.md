@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -57,10 +57,6 @@
 
 *   [CenteredCollectionView (⭐1.2k)](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 
-### Video / Barcode
-
-*   [VGPlayer (⭐397)](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.
-
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
@@ -87,7 +83,7 @@ Wifi pw: `fermento`
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐27)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐26)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
@@ -95,7 +91,7 @@ Wifi pw: `fermento`
 
 ### Macros
 
-*   [expat (⭐173)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐174)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 
@@ -103,7 +99,7 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐639)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐640)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 

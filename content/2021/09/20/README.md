@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -124,13 +124,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-progress (⭐16)](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
+*   [vue3-progress (⭐18)](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - IRC
 
-*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐352)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
+*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐354)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
 
 ### List of Licenses / Wikis
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome warez and piracy links
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Igglybuff/awesome-piracy/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) · ⭐ 20K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Igglybuff/awesome-piracy/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) · ⭐ 20K · 🏷️ Security
 
 [ [Daily](/content/Igglybuff/awesome-piracy/README.md) / Weekly / [Overview](/content/Igglybuff/awesome-piracy/readme/README.md) ]
 

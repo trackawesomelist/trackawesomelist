@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 147 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 154 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -173,14 +173,14 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ## More Awesome
 
-*   [Computer History (⭐2.3k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.1k)](https://github.com/fasouto/awesome-dataviz#readme)
+*   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
+*   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
-*   [Research Tools (⭐1.5k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
+*   [Scientific Writing (⭐486)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐145)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐154)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
 

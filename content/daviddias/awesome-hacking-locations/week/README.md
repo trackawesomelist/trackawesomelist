@@ -2,7 +2,7 @@
 
 :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 963 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 963 · 🏷️ Security
 
 [ [Daily](/content/daviddias/awesome-hacking-locations/README.md) / Weekly / [Overview](/content/daviddias/awesome-hacking-locations/readme/README.md) ]
 

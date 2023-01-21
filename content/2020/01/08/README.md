@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,12 +22,9 @@
 *   [deployando.me](https://deployando.me/) - Podcast de tecnologia para sysadmins y devops.
 *   [Eduardo Collado](https://www.eduardocollado.com/) - Administración de redes. No sólo de hosting y redes vive el hombre.
 *   [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - Aquí encontraras informacion en español sobre producción y postproducción de audio y vídeo con herramientas libres.
-*   [La Pingüina Increíblemente Curiosa](https://podcast.voidnull.es/) - Un podcast sobre LPIC, contenido de la certificación y explicaciones de los capitulos que hay que estudiar.
 *   [Más Allá de la Innovación](https://masalladelainnovacion.com) - Entrevistas tech de OpenExpo.
 *   [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - Reflexiones sobre tecnología, ordenadores, chromebooks, smartphones, tablets, software, sistemas operativos:Linux, Windows y otros y apps.
-*   [NeoSiteLinux Podcast](https://www.neositelinux.com/tags/#podcasts) - Donde lo principal es el Software Libre, GNU/Linux y la Tecnologia.
 *   [NOlegaltech Radio](https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html) - El mundo legal no mola nada... Píldoras de tecnología y derecho en 10 minutos.
-*   [Podcast Linux](https://avpodcast.net/podcastlinux) - Un podcast del mundo GNU/Linux para usuarios dómesticos de escritorio.
     *   [Linux Express, de Podcast Linux](https://podcastlinux.gitlab.io) - Resumen más personal de Podcast Linux.
 *   [Podcast oficial KDE España](https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html) - Podcast de la Asociación Cultural KDE España.
 *   [Salmorejo Geek](https://www.ivoox.com/podcast-salmorejo-geek_sq_f1206500_1.html) - Batiburrillo Digital. Sobre todo Linux.
@@ -38,7 +35,7 @@
 
 ### Miscellaneous
 
-*   :strawberry: [Ajax plugin (⭐55)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+*   :strawberry: [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 
 ### Templating
 
@@ -70,7 +67,7 @@
 
 ### Libraries / Format Checking
 
-*   [rd\_filters (⭐83)](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
+*   [rd\_filters (⭐84)](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
 
 ### Libraries / Machine Learning
 
@@ -81,7 +78,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fake3d-image-effect (⭐16)](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
+*   [vue-fake3d-image-effect (⭐18)](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
 
 ## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -141,12 +138,12 @@ Topics: Android, Open Source, Java, Kotlin\
 
 ### Libraries / Cryptography
 
-*   [kornelski/rust-security-framework (⭐170)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
+*   [kornelski/rust-security-framework (⭐172)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
 
 ### Libraries / Encoding
 
 *   BSON
-    *   [mongodb/bson-rust (⭐298)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON in Rust
+    *   [mongodb/bson-rust (⭐308)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON in Rust
 
 ### Libraries / Image processing
 
@@ -156,8 +153,8 @@ Topics: Android, Open Source, Java, Kotlin\
 
 *   Unix-like
     *   [nix-rust/nix (⭐2k)](https://github.com/nix-rust/nix) — Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
-    *   [rustix (⭐680)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
-    *   [zargony/fuse-rs (⭐909)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.2k)](https://github.com/libfuse/libfuse) bindings
+    *   [rustix (⭐734)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
+    *   [zargony/fuse-rs (⭐917)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.2k)](https://github.com/libfuse/libfuse) bindings
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

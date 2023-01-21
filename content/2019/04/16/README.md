@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,7 +43,7 @@
 
 ### Software / Ticketing
 
-*   [Helpy](https://helpy.io) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io), [Source Code (⭐2.2k)](https://github.com/helpyio/helpy)) `MIT` `Ruby`
+*   [Helpy](https://helpy.io) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io), [Source Code (⭐2.3k)](https://github.com/helpyio/helpy)) `MIT` `Ruby`
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -52,15 +52,6 @@
 *   [jupyterlab\_email (⭐51)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Tutorials
-
-*   **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
-    *   [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
-    *   [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
-    *   [Part 3: Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch)
-    *   [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
-    *   [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 
 ### History / 2011
 
@@ -74,7 +65,7 @@
 
 ### Reflection
 
-*   [meta (⭐447)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐453)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 

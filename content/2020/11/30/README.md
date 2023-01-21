@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,20 +10,20 @@
 
 ### Algorithms and Data structures
 
-*   [Towel (⭐601)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
+*   [Towel (⭐610)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
 
 ### GUI
 
-*   [Ookii.Dialogs.Wpf (⭐794)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
-*   [Ookii.Dialogs.WinForms (⭐404)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.Wpf (⭐829)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.WinForms (⭐413)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
 
 ### Minification
 
-*   [CompressedStaticFiles (⭐71)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
+*   [CompressedStaticFiles (⭐72)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
 
 ### Tools
 
-*   [Downloader (⭐630)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
+*   [Downloader (⭐688)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 
 ## [2. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Open Source Projects
 
-*   [WireGuard](https://www.patreon.com/zx2c4) - Next generation secure network tunnel.
+*   [WireGuard](https://www.patreon.com/zx2c4), [#2](https://github.com/sponsors/zx2c4) - Next generation secure network tunnel.
 
 ### Open Source Projects / Libraries
 
@@ -111,7 +111,7 @@
 
 ### CAD Specific / KiCad
 
-*   [kicad-exports (⭐72)](https://github.com/nerdyscout/kicad-exports) - Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every `git push` with a CI like Github Actions.
+*   [kicad-exports (⭐73)](https://github.com/nerdyscout/kicad-exports) - Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every `git push` with a CI like Github Actions.
 
 ## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -130,7 +130,7 @@
 ### Component bundles
 
 *   [Element-Blazor (⭐647)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
-*   [BlazorFluentUI (⭐756)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
+*   [BlazorFluentUI (⭐763)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
 
 ## [12. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 12 - Nov 18, 2018
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -65,7 +65,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐355)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐371)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -223,7 +223,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐158)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐161)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -267,7 +267,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐5.2k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
+*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐5.4k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 
 ## [26. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -371,9 +371,9 @@
     *   [Rpc.Parallel (⭐47)](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
     *   [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
     *   [Nproc (⭐29)](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
-    *   [Parany (⭐44)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
+    *   [Parany (⭐47)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
     *   [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
-    *   [SPOC (⭐122)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
+    *   [SPOC (⭐124)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
 ## [31. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -432,7 +432,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐577)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐578)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ### Web Application Framework
 
@@ -448,7 +448,7 @@
 
 ### Boilerplates
 
-*   [Nextron (⭐2.2k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐2.3k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
 ## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -467,9 +467,7 @@
 
 ### Recommended reading / Blockchain, AI and Machine Learning
 
-*   [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - New York Times, October 20, 2018.
 *   [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - Hacker Noon, June 7, 2018.
-*   [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) - Francesco Corea, December 1, 2017.
 
 ### Blockchains for AI in finance / Blockchain projects for AI algorithms
 
@@ -479,7 +477,7 @@
 
 ### Components / Themes
 
-*   [antd-password-input-strength (⭐86)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
+*   [antd-password-input-strength (⭐83)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
 
 ## [42. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
@@ -507,13 +505,7 @@
 
 *   [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) - By April Wensel in the Happy Porch podcast.
 
-## [44. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Bootstrap
-
-*   [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
-
-## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [44. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -534,7 +526,7 @@
 *   [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
 *   [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 
-## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [45. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
@@ -553,19 +545,19 @@
 
 *   [WeakableSelf (⭐72)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
-## [47. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [46. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Example Applications
 
 *   [perjerz3434/meetup.com ★1 (⭐2)](https://github.com/perjerz3434/meetup.com) - Meetup.com RSVP visualization around the world using CycleJS
 
-## [48. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [47. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Clients
 
 *   [Tootle (⭐396)](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
 
-## [49. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [48. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / AST
 
@@ -592,7 +584,7 @@
 *   [EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q\&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9)
 *   [EmberFest 2014](https://www.youtube.com/watch?v=z4oxa-UR7oA\&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA)
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -607,7 +599,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Modular Genealogy (⭐305)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
+*   [Modular Genealogy (⭐310)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
 *   [Statusfy (⭐2.7k)](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 
 ---

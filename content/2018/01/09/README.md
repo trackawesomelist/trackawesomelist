@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Artificial Intelligence
 
-*   [frugally-deep (⭐920)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
+*   [frugally-deep (⭐927)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 
 ### Cryptography
 
@@ -78,7 +78,7 @@
 
 ### Templating
 
-*   [calliope (⭐189)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [calliope (⭐190)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
 *   [slime (⭐344)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers

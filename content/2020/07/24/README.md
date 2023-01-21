@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -53,7 +53,7 @@
 
 ### TextField & TextView / Collection View Layout
 
-*   [Streamoji (⭐241)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
+*   [Streamoji (⭐244)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
 ## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -101,8 +101,8 @@
 
 ### Form Components / Rich Text Editor
 
-*   [ckeditor4-react (⭐79)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
-*   [ckeditor5-react (⭐352)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
+*   [ckeditor4-react (⭐81)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
+*   [ckeditor5-react (⭐359)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Libraries / Macro
 
-*   [Linq-in-Rust (⭐91)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
+*   [Linq-in-Rust (⭐92)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ## [13. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -185,7 +185,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Readrops (⭐160)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Readrops (⭐169)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 

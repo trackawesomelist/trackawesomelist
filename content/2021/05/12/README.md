@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [vite-template-react (⭐35)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+*   [vite-template-react (⭐36)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 
 ## [2. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -88,7 +88,7 @@
 
 *   [VLCKit](https://code.videolan.org/videolan/VLCKit) - The libvlc bindings for macOS, iOS, iPadOS and tvOS in Objective-C.
 *   [libvlcjni](https://code.videolan.org/videolan/vlc-android/-/tree/master/libvlc) - The libvlc bindings for the Android platform.
-*   [flutter\_vlc\_player (⭐374)](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
+*   [flutter\_vlc\_player (⭐386)](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -98,11 +98,11 @@
     *   [Tutorials (⭐13k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
     *   [ML with Ruby (⭐1.8k)](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
     *   [Core ML Models (⭐5.6k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-    *   [H2O (⭐337)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+    *   [H2O (⭐340)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
     *   [Software Engineering for Machine Learning (⭐1k)](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
-    *   [AI in Finance (⭐1.6k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
-    *   [JAX (⭐804)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
-    *   [XAI (⭐54)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+    *   [AI in Finance (⭐1.7k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+    *   [JAX (⭐844)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+    *   [XAI (⭐58)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 
 ## [8. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Graphics / TikZ
 
-*   [tikzplotlib (⭐1.9k)](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [tikzplotlib (⭐2k)](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ---
 

@@ -2,7 +2,7 @@
 
 56 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Libraries / New Libraries
 
-*   [delta PV (⭐41)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
+*   [delta PV (⭐42)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 
 ## [2. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Pipelines
 
-*   **[Bacannot (⭐60)](https://github.com/fmalmeida/bacannot)** - A generic but comprehensive bacterial annotation pipeline, built with Nextflow, with nice graphical options for investigating results. \[ [web](https://bacannot.readthedocs.io/en/latest/?badge=latest) ]
+*   **[Bacannot (⭐63)](https://github.com/fmalmeida/bacannot)** - A generic but comprehensive bacterial annotation pipeline, built with Nextflow, with nice graphical options for investigating results. \[ [web](https://bacannot.readthedocs.io/en/latest/?badge=latest) ]
 *   **[ngs-preprocess (⭐22)](https://github.com/fmalmeida/ngs-preprocess)** - A pipeline for preprocessing short and long sequencing reads, built with Nextflow. \[ [web](https://ngs-preprocess.readthedocs.io/en/latest/?badge=latest) ]
 
 ## [4. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
@@ -52,14 +52,14 @@
 ### Modules / CLI utils
 
 *   [kia (⭐42)](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
-*   [terminal\_images (⭐31)](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal.
+*   [terminal\_images (⭐33)](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal.
 
 ### Modules / Database
 
 *   [denodb (⭐1.8k)](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 *   [dsddb (⭐12)](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
-*   [dso (⭐88)](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
-*   [postgres (⭐533)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
+*   [dso (⭐89)](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
+*   [postgres (⭐547)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
 *   [sql-builder (⭐53)](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 
 ### Modules / Frontend development
@@ -68,11 +68,11 @@
 
 ### Modules / Frontend framework
 
-*   [aleph.js (⭐4.9k)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
+*   [aleph.js (⭐5k)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
 
 ### Modules / Mail
 
-*   [deno-smtp (⭐68)](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
+*   [deno-smtp (⭐70)](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
 
 ### Modules / Markdown
 
@@ -89,25 +89,25 @@
 ### Modules / Template engine
 
 *   [deno\_tiny\_templates (⭐6)](https://github.com/zekth/deno_tiny_templates) - Template renderer for deno.
-*   [eta (⭐655)](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
+*   [eta (⭐684)](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
 
 ### Modules / Testing
 
-*   [deno-puppeteer (⭐333)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
+*   [deno-puppeteer (⭐354)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 *   [expect (⭐40)](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 *   [merlin (⭐47)](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️
 *   [pretty\_benching (⭐24)](https://github.com/littletof/prettyBenching) - A small library to make your Deno benchmarking progress and results look pretty.
 *   [rhum (⭐93)](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
-*   [superdeno (⭐114)](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
-*   [superoak (⭐97)](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
+*   [superdeno (⭐117)](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
+*   [superoak (⭐101)](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 *   [tincan (⭐34)](https://github.com/gcaptn/tincan) - A Jest-like testing library for Deno.
-*   [unexpected (⭐366)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
+*   [unexpected (⭐368)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Modules / Utils
 
 *   [bytes\_formater (⭐4)](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 *   [coffee (⭐32)](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
-*   [computed\_types (⭐329)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
+*   [computed\_types (⭐338)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 *   [dcc (⭐11)](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 *   [type-fest (⭐13)](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 *   [watch (⭐40)](https://github.com/jinjor/deno-watch) - A file watcher.
@@ -115,37 +115,37 @@
 
 ### Modules / Web framework
 
-*   [abc (⭐597)](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
-*   [alosaur (⭐767)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
-*   [attain (⭐78)](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
-*   [aqua (⭐219)](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
-*   [deno-express (⭐284)](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
+*   [abc (⭐599)](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
+*   [alosaur (⭐777)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
+*   [attain (⭐79)](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
+*   [aqua (⭐221)](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
+*   [deno-express (⭐286)](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
 *   [denotrain (⭐103)](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
-*   [dinatra (⭐403)](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
+*   [dinatra (⭐405)](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 *   [doa (⭐23)](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
-*   [drash (⭐1k)](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
+*   [drash (⭐1.1k)](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 *   [microraptor (⭐6)](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
-*   [oak (⭐4.4k)](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
-    *   [oak-http-proxy (⭐26)](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
-*   [opine (⭐839)](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
-    *   [opine-http-proxy (⭐11)](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
-*   [pogo (⭐471)](https://github.com/sholladay/pogo) - Server framework for Deno.
+*   [oak (⭐4.5k)](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
+    *   [oak-http-proxy (⭐27)](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
+*   [opine (⭐850)](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
+    *   [opine-http-proxy (⭐10)](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
+*   [pogo (⭐472)](https://github.com/sholladay/pogo) - Server framework for Deno.
 
 ### Modules / WebSocket
 
-*   [deno-websocket (⭐133)](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.
+*   [deno-websocket (⭐136)](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.
 *   [dropper (⭐25)](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
 *   [websocket\_server (⭐9)](https://github.com/JohanWinther/websocket_server) - A WebSocket server library.
 
 ### Modules / Web utils
 
-*   [compression (⭐35)](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
-*   [djwt (⭐167)](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
+*   [compression (⭐39)](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
+*   [djwt (⭐173)](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 *   [forwarded (⭐8)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
-*   [gentleRpc (⭐36)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
-*   [gql (⭐150)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
-*   [nats (⭐98)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
-*   [obsidian (⭐5)](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
+*   [gentleRpc (⭐38)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
+*   [gql (⭐156)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
+*   [nats (⭐110)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
+*   [obsidian (⭐7)](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 *   [qs (⭐5)](https://github.com/denolib/qs) - A query string parser with nesting support.
 *   [router (⭐50)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 
@@ -155,24 +155,20 @@
 
 ### Modules / XML
 
-*   [deno-xml-parser (⭐23)](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
-*   [sax-ts (⭐11)](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js (⭐1k)](https://github.com/isaacs/sax-js).
+*   [deno-xml-parser (⭐22)](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
+*   [sax-ts (⭐13)](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js (⭐1k)](https://github.com/isaacs/sax-js).
 
 ### Registries / XML
 
 *   [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
 
-### Showcases / XML
-
-*   [AuthCompanion (⭐90)](https://github.com/pmprosociety/authcompanion) - A token-based user management server.
-
 ## [6. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Libraries / Command line interface (CLI) / Terminal / Shell
+### Command line interface (CLI) / Terminal / Shell
 
 *   [progressbar (⭐23)](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
-*   [termtable (⭐37)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
-*   [vargs (⭐37)](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
+*   [termtable (⭐38)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
+*   [vargs (⭐38)](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 
 ## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -184,11 +180,10 @@
 
 ### Tools & Software / Acquisition
 
-*   [22120 (⭐3k)](https://github.com/c9fe/22120) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
-*   [ArchiveBox (⭐14k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
+*   [ArchiveBox (⭐15k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
 *   [ArchiveWeb.Page](https://archiveweb.page) - A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC data. Also available as an Electron based desktop application.
-*   [Browsertrix Crawler (⭐210)](https://github.com/webrecorder/browsertrix-crawler) - A Chrome based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.
-*   [Brozzler (⭐551)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
+*   [Browsertrix Crawler (⭐247)](https://github.com/webrecorder/browsertrix-crawler) - A Chrome based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.
+*   [Brozzler (⭐567)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -201,17 +196,17 @@
 ### Applications
 
 *   [Aether (⭐1.1k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-*   [Airshare (⭐592)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
+*   [Airshare (⭐595)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
     communities with auditable moderation and mod elections.
 *   [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 *   [Friends ☠️ (⭐3.2k)](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
-*   [Hyperpad (⭐196)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
+*   [Hyperpad (⭐195)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
 *   [instant.io (⭐3.2k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 *   [IPFS bin ☠️ (⭐131)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
-*   [IPFS Desktop (⭐4.7k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
-*   [iWant ☠️ (⭐287)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+*   [IPFS Desktop (⭐4.8k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+*   [iWant ☠️ (⭐288)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 *   [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
-*   [Peertransfer ☠️ (⭐276)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+*   [Peertransfer ☠️ (⭐279)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 *   [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 
 ## [11. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
@@ -276,7 +271,7 @@
 
 ### Contents / Social Network
 
-*   [Harpy (⭐1.6k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.6k)](https://github.com/robertodoering/harpy)
+*   [Harpy (⭐1.7k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.7k)](https://github.com/robertodoering/harpy)
 
 ## [13. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -300,7 +295,7 @@
 
 ### Related
 
-*   [Awesome: Privacy (⭐7.1k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
+*   [Awesome: Privacy (⭐7.6k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
 
 ## [16. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -377,7 +372,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [yor (⭐590)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
+*   [yor (⭐607)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
 
 ## [19. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -403,11 +398,11 @@
 ### Display / LCD TFT
 
 *   [micropython-ili9341 (⭐1)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
-*   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐22)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for PyBoard and Raspberry Pi PICO.
+*   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐22)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
 
 ### Display / LED Segment
 
-*   [TM74HC595 (⭐3)](https://github.com/Sakartu/TM74HC595) - Driver for shift register controlled 5 pin display modules.
+*   [TM74HC595 (⭐3)](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
 
 ### Display / OLED
 
@@ -423,7 +418,7 @@
 
 ### IO / Rotary Encoder
 
-*   [encodermenu (⭐75)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for micropython using a rotary encoder and basic display.
+*   [encodermenu (⭐79)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
 
 ### Motion / Servo
 
@@ -455,7 +450,7 @@
 
 ### Continuous Integration / Other / unknown licence
 
-*   [ada-actions (⭐18)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions
+*   [ada-actions (⭐17)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions
 
 ## [22. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
@@ -481,11 +476,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐211)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐218)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐412)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐430)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ## [26. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -497,7 +492,7 @@
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐517)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐520)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
 ## [28. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -688,8 +683,8 @@
 
 ### Programming Languages / Haskell
 
-*   [nix-haskell-mode (⭐24)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
-*   [nixkell (⭐64)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+*   [nix-haskell-mode (⭐26)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
+*   [nixkell (⭐68)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
 ### Community / Webinterface
 
@@ -706,8 +701,8 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_api\_base (⭐287)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
-*   [rails\_hotwire\_base (⭐67)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
+*   [rails\_api\_base (⭐292)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+*   [rails\_hotwire\_base (⭐68)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## [36. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -733,11 +728,11 @@
 
 ### Links / Official Links
 
-*   [JetBrains/kotlin (⭐43k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+*   [JetBrains/kotlin (⭐44k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### Libraries/Frameworks / Testing
 
-*   [serpro69/kotlin-faker (⭐297)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
+*   [serpro69/kotlin-faker (⭐308)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
 ### Libraries/Frameworks / Serialization
 
@@ -746,29 +741,29 @@
 ### Libraries/Frameworks / Graphics
 
 *   [kotlin-graphics/assimp (⭐83)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
-*   [java-opengl-labs/modern-jogl-examples (⭐97)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
+*   [java-opengl-labs/modern-jogl-examples (⭐98)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 
 ## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [fast-crud (⭐397)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+*   [fast-crud (⭐415)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 ### Templates / React
 
-*   [react-vite-admin (⭐145)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
+*   [react-vite-admin (⭐151)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐42)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐43)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
 ### React / Presets
 
-*   [vite-preset-react (⭐37)](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
+*   [vite-preset-react (⭐39)](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-virtual (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
+*   [@rollup/plugin-virtual (⭐3k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
 
 ### Rollup Plugins / Community
 
@@ -776,15 +771,15 @@
 
 ### Adobe Experience Manager / Community
 
-*   [AEM Vite (⭐19)](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager and AEM SDK.
+*   [AEM Vite (⭐18)](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager and AEM SDK.
 
 ### Craft CMS / Community
 
-*   [Craft Vite (⭐36)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
+*   [Craft Vite (⭐39)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
 
 ### Apps/Websites / Community
 
-*   [vue3-realworld-example-app (⭐621)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+*   [vue3-realworld-example-app (⭐644)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 
 ## [40. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -839,7 +834,7 @@
 ### Encryption
 
 *   [Cryptomator](https://cryptomator.org/) - Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
-*   [Picocrypt (⭐977)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
+*   [Picocrypt (⭐1.1k)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
 
 ### Desktop
 
@@ -851,7 +846,7 @@
 
 ### Audio
 
-*   [dzr (⭐110)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐114)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 ### Payments
 
@@ -859,7 +854,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐495)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐506)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [46. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -912,7 +907,7 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-layout-system (⭐32)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
+*   [vue-layout-system (⭐33)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
 ## [51. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 

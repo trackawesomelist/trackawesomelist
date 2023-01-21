@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dd-form (⭐74)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
+*   [vue-dd-form (⭐75)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

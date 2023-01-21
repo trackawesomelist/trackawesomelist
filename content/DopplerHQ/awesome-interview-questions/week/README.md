@@ -2,7 +2,7 @@
 
 :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/DopplerHQ/awesome-interview-questions/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) · ⭐ 51K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/DopplerHQ/awesome-interview-questions/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) · ⭐ 51K · 🏷️ Work
 
 [ [Daily](/content/DopplerHQ/awesome-interview-questions/README.md) / Weekly / [Overview](/content/DopplerHQ/awesome-interview-questions/readme/README.md) ]
 

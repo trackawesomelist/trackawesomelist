@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,7 +47,7 @@
 
 ### Command-Line Productivity
 
-*   [sheet (⭐245)](https://github.com/oscardelben/sheet) -  Text snippets for the command line
+*   [sheet (⭐247)](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Libraries / JavaScript
 
-*   [Camo (⭐552)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [Camo (⭐553)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
 
 ### Libraries / Scala
 
-*   [Spark-MongoDB (⭐308)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+*   [Spark-MongoDB (⭐306)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ---
 

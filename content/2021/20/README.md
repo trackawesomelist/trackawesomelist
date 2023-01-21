@@ -1,8 +1,8 @@
 # Awesome List Updates on May 17 - May 23, 2021
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -87,8 +87,8 @@
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [h8mail (⭐2.8k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-*   [Holehe (⭐3.5k)](https://github.com/megadose/holehe)
+*   [h8mail (⭐3k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐3.8k)](https://github.com/megadose/holehe)
 
 ### Video Search and Other Video Tools / Telegram
 
@@ -143,7 +143,7 @@
 
 ### Tooling / Others
 
-*   [Publish-time Pre-render for Blazor Wasm (⭐151)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
+*   [Publish-time Pre-render for Blazor Wasm (⭐153)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -153,11 +153,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [@kyvg/vue3-notification (⭐182)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
+*   [@kyvg/vue3-notification (⭐190)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollama (⭐412)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
+*   [vue-scrollama (⭐414)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
 
 ### Components & Libraries / Utilities
 
@@ -167,7 +167,7 @@
 
 ### Libraries
 
-*   [Coax (⭐118)](https://github.com/coax-dev/coax) - Turn RL papers into code, the easy way. <img src="https://img.shields.io/github/stars/coax-dev/coax?style=social" align="center">
+*   [Coax (⭐133)](https://github.com/coax-dev/coax) - Turn RL papers into code, the easy way. <img src="https://img.shields.io/github/stars/coax-dev/coax?style=social" align="center">
 
 ## [13. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -225,29 +225,30 @@
 *   [Blaze](https://blaze.now.sh/) - A fast, p2p and radically different way to transfer files.
 *   [Send](https://gitlab.com/timvisee/send) - Simple, private file sharing. (Mozilla Send Fork)
 *   [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle — File sharing software.
-*   [Croc (⭐21k)](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
-*   [Dat-cp (⭐303)](https://github.com/tom-james-watson/dat-cp) - Copy files between hosts on a network using the peer-to-peer Dat network.
-*   [QRcp (⭐8.9k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+*   [Croc (⭐22k)](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
+*   [Dat-cp (⭐304)](https://github.com/tom-james-watson/dat-cp) - Copy files between hosts on a network using the peer-to-peer Dat network.
+*   [QRcp (⭐9k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
 ### Decentralized
 
 *   [Matrix (Protocol)](https://matrix.org/) - An open network for secure, decentralized communication.
     *   [Element](https://element.io/) - All-in-one secure chat app for teams, friends and organisations. Keeps conversations in your control, safe from data-mining and ads. End-to-end encryption.
+    *   [Cinny](https://cinny.in/) - A Matrix client focusing primarily on simple, elegant and secure interface.
 *   [Jabber / XMPP (Protocol)](https://xmpp.org/) - The universal and open messaging standard. Tried and tested. Independent. Privacy-focused. E2E encrypted.
     *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Conversations](https://conversations.im/) - Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience.
     *   [AstraChat](https://astrachat.com/) - Another XMPP client.
 *   [DeltaChat](https://delta.chat/) - Chat over encrypted e-mail.
+*   [Status](https://status.im/) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
 
 ### Centralized
 
 *   [Threema](https://threema.ch/en) - The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client.
-*   [Status](https://status.im/) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
 
 ### P2P
 
 *   [Tox](https://tox.chat/) - Tox is easy-to-use software that connects you with friends and family without anyone else listening in.
 *   [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
-*   [Tinfoil Chat (⭐956)](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
+*   [Tinfoil Chat (⭐970)](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
 
 ### Mail Services
 
@@ -265,7 +266,7 @@
 *   [Jellyfin](https://jellyfin.org/) - Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
 *   [Kodi](https://kodi.tv/) - It is an entertainment hub that brings all your digital media together into a beautiful and user friendly package. It is 100% free and open source, very customisable and runs on a wide variety of devices.
 *   [OSMC](https://osmc.tv/) - OSMC is a free and open source media center built for the people, by the people.
-*   [RaspberryCast (⭐843)](https://github.com/vincelwt/RaspberryCast) - Transform your Raspberry Pi into a streaming device. Cast videos from mobile devices or computers to your TV.
+*   [RaspberryCast (⭐844)](https://github.com/vincelwt/RaspberryCast) - Transform your Raspberry Pi into a streaming device. Cast videos from mobile devices or computers to your TV.
 
 ### Audio
 
@@ -297,11 +298,14 @@
 *   \_insertBigTechHere\_Pay
 *   [Monero](https://www.getmonero.org/) - Monero is cash for a connected world. It's fast, private, untraceable and secure.
 *   Cash - Use person-to-person payments using physical notes and coins.
-*   [Bitcoin](https://bitcoin.org) - Bitcoin is not anonymous nor private. Bitcoin is traceable, transparent and pseudonymous. You need to be really careful when using Bitcoin so you don't leave any traces that can later be used against you to harm your privacy. [See aantonop's video](https://yewtu.be/watch?v=JN1Bowgcle8).
+*   [Bitcoin](https://bitcoin.org) - Bitcoin is not anonymous nor private. Bitcoin is traceable, transparent and pseudonymous. For a basic introduction, [see aantonop's video](https://yewtu.be/watch?v=JN1Bowgcle8). More advanced users can watch this [Bitcoin privacy series](https://yewtu.be/watch?v=QEnL5k0R08w).
+    *   [Samourai Wallet](https://www.samouraiwallet.com/) - An open source, privacy-focused Bitcoin wallet available on Android.
+    *   [Sparrow Wallet](https://www.sparrowwallet.com/) - An open source, cross-platform desktop wallet that gives you many of the privacy-preserving spending tools available in Samourai Wallet.
+    *   [Wasabi Wallet](https://www.wasabiwallet.io/) - An open source, non-custodial, privacy-focused Bitcoin wallet available on Desktop.
 
 ### FIAT
 
-*   [ProExpense (⭐77)](https://github.com/arduia/ProExpense/) - A simple free finance note to safely record daily expenses.
+*   [ProExpense (⭐78)](https://github.com/arduia/ProExpense/) - A simple free finance note to safely record daily expenses.
 *   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily.
 *   [Nextcloud Cospend](https://apps.nextcloud.com/apps/cospend) - A group/shared budget manager inspired by the great IHateMoney.
     *   [MoneyBuster](https://gitlab.com/eneiluj/moneybuster/) - Android client for Nextcloud Cospend and [IHateMoney](https://ihatemoney.org/) servers.
@@ -313,14 +317,14 @@
 ### Uncategorized
 
 *   [Skymap](https://skymaponline.net/) - Open online planetarium program.
-*   [CrowdSec (⭐5.8k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
-*   [Hetty (⭐5k)](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to be an open-source alternative to Burp Suite Pro.
+*   [CrowdSec (⭐6k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+*   [Hetty (⭐5.1k)](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to be an open-source alternative to Burp Suite Pro.
 
 ## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Text processing
 
-*   [fancy-regex/fancy-regex (⭐298)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
+*   [fancy-regex/fancy-regex (⭐301)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
 
 ## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -423,7 +427,7 @@
 
 ### Strategy
 
-*   [fheroes2 (⭐1.6k)](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
+*   [fheroes2 (⭐1.9k)](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
 
 ## [18. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -497,11 +501,11 @@
 
 ### Templates / Godot 3.2+
 
-*   [Crystal Bit Godot Game Template (⭐328)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+*   [Crystal Bit Godot Game Template (⭐345)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [NativeLib (⭐62)](https://github.com/DrMoriarty/nativelib) - Plugin management system designed to easily operate with native libraries for iOS/Android. It also takes care about plugin dependencies and provides hassle-free native libs updating. Attribution and analytics: Adjust, Amplitude, AppsFlyer, Flurry, GameAnalytics, Tenjin. Ads networks and mediation: AdColony, AppLovin, TapDaq. GDPR and privacy: App Tracking Transparency, Ogury. Social: Facebook. Universal backend solution: Firebase.
+*   [NativeLib (⭐65)](https://github.com/DrMoriarty/nativelib) - Plugin management system designed to easily operate with native libraries for iOS/Android. It also takes care about plugin dependencies and provides hassle-free native libs updating. Attribution and analytics: Adjust, Amplitude, AppsFlyer, Flurry, GameAnalytics, Tenjin. Ads networks and mediation: AdColony, AppLovin, TapDaq. GDPR and privacy: App Tracking Transparency, Ogury. Social: Facebook. Universal backend solution: Firebase.
 
 ## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -518,7 +522,7 @@
 
 ### Photo / Image
 
-*   [lightGallery (⭐5.5k)](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
+*   [lightGallery (⭐5.6k)](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
 
 ## [25. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -528,7 +532,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [terraform-cdk (⭐4k)](https://github.com/hashicorp/terraform-cdk) - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
+*   [terraform-cdk (⭐4.1k)](https://github.com/hashicorp/terraform-cdk) - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
 
 ### Videos / Vendor supported providers
 
@@ -536,19 +540,13 @@
 *   [Terraform Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) - Automate your AWS cloud infrastructure.
 *   [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ) - Yevgeniy Brikman talks about how to write Terraform code so that it is reusable, composable and testable. The presentation focuses on Terraform modules, but also provides a brief and clear explanation of what problem Terraform was created to solve and a short demo of Terraform basics (\~39 min, October 2017).
 
-## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [Introduction to SQL (⭐205)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
-
-## [27. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
+## [26. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
 ### Online Community
 
 *   The #clschool, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) on the [Libera.Chat](https://libera.chat/) network are great places for learning about Common Lisp. ([Freenode should be avoided.](https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409))
 
-## [28. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [27. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### EdenOS
 
@@ -614,19 +612,19 @@
 *   [MonsterEOS](https://monstereos.io/)
     *   [MonsterEOS/monstereos (⭐180)](https://github.com/MonsterEOS/monstereos) - Official GitHub.
 
-## [29. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [28. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
 *   [py-modular](http://py-modular.readthedocs.io/) - a modular and experimental programming environment with basic DSP routines in python.
 
-## [30. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [29. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Vendors / Dolby
 
-*   [DolbyLaboratories/pmd\_tool: pmd\_tool is a command line utility that converts between different representations of SMPTE RDD49 metadata (⭐14)](https://github.com/DolbyLaboratories/pmd_tool)  - pmd\_tool is a command line utility that converts between different representations of SMPTE RDD49 metadata - DolbyLaboratories/pmd\_tool
+*   [DolbyLaboratories/pmd\_tool: pmd\_tool is a command line utility that converts between different representations of SMPTE RDD49 metadata (⭐15)](https://github.com/DolbyLaboratories/pmd_tool)  - pmd\_tool is a command line utility that converts between different representations of SMPTE RDD49 metadata - DolbyLaboratories/pmd\_tool
 
-## [31. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [30. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### a WEBPAGE (in English) to explain what RSS is
 
@@ -653,19 +651,19 @@
 
 *   [SubToMe](https://www.subtome.com/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/superfeedr/subtome)
 
-## [32. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [31. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Books / Devops
 
 *   [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais) by Jens Grassel
 
-## [33. Tools](/content/lvwzhen/tools/week/README.md)
+## [32. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Font
 
 *   [Respresso](https://respresso.io/)
 
-## [34. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [33. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Built Environment
 
@@ -774,7 +772,7 @@
 
 *   [Urban Computing Foundation](https://github.com/ucfoundation) - Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/).
 
-## [35. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [34. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Developer and Requestor Resources / Miscellaneous
 
@@ -796,7 +794,7 @@
 *   [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/) - We are on MAINNET and gathering feedback.
 *   [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/) - Progressing faster with the help of the Golem community.
 
-## [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [35. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (closed source)
 
@@ -817,28 +815,28 @@
 *   [transloc-gtfs-rectifier (⭐2)](https://github.com/laidig/transloc-gtfs-rectifier) - Python application that attempts to assign GTFS stop\_ids to [TransLoc](http://transloc.com/) IDs using [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) doesn't provide GTFS `stop_ids` in their API).
 *   [Transmodel and IFF to GTFS (⭐4)](https://github.com/bliksemlabs/bliksemintegration) - Imports and syncs (Transmodel) BISON Koppelvlak1, IFF (a format written by HP/EDS, somewhat similiar to ATCO CIF) to import timetables of the railway networks. The internal pseudo-NETeX datastructure allows to export to GTFS and there are proof-of-concepts to export to other formats such as NETeX, GTFS and IFF.
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code (⭐350)](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Python`
+*   [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code (⭐376)](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Python`
 
 ### Software / Money, Budgeting & Management
 
-*   [EasyQuickImport (⭐12)](https://github.com/karser/EasyQuickImport) `⚠` - A tool that helps you import transactions, invoices and bills into QuickBooks Desktop from Excel or CSV. `MIT` `PHP`
+*   [EasyQuickImport (⭐13)](https://github.com/karser/EasyQuickImport) `⚠` - A tool that helps you import transactions, invoices and bills into QuickBooks Desktop from Excel or CSV. `MIT` `PHP`
 
 ### Software / Pastebins
 
-*   [LogPaste (⭐259)](https://github.com/mtlynch/logpaste) - Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend. ([Demo](https://logpaste.com/)) `MIT` `Go`
+*   [LogPaste (⭐270)](https://github.com/mtlynch/logpaste) - Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend. ([Demo](https://logpaste.com/)) `MIT` `Go`
 
-## [38. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [37. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Forecasting Canadian GDP Growth with Machine Learning](https://carleton.ca/economics/wp-content/uploads/cewp21-05.pdf) Shafiullah Qureshi, Ba Chu, Fanny S. Demers. (2021)
 *   [Morphological traits of reef corals predict extinction risk but not conservation status](https://onlinelibrary.wiley.com/doi/10.1111/geb.13321) Nussaïbah B. Raja, Andreas Lauchstedt, John M. Pandolfi, Sun W. Kim, Ann F. Budd, Wolfgang Kiessling. (2021)
 
-## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 
@@ -852,35 +850,35 @@
 
 *   [UTC Time](https://sindresorhus.com/utc-time) - Show the time in UTC in the menu bar or a widget. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1538245904)
 
-## [40. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [39. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
 *   [35+ Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
 
-## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
-*   [Keycloak Project Example (Customizations, Extensions, Configuration) (⭐186)](https://github.com/thomasdarimont/keycloak-project-example)
+*   [Keycloak Project Example (Customizations, Extensions, Configuration) (⭐210)](https://github.com/thomasdarimont/keycloak-project-example)
 
 ### Miscellaneous
 
 *   [Use fail2ban to block brute-force attacks to keycloak server](https://gist.github.com/drmalex07/3eba8b98d0ac4a1e821e8e721b3e1816)
 
-## [42. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [41. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Tools
 
-*   [READMINE (⭐31)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
+*   [READMINE (⭐33)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 
-## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [42. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Test / Components
 
 *   [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
 
-## [44. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [43. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Policy enforcement
 
@@ -889,35 +887,35 @@
 ### DevSecOps / Supply chain security
 
 *   [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern your software supply chain.
-*   [Helm GPG (GnuPG) Plugin (⭐23)](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
+*   [Helm GPG (GnuPG) Plugin (⭐22)](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
 *   [Notary (⭐2.9k)](https://github.com/theupdateframework/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
 
-## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [Inertia.js (⭐190)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+*   [Inertia.js (⭐194)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 
-## [46. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [45. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Misc
 
 *   [IT Pro Community](https://www.electric.ai/it-pro-slack) - Connect and network with IT practitioners and decision-makers
 
-## [47. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [46. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Examples
 
 *   💜 [Ping CRM / Laravel (⭐1.7k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
-*   💜 [Ping CRM / Svelte (⭐140)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
+*   💜 [Ping CRM / Svelte (⭐145)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
 *   [Ping CRM / Django (⭐39)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
-*   [Ping CRM / React (⭐395)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+*   [Ping CRM / React (⭐407)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 
 ### Resources / Other
 
 *   [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 
-## [48. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [47. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
@@ -927,19 +925,19 @@
 
 *   [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - Jupyter extension for visual exploration of large-scale geolocation data sets.
 
-## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [wbthomason/packer.nvim (⭐4.8k)](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config.
+*   [wbthomason/packer.nvim (⭐5.2k)](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config.
 
 ### (requires Neovim 0.5)
 
-*   [ojroques/nvim-lspfuzzy (⭐284)](https://github.com/ojroques/nvim-lspfuzzy) - A small plugin to make the LSP client use FZF.
+*   [ojroques/nvim-lspfuzzy (⭐287)](https://github.com/ojroques/nvim-lspfuzzy) - A small plugin to make the LSP client use FZF.
 *   [ray-x/lsp\_signature.nvim (⭐1.3k)](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint when you type.
-*   [jubnzv/virtual-types.nvim (⭐217)](https://github.com/jubnzv/virtual-types.nvim) - Show type annotations as virtual text.
+*   [jubnzv/virtual-types.nvim (⭐226)](https://github.com/jubnzv/virtual-types.nvim) - Show type annotations as virtual text.
 *   [simrat39/symbols-outline.nvim (⭐1.2k)](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols using the Language Server Protocol. Supports all your favourite languages.
-*   [tamago324/nlsp-settings.nvim (⭐216)](https://github.com/tamago324/nlsp-settings.nvim) - A plugin for setting LSP with JSON files.
+*   [tamago324/nlsp-settings.nvim (⭐220)](https://github.com/tamago324/nlsp-settings.nvim) - A plugin for setting LSP with JSON files.
 
 ### Completion / Diagnostics
 
@@ -947,65 +945,65 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [davidgranstrom/nvim-markdown-preview (⭐89)](https://github.com/davidgranstrom/nvim-markdown-preview) - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
+*   [davidgranstrom/nvim-markdown-preview (⭐93)](https://github.com/davidgranstrom/nvim-markdown-preview) - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
 
 ### Color / Diagnostics
 
-*   [sunjon/Shade.nvim (⭐364)](https://github.com/sunjon/Shade.nvim) - Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance.
+*   [sunjon/Shade.nvim (⭐379)](https://github.com/sunjon/Shade.nvim) - Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tomasiser/vim-code-dark (⭐814)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
+*   [tomasiser/vim-code-dark (⭐817)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
 *   [sainnhe/sonokai (⭐1.1k)](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro.
-*   [kyazdani42/blue-moon (⭐122)](https://github.com/kyazdani42/blue-moon) - A dark color scheme derived from palenight and carbonight.
-*   [sainnhe/edge (⭐660)](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material.
-*   [yonlu/omni.vim (⭐54)](https://github.com/yonlu/omni.vim) - Omni color scheme for Vim.
-*   [savq/melange (⭐333)](https://github.com/savq/melange) - Dark color scheme and Vim 🗡️.
+*   [kyazdani42/blue-moon (⭐124)](https://github.com/kyazdani42/blue-moon) - A dark color scheme derived from palenight and carbonight.
+*   [sainnhe/edge (⭐676)](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material.
+*   [yonlu/omni.vim (⭐53)](https://github.com/yonlu/omni.vim) - Omni color scheme for Vim.
+*   [savq/melange (⭐352)](https://github.com/savq/melange) - Dark color scheme and Vim 🗡️.
 
 ### Debugging / Diagnostics
 
-*   [mfussenegger/nvim-dap (⭐2.6k)](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation.
-*   [sakhnik/nvim-gdb (⭐531)](https://github.com/sakhnik/nvim-gdb) - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
+*   [mfussenegger/nvim-dap (⭐2.8k)](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation.
+*   [sakhnik/nvim-gdb (⭐536)](https://github.com/sakhnik/nvim-gdb) - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [tjdevries/nlua.nvim (⭐262)](https://github.com/tjdevries/nlua.nvim) - Lua Development.
-*   [nanotee/nvim-lua-guide (⭐4.9k)](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim.
+*   [tjdevries/nlua.nvim (⭐267)](https://github.com/tjdevries/nlua.nvim) - Lua Development.
+*   [nanotee/nvim-lua-guide (⭐5.1k)](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim.
 
 ### Fennel / Diagnostics
 
-*   [Olical/aniseed (⭐489)](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua).
+*   [Olical/aniseed (⭐491)](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua).
 
 ### Git / Diagnostics
 
-*   [f-person/git-blame.nvim (⭐454)](https://github.com/f-person/git-blame.nvim) - Show git blame info.
-*   [lewis6991/gitsigns.nvim (⭐2.4k)](https://github.com/lewis6991/gitsigns.nvim) - Git integration: signs, hunk actions, blame, etc.
-*   [ruifm/gitlinker.nvim (⭐281)](https://github.com/ruifm/gitlinker.nvim) - Generate shareable file permalinks for several git hosts. Inspired by tpope/vim-fugitive's :GBrowse.
+*   [f-person/git-blame.nvim (⭐479)](https://github.com/f-person/git-blame.nvim) - Show git blame info.
+*   [lewis6991/gitsigns.nvim (⭐2.5k)](https://github.com/lewis6991/gitsigns.nvim) - Git integration: signs, hunk actions, blame, etc.
+*   [ruifm/gitlinker.nvim (⭐293)](https://github.com/ruifm/gitlinker.nvim) - Generate shareable file permalinks for several git hosts. Inspired by tpope/vim-fugitive's :GBrowse.
 
 ### Editing Support / Diagnostics
 
-*   [windwp/nvim-ts-autotag (⭐712)](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to autoclose and autorename xml,html,jsx tag.
-*   [folke/zen-mode.nvim (⭐634)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
-*   [haringsrob/nvim\_context\_vt (⭐265)](https://github.com/haringsrob/nvim_context_vt) - Shows virtual text of the current context.
+*   [windwp/nvim-ts-autotag (⭐763)](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to autoclose and autorename xml,html,jsx tag.
+*   [folke/zen-mode.nvim (⭐719)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
+*   [haringsrob/nvim\_context\_vt (⭐269)](https://github.com/haringsrob/nvim_context_vt) - Shows virtual text of the current context.
 
 ### Command Line / Diagnostics
 
-*   [notomo/cmdbuf.nvim (⭐57)](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line-window plugin.
+*   [notomo/cmdbuf.nvim (⭐61)](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line-window plugin.
 
 ### Session / Diagnostics
 
-*   [rmagatti/auto-session (⭐629)](https://github.com/rmagatti/auto-session) - A small automated session manager.
+*   [rmagatti/auto-session (⭐657)](https://github.com/rmagatti/auto-session) - A small automated session manager.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [NTBBloodbath/doom-nvim (⭐804)](https://github.com/NTBBloodbath/doom-nvim) - Port of the doom-emacs framework, its goal is to add useful functions to Neovim to start working in a stable and efficient development environment without spending a lot of time configuring everything.
-*   [crivotz/nv-ide (⭐405)](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, JavaScript).
+*   [NTBBloodbath/doom-nvim (⭐816)](https://github.com/NTBBloodbath/doom-nvim) - Port of the doom-emacs framework, its goal is to add useful functions to Neovim to start working in a stable and efficient development environment without spending a lot of time configuring everything.
+*   [crivotz/nv-ide (⭐415)](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, JavaScript).
 
 ### Version Manager / Diagnostics
 
 *   [shohi/neva (⭐11)](https://github.com/shohi/neva) - A Neovim version manager written in Lua.
 
-## [50. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [49. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### External Resources / Books
 
@@ -1015,7 +1013,6 @@
 *   [Rails, Angular, Postgres, and Bootstrap, Second Edition](https://pragprog.com/titles/dcbang2/rails-angular-postgres-and-bootstrap-second-edition/)
 *   [Growing Rails Applications in Practice](https://pragprog.com/titles/d-kegrap/growing-rails-applications-in-practice/)
 *   [Crafting Rails 4 Applications](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/)
-*   [The Rails 6 Way](https://leanpub.com/therails6way)
 
 ### External Resources / Video tutorials
 
@@ -1030,10 +1027,6 @@
 *   [TechmakerTV](https://www.youtube.com/c/TechmakerTV/videos)
 *   [Deanin](https://www.youtube.com/c/Deanin/videos)
 *   [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
-
-### External Resources / Other external resources
-
-*   [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 
 ### Community / Other external resources
 
@@ -1054,13 +1047,13 @@
 *   [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
 *   [Behind The Scenes: Rails UJS](https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html)
 
-## [51. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [50. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
 *   [Yomi](https://yomi.yoroi.company) - Free MultiSandbox managed and hosted by Yoroi.
 
-## [52. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [51. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Videos
 
@@ -1076,7 +1069,7 @@
 
 *   [v8-perf (⭐2.1k)](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
 
-## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 

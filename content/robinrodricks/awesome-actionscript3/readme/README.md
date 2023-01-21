@@ -2,7 +2,7 @@
 
 A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/robinrodricks/awesome-actionscript3/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3) · ⭐ 188 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/robinrodricks/awesome-actionscript3/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3) · ⭐ 188 · 🏷️ Programming Languages
 
 [ [Daily](/content/robinrodricks/awesome-actionscript3/README.md) / [Weekly](/content/robinrodricks/awesome-actionscript3/week/README.md) / Overview ]
 

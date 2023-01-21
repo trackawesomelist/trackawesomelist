@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,12 +20,12 @@
 
 ### Games / Other / unknown licence
 
-*   [civ-klon (⭐10)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐19)](https://github.com/mgrojo/ASFML).
+*   [civ-klon (⭐12)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐20)](https://github.com/mgrojo/ASFML).
 
 ### Graphical User Interface / Other / unknown licence
 
 *   [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
-*   [ada-gui (⭐20)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
+*   [ada-gui (⭐25)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
 
 ### Graphics and Multimedia / Other / unknown licence
 
@@ -33,23 +33,23 @@
 
 ### Automation / Other / unknown licence
 
-*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐73)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
+*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐76)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
 
 ### Shells, Interpreters and Emulators / Other / unknown licence
 
-*   [dashera (⭐29)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐73)](https://github.com/AdaCore/gtkada).
-*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐73)](https://github.com/AdaCore/gtkada).
+*   [dashera (⭐33)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
+*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
 
 ### Misc / Other / unknown licence
 
-*   [whitakers-words (⭐211)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
+*   [whitakers-words (⭐224)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 *   [ada-chess](http://www.adachess.com/) - Chess engine written in Ada.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [wait-for (⭐6)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
+*   [wait-for (⭐8)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -59,7 +59,7 @@
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Tools / Smart Contracts
+### Other Development Tools / Smart Contracts
 
 *   [tealang (⭐37)](https://github.com/pzbitskiy/tealang) - A high level language for Algorand ASC1 and TEAL.
 
@@ -74,7 +74,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vuepic/vue-datepicker (⭐480)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
+*   [@vuepic/vue-datepicker (⭐528)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 
 ## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 

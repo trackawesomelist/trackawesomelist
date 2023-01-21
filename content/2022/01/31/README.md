@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [macroquad (⭐1.8k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
+*   :tada: [macroquad (⭐1.9k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
 
 ## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -26,11 +26,7 @@
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Control Panels
-
-*   Revision Control: see [awesome-selfhosted#project-management (⭐108k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
-
-### VPN / Metric & Metric Collection
+### Software / VPN
 
 *   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall.
 
@@ -38,11 +34,11 @@
 
 ### Network Tools / DDoS Tools
 
-*   [D(HE)ater (⭐122)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
+*   [D(HE)ater (⭐138)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Tools / Smart Contracts
+### Other Development Tools / Smart Contracts
 
 *   [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 *   [aqua-compiler (⭐1)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
@@ -51,12 +47,12 @@
 
 ### Python / Computer Vision
 
-*   [deepface (⭐5k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
-*   [retinaface (⭐456)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
+*   [deepface (⭐5.2k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
+*   [retinaface (⭐514)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
 
 ### Python / General-Purpose Machine Learning
 
-*   [ChefBoost (⭐368)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
+*   [ChefBoost (⭐377)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -92,7 +88,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-promise-dialog (⭐37)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
+*   [vue3-promise-dialog (⭐39)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

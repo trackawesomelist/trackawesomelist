@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Date and Time
 
-*   [calendar (⭐449)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐450)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -29,7 +29,7 @@
 ### System Utilities / Directory Navigation
 
 *   [htop (⭐5.7k)](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
-*   [powertop (⭐674)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+*   [powertop (⭐721)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

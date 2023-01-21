@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 20, 2014
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -49,19 +49,13 @@
 *   [Texas Instruments - SensorTag DeveloperKit](http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/)
 *   [TI SensorTag Android Sources](http://git.ti.com/sensortag-android)
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### UI / Barcode
-
-*   [Geometry (⭐92)](https://github.com/artman/Geometry) - extensions for UIView.
-
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Documentation
 
 *   [Apipie (⭐2.4k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -81,7 +75,7 @@
 
 ### Logging
 
-*   [syslog (⭐86)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+*   [syslog (⭐85)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
 ### Miscellaneous
 
@@ -95,7 +89,7 @@
 ### Testing
 
 *   [ponos (⭐154)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
-*   [shouldi (⭐136)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
+*   [shouldi (⭐135)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
 ### Text and Numbers
 
@@ -106,7 +100,7 @@
 *   [forcex (⭐50)](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 *   [pathway (⭐4)](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
@@ -121,15 +115,15 @@
 
 *   [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
 
-## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Metaprogramming
 
 *   **Syntax Extensions**:
-    *   [ppx\_import (⭐82)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+    *   [ppx\_import (⭐83)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
     *   [ppx\_string\_interpolate (⭐21)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
     *   [ppx\_monad (⭐7)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
-    *   [ppx\_deriving\_yojson (⭐133)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+    *   [ppx\_deriving\_yojson (⭐134)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 
 ---
 

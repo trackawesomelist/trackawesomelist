@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [PyCaret (⭐6.6k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python that automates machine learning workflows.
+*   [PyCaret (⭐6.7k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python that automates machine learning workflows.
 
 ### Clojure / General-Purpose Machine Learning
 
@@ -23,13 +23,13 @@
 
 ### Clojure / Data Analysis
 
-*   [tech.ml.dataset (⭐482)](https://github.com/techascent/tech.ml.dataset) - Clojure dataframe library and pipeline for data processing and machine learning
+*   [tech.ml.dataset (⭐487)](https://github.com/techascent/tech.ml.dataset) - Clojure dataframe library and pipeline for data processing and machine learning
 
 ### Clojure / Data Visualization
 
 *   [Pink Gorilla Notebook (⭐100)](https://github.com/pink-gorilla/gorilla-notebook) - A Clojure/Clojurescript notebook application/-library based on Gorilla-REPL
-*   [notespace (⭐139)](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace
-*   [Delight (⭐279)](https://github.com/datamechanics/delight) - A listener that streams your spark events logs to delight, a free and improved spark UI
+*   [notespace (⭐141)](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace
+*   [Delight (⭐291)](https://github.com/datamechanics/delight) - A listener that streams your spark events logs to delight, a free and improved spark UI
 
 ### Clojure / Misc
 
@@ -43,11 +43,11 @@
 
 *   [Shapley (⭐186)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 *   [breze (⭐96)](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks.
-*   [Opytimizer (⭐542)](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques.
+*   [Opytimizer (⭐547)](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques.
 
 ### Python / Neural Networks
 
-*   [TResNet: High Performance GPU-Dedicated Architecture (⭐423)](https://github.com/mrT23/TResNet) - TResNet models were designed and optimized to give the best speed-accuracy tradeoff out there on GPUs.
+*   [TResNet: High Performance GPU-Dedicated Architecture (⭐426)](https://github.com/mrT23/TResNet) - TResNet models were designed and optimized to give the best speed-accuracy tradeoff out there on GPUs.
 *   [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 
 ### Tools / Misc
@@ -58,7 +58,7 @@
 
 ### Documentation / University Course Archives
 
-*   [Inkscape Electric Symbols (⭐90)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+*   [Inkscape Electric Symbols (⭐105)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
 
 ## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [DragonKnightOfBreeze/breeze-framework (⭐9)](https://github.com/DragonKnightOfBreeze/breeze-framework) - Integrated code framework base on Kotlin, provide many useful extensions for standard library and some frameworks.
+*   [DragonKnightOfBreeze/breeze-framework (⭐10)](https://github.com/DragonKnightOfBreeze/breeze-framework) - Integrated code framework base on Kotlin, provide many useful extensions for standard library and some frameworks.
 
 ## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Blazor
 
-*   [MASA.Blazor (⭐473)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
+*   [MASA.Blazor (⭐503)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
 
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Patterns
 
-*   [ReduxUI (⭐37)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
+*   [ReduxUI (⭐38)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
 
 ## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -91,7 +91,7 @@
 ### Algorithms and Data Structures
 
 *   [Decompress (⭐105)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐45)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Ke (⭐44)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
@@ -108,7 +108,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐215)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐218)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

@@ -2,7 +2,7 @@
 
 68 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,7 +33,7 @@
 *   [GBDK Programming Video Tutorials](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) - A series of video tutorials introducing beginners to programming with GBDK.
 *   [GB raycaster, Vision-8 (⭐12)](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - and some other projects.
 *   [Dino's Offline Adventure (⭐53)](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
-*   [dino-gb (⭐18)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
+*   [dino-gb (⭐19)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
 
 ### Websites / Syntax highlighting packages
 
@@ -83,7 +83,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tslog (⭐937)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
+*   :octocat: [tslog (⭐962)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 
 ## [8. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Related / Other
 
-*   [awesome-electronjs-hacking (⭐423)](https://github.com/doyensec/awesome-electronjs-hacking)
+*   [awesome-electronjs-hacking (⭐428)](https://github.com/doyensec/awesome-electronjs-hacking)
 
 ## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Sensors / Light
 
-*   [bh1750 (⭐42)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 i2c digital light sensor driver.
+*   [bh1750 (⭐42)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C digital light sensor driver.
 
 ## [17. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -188,7 +188,7 @@
 
 ### ORM and Datamapping
 
-*   [pillar (⭐58)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
+*   [pillar (⭐57)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
 
 ### Text and Numbers
 
@@ -304,7 +304,7 @@
 
 ## [23. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Libraries / Utility
+### Utility
 
 *   [random (⭐15)](https://github.com/Delta456/random) - An all purpose random library written in V.
 
@@ -378,12 +378,12 @@
 
 ### Incident Response tools / Sandboxes
 
-*   [LogonTracer (⭐2.1k)](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
+*   [LogonTracer (⭐2.2k)](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 *   [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [Real Intelligence Threat Analysis (RITA) (⭐2k)](https://github.com/activecm/rita) - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
+*   [Real Intelligence Threat Analysis (RITA) (⭐2.1k)](https://github.com/activecm/rita) - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
 
 ## [31. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -491,19 +491,19 @@ Language: English
 
 ### Application Templates
 
-*   [JHipster.NET (⭐266)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
+*   [JHipster.NET (⭐271)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
 
 ### Deployment
 
-*   [yuniql (⭐335)](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. <https://yuniql.io>
+*   [yuniql (⭐342)](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. <https://yuniql.io>
 
 ### GIS
 
-*   [DEM Net Elevation API (⭐227)](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
+*   [DEM Net Elevation API (⭐231)](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
 
 ### Real-time Communications
 
-*   [SIPSorcery (⭐927)](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
+*   [SIPSorcery (⭐944)](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
 
 ## [37. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -531,11 +531,11 @@ Language: English
 
 ### Machine Learning / General Purpouse Machine Learning
 
-*   [causalml (⭐3.6k)](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [causalml (⭐3.7k)](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-### Data Manipulation / Data Containers
+### Data Manipulation / Data Frames
 
-*   [vaex (⭐7.4k)](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
+*   [vaex (⭐7.7k)](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
 
 ## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -543,25 +543,25 @@ Language: English
 
 *   [Greenpress Admin Panel](https://github.com/greenpress/admin-panel) - The Admin panel of Greenpress, a fully-operative open-source for creating blogs and content websites.
 *   [Greenpress Blog-Front](https://github.com/greenpress/blog-front) - The frontend application service of Greenpress, a fully-operative open-source for creating blogs and content websites.
-*   [Movie Paradise (⭐22)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
+*   [Movie Paradise (⭐23)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 
 ### Components & Libraries / UI Components
 
-*   [v-idle (⭐60)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
+*   [v-idle (⭐61)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-router-compositions (⭐18)](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API.
+*   [vue-router-compositions (⭐19)](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API.
 
 ### Components & Libraries / Utilities
 
-*   [vuex-composition-helpers (⭐278)](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
+*   [vuex-composition-helpers (⭐276)](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
 
 ## [42. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [Building Blocks for Web Apps (⭐101)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+*   [Building Blocks for Web Apps (⭐104)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 
 ### Related
 
@@ -597,7 +597,7 @@ Language: English
 
 ### Software / Money, Budgeting & Management
 
-*   [Family Accounting Tool (⭐94)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
+*   [Family Accounting Tool (⭐104)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
 
 ### Software / Note-taking & Editors
 
@@ -653,33 +653,33 @@ Language: English
 
 ### Other Awesome Lists
 
-*   [open-source-mac-os-apps (⭐33k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+*   [open-source-mac-os-apps (⭐34k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
 ### AI
 
-*   [DL4S (⭐84)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+*   [DL4S (⭐87)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 
 ### UI / Barcode
 
-*   [ContainerController (⭐418)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
+*   [ContainerController (⭐421)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
 
 ## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [tendermint-rs (⭐436)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐447)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 
 ### Development tools / IDEs
 
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐327)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
-    *   [rust.vim (⭐3.3k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+    *   [crates.nvim (⭐355)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [rust.vim (⭐3.4k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐624)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
 ### Libraries / Parsing
 
-*   [Folyd/robotstxt (⭐71)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
+*   [Folyd/robotstxt (⭐73)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
 
 ## [51. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -695,15 +695,15 @@ Language: English
 
 ## [53. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Distributed Filesystems
+### Software / Distributed Filesystems
 
-*   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐36k)](https://github.com/minio/minio)) `Apache-2.0` `Go`
+*   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐37k)](https://github.com/minio/minio)) `Apache-2.0` `Go`
 
-### Monitoring / Single Sign-On (SSO)
+### Software / Monitoring
 
-*   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
+*   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPL-3.0` `Perl`
 
-### Web / Metric & Metric Collection
+### Software / Web
 
 *   [Apache](http://httpd.apache.org/) - A robust, commercial-grade, featureful implementation of an HTTP (Web) server.
 
@@ -754,7 +754,7 @@ Language: English
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_templates (⭐319)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
+*   [jupyterlab\_templates (⭐320)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 
 ## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -932,7 +932,7 @@ Language: English
 
 ### Extensions
 
-*   [next-img (⭐193)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+*   [next-img (⭐194)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## [65. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -943,7 +943,7 @@ Language: English
 
 ### Clients
 
-*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐378)](https://github.com/relevantfruit/nestjs-keycloak-admin)
+*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐328)](https://github.com/relevantfruit/nestjs-keycloak-admin)
 
 ## [66. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -957,7 +957,7 @@ Language: English
 
 ### Modules / Web utils
 
-*   [ts-prometheus (⭐15)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
+*   [ts-prometheus (⭐17)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 
 ### Registries / XML
 
@@ -965,7 +965,7 @@ Language: English
 
 ### Tools / XML
 
-*   [trex (⭐719)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
+*   [trex (⭐726)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 
 ### Articles / XML
 
@@ -979,7 +979,7 @@ Language: English
 
 ### Apps / Outline Processor Markup Language
 
-*   [Brief (⭐196)](https://github.com/brief-rss/brief) <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brief-rss/brief)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Brief (⭐197)](https://github.com/brief-rss/brief) <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brief-rss/brief)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 

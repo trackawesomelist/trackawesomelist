@@ -1,14 +1,14 @@
 # Awesome List Updates on Nov 10, 2022
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Libraries / Text processing
+### Text processing
 
 *   [text-processing (⭐6)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 
@@ -22,7 +22,7 @@
 
 ### Projects
 
-*   [theiskaa.com (⭐3)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
+*   [theiskaa.com (⭐4)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
 
 ## [4. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [terraform-diff (⭐46)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
+*   [terraform-diff (⭐52)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -50,13 +50,13 @@
 
 ### Applications / Cryptocurrencies
 
-*   [cairo-rs (⭐256)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
+*   [cairo-rs (⭐268)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
 
 ## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### DevOps / Newsletters
 
-*   [Standard (⭐149)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+*   [Standard (⭐173)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -66,11 +66,11 @@
 
 ## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   \[🔥🔥🔥] [Prompt book for data lovers II ❤️ - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
 
-### Stable Diffusion Inbox
+### Inbox: Stable Diffusion / For text-to-image
 
 *   [prompthero/midjourney-v4-diffusion · Hugging Face](https://huggingface.co/prompthero/midjourney-v4-diffusion): Stable Diffusion fine tuned on Midjourney v4 images, by [PromptHero](https://prompthero.com/)
 
@@ -90,19 +90,19 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [Julian/lean.nvim (⭐104)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
+*   [Julian/lean.nvim (⭐108)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 
 ### Golang / Diagnostics
 
-*   [ray-x/go.nvim (⭐796)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
+*   [ray-x/go.nvim (⭐849)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
 
 ### Winbar / Diagnostics
 
-*   [utilyre/barbecue.nvim (⭐81)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
+*   [utilyre/barbecue.nvim (⭐111)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 
 ### Code Runner / Diagnostics
 
-*   [hkupty/iron.nvim (⭐540)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
+*   [hkupty/iron.nvim (⭐589)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 
 ## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -112,19 +112,13 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐8.8k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐8.8k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐9.3k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐9.3k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
 
 ## [15. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### CI/CD
 
 *   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
-
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Learn Python 3 (⭐134)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 
 ---
 

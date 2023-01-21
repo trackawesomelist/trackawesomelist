@@ -2,7 +2,7 @@
 
 48 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -15,7 +15,7 @@
 
 ### Python / Symfony2
 
-*   [FastAPI (⭐52k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [FastAPI (⭐53k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 
 ## [3. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Modules / CLI utils
 
-*   [cac (⭐2k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐2.1k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ## [7. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
@@ -147,8 +147,8 @@
 *   [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Official website of Blazor, from Microsoft.
 *   [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 *   [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
-*   [FAQ (⭐9.4k)](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-*   ['Hello World' sample (⭐7.2k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
+*   [FAQ (⭐9.3k)](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
+*   ['Hello World' sample (⭐7.4k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 
 ### Tooling / Others
 
@@ -168,8 +168,8 @@
 *   [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
 *   [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
 *   [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
-*   [Practical samples of Blazor (⭐7.2k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
-*   [Practical samples of Blazor Server-Side (⭐7.2k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
+*   [Practical samples of Blazor (⭐7.4k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
+*   [Practical samples of Blazor Server-Side (⭐7.4k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 *   [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 *   [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
@@ -283,12 +283,12 @@ git commit -m "submodule updated"
 
 ### Cartridges / Custom cartridges
 
-*   [Nekocart (⭐77)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+*   [Nekocart (⭐80)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 *   [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/) - Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.
 
 ### Testing / Misc
 
-*   [Mealybug Tearoom Tests (⭐40)](https://github.com/mattcurrie/mealybug-tearoom-tests)
+*   [Mealybug Tearoom Tests (⭐43)](https://github.com/mattcurrie/mealybug-tearoom-tests)
 
 ### Compilers / Experimental/Proof of Concepts
 
@@ -359,13 +359,13 @@ git commit -m "submodule updated"
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐399)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐416)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Ticketing
 
-*   [Helpy](https://helpy.io) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io), [Source Code (⭐2.2k)](https://github.com/helpyio/helpy)) `MIT` `Ruby`
+*   [Helpy](https://helpy.io) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io), [Source Code (⭐2.3k)](https://github.com/helpyio/helpy)) `MIT` `Ruby`
 
 ## [32. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -374,15 +374,6 @@ git commit -m "submodule updated"
 *   [jupyterlab\_email (⭐51)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 
 ## [33. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
-
-### Tutorials
-
-*   **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
-    *   [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
-    *   [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
-    *   [Part 3: Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch)
-    *   [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
-    *   [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 
 ### History / 2011
 
@@ -397,7 +388,7 @@ git commit -m "submodule updated"
 
 ### Reflection
 
-*   [meta (⭐447)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐453)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -494,15 +485,15 @@ git commit -m "submodule updated"
 
 ### Music and Sound
 
-*   [Maestro (⭐119)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
+*   [Maestro (⭐120)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
 *   [Sonic Pi (⭐9.7k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
 ## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐4.3k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
-*   [numpy-ML (⭐11k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
+*   [BentoML (⭐4.4k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [numpy-ML (⭐12k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 
 ## [40. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -553,7 +544,7 @@ git commit -m "submodule updated"
 
 ### Samples
 
-*   (Incomplete) Sascha Willems's [samples port (⭐48)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
+*   (Incomplete) Sascha Willems's [samples port (⭐47)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
 
 ## [43. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -634,7 +625,7 @@ git commit -m "submodule updated"
 
 ### Extensions
 
-*   [Next UserAgent (⭐313)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+*   [Next UserAgent (⭐319)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
 ## [48. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 

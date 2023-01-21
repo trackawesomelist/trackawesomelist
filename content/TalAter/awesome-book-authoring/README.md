@@ -2,7 +2,7 @@
 
 :books: A collection of awesome resources for technical book authors
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/TalAter/awesome-book-authoring/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) · ⭐ 283 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/TalAter/awesome-book-authoring/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) · ⭐ 283 · 🏷️ Books
 
 [ Daily / [Weekly](/content/TalAter/awesome-book-authoring/week/README.md) / [Overview](/content/TalAter/awesome-book-authoring/readme/README.md) ]
 

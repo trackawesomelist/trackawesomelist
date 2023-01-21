@@ -1,41 +1,41 @@
 # Awesome List Updates on Jul 22, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [github.expandinizr (⭐128)](https://github.com/thecodejunkie/github.expandinizr) <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [github.expandinizr (⭐129)](https://github.com/thecodejunkie/github.expandinizr) <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
-Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
+Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Learning
 
-*   [Advanced SQL Puzzles (⭐133)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
+*   [Advanced SQL Puzzles (⭐140)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
 *   [Hackerrank](https://www.hackerrank.com/domains/sql) - Practice coding, prepare for interviews, and get hired.
 *   [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
 *   [Select Star SQL](https://selectstarsql.com) - Free interactive book which aims to be the best place on the internet for learning SQL.
 *   [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
-*   [SQL Murder Mystery (⭐1.2k)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+*   [SQL Murder Mystery (⭐1.3k)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
 ### SQL / Scripts
 
 *   [DBA MultiTool (⭐73)](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
 *   [pgx\_scripts (⭐1.1k)](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-*   [pgsql-bloat-estimation (⭐396)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
+*   [pgsql-bloat-estimation (⭐408)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
 *   [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
-*   [pg-utils (⭐688)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
+*   [pg-utils (⭐701)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
 *   [Postgres cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by \<timescale.com>.
-*   [postgres\_dba (⭐705)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
+*   [postgres\_dba (⭐712)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
 *   [postgres\_queries\_and\_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
-*   [TPT (⭐550)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
+*   [TPT (⭐552)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 
 ## [3. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -64,13 +64,13 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 ### Components & Libraries / UI Utilities
 
-*   [vorms (⭐74)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
+*   [vorms (⭐111)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [Holochain (⭐736)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
+*   [Holochain (⭐744)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
 
 ### Applications / System tools
 
@@ -79,12 +79,12 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 ### Libraries / Compression
 
 *   gzip
-    *   [zopfli (⭐10)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] — implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
+    *   [zopfli (⭐11)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] — implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
 
 ### Libraries / Mobile
 
 *   Generic
-    *   [Geal/rust\_on\_mobile (⭐158)](https://github.com/Geal/rust_on_mobile)
+    *   [Geal/rust\_on\_mobile (⭐159)](https://github.com/Geal/rust_on_mobile)
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -92,27 +92,17 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 
 *   [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - A comprenhensive tutorial on C++ curated by trained experts.
 
-## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C++ / Non-X86
-
-*   [A Complete Guide to Standard C++ Algorithms (⭐243)](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX) (:construction: *in process*)
-
-### HTML and CSS / Spock Framework
-
-*   [Practical Series: A website template](https://practicalseries.com/1001-webdevelopment/) - Michael Gledhill (HTML)
-
-## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [9. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [Firezone](https://github.com/orgs/firezone/sponsoring) - Self-hosted VPN server using WireGuard.
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [alehouse (⭐8)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
+*   [alehouse (⭐10)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
 *   [auto-fortune-cowsay (⭐6)](https://github.com/babasbot/auto-fortune-cowsay-zsh) - Prints out an ASCII picture of a cow saying a random epigram on every ZSH start.
 *   [aws-cli-mfa (⭐16)](https://github.com/joepjoosten/aws-cli-mfa-oh-my-zsh) - AWS CLI MFA plugin based on sweharris' [aws-cli-mfa (⭐21)](https://github.com/sweharris/aws-cli-mfa). Supports specifying `mfa_device` in profile.
 *   [aws-plugin (⭐2)](https://github.com/pookey/zsh-aws-plugin) - Adds helper functions for `aws` command. Includes mfa and `assume-role` helpers.
@@ -121,13 +111,13 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [cdr (⭐12)](https://github.com/willghatch/zsh-cdr) - Easy setup of `cdr` for ZSH.
 *   [chgo (⭐0)](https://github.com/sbfaulkner/chgo-plugin-zsh) - Clone of `chruby` modified to make it easy to switch between multiple Go versions.
 *   [copier (⭐1)](https://github.com/zshzoo/copier) - Standalone clipboard utilities from [oh-my-zsh](https://ohmyz.sh).
-*   [declare-zsh (⭐5)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐1.5k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
+*   [declare-zsh (⭐5)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐1.6k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
 *   [evil-registers (⭐25)](https://github.com/zsh-vi-more/evil-registers) - Extends ZLE `vi` commands to remotely access named registers of the `vim` and `nvim` editors, and system selection and clipboard.
 *   [exa (zplugin) (⭐9)](https://github.com/zplugin/zsh-exa) - replace `ls` with [ogham/exa (⭐20k)](https://github.com/ogham/exa).
 *   [f-shortcuts (⭐4)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
 *   [fancy-ctrl-z (⭐13)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [get-jquery (⭐1)](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading the jQuery library from [code.jquery.com](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/code.jquery.com).
-*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐677)](https://github.com/travis-ci/gimme/).
+*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐678)](https://github.com/travis-ci/gimme/).
 *   [git-aliases (mdumitru) (⭐22)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [git-is-clean (⭐1)](https://github.com/aubreypwd/zsh-plugin-git-is-clean) - This function will return true or false depending on if it finds out your `git` repo is dirty or not.
 *   [git-smart-commends-wrapper (⭐0)](https://github.com/jelek21/omz-git-smart-commands) - Wraps [git-smart-commands (⭐12)](https://github.com/seletskiy/zsh-git-smart-commands) to make it compatible with the [oh-my-zsh](https://ohmyz.sh) plugins system.
@@ -148,14 +138,14 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [virtualenv-prompt (⭐36)](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream [oh-my-zsh](https://ohmyz.sh/). Adds support for customizing the virtualenv prompt in [oh-my-zsh](https://ohmyz.sh) themes.
 *   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local [yadm](https://thelocehiliosan.github.io/yadm/) configuration changes.
 *   [yeoman (⭐40)](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's [Yeoman](http://yeoman.io/) plugin for [oh-my-zsh](https://ohmyz.sh/), compatible with yeoman version ≥1.0 (includes options and command auto-completion).
-*   [zshmarks (⭐253)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
+*   [zshmarks (⭐256)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [bearings (⭐180)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
+*   [bearings (⭐181)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
 *   [vehemence (⭐0)](https://github.com/H1N1-dev/vehemence-zsh) - Includes decorators for `pwd`, `user@host`, `tty`, time, last command exit code and `git` status.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Paper Reading
 
@@ -244,7 +234,6 @@ Installs: 2000 | Stars: 128 | Last update: 24 Jul 2020
 *   [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) - ***Nature***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744\&hl=en\&as_sdt=0,5)]. Zoubin Ghahramani's review on Bayesian machine learning.
 *   [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***Behavioral and Brain Sciences***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian generalization.
 *   [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794\&hl=en\&as_sdt=0,5\&as_vis=1)]. Original paper on Bayesian generalization.
-*   [Rules and Similarity in Concept Learning](https://cowles.yale.edu/sites/default/files/files/conf/2007/crp_tenenbaum2.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
 *   [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***Psychological Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=5476233692839102256)]. \[[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245)]. Fei Xu's review on Bayesian word learning.
 *   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/\~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
 *   [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287\&hl=en\&as_sdt=0,5)]. Brenden Lake and Josh Tenenbaum's review on Bayesian modeling.

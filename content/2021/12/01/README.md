@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,7 +12,7 @@
 
 *   Prelude
     *   [JasonShin/fp-core.rs (⭐1.1k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming in Rust
-    *   [myrrlyn/tap (⭐209)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [myrrlyn/tap (⭐216)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Validation / Playground
 
-*   [ts-codec (⭐8)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
+*   [ts-codec (⭐9)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -42,29 +42,29 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [rmagatti/goto-preview (⭐403)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
+*   [rmagatti/goto-preview (⭐424)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 
 ### Utility / Diagnostics
 
-*   [sudormrfbin/cheatsheet.nvim (⭐430)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
+*   [sudormrfbin/cheatsheet.nvim (⭐442)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
 
 ### Editing Support / Diagnostics
 
-*   [ethanholz/nvim-lastplace (⭐180)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
+*   [ethanholz/nvim-lastplace (⭐193)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Papers and references for reading and understanding / OpenAI GPT-3
+### Papers and References / Papers Collections
 
 *   [Casual GAN Papers](https://www.casualganpapers.com/): Easy to read summaries of popular AI papers
 *   [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/): illustrated explanation on how VQGAN works

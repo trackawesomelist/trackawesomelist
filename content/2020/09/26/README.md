@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### HTTP
 
-*   [finch (⭐988)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+*   [finch (⭐990)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [v-aspect-ratio (⭐26)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
+*   [v-aspect-ratio (⭐27)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
 
 ## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -108,7 +108,6 @@
 
 *   Static Type Annotations Generators
     *   [MonkeyType (⭐4.1k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
-    *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations.
     *   [pytype (⭐4k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
 ## [12. Awesome Music](/content/ciconia/awesome-music/README.md)

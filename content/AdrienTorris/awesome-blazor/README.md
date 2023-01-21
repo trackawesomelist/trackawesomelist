@@ -2,7 +2,7 @@
 
 Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AdrienTorris/awesome-blazor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) · ⭐ 7.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AdrienTorris/awesome-blazor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) · ⭐ 7.3K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 

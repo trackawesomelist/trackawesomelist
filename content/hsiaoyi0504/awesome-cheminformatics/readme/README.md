@@ -2,7 +2,7 @@
 
 A curated list of Cheminformatics libraries and software.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hsiaoyi0504/awesome-cheminformatics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hsiaoyi0504/awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) · ⭐ 471 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hsiaoyi0504/awesome-cheminformatics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hsiaoyi0504/awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) · ⭐ 471 · 🏷️ Miscellaneous
 
 [ [Daily](/content/hsiaoyi0504/awesome-cheminformatics/README.md) / [Weekly](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md) / Overview ]
 
@@ -72,7 +72,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Virtual Machine
 
 *   [myChEMBL](http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html) - A version of ChEMBL built using Open Source software (Ubuntu, PostgreSQL, RDKit)
-*   [3D e-Chem Virtual Machine (⭐16)](https://github.com/3D-e-Chem/3D-e-Chem-VM) -
+*   [3D e-Chem Virtual Machine (⭐16)](https://github.com/3D-e-Chem/3D-e-Chem-VM) - Virtual machine with all software and sample data to run 3D-e-Chem Knime workflows
 
 ## Libraries
 
@@ -84,7 +84,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 *   [Indigo (⭐218)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 *   [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) - Algorithms for structural chemo- and bioinformatics, implemented in Java.
 *   [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
-*   [ChemPy](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
+*   [ChemPy (⭐405)](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
 *   [MolecularGraph.jl (⭐154)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 *   [datamol (⭐276)](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 *   [CGRtools (⭐26)](https://github.com/cimm-kzn/CGRtools) - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
@@ -115,7 +115,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 *   [mordred (⭐250)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
 *   [DescriptaStorus (⭐149)](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
-*   [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
+*   [mol2vec (⭐202)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 *   [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 *   [Rcpi](https://nanx.me/Rcpi/index.html) - R/Bioconductor package to generate various descriptors of proteins, compounds and their interactions.
 

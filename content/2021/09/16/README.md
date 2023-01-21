@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -146,7 +146,7 @@
 
 ### Communications / Cryptography
 
-*   [ucryptoauthlib (⭐32)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for MicroPython.
+*   [ucryptoauthlib (⭐32)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure Python for MicroPython.
 *   [micropython-cryptomsg (⭐2)](https://github.com/jacklinquan/micropython-cryptomsg) - A MicroPython module to encrypt and decrypt messages with AES CBC mode.
 
 ### Communications / FTP
@@ -159,11 +159,11 @@
 
 ### Communications / Radio
 
-*   [ESP32-433Mhz-Receiver-and-Tools (⭐4)](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433Mhz Receiver written in MicroPython and Tools for Windows.
+*   [ESP32-433Mhz-Receiver-and-Tools (⭐4)](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433MHz receiver written in MicroPython and tools for Windows.
 
 ### Communications / Serial
 
-*   [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - International Morse Code using a micro-controller with MicroPython.
+*   [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - International Morse Code using a microcontroller with MicroPython.
 
 ### Communications / SOCKS
 
@@ -171,7 +171,7 @@
 
 ### Communications / WiFi
 
-*   [WiFiManager (⭐252)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
+*   [WiFiManager (⭐258)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 
 ### Display / LCD Character
 
@@ -181,7 +181,7 @@
 
 *   [st7735\_micropython (⭐1)](https://github.com/cheungbx/st7735_micropython) - ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266.
 *   [ili934x-micropython](https://gitlab.com/mhepp63/ili934x-micropython) - Library for using ILI9341 display drivers with MicroPython.
-*   [micropython-st7735-esp8266](https://gitlab.com/mo_krauti/micropython-st7735-esp8266) - MicroPython driver for ST7735 TFT displays on the esp8266.
+*   [micropython-st7735-esp8266](https://gitlab.com/mo_krauti/micropython-st7735-esp8266) - MicroPython driver for ST7735 TFT displays on the ESP8266.
 
 ### Display / LEDs
 
@@ -195,7 +195,7 @@
 
 ### IO / Shift Registers
 
-*   [micropython-74hc595 (⭐16)](https://github.com/mcauser/micropython-74hc595) - MicroPython driver for 74HC595 8-bit shift registers.
+*   [micropython-74hc595 (⭐17)](https://github.com/mcauser/micropython-74hc595) - MicroPython driver for 74HC595 8-bit shift registers.
 *   [MicroPython-SN74HCS264](https://gitlab.com/olivierlenoir/MicroPython-SN74HCS264) - MicroPython Driver for SN74HCS264 8-Bit Parallel-Out Serial Shift Registers With Schmitt-Trigger Inputs and Inverted Outputs.
 
 ### Motion / DC Motor
@@ -224,7 +224,7 @@
 
 ### Sensors / Motion Inertial
 
-*   [flight\_controller (⭐48)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
+*   [flight\_controller (⭐50)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
 *   [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.
 
 ### Sensors / Pressure
@@ -233,7 +233,7 @@
 
 ### Sensors / Proximity
 
-*   [uPy\_APDS9960 (⭐6)](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximity library for esp8266 using APDS9960.
+*   [uPy\_APDS9960 (⭐6)](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximity library for ESP8266 using APDS9960.
 
 ### Sensors / Temperature Analog
 
@@ -241,9 +241,9 @@
 
 ### Sensors / Temperature Digital
 
-*   [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 Humidity and Temperature Sensor.
-*   [micropython-sht30 (⭐1)](https://github.com/schinckel/micropython-sht30) - SHT30 sensor driver in pure python based on I2C bus.
-*   [micropython\_ahtx0 (⭐8)](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
+*   [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 humidity and temperature sensor.
+*   [micropython-sht30 (⭐1)](https://github.com/schinckel/micropython-sht30) - SHT30 sensor driver in pure Python based on I2C bus.
+*   [micropython\_ahtx0 (⭐9)](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
 
 ### Sensors / Touch Capacitive
 
@@ -270,11 +270,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-wasm-pack (⭐121)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐4.7k)](https://github.com/rustwasm/wasm-pack), the simple way.
+*   [vite-plugin-wasm-pack (⭐126)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐4.8k)](https://github.com/rustwasm/wasm-pack), the simple way.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require (⭐21)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
+*   [vite-plugin-require (⭐26)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
 
 ---
 

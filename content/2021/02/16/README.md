@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 16, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Types / Playground
 
-*   [typetype (⭐333)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
+*   [typetype (⭐336)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 
 ## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -25,33 +25,28 @@
 *   [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
 *   [RustScan (⭐7.4k)](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
-## [4. Awesome React](/content/enaqx/awesome-react/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
-### React Tools / React Routing
+### Router / Mouse Events
 
-*   [wouter (⭐4.7k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library
-
-## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+*   [wouter (⭐4.8k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
+*   [redux-first-history (⭐368)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
 ### Form Components / Color Picker
 
 *   [react-colorful (⭐2.4k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
 
-### Router / Mouse Events
-
-*   [redux-first-history (⭐360)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
-
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Templating
 
-*   [temple (⭐402)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+*   [temple (⭐403)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ### Text and Numbers
 
 *   [bitcoinex (⭐36)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 
-## [7. Awesome Kde](/content/francoism90/awesome-kde/README.md)
+## [6. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
 ### Internet & Networking
 
@@ -66,23 +61,23 @@
 
 *   [KWinFT](https://gitlab.com/kwinft/kwinft) - Wayland compositor and X11 window manager.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
 *   [ncspot (⭐3.4k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NxShell (⭐698)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
+*   [NxShell (⭐711)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
 
 ### Components & Libraries / UI Components
 
 *   [@alireza-ab/vue-persian-datepicker (⭐32)](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
 
-## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -92,7 +87,7 @@
 
 *   [Mozilla Stumbler](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location db.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -108,7 +103,7 @@
 
 
 
-## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [11. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Helix
 

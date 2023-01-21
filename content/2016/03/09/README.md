@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,9 +51,9 @@ git config --global rerere.enabled 1
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐339)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
-*   [electron-installer-redhat (⭐74)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐457)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-debian (⭐340)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-redhat (⭐76)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
+*   [electron-installer-windows (⭐462)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

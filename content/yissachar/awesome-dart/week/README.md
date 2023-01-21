@@ -2,7 +2,7 @@
 
 A curated list of awesome Dart frameworks, libraries, and software
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/yissachar/awesome-dart/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 yissachar/awesome-dart](https://github.com/yissachar/awesome-dart) · ⭐ 2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/yissachar/awesome-dart/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 yissachar/awesome-dart](https://github.com/yissachar/awesome-dart) · ⭐ 2K · 🏷️ Programming Languages
 
 [ [Daily](/content/yissachar/awesome-dart/README.md) / Weekly / [Overview](/content/yissachar/awesome-dart/readme/README.md) ]
 

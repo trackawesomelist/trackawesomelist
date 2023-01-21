@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ### Hybrid
 
-*   [Photino (⭐419)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
+*   [Photino (⭐443)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
 
 ## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Alert / Barcode
 
-*   [Toast-Swift (⭐214)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
+*   [Toast-Swift (⭐222)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
 ## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -79,11 +79,11 @@
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐4.7k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! [![build badge](https://api.travis-ci.org/cantino/mcfly.svg?branch=master)](https://travis-ci.org/cantino/mcfly)
+*   [cantino/mcfly (⭐4.8k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! [![build badge](https://api.travis-ci.org/cantino/mcfly.svg?branch=master)](https://travis-ci.org/cantino/mcfly)
 
 ### Applications / Web
 
-*   [LemmyNet/lemmy (⭐7.1k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+*   [LemmyNet/lemmy (⭐7.2k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 

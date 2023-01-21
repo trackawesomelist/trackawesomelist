@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,8 +37,8 @@
 
 ### Variant Calling / Clustering
 
-*   **[DeepVariant (⭐2.6k)](https://github.com/google/deepvariant)** - Deep learning-based variant caller \[ [paper-2018](https://rdcu.be/7Dhl) ]
-*   **[Octopus (⭐267)](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. \[ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
+*   **[DeepVariant (⭐2.7k)](https://github.com/google/deepvariant)** - Deep learning-based variant caller \[ [paper-2018](https://rdcu.be/7Dhl) ]
+*   **[Octopus (⭐269)](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. \[ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
 
 ## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -50,11 +50,11 @@
 
 ### Deployment Tools / Newsletters
 
-*   [Colmena (⭐385)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐431)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Programming Languages / Crystal
 
-*   [crystal2nix (⭐9)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
+*   [crystal2nix (⭐11)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
 
 ## [8. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Crates / Component Libraries
 
-*   [tailwind-yew-builder (⭐62)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
+*   [tailwind-yew-builder (⭐63)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -135,11 +135,11 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [dasel (⭐3.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐23k)](https://github.com/stedolan/jq) / [yq (⭐2k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐3.9k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐24k)](https://github.com/stedolan/jq) / [yq (⭐2.1k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 
 ### Applications / Directory Navigation
 
-*   [editly (⭐3.7k)](https://github.com/mifi/editly) - Command line video editor
+*   [editly (⭐3.8k)](https://github.com/mifi/editly) - Command line video editor
 
 ---
 

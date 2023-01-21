@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,20 +22,26 @@
 
 ### UI
 
-*   [PlutoGrid (⭐395)](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
+*   [PlutoGrid (⭐446)](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Creative Uses of Generative AI Tools / Deforum
 
-*   [aakashjhawar/AvatarGAN (⭐49)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
+*   [AgaMiko/pixel\_character\_generator (⭐89)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+
+### Image Synthesis / Promptism
+
 *   [Greg Surma - Portfolio](https://gsurma.github.io/)
 *   [GitHub Repositories of Hugging Face](https://github.com/huggingface)
-*   [AgaMiko/pixel\_character\_generator (⭐88)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
-### Other Related Awesome Lists / OpenAI GPT-3
+### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐244)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+*   [aakashjhawar/AvatarGAN (⭐51)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
+
+### Related Awesome Lists / Galleries
+
+*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐246)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 
 ## [5. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -47,14 +53,14 @@
 
 ### Display / OLED
 
-*   [sh1107-micropython (⭐6)](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64 x 128).
+*   [sh1107-micropython (⭐7)](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64x128).
 
 ## [7. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### VLC lua extensions
 
 *   [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
-*   [vlc-delete (⭐39)](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
+*   [vlc-delete (⭐40)](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
 *   [TraktForVLC (⭐294)](https://github.com/XaF/TraktForVLC) - Automatically trakt.tv what you're watching on VLC.
 *   [playlist-youtube-vlc (⭐0)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 *   [vlc-super-skipper (⭐6)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
@@ -63,7 +69,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram Nearby Map (⭐429)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+*   [Telegram Nearby Map (⭐470)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 ### Keywords Discovery and Research / Telegram
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -55,7 +55,7 @@
 
 ## [7. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### [Barsoom series](https://www.goodreads.com/series/43942-barsoom)   (1912-1927)   *by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)*   \[3.8] 🌟 / [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites)   (1988) [4.2]
+### [Barsoom series](https://www.goodreads.com/series/43942-barsoom)   (1912-1927)   *by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)*   \[3.8] 🌟
 
 *   [A Princess of Mars](https://www.goodreads.com/book/show/40395.A_Princess_of_Mars) \[3.8]
 *   [The Gods of Mars](https://www.goodreads.com/book/show/841973.The_Gods_of_Mars) \[3.8]
@@ -69,7 +69,7 @@
 *   [Llana of Gathol](https://www.goodreads.com/book/show/215954.Llana_of_Gathol) \[3.7]
 *   [John Carter of Mars](https://www.goodreads.com/book/show/40388.John_Carter_of_Mars) \[3.8]
 
-### Links / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
 *   [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit

@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -52,13 +52,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dynamic-marquee (⭐116)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
+*   [vue-dynamic-marquee (⭐120)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### QQ / 酷Q Plugin
 
-*   [ELF RSS (⭐384)](https://github.com/Quan666/ELF_RSS) <sup>[548](https://t.me/s/aboutrss/548)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Quan666/ELF_RSS)
+*   [ELF RSS (⭐411)](https://github.com/Quan666/ELF_RSS) <sup>[548](https://t.me/s/aboutrss/548)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Quan666/ELF_RSS)
 
 ### specifically from (  *a certain platform*  ) / Twitter
 
@@ -86,7 +86,7 @@
 
 ### Individual components / Others
 
-*   [BlazorMonaco (⭐211)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐32k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
+*   [BlazorMonaco (⭐224)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐33k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
 
 ## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

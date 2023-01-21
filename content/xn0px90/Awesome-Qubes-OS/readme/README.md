@@ -2,7 +2,7 @@
 
 A collection of awesome Qubes OS links
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 26 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 26 · 🏷️ Miscellaneous
 
 [ [Daily](/content/xn0px90/Awesome-Qubes-OS/README.md) / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / Overview ]
 
@@ -169,7 +169,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 *   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
 *   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
-*   [Suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
+*   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ## VPN
 
@@ -230,9 +230,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Kernels
 
+*   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
+
 ### Microkernels
 
-*   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
 *   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
@@ -258,21 +259,21 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
 *   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
-*   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+*   [LeechCore (⭐276)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-*   [Memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+*   [Memflow (⭐414)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
     *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
     *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
     *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-    *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+    *   [Qemu\_procfs (⭐22)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
     *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
-*   [MemProcFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [MemProcFS (⭐1.8k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐31)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
-*   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [Volatility3 (⭐1.3k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
 ## Xen Exploitation
 
@@ -402,7 +403,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 
 ## Contributing
 
-Contribution guidelines can be found [here (⭐18)](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md).
+Contribution guidelines can be found [here (⭐31)](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md).
 
 ## Releases
 

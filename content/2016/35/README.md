@@ -2,7 +2,7 @@
 
 38 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -77,7 +77,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐368)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐372)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -158,26 +158,26 @@
 
 ### Errors and Exception Handling
 
-*   [exceptional (⭐275)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
+*   [exceptional (⭐276)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 *   [happy (⭐43)](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 
 ### Geolocation
 
-*   [geoip (⭐91)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
+*   [geoip (⭐92)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
 
 ### Images
 
-*   [thumbnex (⭐56)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
+*   [thumbnex (⭐57)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
 
 ### Instrumenting / Monitoring
 
 *   [elixometer (⭐816)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
 *   [erlang-metrics (⭐68)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
-*   [exometer (⭐519)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
+*   [exometer (⭐518)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
 *   [folsom\_ddb (⭐5)](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
 *   [instream (⭐210)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 *   [instrumental (⭐9)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
-*   [prometheus (⭐321)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
+*   [prometheus (⭐322)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
 
 ### Miscellaneous
 
@@ -197,7 +197,7 @@
 
 ### Statistics
 
-*   [numerix (⭐178)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
+*   [numerix (⭐179)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
 
 ### Templating
 
@@ -217,7 +217,7 @@
 
 ### Video
 
-*   [ffmpex (⭐189)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+*   [ffmpex (⭐190)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## [19. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -294,20 +294,20 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Fable (⭐2.5k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
+*   [Fable (⭐2.6k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
 
 ### Database
 
-*   [Ignite (⭐4.3k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
+*   [Ignite (⭐4.4k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 
 ### IoC
 
-*   [Microsoft.Extensions.DependencyInjection (⭐876)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
+*   [Microsoft.Extensions.DependencyInjection (⭐877)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
 *   [Scrutor (⭐2.7k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 
 ### Markdown Processors
 
-*   [markdig (⭐3.3k)](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+*   [markdig (⭐3.4k)](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 ### ORM
 
@@ -375,7 +375,7 @@
 
 ### Internationalization
 
-*   [Termit (⭐507)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
+*   [Termit (⭐508)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
 
 ## [35. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 

@@ -2,7 +2,7 @@
 
 44 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,8 +20,8 @@
 
 ### Software / Make your life easier
 
-*   [Kiwi TCMS (⭐773)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐7.7k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+*   [Kiwi TCMS (⭐789)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+*   [Captura (⭐7.9k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
 *   [QA Wolf (⭐3.2k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/week/README.md)
@@ -153,7 +153,7 @@
 
 ### Extensions
 
-*   [Next Cookie (⭐189)](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
+*   [Next Cookie (⭐190)](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -203,12 +203,12 @@
 
 ### Code Analysis
 
-*   :strawberry: [IdeHelper plugin (⭐162)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   :strawberry: [IdeHelper plugin (⭐164)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 *   :strawberry: [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ### File Manipulation
 
-*   :strawberry: [Josbeir/Filesystem plugin (⭐18)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
+*   :strawberry: [Josbeir/Filesystem plugin (⭐19)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
 
 ### I18n
 
@@ -221,12 +221,12 @@
 
 ### Migration
 
-*   :strawberry: [Upgrade app (⭐96)](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x and 3.x=>4.x.
+*   :strawberry: [Upgrade app (⭐98)](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x and 3.x=>4.x.
 
 ### Miscellaneous
 
 *   :strawberry: [CakeDto plugin (⭐25)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
-*   :strawberry: [Flash plugin (⭐11)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
+*   :strawberry: [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
 *   :strawberry: [Shim plugin (⭐37)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 
 ### ORM / Database / Datamapping
@@ -242,7 +242,7 @@
 
 ### Queue
 
-*   :strawberry: [Queue plugin (⭐282)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+*   :strawberry: [Queue plugin (⭐283)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ### Security
 
@@ -250,12 +250,12 @@
 
 ### SEO
 
-*   :strawberry: [Muffin/Slug plugin (⭐32)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
+*   :strawberry: [Muffin/Slug plugin (⭐33)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 
 ### Templating
 
 *   :strawberry: [Bake plugin (⭐94)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   :strawberry: [BootstrapUI plugin (⭐319)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
+*   :strawberry: [BootstrapUI plugin (⭐322)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 *   :strawberry: [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
@@ -581,7 +581,6 @@
 
 ### IDE and Code Editing
 
-*   [Atom](https://atom.io/) - Atom is a hackable text editor built on Electron.
 *   [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages.
 *   [cocalc.com](https://cocalc.com/) — (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
 *   [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web.
@@ -605,7 +604,7 @@
 
 ### Visitor Session Recording
 
-*   [hotjar.com](https://www.hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
+*   [hotjar.com](https://www.hotjar.com/) — Per site: 1,050 pages views/month, unlimited heatmaps, data stored for 3 months,...
 *   [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
 
 ### Payment and Billing Integration
@@ -623,10 +622,6 @@
 *   [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
 *   [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 *   [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
-
-### Other Free Resources
-
-*   [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
 
 ## [19. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -650,16 +645,16 @@
     *   [js\_of\_ocaml](http://ocsigen.org/js_of_ocaml) – Js\_of\_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
         *   [commonjs\_of\_ocaml (⭐13)](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js\_of\_ocaml project.
     *   [ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
-    *   [ocaml-uri (⭐86)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
+    *   [ocaml-uri (⭐87)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
     *   [Goji (⭐44)](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
-    *   [Syndic (⭐31)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
-    *   [ocaml-mustache (⭐73)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
+    *   [Syndic (⭐32)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
+    *   [ocaml-mustache (⭐74)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
     *   [atdjs (⭐9)](https://github.com/barko/atdjs) – atd code generator for OCaml/js\_of\_ocaml.
-    *   [jingoo (⭐104)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
+    *   [jingoo (⭐105)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
     *   [dispatch (⭐43)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
-    *   [Lambda Soup (⭐333)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
-    *   [Markup.ml (⭐139)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
-    *   [gen\_js\_api (⭐167)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
+    *   [Lambda Soup (⭐336)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+    *   [Markup.ml (⭐141)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
+    *   [gen\_js\_api (⭐170)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
     *   [routes (⭐111)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
 ## [20. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
@@ -747,13 +742,13 @@
 
 ### Tools
 
-*   [formik-antd (⭐551)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
+*   [formik-antd (⭐563)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
 
 ## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Project Management
 
-*   [Re:Backlogs (⭐159)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
+*   [Re:Backlogs (⭐163)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
 
 ## [28. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -796,24 +791,24 @@
 
 ### Tools
 
-*   [renderdoc (⭐6.9k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
+*   [renderdoc (⭐7k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
     *   [RDCtoVkCpp (⭐22)](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
 
 ## [33. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [Percona Monitoring and Management (⭐298)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
+*   [Percona Monitoring and Management (⭐305)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Citus (⭐7.7k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+*   [Citus (⭐7.8k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
 *   [patroni (⭐5.1k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
-*   [Percona XtraDB Cluster (⭐302)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
+*   [Percona XtraDB Cluster (⭐304)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
 *   [stolon (⭐4k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
-*   [pg\_auto\_failover (⭐848)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
-*   [pglookout (⭐156)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
-*   [PostgreSQL Automatic Failover (⭐316)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
+*   [pg\_auto\_failover (⭐850)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+*   [pglookout (⭐155)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
+*   [PostgreSQL Automatic Failover (⭐317)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 
 ### Kubernetes / Zabbix
 
@@ -873,7 +868,7 @@
 
 ### Other Hardware
 
-*   [NFCPassportReader (⭐568)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
+*   [NFCPassportReader (⭐581)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
 ## [40. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -901,7 +896,7 @@
 
 ### 3D
 
-*   [3DreamEngine (⭐241)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+*   [3DreamEngine (⭐243)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
 ## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

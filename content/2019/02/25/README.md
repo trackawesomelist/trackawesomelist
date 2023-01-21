@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -69,7 +69,7 @@
 
 ### PDF
 
-*   [InvoicePrinter (⭐800)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐798)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -103,7 +103,7 @@
 
 ### Boilerplates / Themes
 
-*   [Create React App + Ant Design (⭐579)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
+*   [Create React App + Ant Design (⭐580)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -78,7 +78,7 @@
 
 ### Task management
 
-*   [cake (⭐64)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
+*   [cake (⭐65)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
 ## [6. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Scala / Natural Language Processing
 
-*   [Montague (⭐53)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
+*   [Montague (⭐52)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
 
 ## [9. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 

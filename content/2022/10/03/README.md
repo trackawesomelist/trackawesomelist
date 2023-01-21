@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Testing / Redux / ELM / Dependency Injection
 
-*   [Patrol (⭐188)](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
+*   [Patrol (⭐251)](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
 
 ## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -35,18 +35,14 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [lpha3cho (⭐33)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
+*   [lpha3cho (⭐35)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
 *   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, git status, timestamp, last exit status and also name of active virtual environment.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### C# / Non-X86
+### Compiler Design
 
-*   [Xamarin.Forms Notes for professionals](https://books.goalkicker.com/XamarinFormsBook/) - Compiled from StackOverflow documentaion (PDF)
-
-### JavaScript / Wicket
-
-*   [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
+*   [EXPL NITC: Build your own Compiler](https://silcnitc.github.io) - Murali Krishnan K., students in the Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -56,7 +52,7 @@
 
 ## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Learning / Crash Courses
+### Crash Courses
 
 *   [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Introduction to the Algorand Virtual Machine architecture and Algorand Smart Contracts (aka Applications).
 
@@ -87,9 +83,9 @@
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science Education
 
-*   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
+*   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education research.
 
 ## [11. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,8 +20,8 @@
 
 ### Threat intelligence / Threat hunting
 
-*   [Sigma (⭐5.6k)](https://github.com/Neo23x0/sigma) - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
-*   [YARA (⭐6.1k)](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
+*   [Sigma (⭐5.8k)](https://github.com/Neo23x0/sigma) - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
+*   [YARA (⭐6.2k)](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
 
 ## [3. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -33,12 +33,12 @@
 
 ### Online Resources / Other Lists Online
 
-*   [Awesome Malware (⭐171)](https://github.com/fabacab/awesome-malware) - Curated collection of awesome malware, botnets, and other post-exploitation tools.
+*   [Awesome Malware (⭐172)](https://github.com/fabacab/awesome-malware) - Curated collection of awesome malware, botnets, and other post-exploitation tools.
 
 ### Privilege Escalation Tools / Password Spraying Tools
 
-*   [DomainPasswordSpray (⭐1.2k)](https://github.com/dafthack/DomainPasswordSpray) - Tool written in PowerShell to perform a password spray attack against users of a domain.
-*   [SprayingToolkit (⭐1.2k)](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, Outlook Web Access (OWA) and Office 365 (O365) a lot quicker, less painful and more efficient.
+*   [DomainPasswordSpray (⭐1.3k)](https://github.com/dafthack/DomainPasswordSpray) - Tool written in PowerShell to perform a password spray attack against users of a domain.
+*   [SprayingToolkit (⭐1.3k)](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, Outlook Web Access (OWA) and Office 365 (O365) a lot quicker, less painful and more efficient.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

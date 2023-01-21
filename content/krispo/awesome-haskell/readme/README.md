@@ -2,7 +2,7 @@
 
 A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/krispo/awesome-haskell/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) · ⭐ 2.8K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/krispo/awesome-haskell/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) · ⭐ 2.8K · 🏷️ Programming Languages
 
 [ [Daily](/content/krispo/awesome-haskell/README.md) / [Weekly](/content/krispo/awesome-haskell/week/README.md) / Overview ]
 

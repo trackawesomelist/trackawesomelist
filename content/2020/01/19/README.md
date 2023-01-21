@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -27,13 +27,13 @@
 ### Physics
 
 *   [Simbody (⭐2k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
-*   [SOFA (⭐673)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
+*   [SOFA (⭐676)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 
 ## [4. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / User Interface
 
-*   [PieMenu (⭐59)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
+*   [PieMenu (⭐63)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -82,11 +82,11 @@
 
 ### Projects / Frameworks
 
-*   [CoqEAL (⭐62)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
+*   [CoqEAL (⭐61)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
 
 ### Projects / Libraries
 
-*   [Metalib (⭐64)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
+*   [Metalib (⭐63)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
 
 ### Projects / Package and Build Management
 

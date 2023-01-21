@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,9 +16,9 @@
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [casbin (⭐55)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
-*   [fibernewrelic (⭐55)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
-*   [opafiber (⭐55)](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
+*   [casbin (⭐66)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
+*   [fibernewrelic (⭐66)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
+*   [opafiber (⭐66)](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -33,17 +33,17 @@
 *   [bettermap (⭐13)](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
 *   [cubic-bezier (⭐1)](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 *   [durationjs (⭐19)](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
-*   [fortuna (⭐13)](https://github.com/retraigo/fortuna) - Weighted gacha system.
+*   [fortuna (⭐14)](https://github.com/retraigo/fortuna) - Weighted gacha system.
 
 ### Showcases / XML
 
-*   [Saleor Deno Merch (⭐21)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor (⭐17k)](https://github.com/saleor/saleor).
+*   [Saleor Deno Merch (⭐22)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor (⭐18k)](https://github.com/saleor/saleor).
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Financial
 
-*   [bbgo (⭐758)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
+*   [bbgo (⭐773)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
 
 ---
 

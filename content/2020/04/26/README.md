@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐633)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐642)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -41,7 +41,7 @@
 
 ### Optimizations
 
-*   [fast\_underscore (⭐25)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
+*   [fast\_underscore (⭐26)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -72,7 +72,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS-Bridge (⭐5.3k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
+*   [RSS-Bridge (⭐5.5k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
 
 ## [7. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -914,7 +914,7 @@
 
 ### Collaboration/Education
 
-*   [IllumiDesk (⭐38)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
+*   [IllumiDesk (⭐39)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
 
 ## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -984,17 +984,17 @@
 
 ### Libraries / Others
 
-*   [Cookiecutter for Computational Molecular Sciences (⭐281)](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
+*   [Cookiecutter for Computational Molecular Sciences (⭐283)](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 
 ### Resources / Courses
 
-*   [Python for chemoinformatics (⭐192)](https://github.com/Mishima-syk/py4chemoinformatics)
+*   [Python for chemoinformatics (⭐193)](https://github.com/Mishima-syk/py4chemoinformatics)
 
 ## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Carousel
 
-*   [react-instagram-zoom-slider (⭐66)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
+*   [react-instagram-zoom-slider (⭐67)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 
 ---
 

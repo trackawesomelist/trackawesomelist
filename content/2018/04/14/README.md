@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,15 +24,15 @@
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
 *   [Zarp (⭐1.3k)](https://github.com/hatRiot/zarp) - Network attack tool centered around the exploitation of local networks.
-*   [dnstwist (⭐3.6k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
+*   [dnstwist (⭐3.7k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
-*   [Netzob (⭐671)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
+*   [Netzob (⭐674)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
-*   [Morpheus (⭐762)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
+*   [Morpheus (⭐771)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
 *   [SSH MITM (⭐1.5k)](https://github.com/jtesta/ssh-mitm) - Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
 
 ## [4. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
@@ -93,7 +93,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Testura.Code (⭐259)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
+*   [Testura.Code (⭐263)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 
 ## [8. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 

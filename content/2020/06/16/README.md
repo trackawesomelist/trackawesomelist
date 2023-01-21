@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -43,17 +43,17 @@
 
 ### Other Awesome Lists
 
-*   [open-source-mac-os-apps (⭐33k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+*   [open-source-mac-os-apps (⭐34k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
 ### AI
 
-*   [DL4S (⭐84)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+*   [DL4S (⭐87)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [tendermint-rs (⭐436)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐447)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 
 ## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -69,11 +69,11 @@
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Monitoring / Single Sign-On (SSO)
+### Software / Monitoring
 
-*   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
+*   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPL-3.0` `Perl`
 
-### Web / Metric & Metric Collection
+### Software / Web
 
 *   [Apache](http://httpd.apache.org/) - A robust, commercial-grade, featureful implementation of an HTTP (Web) server.
 

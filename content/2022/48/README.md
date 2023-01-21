@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 28 - Dec 04, 2022
 
-3 awesome lists updated this week.
+4 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,6 +33,12 @@
 ### Books / Visualization Tools
 
 *   [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430)
+
+## [4. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+
+### Customization
+
+*   [aphrodite-terminal-theme (⭐73)](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic theme (prompt) for sexy terminals.
 
 ---
 

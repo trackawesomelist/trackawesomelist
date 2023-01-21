@@ -2,7 +2,7 @@
 
 Awesome lists of useful Sitecore tools, extensions and GitHub repositories 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MartinMiles/awesome-sitecore/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 MartinMiles/awesome-sitecore](https://github.com/MartinMiles/awesome-sitecore) · ⭐ 54 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MartinMiles/awesome-sitecore/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MartinMiles/awesome-sitecore](https://github.com/MartinMiles/awesome-sitecore) · ⭐ 54 · 🏷️ Content Management Systems
 
 [ Daily / [Weekly](/content/MartinMiles/awesome-sitecore/week/README.md) / [Overview](/content/MartinMiles/awesome-sitecore/readme/README.md) ]
 

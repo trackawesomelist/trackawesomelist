@@ -2,7 +2,7 @@
 
 Probably the best curated list of data science software in Python.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/krzjoa/awesome-python-data-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) · ⭐ 1.7K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/krzjoa/awesome-python-data-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) · ⭐ 1.7K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/krzjoa/awesome-python-data-science/week/README.md) / [Overview](/content/krzjoa/awesome-python-data-science/readme/README.md) ]
 

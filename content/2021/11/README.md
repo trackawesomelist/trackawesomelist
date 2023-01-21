@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 15 - Mar 21, 2021
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Libraries / New Libraries
 
-*   [Optimal Transport Tools (⭐217)](https://github.com/google-research/ott) - Toolbox that bundles utilities to solve optimal transport problems.
+*   [Optimal Transport Tools (⭐216)](https://github.com/google-research/ott) - Toolbox that bundles utilities to solve optimal transport problems.
 
 ## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Python / Natural Language Processing
 
-*   [DL Translate (⭐237)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
+*   [DL Translate (⭐244)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [pytorch\_tabular (⭐782)](https://github.com/manujosephv/pytorch_tabular)
+*   [pytorch\_tabular (⭐800)](https://github.com/manujosephv/pytorch_tabular)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
@@ -65,11 +65,11 @@
 
 ### Projects / Godot 3.2+
 
-*   [Arrow (⭐545)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐566)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [GodotOnReady (⭐94)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
+*   [GodotOnReady (⭐99)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 
 ## [9. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [KICS (⭐1.3k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+*   [KICS (⭐1.4k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 
 ## [11. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
@@ -382,12 +382,11 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [asakusaSatellite (⭐101)](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers (using Rails 6.0). - [:earth\_africa:](https://www.codefirst.org/AsakusaSatellite/)
 *   [catarse (⭐1.6k)](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth\_africa:](https://www.catarse.me/)
 *   [commudle (⭐242)](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
-*   [eol (⭐57)](https://github.com/EOL/eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
-*   [kanban (⭐637)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
+*   [kanban (⭐638)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
 *   [opensourcefriday (⭐1.1k)](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
 *   [peatio (⭐3.6k)](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
 *   [reservations (⭐132)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
-*   [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0). - [:earth\_africa:](https://www.rletters.net)
+*   [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0).
 *   [sanataro (⭐52)](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2).
 
 ### Gems / Other external resources
@@ -440,8 +439,8 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Contents / News and Magazine
 
-*   [NewsApp (⭐127)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs  by [J-J-GAJJAR](https://github.com/j-j-gajjar).
-*   [InNews (⭐10)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
+*   [NewsApp (⭐143)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs  by [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [InNews (⭐12)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
 
 ## [31. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -459,7 +458,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### UI / Bottom bars
 
-*   [Google Nav Bar (⭐521)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
+*   [Google Nav Bar (⭐530)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
 
 ## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -502,15 +501,15 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Others
 
-*   [eShopOnBlazor (⭐343)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
-*   [BlazorCRUD (⭐231)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
+*   [eShopOnBlazor (⭐355)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
+*   [BlazorCRUD (⭐237)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 *   [Unofficial eShopOnContainers (⭐3)](https://github.com/n-stefan/eshoponcontainers) - ![last commit](https://img.shields.io/github/last-commit/n-stefan/eshoponcontainers?style=flat-square\&cacheSeconds=86400) Unofficial Blazor WebAssembly client for [eShopOnContainers (⭐22k)](https://github.com/dotnet-architecture/eShopOnContainers).
 
 ## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
-*   [json-struct (⭐268)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
+*   [json-struct (⭐275)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 
 ## [40. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -532,7 +531,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
 *   :octocat: [Microsoft/TypeScript-React-Starter (⭐11k)](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
-*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐38k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
+*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐39k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
 *   :octocat: [jsxtyper (⭐36)](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 *   :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 *   :octocat: [TodoMVC • TypeScript + React Example (⭐28k)](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
@@ -541,9 +540,9 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   :robot: [Convert React code to TypeScript automatically (⭐1.6k)](https://github.com/lyft/react-javascript-to-typescript-transform)
 *   :octocat: [React Server Example TSX (⭐271)](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
 *   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
-*   :octocat: [Typescript Monorepo CRA Example (⭐25)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
+*   :octocat: [Typescript Monorepo CRA Example (⭐26)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
 *   :octocat: [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-*   :stars: [Crisp React (⭐156)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+*   :stars: [Crisp React (⭐157)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 *   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 
 ### Back-end API / Playground
@@ -598,26 +597,26 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Tools / Graphics utilities
 
-*   [Superfamiconv (⭐94)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
+*   [Superfamiconv (⭐97)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
 
 ### Retrieving images / Syntax highlighting packages
 
-*   [Arduino Gameboy Printer Emulator (⭐248)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
+*   [Arduino Gameboy Printer Emulator (⭐255)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
 *   [ESP8266 Game Boy Printer (⭐39)](https://github.com/applefreak/esp8266-gameboy-printer) -  A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.
-*   [WiFi GBP Emulator (⭐40)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
-*   [Game Boy WiFi Printer - D1 Mini Shield (⭐16)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
+*   [WiFi GBP Emulator (⭐41)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
+*   [Game Boy WiFi Printer - D1 Mini Shield (⭐17)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
 *   [Game Boy Printer Sniffer (⭐7)](https://github.com/mofosyne/GameboyPrinterSniffer) - Sniff packet communications between a Game Boy and the Printer.
 
 ### Changing the camera's behavior / Syntax highlighting packages
 
 *   [Game Boy Camera Canon EF Lens Mount](http://ekeler.com/game-boy-camera-canon-ef-mount)
 *   [Game Boy Camera to Canon Lens mount](https://www.thingiverse.com/thing:4337362) - based on the above.
-*   [game-boy-camera-frame-replacer (⭐12)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
+*   [game-boy-camera-frame-replacer (⭐14)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
 
 ### Post processing / Syntax highlighting packages
 
-*   [Game Boy Printer Paper Simulation (⭐45)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
-*   [Game Boy Printer Web (⭐33)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
+*   [Game Boy Printer Paper Simulation (⭐47)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
+*   [Game Boy Printer Web (⭐37)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
 
 ## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -627,7 +626,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Plugins
 
-*   🎨🧬 [Theme Variants (⭐136)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
+*   🎨🧬 [Theme Variants (⭐137)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
 
 ### Tools
 
@@ -635,7 +634,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Tailwind Cards (⭐454)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
+*   🧩 [Tailwind Cards (⭐467)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
 ## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -646,12 +645,12 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 ### Components & Libraries / Utilities
 
 *   [vue-props-validation (⭐21)](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
-*   [vue-simple-acl (⭐84)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
+*   [vue-simple-acl (⭐87)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 ### Components & Libraries / Integrations
 
-*   [vuetube (⭐10)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
-*   [vue-cli-plugin-capacitor (⭐135)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
+*   [vuetube (⭐12)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
+*   [vue-cli-plugin-capacitor (⭐136)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
 
 ## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -883,7 +882,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Developer utilities / Third-party APIs
 
-*   [printv (⭐66)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [printv (⭐67)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [52. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -916,7 +915,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Related
 
-*   [Developers Guide to HIPAA Compliance (⭐1.5k)](https://github.com/truevault/hipaa-compliance-developers-guide)
+*   [Developers Guide to HIPAA Compliance (⭐1.6k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
 ## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -952,12 +951,6 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 ### Screenshot APIs
 
 *   [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides web site screenshot and domain intelligence API services. Free 100 requests/month.
-
-## [55. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Utilities
-
-*   [Kooha (⭐1.1k)](https://github.com/SeaDve/Kooha) - A simple screen recorder.
 
 ---
 

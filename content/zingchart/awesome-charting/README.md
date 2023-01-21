@@ -2,7 +2,7 @@
 
 A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zingchart/awesome-charting/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) · ⭐ 1.8K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zingchart/awesome-charting/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) · ⭐ 1.8K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/zingchart/awesome-charting/week/README.md) / [Overview](/content/zingchart/awesome-charting/readme/README.md) ]
 

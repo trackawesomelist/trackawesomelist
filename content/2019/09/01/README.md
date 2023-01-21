@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### Packages / Application layer
 
-*   [vision\_opencv (⭐406)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
+*   [vision\_opencv (⭐409)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,8 +17,8 @@
 
 ### serialization
 
-*   [geojson-jackson (⭐242)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
-*   [mapbox-java (⭐379)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐22k)](https://github.com/google/gson))
+*   [geojson-jackson (⭐245)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
+*   [mapbox-java (⭐383)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐22k)](https://github.com/google/gson))
 
 ### resources
 
@@ -49,7 +49,7 @@
 
 ### ORM
 
-*   [FluentMigrator (⭐2.8k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
+*   [FluentMigrator (⭐2.9k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

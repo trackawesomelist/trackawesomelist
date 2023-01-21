@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -99,11 +99,11 @@
 
 ### Auditing / Logging
 
-*   :strawberry: [Muffin/Footprint plugin (⭐87)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
+*   :strawberry: [Muffin/Footprint plugin (⭐88)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 
 ### Authentication and Authorization
 
-*   :strawberry: [CakeDC/Users plugin (⭐504)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   :strawberry: [CakeDC/Users plugin (⭐505)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 *   :strawberry: [Muffin/Tokenize plugin (⭐12)](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 
 ### Migration
@@ -112,7 +112,7 @@
 
 ### ORM / Database / Datamapping
 
-*   :strawberry: [Muffin/Trash plugin (⭐76)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
+*   :strawberry: [Muffin/Trash plugin (⭐78)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 
 ### REST and API
 
@@ -146,7 +146,7 @@
 
 ### Tab Bar
 
-*   [BEKCurveTabbar (⭐170)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
+*   [BEKCurveTabbar (⭐169)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
 
 ## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -182,7 +182,7 @@
 
 ### Tools / Network protocol
 
-*   [DELTA (⭐70)](https://github.com/seungsoo-lee/DELTA) - SDN Security evaluation framework.
+*   [DELTA (⭐71)](https://github.com/seungsoo-lee/DELTA) - SDN Security evaluation framework.
 
 ---
 

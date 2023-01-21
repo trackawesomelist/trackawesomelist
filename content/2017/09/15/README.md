@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -58,7 +58,7 @@
 
 ### Debug
 
-*   [utest.h (⭐549)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
+*   [utest.h (⭐559)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
 
 ### Internationalization
 
@@ -66,11 +66,11 @@
 
 ### JSON
 
-*   [json.h (⭐535)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
+*   [json.h (⭐539)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 
 ### Networking
 
-*   [curlcpp (⭐543)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
+*   [curlcpp (⭐547)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
 *   [wdt (⭐2.7k)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)

@@ -2,7 +2,7 @@
 
 49 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -61,16 +61,16 @@
 
 ### Resources / Examples
 
-*   [Snake game on Vue.js without Canvas (⭐40)](https://github.com/Seokky/vue-snake-game)
+*   [Snake game on Vue.js without Canvas (⭐42)](https://github.com/Seokky/vue-snake-game)
 
 ### Projects Using Vue.js / Open Source
 
 *   [vue-realworld-example-app (⭐4k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐9.5k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [Daily (⭐10k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐158)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+*   [vue-datepicker (⭐160)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -329,7 +329,7 @@
 
 ### Top / Game Engine resources
 
-*   [Pokedex (⭐1.7k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
+*   [Pokedex (⭐1.8k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 
 ### 🇨🇦 Canada / Misc
 
@@ -360,9 +360,9 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Theming / Themes
 
-*   [ant-design-dark-theme (⭐470)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
-*   [ant-design-aliyun-theme (⭐301)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
-*   [ant-dark-theme (⭐14)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-design-dark-theme (⭐466)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-design-aliyun-theme (⭐302)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
+*   [ant-dark-theme (⭐13)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
 ## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -374,11 +374,11 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Reference
 
-*   [adalib (⭐15)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
+*   [adalib (⭐16)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
 ### Database / Other / unknown licence
 
-*   [ada-base (⭐29)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
+*   [ada-base (⭐31)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
 ### Generation / Other / unknown licence
 
@@ -391,7 +391,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Patterns / Other / unknown licence
 
-*   [rxada (⭐7)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
+*   [rxada (⭐12)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
 
@@ -425,7 +425,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Tools
 
-*   [web-component-analyzer (⭐408)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+*   [web-component-analyzer (⭐409)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
 ## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -441,20 +441,20 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Automation
+### Software / Automation
 
 *   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
 
-### Backups
+### Software / Backups
 
 *   [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
 *   [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 
-### Identity Management / Tools and web interfaces
+### Software / Identity Management - Tools and web interfaces
 
-*   [easy-rsa (⭐3.3k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
+*   [easy-rsa (⭐3.4k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 
-### Repositories / Debian-based distributions
+### Repositories / Web
 
 *   [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
 
@@ -550,7 +550,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Advanced Cell Classifier](https://www.cellclassifier.org/) - A software package for exploration, annotation and classification of cells within large datasets using machine learning.
 *   [CellProfiler](http://cellprofiler.org/) - CellProfiler is a free open-source software for measuring and analyzing cell images.
 *   [CellProfiler Analyst](http://cellprofiler.org/cp-analyst/) - Interactive data exploration, analysis, and classification of large biological image sets.
-*   [EBImage (⭐61)](https://github.com/aoles/EBImage) - Image processing toolbox for R.
+*   [EBImage (⭐62)](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 *   [HTSvis](http://htsvis.dkfz.de/HTSvis/) - A web app for exploratory data analysis and visualization of arrayed high-throughput screens.
 
 ### Publications / Reviews
@@ -628,7 +628,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐514)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐520)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ### Developer Tools / Command Line Tools
 
@@ -749,7 +749,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐895)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐904)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -820,7 +820,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Third-party APIs
 
-*   [kube-client.cr (⭐19)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
+*   [kube-client.cr (⭐20)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
 
 ## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -842,11 +842,11 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐252)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐257)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ### Software / Proxy
 
-*   [SOCKS5Engine (⭐31)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
+*   [SOCKS5Engine (⭐32)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
 
 ## [47. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

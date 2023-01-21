@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 12 - Jan 18, 2015
 
-20 awesome lists updated this week.
+19 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -179,17 +179,11 @@
 *   [lupa (⭐841)](https://github.com/scoder/lupa) - Python bindings to LuaJIT2.
 *   [golua (⭐598)](https://github.com/aarzilli/golua) - Golang bindings to the Lua C API.
 
-## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Scheme / Play Scala
-
-*   [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
-
-## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
-*   [Blanket (⭐465)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
+*   [Blanket (⭐464)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 
 ### Automation
 
@@ -204,7 +198,7 @@
 *   [Ohm (⭐1.4k)](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
 *   [ROM (⭐2k)](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -212,11 +206,11 @@
 
 ### Inter-process communication
 
-*   [libjson-rpc-cpp (⭐828)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
-*   [nanomsg (⭐5.5k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
+*   [libjson-rpc-cpp (⭐831)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
+*   [nanomsg (⭐5.6k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 *   [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. \[BSD]
 
-## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Bittorrent
 
@@ -250,7 +244,7 @@
 
 ### Networking
 
-*   [ExPcap (⭐25)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
+*   [ExPcap (⭐26)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 
 ### ORM and Datamapping
 
@@ -275,9 +269,9 @@
 *   [digoc (⭐11)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 *   [exgrid (⭐7)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
-*   [slack (⭐635)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+*   [slack (⭐636)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
-## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -304,7 +298,7 @@
 
 *   [Brain (⭐8k)](https://github.com/harthur/brain)
 
-## [19. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [18. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -336,7 +330,7 @@
 
 
 
-## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 

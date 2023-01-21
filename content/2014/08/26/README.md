@@ -2,7 +2,7 @@
 
 3 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -39,8 +39,8 @@
 ### Code Analysis and Metrics
 
 *   [Brakeman (⭐6.5k)](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
-*   [Flay (⭐675)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
-*   [Flog (⭐799)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+*   [Flay (⭐676)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
+*   [Flog (⭐802)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 *   [Rubycritic (⭐3.1k)](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 *   [SimpleCov (⭐4.5k)](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 
@@ -78,7 +78,7 @@
 
 ### Error Handling
 
-*   [Raven Ruby (⭐851)](https://github.com/getsentry/raven-ruby) - Raven is a Ruby client for Sentry.
+*   [Raven Ruby (⭐852)](https://github.com/getsentry/raven-ruby) - Raven is a Ruby client for Sentry.
 
 ### HTML/XML Parsing
 
@@ -96,7 +96,7 @@
 
 ### Logging
 
-*   [HttpLog (⭐745)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
+*   [HttpLog (⭐746)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
 *   [Logging (⭐515)](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
 *   [Lograge (⭐3.2k)](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 
@@ -140,7 +140,7 @@
 
 ### Web Crawling
 
-*   [LinkThumbnailer (⭐508)](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
+*   [LinkThumbnailer (⭐507)](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
 *   [Mechanize (⭐4.2k)](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 
 ---

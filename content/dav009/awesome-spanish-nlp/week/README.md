@@ -2,7 +2,7 @@
 
 Curated list of Linguistic Resources for doing NLP & CL on Spanish
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dav009/awesome-spanish-nlp/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dav009/awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) · ⭐ 305 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dav009/awesome-spanish-nlp/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dav009/awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) · ⭐ 305 · 🏷️ Computer Science
 
 [ [Daily](/content/dav009/awesome-spanish-nlp/README.md) / Weekly / [Overview](/content/dav009/awesome-spanish-nlp/readme/README.md) ]
 

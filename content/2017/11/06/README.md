@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -74,7 +74,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [basic\_auth (⭐164)](https://github.com/CultivateHQ/basic_auth) - Elixir Plug to easily add HTTP basic authentication to an app.
 *   [oauth2\_facebook (⭐4)](https://github.com/chrislaskey/oauth2_facebook) - A Facebook OAuth2 Provider for Elixir.
 *   [oauth2\_github (⭐2)](https://github.com/chrislaskey/oauth2_github) - A GitHub OAuth2 Provider for Elixir.
-*   [phauxth (⭐416)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
+*   [phauxth (⭐415)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
 *   [samly (⭐115)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 
 ### Command Line Applications
@@ -101,20 +101,20 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### HTTP
 
-*   [Ace (⭐308)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
-*   [Crawler (⭐870)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+*   [Ace (⭐307)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
+*   [Crawler (⭐871)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
 
 ### Miscellaneous
 
-*   [ex\_phone\_number (⭐200)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
+*   [ex\_phone\_number (⭐201)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
 
 ### ORM and Datamapping
 
-*   [triplex (⭐370)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
+*   [triplex (⭐373)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
 
 ### Queue
 
-*   [opq (⭐224)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
+*   [opq (⭐225)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 
 ### Testing
 
@@ -157,12 +157,12 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Machine Learning
 
-*   [RNNLIB (⭐880)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
+*   [RNNLIB (⭐879)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
 
 ### Math
 
-*   [CGAL (⭐3.5k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-*   [linmath.h (⭐720)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
+*   [CGAL (⭐3.6k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
+*   [linmath.h (⭐725)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
 
 ### PDF
 

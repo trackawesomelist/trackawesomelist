@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -66,18 +66,18 @@
 ### Official
 
 *   [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
-*   [Examples (⭐25k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
+*   [Examples (⭐26k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
 *   [Website](https://yew.rs/) - Official website.
 
 ### Projects
 
-*   [webapp.rs (⭐2k)](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
-*   [Bucket Questions (⭐5)](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
+*   [webapp.rs (⭐2.1k)](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
+*   [Bucket Questions (⭐6)](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
 
 ### Templates
 
-*   [yew-wasm-pack-template (⭐117)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
-*   [yew-wasm-pack-minimal (⭐109)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
+*   [yew-wasm-pack-template (⭐118)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
+*   [yew-wasm-pack-minimal (⭐110)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 *   [yew-parcel-template (⭐115)](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 
 ### Articles / Frameworks

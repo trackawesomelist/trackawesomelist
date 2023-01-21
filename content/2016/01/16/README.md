@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 16, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,13 +18,7 @@
 
 *   [diff2html (⭐2.3k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
-## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Utils / Third Party
-
-*   [d3.svg.circularbrush (⭐61)](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
-
-## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / G individuals
 
@@ -34,13 +28,13 @@
 
 *   Simon Reimler <https://devdactic.com/devblog/>
 
-## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [direnv (⭐9.7k)](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
+*   [direnv (⭐9.9k)](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 
-## [6. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [5. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 

@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐457)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐460)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Optimization / NLP
 
-*   [Bayesian Optimization (⭐6.4k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐6.5k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 

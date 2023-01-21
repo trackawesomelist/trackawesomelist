@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -61,10 +61,10 @@
 ### Configuration
 
 *   [inih (⭐1.9k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
-*   [inih (⭐391)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐1.9k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐840)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]
-*   [libconfuse (⭐418)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
-*   [simpleini (⭐791)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
+*   [inih (⭐395)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐1.9k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
+*   [iniparser (⭐844)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]
+*   [libconfuse (⭐419)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
+*   [simpleini (⭐797)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
 ### Graphics
 

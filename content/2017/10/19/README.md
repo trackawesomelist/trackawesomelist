@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Networking
 
-*   [Seasocks (⭐621)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐622)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -65,7 +65,7 @@
 
 *   :octocat: [ionic (⭐48k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [Stencil (⭐11k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
-*   :octocat: [wretch (⭐2.5k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+*   :octocat: [wretch (⭐2.7k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

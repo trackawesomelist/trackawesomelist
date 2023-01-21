@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [directus-auto-migrate (⭐40)](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance. (no longer maintained, feature added to core)
+*   [directus-auto-migrate (⭐43)](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance. (no longer maintained, feature added to core)
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -22,19 +22,19 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [mcfly (⭐4.7k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐4.8k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 
 ## [4. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [joffref/opa-middleware (⭐5)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
+*   [joffref/opa-middleware (⭐6)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐375)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐488)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -57,37 +57,30 @@
 
 *   [CalcuPi](https://dvjn.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### CoffeeScript / Non-X86
+### Misc
 
-*   [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite
+*   [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide/read) (HTML)
 
-### JavaScript / AngularJS
+### Software Architecture
 
-*   [AngularJS vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
+*   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 
-### JavaScript / Ember.js
+### Theoretical Computer Science
 
-*   [AngularJs vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
-
-### Lisp / TeX
-
-*   [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp/read) - Mark Watson (HTML)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read) - Obi Ike-Nwosu (HTML)
+*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
+*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-file (⭐5)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
+*   [vite-plugin-zip-file (⭐6)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-browserslist-useragent (⭐8)](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
+*   [vite-plugin-browserslist-useragent (⭐9)](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

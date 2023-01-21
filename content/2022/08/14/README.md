@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,8 +19,8 @@
 
 ### Sensors / Barometer
 
-*   [BMP390 (⭐1)](https://github.com/octaprog7/BMP390) - MicroPython module for BMP390 pressure & temperature sensor.
-*   [BMP180 (⭐2)](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
+*   [BMP390 (⭐2)](https://github.com/octaprog7/BMP390) - MicroPython module for BMP390 pressure & temperature sensor.
+*   [BMP180 (⭐3)](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
 
 ### Tutorials / SRAM
 
@@ -49,47 +49,47 @@
 
 ### .NET / React
 
-*   [EntityGraphQL (⭐308)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
-*   [ZeroQL (⭐141)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
+*   [EntityGraphQL (⭐311)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
+*   [ZeroQL (⭐142)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/adwaita.nvim (⭐103)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
+*   [Mofiqul/adwaita.nvim (⭐123)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
 
 ### Debugging / Diagnostics
 
-*   [andrewferrier/debugprint.nvim (⭐79)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
+*   [andrewferrier/debugprint.nvim (⭐89)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐327)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐355)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 
-*   [akinsho/git-conflict.nvim (⭐361)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
+*   [akinsho/git-conflict.nvim (⭐387)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/stay-in-place.nvim (⭐53)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
+*   [gbprod/stay-in-place.nvim (⭐55)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Audio
 
-*   [ViMusic (⭐2.1k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐2.6k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 ## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Development / Newsletters
 
-*   [dream2nix (⭐301)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
-*   [rnix-lsp (⭐506)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
+*   [dream2nix (⭐344)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
+*   [rnix-lsp (⭐542)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 
 ### Programming Languages / Rust
 
-*   [crane (⭐265)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
+*   [crane (⭐346)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
 
 ---
 

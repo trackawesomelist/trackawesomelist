@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 07, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -42,13 +42,7 @@
 
 *   [Khen Daniel (⭐0)](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Elixir / Non-X86
-
-*   [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
-
-## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -57,7 +51,7 @@
 *   [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
 *   [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
 
-## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Very Lightweight
 
@@ -101,14 +95,14 @@
     [Repo (⭐7.7k)](https://github.com/jdan/98.css)
     \| #CSS
 
-## [8. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [7. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Packages
 
 *   [ava-fixture (⭐5)](https://github.com/unional/ava-fixture) - Run fixture/baseline tests.
 *   [ava-fast-check (⭐44)](https://github.com/dubzzz/ava-fast-check) - Property based testing.
 
-## [9. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Articles
 
@@ -120,17 +114,17 @@
 
 *   [npm.community](https://npm.community/c/support)
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [aws-fluent-plugin-kinesis :fire::fire: (⭐282)](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Collaboration and Project Management / Telegram
 
-*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐13)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
+*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐15)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
 
 ---
 

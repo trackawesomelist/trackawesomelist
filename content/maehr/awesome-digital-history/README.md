@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 147 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 154 · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
 
@@ -270,10 +270,10 @@ Find primary sources online and learn how to research history digitally.
 
 ### More Awesome / Switzerland
 
-*   [Computer History (⭐2.3k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.1k)](https://github.com/fasouto/awesome-dataviz#readme)
-*   [Research Tools (⭐1.5k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
+*   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
+*   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
+*   [Scientific Writing (⭐486)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 

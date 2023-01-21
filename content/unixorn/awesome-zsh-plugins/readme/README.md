@@ -2,7 +2,7 @@
 
 A collection of ZSH frameworks, plugins, themes and tutorials.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/unixorn/awesome-zsh-plugins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) · ⭐ 12K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/unixorn/awesome-zsh-plugins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) · ⭐ 12K · 🏷️ Development Environment
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / Overview ]
 

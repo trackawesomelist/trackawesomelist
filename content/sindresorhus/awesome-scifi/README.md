@@ -2,13 +2,13 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.6K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.6K · 🏷️ Entertainment
 
 [ Daily / [Weekly](/content/sindresorhus/awesome-scifi/week/README.md) / [Overview](/content/sindresorhus/awesome-scifi/readme/README.md) ]
 
 ## [Jan 13, 2023](/content/2023/01/13/README.md)
 
-### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle)   (2019-2021)   *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)*   \[4.2] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle)   (2019-2021)   *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)*   \[4.2] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) \[4.1]
 *   [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) \[4.3]
@@ -16,19 +16,19 @@ Sci-Fi worth consuming
 
 ## [Jul 25, 2022](/content/2022/07/25/README.md)
 
-### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)] / [Dawn](https://www.goodreads.com/book/show/36694961-dawn)   (1987) [4.1]
+### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)]
 
 *   [Leviathan Falls](https://www.goodreads.com/book/show/28335699-leviathan-falls) \[4.5]
 
 ## [Oct 26, 2021](/content/2021/10/26/README.md)
 
-### [Strange Days](https://www.imdb.com/title/tt0114558/)   (1995) [7.2] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### [Strange Days](https://www.imdb.com/title/tt0114558/)   (1995) [7.2] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [@potherca](https://github.com/potherca)
 
 ## [Oct 14, 2021](/content/2021/10/14/README.md)
 
-### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)] / [Dawn](https://www.goodreads.com/book/show/36694961-dawn)   (1987) [4.1]
+### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)]
 
 *   [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) \[4.2] 🔥
 *   [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) \[4.3] 🔥
@@ -56,26 +56,26 @@ Sci-Fi worth consuming
 
 ## [May 14, 2020](/content/2020/05/14/README.md)
 
-### Links / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Top 100 sci-fi and fantasy books as picked by NPR listeners](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
 
 ## [May 13, 2020](/content/2020/05/13/README.md)
 
-### Links / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [List of all the movies from this list on Letterboxd](https://letterboxd.com/potherca/list/the-awesome-sci-fi-list/)
 *   [List of all the novels, short story collections, and comic books from this list on Goodreads](https://www.goodreads.com/list/show/148073.The_Awesome_Sci_Fi_List)
 
 ## [Oct 09, 2018](/content/2018/10/09/README.md)
 
-### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017) _by   [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))  \_ [3.9] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017)   *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))*   \[3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/39751936-out-of-spite-out-of-mind) \[3.79]
 
 ## [Apr 23, 2018](/content/2018/04/23/README.md)
 
-### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017) _by   [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))  \_ [3.9] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017)   *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))*   \[3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [Off to Be the Wizard](https://www.goodreads.com/book/show/18616975-off-to-be-the-wizard) \[3.98]
 *   [Spell or High Water](https://www.goodreads.com/book/show/21483760-spell-or-high-water) \[4.02]
@@ -84,7 +84,7 @@ Sci-Fi worth consuming
 
 ## [Nov 04, 2016](/content/2016/11/04/README.md)
 
-### [Barsoom series](https://www.goodreads.com/series/43942-barsoom)   (1912-1927)   *by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)*   \[3.8] 🌟 / [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites)   (1988) [4.2]
+### [Barsoom series](https://www.goodreads.com/series/43942-barsoom)   (1912-1927)   *by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)*   \[3.8] 🌟
 
 *   [A Princess of Mars](https://www.goodreads.com/book/show/40395.A_Princess_of_Mars) \[3.8]
 *   [The Gods of Mars](https://www.goodreads.com/book/show/841973.The_Gods_of_Mars) \[3.8]
@@ -98,7 +98,7 @@ Sci-Fi worth consuming
 *   [Llana of Gathol](https://www.goodreads.com/book/show/215954.Llana_of_Gathol) \[3.7]
 *   [John Carter of Mars](https://www.goodreads.com/book/show/40388.John_Carter_of_Mars) \[3.8]
 
-### Links / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
 *   [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
 *   [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit

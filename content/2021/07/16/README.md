@@ -1,8 +1,8 @@
 # Awesome List Updates on Jul 16, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐27)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐4.9k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐31)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -63,8 +63,8 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐85)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐74)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐91)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐80)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -179,7 +179,7 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSBud (⭐677)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
+*   [RSSBud (⭐746)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
 
 ### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
@@ -192,12 +192,12 @@
 ### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Mac iOS Tech Blogs By Women](https://inessential.com/2015/11/16/blogs_by_women)
-*   [Software Engineering Blogs (⭐22k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
+*   [Software Engineering Blogs (⭐23k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
 *   [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
 ### ⏬ Utilize RSS to automate downloading / Broadcatching / Crypto or Blockchain relevant
 
-*   [waifu!d for aria2 (⭐53)](https://github.com/pcmid/waifud) <sup>[276](https://t.me/s/aboutrss/276)</sup> : a downloader bot [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ttttmr/UserJS)
+*   [waifu!d for aria2 (⭐54)](https://github.com/pcmid/waifud) <sup>[276](https://t.me/s/aboutrss/276)</sup> : a downloader bot [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ttttmr/UserJS)
 *   [RSS & you-get](https://left.pink/archives/2712) <sup>[494](https://t.me/s/aboutrss/494)</sup> : 自动下载B站收藏视频至VPS
 *   [FLEXGET](https://flexget.com/) <sup>[749](https://t.me/s/aboutrss/749)</sup>
 *   [Catch](https://giorgiocalderolla.com/catch.html) <sup>[1045](https://t.me/s/aboutrss/1045)</sup>
@@ -226,13 +226,7 @@
 
 *   [gamja](https://sr.ht/\~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/\~emersion/gamja)) `Web`
 
-## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Office
-
-*   [Apostrophe](https://gitlab.gnome.org/World/apostrophe) - Distraction-free Markdown editor. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-
-## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Frameworks
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -15,11 +15,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐76)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere!
+*   [nomad (⭐77)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere!
 
 ### HTTP
 
-*   [http\_proxy (⭐56)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
+*   [http\_proxy (⭐55)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
 
 ### JSON
 
@@ -27,7 +27,7 @@
 
 ### Utilities
 
-*   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐497)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

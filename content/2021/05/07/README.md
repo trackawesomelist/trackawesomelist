@@ -1,8 +1,8 @@
 # Awesome List Updates on May 07, 2021
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Status Bar
 
-*   [tmux-mode-indicator (⭐44)](https://github.com/MunifTanjim/tmux-mode-indicator) Displays prompt indicating currently active Tmux mode.
+*   [tmux-mode-indicator (⭐46)](https://github.com/MunifTanjim/tmux-mode-indicator) Displays prompt indicating currently active Tmux mode.
 
 ## [2. Awesome Standard](/content/standard/awesome-standard/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-quill (⭐475)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
+*   [vue-quill (⭐503)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -102,67 +102,51 @@
 
 
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) - Al Sweigart (3.x)
-*   [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
-*   [Cracking Codes with Python](https://inventwithpython.com/cracking/) - Al Sweigart (3.6)
-*   [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Nicolas P. Rougier (3.6)
-*   [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
-*   [Intermediate Python](https://book.pythontips.com/en/latest/) - Muhammad Yasoob Ullah Khalid (1st edition)
-*   [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf) - Kevin Sheppard (PDF) (3.8)
-*   [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed/) - Al Sweigart (3.4)
-*   [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/) - Al Sweigart (3.2)
-*   [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Dr. Marc Lichtman (3.x)
-*   [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
-
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Jekyll Landing Website Starter (⭐66)](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Official Resources
 
-*   [Terraform GitHub Actions (⭐872)](https://github.com/hashicorp/setup-terraform)
+*   [Terraform GitHub Actions (⭐947)](https://github.com/hashicorp/setup-terraform)
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Animation
 
-*   [SPPerspective (⭐285)](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration.
+*   [SPPerspective (⭐289)](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration.
 
-## [12. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [11. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Client-side
 
-*   💜 [Vue.js (⭐4.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
-*   💜 [React (⭐4.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
-*   💜 [Svelte (⭐4.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
+*   💜 [Vue.js (⭐4.7k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
+*   💜 [React (⭐4.7k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
+*   💜 [Svelte (⭐4.7k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
 
 ### Adapters / Server-side
 
 *   💜 [Laravel (⭐1.6k)](https://github.com/inertiajs/inertia-laravel)
-*   💜 [Rails (⭐217)](https://github.com/inertiajs/inertia-rails)
-*   [Statamic (⭐50)](https://github.com/hotmeteor/inertia-statamic)
-*   [ASP.NET Core (⭐50)](https://github.com/Nothing-Works/inertia-aspnetcore)
+*   💜 [Rails (⭐224)](https://github.com/inertiajs/inertia-rails)
+*   [Statamic (⭐52)](https://github.com/hotmeteor/inertia-statamic)
+*   [ASP.NET Core (⭐54)](https://github.com/Nothing-Works/inertia-aspnetcore)
 *   [CakePHP (⭐28)](https://github.com/ishanvyas22/cakephp-inertiajs)
 *   [ColdBox (⭐4)](https://github.com/elpete/cbInertia)
-*   [Phoenix (⭐61)](https://github.com/devato/inertia_phoenix)
+*   [Phoenix (⭐62)](https://github.com/devato/inertia_phoenix)
 *   [Symfony (⭐129)](https://github.com/rompetomp/inertia-bundle)
 *   [Yii2 (⭐52)](https://github.com/tbreuss/yii2-inertia)
-*   [Django (⭐87)](https://github.com/zodman/inertia-django)
+*   [Django (⭐86)](https://github.com/zodman/inertia-django)
 *   [Fiber (⭐10)](https://github.com/theArtechnology/fiber-inertia)
-*   [Node.js (⭐55)](https://github.com/jordankaerim/inertia-node)
-*   [Masonite (⭐17)](https://github.com/girardinsamuel/masonite-inertia)
-*   [WordPress (⭐96)](https://github.com/boxybird/wordpress-inertia-plugin)
-*   [Flask (⭐13)](https://github.com/j0ack/flask-inertia)
+*   [Node.js (⭐57)](https://github.com/jordankaerim/inertia-node)
+*   [Masonite (⭐18)](https://github.com/girardinsamuel/masonite-inertia)
+*   [WordPress (⭐99)](https://github.com/boxybird/wordpress-inertia-plugin)
+*   [Flask (⭐16)](https://github.com/j0ack/flask-inertia)
 
-## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Case Studies
 
@@ -172,29 +156,29 @@
 ### Component Libraries
 
 *   [github-elements (⭐2.4k)](https://github.com/github/github-elements) - GitHub's Web Component collection.
-*   [Vaadin components (⭐272)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
+*   [Vaadin components (⭐278)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
 
-## [14. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [13. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Generation
 
 *   [Anime2Sketch (⭐1.6k)](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration. \[English]
 
-## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [StreamSets Data Collector (⭐51)](https://github.com/streamsets/datacollector-oss) \[Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
+*   [StreamSets Data Collector (⭐52)](https://github.com/streamsets/datacollector-oss) \[Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
 
 ### Table of Contents / Streaming SQL
 
 *   [Siddhi (⭐1.4k)](https://github.com/siddhi-io/siddhi) \[Java] - A cloud native Streaming and Complex Event Processing engine that understands Streaming SQL queries in order to capture events from diverse data sources, process them, detect complex conditions, and publish output to various endpoints in real time.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [ray-x/navigator.lua (⭐870)](https://github.com/ray-x/navigator.lua) - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰.
+*   [ray-x/navigator.lua (⭐896)](https://github.com/ray-x/navigator.lua) - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰.
 
 ### Version Manager / Diagnostics
 

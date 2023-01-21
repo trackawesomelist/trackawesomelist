@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-1password (⭐214)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+*   [tmux-1password (⭐216)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
 ## [4. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [label-edit (⭐21)](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
+*   [label-edit (⭐22)](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

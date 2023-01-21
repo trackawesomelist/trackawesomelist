@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐411)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
+*   [ocaml-containers (⭐418)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Apps
 
-*   [Snape (⭐780)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+*   [Snape (⭐786)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)

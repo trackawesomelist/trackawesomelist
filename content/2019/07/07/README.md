@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,7 +51,7 @@
 
 ### JSON
 
-*   [cJSON (⭐8.2k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐8.3k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐16k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)

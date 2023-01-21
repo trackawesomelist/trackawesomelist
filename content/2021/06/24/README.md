@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [AWS Incident Response Runbook Samples (⭐661)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
+*   [AWS Incident Response Runbook Samples (⭐695)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Math
 
-*   [CXXGraph (⭐182)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐184)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 
 ## [5. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tweet (⭐25)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+*   [vue-tweet (⭐26)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [gaia (⭐597)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
+*   [gaia (⭐630)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
 
 ## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

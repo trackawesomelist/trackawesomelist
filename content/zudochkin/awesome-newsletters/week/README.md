@@ -2,7 +2,7 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.1K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.1K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 

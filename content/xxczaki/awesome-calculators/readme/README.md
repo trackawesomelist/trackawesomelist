@@ -2,7 +2,7 @@
 
 😎 A curated list of resources related to calculators!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xxczaki/awesome-calculators/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xxczaki/awesome-calculators](https://github.com/xxczaki/awesome-calculators) · ⭐ 109 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xxczaki/awesome-calculators/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xxczaki/awesome-calculators](https://github.com/xxczaki/awesome-calculators) · ⭐ 109 · 🏷️ Miscellaneous
 
 [ [Daily](/content/xxczaki/awesome-calculators/README.md) / [Weekly](/content/xxczaki/awesome-calculators/week/README.md) / Overview ]
 

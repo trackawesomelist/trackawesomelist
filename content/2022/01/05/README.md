@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,22 +26,22 @@
 
 ### Chemistry
 
-*   [MADNESS (⭐146)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐146)](https://github.com/m-a-d-n-e-s-s/madness)
+*   [MADNESS (⭐147)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐147)](https://github.com/m-a-d-n-e-s-s/madness)
 *   [MPQC (⭐56)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
-*   [Psi (⭐750)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+*   [Psi (⭐754)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
 ## [4. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐19)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐24)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### IDEs / VSCode
 
-*   [Obsidian Labs/vscode-algorand (⭐14)](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS Code Extension.
+*   [Obsidian Labs/vscode-algorand (⭐13)](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS Code Extension.
 
 ## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 

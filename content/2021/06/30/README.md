@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Open Source / Other
 
-*   [Heroic Games Launcher (⭐4.4k)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
+*   [Heroic Games Launcher (⭐4.7k)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
 
 ### For Electron / Other
 
@@ -26,7 +26,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Intel® oneAPI Data Analytics Library (⭐530)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
+*   [Intel® oneAPI Data Analytics Library (⭐533)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 
 ### JavaScript / Demos and Scripts
 
@@ -42,7 +42,7 @@
 
 ### Component bundles
 
-*   [Blazor.Ionic (⭐28)](https://github.com/kukks/Blazor.Ionic) - ![GitHub stars](https://img.shields.io/github/stars/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=86400) Ionic framework integration for Blazor.
+*   [Blazor.Ionic (⭐32)](https://github.com/kukks/Blazor.Ionic) - ![GitHub stars](https://img.shields.io/github/stars/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=86400) Ionic framework integration for Blazor.
 *   [Blazor Controls Toolkit](https://blazorct.azurewebsites.net/) - Complete toolset for implementing commercial business applications. It includes the equivalent of all Bootstrap JavaScript components, all html5 input types with widgets fallbacks, advanced editable components like DataGrid, TreeView, DetailView, ModalDetail, DetailList. All components have default customizable templates, and support virtualizazion and Drag & Drop. Component rendering is meta-data driven, so component configuration is in part automatic, and in part can be driven with data annotations. The toolset includes also query tools, to issue complex local or remote queries, changes-tracking tools to send only the changed records to the server, advanced validation attributes, globalization tools, "Behaviors" that modify existing components, state management and save, and more.
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
@@ -82,13 +82,13 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mock-server (⭐30)](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
+*   [vite-plugin-mock-server (⭐29)](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Horahora (⭐765)](https://github.com/horahoradev/horahora) - Video hosting website and video archival manager for Niconico, Bilibili, and Youtube. `MIT` `Go`
+*   [Horahora (⭐798)](https://github.com/horahoradev/horahora) - Video hosting website and video archival manager for Niconico, Bilibili, and Youtube. `MIT` `Go`
 
 ## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

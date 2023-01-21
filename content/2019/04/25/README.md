@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -85,7 +85,7 @@
     *   [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
     *   [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows.
     *   [makorel (⭐8)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
-    *   [esy (⭐787)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
+    *   [esy (⭐789)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 ## [8. Bots](/content/hackerkid/bots/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Articles
 
-*   [Keycloak Clustering Setup and Configuration Examples (⭐47)](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration)
+*   [Keycloak Clustering Setup and Configuration Examples (⭐48)](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration)
 
 ### Example Projects
 
-*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐24)](https://github.com/dteleguin/keycloak-dynamic-branding)
+*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐25)](https://github.com/dteleguin/keycloak-dynamic-branding)
 
 ## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

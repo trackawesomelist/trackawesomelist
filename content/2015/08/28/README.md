@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -12,7 +12,7 @@
 
 *   Object Factories
     *   [factory\_boy (⭐3k)](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
-    *   [mixer (⭐867)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
+    *   [mixer (⭐871)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
     *   [model\_mommy (⭐917)](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
@@ -31,13 +31,13 @@
 
 ### Charts
 
-*   [d3pie (⭐371)](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
+*   [d3pie (⭐372)](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [PredictionBuilder (⭐108)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
+*   [PredictionBuilder (⭐109)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

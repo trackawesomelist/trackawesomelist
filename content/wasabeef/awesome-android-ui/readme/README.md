@@ -2,7 +2,7 @@
 
 A curated list of awesome Android UI/UX libraries
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wasabeef/awesome-android-ui/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) · ⭐ 44K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wasabeef/awesome-android-ui/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) · ⭐ 44K · 🏷️ Miscellaneous
 
 [ [Daily](/content/wasabeef/awesome-android-ui/README.md) / [Weekly](/content/wasabeef/awesome-android-ui/week/README.md) / Overview ]
 

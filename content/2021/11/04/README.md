@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 04, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Keras Tuner (⭐2.6k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
+*   [Keras Tuner (⭐2.7k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
 
 ## [3. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Others
 
-*   [FFmpegBlazor (⭐87)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐9.2k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+*   [FFmpegBlazor (⭐86)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐9.5k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 
 ### Real-World applications / Others
 
@@ -169,7 +169,7 @@
 
 ### Registries / Web programming
 
-*   [w4/chartered (⭐120)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
+*   [w4/chartered (⭐121)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
 ## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -191,7 +191,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [shaeinst/roshnivim (⭐128)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
+*   [shaeinst/roshnivim (⭐138)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 
 ## [10. Awesome React](/content/enaqx/awesome-react/README.md)
 
@@ -231,7 +231,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.3k)](https://github.com/DouyinFE/semi-design)
+  Source code \*: [:octocat: (⭐6.5k)](https://github.com/DouyinFE/semi-design)
 
 
 - : [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)
@@ -242,15 +242,9 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐80)](https://github.com/govtechsg/sgds)
+  Source code \*: [:octocat: (⭐87)](https://github.com/govtechsg/sgds)
 
 
-
-## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Java / Bootstrap
-
-*   [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)
 
 ---
 

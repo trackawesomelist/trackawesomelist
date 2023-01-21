@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### NixOS Modules / Scala
 
-*   [Stylix (⭐74)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+*   [Stylix (⭐92)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-hbs-admin (⭐88)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
+*   [vue-hbs-admin (⭐89)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
 *   [vite-vue-proste (⭐9)](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
 
 ---

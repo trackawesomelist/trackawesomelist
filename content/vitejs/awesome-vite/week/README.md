@@ -2,7 +2,7 @@
 
 ⚡️ A curated list of awesome things related to Vite.js
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vitejs/awesome-vite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) · ⭐ 8.5K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vitejs/awesome-vite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) · ⭐ 8.5K · 🏷️ Front-End Development
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 

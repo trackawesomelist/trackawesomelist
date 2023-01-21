@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 14, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,7 +11,7 @@
 ### Modules / Utils
 
 *   [colors (⭐1)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
-*   [monke (⭐2)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
+*   [monke (⭐1)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -27,15 +27,15 @@
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [The Ultimate Stable Diffusion Prompt Guide by PromptHero](https://prompthero.com/stable-diffusion-prompt-guide)
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [AITWO.CO](https://aitwo.co/): a AI-powered design platform with multiple features
 
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
 
 *   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
 
@@ -62,7 +62,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mock-dev-server (⭐2)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
+*   [vite-plugin-mock-dev-server (⭐8)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -70,22 +70,17 @@
 
 *   [retrospring (⭐115)](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth\_africa:](https://retrospring.net)
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Accelerated Text (⭐637)](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐637)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
+*   [Accelerated Text (⭐664)](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐664)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
 
 ### Software / Time Tracking
 
-*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐565)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
+*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐656)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
 ---
 
+- Prev: [Dec 15, 2022](/content/2022/12/15/README.md)
 - Next: [Dec 13, 2022](/content/2022/12/13/README.md)

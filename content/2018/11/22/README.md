@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,11 +19,11 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.2k)](https://github.com/domoticz/domoticz), [Clients (⭐96)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`
+*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.2k)](https://github.com/domoticz/domoticz), [Clients (⭐97)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`
 
 ### Software / Pastebins
 
-*   [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code (⭐170)](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
+*   [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code (⭐173)](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
 
 ### Software / Software Development - Project Management
 
@@ -43,7 +43,7 @@
 
 ### Serialization
 
-*   [yojson (⭐255)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
+*   [yojson (⭐257)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

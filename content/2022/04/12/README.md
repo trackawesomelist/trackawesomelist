@@ -2,17 +2,17 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Official
+### Official Resources
 
 *   [Algorand Discord](https://discord.com/invite/YgPTCVk) - Official Algorand Discord server.
 
-### Community / Projects
+### Projects / Wallets
 
 *   [AlgoWorld-Contracts (⭐30)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
 
@@ -72,12 +72,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
+*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
 *   [silverstein-quotes (⭐0)](https://github.com/silversteinsoftware/silverstein_quotes) - Show a random quote from a Silverstein song during shell startup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
+*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

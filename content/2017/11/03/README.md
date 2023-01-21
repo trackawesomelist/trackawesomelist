@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -50,7 +50,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoBoy (⭐237)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
+*   [ArduinoBoy (⭐241)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
 
 ## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -163,7 +163,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Logging
 
-*   [glog (⭐5.8k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
+*   [glog (⭐5.9k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
 
 ### PDF
 
@@ -190,13 +190,13 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### HTML / Barcode
 
-*   [SwiftSoup (⭐3.6k)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
+*   [SwiftSoup (⭐3.7k)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
 
 ### UI / Barcode
 
-*   [AGCircularPicker (⭐616)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
+*   [AGCircularPicker (⭐617)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
 *   [KALoader (⭐105)](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
-*   [MediaBrowser (⭐630)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
+*   [MediaBrowser (⭐632)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
 
 ### Payment / Barcode
 
@@ -204,14 +204,14 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### UICollectionView / Barcode
 
-*   [FSPagerView (⭐6.6k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
-*   [GravitySlider (⭐947)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
+*   [FSPagerView (⭐6.7k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+*   [GravitySlider (⭐964)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 *   [ShelfView-iOS (⭐268)](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 
 ### UITableView / Barcode
 
-*   [GridView (⭐828)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
-*   [ParallaxHeader (⭐997)](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
+*   [GridView (⭐830)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
+*   [ParallaxHeader (⭐999)](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
 
 ### Utility / Barcode
 

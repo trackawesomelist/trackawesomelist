@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### RSS
 
-*   [feedparser (⭐160)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
+*   [feedparser (⭐161)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

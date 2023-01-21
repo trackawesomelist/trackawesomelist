@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Stretto (⭐575)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
+*   [Stretto (⭐577)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐8.5k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐8.8k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐808)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐809)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Game Remakes (⭐326)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+*   [Game Remakes (⭐340)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -84,7 +84,7 @@
 ### Third-party APIs
 
 *   [host\_meta (⭐2)](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (<https://tools.ietf.org/html/rfc6415>) client
-*   [web\_finger (⭐7)](https://github.com/toddsundsted/web_finger) - A WebFinger (<https://tools.ietf.org/html/rfc7033>) client
+*   [web\_finger (⭐8)](https://github.com/toddsundsted/web_finger) - A WebFinger (<https://tools.ietf.org/html/rfc7033>) client
 
 ### Official Documentation Translations
 

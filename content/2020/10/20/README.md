@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### UI
 
-*   [Card Settings (⭐431)](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
+*   [Card Settings (⭐444)](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-toaster (⭐153)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
+*   [vue-toaster (⭐155)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -148,7 +148,7 @@
 
 ### UI / Barcode
 
-*   [NeumorphismKit (⭐41)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
+*   [NeumorphismKit (⭐42)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
 
 ## [11. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -166,15 +166,15 @@
 
 ### Projects / Frameworks
 
-*   [FCF (⭐43)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
+*   [FCF (⭐42)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
 
 ### Projects / Tools
 
-*   [Ott (⭐268)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
+*   [Ott (⭐269)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Coqtail Math (⭐14)](https://github.com/coq-community/coqtail-math) - Library of mathematical results ranging from arithmetic to real and complex analysis.
+*   [Coqtail Math (⭐13)](https://github.com/coq-community/coqtail-math) - Library of mathematical results ranging from arithmetic to real and complex analysis.
 
 ### Resources / Blogs
 
@@ -185,7 +185,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐709)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [minimalist-web-notepad (⭐726)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -199,11 +199,11 @@
 
 ### ORM
 
-*   [Venflow (⭐162)](https://github.com/TwentyFourMinutes/Venflow) - A super fast and lightweight ORM for PostgreSQL.
+*   [Venflow (⭐164)](https://github.com/TwentyFourMinutes/Venflow) - A super fast and lightweight ORM for PostgreSQL.
 
 ### Tools
 
-*   [YARP (⭐6.1k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
+*   [YARP (⭐6.2k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 
 ---
 

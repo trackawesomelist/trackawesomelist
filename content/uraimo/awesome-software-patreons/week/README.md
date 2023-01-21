@@ -2,7 +2,7 @@
 
 A curated list of awesome programmers and software projects you can support!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 443 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 443 · 🏷️ Miscellaneous
 
 [ [Daily](/content/uraimo/awesome-software-patreons/README.md) / Weekly / [Overview](/content/uraimo/awesome-software-patreons/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A curated list of resources for learning about the Laravel PHP Framework
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fukuball/Awesome-Laravel-Education/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fukuball/Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) · ⭐ 356 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fukuball/Awesome-Laravel-Education/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fukuball/Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) · ⭐ 356 · 🏷️ Back-End Development
 
 [ [Daily](/content/fukuball/Awesome-Laravel-Education/README.md) / Weekly / [Overview](/content/fukuball/Awesome-Laravel-Education/readme/README.md) ]
 

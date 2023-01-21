@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -179,7 +179,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### SEO
 
-*   [URL Rewrite (⭐23)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
+*   [URL Rewrite (⭐24)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -207,7 +207,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Framework Components
 
-*   [phx\_component\_helpers (⭐113)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
+*   [phx\_component\_helpers (⭐114)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -227,9 +227,9 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### VLC native plugins
 
-*   [vlc-pause-click-plugin (⭐651)](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click.
+*   [vlc-pause-click-plugin (⭐674)](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click.
 *   [vlc-tip-plugin (⭐43)](https://github.com/aklexel/vlc-tip-plugin) - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
-*   [vlc-bittorrent (⭐337)](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
+*   [vlc-bittorrent (⭐345)](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 
 ### Apps
 
@@ -240,12 +240,12 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 ### Bindings
 
 *   [vlc-unity](https://code.videolan.org/videolan/vlc-unity) - Unity3D integration for VLC.
-*   [python-vlc (⭐297)](https://github.com/oaubert/python-vlc) - Python vlc bindings.
-*   [vlcj (⭐936)](https://github.com/caprica/vlcj) -  Java framework for the vlc media player (desktop).
+*   [python-vlc (⭐312)](https://github.com/oaubert/python-vlc) - Python vlc bindings.
+*   [vlcj (⭐953)](https://github.com/caprica/vlcj) -  Java framework for the vlc media player (desktop).
 *   [LibVLCSharp (⭐1.1k)](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC.
-*   [libvlc-go (⭐320)](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
+*   [libvlc-go (⭐326)](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
 *   [libvlcpp](https://code.videolan.org/videolan/libvlcpp/) - C++ bindings for libvlc.
-*   [dart\_vlc (⭐384)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
+*   [dart\_vlc (⭐416)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
 
 ## [12. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
@@ -270,7 +270,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Contents / Games
 
-*   [FlutterDex (⭐29)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [FlutterDex (⭐36)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

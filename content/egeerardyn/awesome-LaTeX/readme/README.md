@@ -2,7 +2,7 @@
 
 Curated list of LaTeX awesomeness
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/egeerardyn/awesome-LaTeX/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/egeerardyn/awesome-LaTeX/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) · ⭐ 1.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/egeerardyn/awesome-LaTeX/README.md) / [Weekly](/content/egeerardyn/awesome-LaTeX/week/README.md) / Overview ]
 

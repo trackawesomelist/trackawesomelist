@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Navigation / Image Picker
 
-*   [PageView Indicator (⭐158)](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
+*   [PageView Indicator (⭐159)](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 
 ## [3. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
@@ -34,13 +34,13 @@
 
 ### JupyterLab Extensions
 
-*   [drawio (⭐550)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-*   [latex (⭐537)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [variableinspector (⭐946)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
+*   [drawio (⭐551)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
+*   [latex (⭐538)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+*   [variableinspector (⭐949)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 
 ## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Version control / Metric & Metric Collection
+### Software / Version control
 
 *   [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 

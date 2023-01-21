@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 09 - Dec 15, 2019
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -299,7 +299,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐663)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐670)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -311,13 +311,13 @@
 
 ### Status Bar
 
-*   [tmux-nordvpn (⭐14)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
+*   [tmux-nordvpn (⭐15)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 
 ## [20. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Beautiful\_Popup (⭐548)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
+*   [Beautiful\_Popup (⭐566)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
 
 ### Device / Augmented Reality
 
@@ -362,7 +362,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐945)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
+*   [gonic (⭐972)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
 
 ### Software / Money, Budgeting & Management
 
@@ -370,7 +370,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐981)](https://github.com/josephernest/writing)) `MIT` `Javascript`
+*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐982)](https://github.com/josephernest/writing)) `MIT` `Javascript`
 
 ### Software / Proxy
 
@@ -378,11 +378,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐1.8k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
-
-### Software / Wikis
-
-*   [jingo (⭐1k)](https://github.com/claudioc/jingo) - Git based wiki engine written for node.js, with a decent design, a search capability and good typography. `MIT` `Nodejs`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐1.9k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
 
 ## [27. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -390,13 +386,7 @@
 
 *   :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th)
 
-## [28. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
-
-### In English
-
-*   [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) - Tales from the Hardware/Software Interface: “the nerdiest podcast on the face of the planet”.
-
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -406,31 +396,31 @@
 
 *   [FullStory.com](https://www.fullstory.com) — 1,000 sessions/month with 1 month data retention and 3 user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
 
-## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [29. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Convertors / Ruby
 
 *   [Transloc API to GTFS-realtime (⭐2)](https://github.com/jonathonwpowell/transloc-to-gtfs-real-time) - A Node.js based tool to convert the Transloc API to GTFS-realtime.
 
-## [31. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [30. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Miscellaneous / Third Party Hosts
 
 *   [k8s-usenet (⭐75)](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
 
-## [32. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [31. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Security
 
 *   [BryanCrowe/EncryptedType (⭐7)](https://github.com/bcrowe/cakephp-encrypted-type) - Simple solution that enables Encrypted data types to be stored in the database.
 
-## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Vue Expenses (⭐199)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
-## [34. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [33. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Firmware
 
@@ -440,13 +430,13 @@
 
 *   [ESP8266Wifi (⭐437)](https://github.com/ekstrand/ESP8266wifi) - Simple Arduino Wifi library for the 8266.
 
-## [35. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [34. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [navi (⭐12k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 
-## [36. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [35. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -468,19 +458,19 @@
 
 *   [GitHub Actions for Rails Developers](https://www.youtube.com/watch?v=gGUXydw22zw)
 
-## [37. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 
-## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Database Tools
 
-*   [Database Consistency (⭐646)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐708)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
-## [39. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [38. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Client libraries / C/C++
 
@@ -495,24 +485,24 @@
 
 *   [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
 
-## [40. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [39. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services
 
 *   [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
 
-## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [40. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Real-time / Real-time Operating System (RTOS)
 
 *   [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
-*   [FreeRTOS.rs (⭐204)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
+*   [FreeRTOS.rs (⭐205)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
 *   [Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 
 ### Real-time / Real-time tools
 
 *   [RTIC v1.0](https://rtic.rs/1.0/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real time systems:
-    *   [cortex-m rtic (⭐1k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
+    *   [cortex-m rtic (⭐1.1k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐9)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ### Peripheral Access Crates / XMC
@@ -529,19 +519,19 @@
 
 *   [`xmc4-hal`](https://github.com/xmc-rs/xmc4-hal) - ![crates.io](https://img.shields.io/crates/v/xmc4-hal.svg)
 
-## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [The Art of SLOs Workshop Materials](https://cre.page.link/art-of-slos)
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Unofficial
 
 *   [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - Unofficial Discord server dedicated to the Crystal Programming Language
 
-## [44. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [43. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 

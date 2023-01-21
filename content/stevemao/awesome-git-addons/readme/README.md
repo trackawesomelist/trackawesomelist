@@ -2,7 +2,7 @@
 
 :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stevemao/awesome-git-addons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) · ⭐ 1.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stevemao/awesome-git-addons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) · ⭐ 1.6K · 🏷️ Miscellaneous
 
 [ [Daily](/content/stevemao/awesome-git-addons/README.md) / [Weekly](/content/stevemao/awesome-git-addons/week/README.md) / Overview ]
 

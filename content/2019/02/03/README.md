@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Websites / Slides
 
-*   [Phalconist (⭐29)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
+*   [Phalconist (⭐28)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
 ## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -38,23 +38,23 @@
 
 ### operations
 
-*   [rfc7946-to-d3 (⭐10)](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible (⭐892)](https://github.com/d3/d3-geo#d3-geo) conventions.
+*   [rfc7946-to-d3 (⭐10)](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible (⭐904)](https://github.com/d3/d3-geo#d3-geo) conventions.
 *   [geojsontools (⭐18)](https://github.com/micolous/geojsontools): Python tools for manipulating GeoJSON files
 
 ### conversion
 
 *   **CSV**
-    *   [csv2geojson (⭐338)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
+    *   [csv2geojson (⭐341)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
     *   [geojson2dsv (⭐8)](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
-*   [vt-geojson (⭐57)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
-*   [tokml (⭐166)](https://github.com/mapbox/tokml): convert GeoJSON to KML
-*   [wellknown (⭐237)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
+*   [vt-geojson (⭐58)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
+*   [tokml (⭐165)](https://github.com/mapbox/tokml): convert GeoJSON to KML
+*   [wellknown (⭐242)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
 *   [geoxform (⭐13)](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.
 *   **SVG**
-    *   [geojson2svg (⭐162)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
+    *   [geojson2svg (⭐164)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
     *   [geojson-svgify (⭐15)](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
     *   [geojson-to-svg-cli (⭐26)](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
-    *   [svg-to-geojson (⭐106)](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
+    *   [svg-to-geojson (⭐107)](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
 *   [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
 *   [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): convert GeoJSON to/from GeoBuf
 

@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-mdc (⭐57)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
+*   [yew-mdc (⭐58)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Libraries / New Libraries
 
-*   [JaxDF (⭐63)](https://github.com/ucl-bug/jaxdf) - Framework for differentiable simulators with arbitrary discretizations. <img src="https://img.shields.io/github/stars/ucl-bug/jaxdf?style=social" align="center">
+*   [JaxDF (⭐64)](https://github.com/ucl-bug/jaxdf) - Framework for differentiable simulators with arbitrary discretizations. <img src="https://img.shields.io/github/stars/ucl-bug/jaxdf?style=social" align="center">
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Logging
 
-*   [Sejil (⭐106)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
+*   [Sejil (⭐109)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

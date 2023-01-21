@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Laravel File Manager (⭐930)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
+*   [Laravel File Manager (⭐940)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
 ## [2. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [brooklin (⭐801)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
+*   [brooklin (⭐804)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

@@ -2,7 +2,7 @@
 
 18 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,11 +16,11 @@
 
 ### Reinforcement Learning / NLP
 
-*   [Dopamine (⭐9.9k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
+*   [Dopamine (⭐10k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 
 ### Statistics / NLP
 
-*   [weightedcalcs (⭐96)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
+*   [weightedcalcs (⭐98)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 
 ### Distributed Computing / NLP
 
@@ -28,7 +28,7 @@
 
 ### Evaluation / NLP
 
-*   [sklearn-evaluation (⭐341)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-evaluation (⭐356)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -57,7 +57,7 @@
 
 ### UI / Effect
 
-*   [Liquid Swipe (⭐973)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+*   [Liquid Swipe (⭐987)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Guidelines
 
-*   EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
+*   [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en) from the European Data Protection Board (EDPB).
 *   [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 
 ### Incident management (art. 33 and 34)
@@ -81,7 +81,7 @@
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐5.6k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐5.9k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ### Data Protection Authorities (art. 51 -59)
@@ -105,7 +105,7 @@
 ### Related
 
 *   [Privacy Respecting (⭐1.8k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐223k)](https://github.com/sindresorhus/awesome#security)
+*   [Awesome: Security (⭐234k)](https://github.com/sindresorhus/awesome#security)
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [WinPwn (⭐2.5k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+*   [WinPwn (⭐2.6k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
 ## [10. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Packages / Static site generators
 
-*   [Charge (⭐405)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐406)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -163,14 +163,14 @@
 ### Front-End Development
 
 *   [KnockoutJS (⭐91)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐75)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [Dojo Toolkit (⭐77)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 
 ### Back-End Development
 
-*   [Vagrant (⭐566)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐531)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐602)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐84)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Vagrant (⭐573)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐530)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐600)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Dropwizard (⭐85)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 *   [Lumen (⭐317)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 

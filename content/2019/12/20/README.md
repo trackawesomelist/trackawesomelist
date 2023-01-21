@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,7 +45,7 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐802)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
+*   [SwiftCoroutine (⭐808)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Hidden (⭐7.5k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Hidden (⭐7.6k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

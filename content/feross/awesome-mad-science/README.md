@@ -2,7 +2,7 @@
 
 Delightful npm packages that make you say "wow, didn't know that was possible!"
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/feross/awesome-mad-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 feross/awesome-mad-science](https://github.com/feross/awesome-mad-science) · ⭐ 1K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/feross/awesome-mad-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 feross/awesome-mad-science](https://github.com/feross/awesome-mad-science) · ⭐ 1K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/feross/awesome-mad-science/week/README.md) / [Overview](/content/feross/awesome-mad-science/readme/README.md) ]
 

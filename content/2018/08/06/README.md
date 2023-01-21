@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 ### Applications
 
 *   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
-*   [Orion (⭐122)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
+*   [Orion (⭐123)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -29,13 +29,13 @@
 
 *   [Fast Incident Response (FIR) (⭐1.5k)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
 *   [TheHive](https://thehive-project.org/) - Scalable, free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, and CERTs, featuring tight integration with MISP.
-*   [threat\_note (⭐408)](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
+*   [threat\_note (⭐409)](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
 
 ### Incident Response tools / Evidence collection
 
 *   [OSXAuditor (⭐3.1k)](https://github.com/jipegit/OSXAuditor) - Free macOS computer forensics tool.
 *   [OSXCollector (⭐1.8k)](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit for macOS.
-*   [ir-rescue (⭐392)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [ir-rescue (⭐400)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ### Operating System distributions / Firewall appliances or distributions
 
@@ -46,13 +46,13 @@
 
 *   [APTSimulator (⭐2k)](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
 *   [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
-*   [Metta (⭐973)](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
-*   [Network Flight Simulator (`flightsim`) (⭐772)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
+*   [Metta (⭐982)](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
+*   [Network Flight Simulator (`flightsim`) (⭐814)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
 *   [RedHunt OS (⭐1.1k)](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 
 ### Threat intelligence / Threat hunting
 
-*   [MLSec Combine (⭐629)](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
+*   [MLSec Combine (⭐630)](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
 
 ### Transport-layer defenses / Threat signature packages and collections
 
@@ -60,7 +60,7 @@
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [Sticky Keys Slayer (⭐303)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
+*   [Sticky Keys Slayer (⭐308)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
 *   [Windows Secure Host Baseline (⭐1.4k)](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
@@ -87,7 +87,7 @@
 
 ### Utils / Third Party
 
-*   [d3-hsluv (⭐6)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
+*   [d3-hsluv (⭐7)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

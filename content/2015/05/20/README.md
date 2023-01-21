@@ -1,8 +1,8 @@
 # Awesome List Updates on May 20, 2015
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,17 +28,11 @@
 
 *   [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)
 
-## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Miscellaneous / Third Party
-
-*   [d3moji (⭐126)](https://github.com/mathisonian/d3moji) - First class emoji support
-
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Cryptography
 
-*   [libsodium-net (⭐349)](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
+*   [libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
 
 ---
 

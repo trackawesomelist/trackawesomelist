@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,11 +26,11 @@
 
 ### Boilerplate / Mouse Events
 
-*   [cra-template-redux-auth-starter (⭐32)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
+*   [cra-template-redux-auth-starter (⭐33)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-slack-notification (⭐9)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
+*   [react-slack-notification (⭐10)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
 ## [4. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐311)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐309)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Regex
 
-*   [sindresorhus/Regex (⭐308)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [sindresorhus/Regex (⭐311)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [8. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -262,32 +262,18 @@
 
 *   [TCGdex (⭐30)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### BeanShell / Non-X86
+### Blockchain
 
-*   [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
-*   [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
+*   [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
+*   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+*   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
+*   [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 
-### Haskell / Spock Framework
+### Data Science
 
-*   [A Gentle Introduction to Haskell Version 98](https://www.haskell.org/tutorial/) - Paul Hudak, John Peterson, Joseph Fasel
-*   [Haskell no panic](http://lisperati.com/haskell/) - Conrad Barski
-*   [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Yann Esposito
-*   [Speeding Through Haskell](http://www.sthaskell.com) - Arya Popescu
-*   [The Haskell School of Music - From Signals to Symphonies](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) - Paul Hudak (PDF)
-*   [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) - Hal Daum ́e III (PDF)
-
-### Prolog / Zend
-
-*   [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/) - Dennis Merritt
-*   [Concise Intro to Prolog](https://www.cis.upenn.edu/\~matuszek/Concise%20Guides/Concise%20Prolog.html) - David Matuszek
-*   [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/) - David Matuszek
-*   [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) - Daniel Diaz (PDF)
-*   [Prolog Tutorial](https://www.cpp.edu/\~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
-*   [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
-*   [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
-*   [The Power of Prolog](https://www.metalevel.at/prolog) - Markus Triska
+*   [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
 
 ---
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Plugins
 
-*   [Sponge (⭐80)](https://github.com/andreiborisov/sponge) - Clean command history from typos automatically.
+*   [Sponge (⭐97)](https://github.com/andreiborisov/sponge) - Clean command history from typos automatically.
 
 ## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Applications / Security tools
 
-*   [Cherrybomb (⭐662)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+*   [Cherrybomb (⭐706)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 
 ## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -106,14 +106,14 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐267)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
+*   [tiagovla/tokyodark.nvim (⭐279)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [Akka Streams (⭐13k)](https://github.com/akka/akka) \[Scala] - stream processing library on Akka Actors.
-*   [Daggy (⭐139)](https://github.com/synacker/daggy) \[C++] - real-time streams aggregation and catching.
+*   [Daggy (⭐140)](https://github.com/synacker/daggy) \[C++] - real-time streams aggregation and catching.
 
 ---
 

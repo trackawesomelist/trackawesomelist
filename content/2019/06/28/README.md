@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -37,7 +37,7 @@
 
 ### Software / HPGL
 
-*   [HPGLGraphics (⭐15)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+*   [HPGLGraphics (⭐16)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
 ### Community / Ephemera
 
@@ -97,11 +97,11 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐321)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐328)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
-*   [RadioGroup (⭐187)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
+*   [RadioGroup (⭐188)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
 ## [11. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

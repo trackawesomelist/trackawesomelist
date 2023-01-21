@@ -2,7 +2,7 @@
 
 68 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### conversion
 
-*   [togeojson (⭐306)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
+*   [togeojson (⭐311)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -62,33 +62,33 @@
 
 ### Admin Panels
 
-*   [ajenti (⭐6.9k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+*   [ajenti (⭐7k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
 *   [wooey (⭐1.9k)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
 ### Audio
 
 *   Audio
-    *   [audioread (⭐416)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
-    *   [dejavu (⭐5.9k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    *   [audioread (⭐420)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    *   [dejavu (⭐6k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
     *   [kapre (⭐867)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
-    *   [librosa (⭐5.5k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-    *   [matchering (⭐756)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
+    *   [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+    *   [matchering (⭐781)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     *   [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
     *   [pyAudioAnalysis (⭐5.1k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
     *   [pydub (⭐6.6k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
-    *   [TimeSide (⭐338)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
+    *   [TimeSide (⭐340)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
 *   Metadata
     *   [beets (⭐11k)](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-    *   [eyeD3 (⭐416)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
+    *   [eyeD3 (⭐426)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
     *   [mutagen (⭐1.1k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
-    *   [tinytag (⭐573)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+    *   [tinytag (⭐577)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ### Authentication
 
 *   JWT
     *   [pyjwt (⭐4.4k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
     *   [python-jose (⭐1.2k)](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
-    *   [python-jwt (⭐212)](https://github.com/davedoesdev/python-jwt) - A module for generating and verifying JSON Web Tokens.
+    *   [python-jwt (⭐210)](https://github.com/davedoesdev/python-jwt) - A module for generating and verifying JSON Web Tokens.
 
 ### Build Tools
 
@@ -96,20 +96,20 @@
 
 ### Built-in Classes Enhancement
 
-*   [DottedDict (⭐156)](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
+*   [DottedDict (⭐158)](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
 
 ### CMS
 
-*   [feincms (⭐846)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
+*   [feincms (⭐848)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
 *   [Kotti (⭐393)](https://github.com/Kotti/Kotti) - A high-level, Pythonic web application framework built on Pyramid.
-*   [mezzanine (⭐4.5k)](https://github.com/stephenmcd/mezzanine) - A powerful, consistent, and flexible content management platform.
+*   [mezzanine (⭐4.6k)](https://github.com/stephenmcd/mezzanine) - A powerful, consistent, and flexible content management platform.
 *   [plone](https://plone.org/) - A CMS built on top of the open source application server Zope.
 *   [quokka (⭐2.2k)](https://github.com/rochacbruno/quokka) - Flexible, extensible, small CMS powered by Flask and MongoDB.
 
 ### Caching
 
-*   [beaker (⭐497)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
-*   [pylibmc (⭐459)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
+*   [beaker (⭐500)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
+*   [pylibmc (⭐458)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
 *   [python-diskcache](http://www.grantjenks.com/docs/diskcache/) - SQLite and file backed cache backend with faster lookups than memcached and redis.
 
 ### ChatOps Tools
@@ -119,9 +119,9 @@
 ### Code Analysis
 
 *   Code Formatters
-    *   [black (⭐30k)](https://github.com/python/black) - The uncompromising Python code formatter.
-    *   [isort (⭐5.4k)](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
-    *   [yapf (⭐13k)](https://github.com/google/yapf) - Yet another Python code formatter from Google.
+    *   [black (⭐31k)](https://github.com/python/black) - The uncompromising Python code formatter.
+    *   [isort (⭐5.5k)](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+    *   [yapf](https://github.com/google/yapf) - Yet another Python code formatter from Google.
 
 ### Command-line Tools
 
@@ -129,10 +129,10 @@
     *   [httpie (⭐25k)](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
     *   [iredis (⭐2.2k)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
     *   [kube-shell (⭐2.2k)](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI.
-    *   [litecli (⭐1.7k)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
+    *   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
     *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL CLI with autocompletion and syntax highlighting.
     *   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
-    *   [saws (⭐5k)](https://github.com/donnemartin/saws) - A Supercharged [aws-cli (⭐13k)](https://github.com/aws/aws-cli).
+    *   [saws (⭐5.1k)](https://github.com/donnemartin/saws) - A Supercharged [aws-cli (⭐13k)](https://github.com/aws/aws-cli).
 
 ### Compatibility
 
@@ -141,23 +141,23 @@
 ### Concurrency and Parallelism
 
 *   [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) A high-level interface for asynchronously executing callables.
-*   [scoop (⭐571)](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
+*   [scoop (⭐573)](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
 
 ### Configuration
 
-*   [configobj (⭐287)](https://github.com/DiffSK/configobj) - INI file parser with validation.
+*   [configobj (⭐288)](https://github.com/DiffSK/configobj) - INI file parser with validation.
 *   [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
 
 ### Cryptography
 
 *   [passlib](https://passlib.readthedocs.io/en/stable/) - Secure password storage/hashing library, very high level.
-*   [pynacl (⭐936)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐941)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Database
 
-*   [pickleDB (⭐724)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
-*   [tinydb (⭐5.5k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
-*   [ZODB (⭐567)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
+*   [pickleDB (⭐738)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
+*   [tinydb (⭐5.6k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
+*   [ZODB (⭐574)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
 
 ### Database Drivers
 
@@ -170,7 +170,7 @@
     *   [lptrace (⭐687)](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) for Python programs.
     *   [manhole (⭐332)](https://github.com/ionelmc/python-manhole) - Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt.
     *   [pyringe (⭐1.6k)](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
-    *   [python-hunter (⭐705)](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
+    *   [python-hunter (⭐707)](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
 
 ### Deep Learning
 
@@ -179,7 +179,7 @@
 *   [mxnet (⭐20k)](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
 *   [pytorch (⭐61k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [SerpentAI (⭐6.4k)](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
-*   [tensorflow (⭐169k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+*   [tensorflow (⭐170k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 ### Distributed Computing
 
@@ -196,7 +196,7 @@
 ### Documentation
 
 *   [pdoc (⭐1.4k)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
-*   [pycco (⭐807)](https://github.com/pycco-docs/pycco) - The literate-programming-style documentation generator.
+*   [pycco (⭐808)](https://github.com/pycco-docs/pycco) - The literate-programming-style documentation generator.
 
 ### Downloader
 
@@ -223,14 +223,14 @@
 ### Natural Language Processing
 
 *   Chinese
-    *   [funNLP (⭐45k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
+    *   [funNLP (⭐46k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
     *   [jieba (⭐30k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
     *   [pkuseg-python (⭐6k)](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
     *   [snownlp (⭐6k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 
 ### Network Virtualization
 
-*   [mininet (⭐4.6k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
+*   [mininet (⭐4.7k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
 *   [napalm (⭐2k)](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
 
 ### ORM
@@ -239,16 +239,16 @@
     *   [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
     *   [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
         *   [awesome-sqlalchemy (⭐2.5k)](https://github.com/dahlia/awesome-sqlalchemy)
-    *   [dataset (⭐4.2k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
+    *   [dataset (⭐4.3k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
     *   [orator (⭐1.4k)](https://github.com/sdispater/orator) -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
     *   [orm (⭐1.7k)](https://github.com/encode/orm) - An async ORM.
-    *   [peewee (⭐9.6k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
+    *   [peewee (⭐9.7k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
     *   [pony (⭐3.1k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
     *   [pydal (⭐440)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
 
 ### Package Repositories
 
-*   [devpi (⭐622)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
+*   [devpi (⭐629)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
 
 ### Processes
 
@@ -258,7 +258,7 @@
 
 *   [lightfm (⭐4.2k)](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
 *   [spotlight (⭐2.8k)](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
-*   [Surprise (⭐5.6k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
+*   [Surprise (⭐5.7k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
 *   [tensorrec (⭐1.2k)](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ### Search
@@ -270,8 +270,8 @@
 ### Serialization
 
 *   [marshmallow (⭐6.4k)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-*   [pysimdjson (⭐560)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐16k)](https://github.com/lemire/simdjson).
-*   [python-rapidjson (⭐463)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐13k)](https://github.com/Tencent/rapidjson).
+*   [pysimdjson (⭐562)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐16k)](https://github.com/lemire/simdjson).
+*   [python-rapidjson (⭐469)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐13k)](https://github.com/Tencent/rapidjson).
 
 ### Specific Formats Processing
 
@@ -310,15 +310,15 @@
 *   [django-storages (⭐2.3k)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 *   [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 *   [fileconveyor](http://wimleers.com/fileconveyor) - A daemon to detect and sync files to CDNs, S3 and FTP.
-*   [flask-assets (⭐432)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
-*   [webassets (⭐911)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
+*   [flask-assets (⭐433)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
+*   [webassets (⭐912)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 
 ### Web Crawling
 
 *   [feedparser](https://pythonhosted.org/feedparser/) - Universal feed parser.
-*   [grab (⭐2.2k)](https://github.com/lorien/grab) - Site scraping framework.
+*   [grab (⭐2.3k)](https://github.com/lorien/grab) - Site scraping framework.
 *   [MechanicalSoup (⭐4.3k)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
-*   [robobrowser (⭐3.6k)](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
+*   [robobrowser (⭐3.7k)](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 *   [scrapy](https://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
 
 ### WebSocket
@@ -335,16 +335,16 @@
 
 ### Packages / Examples
 
-*   [turtlebot2\_demo (⭐83)](https://github.com/ros2/turtlebot2_demo) - TurtleBot 2 demos using ROS 2. ![turtlebot2\_demo](https://img.shields.io/github/stars/ros2/turtlebot2_demo.svg)
-*   [examples/rclcpp (⭐421)](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
-*   [examples/rclpy (⭐421)](https://github.com/ros2/examples/tree/master/rclpy) - Python examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
+*   [turtlebot2\_demo (⭐82)](https://github.com/ros2/turtlebot2_demo) - TurtleBot 2 demos using ROS 2. ![turtlebot2\_demo](https://img.shields.io/github/stars/ros2/turtlebot2_demo.svg)
+*   [examples/rclcpp (⭐435)](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
+*   [examples/rclpy (⭐435)](https://github.com/ros2/examples/tree/master/rclpy) - Python examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
 *   [rcljava\_examples (⭐6)](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - Package containing examples of how to use the rcljava API. ![ros2\_java\_examples](https://img.shields.io/github/stars/esteve/ros2_java_examples.svg)
 *   [ros2\_talker\_android, ros2\_listener\_android (⭐23)](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings. ![ros2\_android\_examples](https://img.shields.io/github/stars/esteve/ros2_android_examples.svg)
 
 ### Packages / Benchmarking
 
 *   [ros2\_benchmarking (⭐40)](https://github.com/piappl/ros2_benchmarking) - Framework for ROS2 benchmarking. ROS2 communication characteristics can be evaluated on several axes, quickly and in an automated way. ![ros2\_benchmarking](https://img.shields.io/github/stars/piappl/ros2_benchmarking.svg)
-*   [performance\_test (⭐61)](https://github.com/ApexAI/performance_test) - Test performance and latency of various communication means like ROS 2, FastRTPS and Connext DDS Micro. ![performance\_test](https://img.shields.io/github/stars/ApexAI/performance_test.svg)
+*   [performance\_test (⭐62)](https://github.com/ApexAI/performance_test) - Test performance and latency of various communication means like ROS 2, FastRTPS and Connext DDS Micro. ![performance\_test](https://img.shields.io/github/stars/ApexAI/performance_test.svg)
 
 ### Packages / Containerization
 
@@ -353,32 +353,32 @@
 
 ### Packages / Ecosystem
 
-*   [rosbag2 (⭐165)](https://github.com/ros2/rosbag2) - ROS2 native rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
-*   [rviz (⭐153)](https://github.com/ros2/rviz) - 3D Robot Visualizer. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
-*   [ros2cli (⭐108)](https://github.com/ros2/ros2cli) - ROS 2 command line tools. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
+*   [rosbag2 (⭐168)](https://github.com/ros2/rosbag2) - ROS2 native rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
+*   [rviz (⭐159)](https://github.com/ros2/rviz) - 3D Robot Visualizer. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
+*   [ros2cli (⭐111)](https://github.com/ros2/ros2cli) - ROS 2 command line tools. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 *   [orocos\_kinematics\_dynamics (⭐7)](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library. ![orocos\_kinematics\_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
-*   [pydds (⭐21)](https://github.com/atolab/pydds) - Simple DDS Python API for Vortex Lite and for OpenSplice. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
+*   [pydds (⭐22)](https://github.com/atolab/pydds) - Simple DDS Python API for Vortex Lite and for OpenSplice. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
 
 ### Packages / Application layer
 
-*   [ros2\_control (⭐218)](https://github.com/ros-controls/ros2_control) - `ros2_control` is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (`ros2_controllers`). ![ros2\_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
-*   [ros2\_controllers (⭐145)](https://github.com/ros-controls/ros2_controllers) - Description of ros\_controllers. ![ros2\_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
-*   [geometry2 (⭐59)](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
+*   [ros2\_control (⭐224)](https://github.com/ros-controls/ros2_control) - `ros2_control` is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (`ros2_controllers`). ![ros2\_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+*   [ros2\_controllers (⭐152)](https://github.com/ros-controls/ros2_controllers) - Description of ros\_controllers. ![ros2\_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
+*   [geometry2 (⭐60)](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 *   [cartographer (⭐32)](https://github.com/ros2/cartographer) - Real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 *   [teleop\_twist\_keyboard (⭐16)](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS2. ![teleop\_twist\_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 *   [teleop\_twist\_joy (⭐16)](https://github.com/ros2/teleop_twist_joy) - Simple joystick teleop for twist robots. ![teleop\_twist\_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
 *   [diagnostics (⭐1)](https://github.com/bponsler/diagnostics/tree/ros2-devel) - Forked version of the original ROS1 Diagnostics for ROS 2 (currently diagnostics\_updater only). ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
 *   [robot\_state\_publisher (⭐2)](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) - Forked version of the original ROS Robot State Publisher with all modifications to compile within a ROS2 Ecosystem. ![robot\_state\_publisher](https://img.shields.io/github/stars/bponsler/robot_state_publisher.svg)
-*   [common\_interfaces (⭐113)](https://github.com/ros2/common_interfaces) - A set of packages which contain common interface files (.msg and .srv). ![common\_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
+*   [common\_interfaces (⭐121)](https://github.com/ros2/common_interfaces) - A set of packages which contain common interface files (.msg and .srv). ![common\_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
 *   [ros2\_object\_map (⭐13)](https://github.com/intel/ros2_object_map) - "Mark tag of objects on map when SLAM". ![ros2\_object\_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
-*   [ros2\_object\_analytics (⭐88)](https://github.com/intel/ros2_object_analytics) - Object Analytics (OA) is ROS2 wrapper for realtime object detection, localization and tracking. ![ros2\_object\_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
+*   [ros2\_object\_analytics (⭐91)](https://github.com/intel/ros2_object_analytics) - Object Analytics (OA) is ROS2 wrapper for realtime object detection, localization and tracking. ![ros2\_object\_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
 *   [ros2\_intel\_movidius\_ncs (⭐26)](https://github.com/intel/ros2_intel_movidius_ncs) - ROS2 wrapper for Movidius™ Neural Compute Stick (NCS) Neuronal Compute API. ![ros2\_intel\_movidius\_ncs](https://img.shields.io/github/stars/intel/ros2_intel_movidius_ncs.svg)
 *   [ros2\_moving\_object (⭐4)](https://github.com/intel/ros2_moving_object) - Addressing moving objects based on messages generated by Object Analytics `ros2_object_analytics`. ![ros2\_moving\_object](https://img.shields.io/github/stars/intel/ros2_moving_object.svg)
-*   [ros2\_openvino\_toolkit (⭐123)](https://github.com/intel/ros2_openvino_toolkit) - ROS2 wrapper for CV API of OpenVINO™ (human vision emulation). ![ros2\_openvino\_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
+*   [ros2\_openvino\_toolkit (⭐126)](https://github.com/intel/ros2_openvino_toolkit) - ROS2 wrapper for CV API of OpenVINO™ (human vision emulation). ![ros2\_openvino\_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
 *   [ros2\_grasp\_library (⭐132)](https://github.com/intel/ros2_grasp_library) - Probably a grasp library :). ![ros2\_grasp\_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
 *   [ros2-web-bridge (⭐173)](https://github.com/RobotWebTools/ros2-web-bridge) - Bridging your browser to the ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
 *   [ros2\_message\_filters (⭐20)](https://github.com/intel/ros2_message_filters) - ros2\_message\_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message\_filters. ![ros2\_message\_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
-*   [ros2-tensorflow (⭐41)](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
+*   [ros2-tensorflow (⭐43)](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 *   [pid (⭐7)](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS2. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 
 ### Packages / "System" bindings
@@ -388,15 +388,15 @@
 
 ### Packages / Client libraries
 
-*   [rclnodejs (⭐223)](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
+*   [rclnodejs (⭐227)](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 *   [rclada (⭐6)](https://github.com/ada-ros/rclada) - ROS Client Library for Ada. ![rclada](https://img.shields.io/github/stars/ada-ros/rclada.svg)
-*   [rclcpp (⭐328)](https://github.com/ros2/rclcpp) - ROS Client Library for C++. ![rclcpp](https://img.shields.io/github/stars/ros2/rclcpp.svg)
+*   [rclcpp (⭐334)](https://github.com/ros2/rclcpp) - ROS Client Library for C++. ![rclcpp](https://img.shields.io/github/stars/ros2/rclcpp.svg)
 *   [rclgo (⭐48)](https://github.com/juaruipav/rclgo) - ROS Client Library for Go. ![rclgo](https://img.shields.io/github/stars/juaruipav/rclgo.svg)
-*   [rclpy (⭐149)](https://github.com/ros2/rclpy) - ROS Client Library for Python. ![rclpy](https://img.shields.io/github/stars/ros2/rclpy.svg)
+*   [rclpy (⭐155)](https://github.com/ros2/rclpy) - ROS Client Library for Python. ![rclpy](https://img.shields.io/github/stars/ros2/rclpy.svg)
 *   [rcljava (⭐13)](https://github.com/esteve/ros2_java/tree/master/rcljava) - ROS Client Library for Java. ![rcljava](https://img.shields.io/github/stars/esteve/ros2_java.svg)
 *   [rclobjc (⭐19)](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS). ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
-*   [rclc (⭐61)](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
-*   [ros2\_dotnet (⭐93)](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2. ![ros2\_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
+*   [rclc (⭐63)](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
+*   [ros2\_dotnet (⭐94)](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2. ![ros2\_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
 
 ### Packages / Driver layer
 
@@ -406,17 +406,17 @@
 *   [ros2\_raspicam\_node (⭐8)](https://github.com/Misterblue/ros2_raspicam_node) - ROS2 node for Raspberry Pi camera. ![ros2\_raspicam\_node](https://img.shields.io/github/stars/Misterblue/ros2_raspicam_node.svg)
 *   [joystick\_drivers (⭐5)](https://github.com/ros2/joystick_drivers) - ROS2 drivers for joysticks. ![joystick\_drivers](https://img.shields.io/github/stars/ros2/joystick_drivers.svg)
 *   [joystick\_drivers\_from\_scratch (⭐0)](https://github.com/ros2/joystick_drivers_from_scratch) - Joystick driver packages for ROS 2. ![joystick\_drivers\_from\_scratch](https://img.shields.io/github/stars/ros2/joystick_drivers_from_scratch.svg)
-*   [joystick\_ros2 (⭐17)](https://github.com/FurqanHabibi/joystick_ros2) - Joystick driver for ROS2, support all platforms: Linux, macOS, Windows. ![joystick\_ros2](https://img.shields.io/github/stars/FurqanHabibi/joystick_ros2.svg)
-*   [ros2\_teleop\_keyboard (⭐3)](https://github.com/rohbotics/ros2_teleop_keyboard) - Teleop Twist Keyboard for ROS2. ![ros2\_teleop\_keyboard](https://img.shields.io/github/stars/rohbotics/ros2_teleop_keyboard.svg)
+*   [joystick\_ros2 (⭐18)](https://github.com/FurqanHabibi/joystick_ros2) - Joystick driver for ROS2, support all platforms: Linux, macOS, Windows. ![joystick\_ros2](https://img.shields.io/github/stars/FurqanHabibi/joystick_ros2.svg)
+*   [ros2\_teleop\_keyboard (⭐5)](https://github.com/rohbotics/ros2_teleop_keyboard) - Teleop Twist Keyboard for ROS2. ![ros2\_teleop\_keyboard](https://img.shields.io/github/stars/rohbotics/ros2_teleop_keyboard.svg)
 *   [ros\_astra\_camera (⭐8)](https://github.com/ros2/ros_astra_camera) - ROS2 wrapper for Astra camera. ![ros\_astra\_camera](https://img.shields.io/github/stars/ros2/ros_astra_camera.svg)
 *   [ros2\_usb\_camera (⭐44)](https://github.com/klintan/ros2_usb_camera) - ROS2 General USB camera driver. ![ros\_astra\_camera](https://img.shields.io/github/stars/klintan/ros2_usb_camera.svg)
 *   [ros2\_android\_drivers (⭐2)](https://github.com/esteve/ros2_android_drivers) - Collection of ROS2 drivers for several Android sensors. ![ros2\_android\_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
-*   [ros2\_intel\_realsense (⭐126)](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices. ![ros2\_intel\_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
-*   [raspicam2\_node (⭐34)](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2\_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
+*   [ros2\_intel\_realsense (⭐128)](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices. ![ros2\_intel\_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
+*   [raspicam2\_node (⭐35)](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2\_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
 *   [FIROS2 (⭐9)](https://github.com/eProsima/FIROS2) - ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
 *   [lino2\_upper (⭐0)](https://github.com/linorobot2/lino2_upper) - Linorobot on ROS2. ![lino2\_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
 *   [RysROS2 (⭐4)](https://github.com/GroupOfRobots/RysROS2) - ROS2 software stack for MiniRys robots. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
-*   [px4\_to\_ros (⭐23)](https://github.com/eProsima/px4_to_ros) - ROS2/ROS packages for communicate PX4 with ROS. ![px4\_to\_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
+*   [px4\_to\_ros (⭐24)](https://github.com/eProsima/px4_to_ros) - ROS2/ROS packages for communicate PX4 with ROS. ![px4\_to\_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
 *   [multiwii\_ros2 (⭐5)](https://github.com/christianrauch/multiwii_ros2) - ROS2 Node for MultiWii and Cleanflight flight controllers. ![multiwii\_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 *   [ydlidar\_ros2 (⭐1)](https://github.com/Adlink-ROS/ydlidar_ros2) - ROS2 wrapper for ydlidar. ![ydlidar\_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
 
@@ -424,7 +424,7 @@
 
 *   [rcl (⭐88)](https://github.com/ros2/rcl) - Library to support implementation of language specific ROS Client Libraries. ![rcl](https://img.shields.io/github/stars/ros2/rcl.svg)
 *   [system\_tests (⭐25)](https://github.com/ros2/system_tests) - Tests for rclcpp and rclpy. ![system\_tests](https://img.shields.io/github/stars/ros2/system_tests.svg)
-*   [rcl\_interfaces (⭐26)](https://github.com/ros2/rcl_interfaces) - A repository for messages and services used by the ROS client libraries. ![rcl\_interfaces](https://img.shields.io/github/stars/ros2/rcl_interfaces.svg)
+*   [rcl\_interfaces (⭐27)](https://github.com/ros2/rcl_interfaces) - A repository for messages and services used by the ROS client libraries. ![rcl\_interfaces](https://img.shields.io/github/stars/ros2/rcl_interfaces.svg)
 
 ### Packages / IDL generators
 
@@ -437,9 +437,9 @@
 
 ### Packages / RMW (ROS middleware)
 
-*   [rmw (⭐71)](https://github.com/ros2/rmw/tree/master/rmw) - Contains the ROS middleware API. ![rmw](https://img.shields.io/github/stars/ros2/rmw.svg)
+*   [rmw (⭐73)](https://github.com/ros2/rmw/tree/master/rmw) - Contains the ROS middleware API. ![rmw](https://img.shields.io/github/stars/ros2/rmw.svg)
 *   [rmw\_connext\_cpp (⭐25)](https://github.com/ros2/rmw_connext/tree/master/rmw_connext_cpp) - Implement the ROS middleware interface using RTI Connext static code generation in C++. ![rmw\_connext\_cpp](https://img.shields.io/github/stars/ros2/rmw_connext.svg)
-*   [rmw\_fastrtps\_cpp (⭐114)](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++. ![rmw\_fastrtps\_cpp](https://img.shields.io/github/stars/ros2/rmw_fastrtps.svg)
+*   [rmw\_fastrtps\_cpp (⭐118)](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++. ![rmw\_fastrtps\_cpp](https://img.shields.io/github/stars/ros2/rmw_fastrtps.svg)
 *   [rmw\_dps (⭐22)](https://github.com/ros2/rmw_dps) - Implementation of the ROS Middleware (rmw) Interface using Intel's Distributed Publish & Subscribe. ![rmw\_dps](https://img.shields.io/github/stars/ros2/rmw_dps.svg)
 *   [rmw\_opensplice\_cpp (⭐11)](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++. ![rmw\_opensplice\_cpp](https://img.shields.io/github/stars/ros2/rmw_opensplice.svg)
 *   [rmw\_coredx (⭐0)](https://github.com/tocinc/rmw_coredx) - CoreDX DDS integration layer for ROS2. ![tocinc/rmw\_coredx](https://img.shields.io/github/stars/tocinc/rmw_coredx.svg)
@@ -449,22 +449,22 @@
 
 ### Packages / DDS communication mechanism implementations
 
-*   [freertps (⭐86)](https://github.com/ros2/freertps) - A free, portable, minimalist, work-in-progress RTPS implementation. ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg)
+*   [freertps (⭐87)](https://github.com/ros2/freertps) - A free, portable, minimalist, work-in-progress RTPS implementation. ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg)
 *   [Fast-RTPS (⭐1.4k)](https://github.com/eProsima/Fast-RTPS) - Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS). ![Fast-RTPS](https://img.shields.io/github/stars/eProsima/Fast-RTPS.svg)
-*   [OpenSplice (⭐231)](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) :heavy\_dollar\_sign:
+*   [OpenSplice (⭐235)](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) :heavy\_dollar\_sign:
 *   [CoreDX DDS](http://www.twinoakscomputing.com/coredx) - Implementation of Twin Oaks Computing, Inc.. :heavy\_dollar\_sign:
 *   [cdds (⭐7)](https://github.com/atolab/cdds) - Cyclone DDS is developed completely in the open and is undergoing the acceptance process to become part of Eclipse IoT. ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg)
 *   [Micro-XRCE-DDS) (⭐100)](https://github.com/eProsima/Micro-XRCE-DDS) - An XRCE DDS implementation (supported by microROS). ![Micro-XRCE-DDS](https://img.shields.io/github/stars/eProsima/Micro-XRCE-DDS.svg)
 
 ### Packages / Build system (Linux)
 
-*   [meta-ros2 (⭐16)](https://github.com/erlerobot/meta-ros2) - ROS 2 Layer for OpenEmbedded Linux. ![meta-ros2](https://img.shields.io/github/stars/erlerobot/meta-ros2.svg)
+*   [meta-ros2 (⭐17)](https://github.com/erlerobot/meta-ros2) - ROS 2 Layer for OpenEmbedded Linux. ![meta-ros2](https://img.shields.io/github/stars/erlerobot/meta-ros2.svg)
 
 ### Packages / Build system (ROS2)
 
-*   [ci (⭐39)](https://github.com/ros2/ci) - ROS 2 CI Infrastructure. ![ci](https://img.shields.io/github/stars/ros2/ci.svg)
+*   [ci (⭐38)](https://github.com/ros2/ci) - ROS 2 CI Infrastructure. ![ci](https://img.shields.io/github/stars/ros2/ci.svg)
 *   [ament\_cmake\_export\_jars (⭐13)](https://github.com/esteve/ros2_java/tree/master/ament_cmake_export_jars) - The ability to export Java archives to downstream packages in the ament buildsystem in CMake. ![ros2\_java](https://img.shields.io/github/stars/esteve/ros2_java.svg)
-*   [rmw\_implementation\_cmake (⭐71)](https://github.com/ros2/rmw/tree/master/rmw_implementation_cmake) - CMake functions which can discover and enumerate available implementations. ![rmw](https://img.shields.io/github/stars/ros2/rmw.svg)
+*   [rmw\_implementation\_cmake (⭐73)](https://github.com/ros2/rmw/tree/master/rmw_implementation_cmake) - CMake functions which can discover and enumerate available implementations. ![rmw](https://img.shields.io/github/stars/ros2/rmw.svg)
 *   [rmw\_implementation (⭐20)](https://github.com/ros2/rmw_implementation) - CMake infrastructure and dependencies for rmw implementations. ![rmw](https://img.shields.io/github/stars/ros2/rmw_implementation.svg)
 
 ### Papers / ROSCon 2015
@@ -493,12 +493,12 @@
 
 ### UI / UI Helpers
 
-*   [Liquid Pull To Refresh (⭐1k)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
-*   [Offline (⭐829)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+*   [Liquid Pull To Refresh (⭐1.1k)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+*   [Offline (⭐842)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 
 ### UI / Calendar
 
-*   [Table Calendar (⭐1.4k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+*   [Table Calendar (⭐1.5k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
 ### 🇨🇮 Côte d'Ivoire (Ivory Coast) / Misc
 
@@ -843,7 +843,7 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐610)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐627)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### Network / Barcode
 
@@ -851,15 +851,15 @@
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐483)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐490)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### Alert / Barcode
 
-*   [Loaf (⭐987)](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
+*   [Loaf (⭐996)](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
 
 ### Tab / Barcode
 
-*   [CircleBar (⭐784)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+*   [CircleBar (⭐797)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 
 ### UITableView / Barcode
 
@@ -893,7 +893,7 @@
 
 ### Tools / Binary
 
-*   [shellphish fuzzer (⭐610)](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
+*   [shellphish fuzzer (⭐614)](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
 
 ## [30. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -1405,8 +1405,8 @@
 
 ### Hardware / Motor Controllers
 
-*   [grblShield (⭐128)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐810)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [grblShield (⭐129)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+*   [TinyG (⭐818)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Hardware / Accessories
@@ -1421,10 +1421,10 @@
 
 ### Software / HPGL
 
-*   [Chiplotle (⭐23)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
+*   [Chiplotle (⭐24)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 *   [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 *   [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
-*   [djipco/hpgl (⭐30)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+*   [djipco/hpgl (⭐31)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 *   [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
 *   [vec (⭐19)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
 *   [d3-hpgl (⭐19)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
@@ -1433,22 +1433,22 @@
 
 ### Software / G-code
 
-*   [grbl (⭐4.8k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+*   [grbl (⭐4.9k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
 *   [cncjs (⭐1.9k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
 *   [Universal-G-Code-Sender (⭐1.5k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 *   [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
 ### Software / Plotter-Specific
 
-*   [axi (⭐240)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+*   [axi (⭐243)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
 *   [xy (⭐67)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
-*   [LaserGRBL (⭐912)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+*   [LaserGRBL (⭐929)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
 *   [PenPlotter (⭐104)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
-*   [Makelangelo-firmware (⭐140)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+*   [Makelangelo-firmware (⭐142)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
 *   [RoboPaint (⭐116)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
 *   [AxiTurtle (⭐12)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐459)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
-*   [saxi (⭐375)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+*   [GRBL-Plotter (⭐472)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [saxi (⭐382)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
 
@@ -1456,37 +1456,36 @@
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.1k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐344)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
-*   [stipplegen (⭐371)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐278)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [autotrace (⭐352)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [stipplegen (⭐375)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+*   [SquiggleDraw (⭐283)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
 *   [maptrace (⭐114)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
-*   [Drawbot\_image\_to\_gcode\_v2 (⭐136)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+*   [Drawbot\_image\_to\_gcode\_v2 (⭐139)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
 *   [blackstripes (⭐81)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
 *   [Ribbon (⭐227)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
-*   [penplot (⭐255)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
-*   [penkit (⭐124)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+*   [penplot (⭐256)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
+*   [penkit (⭐128)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 *   [generativeExamples (⭐58)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
-*   [scribbleplot (⭐38)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
+*   [scribbleplot (⭐39)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 *   [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
 *   [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
 
 ### Software / Vector Utilities
 
-*   [svgsort (⭐223)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+*   [svgsort (⭐226)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
 *   [svgo (⭐19k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
 *   [Polargraph Optimizer (⭐56)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
-*   [penkit-optimize (⭐124)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
-*   [svg-crowbar (⭐833)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
+*   [penkit-optimize (⭐128)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
+*   [svg-crowbar (⭐834)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 
 ### Software / Fonts
 
 *   [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 *   [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
-*   [hershey-fonts (⭐46)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
-*   [OneLineFonts.com](https://www.onelinefonts.com) - Commercial site with some single-line fonts available for purchase.
+*   [hershey-fonts (⭐48)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -1635,43 +1634,43 @@
 
 ### Platforms
 
-*   [Robot Operating System 2.0 (⭐1.1k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+*   [Robot Operating System 2.0 (⭐1.2k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 
 ### Programming Languages
 
-*   [Q# (⭐134)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐136)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Front-End Development
 
-*   [CSS (⭐4.1k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.2k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.3k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐24k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐5.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐5.7k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
 *   [PICO-8 (⭐2.2k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-*   [Minecraft (⭐273)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐286)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐188)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐192)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐2.5k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐2.6k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Decentralized Systems
 
-*   [EOSIO (⭐66)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+*   [EOSIO (⭐68)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
 ### Miscellaneous
 
-*   [Board Games (⭐203)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
-*   [Scientific Computing (⭐925)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐200)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Board Games (⭐207)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Scientific Computing (⭐946)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+*   [Amazon Sellers (⭐205)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [58. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1767,7 +1766,7 @@
 
 ### PDF
 
-*   [InvoicePrinter (⭐800)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐798)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -1808,7 +1807,7 @@
 
 ### Boilerplates / Themes
 
-*   [Create React App + Ant Design (⭐579)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
+*   [Create React App + Ant Design (⭐580)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
 ## [68. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

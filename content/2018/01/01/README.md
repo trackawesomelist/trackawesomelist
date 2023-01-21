@@ -2,7 +2,7 @@
 
 5 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,14 +18,14 @@
     *   [signal (⭐46)](https://github.com/soumith/torch-signal) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft.
     *   [nn (⭐1.3k)](https://github.com/torch/nn) - Neural Network package for Torch.
     *   [torchnet (⭐993)](https://github.com/torchnet/torchnet) - framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming.
-    *   [nngraph (⭐297)](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
+    *   [nngraph (⭐296)](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
     *   [nnx (⭐96)](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library.
     *   [rnn (⭐932)](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
     *   [dpnn (⭐193)](https://github.com/Element-Research/dpnn) - Many useful features that aren't part of the main nn package.
     *   [dp (⭐346)](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns. **\[Deprecated]**
     *   [optim (⭐195)](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
     *   [unsup (⭐85)](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA). **\[Deprecated]**
-    *   [manifold (⭐133)](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
+    *   [manifold (⭐134)](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
     *   [svm (⭐43)](https://github.com/koraykv/torch-svm) - Torch-SVM library. **\[Deprecated]**
     *   [lbfgs (⭐2)](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs. **\[Deprecated]**
     *   [vowpalwabbit (⭐2)](https://github.com/clementfarabet/vowpal_wabbit) - An old vowpalwabbit interface to torch. **\[Deprecated]**
@@ -33,7 +33,7 @@
     *   [spaghetti (⭐2)](https://github.com/MichaelMathieu/lua---spaghetti) - Spaghetti (sparse linear) module for torch7 by @MichaelMathieu **\[Deprecated]**
     *   [LuaSHKit (⭐3)](https://github.com/ocallaco/LuaSHkit) - A Lua wrapper around the Locality sensitive hashing library SHKit **\[Deprecated]**
     *   [kernel smoothing (⭐5)](https://github.com/rlowrance/kernel-smoothers) - KNN, kernel-weighted average, local linear regression smoothers. **\[Deprecated]**
-    *   [cutorch (⭐333)](https://github.com/torch/cutorch) - Torch CUDA Implementation.
+    *   [cutorch (⭐334)](https://github.com/torch/cutorch) - Torch CUDA Implementation.
     *   [cunn (⭐209)](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation.
     *   [imgraph (⭐22)](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images. **\[Deprecated]**
     *   [videograph (⭐9)](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos. **\[Deprecated]**
@@ -41,7 +41,7 @@
     *   [stitch (⭐4)](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence. **\[Deprecated]**
     *   [sfm (⭐3)](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package. **\[Deprecated]**
     *   [fex (⭐10)](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules. **\[Deprecated]**
-    *   [OverFeat (⭐594)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
+    *   [OverFeat (⭐593)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
     *   [wav2letter (⭐6.2k)](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
@@ -54,8 +54,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [fd-vue (⭐62)](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
-*   [wildfire (⭐178)](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
+*   [fd-vue (⭐63)](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
+*   [wildfire (⭐179)](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
 
 ## [4. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Bindings
 
-*   [Vulkano (⭐3.5k)](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
+*   [Vulkano (⭐3.6k)](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
 
 ---
 

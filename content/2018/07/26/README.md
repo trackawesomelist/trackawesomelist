@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -36,7 +36,7 @@
 
 ### Threat intelligence / Threat hunting
 
-*   [GRASSMARLIN (⭐765)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
+*   [GRASSMARLIN (⭐778)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Tools
 
-*   [Dva Cli (⭐970)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
+*   [Dva Cli (⭐971)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
     lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo (⭐6.7k)](https://github.com/yoshuawuyts/choo).
 
 ### Components / Themes

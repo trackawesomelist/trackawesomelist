@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/preactjs/awesome-preact/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 preactjs/awesome-preact](https://github.com/preactjs/awesome-preact) · ⭐ 713 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/preactjs/awesome-preact/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 preactjs/awesome-preact](https://github.com/preactjs/awesome-preact) · ⭐ 713 · 🏷️ Front-End Development
 
 [ [Daily](/content/preactjs/awesome-preact/README.md) / [Weekly](/content/preactjs/awesome-preact/week/README.md) / Overview ]
 

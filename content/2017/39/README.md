@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 25 - Oct 01, 2017
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -103,7 +103,7 @@
 
 ### Utility / Collection View Layout
 
-*   [VTAcknowledgementsViewController (⭐867)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+*   [VTAcknowledgementsViewController (⭐868)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
 
 ## [9. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -383,7 +383,7 @@
 
 ### Git Tools
 
-*   [RepoZ (⭐820)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
+*   [RepoZ (⭐838)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 
 ### IoC
 
@@ -397,7 +397,7 @@
 
 ### Infrastructure
 
-*   [Fastly Extension (⭐112)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+*   [Fastly Extension (⭐114)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -413,13 +413,13 @@
 
 ### Others / Web project skeletons and generators
 
-*   [find-port (⭐17)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT](https://opensource.org/licenses/MIT).
+*   [find-port (⭐18)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT](https://opensource.org/licenses/MIT).
 
 ## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [VueGL (⭐590)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+*   [VueGL (⭐591)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
 ## [38. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -499,25 +499,7 @@
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/hbase)
 *   [Twitter](https://twitter.com/HBase)
 
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C# / Non-X86
-
-*   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss
-
-### Go / Phoenix
-
-*   [Let's learn Go!](http://go-book.readthedocs.io/en/latest/)
-
-### TrueOS / PicoLisp
-
-*   [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
-
-## [44. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -525,21 +507,21 @@
 
 ### CLI Utilities
 
-*   [TablePrint (⭐845)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐844)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
-## [45. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [44. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 
-## [46. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [45. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** \[19:07]
 
-## [47. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [46. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 

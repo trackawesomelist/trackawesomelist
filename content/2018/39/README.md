@@ -2,7 +2,7 @@
 
 55 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -30,8 +30,8 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐56k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐33k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Apps (⭐57k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐34k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -72,7 +72,7 @@ Rename Index.txt to Index.html
 
 ### Misc
 
-*   [aioserial (⭐107)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
+*   [aioserial (⭐109)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.8k)](https://github.com/pyserial/pyserial).
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -173,18 +173,14 @@ Rename Index.txt to Index.html
 ### Charts
 
 *   [d3-ez (⭐49)](https://github.com/jamesleesaunders/d3-ez) - Easy Reusable D3 Charts & Components \[bar, donut, pie, bubble, rose, heatmap]
-*   [d3-flame-graph (⭐720)](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
-*   [d3-funnel (⭐320)](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
-*   [d3-line (⭐125)](https://github.com/tj/d3-line) - Line chart
-*   [d3-timeseries (⭐141)](https://github.com/mcaule/d3-timeseries) - Time series charting library
+*   [d3-flame-graph (⭐745)](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
+*   [d3-funnel (⭐323)](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 *   [d3plus (⭐1.6k)](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations \[scatter, stacked, line, bar, pie, network, bubble, box, map]
 *   [WebCola (⭐1.8k)](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
 
 ### Utils / Third Party
 
-*   [d3-jetpack (⭐599)](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
-*   [d3-slider (⭐248)](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
-*   [d3kit (⭐420)](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
+*   [d3-jetpack (⭐601)](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 
 ## [21. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -203,25 +199,25 @@ Rename Index.txt to Index.html
 
 ### UI
 
-*   [Stepper Touch (⭐261)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+*   [Stepper Touch (⭐269)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 ### Templates / Preferences
 
-*   [Liquid Pay Payment App (⭐273)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+*   [Liquid Pay Payment App (⭐279)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 
 ### Device / Augmented Reality
 
-*   [Downloader (⭐757)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
-*   [AppAvailability (⭐88)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Downloader (⭐786)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+*   [AppAvailability (⭐89)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Device / Scanner
 
-*   [QR Code Reader (⭐225)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+*   [QR Code Reader (⭐226)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 *   [Fast QR Reader View (⭐287)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Blue (⭐2.1k)](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
+*   [Blue (⭐2.2k)](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 *   [Beacons (⭐76)](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
 
 ### Storage / Bluetooth / NFC / Beacon
@@ -230,7 +226,7 @@ Rename Index.txt to Index.html
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [Place Dialog (⭐46)](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
+*   [Place Dialog (⭐44)](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 *   [App Rating (⭐37)](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 
 ### Communication / Game Engine resources
@@ -693,7 +689,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Examples and funny stuff
 
-*   [crystalworld (⭐39)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+*   [crystalworld (⭐40)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
 
 ### Unofficial
 
@@ -730,22 +726,22 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐961)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐970)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐393)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐394)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐730)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐731)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [53. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Hardware / Opcodes
 
 *   [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the implementation of three 8-bit bidirectional parallel ports.
-*   [Related custom hardware (⭐221)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
+*   [Related custom hardware (⭐232)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
 *   [ESP8266 GB Dev Board (⭐18)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
 *   [ESP8266 GB Printer (⭐39)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
 *   [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - Page with loads of information on the hardware, custom boards to interface with the console and other related projects.
@@ -774,12 +770,12 @@ Webpage: <https://ironcladcoffee.com/>
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
 *   [SameSuite (⭐23)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐132)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐137)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [SameBoy (⭐1.1k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
-*   [Mooneye GB (⭐788)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [SameBoy (⭐1.2k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
+*   [Mooneye GB (⭐807)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
@@ -788,25 +784,22 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Demos / Syntax highlighting packages
 
-*   [matrix-rain-gb (⭐21)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
+*   [matrix-rain-gb (⭐24)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
 
 ### Related projects / Syntax highlighting packages
 
 *   [liblsdj (⭐70)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
-*   [lsdpatch (⭐117)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+*   [lsdpatch (⭐121)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
 
 ### Directories / Syntax highlighting packages
 
-*   [The Game Boy Archive - Salvage (⭐18)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
+*   [The Game Boy Archive - Salvage (⭐22)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
 ## [54. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Software Containers / Metric & Metric Collection
+### Software / Software Containers
 
 *   [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-    *   [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
-    *   [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
-    *   [Portainer](https://portainer.io/) - Simple management UI for Docker.
 
 ## [55. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 

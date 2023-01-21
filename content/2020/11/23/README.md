@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ishan9299/modus-theme-vim (⭐111)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
+*   [ishan9299/modus-theme-vim (⭐114)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Themes
 
-*   [dracula/tmux (⭐343)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
+*   [dracula/tmux (⭐359)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 
 ### Plugins
 
-*   [tmux-notify (⭐64)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
+*   [tmux-notify (⭐66)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -81,14 +81,14 @@
 
 ### Projects / Tools
 
-*   [hs-to-coq (⭐64)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
+*   [hs-to-coq (⭐65)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
 *   [Roosterize (⭐14)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐430)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐442)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
 ## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

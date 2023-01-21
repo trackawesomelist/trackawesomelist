@@ -2,7 +2,7 @@
 
 2 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -29,7 +29,7 @@
 ### Framework Components
 
 *   [passport (⭐159)](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
-*   [phoenix\_html (⭐320)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
+*   [phoenix\_html (⭐319)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
 *   [plug\_cloudflare (⭐20)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
 *   [resin (⭐4)](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 
@@ -81,8 +81,8 @@
 
 ### Testing
 
-*   [espec\_phoenix (⭐132)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
-*   [mix\_test\_watch (⭐835)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
+*   [espec\_phoenix (⭐133)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
+*   [mix\_test\_watch (⭐840)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 
 ### Text and Numbers
 
@@ -96,7 +96,7 @@
 *   [mailchimp (⭐43)](https://github.com/duartejc/mailchimp) - A basic Elixir wrapper for version 3 of the MailChimp API.
 *   [marvel (⭐8)](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
 *   [redtube (⭐7)](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
-*   [riemann (⭐55)](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
+*   [riemann (⭐56)](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
 *   [statix (⭐250)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 
 ### Validations

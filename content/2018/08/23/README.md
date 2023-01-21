@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Machine Learning and Data Science
 
-*   [ML.NET (⭐8.2k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
+*   [ML.NET (⭐8.3k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
 
 ### Protocols
 
@@ -61,8 +61,8 @@
 
 ### Message Queues
 
-*   [asyncio-nats (⭐591)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
-*   [aiokafka (⭐800)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
+*   [asyncio-nats (⭐608)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
+*   [aiokafka (⭐820)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

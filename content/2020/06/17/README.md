@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,19 +10,19 @@
 
 ### Application Templates
 
-*   [JHipster.NET (⭐266)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
+*   [JHipster.NET (⭐271)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
 
 ### Deployment
 
-*   [yuniql (⭐335)](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. <https://yuniql.io>
+*   [yuniql (⭐342)](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. <https://yuniql.io>
 
 ### GIS
 
-*   [DEM Net Elevation API (⭐227)](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
+*   [DEM Net Elevation API (⭐231)](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
 
 ### Real-time Communications
 
-*   [SIPSorcery (⭐927)](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
+*   [SIPSorcery (⭐944)](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
 
 ## [2. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
 
@@ -56,17 +56,17 @@
 
 ### Clients
 
-*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐378)](https://github.com/relevantfruit/nestjs-keycloak-admin)
+*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐328)](https://github.com/relevantfruit/nestjs-keycloak-admin)
 
 ## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Machine Learning / General Purpouse Machine Learning
 
-*   [causalml (⭐3.6k)](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [causalml (⭐3.7k)](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-### Data Manipulation / Data Containers
+### Data Manipulation / Data Frames
 
-*   [vaex (⭐7.4k)](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
+*   [vaex (⭐7.7k)](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-router-compositions (⭐18)](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API.
+*   [vue-router-compositions (⭐19)](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API.
 
 ### Components & Libraries / Utilities
 
-*   [vuex-composition-helpers (⭐278)](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
+*   [vuex-composition-helpers (⭐276)](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
 
 ## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Family Accounting Tool (⭐94)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
+*   [Family Accounting Tool (⭐104)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
 
 ### Software / Note-taking & Editors
 
@@ -130,7 +130,7 @@
 
 ### Tools / XML
 
-*   [trex (⭐719)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
+*   [trex (⭐726)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 
 ### Resources in Other Languages / Spanish
 

@@ -2,7 +2,7 @@
 
 Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ChromeDevTools/awesome-chrome-devtools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) · ⭐ 5.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ChromeDevTools/awesome-chrome-devtools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) · ⭐ 5.2K · 🏷️ Front-End Development
 
 [ [Daily](/content/ChromeDevTools/awesome-chrome-devtools/README.md) / [Weekly](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md) / Overview ]
 

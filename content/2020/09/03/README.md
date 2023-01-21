@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 03, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,13 +26,19 @@
 
 *   [mmenu (⭐2.6k)](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 
-## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Miscellaneous
+
+*   [magenta (⭐18k)](https://github.com/magenta/magenta) - A tool to generate music and art using artificial intelligence.
+
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐777)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [Couler (⭐781)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 
-## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Configuration
 
@@ -50,47 +56,43 @@
 
 *   [PostHog (⭐9.8k)](https://github.com/PostHog/posthog) - Open-source product analytics.
 
-## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
+## [6. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
 ### Tutorials
 
 *   [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - A tutorial on how to integrate Storybook’s dark mode toggle with your React components.
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Machine Learning
+### Software / Miscellaneous
 
-*   [MindsDB (⭐12k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+*   [MindsDB (⭐12k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`
 
-### Miscellaneous
-
-*   [magenta (⭐18k)](https://github.com/magenta/magenta) - A tool to generate music and art using artificial intelligence.
-
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Data Visualization and Mission Control / Annotation
 
 *   [universal-data-tool (⭐1.7k)](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 
-## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [9. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Command aliases
 
 *   `npm up` → `npm update`
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
 *   [JWT Decoder](https://jwt.ssotools.com/) — Online free tool for decoding JWT(JSON web token) and verifying it's signature.
 
-## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [yew-octicons (⭐16)](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 

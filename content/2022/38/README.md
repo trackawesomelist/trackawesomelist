@@ -2,7 +2,7 @@
 
 53 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,13 +24,13 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Python / General-Purpose Machine Learning
 
-*   [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics (⭐187)](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics): A tutorial to help machine learning researchers to automatically obtain optimized machine learning models with the optimal learning performance on any specific task.
+*   [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics (⭐217)](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics): A tutorial to help machine learning researchers to automatically obtain optimized machine learning models with the optimal learning performance on any specific task.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vue-facing-decorator (⭐85)](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
+*   [vue-facing-decorator (⭐92)](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
 
 ## [5. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -48,7 +48,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Image Processing
 
-*   [Real-ESRGAN-GUI (⭐167)](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Real-ESRGAN GUI Wrapper. \[日本語]
+*   [Real-ESRGAN-GUI (⭐199)](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Real-ESRGAN GUI Wrapper. \[日本語]
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -60,8 +60,8 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Form Components / Image Editing
 
-*   [react-advanced-cropper (⭐209)](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
-*   [react-mobile-cropper (⭐7)](https://github.com/advanced-cropper/react-mobile-cropper) - A ready-to-use image cropping library highly inspirited by popular Android croppers. Based on `react-advanced-cropper`.
+*   [react-advanced-cropper (⭐252)](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
+*   [react-mobile-cropper (⭐8)](https://github.com/advanced-cropper/react-mobile-cropper) - A ready-to-use image cropping library highly inspirited by popular Android croppers. Based on `react-advanced-cropper`.
 
 ## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -72,7 +72,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [SPARK](https://www.adacore.com/about-spark) :copyright: — Static analysis and formal verification toolset for Ada.
 *   [CBMC](http://www.cprover.org/cbmc) — Bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses.
 *   [clang-tidy](http://clang.llvm.org/extra/clang-tidy) — clang static analyser.
-*   [clazy (⭐550)](https://github.com/KDE/clazy) — Qt-oriented static code analyzer based on the Clang framework. clazy is a compiler plugin which allows clang to understand Qt semantics. You get more than 50 Qt related compiler warnings, ranging from unneeded memory allocations to misusage of API, including fix-its for automatic refactoring.
+*   [clazy (⭐552)](https://github.com/KDE/clazy) — Qt-oriented static code analyzer based on the Clang framework. clazy is a compiler plugin which allows clang to understand Qt semantics. You get more than 50 Qt related compiler warnings, ranging from unneeded memory allocations to misusage of API, including fix-its for automatic refactoring.
 *   [CMetrics (⭐62)](https://github.com/MetricsGrimoire/CMetrics) — Measures size and complexity for C files.
 *   [CPAchecker](https://cpachecker.sosy-lab.org) — A tool for configurable software verification of C programs.  The name CPAchecker was chosen to reflect that the tool is based on the CPA concepts and is used for checking software programs.
 *   [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
@@ -84,7 +84,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [flint++ (⭐255)](https://github.com/JossWhittle/FlintPlusPlus) — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 *   [Frama-C](http://frama-c.com) — A sound and extensible static analyzer for C code.
 *   [Helix QAC](https://www.perforce.com/products/helix-qac) :copyright: — Enterprise-grade static analysis for embedded software. Supports MISRA, CERT, and AUTOSAR coding standards.
-*   [IKOS (⭐1.7k)](https://github.com/nasa-sw-vnv/ikos) — A sound static analyzer for C/C++ code based on LLVM.
+*   [IKOS (⭐1.8k)](https://github.com/nasa-sw-vnv/ikos) — A sound static analyzer for C/C++ code based on LLVM.
 *   [Joern](https://joern.io) — Open-source code analysis platform for C/C++ based on code property graphs
 *   [LDRA](https://ldra.com) :copyright: — A tool suite including static analysis (TBVISION) to various standards including MISRA C & C++, JSF++ AV, CWE, CERT C, CERT C++ & Custom Rules.
 *   [PC-lint](https://www.gimpel.com) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
@@ -95,28 +95,28 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [splint](http://splint.org) — Annotation-assisted static program checker.
 *   [SVF](http://svf-tools.github.io/SVF) — A static tool that enables scalable and precise interprocedural dependence analysis for C and C++ programs.
 *   [vera++](https://bitbucket.org/verateam/vera/wiki/Introduction) — Vera++ is a programmable tool for verification, analysis and transformation of C++ source code.
-*   [ArchUnitNET (⭐339)](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
+*   [ArchUnitNET (⭐346)](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 *   [code-cracker](http://code-cracker.github.io) — An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 *   [Designite](http://www.designite-tools.com) :copyright: — Designite supports detection of various architecture, design, and implementation smells, computation of various code quality metrics, and trend analysis.
 *   [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) — Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET).
-*   [Infer# (⭐648)](https://github.com/microsoft/infersharp) — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
+*   [Infer# (⭐651)](https://github.com/microsoft/infersharp) — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 *   [NDepend](http://www.ndepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 *   [Puma Scan](https://pumasecurity.io) — Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
-*   [Roslynator (⭐2.5k)](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
+*   [Roslynator (⭐2.6k)](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 *   [Wintellect.Analyzers (⭐86)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 *   [crystal](https://crystal-lang.org) — The Crystal compiler has built-in linting functionality.
-*   [lint (⭐251)](https://github.com/passsy/dart-lint) — An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter
+*   [lint (⭐255)](https://github.com/passsy/dart-lint) — An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter
 *   [Linter for dart](https://dart-lang.github.io/linter) — Style linter for Dart.
 *   [Pascal Analyzer](https://peganza.com/products_pal.html) :copyright: — A static code analysis tool with numerous reports. A free *Lite* version is available with limited reporting.
 *   [Pascal Expert](https://peganza.com/products_pex.html) :copyright: — IDE plugin for code analysis. Includes a subset of Pascal Analyzer reporting capabilities and is available for Delphi versions 2007 and later.
 *   [dialyxir (⭐1.5k)](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
-*   [sobelow (⭐1.3k)](https://github.com/nccgroup/sobelow) — Security-focused static analysis for the Phoenix Framework.
+*   [sobelow (⭐1.4k)](https://github.com/nccgroup/sobelow) — Security-focused static analysis for the Phoenix Framework.
 *   [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
 *   [elvis (⭐406)](https://github.com/inaka/elvis) — Erlang Style Reviewer.
 *   [Primitive Erlang Security Tool (PEST) (⭐93)](https://github.com/okeuday/pest) — A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.
 *   [i-Code CNES for Fortran (⭐42)](https://github.com/lequal/i-CodeCNES) — An open source static code analysis tool for Fortran 77, Fortran 90 and Shell.
 *   [aligncheck](https://gitlab.com/opennota/check) — Find inefficiently packed structs.
-*   [bodyclose (⭐231)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
+*   [bodyclose (⭐232)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
 *   [deadcode (⭐43)](https://github.com/tsenart/deadcode) — Finds unused code.
 *   [dogsled (⭐69)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 *   [errcheck (⭐2k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
@@ -125,10 +125,10 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [go tool vet --shadow](https://golang.org/cmd/vet#hdr-Shadowed_variables) — Reports variables that may have been unintentionally shadowed.
 *   [go vet](https://golang.org/cmd/vet) — Examines Go source code and reports suspicious.
 *   [go-consistent (⭐315)](https://github.com/Quasilyte/go-consistent) — Analyzer that helps you to make your Go programs more consistent.
-*   [go-critic (⭐1.4k)](https://github.com/go-critic/go-critic) — Go source code linter that maintains checks which are currently not implemented in other linters.
+*   [go-critic (⭐1.5k)](https://github.com/go-critic/go-critic) — Go source code linter that maintains checks which are currently not implemented in other linters.
 *   [go/ast](https://golang.org/pkg/go/ast) — Package ast declares the types used to represent syntax trees for Go packages.
 *   [gochecknoglobals (⭐70)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
-*   [goconst (⭐229)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
+*   [goconst (⭐230)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 *   [gocyclo (⭐1.1k)](https://github.com/fzipp/gocyclo) — Calculate cyclomatic complexities of functions in Go source code.
 *   [gofmt -s](https://golang.org/cmd/gofmt) — Checks if the code is properly formatted and could not be further simplified.
 *   [gofumpt (⭐2k)](https://github.com/mvdan/gofumpt) — Enforce a stricter format than `gofmt`, while being backwards-compatible.  That is, `gofumpt` is happy with a subset of the formats that `gofmt` is happy with.
@@ -142,22 +142,22 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [gotype](https://pkg.go.dev/golang.org/x/tools/cmd/gotype) — Syntactic and semantic analysis similar to the Go compiler.
 *   [govulncheck](https://go.dev/blog/vuln) — Govulncheck reports known vulnerabilities that affect Go code.  It uses static analysis of source code or a binary's symbol table to narrow down reports to only those that could affect the application.
     By default, govulncheck makes requests to the Go vulnerability database at <https://vuln.go.dev>. Requests to the vulnerability database contain only module paths, not code or other properties of your program.
-*   [ineffassign (⭐344)](https://github.com/gordonklaus/ineffassign) — Detect ineffectual assignments in Go code.
+*   [ineffassign (⭐345)](https://github.com/gordonklaus/ineffassign) — Detect ineffectual assignments in Go code.
 *   [interfacer (⭐698)](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
-*   [maligned (⭐500)](https://github.com/mdempsky/maligned) — Detect structs that would take less memory if their fields were sorted.
+*   [maligned (⭐501)](https://github.com/mdempsky/maligned) — Detect structs that would take less memory if their fields were sorted.
 *   [misspell (⭐1.2k)](https://github.com/client9/misspell) — Finds commonly misspelled English words.
 *   [nakedret (⭐89)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 *   [nargs (⭐81)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
-*   [prealloc (⭐513)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
+*   [prealloc (⭐516)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 *   [revive](https://revive.run) — Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 *   [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 *   [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
-*   [structslop (⭐674)](https://github.com/orijtech/structslop) — Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
+*   [structslop (⭐675)](https://github.com/orijtech/structslop) — Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
 *   [test](http://golang.org/pkg/testing) — Show location of test failures from the stdlib testing module.
 *   [unconvert (⭐343)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
-*   [unparam (⭐415)](https://github.com/mvdan/unparam) — Find unused function parameters.
+*   [unparam (⭐418)](https://github.com/mvdan/unparam) — Find unused function parameters.
 *   [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
-*   [wsl (⭐176)](https://github.com/bombsimon/wsl) — Enforces empty lines at the right places.
+*   [wsl (⭐177)](https://github.com/bombsimon/wsl) — Enforces empty lines at the right places.
 *   [CodeNarc](https://codenarc.github.io/CodeNarc) — A static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices.
 *   [brittany (⭐689)](https://github.com/lspitzner/brittany) — Haskell source code formatter
 *   [HLint (⭐1.3k)](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
@@ -167,14 +167,14 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Haxe Checkstyle](http://haxecheckstyle.github.io/docs/haxe-checkstyle/home.html) — A static analysis tool to help developers write Haxe code that adheres to a coding standard.
 *   [Checker Framework](https://checkerframework.org) — Pluggable type-checking for Java.
 *   [checkstyle](https://checkstyle.org) — Checking Java source code for adherence to a Code Standard or set of validation rules (best practices).
-*   [ck (⭐280)](https://github.com/mauricioaniche/ck) — Calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files.
+*   [ck (⭐283)](https://github.com/mauricioaniche/ck) — Calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files.
 *   [ckjm](http://www.spinellis.gr/sw/ckjm) — Calculates Chidamber and Kemerer object-oriented metrics by processing the bytecode of compiled Java files.
 *   [CogniCrypt](https://www.eclipse.org/cognicrypt) — Checks Java source and byte code for incorrect uses of cryptographic APIs.
 *   [DesigniteJava](http://www.designite-tools.com/designitejava) :copyright: — DesigniteJava supports detection of various architecture, design, and implementation smells along with computation of various code quality metrics.
 *   [Doop](https://bitbucket.org/yanniss/doop) — Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
 *   [Error-prone](https://errorprone.info) — Catch common Java mistakes as compile-time errors.
 *   [fb-contrib](http://fb-contrib.sourceforge.net) — A plugin for FindBugs with additional bug detectors.
-*   [forbidden-apis (⭐279)](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
+*   [forbidden-apis (⭐280)](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 *   [google-java-format (⭐4.8k)](https://github.com/google/google-java-format) — Google Style Reformat.
 *   [HuntBugs (⭐302)](https://github.com/amaembo/huntbugs) :warning: — Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
 *   [IntelliJ IDEA](https://www.jetbrains.com/idea) :copyright: — Comes bundled with a lot of inspections for Java and Kotlin and includes tools for refactoring, formatting and more.
@@ -188,7 +188,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [SpotBugs](https://spotbugs.github.io) — SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 *   [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 *   [ClosureLinter (⭐109)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
-*   [complexity-report (⭐193)](https://github.com/escomplex/complexity-report) :warning: — Software complexity analysis for JavaScript projects.
+*   [complexity-report (⭐194)](https://github.com/escomplex/complexity-report) :warning: — Software complexity analysis for JavaScript projects.
 *   [DeepScan](https://deepscan.io) :copyright: — An analyzer for JavaScript which targets runtime errors and quality issues rather than coding conventions.
 *   [flow](https://flow.org) — A static type checker for JavaScript.
 *   [hegel](https://hegel.js.org) — A static type checker for JavaScript with a bias on type inference and strong type systems.
@@ -202,30 +202,30 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [TypL](https://typl.dev) — With TypL, you just write completely standard JS, and the tool figures out your types via powerful inferencing.
 *   [xo (⭐7k)](https://github.com/xojs/xo) — Opinionated but configurable ESLint wrapper with lots of goodies included. Enforces strict and readable code.
 *   [yardstick (⭐23)](https://github.com/calmh/yardstick) :warning: — Javascript code metrics.
-*   [StaticLint (⭐110)](https://github.com/julia-vscode/StaticLint.jl) — Static Code Analysis for Julia
+*   [StaticLint (⭐111)](https://github.com/julia-vscode/StaticLint.jl) — Static Code Analysis for Julia
 *   [detekt](https://detekt.github.io/detekt) — Static code analysis for Kotlin code.
 *   [diktat](https://diktat.saveourtool.com) — Strict coding standard for Kotlin and a linter that detects and auto-fixes code smells.
 *   [ktlint](https://ktlint.github.io) — An anti-bikeshedding Kotlin linter with built-in formatter.
-*   [lualint (⭐83)](https://github.com/philips/lualint) — lualint performs luac-based static analysis of global variable usage in Lua source code.
+*   [lualint (⭐84)](https://github.com/philips/lualint) — lualint performs luac-based static analysis of global variable usage in Lua source code.
 *   [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — An IDE for statically typed Lua development.
 *   [mlint](https://mathworks.com/help/matlab/ref/mlint.html) :copyright: — Check MATLAB code files for possible problems.
 *   [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
 *   [nimfmt (⭐75)](https://github.com/FedericoCeratto/nimfmt) — Nim code formatter / linter / style checker
-*   [Sys (⭐195)](https://github.com/PLSysSec/sys) — A static/symbolic Tool for finding bugs in (browser) code. It uses the LLVM AST to find bugs like uninitialized memory access.
+*   [Sys (⭐196)](https://github.com/PLSysSec/sys) — A static/symbolic Tool for finding bugs in (browser) code. It uses the LLVM AST to find bugs like uninitialized memory access.
 *   [VeriFast (⭐290)](https://github.com/verifast/verifast) — A tool for modular formal verification of correctness properties of single-threaded and multithreaded  C and Java programs annotated with preconditions and postconditions written in separation logic.  To express rich specifications, the programmer can define inductive datatypes,  primitive recursive pure functions over these datatypes, and abstract separation logic predicates.
 *   [churn-php (⭐1.3k)](https://github.com/bmitch/churn-php) — Helps discover good candidates for refactoring.
-*   [dephpend (⭐506)](https://github.com/mihaeu/dephpend) — Dependency analysis tool.
+*   [dephpend (⭐507)](https://github.com/mihaeu/dephpend) — Dependency analysis tool.
 *   [deprecation-detector (⭐389)](https://github.com/sensiolabs-de/deprecation-detector) — Finds usages of deprecated (Symfony) code.
-*   [deptrac (⭐2.1k)](https://github.com/sensiolabs-de/deptrac) — Enforce rules for dependencies between software layers.
+*   [deptrac (⭐2.2k)](https://github.com/sensiolabs-de/deptrac) — Enforce rules for dependencies between software layers.
 *   [DesignPatternDetector (⭐105)](https://github.com/Halleck45/DesignPatternDetector) — Detection of design patterns in PHP code.
 *   [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP\_CodeSniffer (⭐9.9k)](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer (⭐12k)](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 *   [GrumPHP (⭐3.9k)](https://github.com/phpro/grumphp) — Checks code on every commit.
-*   [larastan (⭐4.3k)](https://github.com/nunomaduro/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
-*   [parallel-lint (⭐199)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
-*   [Parse (⭐340)](https://github.com/psecio/parse) — A Static Security Scanner.
+*   [larastan (⭐4.4k)](https://github.com/nunomaduro/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
+*   [parallel-lint (⭐202)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
+*   [Parse (⭐341)](https://github.com/psecio/parse) — A Static Security Scanner.
 *   [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
-*   [phan (⭐5.3k)](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
-*   [PHP Architecture Tester (⭐762)](https://github.com/carlosas/phpat) — Easy to use architecture testing tool for PHP.
+*   [phan (⭐5.4k)](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
+*   [PHP Architecture Tester (⭐764)](https://github.com/carlosas/phpat) — Easy to use architecture testing tool for PHP.
 *   [PHP Assumptions (⭐153)](https://github.com/rskuipers/php-assumptions) — Checks for weak assumptions.
 *   [PHP Coding Standards Fixer](https://cs.symfony.com) — Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 *   [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
@@ -239,12 +239,12 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [PHP\_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) — Detects violations of a defined set of coding standards.
 *   [phpcpd (⭐2.2k)](https://github.com/sebastianbergmann/phpcpd) — Copy/Paste Detector for PHP code.
 *   [phpdcd (⭐407)](https://github.com/sebastianbergmann/phpdcd) :warning: — Dead Code Detector (DCD) for PHP code.
-*   [PhpDeprecationDetector (⭐311)](https://github.com/wapmorgan/PhpDeprecationDetector) — Analyzer of PHP code to search issues with deprecated functionality in newer interpreter versions.  It finds removed objects (functions, variables, constants and ini-directives),  deprecated functions functionality, and usage of forbidden names or tricks (e.g. reserved identifiers in newer versions).
+*   [PhpDeprecationDetector (⭐312)](https://github.com/wapmorgan/PhpDeprecationDetector) — Analyzer of PHP code to search issues with deprecated functionality in newer interpreter versions.  It finds removed objects (functions, variables, constants and ini-directives),  deprecated functions functionality, and usage of forbidden names or tricks (e.g. reserved identifiers in newer versions).
 *   [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
 *   [phploc (⭐2.3k)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 *   [PHPMD](https://phpmd.org) — Finds possible bugs in your code.
 *   [PhpMetrics](http://www.phpmetrics.org) — Calculates and visualizes various code quality metrics.
-*   [phpmnd (⭐513)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
+*   [phpmnd (⭐515)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
 *   [PHPQA](https://edgedesigncz.github.io/phpqa) — A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 *   [phpqa - jakzal (⭐1.1k)](https://github.com/jakzal/phpqa) — Many tools for PHP static analysis in one container.
 *   [phpqa - jmolivas (⭐333)](https://github.com/jmolivas/phpqa) — PHPQA all-in-one Analyzer CLI tool.
@@ -252,20 +252,20 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Progpilot (⭐271)](https://github.com/designsecurity/progpilot) — A static analysis tool for security purposes.
 *   [Psalm](https://psalm.dev) — Static analysis tool for finding type errors in PHP applications.
 *   [Tuli (⭐171)](https://github.com/ircmaxell/Tuli) — A static analysis engine.
-*   [twig-lint (⭐117)](https://github.com/asm89/twig-lint) — twig-lint is a lint tool for your twig files.
+*   [twig-lint (⭐118)](https://github.com/asm89/twig-lint) — twig-lint is a lint tool for your twig files.
 *   [WAP](https://securityonline.info/owasp-wap-web-application-protection-project) — Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives by combining static analysis and data mining.
 *   [ZPA](https://felipezorzo.com.br/zpa/) — Z PL/SQL Analyzer (ZPA) is an extensible code analyzer for PL/SQL and Oracle SQL. It can be integrated with SonarQube.
 *   [Perl::Critic](https://metacpan.org/pod/Perl::Critic) — Critique Perl source code for best-practices.
 *   [bandit](https://bandit.readthedocs.io/en/latest) — A tool to find common security issues in Python code.
 *   [Black](https://black.readthedocs.io/en/stable) — The uncompromising Python code formatter.
 *   [Bowler](https://pybowler.io/) — Safe code refactoring for modern Python.  Bowler is a refactoring tool for manipulating Python at the syntax tree level.  It enables safe, large scale code modifications while guaranteeing that the  resulting code compiles and runs. It provides both a simple command line interface  and a fluent API in Python for generating complex code modifications in code.
-*   [Dlint (⭐125)](https://github.com/dlint-py/dlint) — A tool for ensuring Python code is secure.
+*   [Dlint (⭐127)](https://github.com/dlint-py/dlint) — A tool for ensuring Python code is secure.
 *   [fixit](https://pypi.org/project/fixit) — A framework for creating lint rules and corresponding auto-fixes for source code.
 *   [jedi](https://jedi.readthedocs.io/en/latest) — Autocompletion/static analysis library for Python.
-*   [linty fresh (⭐182)](https://github.com/lyft/linty_fresh) — Parse lint errors and report them to Github as comments on a pull request.
+*   [linty fresh (⭐183)](https://github.com/lyft/linty_fresh) — Parse lint errors and report them to Github as comments on a pull request.
 *   [mccabe](https://pypi.org/project/mccabe) — Check McCabe complexity.
 *   [mypy](http://www.mypy-lang.org) — A static type checker that aims to combine the benefits of duck typing and static typing, frequently used with [MonkeyType (⭐4.1k)](https://github.com/Instagram/MonkeyType).
-*   [py-find-injection (⭐117)](https://github.com/uber/py-find-injection) :warning: — Find SQL injection vulnerabilities in Python code.
+*   [py-find-injection (⭐118)](https://github.com/uber/py-find-injection) :warning: — Find SQL injection vulnerabilities in Python code.
 *   [pyanalyze](https://pyanalyze.readthedocs.io/en/latest/) — A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and type errors. It can be extended to add additional rules and perform checks specific to particular functions.
 *   [PyCodeQual](https://pycodequ.al) :copyright: — PyCodeQual gives you insights into complexity and bug risks. It adds automatic reviews to your pull requests.
 *   [pycodestyle](https://pycodestyle.pycqa.org/en/latest) — (Formerly `pep8`) Check Python code against some of the style conventions in PEP 8.
@@ -273,22 +273,22 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [pyflakes](https://pypi.org/project/pyflakes) — Check Python source files for errors.
 *   [pylint](http://pylint.pycqa.org/en/latest) — Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
 *   [pyre-check](https://pyre-check.org) — A fast, scalable type checker for large Python codebases.
-*   [pyright (⭐8.9k)](https://github.com/Microsoft/pyright) — Static type checker for Python, created to address gaps in existing tools like mypy.
-*   [pyroma (⭐160)](https://github.com/regebro/pyroma) — Rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved.
+*   [pyright (⭐9k)](https://github.com/Microsoft/pyright) — Static type checker for Python, created to address gaps in existing tools like mypy.
+*   [pyroma (⭐165)](https://github.com/regebro/pyroma) — Rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved.
 *   [Pysa](https://pyre-check.org/docs/pysa-basics.html) — A tool based on Facebook's pyre-check to identify potential security issues in Python code identified with taint analysis.
 *   [PyT - Python Taint (⭐2.1k)](https://github.com/python-security/pyt) :warning: — A static analysis tool for detecting security vulnerabilities in Python web applications.
 *   [pytype](https://google.github.io/pytype) — A static type analyzer for Python code.
 *   [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
-*   [ruff (⭐3.8k)](https://github.com/charliermarsh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
+*   [ruff (⭐5k)](https://github.com/charliermarsh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
 *   [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
-*   [vulture (⭐2.3k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
+*   [vulture (⭐2.4k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 *   [wemake-python-styleguide](https://wemake-python-stylegui.de) — The strictest and most opinionated python linter ever.
 *   [wily (⭐1k)](https://github.com/tonybaloney/wily) — A command-line tool for archiving, exploring and graphing the complexity of Python source code.
 *   [xenon](https://xenon.readthedocs.io) — Monitor code complexity using [`radon`](https://github.com/rubik/radon).
 *   [goodpractice](http://mangothecat.github.io/goodpractice) — Analyses the source code for R packages and provides best-practice recommendations.
 *   [lintr (⭐1k)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 *   [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
-*   [bundler-audit (⭐2.5k)](https://github.com/rubysec/bundler-audit) — Audit Gemfile.lock for gems with security vulnerabilities reported in [Ruby Advisory Database (⭐907)](https://github.com/rubysec/ruby-advisory-db).
+*   [bundler-audit (⭐2.5k)](https://github.com/rubysec/bundler-audit) — Audit Gemfile.lock for gems with security vulnerabilities reported in [Ruby Advisory Database (⭐910)](https://github.com/rubysec/ruby-advisory-db).
 *   [Fasterer (⭐1.6k)](https://github.com/DamirSvrtan/fasterer) — Common Ruby idioms checker.
 *   [flay](https://ruby.sadi.st/Flay.html) — Flay analyzes code for structural similarities.
 *   [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
@@ -298,44 +298,44 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [rails\_best\_practices](https://rails-bestpractices.com) — A code metric tool for Rails projects
 *   [reek (⭐3.9k)](https://github.com/troessner/reek) — Code smell detector for Ruby.
 *   [RuboCop](https://docs.rubocop.org/rubocop) — A Ruby static code analyzer, based on the community Ruby style guide.
-*   [Rubrowser (⭐588)](https://github.com/blazeeboy/rubrowser) — Ruby classes interactive dependency graph generator.
+*   [Rubrowser (⭐589)](https://github.com/blazeeboy/rubrowser) — Ruby classes interactive dependency graph generator.
 *   [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: — Static code analysis for Ruby.
 *   [rubycritic (⭐3.1k)](https://github.com/whitesmith/rubycritic) — A Ruby code quality reporter.
-*   [rufo (⭐791)](https://github.com/ruby-formatter/rufo) — An opinionated ruby formatter, intended to be used via the command line as a text-editor plugin, to autoformat files on save or on demand.
+*   [rufo (⭐793)](https://github.com/ruby-formatter/rufo) — An opinionated ruby formatter, intended to be used via the command line as a text-editor plugin, to autoformat files on save or on demand.
 *   [SandiMeter](https://rubygems.org/gems/sandi_meter) :warning: — Static analysis tool for checking Ruby code for Sandi Metz' rules.
 *   [Sorbet](https://sorbet.org) — A fast, powerful type checker designed for Ruby.
 *   [Standard Ruby (⭐2.1k)](https://github.com/testdouble/standard) — Ruby Style Guide, with linter & automatic code fixer
 *   [Steep (⭐1.1k)](https://github.com/soutaro/steep) — Gradual Typing for Ruby.
 *   [C2Rust](https://c2rust.com) — C2Rust helps you migrate C99-compliant code to Rust. The translator (or transpiler) produces unsafe Rust code that closely mirrors the input C code.
-*   [cargo udeps (⭐973)](https://github.com/est31/cargo-udeps) — Find unused dependencies in Cargo.toml. It either prints out a "unused crates" line listing the crates,  or it prints out a line saying that no crates were unused.
-*   [cargo-audit](https://rustsec.org) — Audit Cargo.lock for crates with security vulnerabilities reported to the [RustSec Advisory Database (⭐662)](https://github.com/RustSec/advisory-db/).
+*   [cargo udeps (⭐990)](https://github.com/est31/cargo-udeps) — Find unused dependencies in Cargo.toml. It either prints out a "unused crates" line listing the crates,  or it prints out a line saying that no crates were unused.
+*   [cargo-audit](https://rustsec.org) — Audit Cargo.lock for crates with security vulnerabilities reported to the [RustSec Advisory Database (⭐680)](https://github.com/RustSec/advisory-db/).
 *   [cargo-deny](https://embarkstudios.github.io/cargo-deny) — A cargo plugin for linting your dependencies. It can be used either as a command line too, a Rust crate, or a Github action for CI. It checks for valid license information, duplicate crates, security vulnerabilities, and more.
 *   [cargo-expand (⭐1.8k)](https://github.com/dtolnay/cargo-expand) — Cargo subcommand to show result of macro expansion  and #\[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
-*   [cargo-inspect (⭐379)](https://github.com/mre/cargo-inspect) — Inspect Rust code without syntactic sugar to see what the compiler does behind the curtains.
+*   [cargo-inspect (⭐378)](https://github.com/mre/cargo-inspect) — Inspect Rust code without syntactic sugar to see what the compiler does behind the curtains.
 *   [cargo-spellcheck (⭐274)](https://github.com/drahnr/cargo-spellcheck) — Checks all your documentation for spelling and grammar mistakes  with hunspell (ready) and languagetool (preview)
 *   [clippy](https://rust-lang.github.io/rust-clippy) — A code linter to catch common mistakes and improve your Rust code.
 *   [dylint](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy) — A tool for running Rust lints from dynamic libraries. Dylint makes it easy for developers to maintain their own personal lint collections.
-*   [MIRAI (⭐781)](https://github.com/facebookexperimental/MIRAI) — And abstract interpreter operating on Rust's mid-level intermediate language, and providing warnings based on taint analysis.
+*   [MIRAI (⭐789)](https://github.com/facebookexperimental/MIRAI) — And abstract interpreter operating on Rust's mid-level intermediate language, and providing warnings based on taint analysis.
 *   [prae (⭐96)](https://github.com/teenjuna/prae) — Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified.
 *   [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
 *   [Rudra (⭐1.2k)](https://github.com/sslab-gatech/Rudra) — Rust Memory Safety & Undefined Behavior Detection. It is capable of analyzing single Rust packages as well as all the packages on crates.io.
 *   [Rust Language Server (⭐3.6k)](https://github.com/rust-lang-nursery/rls) — Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.
 *   [rust-analyzer](https://rust-analyzer.github.io) — Supports functionality such as 'goto definition', type inference, symbol search, reformatting, and code completion, and enables renaming and refactorings.
-*   [rustfix (⭐787)](https://github.com/rust-lang/rustfix) — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
+*   [rustfix (⭐794)](https://github.com/rust-lang/rustfix) — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 *   [rustfmt (⭐4.8k)](https://github.com/rust-lang/rustfmt) — A tool for formatting Rust code according to style guidelines.
 *   [RustViz (⭐2.2k)](https://github.com/rustviz/rustviz) — RustViz is a tool that generates visualizations  from simple Rust programs to assist users in better  understanding the Rust Lifetime and Borrowing mechanism. It generates SVG files with graphical indicators that integrate  with mdbook to render visualizations of data-flow in Rust programs.
-*   [warnalyzer (⭐74)](https://github.com/est31/warnalyzer) — Show unused code from multi-crate Rust projects
+*   [warnalyzer (⭐75)](https://github.com/est31/warnalyzer) — Show unused code from multi-crate Rust projects
 *   [dbcritic (⭐161)](https://github.com/channable/dbcritic) — dbcritic finds problems in a database schema, such as a missing primary key constraint in a table.
 *   [sqlcheck (⭐2.2k)](https://github.com/jarulraj/sqlcheck) — Automatically identify anti-patterns in SQL queries.
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
-*   [sqlint (⭐395)](https://github.com/purcell/sqlint) — Simple SQL linter.
+*   [sqlint (⭐396)](https://github.com/purcell/sqlint) — Simple SQL linter.
 *   [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
-*   [tsqllint (⭐175)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
+*   [tsqllint (⭐174)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 *   [Visual Expert](https://www.visual-expert.com) :copyright: — Code analysis for PowerBuilder, Oracle, and SQL Server Explores, analyzes, and documents Code
 *   [Scalastyle](http://www.scalastyle.org) — Scalastyle examines your Scala code and indicates potential problems with it.
-*   [scapegoat (⭐469)](https://github.com/sksamuel/scapegoat) — Scala compiler plugin for static code analysis.
+*   [scapegoat (⭐471)](https://github.com/sksamuel/scapegoat) — Scala compiler plugin for static code analysis.
 *   [WartRemover](https://www.wartremover.org) — A flexible Scala code linting tool.
-*   [bashate (⭐293)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
+*   [bashate (⭐294)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
 *   [i-Code CNES for Shell (⭐42)](https://github.com/lequal/i-CodeCNES) — An open source static code analysis tool for Shell and Fortran (77 and 90).
 *   [sh](https://pkg.go.dev/mvdan.cc/sh/v3) — A shell parser, formatter, and interpreter with bash support; includes shfmt
 *   [shellcheck](https://www.shellcheck.net) — ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts.
@@ -345,20 +345,20 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Tailor](https://sleekbyte.github.io/tailor) :warning: — A static analysis and lint tool for source code written in Apple's Swift programming language.
 *   [Frink](http://catless.ncl.ac.uk/Programs/Frink) — A Tcl formatting and static check program (can prettify the program, minimise, obfuscate or just sanity check it).
 *   [Nagelfar](https://sourceforge.net/projects/nagelfar) — A static syntax checker for Tcl.
-*   [tclchecker (⭐49)](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — A static syntax analysis module (as part of [TDK (⭐49)](https://github.com/ActiveState/tdk)).
+*   [tclchecker (⭐50)](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — A static syntax analysis module (as part of [TDK (⭐50)](https://github.com/ActiveState/tdk)).
 *   [Codelyzer](http://codelyzer.com) :warning: — A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
 *   [tslint](https://palantir.github.io/tslint/) :warning: — TSLint has been deprecated as of 2019. Please see this issue for more details:  typescript-eslint is now your best option for linting TypeScript.
     TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.
 *   [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — A set of TSLint rules inspired by the Clean Code handbook.
 *   [tslint-microsoft-contrib (⭐699)](https://github.com/Microsoft/tslint-microsoft-contrib) :warning: — A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.
-*   [TypeScript Call Graph (⭐147)](https://github.com/whyboris/TypeScript-Call-Graph) — CLI to generate an interactive graph of functions and calls from your TypeScript files
+*   [TypeScript Call Graph (⭐148)](https://github.com/whyboris/TypeScript-Call-Graph) — CLI to generate an interactive graph of functions and calls from your TypeScript files
 *   [TypeScript ESLint (⭐13k)](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
 *   [zod](https://zod.dev) — TypeScript-first schema validation with static type inference. The goal is to eliminate duplicative type declarations. With Zod, you declare a validator once and Zod will automatically infer the static TypeScript type. It is easy to compose simpler types into complex data structures.
 *   [Icarus Verilog (⭐2k)](https://github.com/steveicarus/iverilog) — A Verilog simulation and synthesis tool that operates by compiling source code written in IEEE-1364 Verilog into some target format
-*   [svls (⭐273)](https://github.com/dalance/svls) — A Language Server Protocol implementation for Verilog and SystemVerilog, including lint capabilities.
-*   [verible-linter-action (⭐9)](https://github.com/chipsalliance/verible-linter-action) — Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines  of code in Pull Requests automatically.
+*   [svls (⭐284)](https://github.com/dalance/svls) — A Language Server Protocol implementation for Verilog and SystemVerilog, including lint capabilities.
+*   [verible-linter-action (⭐10)](https://github.com/chipsalliance/verible-linter-action) — Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines  of code in Pull Requests automatically.
 *   [Verilator](https://www.veripool.org/verilator) — A tool which converts Verilog to a cycle-accurate behavioral model in C++ or SystemC. Performs lint code-quality checks.
-*   [vscode-verilog-hdl-support (⭐212)](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
+*   [vscode-verilog-hdl-support (⭐213)](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
 
 ### Other / [Other](#other-1)
 
@@ -366,11 +366,11 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Go Meta Linter (⭐3.5k)](https://github.com/alecthomas/gometalinter) :warning: — Concurrently run Go lint tools and normalise their output. Use `golangci-lint` for new projects.
 *   [gokart (⭐2.1k)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 *   [goreporter (⭐3k)](https://github.com/360EntSecGroup-Skylar/goreporter) — Concurrently runs many linters and normalises their output to a report.
-*   [Reviewdog (⭐5.8k)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
+*   [Reviewdog (⭐5.9k)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
 *   [shisho](https://docs.shisho.dev/) — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 *   [Violations Lib (⭐127)](https://github.com/tomasbjerre/violations-lib) — Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
 *   [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
-*   [Polymer-analyzer (⭐413)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
+*   [Polymer-analyzer (⭐414)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
 *   [Reshift](https://www.reshiftsecurity.com) :copyright: — A source code analysis tool for detecting and managing JavaScript security vulnerabilities.
 *   [standard](http://standardjs.com) — An npm module that checks for Javascript Styleguide issues.
 *   [Enlightn](https://www.laravel-enlightn.com/) — A static and dynamic analysis tool for Laravel applications that provides recommendations to improve the performance, security and code reliability of Laravel apps. Contains 120 automated checks.
@@ -381,28 +381,28 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [prospector (⭐1.7k)](https://github.com/PyCQA/prospector) — A wrapper around `pylint`, `pep8`, `mccabe` and others.
 *   [QuantifiedCode (⭐109)](https://github.com/quantifiedcode/quantifiedcode) :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 *   [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
-*   [ERB Lint (⭐429)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
+*   [ERB Lint (⭐433)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 *   [quality (⭐153)](https://github.com/apiology/quality) — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 *   [cargo-bloat (⭐1.7k)](https://github.com/RazrFalcon/cargo-bloat) — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
-*   [rust-audit (⭐320)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
+*   [rust-audit (⭐324)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 *   [alquitran (⭐16)](https://github.com/ferivoz/alquitran) — Inspects tar archives and tries to spot portability issues in regard  to POSIX 2017 pax specification and common tar implementations.
     This project is intended to be used by maintainers of projects who want to offer portable source code archives for as many systems as possible. Checking tar archives with alquitran before publishing them should help spotting issues before they reach distributors and users.
 *   [packj](https://packj.dev) — Packj (pronounced package) is a command line (CLI) tool to vet open-source software packages for "risky" attributes that make them vulnerable to supply chain attacks. This is the tool behind our large-scale security analysis platform Packj.dev that continuously vets packages and provides free reports.
-*   [angr (⭐6.2k)](https://github.com/angr/angr) — Binary code analysis tool that also supports symbolic execution.
-*   [binbloom (⭐367)](https://github.com/quarkslab/binbloom) — Analyzes a raw binary firmware and determines features like endianness or the loading address.  The tool is compatible with all architectures.
+*   [angr (⭐6.3k)](https://github.com/angr/angr) — Binary code analysis tool that also supports symbolic execution.
+*   [binbloom (⭐371)](https://github.com/quarkslab/binbloom) — Analyzes a raw binary firmware and determines features like endianness or the loading address.  The tool is compatible with all architectures.
     Loading address: binbloom can parse a raw binary firmware and determine its loading address. Endianness: binbloom can use heuristics to determine the endianness of a firmware. UDS Database: binbloom can parse a raw binary firmware and check if it contains an array containing UDS command IDs.
-*   [BinSkim (⭐637)](https://github.com/Microsoft/binskim) — A binary static analysis tool that provides security and correctness results for Windows portable executables.
+*   [BinSkim (⭐641)](https://github.com/Microsoft/binskim) — A binary static analysis tool that provides security and correctness results for Windows portable executables.
 *   [Black Duck](https://www.blackducksoftware.com) :copyright: — Tool to analyze source code and binaries for reusable code, necessary licenses and potential security aspects.
 *   [bloaty (⭐4k)](https://github.com/google/bloaty) — Ever wondered what's making your binary big? Bloaty McBloatface will show you a size profile of the binary so you can understand what's taking up space inside. Bloaty performs a deep analysis of the binary. Using custom ELF, DWARF, and Mach-O parsers,  Bloaty aims to accurately attribute every byte of the binary to the symbol or compileunit that produced it.  It will even disassemble the binary looking for references to anonymous data. F
-*   [cwe\_checker (⭐759)](https://github.com/fkie-cad/cwe_checker) — cwe\_checker finds vulnerable patterns in binary executables.
+*   [cwe\_checker (⭐762)](https://github.com/fkie-cad/cwe_checker) — cwe\_checker finds vulnerable patterns in binary executables.
 *   [Ghidra](https://ghidra-sre.org) — A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 *   [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) :copyright: — Binary code analysis tool.
 *   [Jakstab (⭐131)](https://github.com/jkinder/jakstab) — Jakstab is an Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
 *   [JEB Decompiler](https://www.pnfsoftware.com/) :copyright: — Decompile and debug binary code. Break down and analyze document files. Android Dalvik, MIPS, ARM, Intel x86, Java, WebAssembly & Ethereum Decompilers.
-*   [Manalyze (⭐887)](https://github.com/JusticeRage/Manalyze) — A static analyzer, which checks portable executables for malicious content.
+*   [Manalyze (⭐889)](https://github.com/JusticeRage/Manalyze) — A static analyzer, which checks portable executables for malicious content.
 *   [mcsema (⭐2.4k)](https://github.com/lifting-bits/mcsema) — Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode. It translates ("lifts") executable binaries from native machine code to LLVM bitcode, which is very useful for performing program analysis methods.
-*   [Nauz File Detector (⭐423)](https://github.com/horsicq/Nauz-File-Detector) — Static Linker/Compiler/Tool detector for Windows, Linux and MacOS.
-*   [VMware chap (⭐306)](https://github.com/vmware/chap) — chap analyzes un-instrumented ELF core files for leaks, memory growth, and corruption.  It is sufficiently reliable that it can be used in automation to catch leaks before  they are committed. As an interactive tool, it helps explain memory growth,  can identify some forms of corruption, and supplements a debugger  by giving the status of various memory locations.
+*   [Nauz File Detector (⭐424)](https://github.com/horsicq/Nauz-File-Detector) — Static Linker/Compiler/Tool detector for Windows, Linux and MacOS.
+*   [VMware chap (⭐307)](https://github.com/vmware/chap) — chap analyzes un-instrumented ELF core files for leaks, memory growth, and corruption.  It is sufficiently reliable that it can be used in automation to catch leaks before  they are committed. As an interactive tool, it helps explain memory growth,  can identify some forms of corruption, and supplements a debugger  by giving the status of various memory locations.
 *   [zydis](https://zydis.re) — Fast and lightweight x86/x86-64 disassembler library
 *   [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint\&sektion=1\&manpath=FreeBSD+8.1-RELEASE+and+Ports) — A verifier for FreeBSD and DragonFlyBSD port directories.
 *   [CSS Stats](https://cssstats.com) — Potentially interesting stats on stylesheets.
@@ -418,7 +418,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [dotenv-linter](https://dotenv-linter.readthedocs.io/en/latest) — Linting dotenv files like a charm.
 *   [dotenv-linter (Rust)](https://dotenv-linter.github.io/#/) — Lightning-fast linter for .env files. Written in Rust
 *   [ansible-lint](https://docs.ansible.com/ansible-lint) — Checks playbooks for practices and behaviour that could potentially be improved.
-*   [AWS CloudFormation Guard (⭐1k)](https://github.com/aws-cloudformation/cloudformation-guard) — Check local CloudFormation templates against policy-as-code rules  and generate rules from existing templates.
+*   [AWS CloudFormation Guard (⭐1.1k)](https://github.com/aws-cloudformation/cloudformation-guard) — Check local CloudFormation templates against policy-as-code rules  and generate rules from existing templates.
 *   [cfn-lint (⭐2.1k)](https://github.com/awslabs/cfn-python-lint) — AWS Labs CloudFormation linter.
 *   [cfn\_nag (⭐1.1k)](https://github.com/stelligent/cfn_nag) — A linter for AWS CloudFormation templates.
 *   [checkov](https://www.checkov.io) — Static analysis tool for Terraform files (tf>=v0.12), preventing cloud misconfigs at build time.
@@ -431,7 +431,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [anchore](https://anchore.io) — Discover, analyze, and certify container images. A service that analyzes Docker images and applies user-defined acceptance policies  to allow automated container image validation and certification
 *   [clair (⭐9.2k)](https://github.com/coreos/clair) — Vulnerability Static Analysis for Containers.
 *   [dagda (⭐1k)](https://github.com/eliasgranderubio/dagda) — Perform static analysis of known vulnerabilities in docker images/containers.
-*   [Haskell Dockerfile Linter (⭐7.9k)](https://github.com/lukasmartinelli/hadolint) — A smarter Dockerfile linter that helps you build best practice Docker images.
+*   [Haskell Dockerfile Linter (⭐8k)](https://github.com/lukasmartinelli/hadolint) — A smarter Dockerfile linter that helps you build best practice Docker images.
 *   [OpenSCAP](https://www.open-scap.org/) — Suite of automated audit tools to examine the configuration and  known vulnerabilities following the NIST-certified Security  Content Automation Protocol (SCAP).
 *   [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — Container native application protection to provide visibility and control of containerized applications.
 *   [sysdig](https://sysdig.com/) :copyright: — A secure DevOps platform for cloud and container forensics. Built on an open source stack, Sysdig provides Docker image scanning and created Falco, the open standard for runtime threat detection for containers, Kubernetes and cloud.
@@ -443,30 +443,30 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [HTML Inspector (⭐2.3k)](https://github.com/philipwalton/html-inspector) :warning: — HTML Inspector is a code quality tool to help you and your team write better markup.
 *   [HTML Tidy](http://www.html-tidy.org) — Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
 *   [HTMLHint](https://htmlhint.com) — A Static Code Analysis Tool for HTML.
-*   [clusterlint (⭐496)](https://github.com/digitalocean/clusterlint) — Clusterlint queries live Kubernetes clusters for resources, executes common and  platform specific checks against these resources and provides actionable feedback to cluster operators.  It is a non invasive tool that is run externally. Clusterlint does not alter the resource configurations.
+*   [clusterlint (⭐501)](https://github.com/digitalocean/clusterlint) — Clusterlint queries live Kubernetes clusters for resources, executes common and  platform specific checks against these resources and provides actionable feedback to cluster operators.  It is a non invasive tool that is run externally. Clusterlint does not alter the resource configurations.
 *   [Datree](https://datree.io/) — A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
 *   [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — Hunt for security weaknesses in Kubernetes clusters.
 *   [kube-lint (⭐157)](https://github.com/viglesiasce/kube-lint) — A linter for Kubernetes resources with a customizable rule set. You define a list of rules that you would like to validate against your  resources and kube-lint will evaluate those rules against them.
 *   [kube-linter (⭐2.1k)](https://github.com/stackrox/kube-linter) — KubeLinter is a static analysis tool that checks Kubernetes YAML files  and Helm charts to ensure the applications represented in them adhere to best practices.
 *   [kube-score](https://kube-score.com) — Static code analysis of your Kubernetes object definitions.
-*   [kubeconform (⭐777)](https://github.com/yannh/kubeconform) — A fast Kubernetes manifests validator with support for custom resources.
+*   [kubeconform (⭐841)](https://github.com/yannh/kubeconform) — A fast Kubernetes manifests validator with support for custom resources.
     It is inspired by, contains code from and is designed to stay close to [Kubeval](https://analysis-tools.dev/tool/kubeval), but with the following improvements: \* high performance: will validate & download manifests over multiple routines, caching downloaded files in memory \* configurable list of remote, or local schemas locations, enabling validating Kubernetes custom resources (CRDs) and offline validation capabilities \* uses by default a self-updating fork of the schemas registry maintained by the kubernetes-json-schema project - which guarantees up-to-date schemas for all recent versions of Kubernetes.
 *   [KubeLinter (⭐2.1k)](https://github.com/stackrox/kube-linter) — KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 *   [lacheck](https://www.ctan.org/pkg/lacheck) — A tool for finding common mistakes in LaTeX documents.
 *   [TeXLab](https://texlab.netlify.app) — A Language Server Protocol implementation for TeX/LaTeX, including lint capabilities.
 *   [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
-*   [mdl (⭐1.4k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
+*   [mdl (⭐1.5k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 *   [remark-lint](https://remark.js.org) — Pluggable Markdown code style linter written in JavaScript.
-*   [FlowDroid (⭐792)](https://github.com/secure-software-engineering/FlowDroid) — Static taint analysis tool for Android applications.
+*   [FlowDroid (⭐801)](https://github.com/secure-software-engineering/FlowDroid) — Static taint analysis tool for Android applications.
 *   [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
 *   [Oversecured](https://oversecured.com) :copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.
 *   [redex](https://fbredex.com) — Redex provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes  that use this framework to improve the bytecode. An APK optimized by Redex should be smaller and faster.
 *   [statix](https://git.peppe.rs/languages/statix/about/) — Lints and suggestions for the Nix programming language. "statix check" highlights antipatterns in Nix code. "statix fix" can fix several such occurrences.
 *   [lockfile-lint (⭐700)](https://github.com/lirantal/lockfile-lint) — Lint an npm or yarn lockfile to analyze and detect security issues
 *   [njsscan](https://opensecurity.in) — A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
-*   [rpmlint (⭐104)](https://github.com/rpm-software-management/rpmlint) — Tool for checking common errors in rpm packages.
-*   [protolint (⭐343)](https://github.com/yoheimuta/protolint) — Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
-*   [detect-secrets (⭐2.6k)](https://github.com/Yelp/detect-secrets) — An enterprise friendly way of detecting and preventing secrets in code.
+*   [rpmlint (⭐103)](https://github.com/rpm-software-management/rpmlint) — Tool for checking common errors in rpm packages.
+*   [protolint (⭐351)](https://github.com/yoheimuta/protolint) — Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+*   [detect-secrets (⭐2.7k)](https://github.com/Yelp/detect-secrets) — An enterprise friendly way of detecting and preventing secrets in code.
     It does this by running periodic diff outputs against heuristically crafted regex statements,  to identify whether any new secret has been committed. This way, it avoids the overhead of digging  through all git history, as well as the need to scan the entire repository every time.
 *   [Gitleaks (⭐11k)](https://github.com/zricethezav/gitleaks) — A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
 *   [PT Application Inspector](https://www.ptsecurity.com) :copyright: — Identifies code flaws and detects vulnerabilities to prevent web attacks. Demonstrates remote code execution by presenting possible exploits.
@@ -476,20 +476,20 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
     TruffleHog is an open source secret-scanning engine that resolves exposed secrets across your company’s entire tech stack.
 *   [Tsunami Security Scanner (⭐7.7k)](https://github.com/google/tsunami-security-scanner) — A general purpose network security scanner with an extensible plugin system for  detecting high severity RCE-like vulnerabilities with high confidence. Custom detectors for finding vulnerabilities (e.g. open APIs) can be added.
 *   [MythX](https://mythx.io) :copyright: — MythX is an easy to use analysis platform which integrates several analysis methods like fuzzing, symbolic execution and static analysis to find vulnerabilities with high precision. It can be integrated with toolchains like Remix or VSCode or called from the command-line.
-*   [slither (⭐3.5k)](https://github.com/trailofbits/slither) — Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
+*   [slither (⭐3.6k)](https://github.com/trailofbits/slither) — Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
 *   [solium](https://ethlint.readthedocs.io/en/latest) — Solium is a linter to identify and fix style and security issues in Solidity smart contracts.
 *   [haml-lint (⭐282)](https://github.com/sds/haml-lint) — Tool for writing clean and consistent HAML.
-*   [slim-lint (⭐185)](https://github.com/sds/slim-lint) — Configurable tool for analyzing Slim templates.
+*   [slim-lint (⭐186)](https://github.com/sds/slim-lint) — Configurable tool for analyzing Slim templates.
 *   [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
 *   [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) — Vue tooling for VS Code, powered by vls (vue language server). Vetur has support for formatting embedded HTML, CSS, SCSS, JS, TypeScript, and more. Vetur only has a "whole document formatter" and cannot format arbitrary ranges.
 *   [alex](https://alexjs.com) — Catch insensitive, inconsiderate writing
-*   [codespell (⭐1k)](https://github.com/codespell-project/codespell) — Check code for common misspellings.
+*   [codespell (⭐1.1k)](https://github.com/codespell-project/codespell) — Check code for common misspellings.
 *   [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 *   [misspell-fixer (⭐184)](https://github.com/vlajos/misspell-fixer) — Quick tool for fixing common misspellings, typos in source code.
 *   [Misspelled Words In Context](https://jwilk.net/software/mwic) — A spell-checker that groups possible misspellings and shows them in their contexts.
 *   [proselint](http://proselint.com) — A linter for English prose with a focus on writing style instead of grammar.
 *   [vale](https://docs.errata.ai/vale/about) — A syntax-aware linter for prose built with speed and extensibility in mind.
-*   [write-good (⭐4.7k)](https://github.com/btford/write-good) — A linter with a focus on eliminating "weasel words".
+*   [write-good (⭐4.8k)](https://github.com/btford/write-good) — A linter with a focus on eliminating "weasel words".
 
 ### Multiple languages / [Other](#other-1)
 
@@ -502,10 +502,10 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [ArchUnit](https://www.archunit.org) — Unit test your Java or Kotlin architecture.
 *   [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: — Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95.
 *   [Better Code Hub](https://bettercodehub.com) :copyright: — Better Code Hub checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group.
-*   [callGraph (⭐79)](https://github.com/koknat/callGraph) — Statically generates a call graph image and displays it on screen.
+*   [callGraph (⭐81)](https://github.com/koknat/callGraph) — Statically generates a call graph image and displays it on screen.
 *   [CAST Highlight](https://www.castsoftware.com/products/highlight) :copyright: — Commercial Static Code Analysis which runs locally, but uploads the results to its cloud for presentation.
 *   [Checkmarx CxSAST](https://www.checkmarx.com/products/static-application-security-testing) :copyright: — Commercial Static Code Analysis which doesn't require pre-compilation.
-*   [ClassGraph (⭐2.3k)](https://github.com/classgraph/classgraph) — A classpath and module path scanner for querying or visualizing class metadata or class relatedness.
+*   [ClassGraph (⭐2.4k)](https://github.com/classgraph/classgraph) — A classpath and module path scanner for querying or visualizing class metadata or class relatedness.
 *   [Clayton](https://www.getclayton.com/) :copyright: — AI-powered code reviews for Salesforce. Secure your developments, enforce best practice and control your technical debt in real-time.
 *   [Cobra](https://spinroot.com/cobra) :copyright: — Structural source code analyzer by NASA's Jet Propulsion Laboratory.
 *   [Codacy](https://www.codacy.com) :copyright: — Code Analysis to ship Better Code, Faster.
@@ -517,7 +517,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [CodeFlow](https://www.getcodeflow.com) :copyright: — Automated code analysis tool to deal with technical depth. Integrates with Bitbucket and Gitlab. (free for Open Source Projects)
 *   [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ provides a fast, automated way to ensure that your source code adheres to (your) predefined design and style guidelines as well as best coding practices.
 *   [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) :copyright: — Automated SAST code reviews driven by security, supports 15+ languages and includes security training.
-*   [codeql (⭐5.5k)](https://github.com/github/codeql) — Deep code analysis - semantic queries and dataflow for several languages with VSCode plugin support.
+*   [codeql (⭐5.6k)](https://github.com/github/codeql) — Deep code analysis - semantic queries and dataflow for several languages with VSCode plugin support.
 *   [Coderrect](https://coderrect.com/) :copyright: — Advanced static analyzer for multi-threaded software. Supports OpenMP, Pthreads, std::thread, and GPU/CUDA.
 *   [CodeRush](https://www.devexpress.com/products/coderush) :copyright: — Code creation, debugging, navigation, refactoring, analysis and visualization tools that use the Roslyn engine in Visual Studio 2015 and up.
 *   [CodeScan](https://www.codescan.io/) :copyright: — Code Quality and Security for Salesforce Developers. Made exclusively for the Salesforce platform, CodeScan’s code analysis solutions provide you with total visibility into your code health.
@@ -529,7 +529,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of thread comments and/or annotations.
 *   [DeepSource](https://deepsource.io) :copyright: — In-depth static analysis to find issues in verticals of bug risks, security, anti-patterns, performance, documentation and style. Native integrations with GitHub, GitLab and Bitbucket. Less than 5% false positives.
 *   [Depends (⭐140)](https://github.com/multilang-depends/depends) — Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby.
-*   [DevSkim (⭐762)](https://github.com/microsoft/devskim) — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
+*   [DevSkim (⭐764)](https://github.com/microsoft/devskim) — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 *   [Embold](https://embold.io) :copyright: — Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
 *   [ESLint (⭐22k)](https://github.com/eslint/eslint) — An extensible linter for JS, following the ECMAScript standard.
 *   [Find Security Bugs](https://find-sec-bugs.github.io) — The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
@@ -558,7 +558,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Prettier](https://prettier.io) — An opinionated code formatter.
 *   [Pronto (⭐2.5k)](https://github.com/prontolabs/pronto) — Quick automated code review of your changes. Supports more than 40 runners for various languages, including Clang, Elixir, JavaScript, PHP, Ruby and more.
 *   [PT.PM (⭐58)](https://github.com/PositiveTechnologies/PT.PM) :warning: — An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL.
-*   [Putout (⭐419)](https://github.com/coderaiser/putout) — Pluggable and configurable code transformer with built-in eslint, babel plugins support for js, jsx typescript, flow, markdown, yaml and json.
+*   [Putout (⭐427)](https://github.com/coderaiser/putout) — Pluggable and configurable code transformer with built-in eslint, babel plugins support for js, jsx typescript, flow, markdown, yaml and json.
 *   [pylama](https://klen.github.io/pylama/) — Code audit tool for Python and JavaScript. Wraps pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, and more
 *   [relint (⭐40)](https://github.com/codingjoe/relint) — A static file linter that allows you to write custom rules using regular expressions (RegEx).
 *   [ReSharper](https://www.jetbrains.com/resharper) :copyright: — Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
@@ -573,7 +573,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Semgrep](https://semgrep.dev) — A fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time. Its rules look like the code you already write;  no abstract syntax trees or regex wrestling. Supports 17+ languages.
 *   [ShiftLeft](https://www.shiftleft.io) :copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
 *   [ShiftLeft Scan](https://slscan.io) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
-*   [shipshape (⭐262)](https://github.com/google/shipshape) :warning: — Static program analysis platform that allows custom analyzers to plug in through a common interface.
+*   [shipshape (⭐263)](https://github.com/google/shipshape) :warning: — Static program analysis platform that allows custom analyzers to plug in through a common interface.
 *   [Sider](https://sider.review) :copyright: — An automated code reviewing tool. Improving developers' productivity.
 *   [Sigrid](https://www.softwareimprovementgroup.com/solutions/sigrid-software-assurance-platform/) :copyright: — Sigrid helps you to improve your software by measuring your system's code quality,  and then compares the results against a benchmark of thousands of industry systems to give you concrete advice on areas where you can improve.
 *   [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) — A tool that finds similarities between or within files to support you encountering DRY principle violations.
@@ -583,7 +583,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Sonatype](https://www.sonatype.com) :copyright: — Reports known vulnerabilities in common dependencies and recommends updated packages to minimize breaking changes
 *   [Soto Platform](https://www.hello2morrow.com/products/sotograph) :copyright: — Suite of static analysis tools consisting of the three components Sotoarc (Architecture Analysis), Sotograph (Quality Analysis), and Sotoreport (Quality report). Helps find differences between architecture and implementation, interface violations (e.g. external access of private parts of subsystems, detection of all classes, files, packages and subsystems which are strongly coupled by cyclical relationships and more. The Sotograph product family runs on Windows and Linux.
 *   [SourceMeter](https://www.sourcemeter.com/) :copyright: — Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
-*   [sqlvet (⭐458)](https://github.com/houqp/sqlvet) — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
+*   [sqlvet (⭐460)](https://github.com/houqp/sqlvet) — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
 *   [Super-Linter (⭐8.4k)](https://github.com/github/super-linter) — Combination of multiple linters to install as a GitHub Action.
 *   [Svace](https://www.ispras.ru/en/technologies/svace/) :copyright: — Static code analysis tool for Java,C,C++,C#,Go.
 *   [Synopsys](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: — A commercial static analysis platform that allows for scanning of multiple languages (C/C++, Android, C#, Java, JS, PHP, Python, Node.JS, Ruby, Fortran, and Swift).
@@ -599,7 +599,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Unibeautify](https://unibeautify.com) — Universal code beautifier with a GitHub app. Supports HTML, CSS, JavaScript, TypeScript, JSX, Vue, C++, Go, Objective-C, Java, Python, PHP, GraphQL, Markdown, and more.
 *   [Upsource](https://www.jetbrains.com/upsource) :copyright: — Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.
 *   [Veracode](http://www.veracode.com/products/static-analysis-sast/static-code-analysis) :copyright: — Find flaws in binaries and bytecode without requiring source. Support all major programming languages: Java, .NET, JavaScript, Swift, Objective-C, C, C++ and more.
-*   [WALA (⭐600)](https://github.com/wala/WALA) — Static analysis capabilities for Java bytecode and related languages and for JavaScript.
+*   [WALA (⭐605)](https://github.com/wala/WALA) — Static analysis capabilities for Java bytecode and related languages and for JavaScript.
 *   [weggli (⭐2k)](https://github.com/googleprojectzero/weggli) — A fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.
 *   [WhiteHat Application Security Platform](https://www.whitehatsec.com/platform/static-application-security-testing) :copyright: — WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10.
 *   [XCode](https://developer.apple.com/xcode) :copyright: — XCode provides a pretty decent UI for [Clang's](http://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C).
@@ -608,13 +608,13 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Tools & Software / Acquisition
 
-*   [Auto Archiver (⭐158)](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
+*   [Auto Archiver (⭐310)](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
 
 ## [11. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### Libraries / Game development
+### Game development
 
-*   [vraylib (⭐1)](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
+*   [vraylib (⭐3)](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
 
 ## [12. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -633,7 +633,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Security
 
-*   [Checkov (⭐4.9k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
+*   [Checkov (⭐5.1k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
 
 ## [15. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
@@ -664,13 +664,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
     *   [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
     *   [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
 
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Rust / Sinatra
-
-*   [The Rust Programming Language](http://doc.rust-lang.org/book) - Steve Klabnik, Carol Nichols, et al. (HTML)
-
-## [18. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Database Connectors
 
@@ -696,29 +690,29 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 *   [django-startproject (⭐79)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
 
-## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Logging
 
 *   [log (⭐14)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
 
-## [20. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Health and Social Science
 
-*   [Biomedical Information Extraction (⭐222)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-*   [Diversity (⭐580)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
-*   [Empathy in Engineering (⭐490)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
-*   [Healthcare (⭐2k)](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+*   [Biomedical Information Extraction (⭐231)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+*   [Diversity (⭐585)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
+*   [Empathy in Engineering (⭐494)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
+*   [Healthcare (⭐2.1k)](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 *   [Humane Technology (⭐2.9k)](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
-*   [Mental Health (⭐2.5k)](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
-*   [Neuroscience (⭐968)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
+*   [Mental Health (⭐2.6k)](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
+*   [Neuroscience (⭐986)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 
 ### Miscellaneous
 
-*   [Scientific Writing (⭐476)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐505)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
-## [21. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [20. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Editors / LaTeX
 
@@ -729,43 +723,43 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 *   [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home): Shipped with standard LaTeX installations. A lot of themes has been invented. Start editing with one click on [Overleaf](https://www.overleaf.com/)
 
-## [22. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [21. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Newsletters
 
-*   [manix (⭐229)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
+*   [manix (⭐236)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 
 ### Development / Newsletters
 
-*   [flake.parts (⭐117)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
+*   [flake.parts (⭐166)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 
 ### Programming Languages / Haskell
 
-*   [haskell-flake (⭐38)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
+*   [haskell-flake (⭐45)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
 
-## [23. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### IT Asset Management / Single Sign-On (SSO)
+### Software / IT Asset Management
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 *   [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
-*   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐635)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
+*   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐642)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
 *   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Source Code (⭐1.9k)](https://github.com/allegro/ralph), [Demo (⭐1.9k)](https://github.com/allegro/ralph#live-demo)) `Apache-2.0` `Python/Docker`
-*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐7k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
+*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐7.3k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
-## [24. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Testing / Redux / ELM / Dependency Injection
 
-*   [flutter\_convenient\_test (⭐302)](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
+*   [flutter\_convenient\_test (⭐324)](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
 
-## [25. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [24. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Incident Management
 
 *   [Zenduty](https://www.zenduty.com) - Zenduty is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle.
 
-## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -774,18 +768,18 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 ### Libraries / Network programming
 
 *   IPNetwork
-    *   [achanda/ipnetwork (⭐97)](https://github.com/achanda/ipnetwork) — A library to work with IP networks in pure Rust [![build badge](https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master)](https://travis-ci.org/achanda/ipnetwork)
-    *   [candrew/netsim (⭐113)](https://github.com/canndrew/netsim) — A Rust library for network simulation and testing [![build badge](https://api.travis-ci.org/canndrew/netsim.svg?branch=master)](https://travis-ci.org/canndrew/netsim)
-    *   [jesusprubio/online (⭐120)](https://github.com/jesusprubio/online) — Library to check your Internet connectivity [![CI](https://github.com/jesusprubio/online/actions/workflows/ci.yml/badge.svg)](https://github.com/jesusprubio/online/actions/workflows/ci.yml)
+    *   [achanda/ipnetwork (⭐100)](https://github.com/achanda/ipnetwork) — A library to work with IP networks in pure Rust [![build badge](https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master)](https://travis-ci.org/achanda/ipnetwork)
+    *   [candrew/netsim (⭐115)](https://github.com/canndrew/netsim) — A Rust library for network simulation and testing [![build badge](https://api.travis-ci.org/canndrew/netsim.svg?branch=master)](https://travis-ci.org/canndrew/netsim)
+    *   [jesusprubio/online (⭐121)](https://github.com/jesusprubio/online) — Library to check your Internet connectivity [![CI](https://github.com/jesusprubio/online/actions/workflows/ci.yml/badge.svg)](https://github.com/jesusprubio/online/actions/workflows/ci.yml)
 
-## [27. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [26. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [isomerjs](http://jdan.github.io/isomer/) - An isometric graphics library for HTML5 canvas
 *   [Rough.js](https://roughjs.com/) - Rough.js is a graphics library that lets you draw in a sketchy, hand-drawn-like, style
 
-## [28. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [27. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Articles / Frameworks
 
@@ -799,6 +793,16 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [How to write Full Stack Rust code (⭐0)](https://github.com/steadylearner/blog/tree/master/posts/Rust/How%20to%20write%20Full%20Stack%20Rust%20code.md)
 *   [How to render a YouTube vlog with Rust Yew fetch API (⭐0)](https://github.com/steadylearner/blog/blob/master/posts/Rust/How%20to%20render%20a%20YouTube%20vlog%20with%20%20Rust%20Yew%20fetch%20API.md)
 *   [How to render blog posts with Rust Yew mounted API (⭐0)](https://github.com/steadylearner/blog/tree/master/posts/Rust/How%20to%20render%20blog%20posts%20with%20Rust%20Yew%20mounted%20API.md)
+
+## [28. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Version Control Systems
+
+*   [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Roger Dudler (HTML)
+*   [Git Immersion](http://gitimmersion.com) - Jim Weirich (HTML)
+*   [Git Magic](http://www-cs-students.stanford.edu/\~blynn/gitmagic/) - Ben Lynn, et al. (HTML, PDF, EPUB)
+*   [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) - The GitHub team *(:card\_file\_box: archived)*
+*   [Pro Git](http://git-scm.com/book/en/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, Kindle)
 
 ## [29. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -847,7 +851,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Grid (⭐666)](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
+*   :tada: [Grid (⭐677)](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
 
 ## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -867,7 +871,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 *   [pluralith](https://www.pluralith.com/) - Terraform state visualization and automated generation of infrastructure documentation. :heavy\_dollar\_sign:
 *   [tf-init-booster (⭐6)](https://github.com/hayorov/terraform-init-booster) - A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
-*   [tf-summarize (⭐222)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
+*   [tf-summarize (⭐257)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
 
 ### Terraform Enterprise / Vendor supported providers
 
@@ -883,23 +887,23 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Software / Blogging Platforms
 
-*   [FlatPress](https://flatpress.org/) - A lightweight, easy-to-set-up flat-file blogging engine. ([Source Code (⭐142)](https://github.com/flatpressblog/flatpress)) `GPL-2.0` `PHP`
+*   [FlatPress](https://flatpress.org/) - A lightweight, easy-to-set-up flat-file blogging engine. ([Source Code (⭐143)](https://github.com/flatpressblog/flatpress)) `GPL-2.0` `PHP`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Briefkasten (⭐238)](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs`
+*   [Briefkasten (⭐362)](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs`
 
 ### Software / Communication - Email - Mail Delivery Agents
 
-*   [Stalwart JMAP](https://stalw.art/jmap) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐388)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust`
+*   [Stalwart JMAP](https://stalw.art/jmap) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐405)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust`
 
 ### Software / Communication - SIP
 
-*   [Flexisip](http://flexisip.org/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐107)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
+*   [Flexisip](http://flexisip.org/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐108)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Demo](https://demo.payloadcms.com), [Source Code (⭐8.7k)](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
+*   [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Demo](https://demo.payloadcms.com), [Source Code (⭐9.1k)](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
 
 ### Software / E-commerce
 
@@ -918,11 +922,11 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 *   [Hextris (⭐2k)](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris. `GPL-3.0` `HTML5`
 *   [MTA:SA](https://multitheftauto.com/) `⚠` - Multi Theft Auto (MTA) is a software project that adds network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. ([Source Code (⭐1.1k)](https://github.com/multitheftauto/mtasa-blue)) `GPL-3.0` `C++`
-*   [Posio (⭐492)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
+*   [Posio (⭐497)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
 
 ### Software / Genealogy
 
-*   [Genea.app](https://www.genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code (⭐85)](https://github.com/genea-app/genea-app)) `MIT` `Javascript`
+*   [Genea.app](https://www.genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code (⭐98)](https://github.com/genea-app/genea-app)) `MIT` `Javascript`
 
 ### Software / Groupware
 
@@ -931,7 +935,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Software / Learning and Courses
 
-*   [Gibbon](https://gibbonedu.org/) - The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code (⭐350)](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`
+*   [Gibbon](https://gibbonedu.org/) - The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code (⭐353)](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -939,23 +943,23 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Software / Miscellaneous
 
-*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐4.5k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/Go`
+*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐4.7k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/Go`
 
 ### Software / Note-taking & Editors
 
-*   [Standard Notes](https://docs.standardnotes.com/self-hosting/getting-started) - Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code (⭐3.9k)](https://github.com/standardnotes/app)) `GPL-3.0` `Ruby`
+*   [Standard Notes](https://docs.standardnotes.com/self-hosting/getting-started) - Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code (⭐4k)](https://github.com/standardnotes/app)) `GPL-3.0` `Ruby`
 
 ### Software / Polls and Events
 
-*   [Christmas Community (⭐79)](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
-*   [Claper](https://claper.co/) - The ultimate tool to interact with your audience. An open-source alternative to Slido, AhaSlides and Mentimeter. ([Source Code (⭐154)](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
-*   [Fider](https://fider.io) - Open source alternative to UserVoice for customer feedback. ([Demo](https://demo.fider.io), [Source Code (⭐2.1k)](https://github.com/getfider/fider)) `MIT` `Go`
+*   [Christmas Community (⭐89)](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
+*   [Claper](https://claper.co/) - The ultimate tool to interact with your audience. An open-source alternative to Slido, AhaSlides and Mentimeter. ([Source Code (⭐158)](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
+*   [Fider](https://fider.io) - Open source alternative to UserVoice for customer feedback. ([Demo](https://demo.fider.io), [Source Code (⭐2.2k)](https://github.com/getfider/fider)) `MIT` `Go`
 *   [Framadate](https://framadate.org/abc/) - Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://framagit.org/framasoft/framadate?)) `CECILL-B` `PHP`
 *   [Meetable](https://events.indieweb.org) - A minimal events aggregator. ([Source Code (⭐67)](https://github.com/aaronpk/Meetable)) `MIT` `PHP`
 
 ### Software / Proxy
 
-*   [Pomerium](https://www.pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth\_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code (⭐3.3k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
+*   [Pomerium](https://www.pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth\_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code (⭐3.4k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
 
 ### Software / Recipe Management
 
@@ -963,16 +967,16 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Software / Search Engines
 
-*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐31k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust`
+*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐32k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust`
 
 ### Software / Self-hosting Solutions
 
 *   [Bitsii Bridge](https://gitlab.com/bitsii/Bitsii/-/wikis/home) `⚠` - Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let's Encrypt. ([Source Code](https://gitlab.com/bitsii/BBridge)) `MPL-2.0` `Java/Other`
-*   [MeshCentral](https://meshcentral.com/) - A full computer management website. With MeshCentral, you can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. ([Source Code (⭐1.9k)](https://github.com/Ylianst/MeshCentral)) `Apache-2.0` `Nodejs`
+*   [MeshCentral](https://meshcentral.com/) - A full computer management website. With MeshCentral, you can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. ([Source Code (⭐2k)](https://github.com/Ylianst/MeshCentral)) `Apache-2.0` `Nodejs`
 
 ### Software / Ticketing
 
-*   [Iguana (⭐46)](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board. `CC-BY-SA-4.0` `Python/Docker`
+*   [Iguana (⭐50)](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board. `CC-BY-SA-4.0` `Python/Docker`
 
 ### Software / Wikis
 
@@ -980,10 +984,32 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ## [40. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### The Generative AI Area: history, maps, and definitions
+
+*   \[🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
+*   [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
+
+### Inbox: Stable Diffusion / References Collection about Stable Diffusion
+
+*   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
+*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion (⭐785)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
+*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share\&utm_medium=web2x\&context=3): a general update on all the "most important" news/repos available
+*   [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
+*   [Stable Diffusion Akashic Records | Maks-s/sd-akashic (⭐1.3k)](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
+*   [Voldy Guide](https://rentry.co/voldy): detailed beginners guide for Stable Diffusion
+*   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
+*   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
+
+### Datasets / Generative Adversarial Networks (GANs)
 
 *   [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai\&index=laion5B\&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
-*   [rom1504/clip-retrieval (⭐787)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+*   [rom1504/clip-retrieval (⭐857)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+*   [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
+*   [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
+*   [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
+
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
+
 *   [PromptDesign | Reddit](https://www.reddit.com/r/PromptDesign/): Reddit community for "the art of communicating with natural language models"
 *   [Prompt Engineering and Zero-Shot/Few-Shot Learning \[Guide\] - inovex GmbH](https://www.inovex.de/de/blog/prompt-engineering-guide/): prompt engineering for text generation
 *   [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
@@ -991,22 +1017,19 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/)
 *   [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
 
-### Deforum
+### Inbox: Stable Diffusion / For text-to-image
 
-*   [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
-
-### Stable Diffusion Inbox
-
-*   [examples/stable-diffusion-finetuning at main · LambdaLabsML/examples (⭐482)](https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning): Fine Tuning Stable Diffusion
-*   [lkwq007/stablediffusion-infinity (⭐2.8k)](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas
+*   [CHARL-E](https://www.charl-e.com/): Run Stable Diffusion on your M1 Mac
+*   [examples/stable-diffusion-finetuning at main · LambdaLabsML/examples (⭐525)](https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning): Fine Tuning Stable Diffusion
+*   [lkwq007/stablediffusion-infinity (⭐2.9k)](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas
 *   \[🔥🔥🔥] [ML News Stable Diffusion Takes Over! (Open Source AI Art) by Yannic Kilcher - YouTube](https://www.youtube.com/watch?v=xbxe-x6wvRw): video with examples, updates, and discussion about the impact of Stable Diffusion
 *   [Diffusion Models in Vision: A Survey | DeepAI](https://deepai.org/publication/diffusion-models-in-vision-a-survey): paper about the diffusion techniques which also discuss the relation with other generative deep learning models
-*   [ThereforeGames/txt2mask (⭐392)](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
-*   [basujindal/stable-diffusion (⭐2.5k)](https://github.com/basujindal/stable-diffusion): Optimized Stable Diffusion modified to run on lower GPU VRAM
+*   [ThereforeGames/txt2mask (⭐407)](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
+*   [basujindal/stable-diffusion (⭐2.6k)](https://github.com/basujindal/stable-diffusion): Optimized Stable Diffusion modified to run on lower GPU VRAM
 *   [Stable WarpFusion v0.5 (restricted to patreons)](https://www.patreon.com/sxela): conditioning video frames with Stable Diffusion by [@devdef](https://twitter.com/devdef)
-*   [nateraw/stable-diffusion-videos (⭐1.7k)](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
+*   [nateraw/stable-diffusion-videos (⭐1.9k)](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 
-### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [getimg.ai](https://getimg.ai/): Generate photo-realistic images from text using Stable Diffusion
 *   [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
@@ -1019,35 +1042,23 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [stability-ai/stable-diffusion – Run with an API on Replicate](https://replicate.com/stability-ai/stable-diffusion)
 *   [Osmosis.Studio](http://osmosis.studio/) : web-based content-aware collaborative design tool for generating AI ads that sell real products
 
-### Stable Diffusion Inbox / Web UI for Stable Diffusion via Google Colab
+### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐24k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
-*   [GitHub - sd-webui/stable-diffusion-webui (⭐6k)](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
+*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐28k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
+*   [GitHub - sd-webui/stable-diffusion-webui (⭐6.1k)](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
 *   [Stable\_Diffusion\_WebUi\_Simplified.ipynb - Colaboratory](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb#scrollTo=gk1TyBA0Arxt)
 
-### Stable Diffusion Inbox / References Collection about Stable Diffusion
+### Hypertechniques / Textual Inversion
 
-*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion (⭐733)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
-*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share\&utm_medium=web2x\&context=3): a general update on all the "most important" news/repos available
-*   [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
-*   [Stable Diffusion Akashic Records | Maks-s/sd-akashic (⭐1.2k)](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
-*   [Voldy Guide](https://rentry.co/voldy): detailed beginners guide for Stable Diffusion
-*   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
-*   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
-
-### History / References Collection about Stable Diffusion
-
-*   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
-*   \[🔥🔥🔥][AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
-*   [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
-
-### Textual Inversion / References Collection about Stable Diffusion
-
-*   [rinongal/textual\_inversion (⭐1.8k)](https://github.com/rinongal/textual_inversion): repo contains the official code, data and sample inversions of Textual Inversion paper
+*   [rinongal/textual\_inversion (⭐1.9k)](https://github.com/rinongal/textual_inversion): repo contains the official code, data and sample inversions of Textual Inversion paper
 *   [2208.01618 An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618): paper that describes the Textual Inversion technique
 *   [sd-concepts-library (Stable Diffusion concepts library)](https://huggingface.co/sd-concepts-library): Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
 
-### Creative Uses of Text-to-Image Tools / References Collection about Stable Diffusion
+### Hypertechniques / Deforum
+
+*   [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
+
+### Creative Uses of Generative AI Tools / Deforum
 
 *   [De-painting historical photographs | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgbug2/depainting_historical_photographs/)
 *   [img2img animation with hands | Reddit](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/)
@@ -1059,21 +1070,16 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐5.3k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐6k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 
-### Courses and Educational Materials / References Collection about Stable Diffusion
+### Courses and Educational Materials / Deforum
 
 *   [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
 *   [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
-*   [GitHub - johnowhitaker/aiaiart (⭐476)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
+*   [GitHub - johnowhitaker/aiaiart (⭐492)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
 *   [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
 
-### Exploring Images Databases / References Collection about Stable Diffusion
-
-*   [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
-*   [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
-
-### Discussions and Philosophy / References Collection about Stable Diffusion
+### Discussions and Philosophy / Papers Collections
 
 *   [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
 *   [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
@@ -1092,18 +1098,27 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Image Synthesis / Promptism
 
-*   [CHARL-E](https://www.charl-e.com/): Run Stable Diffusion on your M1 Mac
 *   [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
 *   [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
 *   [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
-*   [pixray/pixray (⭐863)](https://github.com/pixray/pixray): Pixray is an image generation system
-*   [pixray/pixray\_notebooks (⭐36)](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
+*   [pixray/pixray (⭐883)](https://github.com/pixray/pixray): Pixray is an image generation system
+*   [pixray/pixray\_notebooks (⭐37)](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
 *   [dribnet/pixray-text2image – Run with an API on Replicate](https://replicate.com/dribnet/pixray-text2image)
-*   [sberbank-ai/ru-dalle (⭐1.5k)](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
+*   [sberbank-ai/ru-dalle (⭐1.6k)](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
 *   [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@\_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
+*   [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
+*   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
+*   [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
+*   \[🔥] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
+*   \[🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
+*   \[🔥] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
+*   [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
+*   \[🔥] [yuval-alaluf/hyperstyle (⭐885)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
+*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐689)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
 
 ### Image Synthesis / Collections
 
+*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐45)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
 *   [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description
 *   [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
 *   [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
@@ -1112,10 +1127,14 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   \[🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
 *   [Machine learning for arts](https://ml4a.net/)
 
-### Interesting GitHub Repositories / OpenAI GPT-3
+### People and works / Interesting GitHub Repositories
 
-*   [dvschultz/ml-art-colabs (⭐788)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
+*   [dvschultz/ml-art-colabs (⭐790)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
 *   [dvschultz](https://github.com/dvschultz): Derrick Schultz's GitHub
+
+### Image Synthesis / DALL-E 2
+
+*   [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
 
 ### Image Synthesis / Latent Diffusion
 
@@ -1140,14 +1159,6 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [\~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm)
 *   [Experimentando o VQGAN+CLIP: gerador de imagens a partir de textos - YouTube Filipe Calegario](https://www.youtube.com/watch?v=Yy5NMTkN-Qc)
 
-### Image Synthesis / Famous models by big players
-
-*   [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
-*   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
-*   [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
-*   [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
-*   [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
-
 ### Image Synthesis / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [VQGAN + CLIP + Gumbel](https://colab.research.google.com/drive/1tim3xTsZXafK-A2rOUsevckdl4OitIiw)
@@ -1167,19 +1178,24 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [CLIP Guided Diffusion v4](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3)
 *   [Simplified Google Colab Interface for the above models](https://sites.google.com/ear.com.br/aimodelgallery/home?authuser=1): series of interface simplification made by EAR+CIn Research project
 
-### Image Upscaling / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Synthesis / Generative Adversarial Networks (GANs)
+
+*   [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
+*   [These Bored Apes Do Not Exist: GAN to NFT Pipeline | Medium](https://medium.com/@nathancooperjones/these-bored-apes-do-not-exist-6bed2c73f02c)
+*   \[🔥] [dvschultz/stylegan3 (⭐84)](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
+*   \[🚀] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
+
+### Image Upscaling / Generative Adversarial Networks (GANs)
 
 *   [Model Database - Upscale Wiki](https://upscale.wiki/wiki/Model_Database): list of models for upscaling images
 *   [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
 
-### Image Restoration / Text-to-image Google Colab Notebooks (Multiple Models)
+### Image Restoration / Generative Adversarial Networks (GANs)
 
-*   [TencentARC/GFPGAN (⭐25k)](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
+*   [TencentARC/GFPGAN (⭐26k)](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
 
-### Online Tools and Applications / Text-to-image Google Colab Notebooks (Multiple Models)
+### Online Tools and Applications / Generative Adversarial Networks (GANs)
 
-*   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]
-*   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
 *   [ProsePainter](https://www.prosepainter.com/): an interactive tool to "paint with words." It incorporates guidable text-to-image generation into a traditional digital painting interface
 *   [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw\&t=429s)
 *   [Cocreator AI](https://cocreator.ai/): creative computer agent (in wait list)
@@ -1192,28 +1208,22 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [cleanup.pictures](https://cleanup.pictures/): remove objects, people, text and defects from any picture for free
 *   [remove.bg](https://www.remove.bg/): remove background from images
 *   [Quick, Draw!](https://quickdraw.withgoogle.com/): Can a neural network learn to recognize doodling? A game to help NL by adding users drawing
-*   [LOVO AI](https://www.lovo.ai/): AI Voiceover & Text to Speech Platform with human-like voices
-*   [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
-
-*   [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
-*   [These Bored Apes Do Not Exist: GAN to NFT Pipeline | Medium](https://medium.com/@nathancooperjones/these-bored-apes-do-not-exist-6bed2c73f02c)
-*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐43)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
-*   \[🔥🚀] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
-*   \[🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
-*   \[🔥🚀] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
-*   \[🔍] [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
-*   \[🔥] [yuval-alaluf/hyperstyle (⭐883)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
-*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐687)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
-*   \[🔥] [dvschultz/stylegan3 (⭐82)](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
-*   \[🚀] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
-
-### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
 *   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 
-### Artists and Artworks / OpenAI GPT-3
+### Inbox: Music and Audio projects / Text-related Generative Tools
+
+*   [LOVO AI](https://www.lovo.ai/): AI Voiceover & Text to Speech Platform with human-like voices
+*   [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
+
+### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
+
+*   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
+*   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]
+
+### People and works / Artists and Artworks
 
 *   [The Steampunk Circus Human Machine Collaboration - Video, Sound and Stories with AI / YouTube](https://www.youtube.com/channel/UCa1xYBYCzBoJ08U9lgbYAFw)
 
@@ -1229,12 +1239,12 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-virtual-mpa (⭐20)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
+*   [vite-plugin-virtual-mpa (⭐26)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 
 ### Open Source / Community
 
-*   [IslandJS (⭐213)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
-*   [Vituum (⭐99)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
+*   [IslandJS (⭐229)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
+*   [Vituum (⭐107)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
 ## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -1254,7 +1264,6 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [whobrokemycode (⭐0)](https://github.com/cameronbroe/whobrokemycode) - Highlight where a particular line was last changed in a file using `git blame`.
 *   [znotify (⭐0)](https://github.com/rudeigerc/znotify) - A simple plugin for sending notifications to other services.
 *   [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) - Adds [Redis](https://redis.io/) database support, with `database_key` <-> `shell_variable` binding. Supports all data types.
-*   [zshmux (⭐8)](https://github.com/huboles/zshmux) - When a new shell is launched, quickly checks if there are any `tmux` sessions, or if the current shell is already in a `tmux` instance. If you are not already in a `tmux` session it will list all currently active sessions, and ask if you want to attach a currently running session, or make a new session in the shell.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -1263,47 +1272,47 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [alp (⭐0)](https://github.com/zrut747/alp/) - A simple theme with decorations for current directory, root status, username and host.
-*   [carriage-return (⭐0)](https://github.com/treyssatvincent/carriage-return.zsh-theme) - omz's [robbyrussell (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) with an added carriage return.
-*   [mzpt (⭐2)](https://github.com/linrongbin16/mzpt/) - Minimal prompt inspired by [powerlevel10k (⭐33k)](https://github.com/romkatv/powerlevel10k).
+*   [carriage-return (⭐0)](https://github.com/treyssatvincent/carriage-return.zsh-theme) - omz's [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) with an added carriage return.
+*   [mzpt (⭐2)](https://github.com/linrongbin16/mzpt/) - Minimal prompt inspired by [powerlevel10k (⭐34k)](https://github.com/romkatv/powerlevel10k).
 
 ## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
-*   [uga-rosa/ccc.nvim (⭐306)](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
+*   [uga-rosa/ccc.nvim (⭐331)](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [jim-at-jibba/ariake-vim-colors (⭐24)](https://github.com/jim-at-jibba/ariake-vim-colors) - A port of the great Atom theme. Dark and light with Tree-sitter support.
 *   [Th3Whit3Wolf/onebuddy (⭐92)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
-*   [ofirgall/ofirkai.nvim (⭐33)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
+*   [ofirgall/ofirkai.nvim (⭐35)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 
 ### Utility / Diagnostics
 
-*   [AckslD/messages.nvim (⭐64)](https://github.com/AckslD/messages.nvim) - Capture and show any messages in a customisable (floating) buffer.
+*   [AckslD/messages.nvim (⭐65)](https://github.com/AckslD/messages.nvim) - Capture and show any messages in a customisable (floating) buffer.
 
 ### Motion / Diagnostics
 
-*   [gen740/SmoothCursor.nvim (⭐171)](https://github.com/gen740/SmoothCursor.nvim) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
+*   [gen740/SmoothCursor.nvim (⭐180)](https://github.com/gen740/SmoothCursor.nvim) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 
 ### Formatting / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.align (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
+*   [echasnovski/mini.nvim#mini.align (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
 
 ## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [kohesive/kovert (⭐154)](https://github.com/kohesive/kovert) - An invisible, super easy and powerful REST and Web framework over Vert.x or Undertow.
+*   [kohesive/kovert (⭐155)](https://github.com/kohesive/kovert) - An invisible, super easy and powerful REST and Web framework over Vert.x or Undertow.
 
 ### Libraries/Frameworks / Misc
 
-*   [justwrote/kjob (⭐58)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
+*   [justwrote/kjob (⭐59)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
 *   [kohesive/klutter (⭐140)](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository.
 
 ### Libraries/Frameworks / Raspberry Pi
 
-*   [Pi4J/pi4j-kotlin (⭐19)](https://github.com/Pi4J/pi4j-kotlin) - Pi4J Kotlin DSL and API.
+*   [Pi4J/pi4j-kotlin (⭐24)](https://github.com/Pi4J/pi4j-kotlin) - Pi4J Kotlin DSL and API.
 
 ## [45. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
@@ -1339,7 +1348,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Errors and Exception Handling
 
-*   [AppSignal Elixir (⭐241)](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
+*   [AppSignal Elixir (⭐242)](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
 
 ### Geolocation
 
@@ -1363,7 +1372,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Miscellaneous
 
-*   [cubdb (⭐388)](https://github.com/lucaong/cubdb) - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
+*   [cubdb (⭐391)](https://github.com/lucaong/cubdb) - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
 *   [quarantine (⭐2)](https://github.com/leorog/quarantine) - Quarantine is a tiny OTP application for feature toggles.
 
 ### ORM and Datamapping
@@ -1373,7 +1382,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 ### Testing
 
 *   [dummy (⭐0)](https://github.com/Vesuvium/dummy) - An Elixir mocking library that makes sense by exposing meck in the right way
-*   [propcheck (⭐326)](https://github.com/alfert/propcheck) - Property based testing for Elixir.
+*   [propcheck (⭐327)](https://github.com/alfert/propcheck) - Property based testing for Elixir.
 
 ### Utilities
 
@@ -1418,9 +1427,9 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
 *   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
-*   [Shiori (⭐6.8k)](https://github.com/go-shiori/shiori)
-*   [LinkAce (⭐1.7k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐2.6k)](https://github.com/sissbruecker/linkding)
+*   [Shiori (⭐6.9k)](https://github.com/go-shiori/shiori)
+*   [LinkAce (⭐1.8k)](https://github.com/Kovah/LinkAce)
+*   [LinkDing (⭐2.8k)](https://github.com/sissbruecker/linkding)
 
 ### Cloud Storage
 
@@ -1436,8 +1445,8 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Pastebin and Secret Sharing
 
-*   [Yopass (⭐1k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
-*   [PrivateBin (⭐4.5k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+*   [Yopass (⭐1.1k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
+*   [PrivateBin (⭐4.6k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ### Sonic the Hedgehog
 
@@ -1450,7 +1459,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Translation and Speech-to-Text
 
-*   [OpenAI Whisper (⭐18k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
+*   [OpenAI Whisper (⭐21k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
 
 ## [49. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -1470,7 +1479,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ### Miscellaneous
 
-*   🆕 [cl-gtk4 (⭐108)](https://github.com/bohonghuang/cl-gtk4) -  GTK4/Libadwaita/WebKit binding for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   🆕 [cl-gtk4 (⭐123)](https://github.com/bohonghuang/cl-gtk4) -  GTK4/Libadwaita/WebKit binding for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ### Others / OpenAPI, OData, OpenRPC
 

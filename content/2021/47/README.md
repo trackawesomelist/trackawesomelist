@@ -2,7 +2,7 @@
 
 42 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -73,13 +73,13 @@
 
 ### Plugins
 
-*   [tmux-super-fingers (⭐52)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
+*   [tmux-super-fingers (⭐56)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Honeypots / Supply chain security
 
-*   [Manuka (⭐280)](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
+*   [Manuka (⭐281)](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
@@ -87,13 +87,13 @@
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [CobaltStrikeScan (⭐740)](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
+*   [CobaltStrikeScan (⭐771)](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
 
 ### Windows-based defenses / Active Directory
 
-*   [Active Directory Control Paths (⭐582)](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
+*   [Active Directory Control Paths (⭐588)](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
 *   [PingCastle](https://www.pingcastle.com/) - Active Directory vulnerability detection and reporting tool.
-*   [PlumHound (⭐693)](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
+*   [PlumHound (⭐714)](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
 
 ## [8. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -115,13 +115,13 @@
 
 ### Compressing
 
-*   **[Genozip (⭐99)](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
+*   **[Genozip (⭐109)](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
 
 ## [10. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions
 
-*   [Image Scout (⭐68)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
+*   [Image Scout (⭐73)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 *   [Date Picker Interface (⭐8)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
 
 ## [11. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
@@ -135,11 +135,11 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-simple-gql (⭐18)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
-*   [vite-plugin-ali-oss (⭐7)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
+*   [vite-plugin-ali-oss (⭐8)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 
 ### Vue / Loaders
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐10)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐12)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 
 ## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -203,13 +203,13 @@
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐8.5k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Carousel
 
-*   [swiper (⭐33k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+*   [swiper (⭐34k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ### UI Layout / Syntax Highlight
 
@@ -275,7 +275,7 @@
 
 ### CLI
 
-*   [oof (⭐771)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
+*   [oof (⭐776)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
 
 ### Memory Allocation
 
@@ -285,8 +285,8 @@
 
 ### Books
 
-*   [Free C Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐261k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐261k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -327,8 +327,8 @@
 
 ### Plugins
 
-*   🎨🧬 [Themeable (⭐32)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
-*   💼🧬 [Radix (⭐1k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   🎨🧬 [Themeable (⭐34)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
+*   💼🧬 [Radix (⭐1.2k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
 ### UI Libraries, Components & Templates
 
@@ -338,7 +338,7 @@
 
 ### Books / Misc
 
-*   [Distributed Machine Learning Patterns (⭐155)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
+*   [Distributed Machine Learning Patterns (⭐158)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 
 ## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -364,11 +364,6 @@
 ### Applications / System tools
 
 *   [sharkdp/fd (⭐26k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
-
-### Libraries / Peripherals
-
-*   Serial Port
-    *   [Susurrus/serialport-rs](https://gitlab.com/susurrus/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
 
 ## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -708,7 +703,7 @@
 
 ### Tools
 
-*   [Open Capture and Analytics Tool (OCAT) (⭐219)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
+*   [Open Capture and Analytics Tool (OCAT) (⭐229)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
 
 ## [41. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 

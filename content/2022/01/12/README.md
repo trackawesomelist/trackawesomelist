@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,8 +60,7 @@
 
 ### Machine Learning / General Purpouse Machine Learning
 
-*   [sklearn-expertsys (⭐481)](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [Deepchecks (⭐2.2k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-expertsys (⭐482)](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -73,12 +72,12 @@
 
 ### Templates / Vue 3
 
-*   [vite-quasar-starter (⭐38)](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
+*   [vite-quasar-starter (⭐39)](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [rollup-plugin-graphql-codegen (⭐43)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-graphql-codegen) - Generating type definitions for GraphQL tag template strings in worker\_threads.
-*   [rollup-plugin-i18next-dts-gen (⭐43)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-i18next-dts-gen) - Generating type definitions from i18n JSON files are used for code hinting and validation.
+*   [rollup-plugin-graphql-codegen (⭐45)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-graphql-codegen) - Generating type definitions for GraphQL tag template strings in worker\_threads.
+*   [rollup-plugin-i18next-dts-gen (⭐45)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-i18next-dts-gen) - Generating type definitions from i18n JSON files are used for code hinting and validation.
 
 ---
 

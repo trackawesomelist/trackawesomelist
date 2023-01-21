@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,13 +45,13 @@
 
 ### Command-Line Productivity
 
-*   [Buku (⭐5.3k)](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
-*   [googler (⭐5.8k)](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
+*   [Buku (⭐5.4k)](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
+*   [googler (⭐5.9k)](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 *   [nnn (⭐15k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [imgp (⭐901)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
+*   [imgp (⭐921)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

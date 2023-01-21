@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -26,7 +26,7 @@
 
 ## [4. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Additional resources / Hellonext
+### Additional resources / Screeb
 
 *   [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 
@@ -100,7 +100,7 @@
 
 ### Individual components / CSS
 
-*   [BlazorAnimation (⭐59)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
+*   [BlazorAnimation (⭐67)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
 
 ## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

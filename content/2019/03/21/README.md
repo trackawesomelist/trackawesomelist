@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,7 +47,7 @@
 
 ### Non-JavaScript Libraries / Themes
 
-*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
+*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.6k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Models/Projects
 
-*   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
+*   [Ladder Network (⭐102)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 
 ## [9. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
@@ -81,13 +81,13 @@
 
 ### Package Management
 
-*   [Sleet (⭐286)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐293)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Integrations
 
-*   [remount (⭐618)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐623)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

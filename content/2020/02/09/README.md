@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,13 +41,13 @@
 
 ### Guidelines
 
-*   EDPS: [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
+*   [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
 
 ## [4. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Templates
 
-*   [Create Yew App (⭐134)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
+*   [Create Yew App (⭐139)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
 
 ### Books / Frameworks
 
@@ -57,7 +57,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Snapcast (⭐4.8k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
+*   [Snapcast (⭐4.9k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
 
 ## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Subtitles and Captions / Web
 
-*   [glut23/webvtt-py (⭐126)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
+*   [glut23/webvtt-py (⭐129)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
 *   [opencoconut/webvtt-ruby (⭐53)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
 *   [osk/node-webvtt (⭐75)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
 
@@ -105,7 +105,7 @@
 
 ### Clone / Preferences
 
-*   [GitTouch (⭐1.2k)](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
+*   [GitTouch (⭐1.3k)](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
 
 ---
 

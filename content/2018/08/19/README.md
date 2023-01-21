@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Media / Audio
 
-*   [Flutter Sound (⭐752)](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
+*   [Flutter Sound (⭐762)](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
 
 ---
 

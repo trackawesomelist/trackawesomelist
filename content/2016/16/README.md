@@ -2,7 +2,7 @@
 
 38 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -363,7 +363,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Tools
 
-*   [CodeXL (⭐974)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
+*   [CodeXL (⭐975)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
 
 ## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -380,7 +380,7 @@ By the end of this book, you will have learned about text manipulation using str
 ### Miscellaneous
 
 *   [exldap (⭐57)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
-*   [phone (⭐99)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+*   [phone (⭐100)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ### Testing
 
@@ -570,18 +570,18 @@ By the end of this book, you will have learned about text manipulation using str
 ### Open Source / Featured
 
 *   [WebTorrent (⭐9.1k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐140k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [Visual Studio Code (⭐141k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
 *   [Git-it (⭐4.2k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
-*   [Caprine (⭐6.5k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-*   [Simplenote (⭐4.2k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
-*   [Abricotine (⭐2.5k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
+*   [Caprine (⭐6.6k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+*   [Simplenote (⭐4.3k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
+*   [Abricotine (⭐2.6k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
 *   [SmartMirror (⭐2.7k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 *   [Google Play Music Desktop Player (⭐8.4k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐348)](https://github.com/m0g/ansel) - Image organizer.
+*   [Ansel (⭐357)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -591,16 +591,16 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### For Electron / Other
 
-*   [electron-is-dev (⭐405)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐397)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-is-dev (⭐407)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+*   [electron-localshortcut (⭐398)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 *   [electron-dl (⭐1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
-*   [electron-release-server (⭐1.7k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-*   [electron-download (⭐296)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [ember-electron (⭐803)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [electron-release-server (⭐1.8k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
+*   [electron-download (⭐297)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+*   [ember-electron (⭐805)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other
 
-*   [nativefier (⭐32k)](https://github.com/jiahaog/nativefier) - Create an app of any website.
+*   [nativefier (⭐33k)](https://github.com/jiahaog/nativefier) - Create an app of any website.
 *   [electron-pdf (⭐1.2k)](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
 
 ### Components / Other

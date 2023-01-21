@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 29, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -13,13 +13,7 @@
 *   [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 *   [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
 
-## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Charts
-
-*   [Gantt-Chart (⭐389)](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
-
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Compilers, Transpilers and Languages
 
@@ -31,25 +25,25 @@
 
 ### HTTP
 
-*   [RestEase (⭐882)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+*   [RestEase (⭐897)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 
 ### Queue
 
 *   [Rebus (⭐1.9k)](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 
-## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Database / ORM
 
 *   [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 
-## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Go / Symfony2
 
 *   [gocrud (⭐311)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 
-## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Introduction to CS
 
@@ -58,13 +52,13 @@
     *   \[Lectures] (<http://otfried.org/courses/cs109/index.html>)
     *   \[Assignments] (<http://otfried.org/courses/cs109/index.html>)
 
-## [7. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Tutorials
 
 *   [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 
-## [8. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [7. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Machine learning and Big Data analytics
 
@@ -100,7 +94,7 @@
     *   [Beetest (⭐71)](https://github.com/kawaa/Beetest) - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
     *   [Hive\_test (⭐66)](https://github.com/edwardcapriolo/hive_test)- Unit test framework for hive and hive-service
 
-## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Presentations / Videos
 

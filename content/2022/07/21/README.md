@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,11 +14,11 @@
 
 ### Communication with server / Mouse Events
 
-*   [query (⭐31k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+*   [query (⭐32k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-firebase-hooks (⭐3k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
+*   [react-firebase-hooks (⭐3.1k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -78,23 +78,23 @@
 
 ### Display / GUI
 
-*   [micropython-nextion (⭐2)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
+*   [micropython-nextion (⭐3)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐821)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
+*   [No-Chat-Reports (⭐842)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
 
 ### Audio
 
-*   [Jetispot (⭐156)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐198)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [ant-design-vue (⭐17k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
+*   [ant-design-vue (⭐18k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

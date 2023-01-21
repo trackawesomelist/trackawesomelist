@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐115)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐34k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐116)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐35k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -154,7 +154,7 @@
 *   [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 *   [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
 *   [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
-*   [Preserver (⭐212)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
+*   [Preserver (⭐213)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 *   [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 *   [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 *   [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
@@ -176,7 +176,7 @@
 *   [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 *   [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 *   [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
-*   [Topydo (⭐629)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+*   [Topydo (⭐643)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 *   [Trello](https://trello.com) - Kanban method task board.
 *   [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
@@ -187,7 +187,7 @@
 
 ### Tools and Apps / Task Automation
 
-*   [Awesome AutoHotKey (⭐2.1k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
+*   [Awesome AutoHotKey (⭐2.2k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 *   [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called *recipes*) between web services in order to make the web work for you and boost your productivity.
 *   [Tasker](http://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (*e.g.* automatically turn on wifi when you arrive home).
 *   [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.

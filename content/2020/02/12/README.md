@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Applications / Database
 
-*   [Lucid (⭐301)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
+*   [Lucid (⭐308)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 
 ### Applications / Web Servers
 
@@ -22,11 +22,11 @@
 
 ### Libraries / Logging
 
-*   [tokio-rs/tracing (⭐3.3k)](https://github.com/tokio-rs/tracing) — An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
+*   [tokio-rs/tracing (⭐3.4k)](https://github.com/tokio-rs/tracing) — An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
 
 ### Libraries / Text search
 
-*   [meilisearch/MeiliSearch (⭐31k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
+*   [meilisearch/MeiliSearch (⭐32k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
 
 ## [2. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -38,10 +38,10 @@
 
 ### Open Source / Other
 
-*   [Pomodoro (⭐218)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
+*   [Pomodoro (⭐219)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
 *   [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) - Decentralized file storage system based on cryptocurrency technology.
 *   [Sabaki (⭐2k)](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
-*   [Swifty (⭐753)](https://github.com/swiftyapp/swifty) - Password manager.
+*   [Swifty (⭐764)](https://github.com/swiftyapp/swifty) - Password manager.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -54,11 +54,11 @@
 
 ### Gesture
 
-*   [Sensitive (⭐549)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
+*   [Sensitive (⭐550)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
 
 ### Logging
 
-*   [Diagnostics (⭐755)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
+*   [Diagnostics (⭐768)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 
 ### JSON
 
@@ -66,7 +66,7 @@
 
 ### Alert & Action Sheet
 
-*   [CFNotify (⭐490)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable views.
+*   [CFNotify (⭐491)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable views.
 
 ### Deployment / Distribution / Collection View Layout
 
@@ -76,7 +76,7 @@
 
 ### Programming Languages
 
-*   [Coq (⭐193)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+*   [Coq (⭐199)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Database
 
-*   [DBreeze (⭐449)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
+*   [DBreeze (⭐454)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
 
 ---
 

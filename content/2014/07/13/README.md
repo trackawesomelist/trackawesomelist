@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -121,8 +121,8 @@
 *   [Web](http://hackage.haskell.org/packages/#cat:Web) - a collaborative Hackage list of frameworks, libraries, ...
 
     ***
-*   [HTTP (⭐170)](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
-*   [hoauth2 (⭐120)](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
+*   [HTTP (⭐171)](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
+*   [hoauth2 (⭐123)](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
 
 ### Messaging
 
@@ -161,8 +161,8 @@
 
 ### Streaming Processing
 
-*   [Conduit (⭐834)](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
-*   [Pipes (⭐466)](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
+*   [Conduit (⭐845)](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
+*   [Pipes (⭐471)](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
 
 ### Websites
 

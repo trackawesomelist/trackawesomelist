@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,15 +41,15 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [TEN (⭐27)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
+*   [TEN (⭐28)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
 
 ### Writing, running scripts / Third-party APIs
 
-*   [clawk (⭐41)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+*   [clawk (⭐43)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 
 ### Command-line options parsers / Third-party APIs
 
-*   [Unix-opts (⭐96)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
+*   [Unix-opts (⭐101)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
@@ -67,7 +67,7 @@
 
 ### System administration / Third-party APIs
 
-*   [Adams (⭐170)](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
+*   [Adams (⭐175)](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
 
 ### Date and time / Third-party APIs
 
@@ -84,7 +84,7 @@
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐7.9k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐8.1k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

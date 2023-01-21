@@ -2,7 +2,7 @@
 
 👻 A curated list of awesome VLC and LibVLC resources. 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mfkl/awesome-vlc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc) · ⭐ 66 · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mfkl/awesome-vlc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc) · ⭐ 66 · 🏷️ Media
 
 [ [Daily](/content/mfkl/awesome-vlc/README.md) / [Weekly](/content/mfkl/awesome-vlc/week/README.md) / Overview ]
 

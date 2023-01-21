@@ -2,7 +2,7 @@
 
 53 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -75,7 +75,7 @@
 
 ### Charts
 
-*   [d3-x3d (⭐82)](https://github.com/jamesleesaunders/d3-x3d) - Data Driven 3D Charts with D3 and X3D \[bubble, bar, surfacearea, scatterplot, area]
+*   [d3-x3d (⭐90)](https://github.com/jamesleesaunders/d3-x3d) - Data Driven 3D Charts with D3 and X3D \[bubble, bar, surfacearea, scatterplot, area]
 
 ## [7. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -105,9 +105,9 @@
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
 *   [Gophish](https://getgophish.com/) - Powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing.
-*   [King Phisher (⭐1.8k)](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
-*   [NotifySecurity (⭐115)](https://github.com/certsocietegenerale/NotifySecurity) - Outlook add-in used to help your users to report suspicious e-mails to security teams.
-*   [Swordphish (⭐196)](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails.
+*   [King Phisher (⭐1.9k)](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
+*   [NotifySecurity (⭐118)](https://github.com/certsocietegenerale/NotifySecurity) - Outlook add-in used to help your users to report suspicious e-mails to security teams.
+*   [Swordphish (⭐198)](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails.
 
 ## [9. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
@@ -297,7 +297,7 @@
 
 ### Boilerplates / Themes
 
-*   [The Green Meal (⭐84)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
+*   [The Green Meal (⭐83)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
 
 ## [16. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
@@ -386,11 +386,11 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐434)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐438)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ### Web Servers
 
-*   [Agoo (⭐804)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐812)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [19. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -410,7 +410,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Dozer (⭐6.7k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
+*   [Dozer (⭐6.8k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
 
 ### Utilities / File Organization Tools
 
@@ -541,8 +541,8 @@
 *   [WireEdit](https://wireedit.com/) - Full stack WYSIWYG pcap editor (requires a free license to edit packets).
 *   [bittwist](http://bittwist.sourceforge.net/) - Simple yet powerful libpcap-based Ethernet packet generator useful in simulating networking traffic or scenario, testing firewall, IDS, and IPS, and troubleshooting various network problems.
 *   [hping3 (⭐1.2k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
-*   [pig (⭐426)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
-*   [scapy (⭐8.1k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
+*   [pig (⭐432)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
+*   [scapy (⭐8.3k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
 *   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic.
 
 ### Vulnerability Databases / Social Engineering Tools
@@ -565,7 +565,7 @@
 
 *   [Rohban et al. 2017](https://doi.org/10.7554/eLife.24060.001) - Cell painting data from 220 overexpressed genes in U2OS cells (Access from public S3 bucket: `s3://cytodata/datasets/TA-ORF-BBBC037-Rohban/profiles_cp/TA-ORF-BBBC037-Rohban/`).
 *   Unpublished - Cell painting profiles of 596 overexpressed alleles from 53 genes in A549 cells (Access from public S3 bucket: `s3://cytodata/datasets/LUAD-BBBC043-Caicedo/profiles_cp/LUAD-BBBC043-Caicedo/`)
-*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐28)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
+*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐29)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
 ## [30. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -627,29 +627,25 @@
 
 ### Tools / Ansible
 
-*   [bashdot (⭐94)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
-*   [chezmoi (⭐7.8k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-*   [dotbot (⭐5.7k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
-*   [dotdrop (⭐1.4k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-*   [Fisher (⭐6.1k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish
+*   [bashdot (⭐95)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
+*   [chezmoi (⭐8.3k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+*   [dotbot (⭐5.9k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+*   [dotdrop (⭐1.5k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+*   [Fisher (⭐6.3k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish
 *   [homeshick (⭐1.9k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-*   [mackup (⭐12k)](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+*   [mackup (⭐13k)](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 
 ### Tools / macOS
 
-*   [dockutil (⭐1.1k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
-*   [mas (⭐9.3k)](https://github.com/mas-cli/mas) - Mac App Store command line interface
-
-### Miscellaneous / macOS
-
-*   [dotfiles.github.io](http://dotfiles.github.io) - Your unofficial guide to dotfiles on GitHub.
+*   [dockutil (⭐1.2k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
+*   [mas (⭐9.5k)](https://github.com/mas-cli/mas) - Mac App Store command line interface
 
 ### Archive/abandoned projects / macOS
 
 *   [Bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap)
 *   [battleschool (⭐417)](https://github.com/spencergibb/battleschool)
-*   [Eduardo's dotfiles (⭐421)](https://github.com/eduardolundgren/dotfiles)
-*   [Kevin's dotfiles (⭐112)](https://github.com/kdeldycke/dotfiles)
+*   [Eduardo's dotfiles (⭐420)](https://github.com/eduardolundgren/dotfiles)
+*   [Kevin's dotfiles (⭐115)](https://github.com/kdeldycke/dotfiles)
 *   [kody (⭐134)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 
@@ -751,7 +747,7 @@
 
 ### Auth / Image Picker
 
-*   [Apple Sign-In (⭐159)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
+*   [Apple Sign-In (⭐157)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
 
 ### Communication / Game Engine resources
 
@@ -785,12 +781,12 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Analytics (⭐114)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
-*   [BlazorPrettyCode (⭐34)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
-*   [Blazor.EventAggregator (⭐98)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
-*   [Blazor Gamepad (⭐19)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
-*   [Blazor Hotkeys (⭐112)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
-*   [Blazor.LocalFiles (⭐44)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
+*   [Blazor Analytics (⭐118)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
+*   [BlazorPrettyCode (⭐35)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
+*   [Blazor.EventAggregator (⭐101)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
+*   [Blazor Gamepad (⭐20)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
+*   [Blazor Hotkeys (⭐115)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
+*   [Blazor.LocalFiles (⭐45)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 *   [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) – A barcode library for Blazor using barcode fonts.
 
 ## [44. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
@@ -826,7 +822,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Laravel File Manager (⭐930)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
+*   [Laravel File Manager (⭐940)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
 ## [48. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
@@ -844,11 +840,11 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [brooklin (⭐801)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
+*   [brooklin (⭐804)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
 
 ### Table of Contents / Online Machine Learning
 
-*   [streamDM (⭐478)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
+*   [streamDM (⭐477)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
 *   [StormCV (⭐170)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
 *   [trident-ml (⭐383)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐103)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.

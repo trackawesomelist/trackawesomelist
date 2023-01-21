@@ -2,7 +2,7 @@
 
 :sunglasses: A curated list of awesome {Less}
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/LucasBassetti/awesome-less/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 LucasBassetti/awesome-less](https://github.com/LucasBassetti/awesome-less) · ⭐ 52 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/LucasBassetti/awesome-less/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 LucasBassetti/awesome-less](https://github.com/LucasBassetti/awesome-less) · ⭐ 52 · 🏷️ Front-End Development
 
 [ [Daily](/content/LucasBassetti/awesome-less/README.md) / Weekly / [Overview](/content/LucasBassetti/awesome-less/readme/README.md) ]
 

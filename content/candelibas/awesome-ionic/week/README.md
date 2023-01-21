@@ -2,7 +2,7 @@
 
 An "awesome" list of Ionic resources 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/candelibas/awesome-ionic/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) · ⭐ 827 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/candelibas/awesome-ionic/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) · ⭐ 827 · 🏷️ Front-End Development
 
 [ [Daily](/content/candelibas/awesome-ionic/README.md) / Weekly / [Overview](/content/candelibas/awesome-ionic/readme/README.md) ]
 

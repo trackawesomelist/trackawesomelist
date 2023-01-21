@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -130,7 +130,7 @@
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐372)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐369)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -169,13 +169,9 @@
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
 *   [Servo (⭐22k)](https://github.com/servo/servo) — A prototype web browser engine
 
-### Applications / Text editors
-
-*   [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
-
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐589)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐606)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -183,7 +179,7 @@
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐776)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐797)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ### Development tools / Debugging
 
@@ -193,7 +189,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐502)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐503)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -210,15 +206,15 @@
 ### Libraries / Command-line
 
 *   Style
-    *   [LukasKalbertodt/bunt (⭐199)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
+    *   [LukasKalbertodt/bunt (⭐202)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
     *   [LukasKalbertodt/term-painter (⭐75)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output [![build badge](https://api.travis-ci.org/LukasKalbertodt/term-painter.svg?branch=master)](https://travis-ci.org/LukasKalbertodt/term-painter)
     *   [mackwic/colored (⭐1.2k)](https://github.com/mackwic/colored) \[[colored](https://crates.io/crates/colored)] — Coloring terminal so simple, you already know how to do it!
-    *   [ogham/rust-ansi-term (⭐403)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
-    *   [SergioBenitez/yansi (⭐168)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
+    *   [ogham/rust-ansi-term (⭐408)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
+    *   [SergioBenitez/yansi (⭐170)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐48)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐49)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
@@ -229,7 +225,7 @@
 
 *   Low level
     *   [actix/actix (⭐7.6k)](https://github.com/actix/actix) — Actor library for Rust [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
-    *   [dylanmckay/protocol (⭐153)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
+    *   [dylanmckay/protocol (⭐157)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
     *   [libpnet/libpnet (⭐1.8k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking [![build badge](https://api.travis-ci.org/libpnet/libpnet.svg?branch=master)](https://travis-ci.org/libpnet/libpnet)
     *   [smoltcp-rs/smoltcp (⭐2.8k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems [![build badge](https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master)](https://travis-ci.org/smoltcp-rs/smoltcp)
     *   [tokio-rs/tokio (⭐19k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.

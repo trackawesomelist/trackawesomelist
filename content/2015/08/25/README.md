@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 25, 2015
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,13 +22,7 @@ Your contributions are always welcome and greately appreciated, just follow [the
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Utils / Third Party
-
-*   [d3.svg.ribbon (⭐22)](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
-
-## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Newsletter
 
@@ -39,7 +33,7 @@ Your contributions are always welcome and greately appreciated, just follow [the
 
 *   [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
 
-## [4. Tips](/content/git-tips/tips/README.md)
+## [3. Tips](/content/git-tips/tips/README.md)
 
 ## Prunes references to remove branches that have been deleted in the remote.
 
@@ -53,20 +47,20 @@ git fetch -p
 git remote prune origin
 ```
 
-## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Mobile Development
 
 *   [dryrun (⭐3.8k)](https://github.com/cesarferreira/dryrun) - Try any Android library on your smartphone directly from the command line.
 *   [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android.
 
-## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Nix tools
 
 *   [perf-tools (⭐8.7k)](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace.
 
-## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
@@ -78,7 +72,7 @@ git remote prune origin
 *   [HtmlViewer (⭐332)](https://github.com/BerndGabriel/HtmlViewer). `[Delphi]` `[FPC]` Delphi/Lazarus HtmlViewer/FrameViewer.
     // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
-## [8. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
+## [7. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
 ### [git-extras](https://github.com/tj/git-extras)
 
@@ -432,19 +426,19 @@ git remote prune origin
 
 To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.
 
-## [9. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [8. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Resources / Twitter
 
 *   [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder
 
-## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / H individuals
 
 *   Huon Wilson <http://huonw.github.io/>
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
@@ -454,13 +448,13 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 *   [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
 *   [raygun (⭐18)](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
 
-## [13. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [12. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Templates
 

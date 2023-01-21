@@ -2,7 +2,7 @@
 
 4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.1k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐502)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐505)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

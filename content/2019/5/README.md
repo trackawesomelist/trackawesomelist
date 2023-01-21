@@ -2,7 +2,7 @@
 
 58 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Websites / Slides
 
-*   [Phalconist (⭐29)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
+*   [Phalconist (⭐28)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
 ## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -38,23 +38,23 @@
 
 ### operations
 
-*   [rfc7946-to-d3 (⭐10)](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible (⭐892)](https://github.com/d3/d3-geo#d3-geo) conventions.
+*   [rfc7946-to-d3 (⭐10)](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible (⭐904)](https://github.com/d3/d3-geo#d3-geo) conventions.
 *   [geojsontools (⭐18)](https://github.com/micolous/geojsontools): Python tools for manipulating GeoJSON files
 
 ### conversion
 
 *   **CSV**
-    *   [csv2geojson (⭐338)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
+    *   [csv2geojson (⭐341)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
     *   [geojson2dsv (⭐8)](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
-*   [vt-geojson (⭐57)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
-*   [tokml (⭐166)](https://github.com/mapbox/tokml): convert GeoJSON to KML
-*   [wellknown (⭐237)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
+*   [vt-geojson (⭐58)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
+*   [tokml (⭐165)](https://github.com/mapbox/tokml): convert GeoJSON to KML
+*   [wellknown (⭐242)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
 *   [geoxform (⭐13)](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.
 *   **SVG**
-    *   [geojson2svg (⭐162)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
+    *   [geojson2svg (⭐164)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
     *   [geojson-svgify (⭐15)](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
     *   [geojson-to-svg-cli (⭐26)](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
-    *   [svg-to-geojson (⭐106)](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
+    *   [svg-to-geojson (⭐107)](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
 *   [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
 *   [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): convert GeoJSON to/from GeoBuf
 
@@ -176,7 +176,7 @@
 
 ### Calendar / Barcode
 
-*   [CalendarView (⭐524)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
+*   [CalendarView (⭐531)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
 
 ### UITableView / Barcode
 
@@ -186,7 +186,7 @@
 
 ### API for Food services
 
-*   [tacofancy-api (⭐102)](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy.
+*   [tacofancy-api (⭐101)](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy.
 *   [Spoonacular](https://spoonacular.com/food-api) -
     Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
 *   [Edamam](https://developer.edamam.com/) - API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others.
@@ -207,7 +207,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Overkill (⭐460)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+*   [Overkill (⭐462)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ### Gaming Software / System Related Tools
 
@@ -231,7 +231,7 @@
 *   [emel (⭐92)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
 *   [hypex (⭐19)](https://github.com/whitfin/hypex) - Fast Elixir implementation of HyperLogLog.
 *   [mason (⭐10)](https://github.com/spacepilots/mason) - Coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.
-*   [sleeplocks (⭐51)](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
+*   [sleeplocks (⭐52)](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
 
 ### Audio and Sounds
 
@@ -239,23 +239,23 @@
 
 ### BSON
 
-*   [cyanide (⭐7)](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
+*   [cyanide (⭐8)](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
 
 ### Caching
 
 *   [cachex (⭐1.3k)](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with a wide featureset.
 *   [gen\_spoxy (⭐21)](https://github.com/SpotIM/gen_spoxy) - Caching made fun.
-*   [memoize (⭐154)](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
+*   [memoize (⭐155)](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
 *   [stash (⭐51)](https://github.com/whitfin/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ### Cloud Infrastructure and Management
 
-*   [Bonny (⭐274)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
+*   [Bonny (⭐275)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
 
 ### Command Line Applications
 
 *   [ex\_cli (⭐212)](https://github.com/tuvistavie/ex_cli) - User friendly CLI apps for Elixir.
-*   [ratatouille (⭐583)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
+*   [ratatouille (⭐585)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
 
 ### Cryptography
 
@@ -267,7 +267,7 @@
 
 ### Debugging
 
-*   [git\_hooks (⭐132)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
+*   [git\_hooks (⭐134)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 
 ### Eventhandling
 
@@ -277,7 +277,7 @@
 ### Examples and funny stuff
 
 *   [changelog.com (⭐2.5k)](https://github.com/thechangelog/changelog.com) - CMS that runs changelog.com built with Phoenix 1.4.
-*   [hexpm (⭐951)](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
+*   [hexpm (⭐956)](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
 *   [tilex (⭐473)](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
 
 ### Files and Directories
@@ -287,7 +287,7 @@
 
 ### Framework Components
 
-*   [torch (⭐882)](https://github.com/infinitered/torch) - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
+*   [torch (⭐884)](https://github.com/infinitered/torch) - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
 
 ### GUI
 
@@ -299,7 +299,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [telemetry (⭐782)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
+*   [telemetry (⭐786)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
 
 ### JSON
 
@@ -308,7 +308,7 @@
 
 ### Macros
 
-*   [opus (⭐344)](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
+*   [opus (⭐343)](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
 
 ### Miscellaneous
 
@@ -320,7 +320,7 @@
 ### Networking
 
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
-*   [sshkit (⭐118)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
+*   [sshkit (⭐119)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 
 ### ORM and Datamapping
 
@@ -331,11 +331,11 @@
 ### Queue
 
 *   [ecto\_job (⭐265)](https://github.com/mbuhot/ecto_job) - A transactional job queue built with Ecto, PostgreSQL and GenStage.
-*   [Rihanna (⭐426)](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
+*   [Rihanna (⭐427)](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
 
 ### Security
 
-*   [sobelow (⭐1.3k)](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
+*   [sobelow (⭐1.4k)](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
 
 ### Templating
 
@@ -344,7 +344,7 @@
 ### Testing
 
 *   [elixir-auto-test (⭐0)](https://github.com/joaothallis/elixir-auto-test) - Run test when file is saved using inotify-tools.
-*   [mecks\_unit (⭐53)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐777)](https://github.com/eproxus/meck).
+*   [mecks\_unit (⭐53)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐778)](https://github.com/eproxus/meck).
 
 ### Text and Numbers
 
@@ -354,7 +354,7 @@
 ### Third Party APIs
 
 *   [correios\_cep (⭐38)](https://github.com/prodis/correios-cep-elixir) - Find Brazilian addresses by zip code, directly from Correios database. No HTML parsers.
-*   [pay\_pal (⭐34)](https://github.com/zensavona/paypal) - Elixir library for working with the PayPal REST API.
+*   [pay\_pal (⭐33)](https://github.com/zensavona/paypal) - Elixir library for working with the PayPal REST API.
 *   [rs\_twitter (⭐3)](https://github.com/radzserg/rstwitter) - Low Level Twitter Client for Elixir.
 
 ### Utilities
@@ -381,7 +381,7 @@
 
 ### Other Awesome Lists
 
-*   [Awesome Elixir and CQRS (⭐631)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
+*   [Awesome Elixir and CQRS (⭐633)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
 *   [Curated Elixir Resources](https://hackr.io/tutorials/learn-elixir) - A collection of top recommended Elixir resources.
 
 ### Reading
@@ -402,16 +402,16 @@
 
 ### Tools
 
-*   [cl-ctrie (⭐109)](https://github.com/danlentz/cl-ctrie) -
+*   [cl-ctrie (⭐108)](https://github.com/danlentz/cl-ctrie) -
     lock-free, concurrent, key/value index with efficient memory-mapped persistence and fast transient storage models. [MIT](https://opensource.org/licenses/MIT).
 
 ### Javascript / Isomorphic web frameworks
 
-*   [trident-mode (⭐65)](https://github.com/johnmastro/trident-mode.el), an Emacs minor mode for live Parenscript interaction.
+*   [trident-mode (⭐67)](https://github.com/johnmastro/trident-mode.el), an Emacs minor mode for live Parenscript interaction.
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [prometheus.cl (⭐75)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
+*   [prometheus.cl (⭐76)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
 
 ## [23. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -423,7 +423,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [ThunderGBM (⭐647)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
+*   [ThunderGBM (⭐648)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
 
 ## [25. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -511,11 +511,11 @@
 
 ### Generation / Other / unknown licence
 
-*   [automate (⭐2)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
+*   [automate (⭐3)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 
 ### Generators and Translators / Other / unknown licence
 
-*   [j2ada (⭐2)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
+*   [j2ada (⭐3)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 
 ## [34. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 

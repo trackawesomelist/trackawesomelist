@@ -2,7 +2,7 @@
 
 23 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Data Formats
 
-*   [toml.cr (⭐57)](https://github.com/crystal-community/toml.cr) - TOML parser
+*   [toml.cr (⭐58)](https://github.com/crystal-community/toml.cr) - TOML parser
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Libraries / R
 
-*   [mongolite (⭐271)](https://github.com/jeroen/mongolite) - Fast and simple client for R
+*   [mongolite (⭐272)](https://github.com/jeroen/mongolite) - Fast and simple client for R
 
 ### Libraries / Ruby
 
@@ -93,7 +93,7 @@
 
 *   [MongoDB Smasher (⭐31)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
 *   [mtools (⭐1.8k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
-*   [nginx-gridfs (⭐801)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
+*   [nginx-gridfs (⭐799)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
 *   [nginx-mongodb-rest (⭐30)](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
 
 ### Tools / Data
@@ -109,14 +109,14 @@
 *   [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
 *   [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
 *   [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
-*   [Robo 3T (⭐9k)](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
+*   [Robo 3T (⭐9.1k)](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
 *   [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
 
 ### Tools / Development
 
-*   [mgodatagen (⭐279)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [mgodatagen (⭐283)](https://github.com/feliixx/mgodatagen) - Random data generator
 *   [Mongo Playground](https://mongoplayground.net) - Online query playground
-*   [Mongo Seeding (⭐491)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongo Seeding (⭐494)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
 *   [Mongoeye (⭐148)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
@@ -132,7 +132,7 @@
 
 ### Applications / Web
 
-*   [Countly (⭐5k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
+*   [Countly (⭐5.1k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
 *   [Leanote (⭐11k)](https://github.com/leanote/leanote) - Evernote clone built with Go
 *   [NodeBB (⭐13k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
@@ -226,7 +226,7 @@
 
 ### Querying / Symfony2
 
-*   [Insomnia (⭐25k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+*   [Insomnia (⭐26k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
 ## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -251,7 +251,7 @@
 
 ### Software / Pastebins
 
-*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐275)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
+*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐276)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
 
 ## [19. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/CodyReichert/awesome-cl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) · ⭐ 2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/CodyReichert/awesome-cl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) · ⭐ 2K · 🏷️ Programming Languages
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / Overview ]
 
@@ -225,6 +225,13 @@ sellers who aren't evil for physical resources.
     *   [known ASDF extensions](https://common-lisp.net/project/asdf/#extensions), such as `asdf-system-connections`, that lets you specify systems that are automatically loaded when two other systems are loaded, to connect them.
 *   [asdf-linguist (⭐31)](https://github.com/eudoxia0/asdf-linguist) - Extensions for ASDF. [Expat][14].
 *   [asdf-viz (⭐35)](https://github.com/guicho271828/asdf-viz) - a tool to visualize the library dependencies of ASDF systems, the call graph of a function and the class inheritances. [LLGPL][8].
+
+See also:
+
+*   [modularize (⭐5)](https://github.com/Shinmera/modularize) -  A modularization framework for Common Lisp. [zlib][33].
+    *   provides a common interface to segregate major application components.
+    *   for instance, by adding module definition options you can introduce mechanisms to tie modules together in functionality, hook into each other and so on.
+    *   acts as a wrapper around `defpackage` and integrates into ASDF.
 
 # Compilers, code generators
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -57,7 +57,7 @@
 *   Import
     *   [ActiveRecord Import (⭐3.8k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
     *   [bulk\_insert (⭐822)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
-    *   [data\_miner (⭐299)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
+    *   [data\_miner (⭐300)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
     *   [ferry (⭐245)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
 ## [5. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)

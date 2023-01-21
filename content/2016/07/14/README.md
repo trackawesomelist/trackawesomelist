@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### For Electron / Other
 
-*   [electron-devtools-installer (⭐973)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
+*   [electron-devtools-installer (⭐981)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -26,8 +26,8 @@
 
 ### HUD / Barcode
 
-*   [EZLoadingActivity (⭐610)](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
-*   [KRProgressHUD (⭐634)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+*   [EZLoadingActivity (⭐612)](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
+*   [KRProgressHUD (⭐638)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 *   [PKHUD (⭐3.7k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
@@ -56,7 +56,7 @@
 
 ### Algorithms and Data structures
 
-*   [ecto\_state\_machine (⭐91)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
+*   [ecto\_state\_machine (⭐92)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 
 ### Newsletters
 

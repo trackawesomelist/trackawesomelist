@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [timecop.cr (⭐15)](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem (⭐3.2k)](https://github.com/travisjeffery/timecop)
+*   [timecop.cr (⭐18)](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem (⭐3.2k)](https://github.com/travisjeffery/timecop)
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Samples
 
-*   [Simple RTX Vulkan raytracing tutorials (⭐322)](https://github.com/iOrange/rtxON). \[MIT]
+*   [Simple RTX Vulkan raytracing tutorials (⭐327)](https://github.com/iOrange/rtxON). \[MIT]
 
 ## [6. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

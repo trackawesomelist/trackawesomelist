@@ -2,7 +2,7 @@
 
 Resources for independent developers to make money
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mezod/awesome-indie/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mezod/awesome-indie](https://github.com/mezod/awesome-indie) · ⭐ 8K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mezod/awesome-indie/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mezod/awesome-indie](https://github.com/mezod/awesome-indie) · ⭐ 8K · 🏷️ Business
 
 [ [Daily](/content/mezod/awesome-indie/README.md) / Weekly / [Overview](/content/mezod/awesome-indie/readme/README.md) ]
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 23, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Software / Frameworks
 
-*   [AREG SDK (⭐79)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
+*   [AREG SDK (⭐81)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
-*   [WordTester (⭐2)](https://github.com/KamilBugnoKrk/WordTester) - ![last commit](https://img.shields.io/github/last-commit/KamilBugnoKrk/WordTester) An application for learning foreign words using flashcards and spaced repetition.
+*   [WordTester (⭐3)](https://github.com/KamilBugnoKrk/WordTester) - ![last commit](https://img.shields.io/github/last-commit/KamilBugnoKrk/WordTester) An application for learning foreign words using flashcards and spaced repetition.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -33,14 +33,14 @@
 
 ### Tools / Collection View Layout
 
-*   [Rugby (⭐468)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐484)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [alichtman/shallow-backup (⭐968)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [aregtech/areg-sdk (⭐73)](https://github.com/aregtech/areg-sdk#readme) - Description of the project and use cases with explanation graphics. Build with multiple tools and integration instructions, reference to the guidance to create the first project. Examples. Project logo. Multiple badges. Headlines with graphics. TOC for easy navigation.
+*   [alichtman/shallow-backup (⭐991)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+*   [aregtech/areg-sdk (⭐79)](https://github.com/aregtech/areg-sdk#readme) - Description of the project and use cases with explanation graphics. Build with multiple tools and integration instructions, reference to the guidance to create the first project. Examples. Project logo. Multiple badges. Headlines with graphics. TOC for easy navigation.
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -74,17 +74,17 @@
 
 ### Applications / System tools
 
-*   [dalance/procs (⭐3.5k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
+*   [dalance/procs (⭐3.6k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### JavaScript Engines
 
-*   [YantraJS (⭐69)](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
+*   [YantraJS (⭐76)](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
 
 ### Misc
 
-*   [Build Versioning (⭐44)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
+*   [Build Versioning (⭐43)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 
 ## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -92,7 +92,21 @@
 
 *   [Tasking Manager](https://tasks.hotosm.org/) - Tasking Manager is a platform where anybody can learn to use Open Street Map and contribute to mapping undermapped areas of the world. This work is critical for disaster preparation and resiliency in developing countries, so that aid workers and community members have access to accurate maps when disasters strike.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Cloud Computing
+
+*   [Building Serverless Applications with Google Cloud Run](https://www.cockroachlabs.com/guides/oreilly-building-serverless-applications-with-google-cloud-run/) - Wietse Venema (PDF) (email address requested, not required)
+
+### Machine Learning
+
+*   [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan (PDF, EPUB, Kindle)
+
+### Operating Systems
+
+*   [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
+
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anti-Malware
 

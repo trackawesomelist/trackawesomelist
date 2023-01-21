@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -11,20 +11,20 @@
 ### ASM / Syntax highlighting packages
 
 *   [Tuff (⭐302)](https://github.com/BonsaiDen/Tuff.gb)
-*   [2048-gb (⭐98)](https://github.com/Sanqui/2048-gb)
+*   [2048-gb (⭐100)](https://github.com/Sanqui/2048-gb)
 *   [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
-*   [Lazerpong (⭐13)](https://github.com/huderlem/lazerpong)
+*   [Lazerpong (⭐12)](https://github.com/huderlem/lazerpong)
 *   [Geometrix (⭐28)](https://github.com/AntonioND/geometrix)
-*   [µCity (⭐349)](https://github.com/AntonioND/ucity)
+*   [µCity (⭐359)](https://github.com/AntonioND/ucity)
 *   [Carazu (⭐16)](https://github.com/mholtkamp/carazu)
 *   [Snake-gb (⭐15)](https://github.com/DonaldHays/snake-gb)
-*   [GB303 (⭐94)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
-*   [Sushi (⭐3)](https://github.com/JustSid/Sushi)
+*   [GB303 (⭐97)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
+*   [Sushi (⭐4)](https://github.com/JustSid/Sushi)
 *   [Flappy-boy-asm (⭐82)](https://github.com/bitnenfer/flappy-boy-asm)
 *   [Adjustris (⭐11)](https://github.com/tbsp/Adjustris)
 *   [exeman (⭐26)](https://github.com/exezin/exeman/)
 *   [Aevilia (⭐55)](https://github.com/ISSOtm/Aevilia-GB)
-*   [GBSlides (⭐24)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
+*   [GBSlides (⭐25)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 *   [Pokered-gbc (⭐102)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
 *   [ToyToy (⭐9)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 *   [StefaN (⭐3)](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone.
@@ -41,7 +41,7 @@
 *   [GBsnake (⭐26)](https://github.com/brovador/GBsnake)
 *   [gb-mines (⭐24)](https://github.com/andreasjhkarlsson/gb-mines)
 *   [oranges](http://www.atari2600land.com/gameboy/oranges.html)
-*   [red hot princess carnage (⭐5)](https://github.com/Imanolea/bitbitjam3_red_hot_princess_carnage)
+*   [red hot princess carnage (⭐6)](https://github.com/Imanolea/bitbitjam3_red_hot_princess_carnage)
 *   [loderunner](http://www.tensi.eu/thomas/programming/gameboy/loderunner.html)
 *   [Hives](https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/)
 *   [GBC Atari Boxing (⭐2)](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color).
@@ -60,7 +60,7 @@
 
 ### Other Tools / Telegram
 
-*   [The Harvester (⭐7.5k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐7.9k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -137,16 +137,16 @@
 
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 *   [prest (⭐3.5k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-*   [resquel (⭐106)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+*   [resquel (⭐107)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgmetrics (⭐808)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
+*   [pgmetrics (⭐816)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
 *   [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
-*   [Pyora (⭐104)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
+*   [Pyora (⭐105)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
 
 ## [8. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

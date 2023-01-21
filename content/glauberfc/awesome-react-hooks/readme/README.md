@@ -2,7 +2,7 @@
 
 A curated list about React Hooks
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/glauberfc/awesome-react-hooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 glauberfc/awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) · ⭐ 1.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/glauberfc/awesome-react-hooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 glauberfc/awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) · ⭐ 1.1K · 🏷️ Front-End Development
 
 [ [Daily](/content/glauberfc/awesome-react-hooks/README.md) / [Weekly](/content/glauberfc/awesome-react-hooks/week/README.md) / Overview ]
 

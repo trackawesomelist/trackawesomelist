@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,7 +33,7 @@
 
 ### Date and Time
 
-*   [dateutil (⭐1.9k)](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
+*   [dateutil (⭐2k)](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
 
 ### Files
 
@@ -52,9 +52,9 @@
 
 *   Testing Frameworks
     *   [hypothesis (⭐6.4k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
-    *   [nose2 (⭐735)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
+    *   [nose2 (⭐737)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
     *   [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
-    *   [Robot Framework (⭐7.6k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
+    *   [Robot Framework (⭐7.7k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
     *   [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)

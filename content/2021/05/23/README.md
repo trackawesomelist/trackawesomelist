@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -89,7 +89,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollama (⭐412)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
+*   [vue-scrollama (⭐414)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Uncategorized
 
-*   [CrowdSec (⭐5.8k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+*   [CrowdSec (⭐6k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,13 +16,13 @@
 
 ### Navigation / Image Picker
 
-*   [go\_router (⭐429)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
+*   [go\_router (⭐427)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Keycloak: Home IdP Discovery extension (⭐61)](https://github.com/sventorben/keycloak-home-idp-discovery)
+*   [Keycloak: Home IdP Discovery extension (⭐78)](https://github.com/sventorben/keycloak-home-idp-discovery)
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Examples
 
-*   [zenml-io/zenml (⭐2.4k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
+*   [zenml-io/zenml (⭐2.6k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Blockchain dump
 
-*   [Chaingraph (⭐21)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
+*   [Chaingraph (⭐24)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

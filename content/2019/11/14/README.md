@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -63,7 +63,7 @@
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐246)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [WordPress-Gatsby (⭐249)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 
 ## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -95,7 +95,7 @@
 
 ### REST and API
 
-*   [CrudJsonApi plugin (⭐47)](https://github.com/FriendsOfCake/crud-json-api) - Crud listener for building [JSON API](https://jsonapi.org/) compliant APIs.
+*   [CrudJsonApi plugin (⭐49)](https://github.com/FriendsOfCake/crud-json-api) - Crud listener for building [JSON API](https://jsonapi.org/) compliant APIs.
 
 ### Templating
 
@@ -137,7 +137,7 @@
 
 ## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### IT Asset Management / Single Sign-On (SSO)
+### Software / IT Asset Management
 
 *   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
 

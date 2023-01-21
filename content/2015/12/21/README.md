@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 21, 2015
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -63,13 +63,7 @@
 
 *   [Laravel 台灣](https://www.facebook.com/groups/laravel.tw/)
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### UI / Barcode
-
-*   [NextGrowingTextView (⭐1.7k)](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
-
-## [9. Codeface](/content/chrissimpkins/codeface/README.md)
+## [8. Codeface](/content/chrissimpkins/codeface/README.md)
 
 ### The Gallery
 
@@ -84,7 +78,7 @@
 
 § The End
 
-## [10. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [9. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Resources
 

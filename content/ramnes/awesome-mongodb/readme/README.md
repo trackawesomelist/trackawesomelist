@@ -2,7 +2,7 @@
 
 :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ramnes/awesome-mongodb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) · ⭐ 2.1K · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ramnes/awesome-mongodb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) · ⭐ 2.1K · 🏷️ Databases
 
 [ [Daily](/content/ramnes/awesome-mongodb/README.md) / [Weekly](/content/ramnes/awesome-mongodb/week/README.md) / Overview ]
 
@@ -16,7 +16,7 @@
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/README.md/CONTRIBUTING.md)!
+Inspired by the [awesome (⭐231k)](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/README.md/CONTRIBUTING.md)!
 
 ## Table of Contents
 
@@ -101,7 +101,7 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 *   [Kubernetes examples (⭐5.3k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 *   [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
-*   [Sharded Cluster with Docker Compose (⭐217)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+*   [Sharded Cluster with Docker Compose (⭐241)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
 ### More
 
@@ -113,18 +113,18 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 ### C
 
-*   [mongo-c-driver (⭐748)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐753)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### C++
 
-*   [mongo-cxx-driver (⭐919)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
+*   [mongo-cxx-driver (⭐928)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### C#/.NET
 
 *   [mongo-csharp-driver (⭐2.9k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
 *   [mongo-queue-csharp (⭐2)](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue on top of MongoDB
 *   [MongoDB Messaging (⭐57)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
-*   [MongoRepository (⭐306)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+*   [MongoRepository (⭐307)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Delphi
 
@@ -137,42 +137,42 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 ### Erlang
 
-*   [mongodb-erlang (⭐328)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
+*   [mongodb-erlang (⭐331)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
 
 ### Go
 
 *   [Bongo (⭐481)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
 *   [minquery (⭐60)](https://github.com/icza/minquery) - MongoDB cursor that paginates
-*   [mongo-go-driver (⭐7k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
+*   [mongo-go-driver (⭐7.1k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
 ### Haskell
 
-*   [mongodb (⭐159)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
+*   [mongodb (⭐162)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
 
 ### Java
 
 *   [Jongo (⭐572)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
-*   [Hibernate OGM (⭐313)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
+*   [Hibernate OGM (⭐314)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.5k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
 *   [mongo-queue-java (⭐35)](https://github.com/yonderblue/mongo-queue-java) - Java message queue on top of MongoDB
 *   [mongoFS (⭐20)](https://github.com/dbuschman7/mongoFS) - An enhancement of GridFS to allow for more features and capabilities
-*   [Mongojack (⭐257)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
+*   [Mongojack (⭐259)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
 *   [Morphia (⭐1.6k)](https://github.com/MorphiaOrg/morphia) - Java ODM
-*   [Morphium (⭐52)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
+*   [Morphium (⭐54)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
 *   [Mungbean (⭐20)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
 *   [Spring Data MongoDB (⭐1.5k)](https://github.com/spring-projects/spring-data-mongodb) - Spring based, object-document support and repositories
 
 ### JavaScript
 
-*   [Camo (⭐552)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
-*   [DeriveJS (⭐53)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
+*   [Camo (⭐553)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [DeriveJS (⭐54)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
 *   [MEAN.JS (⭐4.9k)](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
 *   [MERN (mern-starter) (⭐5.1k)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
 *   [Meteor (⭐43k)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
 *   [Mongoose (⭐25k)](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
-*   [CASL Mongoose (⭐4.4k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
-*   [mongration (⭐80)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [CASL Mongoose (⭐4.5k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [mongration (⭐81)](https://github.com/awapps/mongration) - Node.js migration framework
 *   [Moonridge (⭐65)](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
 *   [node-mongodb-native (⭐9.6k)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
@@ -182,12 +182,12 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 ### Kotlin
 
-*   [kmongo (⭐711)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+*   [kmongo (⭐724)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ### Lisp
 
 *   [cl-mongo (⭐134)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
-*   [mongo-cl-driver (⭐35)](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
+*   [mongo-cl-driver (⭐36)](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
 *   [mongo-el (⭐45)](https://github.com/emacsorphanage/mongo) - Community Emacs Lisp driver
 
 ### Mathematica
@@ -197,32 +197,32 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 ### PHP
 
 *   [eloquent-mongodb-repository (⭐18)](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
-*   [laravel-mongodb (⭐6.2k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+*   [laravel-mongodb (⭐6.3k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
 *   [mongodb-repository (⭐9)](https://github.com/nilportugues/mongodb-repository) - Repository implementation
-*   [PHP Driver (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
-*   [PHPMongo ODM (⭐239)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
+*   [PHP Driver (⭐800)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+*   [PHPMongo ODM (⭐240)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
 *   [yadm (⭐83)](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ### Python
 
-*   [Beanie (⭐922)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+*   [Beanie (⭐972)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 *   [Djongo (⭐1.7k)](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
-*   [Flask-Stupe (⭐28)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
-*   [Mongo-Thingy (⭐59)](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
+*   [Flask-Stupe (⭐27)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
+*   [Mongo-Thingy (⭐63)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 *   [MongoEngine (⭐3.9k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 *   [MongoLog (⭐132)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
-*   [Motor (⭐2k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
+*   [Motor (⭐2.1k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
 *   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 *   [PyMongoExplain (⭐3)](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
 *   [minimongo (⭐326)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
-*   [ODMantic (⭐709)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
-*   [scrapy-mongodb (⭐347)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
-*   [μMongo (⭐422)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+*   [ODMantic (⭐730)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
+*   [scrapy-mongodb (⭐351)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+*   [μMongo (⭐427)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ### R
 
-*   [mongolite (⭐271)](https://github.com/jeroen/mongolite) - Fast and simple client for R
+*   [mongolite (⭐272)](https://github.com/jeroen/mongolite) - Fast and simple client for R
 
 ### Ruby
 
@@ -237,20 +237,20 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 ### Scala
 
 *   [driver-scala (⭐2.5k)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - Official Scala driver
-*   [ReactiveMongo (⭐834)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
-*   [Spark-MongoDB (⭐308)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+*   [ReactiveMongo (⭐836)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
+*   [Spark-MongoDB (⭐306)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## Tools
 
 ### Administration
 
-*   [k8s-backup-mongodb (⭐24)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
-*   [mgob (⭐769)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
+*   [k8s-backup-mongodb (⭐26)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
+*   [mgob (⭐770)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
 *   [mongoctl (⭐177)](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
 *   [MongoDB Smasher (⭐31)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
-*   [mongodb-tools (⭐290)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+*   [mongodb-tools (⭐291)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 *   [mtools (⭐1.8k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
-*   [nginx-gridfs (⭐801)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
+*   [nginx-gridfs (⭐799)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
 *   [nginx-mongodb-rest (⭐30)](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
 *   [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics
 *   [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
@@ -266,7 +266,7 @@ Services:
 ### Data
 
 *   [mongo-connector (⭐1.9k)](https://github.com/yougov/mongo-connector) - Streaming replication to Elasticsearch, Solr, or MongoDB
-*   [mongo\_fdw (⭐267)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
+*   [mongo\_fdw (⭐273)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
 *   [mongo-hadoop (⭐1.5k)](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
 *   [Mongolastic (⭐134)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
 *   [MongoMultiMaster (⭐67)](https://github.com/rick446/mmm) - Multi-master replication
@@ -274,8 +274,8 @@ Services:
 
 ### Deployment
 
-*   [ansible-role-mongodb (⭐325)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
-*   [chef-mongodb (⭐366)](https://github.com/edelight/chef-mongodb) - Chef cookbook
+*   [ansible-role-mongodb (⭐326)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
+*   [chef-mongodb (⭐365)](https://github.com/edelight/chef-mongodb) - Chef cookbook
 *   [DockerHub Official Docker Image](https://hub.docker.com/_/mongo/)
 *   [Helm Chart (⭐15k)](https://github.com/helm/charts/tree/master/stable/mongodb)
 *   [puppet-mongodb (⭐92)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
@@ -297,16 +297,16 @@ Services:
 *   [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
 *   [Nosqlclient (⭐3.4k)](https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (formerly Mongoclient)
 *   [QueryAssist](https://queryassist.com) - Modern and powerful GUI tool, cross-platform and easy-to-use
-*   [Robo 3T (⭐9k)](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
+*   [Robo 3T (⭐9.1k)](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
 *   [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
 *   [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
 
 ### Development
 
 *   [C# Analyzer (⭐8)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
-*   [mgodatagen (⭐279)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [mgodatagen (⭐283)](https://github.com/feliixx/mgodatagen) - Random data generator
 *   [Mongo Playground](https://mongoplayground.net) - Online query playground
-*   [Mongo Seeding (⭐491)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongo Seeding (⭐494)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
 *   [Mongoeye (⭐148)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 *   [VS Code Extension](https://www.mongodb.com/docs/mongodb-vscode/)
@@ -320,14 +320,14 @@ Services:
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
 *   [mongo-monitor (⭐75)](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
-*   [mongo-munin (⭐148)](https://github.com/erh/mongo-munin) - Collection of Munin plugins
+*   [mongo-munin (⭐147)](https://github.com/erh/mongo-munin) - Collection of Munin plugins
 *   [Mongoop (⭐38)](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
 *   [mongomon (⭐23)](https://github.com/pcdummy/mongomon) - More Munin plugins
 *   [Motop (⭐67)](https://github.com/tart/motop) - MongoDB top clone
 *   [mtop (⭐51)](https://github.com/beaufour/mtop) - Another top clone
 *   [nagios-plugin-mongodb (⭐350)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 *   [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Free and open-source platform for managing and monitoring databases performances
-*   [mongotail (⭐178)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+*   [mongotail (⭐179)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 Services:
 
@@ -336,8 +336,8 @@ Services:
 
 ### Shell
 
-*   [MongoDB Atlas CLI (⭐133)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
-*   [mongosh (⭐212)](https://github.com/mongodb-js/mongosh) - Official command-line client
+*   [MongoDB Atlas CLI (⭐135)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+*   [mongosh (⭐222)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
 ### Web
 
@@ -358,7 +358,7 @@ Those open-source applications have MongoDB somewhere in their stack:
 
 *   [Builder Book App (⭐3.4k)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
 *   [CodeCombat (⭐7.7k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
-*   [Countly (⭐5k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
+*   [Countly (⭐5.1k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
 *   [FactorJS (⭐1.3k)](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
 *   [GrandNode (⭐1.8k)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
 *   [Leanote (⭐11k)](https://github.com/leanote/leanote) - Evernote clone built with Go

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -188,7 +188,7 @@
 ### GUI
 
 *   [Adminer (⭐5.5k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
-*   [phpMyAdmin (⭐6.3k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
+*   [phpMyAdmin (⭐6.4k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 *   [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 
 ### Monitoring/Statistics/Perfomance / Samples

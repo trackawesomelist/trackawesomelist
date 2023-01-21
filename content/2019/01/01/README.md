@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 01, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### DevSecOps / Service meshes
 
-*   [Clair (⭐9.1k)](https://github.com/coreos/clair) - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
+*   [Clair (⭐9.2k)](https://github.com/coreos/clair) - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
 *   [Gauntlt](http://gauntlt.org/) - Pentest applications during routine continuous integration build pipelines.
 *   [SonarQube](https://sonarqube.org) - Continuous inspection tool that provides detailed reports during automated testing and alerts on newly introduced security vulnerabilities.
 
@@ -71,19 +71,13 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 ### Message Queues
 
 *   [pyzmq (⭐3.2k)](https://github.com/zeromq/pyzmq) - Python bindings for ZeroMQ.
-*   [aiozmq (⭐389)](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
+*   [aiozmq (⭐394)](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
 
 ### Writings
 
 *   [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [CSS Animation 101 (⭐4.3k)](https://github.com/cssanimation/css-animation-101)
-
-## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Machine Learning / Other / unknown licence
 
@@ -93,7 +87,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 *   [ada-promises (⭐6)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 

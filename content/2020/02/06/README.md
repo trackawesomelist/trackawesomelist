@@ -2,7 +2,7 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -52,7 +52,7 @@
 
 ### Data Visualization
 
-*   [diagrams (⭐27k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
+*   [diagrams (⭐28k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -64,7 +64,7 @@
 
 ### UI Testing
 
-*   [AutoMate (⭐270)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
+*   [AutoMate (⭐273)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 
 ## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Build Automation
 
-*   [FlubuCore (⭐826)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐833)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ### CLI
 
@@ -97,7 +97,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [IronScheme (⭐334)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+*   [IronScheme (⭐336)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
 *   [VisualFSharp (⭐3.3k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 
 ### Database
@@ -106,7 +106,7 @@
 
 ### Documentation
 
-*   [SourceBrowser (⭐899)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
+*   [SourceBrowser (⭐914)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
 
 ### E-Commerce and Payments
 

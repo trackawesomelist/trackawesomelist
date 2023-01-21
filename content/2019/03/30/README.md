@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 ### Text / Barcode
 
 *   [BonMot (⭐3.4k)](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
-*   [VEditorKit (⭐469)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
+*   [VEditorKit (⭐471)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 
 ### Label / Barcode
 
@@ -67,7 +67,7 @@
 ### CLI / dbcli
 
 *   [athenacli (⭐193)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
-*   [litecli (⭐1.7k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
+*   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
 *   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
 *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 *   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
@@ -99,7 +99,7 @@
 
 ### Top / Game Engine resources
 
-*   [Instory (⭐205)](https://github.com/InvertedX/instory) <!--stargazers:InvertedX/instory--> - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar)
+*   [Instory (⭐204)](https://github.com/InvertedX/instory) <!--stargazers:InvertedX/instory--> - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar)
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Networking
 
-*   [MQTT-C (⭐564)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐569)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 
 ### Reflection
 

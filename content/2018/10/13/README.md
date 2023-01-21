@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -40,7 +40,7 @@
 
 ### Misc
 
-*   [Guard (⭐671)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐676)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Open Source / Other
 
-*   [Etcher (⭐24k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
+*   [Etcher (⭐25k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source / Other
 
@@ -135,20 +135,20 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐194)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐509)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐195)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐518)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
-*   [llnode (⭐1k)](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
+*   [llnode (⭐1.1k)](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐312)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐319)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐478)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐485)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 

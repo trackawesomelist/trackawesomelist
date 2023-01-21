@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Storage / Bluetooth / NFC / Beacon
 
-*   [Moor (⭐1.7k)](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
+*   [Moor (⭐1.8k)](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
     Simon Binder](https://github.com/simolus3)
 
 ## [3. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
@@ -90,20 +90,20 @@
 
 ### Sensors / Soil Moisture
 
-*   [MicroPython-MiFlora (⭐2)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka. flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
+*   [MicroPython-MiFlora (⭐2)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Authentication and Authorization
 
-*   :strawberry: [ADmad/SocialAuth plugin (⭐45)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐514)](https://github.com/SocialConnect/auth) social sign on library.
+*   :strawberry: [ADmad/SocialAuth plugin (⭐46)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐517)](https://github.com/SocialConnect/auth) social sign on library.
 
 ## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Cloud platform security / Kubernetes
 
 *   [Kyverno](https://kyverno.io/) - Policy engine designed for Kubernetes.
-*   [k-rail (⭐437)](https://github.com/cruise-automation/k-rail) - Workload policy enforcement tool for Kubernetes.
+*   [k-rail (⭐443)](https://github.com/cruise-automation/k-rail) - Workload policy enforcement tool for Kubernetes.
 *   [kubernetes-event-exporter (⭐1k)](https://github.com/opsgenie/kubernetes-event-exporter) - Allows exporting the often missed Kubernetes events to various outputs so that they can be used for observability or alerting purposes.
 
 ## [10. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
@@ -145,7 +145,7 @@ git push origin HEAD
 
 ### Components & Libraries / UI Components
 
-*   [vue-concise-carousel (⭐6)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
+*   [vue-concise-carousel (⭐7)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
 
 ### Components & Libraries / UI Utilities
 

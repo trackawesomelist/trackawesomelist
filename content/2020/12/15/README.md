@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,11 +45,11 @@
 
 ### Data Store / Mouse Events
 
-*   [effector-react (⭐4k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
+*   [effector-react (⭐4.1k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
 
 ### Boilerplate / Mouse Events
 
-*   [react-enterprise-starter-kit (⭐70)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+*   [react-enterprise-starter-kit (⭐71)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
 
 ## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐175)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐179)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐464)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐468)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
 
 ---
 

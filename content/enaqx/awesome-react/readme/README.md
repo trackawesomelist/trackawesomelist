@@ -2,7 +2,7 @@
 
 A collection of awesome things regarding React ecosystem
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/enaqx/awesome-react/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 enaqx/awesome-react](https://github.com/enaqx/awesome-react) · ⭐ 53K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/enaqx/awesome-react/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 enaqx/awesome-react](https://github.com/enaqx/awesome-react) · ⭐ 53K · 🏷️ Front-End Development
 
 [ [Daily](/content/enaqx/awesome-react/README.md) / [Weekly](/content/enaqx/awesome-react/week/README.md) / Overview ]
 

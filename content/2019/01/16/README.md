@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -33,7 +33,7 @@
 *   [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 *   [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
 *   [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
-*   [Synfig](https://www.patreon.com/synfig) - 2D animation software.
+*   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 *   [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor.
 *   [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 *   [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
@@ -138,20 +138,20 @@
 
 ### Contents / Communication
 
-*   [SpaceX GO (⭐750)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
+*   [SpaceX GO (⭐779)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
 
 ### Contents / Finance
 
-*   [Platypus Crypto (⭐175)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
+*   [Platypus Crypto (⭐177)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
 
 ### Contents / Media
 
-*   [Grey (⭐508)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
+*   [Grey (⭐512)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
 *   [InKino (⭐3.4k)](https://github.com/roughike/inKino) - A multiplatform Dart movie app by [Iiro Krankka](https://github.com/roughike).
 
 ### Contents / Productivity
 
-*   [Trinity Orientation (⭐600)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
+*   [Trinity Orientation (⭐604)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 
 ---
 

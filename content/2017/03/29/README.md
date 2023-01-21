@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Web / Playground
 
-*   :octocat: [APIs-guru/graphql-voyager (⭐7k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
+*   :octocat: [APIs-guru/graphql-voyager (⭐7.1k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 *   :octocat: [Rebilly/ReDoc (⭐19k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)

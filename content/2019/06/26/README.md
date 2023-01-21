@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,8 +16,8 @@
 
 ### External Services
 
+*   [music-box (⭐96)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 *   [strava-box (⭐34)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
-*   [music-box (⭐94)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Functional
 
-*   [atomico (⭐888)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+*   [atomico (⭐898)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

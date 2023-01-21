@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.3k)](https://github.com/plankanban/planka)) `MIT` `Nodejs`
+*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.4k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs`
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.ScriptInjection (⭐17)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
+*   [Blazor.ScriptInjection (⭐21)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 
 ## [7. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 

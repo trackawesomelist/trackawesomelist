@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 19 - Jun 25, 2017
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -47,7 +47,7 @@
 
 ### Ruby / Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐973)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
+*   [Awesome NLP with Ruby (⭐977)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 
 ## [7. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -102,7 +102,7 @@
 
 ### For Electron / Other
 
-*   [electron-unhandled (⭐397)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
+*   [electron-unhandled (⭐400)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 
 ## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -135,13 +135,7 @@
 
 *   [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C# / Non-X86
-
-*   [High level asynchronous programming with Reactive Extensions (⭐71)](https://github.com/petroemil/Rx.Book) - Emil Petro
-
-## [16. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [15. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Communication
 
@@ -154,19 +148,19 @@
 
 *   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
-## [17. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [16. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Misc
 
 *   [Notice (⭐22)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 
-## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web / Playground
 
 *   :octocat: [React-UWP (⭐1.2k)](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
 
-## [19. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Surreal Numbers
 
@@ -175,7 +169,7 @@
 *   [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 *   [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
-## [20. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md)
+## [19. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md)
 
 ### Disable Right-Click
 
@@ -217,37 +211,37 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-## [21. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [20. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Articles & Tutorials / Overall Topics
 
 *   [JavaScript.info](http://javascript.info) - A modern tutorial from the basics to advanced topics with simple, but detailed explanations.
 
-## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
 *   [Laratrust (⭐1.9k)](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams
 
-## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [22. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Java SDK
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐3.8k)](https://github.com/aws/aws-sdk-java)
 
-## [24. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [23. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [hiveplot](https://pypi.python.org/pypi/hiveplot) - Python utility for drawing networks as hive plots on matplotlib, a more comprehensive network visualization.
 
-## [25. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [24. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
-*   [webarchive-indexing (⭐35)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
+*   [webarchive-indexing (⭐36)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
-## [26. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [25. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Gradient boosting
 
@@ -261,7 +255,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
     *   *bayes\_motel – Bayesian classification for Ruby* by [Mike Perham](https://twitter.com/mperham) <sup>\[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
     *   *Intelligent Ruby: Getting Started with Machine Learning* by [Ilya Grigorik](https://twitter.com/igrigorik) <sup>\[[video](https://vimeo.com/22513786)]</sup>
 
-## [27. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [26. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -336,13 +330,13 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 *   [Digital Signal Processing Course](http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html) - Masters Course Material (University of Rostock) with many Python examples.
 *   [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
-## [28. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+## [27. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
 ### Vendors
 
 *   [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -350,9 +344,9 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollactive (⭐534)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
+*   [vue-scrollactive (⭐536)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -360,9 +354,9 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Models/Projects
 
-*   [3D Convolutional Neural Networks in TensorFlow (⭐751)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
+*   [3D Convolutional Neural Networks in TensorFlow (⭐754)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 
-## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [30. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Communication
 
@@ -380,7 +374,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 *   [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
 *   [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
 
-## [32. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [31. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Videos / Documentaries
 
@@ -390,13 +384,13 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
     *   [Part 3: Bubble](https://www.youtube.com/watch?v=aQjnkyoNIfg) – The dot-com crash of 2000 and the mainstays of the Internet: Amazon.com and Ebay
     *   [Part 4: People Power](https://www.youtube.com/watch?v=f42J_reRO0Q) – Peer to peer technology, web 2.0, and social networking
 
-## [33. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [32. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Blog Posts & Articles
 
 *   [Learning Draft.js](https://reactrocket.com/series/learning-draft-js/) - Series of blog posts on how to develop with draft.js
 
-## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
@@ -460,7 +454,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 *   [madebyevan.com](http://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
 *   [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
 
-## [35. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [34. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Productivity
 
@@ -473,7 +467,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 *   [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0\&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
 *   [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
 
-## [36. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [35. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / Ebooks
 
@@ -483,14 +477,14 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
 
-## [37. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
+## [36. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
 ### Websites
 
 *   [multiplayerchess.com](http://multiplayerchess.com) - A simple single page chess playing application facilitating the play of chess.
 *   [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
 
-## [38. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [37. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Java VM / Java
 
@@ -560,7 +554,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 *   [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
 *   [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -570,13 +564,13 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   [akka.net (⭐4.2k)](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 
-## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [39. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key-value Data Model
 
 *   [BTDB (⭐126)](https://github.com/Bobris/BTDB) - Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
 
-## [41. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [40. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Asset Creators
 
@@ -640,11 +634,11 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   [Bluetooth (⭐8)](https://github.com/myflashlab/bluetooth-ANE) - Scan for other devices, connect to and pair with them and transfer data between them.
 
-## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Analytics
 
-*   [Umbrella (⭐599)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐601)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
@@ -656,7 +650,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐813)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐815)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Auto Layout / Barcode
 
@@ -676,7 +670,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐115)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐116)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 ### Menu / Barcode
 
@@ -690,15 +684,11 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   [CBPinEntryView (⭐183)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 
-### UITableView / Barcode
-
-*   [ExpyTableView (⭐359)](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
-
 ### Version Manager / Barcode
 
-*   [Siren (⭐4k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
+*   [Siren (⭐4.1k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 
-## [43. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / C companies
 
@@ -708,7 +698,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   Opensooq <http://engineering.opensooq.com/>
 
-## [44. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [43. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Blogs
 

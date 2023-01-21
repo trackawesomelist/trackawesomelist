@@ -2,7 +2,7 @@
 
 A community driven list of useful Scala libraries, frameworks and software.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauris/awesome-scala/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lauris/awesome-scala](https://github.com/lauris/awesome-scala) · ⭐ 8.6K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauris/awesome-scala/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauris/awesome-scala](https://github.com/lauris/awesome-scala) · ⭐ 8.6K · 🏷️ Programming Languages
 
 [ [Daily](/content/lauris/awesome-scala/README.md) / Weekly / [Overview](/content/lauris/awesome-scala/readme/README.md) ]
 

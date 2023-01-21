@@ -1,8 +1,8 @@
 # Awesome List Updates on Mar 15, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -20,7 +20,7 @@
 
 *   :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
 *   :octocat: [Microsoft/TypeScript-React-Starter (⭐11k)](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
-*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐38k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
+*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐39k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
 *   :octocat: [jsxtyper (⭐36)](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 *   :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 *   :octocat: [TodoMVC • TypeScript + React Example (⭐28k)](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
@@ -29,9 +29,9 @@
 *   :robot: [Convert React code to TypeScript automatically (⭐1.6k)](https://github.com/lyft/react-javascript-to-typescript-transform)
 *   :octocat: [React Server Example TSX (⭐271)](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
 *   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
-*   :octocat: [Typescript Monorepo CRA Example (⭐25)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
+*   :octocat: [Typescript Monorepo CRA Example (⭐26)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
 *   :octocat: [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-*   :stars: [Crisp React (⭐156)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+*   :stars: [Crisp React (⭐157)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 *   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 
 ### Back-end API / Playground
@@ -68,7 +68,7 @@
 
 ### Tools / Graphics utilities
 
-*   [Superfamiconv (⭐94)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
+*   [Superfamiconv (⭐97)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -251,7 +251,7 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [printv (⭐66)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [printv (⭐67)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [12. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -264,7 +264,7 @@
 
 ### Related
 
-*   [Developers Guide to HIPAA Compliance (⭐1.5k)](https://github.com/truevault/hipaa-compliance-developers-guide)
+*   [Developers Guide to HIPAA Compliance (⭐1.6k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -283,12 +283,6 @@
 ### Screenshot APIs
 
 *   [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides web site screenshot and domain intelligence API services. Free 100 requests/month.
-
-## [15. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Utilities
-
-*   [Kooha (⭐1.1k)](https://github.com/SeaDve/Kooha) - A simple screen recorder.
 
 ---
 

@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,17 +10,17 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SwiftPlantUML (⭐246)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftPlantUML (⭐277)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Interface X (⭐57)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
+*   [Interface X (⭐59)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
 
 ## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - By [Brandon Chu](https://twitter.com/brandonmchu).
 
@@ -58,7 +58,7 @@
 
 ### Audio
 
-*   [dr\_libs (⭐893)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
+*   [dr\_libs (⭐902)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
 *   [miniaudio (⭐2.6k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
 
 ## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
@@ -116,14 +116,13 @@
 ### Featured On
 
 *   [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) by [Alex Soto Bueno](https://github.com/lordofthejars) and [Andrew Block](https://github.com/sabre1041)
-*   [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) by [Juana Nakfour](https://twitter.com/nak4red) and Sanjay Arora
 *   [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
 
 ## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Automation
+### Qubes OS Server
 
-*   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
+*   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
 
 ---
 

@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 03 - Oct 09, 2016
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -75,13 +75,19 @@
 
 *   [Craftship](https://craftship.io) - Consultancy.
 
-## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Chart
+
+*   [SwiftChart (⭐1k)](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
+
+## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 
 *   [Laravel API Tester (⭐342)](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
 
-## [8. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [9. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Community
 
@@ -174,7 +180,7 @@
 *   [configure-cmake (⭐82)](https://github.com/nemequ/configure-cmake) - configure-cmake is an autotools-style configure script for CMake-based projects. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 *   [cmake-ast (⭐29)](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [9. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [10. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -188,7 +194,7 @@
 
 *   [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
 
-## [10. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [11. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### DojoToolkit.org resources and documentation
 
@@ -219,7 +225,7 @@
 
 *   [Definitive TypeScript Guide](https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/) - A guide about features and functionalities of TypeScript
 
-## [11. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
+## [12. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
 
 ### Official Resources
 
@@ -241,7 +247,7 @@
 *   [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 *   [bankai (⭐1.1k)](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams.
 
-## [12. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [13. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Resources
 
@@ -251,17 +257,17 @@
 
 *   [jQuery CheatSheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
-*   [GitHub Repo (⭐201k)](https://github.com/vuejs/vue)
+*   [GitHub Repo (⭐202k)](https://github.com/vuejs/vue)
 
 ### Resources / Tutorials
 
 *   [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
 
-## [14. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [15. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
@@ -286,7 +292,7 @@
 *   Venture Beat - <http://venturebeat.com/news-tips/>
 *   Ycombinator - <https://news.ycombinator.com/>
 
-## [15. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [16. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Task Runners
 
@@ -310,12 +316,6 @@
 
 *   [run-npm (⭐180)](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
 
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Unix / Deno
-
-*   [Unix as IDE (⭐334)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
-
 ## [17. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Articles
@@ -337,8 +337,6 @@
 ### Utils / Third Party
 
 *   [d3scription (⭐29)](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
-*   [d3-tip (⭐1.2k)](https://github.com/Caged/d3-tip) - Tooltip helper
-*   [d3-tipy (⭐94)](https://github.com/tj/d3-tipy) - Tooltip helper
 
 ## [20. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
@@ -650,7 +648,7 @@
 
 ### ACL
 
-*   [PhalconUserPlugin (⭐187)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
+*   [PhalconUserPlugin (⭐186)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 ### CMS & Blogs
 
@@ -892,17 +890,7 @@ git config --global branch.autosetuprebase always
 git fetch origin master:refs/remotes/origin/mymaster
 ```
 
-## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Chart
-
-*   [SwiftChart (⭐1k)](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
-
-### UI / Barcode
-
-*   [CostumeKit (⭐301)](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
-
-## [48. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [47. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Government
 

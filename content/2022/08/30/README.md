@@ -2,13 +2,13 @@
 
 17 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Hellonext
+### Articles / Screeb
 
 *   [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
 
@@ -27,7 +27,7 @@
 
 ### GUI
 
-*   [FXRuby (⭐243)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
+*   [FXRuby (⭐244)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
 
 ### Third-party APIs
 
@@ -49,13 +49,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [insanusmokrassar/TelegramBotAPI (⭐203)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
+*   [insanusmokrassar/TelegramBotAPI (⭐212)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [pike (⭐168)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
+*   [pike (⭐253)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
 
 ## [8. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
@@ -92,19 +92,19 @@
 
 ### Color / Diagnostics
 
-*   [nvim-colortils/colortils.nvim (⭐183)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
+*   [nvim-colortils/colortils.nvim (⭐202)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [ray-x/guihua.lua (⭐99)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
+*   [ray-x/guihua.lua (⭐103)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
 *   [CleanArchitecture (⭐2.9k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=86400) Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
-*   [Flight Finder (⭐889)](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - ![stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/samples?style=flat-square\&cacheSeconds=86400\&logo=microsoft) Flight Finder.
-*   [Blazor.SVGEditor (⭐138)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
+*   [Flight Finder (⭐894)](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - ![stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/samples?style=flat-square\&cacheSeconds=86400\&logo=microsoft) Flight Finder.
+*   [Blazor.SVGEditor (⭐146)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
 
 ### Videos / Others
 
@@ -148,13 +148,13 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-console-feed (⭐3)](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display `console like Chrome Devtools` for vue.
+*   [vue-console-feed (⭐5)](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display `console like Chrome Devtools` for vue.
 
 ## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Database
 
-*   [aloedb (⭐106)](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno without dependencies.
+*   [aloedb (⭐110)](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno without dependencies.
 
 ---
 

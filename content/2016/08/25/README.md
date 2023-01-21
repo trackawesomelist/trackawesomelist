@@ -1,8 +1,8 @@
 # Awesome List Updates on Aug 25, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,19 +19,13 @@
 
 *   [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 
-## [3. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
-
-### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
-
-*   [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)
-
-## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [3. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Common Utilities
 
 *   [Draft.js SimpleDecorator (⭐25)](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
 
-## [5. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+## [4. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Other
 
@@ -43,7 +37,7 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5\&ncol=5)
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -76,13 +70,13 @@ Free
 *   [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
 *   [#incident\_response channel at Hangops Slack](https://hangops.slack.com/) - Discussion about Incident Response.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [RawRabbit (⭐723)](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
@@ -96,7 +90,7 @@ Free
 
 *   [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 
-## [9. Citizen Science](/content/dylanrees/citizen-science/README.md)
+## [8. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
 ### Software / Modeling and Computation
 
@@ -168,7 +162,7 @@ Free
 *   [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data.
 *   [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
 
-## [10. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
+## [9. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
 ### Open Source Licenses
 
@@ -185,13 +179,13 @@ Free
 *   [Special Purpose](https://api.opensource.org/licenses/special-purpose)
 *   [Retired](https://api.opensource.org/licenses/retired)
 
-## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Videos and Lectures
 
 *   [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
 
-## [12. Amas](/content/sindresorhus/amas/README.md)
+## [11. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 

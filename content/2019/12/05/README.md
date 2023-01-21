@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐945)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
+*   [gonic (⭐972)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
 
 ### Software / Proxy
 
@@ -33,7 +33,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐1.8k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐1.9k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐663)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐670)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ---
 

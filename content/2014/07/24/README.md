@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -14,10 +14,10 @@
 
 ### Application Libraries
 
-*   [Cmdliner (⭐223)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+*   [Cmdliner (⭐229)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 *   [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
 *   [easy-format (⭐36)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
-*   [ocaml-rpc (⭐88)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
+*   [ocaml-rpc (⭐90)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 
 ### Books
 
@@ -38,8 +38,8 @@
 
 *   **2D**
     *   [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D plotting library.
-    *   [cairo2 (⭐41)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
-    *   [Vg (⭐75)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
+    *   [cairo2 (⭐42)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
+    *   [Vg (⭐78)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 *   **3D**
     *   [glMLite (⭐17)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
     *   [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
@@ -56,7 +56,7 @@
 
 ### Networking
 
-*   [ocaml-dns (⭐94)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
+*   [ocaml-dns (⭐98)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 
 ### Online Courses
 
@@ -64,32 +64,32 @@
 
 ### Security and Cryptography
 
-*   [ocaml-tls (⭐272)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+*   [ocaml-tls (⭐271)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 
 ### Serialization
 
 *   [bencode (⭐19)](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
-*   [biniou (⭐41)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
+*   [biniou (⭐43)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 *   [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 *   [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 
 ### System Programming
 
 *   [Mirage OS (⭐2k)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-*   [ocaml-fat (⭐25)](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
+*   [ocaml-fat (⭐26)](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
 *   [ocaml-git (⭐342)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
 *   [ocaml-vchan (⭐45)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
 ### Web Development
 
 *   **Open Source Projects**:
-    *   [Cumulus (⭐45)](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
+    *   [Cumulus (⭐44)](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mail
 
-*   [MailKit (⭐5.1k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+*   [MailKit (⭐5.2k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
 *   [MimeKit (⭐1.5k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 
 ### Profiler

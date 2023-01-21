@@ -2,7 +2,7 @@
 
 14 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -56,7 +56,7 @@
 ### Algorithms and Design Patterns
 
 *   Design Patterns
-    *   [PyPattyrn (⭐1.7k)](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
+    *   [PyPattyrn (⭐1.8k)](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
     *   [python-patterns (⭐36k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
     *   [transitions (⭐4.7k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
@@ -78,23 +78,23 @@
 
 ### Programming Languages
 
-*   [JavaScript (⭐29k)](https://github.com/sorrycc/awesome-javascript#readme)
+*   [JavaScript (⭐30k)](https://github.com/sorrycc/awesome-javascript#readme)
     *   [Promises (⭐1.5k)](https://github.com/wbinnssmith/awesome-promises#readme)
-    *   [Standard Style (⭐355)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+    *   [Standard Style (⭐359)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐12k)](https://github.com/loverajoel/jstips#readme)
-    *   [Network Layer (⭐521)](https://github.com/Kikobeats/awesome-network-js#readme)
+    *   [Network Layer (⭐525)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.4k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
     *   [Maintenance Modules (⭐345)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-    *   [npm (⭐4.1k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-    *   [AVA (⭐337)](https://github.com/avajs/awesome-ava#readme) - Test runner.
+    *   [npm (⭐4.2k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+    *   [AVA (⭐341)](https://github.com/avajs/awesome-ava#readme) - Test runner.
     *   [ESLint (⭐3.4k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
     *   [Functional Programming (⭐5.7k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐319)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐681)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐106k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    *   [Ponyfills (⭐46)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+    *   [Observables (⭐321)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [npm scripts (⭐688)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [30 Seconds of Code (⭐107k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [Ponyfills (⭐47)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ## [5. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
@@ -186,15 +186,15 @@
 
 ### Tools & Software / Acquisition
 
-*   [Heritrix (⭐2.3k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
-    *   [Heritrix Q\&A (⭐2.3k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
+*   [Heritrix (⭐2.4k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
+    *   [Heritrix Q\&A (⭐2.4k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
     *   [Heritrix Walkthrough (⭐8)](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
 *   [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
 
 ### Community Resources / Other Awesome Lists
 
-*   [Web Archiving Community (⭐14k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
-*   [Awesome Memento (⭐65)](https://github.com/machawk1/awesome-memento)
+*   [Web Archiving Community (⭐15k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
+*   [Awesome Memento (⭐67)](https://github.com/machawk1/awesome-memento)
 *   [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 *   [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
 
@@ -286,7 +286,7 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Web Servers
 
-*   [Falcon (⭐2.2k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
+*   [Falcon (⭐2.3k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
 ---
 

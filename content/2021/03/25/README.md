@@ -2,7 +2,7 @@
 
 20 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -151,10 +151,10 @@
 ### Tools / Community Chat Rooms
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems](https://ferrous-systems.com) to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
-    *   [Probe Run (⭐467)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
-    *   [defmt (⭐464)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [flip-link (⭐146)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐194)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [Probe Run (⭐482)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
+    *   [defmt (⭐476)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+    *   [flip-link (⭐151)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐202)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐8)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
@@ -170,17 +170,17 @@
 
 ### Visualization / Interactive plots
 
-*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐53k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
+*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐54k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Rendering / Redux / ELM / Dependency Injection
 
-*   [Graphx (⭐364)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
+*   [Graphx (⭐382)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
 
 ### Game / Open source games
 
-*   [Ghost Rigger (⭐181)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
+*   [Ghost Rigger (⭐183)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
 
 ## [14. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -192,32 +192,32 @@
 
 ### Contents / Education
 
-*   [Mathematics (⭐49)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [Mathematics (⭐56)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 
 ### Contents / Finance
 
-*   [Be Thrifty Today (⭐114)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
+*   [Be Thrifty Today (⭐119)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
 
 ### Contents / Health and Fitness
 
-*   [Smooth App (⭐221)](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
+*   [Smooth App (⭐258)](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
 
 ### Contents / Media
 
-*   [Flutter Music (⭐103)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
+*   [Flutter Music (⭐109)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
 
 ### Contents / Social Network
 
-*   [Fwitter (⭐2.1k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
-*   [GroupChatApp (⭐219)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
+*   [Fwitter (⭐2.3k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
+*   [GroupChatApp (⭐221)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
 
 ### Contents / Shopping
 
-*   [LaCoro Q-commerce app (⭐50)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
+*   [LaCoro Q-commerce app (⭐51)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
 
 ### Contents / Tools
 
-*   [Flutter Browser App (⭐251)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Flutter Browser App (⭐263)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ## [16. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -305,7 +305,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-signature (⭐28)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+*   [vue3-signature (⭐29)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
 *   [vue-signature (⭐185)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 
 ---

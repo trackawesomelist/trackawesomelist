@@ -2,7 +2,7 @@
 
 27 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -189,7 +189,7 @@
 
 ### Cryptography
 
-*   [libsodium-net (⭐349)](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
+*   [libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
 
 ## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -205,11 +205,7 @@
 
 ### Utils / Third Party
 
-*   [d3-extended (⭐273)](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
-
-### Miscellaneous / Third Party
-
-*   [d3moji (⭐126)](https://github.com/mathisonian/d3moji) - First class emoji support
+*   [d3-extended (⭐272)](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 
 ## [20. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
@@ -243,11 +239,11 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐6.8k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐6.9k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 
-*   [Stylecow (⭐154)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+*   [Stylecow (⭐156)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
 ## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

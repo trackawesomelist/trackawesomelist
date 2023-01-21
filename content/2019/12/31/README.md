@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,11 +48,11 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐264)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐271)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
-*   [jose-simple (⭐55)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+*   [jose-simple (⭐56)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
 ## [7. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Miscellaneous
 
-*   :strawberry: [Calendar plugin (⭐15)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
+*   :strawberry: [Calendar plugin (⭐16)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 
 ### Templating
 
@@ -135,7 +135,7 @@
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐429)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐432)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

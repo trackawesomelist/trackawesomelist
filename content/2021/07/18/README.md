@@ -2,7 +2,7 @@
 
 6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,7 +45,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-tips (⭐46)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
+*   [vite-plugin-tips (⭐48)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 ## [6. Awesome Rss Feeds](/content/plenaryapp/awesome-rss-feeds/README.md)
 

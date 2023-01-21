@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -88,12 +88,12 @@
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou (⭐468)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
+*   [Caring Caribou (⭐482)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 *   [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
 
 ### Libraries and Tools / JavaScript
 
-*   [NodeJS extension to SocketCAN (⭐182)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
+*   [NodeJS extension to SocketCAN (⭐184)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 *   [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - [info@uberatc.com](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/README.md/mailto:info@uberatc.com).
 
 ## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)

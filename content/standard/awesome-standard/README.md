@@ -2,7 +2,7 @@
 
 Documenting the explosion of packages in the standard ecosystem!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/standard/awesome-standard/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 standard/awesome-standard](https://github.com/standard/awesome-standard) · ⭐ 351 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/standard/awesome-standard/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 standard/awesome-standard](https://github.com/standard/awesome-standard) · ⭐ 351 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/standard/awesome-standard/week/README.md) / [Overview](/content/standard/awesome-standard/readme/README.md) ]
 

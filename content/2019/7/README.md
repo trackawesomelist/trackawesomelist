@@ -1,8 +1,8 @@
 # Awesome List Updates on Feb 18 - Feb 24, 2019
 
-60 awesome lists updated this week.
+59 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -48,13 +48,13 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐408)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐451)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### PDF / Third-party APIs
 
-*   [cl-typesetting (⭐64)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐100)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-typesetting (⭐65)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐102)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -120,11 +120,11 @@
 
 ### Status Bar
 
-*   [tmux-battery (⭐400)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+*   [tmux-battery (⭐408)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 *   [tmux-maildir-counter (⭐30)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
-*   [tmux-mem-cpu-load (⭐890)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
-*   [tmux-online-status (⭐150)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
-*   [tmux-prefix-highlight (⭐439)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+*   [tmux-mem-cpu-load (⭐896)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
+*   [tmux-online-status (⭐151)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
+*   [tmux-prefix-highlight (⭐444)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 *   [tmux-weather (⭐33)](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 
 ## [16. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
@@ -177,13 +177,13 @@
 
 ### Database Drivers
 
-*   [Databases (⭐3.1k)](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
+*   [Databases (⭐3.2k)](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
 
 ## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Monitoring / Single Sign-On (SSO)
+### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐130)](https://github.com/netxms/netxms))
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐133)](https://github.com/netxms/netxms))
 
 ## [23. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### CLI
 
-*   [Clara (⭐650)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[BSL-1.0]
+*   [Clara (⭐648)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[BSL-1.0]
 
 ### Memory Allocation
 
@@ -228,7 +228,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐8.2k)](https://github.com/gotify/server), [Clients (⭐561)](https://github.com/gotify/android)) `MIT` `Go`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐8.3k)](https://github.com/gotify/server), [Clients (⭐569)](https://github.com/gotify/android)) `MIT` `Go`
 
 ### Software / Learning and Courses
 
@@ -265,19 +265,19 @@
 
 ### UI / Bottom bars
 
-*   [Circular Bottom Navigation (⭐513)](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
+*   [Circular Bottom Navigation (⭐522)](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 
 ### Templates / Preferences
 
-*   [Feather (⭐547)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
+*   [Feather (⭐559)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [GeoFlutterFire (⭐278)](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
+*   [GeoFlutterFire (⭐282)](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Drawing Animation (⭐435)](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
+*   [Drawing Animation (⭐441)](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
 
 ## [31. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -299,14 +299,14 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐286)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Vue Org Chart (⭐287)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
 *   [Beep (⭐154)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
-*   [Vue CRUD (⭐775)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
+*   [Vue CRUD (⭐777)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 
 ### Components & Libraries / UI Components
 
 *   [vue-date-picker (⭐101)](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
-*   [vue-ctk-date-time-picker (⭐824)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
+*   [vue-ctk-date-time-picker (⭐830)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
 
 ### Components & Libraries / UI Utilities
 
@@ -316,9 +316,9 @@
 
 ### Other Tools / Telegram
 
-*   [Belati (⭐474)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐482)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-*   [Pown Recon (⭐411)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [Pown Recon (⭐412)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 
 ## [34. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
@@ -338,21 +338,21 @@
 ### Tools / General-purpose
 
 *   [radamsa](https://gitlab.com/akihe/radamsa) - A general-purpose fuzzer.
-*   [zzuf (⭐393)](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer.
+*   [zzuf (⭐401)](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer.
 
 ### Tools / Binary
 
 *   [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - A security-oriented fuzzer that employs a novel type of compile-time instrumentation and genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary.
 *   [WinAFL (⭐2k)](https://github.com/googleprojectzero/winafl) - A fork of AFL for fuzzing Windows binaries.
-*   [Driller (⭐771)](https://github.com/shellphish/driller) - An implementation of the [driller paper](https://www.cs.ucsb.edu/\~vigna/publications/2016_NDSS_Driller.pdf). This implementation was built on top of AFL with angr being used as a symbolic tracer.
+*   [Driller (⭐790)](https://github.com/shellphish/driller) - An implementation of the [driller paper](https://www.cs.ucsb.edu/\~vigna/publications/2016_NDSS_Driller.pdf). This implementation was built on top of AFL with angr being used as a symbolic tracer.
 
 ### Tools / Network protocol
 
-*   [boofuzz (⭐1.6k)](https://github.com/jtpereyda/boofuzz) - Network Protocol Fuzzing for Humans. Documentation is available at <http://boofuzz.readthedocs.io/>, including nifty quickstart guides.
-*   [LL-Fuzzer (⭐125)](https://github.com/mit-ll/LL-Fuzzer) - An automated NFC fuzzing framework for Android devices.
-*   [tlsfuzzer (⭐432)](https://github.com/tomato42/tlsfuzzer) - A SSL and TLS protocol test suite and fuzzer.
-*   [TumbleRF (⭐143)](https://github.com/riverloopsec/tumblerf) - A framework that orchestrates the application of fuzzing techniques to RF systems.
-*   [PULSAR (⭐321)](https://github.com/hgascon/pulsar) - A method for stateful black-box fuzzing of proprietary network protocols.
+*   [boofuzz (⭐1.7k)](https://github.com/jtpereyda/boofuzz) - Network Protocol Fuzzing for Humans. Documentation is available at <http://boofuzz.readthedocs.io/>, including nifty quickstart guides.
+*   [LL-Fuzzer (⭐126)](https://github.com/mit-ll/LL-Fuzzer) - An automated NFC fuzzing framework for Android devices.
+*   [tlsfuzzer (⭐441)](https://github.com/tomato42/tlsfuzzer) - A SSL and TLS protocol test suite and fuzzer.
+*   [TumbleRF (⭐145)](https://github.com/riverloopsec/tumblerf) - A framework that orchestrates the application of fuzzing techniques to RF systems.
+*   [PULSAR (⭐324)](https://github.com/hgascon/pulsar) - A method for stateful black-box fuzzing of proprietary network protocols.
 
 ### Tools / Driver
 
@@ -360,7 +360,7 @@
 
 ### Platform / Driver
 
-*   [certfuzz (⭐251)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
+*   [certfuzz (⭐252)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
 
 ## [37. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
@@ -395,7 +395,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Streaker (⭐158)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
+*   [Streaker (⭐162)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
 
 ## [40. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -445,15 +445,12 @@
 
 ### In English
 
-*   [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
 *   [CTRL+Click Cast](https://www.ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
 *   [Developer On Fire](https://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
 *   [Fragmented](https://fragmentedpodcast.com/) - An Android Developer Podcast.
 *   [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
-*   [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) - Weekly Linux live and open talk show
 *   [Podcast.\_*init*\_](https://www.pythonpodcast.com/) - A podcast about Python and the people who make it great.
 *   [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch/) - Official podcast from NASA’s Kennedy Space Center.
-*   [The Linux Action Show](https://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
 *   [Why Are Computers](https://whyarecomputers.com/) - A podcast about computers and computer programs and why.
 
 ### In Portuguese
@@ -463,10 +460,6 @@
 ### In Russian
 
 *   [Razbor Poletov](http://razborpoletov.com) - Podcast about world of Java, technologies and software development.
-
-### In French
-
-*   [La Dev Team](https://www.radiokawa.com/episode/la-dev-team-hs2/) - Monthly podcast hosted by developers and talking about the video game industry.
 
 ### In German
 
@@ -505,25 +498,19 @@
 ### Modules / Utils
 
 *   [deno-globrex (⭐7)](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
-*   [lazy (⭐31)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
+*   [lazy (⭐30)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 
 ### Resources in Other Languages / Chinese
 
-*   [《Deno进阶开发笔记》 (⭐668)](https://github.com/chenshenhai/deno_note/)
+*   [《Deno进阶开发笔记》 (⭐664)](https://github.com/chenshenhai/deno_note/)
 
-## [49. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [Bare-metal programming for ARM (⭐386)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-
-## [50. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [49. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 
-## [51. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [50. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Multimedia capabilities / Audio
 
@@ -537,7 +524,7 @@
 
 *   [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
 
-## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
@@ -545,9 +532,9 @@
 
 ### Testing
 
-*   [webdriver\_pump (⭐3)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐15)](https://github.com/bwilczek/watir_pump)
+*   [webdriver\_pump (⭐3)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐16)](https://github.com/bwilczek/watir_pump)
 
-## [53. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [52. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Africa / South Africa 🇿🇦
 
@@ -599,13 +586,13 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 Topics: Terraform, AWS, Devops\
 <https://twitter.com/antonbabenko>
 
-## [54. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [53. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Export
 
 *   [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW\.js.
 
-## [55. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [54. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Microchip
 
@@ -616,7 +603,7 @@ Topics: Terraform, AWS, Devops\
 *   [`stm32f1xx-hal`](https://github.com/stm32-rs/stm32f1xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32f1xx-hal.svg)
     *   Can be run on boards like the [Blue pill](https://stm32duinoforum.com/forum/wiki_subdomain/index_title_Blue_Pill.html), [Nucleo-F103RB](http://www.st.com/en/evaluation-tools/nucleo-f103rb.html) and similar boards
 
-## [56. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [55. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -626,31 +613,31 @@ Topics: Terraform, AWS, Devops\
 
 *   [react-native-spring-scrollview ★64 (⭐309)](https://github.com/bolan9999/react-native-spring-scrollview) - React Native Spring ScrollView V2 is a high performance cross-platform native bounces ScrollView for React Native.(iOS & Android)
 
-## [57. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [56. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Clean Code concepts adapted for TypeScript (⭐6.9k)](https://github.com/labs42io/clean-code-typescript)
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐7k)](https://github.com/labs42io/clean-code-typescript)
 
-## [58. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [57. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [localstack/localstack :fire::fire::fire::fire::fire: (⭐44k)](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
-## [59. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [58. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
-*   [Gradients (⭐772)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
+*   [Gradients (⭐776)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
 
 ### Camera
 
-*   [CameraKit-iOS (⭐629)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐626)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ### Images / Barcode
 
-*   [JLStickerTextView (⭐477)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
+*   [JLStickerTextView (⭐478)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
 
 ### Auto Layout / Barcode
 
@@ -664,7 +651,7 @@ Topics: Terraform, AWS, Devops\
 
 *   [Swiftbot (⭐55)](https://github.com/noppefoxwolf/Swiftbot) - run swift code on slack.
 
-## [60. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [59. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online books
 

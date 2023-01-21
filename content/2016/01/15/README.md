@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 15, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -18,23 +18,13 @@
 
 *   [ArrayFire (⭐4k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Force.com / Phoenix
-
-*   [Heroku Postgres](https://web.archive.org/web/20131209081736/http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
-
-### Objective-C / PicoLisp
-
-*   [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-
-## [4. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
+## [3. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
 ### Other Libraries
 
 *   [BugLogHQ (⭐154)](https://github.com/oarevalo/BugLogHQ) - Exception Tracking
 
-## [5. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [4. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Transpilers
 
@@ -83,13 +73,13 @@
 
 *   [generator-typescript (⭐19)](https://github.com/mrkev/generator-typescript) - Yeoman generator for TypeScript apps
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Tutorials
 
 *   [Keras and Lasagne Deep Learning Tutorials (⭐423)](https://github.com/Vict0rSch/deep_learning)
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Search
 

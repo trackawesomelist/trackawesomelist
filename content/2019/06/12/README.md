@@ -2,7 +2,7 @@
 
 16 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -73,7 +73,7 @@
 
 ### Tools / Network protocol
 
-*   [SPIKE (⭐67)](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - A fuzzer development framework like sulley, a predecessor of sulley.
+*   [SPIKE (⭐69)](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - A fuzzer development framework like sulley, a predecessor of sulley.
 *   [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) - Security testing of protocol implementations.
 
 ## [7. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
@@ -130,7 +130,7 @@
 
 ### For Electron / Other
 
-*   [debugtron (⭐872)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [debugtron (⭐904)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
 *   [electron-chrome-extension (⭐119)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)

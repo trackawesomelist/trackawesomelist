@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 26 - Dec 02, 2018
 
-56 awesome lists updated this week.
+55 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐984)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket (⭐985)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 
@@ -146,7 +146,7 @@
 
 ### Class Based
 
-*   [slim.js (⭐937)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
+*   [slim.js (⭐942)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 
 ### History / 2018
 
@@ -194,11 +194,11 @@
 
 ### Models/Projects
 
-*   [Hierarchical Attention Networks (⭐82)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/\~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+*   [Hierarchical Attention Networks (⭐83)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/\~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 
 ### Libraries
 
-*   [pytorch2keras (⭐821)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
+*   [pytorch2keras (⭐827)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
 
 ## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -243,7 +243,7 @@
 
 ### Testing
 
-*   [Stryker.NET (⭐1.4k)](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
+*   [Stryker.NET (⭐1.5k)](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
 
 ## [15. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -302,7 +302,7 @@
 
 ### Tools
 
-*   [genhash (⭐13)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
+*   [genhash (⭐15)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
 
 ## [22. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -399,9 +399,9 @@
 
 ### Command-Line Productivity
 
-*   [ddgr (⭐2.4k)](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
-*   [mackup (⭐12k)](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
-*   [pdd (⭐281)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
+*   [ddgr (⭐2.5k)](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
+*   [mackup (⭐13k)](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
+*   [pdd (⭐332)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
 
 ### Applications / Directory Navigation
 
@@ -441,8 +441,8 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [Lorg (⭐204)](https://github.com/jensvoid/lorg) - Tool for advanced HTTPD logfile security analysis and forensics.
-*   [Logdissect (⭐123)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [Lorg (⭐203)](https://github.com/jensvoid/lorg) - Tool for advanced HTTPD logfile security analysis and forensics.
+*   [Logdissect (⭐125)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ## [37. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
@@ -498,19 +498,19 @@
 ### Applications / Games
 
 *   [rsaarelm/magog (⭐347)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
-*   [Thinkofname/rust-quake (⭐58)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
+*   [Thinkofname/rust-quake (⭐57)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
 
 ### Applications / Industrial automation
 
-*   [locka99/opcua (⭐358)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
+*   [locka99/opcua (⭐364)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
 
 ### Applications / Text processing
 
-*   [whitfin/runiq (⭐168)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
+*   [whitfin/runiq (⭐170)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
 
 ### Applications / Utilities
 
-*   [brycx/checkpwn (⭐92)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
+*   [brycx/checkpwn (⭐95)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
 
 ### Development tools / IDEs
 
@@ -518,7 +518,7 @@
 
 ### Development tools / Transpiling
 
-*   [immunant/c2rust (⭐2.9k)](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM. [![Build Status](https://api.travis-ci.org/immunant/c2rust.svg?branch=master)](https://travis-ci.org/immunant/c2rust)
+*   [immunant/c2rust (⭐3k)](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM. [![Build Status](https://api.travis-ci.org/immunant/c2rust.svg?branch=master)](https://travis-ci.org/immunant/c2rust)
 *   [jameysharp/corrode (⭐2.1k)](https://github.com/jameysharp/corrode) — A C to Rust translator written in Haskell.
 
 ### Libraries / Game development
@@ -527,20 +527,20 @@
     *   [Bevy (⭐21k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
         [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) — Rust Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
-    *   [ggez (⭐3.5k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
+    *   [ggez (⭐3.6k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
     *   [Kiss3d](http://kiss3d.org) — A Keep It Simple, Stupid 3d graphics engine written with Rust [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
-    *   [oxidator (⭐256)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
+    *   [oxidator (⭐259)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
     *   [Piston](https://www.piston.rs/) — [![Crates.io](https://img.shields.io/crates/v/piston.svg?style=flat-square)](https://crates.io/crates/piston) [![Crates.io](https://img.shields.io/crates/l/piston.svg)](https://github.com/PistonDevelopers/piston/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/piston.svg)](https://crates.io/crates/piston)
-    *   [Unrust (⭐367)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
+    *   [Unrust (⭐369)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
 
 ### Libraries / GUI
 
-*   [autopilot-rs/autopilot-rs (⭐270)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
+*   [autopilot-rs/autopilot-rs (⭐274)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
 
 ### Libraries / Macro
 
 *   cute
-    *   [mattgathu/cute (⭐305)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
+    *   [mattgathu/cute (⭐307)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
 
 ## [42. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -780,14 +780,7 @@
 
 *   [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
 
-## [51. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
-
-### Charts / Third Party
-
-*   [angular-nvd3 (⭐1.3k)](https://github.com/krispo/angular-nvd3) - NVd3 for AngularJS \[line, stacked, bar, area, scatter, bullet, donut]
-*   [line-chart (⭐1.2k)](https://github.com/n3-charts/line-chart) - Line chart module for AngularJS \[line, area, bar]
-
-## [52. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
@@ -797,27 +790,27 @@
 
 *   [vim-iced (Vim) (⭐473)](https://github.com/liquidz/vim-iced)
 
-## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnet-tools (⭐1.5k)](https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (dotnet CLI).
     *   [LibMan CLI (⭐390)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
 
-## [54. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [53. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Libraries
 
 *   [Hearth (⭐26)](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
 
-## [55. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [54. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 *   [OWASP ZAP Node API (⭐28)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
-## [56. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [55. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Pomodoro / Enterprise Git Service
 

@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,12 +10,12 @@
 
 ### Incident Response tools / Sandboxes
 
-*   [LogonTracer (⭐2.1k)](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
+*   [LogonTracer (⭐2.2k)](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 *   [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [Real Intelligence Threat Analysis (RITA) (⭐2k)](https://github.com/activecm/rita) - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
+*   [Real Intelligence Threat Analysis (RITA) (⭐2.1k)](https://github.com/activecm/rita) - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
 
 ## [2. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -44,7 +44,7 @@
 *   [GBDK Programming Video Tutorials](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) - A series of video tutorials introducing beginners to programming with GBDK.
 *   [GB raycaster, Vision-8 (⭐12)](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - and some other projects.
 *   [Dino's Offline Adventure (⭐53)](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
-*   [dino-gb (⭐18)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
+*   [dino-gb (⭐19)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
 
 ### Websites / Syntax highlighting packages
 
@@ -54,7 +54,7 @@
 
 ### ORM and Datamapping
 
-*   [pillar (⭐58)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
+*   [pillar (⭐57)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Movie Paradise (⭐22)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
+*   [Movie Paradise (⭐23)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 
 ## [9. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tslog (⭐937)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
+*   :octocat: [tslog (⭐962)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Libraries / Parsing
 
-*   [Folyd/robotstxt (⭐71)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
+*   [Folyd/robotstxt (⭐73)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
 
 ---
 

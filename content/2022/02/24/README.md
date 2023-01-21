@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,7 +23,7 @@
 ### Libraries / New Libraries
 
 *   [SymJAX (⭐105)](https://github.com/SymJAX/SymJAX) - Symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
-*   [mcx (⭐327)](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
+*   [mcx (⭐325)](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐153k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
+*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐154k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Software / Make your life easier
 
-*   [Keploy (⭐1.1k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
+*   [Keploy (⭐1.2k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Rights of the data subject (art. 12 - 23)
 
-*   [Open source privacy notice template (Juro) (⭐158)](https://github.com/juro-privacy/free-privacy-notice)
+*   [Open source privacy notice template (Juro) (⭐160)](https://github.com/juro-privacy/free-privacy-notice)
 
 ## [11. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -105,7 +105,7 @@
 
 *   [SVG.js](https://svgjs.dev/) - Dependency-free lightweight library for creating, manipulating, and animating SVG.
 *   [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
-*   [DrawingBotV3 (⭐166)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
+*   [DrawingBotV3 (⭐170)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 
 ### Software / Vector Utilities
 
@@ -127,11 +127,11 @@
 
 ### Get Started
 
-*   [create-vitawind (⭐103)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
+*   [create-vitawind (⭐106)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-tailwind-v3 (⭐17)](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
+*   [vite-vanilla-tailwind-v3 (⭐19)](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
 
 ### Templates / Vue 3
 
@@ -139,11 +139,11 @@
 
 ### Templates / React
 
-*   [vite-react-ts-extended (⭐64)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [vite-react-ts-extended (⭐66)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-image-presets (⭐187)](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
+*   [vite-plugin-image-presets (⭐190)](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
 
 ---
 

@@ -2,7 +2,7 @@
 
 43 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Models/Projects
 
-*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐244)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
+*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐245)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 
 ## [4. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -168,7 +168,7 @@
 
 *   [d3-beeswarm (⭐50)](https://github.com/Kcnarf/d3-beeswarm) - Plugin which computes a beeswarm arrangement
 *   [neo4jd3 (⭐1.1k)](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
-*   [venn.js (⭐955)](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
+*   [venn.js (⭐960)](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
 *   [visavail (⭐280)](https://github.com/flrs/visavail) - Time data availability visualization
 
 ## [12. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
@@ -290,7 +290,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Voltron (⭐5.8k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+*   [Voltron (⭐5.9k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -337,7 +337,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐3.4k)](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
+*   [pest-parser/pest (⭐3.5k)](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
 
 ## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -370,20 +370,16 @@
 
 ## [28. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
-### Internet and Networking
-
-*   [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
-
 ### Office
 
-*   [NFO Viewer (⭐115)](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
+*   [NFO Viewer (⭐114)](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 
 ### Multimedia
 
 *   [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
-*   [Vocal (⭐331)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+*   [Vocal (⭐335)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-*   [Pulseeffect (⭐4.1k)](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
+*   [Pulseeffect (⭐4.4k)](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 
 ### Graphics
 
@@ -399,20 +395,17 @@
 
 ### Utilities
 
-*   [Peek (⭐9.3k)](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
+*   [Peek (⭐9.5k)](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 
 ### Applets / Design Tooling
 
 *   [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 *   [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
-*   [Focusli (⭐76)](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet.
-*   [Clipboard Indicator (⭐598)](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet.
-*   [Desk Changer (⭐71)](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
 
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐5.4k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐5.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -420,11 +413,11 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐155)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐163)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐249)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐250)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 
@@ -468,7 +461,7 @@
 
 ### Command-Line Productivity
 
-*   [lf.sh (⭐37)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
+*   [lf.sh (⭐39)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 
 ### For Developers / Directory Navigation
 
@@ -522,7 +515,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [LeafPlayer (⭐147)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐214)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [JSON Editor (⭐216)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 
@@ -634,7 +627,7 @@
 
 ### Eventhandling
 
-*   [event\_bus (⭐656)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐658)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 
@@ -642,7 +635,7 @@
 
 ### Networking
 
-*   [download (⭐31)](https://github.com/asiniy/download) - Download files from the internet easily.
+*   [download (⭐32)](https://github.com/asiniy/download) - Download files from the internet easily.
 
 ### Third Party APIs
 
@@ -700,7 +693,7 @@
 
 ### Colors
 
-*   [ChromaColorPicker (⭐535)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐538)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Date
 
@@ -716,7 +709,6 @@
 
 ### Utility / Barcode
 
-*   [FluxCapacitor (⭐123)](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
 *   [Highlighter (⭐933)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 
 ## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)

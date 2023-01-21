@@ -2,7 +2,7 @@
 
 25 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -34,7 +34,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Detect It Easy(DiE) (⭐4.1k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [Detect It Easy(DiE) (⭐4.5k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -198,7 +198,7 @@
 
 ### Tools
 
-*   [terraform.py (⭐444)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
+*   [terraform.py (⭐445)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 
 ## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -264,15 +264,15 @@
 ### Components & Libraries / UI Components
 
 *   [vue-tooltipster (⭐6)](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events.
-*   [vue-image-zoomer (⭐35)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
+*   [vue-image-zoomer (⭐42)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-cordova (⭐411)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
+*   [vue-cli-plugin-cordova (⭐410)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
 *   [vue-cli-plugin-component (⭐88)](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI Plugin to create component
 *   [vue-cli-plugin-modular-vuex (⭐6)](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI Plugin to create modular Vuex store files
 *   [vue-cli-plugin-element (⭐20)](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI Plugin to build an enterprise application with element-ui in seconds
-*   [vue-cli-plugin-electron-builder (⭐3.9k)](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI Plugin for Electron with no required configuration that uses Electron Builder.
+*   [vue-cli-plugin-electron-builder (⭐4k)](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI Plugin for Electron with no required configuration that uses Electron Builder.
 *   [vue-cli-plugin-kami (⭐2)](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI Plugin with work-made architecture for quickly start your app
 *   [vue-cli-plugin-clean (⭐19)](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
 *   [vue-cli-plugin-mock (⭐27)](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
@@ -299,7 +299,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyGrid (⭐608)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
+*   [PyGrid (⭐615)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 ## [20. Awesome Security](/content/sbilly/awesome-security/README.md)
 

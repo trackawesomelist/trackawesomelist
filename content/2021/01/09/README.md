@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### PlayCanvas
 
-*   [Engine (⭐7.8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
@@ -32,7 +32,7 @@
 
 ### Learn
 
-*   [YouTubers (⭐3.7k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+*   [YouTubers (⭐3.8k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -56,7 +56,7 @@
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐204)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐229)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ## [8. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 

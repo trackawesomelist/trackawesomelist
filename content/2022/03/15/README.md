@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,19 +10,19 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐7k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
+*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐7.1k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Angular / Integrations
 
-*   [@nxext/angular-vite (⭐322)](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
+*   [@nxext/angular-vite (⭐336)](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
 
 ## [3. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [tinygp (⭐174)](https://github.com/dfm/tinygp) - The *tiniest* of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
+*   [tinygp (⭐191)](https://github.com/dfm/tinygp) - The *tiniest* of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
 
 ## [4. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -34,7 +34,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [Mantil (⭐98)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
+*   [Mantil (⭐100)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -68,7 +68,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/nvim-regexplainer (⭐412)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
+*   [bennypowers/nvim-regexplainer (⭐429)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

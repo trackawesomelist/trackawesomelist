@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,8 +16,8 @@
 
 ### Open Source / Other
 
-*   [Mouseless (⭐107)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
-*   [Glyphfinder (⭐121)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
+*   [Mouseless (⭐112)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
+*   [Glyphfinder (⭐122)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [skorch (⭐4.8k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
+*   [skorch (⭐4.9k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Reactive Programming
 
-*   [Dynamic Data (⭐1.4k)](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
+*   [Dynamic Data (⭐1.5k)](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
 
 ### Serialization
 
@@ -114,13 +114,13 @@
 
 ### Testing
 
-*   [Verify (⭐1.7k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
+*   [Verify (⭐1.8k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
 
 ### Tools
 
 *   [Open Live Writer (⭐2.4k)](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
 *   [Papercut (⭐2.4k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
-*   [SmartCode (⭐532)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
+*   [SmartCode (⭐539)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
 
 ### UI Automation
 
@@ -134,8 +134,8 @@
 
 ### Tools & Software / Replay
 
-*   [OpenWayback (⭐431)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
-*   [PyWb (⭐1k)](https://github.com/ikreymer/pywb) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
+*   [OpenWayback (⭐435)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
+*   [PyWb (⭐1.1k)](https://github.com/ikreymer/pywb) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
 *   [ReplayWeb.Page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC files.
 
 ## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)

@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,13 +10,13 @@
 
 ### Blockchain API and Web services
 
-*   [One-Time Address (⭐50)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+*   [One-Time Address (⭐52)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐7.9k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐8.1k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

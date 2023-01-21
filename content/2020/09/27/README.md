@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,20 +60,20 @@
 
 ### Tools
 
-*   [Ansible Later (⭐76)](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
-*   [Ansible Doctor (⭐71)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
+*   [Ansible Later (⭐77)](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
+*   [Ansible Doctor (⭐75)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [pytessarct (⭐4.5k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐48k)](https://github.com/tesseract-ocr/tesseract).
+*   [pytessarct (⭐4.6k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐48k)](https://github.com/tesseract-ocr/tesseract).
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Validation / Playground
 
-*   [json-schema-to-ts (⭐949)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+*   [json-schema-to-ts (⭐960)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 
 ## [8. Tools](/content/lvwzhen/tools/README.md)
 

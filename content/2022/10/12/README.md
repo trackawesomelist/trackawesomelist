@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -117,7 +117,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [jose-elias-alvarez/typescript.nvim (⭐294)](https://github.com/jose-elias-alvarez/typescript.nvim) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
+*   [jose-elias-alvarez/typescript.nvim (⭐333)](https://github.com/jose-elias-alvarez/typescript.nvim) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 
 ## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -130,14 +130,15 @@
 ### Projects
 
 *   [note-to-yew (⭐2)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
-*   [yew-d3-example (⭐17)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
-*   [zzhack (⭐185)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
+*   [yew-d3-example (⭐20)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
+*   [zzhack (⭐227)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### C / Non-X86
+### Compiler Design
 
-*   [Let us C](https://archive.org/download/let-us-c/LET%20US%20C.pdf) - Yashavant Kanetkar (PDF) *(:card\_file\_box: latest 14th edition)*
+*   [Compiler Design in C (1990)](https://holub.com/goodies/compiler/compilerDesignInC.pdf) - Allen Holub, Prentice Hall (PDF)
+*   [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html) - Bob Nystrom (HTML)
 
 ---
 

@@ -2,7 +2,7 @@
 
 7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,13 +16,13 @@
 
 ### Extensions
 
-*   [Next-Sitemap (⭐2k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
+*   [Next-Sitemap (⭐2.2k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Terraform Enterprise / Vendor supported providers
 
-*   [OTF (⭐95)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+*   [OTF (⭐102)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 
 ## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

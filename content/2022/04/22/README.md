@@ -2,7 +2,7 @@
 
 9 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -19,8 +19,8 @@
 ### :wrench: Tools / Before 2000
 
 *   [Capstone](https://www.capstone-engine.org) - Lightweight multi-platform, multi-architecture disassembly framework.
-*   [PANDA (⭐2.1k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
-*   [ShowStopper (⭐131)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
+*   [PANDA (⭐2.2k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
+*   [ShowStopper (⭐133)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 
 ## [2. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
-*   [Beginner's guide to eBPF (⭐413)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
+*   [Beginner's guide to eBPF (⭐426)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [FAIRshare (⭐60)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
+*   [FAIRshare (⭐59)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Security and Cryptography
 
-*   [nocrypto (⭐110)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
+*   [nocrypto (⭐109)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
 ## [3. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -36,11 +36,11 @@
 
 ### Build Automation
 
-*   [Nuke (⭐1.7k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+*   [Nuke (⭐1.8k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 
 ### Image Processing
 
-*   [OpenCvSharp (⭐4.2k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
+*   [OpenCvSharp (⭐4.3k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 
 ### Logging
 
@@ -48,7 +48,7 @@
 
 ### PDF
 
-*   [PdfiumViewer (⭐840)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
+*   [PdfiumViewer (⭐843)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

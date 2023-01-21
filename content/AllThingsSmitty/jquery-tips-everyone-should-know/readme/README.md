@@ -2,7 +2,7 @@
 
 A collection of tips to help up your jQuery game 🎮
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AllThingsSmitty/jquery-tips-everyone-should-know/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) · ⭐ 4.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AllThingsSmitty/jquery-tips-everyone-should-know/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) · ⭐ 4.2K · 🏷️ Front-End Development
 
 [ [Daily](/content/AllThingsSmitty/jquery-tips-everyone-should-know/README.md) / [Weekly](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md) / Overview ]
 

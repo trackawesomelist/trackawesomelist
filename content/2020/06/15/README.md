@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_templates (⭐319)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
+*   [jupyterlab\_templates (⭐320)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Extensions
 
-*   [next-img (⭐193)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+*   [next-img (⭐194)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

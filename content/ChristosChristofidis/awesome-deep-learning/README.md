@@ -2,7 +2,7 @@
 
 A curated list of awesome Deep Learning tutorials, projects and communities.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ChristosChristofidis/awesome-deep-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) · ⭐ 20K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ChristosChristofidis/awesome-deep-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) · ⭐ 20K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/ChristosChristofidis/awesome-deep-learning/week/README.md) / [Overview](/content/ChristosChristofidis/awesome-deep-learning/readme/README.md) ]
 

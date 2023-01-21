@@ -2,7 +2,7 @@
 
 51 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -51,15 +51,15 @@
 ### conversion
 
 *   **OpenStreetMap**
-    *   [osmtogeojson (⭐586)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+    *   [osmtogeojson (⭐589)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
     *   [osm2geojson (⭐11)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
-    *   [osm2geojson (⭐67)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [osm2geojson (⭐68)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
     *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
     *   [geojsontoosm (⭐14)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
     *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
-    *   [osm-and-geojson (⭐88)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+    *   [osm-and-geojson (⭐89)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
     *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
-    *   [query-overpass (⭐140)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐586)](https://github.com/tyrasd/osmtogeojson)
+    *   [query-overpass (⭐141)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐589)](https://github.com/tyrasd/osmtogeojson)
 
 ## [6. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
@@ -111,12 +111,12 @@
 
 ### Time Series / NLP
 
-*   [sktime (⭐5.8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sktime (⭐6k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [tslearn (⭐2.3k)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [tick (⭐404)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modelling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [tick (⭐410)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modelling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Prophet (⭐15k)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
 *   [PyFlux (⭐2k)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-*   [bayesloop (⭐122)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+*   [bayesloop (⭐129)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
 *   [luminol (⭐1.1k)](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
 *   [maya (⭐3.4k)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
@@ -178,15 +178,11 @@
 
 ## [12. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
-### Datasets / Chemical Perturbations
-
-*   [Haghighi et al. 2021](https://doi.org/10.1101/2021.09.08.459417) - Cell painting matched to L1000 profiles in 4 experiments, including compound and genetic screens ([Details on GitHub (⭐9)](https://github.com/carpenterlab/2021_Haghighi_submitted)).
-
 ### Software / Genetic Perturbations
 
-*   [Cytominer (⭐39)](https://github.com/cytomining/cytominer) - Methods for image-based cell profiling in R.
-*   [BioProfiling.jl (⭐11)](https://github.com/menchelab/BioProfiling.jl) - Toolkit for filtering and curation of morphological profiles in Julia.
-*   [PyCytominer (⭐32)](https://github.com/cytomining/pycytominer) - Methods for image-based cell profiling in Python.
+*   [Cytominer (⭐41)](https://github.com/cytomining/cytominer) - Methods for image-based cell profiling in R.
+*   [BioProfiling.jl (⭐12)](https://github.com/menchelab/BioProfiling.jl) - Toolkit for filtering and curation of morphological profiles in Julia.
+*   [PyCytominer (⭐35)](https://github.com/cytomining/pycytominer) - Methods for image-based cell profiling in Python.
 *   [ImJoy](https://imjoy.io) - A platform compiling tool for deep-learning based image analyses with a GUI.
 
 ### Publications / Reviews
@@ -204,12 +200,10 @@
 *   [Predicting cell health phenotypes using image-based morphology profiling](https://doi.org/10.1091/mbc.E20-12-0784) - Image-based profiles as predictors of apoptosis, proliferation and other cell health descriptors.
 *   [Systematic genetics and single‐cell imaging reveal widespread morphological pleiotropy and cell‐to‐cell variability](https://doi.org/10.15252/msb.20199243) - Analysis of single-cell profiles to characterize variability, pleiotropy and incomplete penetrance.
 *   [Large‐scale image‐based profiling of single‐cell phenotypes in arrayed CRISPR‐Cas9 gene perturbation screens](https://doi.org/10.15252/msb.20178064) - Demonstrates feasibility of imaging arrayed CRISPR screens and offers a way to characterize transfection efficacy in individual cells.
-*   [Multiparametric phenotyping of compound effects on patient derived organoids](https://doi.org/10.1101/660993) - Profiling chemical effects on patient-derived organoids.
 *   [A chemical-genetic interaction map of small molecules using high-throughput imaging in cancer cells](https://doi.org/10.15252/MSB.20156400) - Profiling the morphological changes induced in 1280 compounds in 12 knockout cell lines.
 *   [Time-resolved mapping of genetic interactions to model rewiring of signaling pathways](https://doi.org/10.7554/eLife.40174) - Changes in genetic interactions across time based on multiple morphological descriptors.
 *   [High-Content Imaging of Unbiased Chemical Perturbations Reveals that the Phenotypic Plasticity of the Actin Cytoskeleton Is Constrained](https://doi.org/10.1016/j.cels.2019.09.002) - Defining morphological clusters in a large compound screen.
 *   [A map of directional genetic interactions in a metazoan cell](https://doi.org/10.7554/eLife.05464) - Characterizing genetic interactions by integrating 21 phenotypic descriptors.
-*   [The phenotypic landscape of essential human genes](https://doi.org/10.1101/2021.11.28.470116) - Comparing morphological descriptors in a pooled CRISPR screen with in-situ sequencing
 *   [Evaluation of Gene Expression and Phenotypic Profiling Data as Quantitative Descriptors for Predicting Drug Targets and Mechanisms of Action](https://doi.org/10.1101/580654) - Benchmarking profiling modalities, including image-based profiles, for mechanism of action prediction.
 
 ### Publications / Methods
@@ -221,9 +215,6 @@
 *   [Improving Phenotypic Measurements in
     High-Content Imaging Screens](https://doi.org/10.1101/161422) - Embedding single-cell and compound profiles using transfer learning, examplified on mechanism of action prediction.
 *   [The Multidimensional Perturbation Value](https://doi.org/10.1177/1087057112469257) - Proposing a score to define significant activity in screens.
-*   [Label-Free Prediction of Cell Painting from Brightfield Images](https://doi.org/10.1101/2021.11.05.467394) - Reconstructing images for Cell Painting dyes and ensuring corresponding morphological measurements are preserved.
-*   [ShapoGraphy: a glyph-oriented visualisation approach for creating pictorial
-    representations of bioimaging data](https://doi.org/10.1101/2021.04.07.438792) - Method to visualize morphological profiles.
 *   [CytoGAN: Generative Modeling of Cell Images](https://doi.org/10.1101/227645) - Generative network displaying potential for learning latent representation of biological conditions from cell images.
 *   [Self-supervised feature extraction from image time series in plant phenotyping using triplet networks](https://doi.org/https://doi.org/10.1093/bioinformatics/btaa905) - Direct extraction of phenotypic features from plant images.
 
@@ -241,12 +232,12 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐1.7k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++`
+*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐1.8k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++`
 
 ### Software / Money, Budgeting & Management
 
 *   [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
-*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐820)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
+*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐831)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Password Managers
 
@@ -254,7 +245,7 @@
 
 ### Software / Polls and Events
 
-*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap. Alternative to Canny, UserVoice, Upvoty. ([Demo](https://product.clearflask.com), [Source Code (⭐112)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
+*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap. Alternative to Canny, UserVoice, Upvoty. ([Demo](https://product.clearflask.com), [Source Code (⭐115)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -265,7 +256,7 @@
 ### Forms / Image Picker
 
 *   [Form Builder (⭐1.2k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
-*   [Reactive Forms (⭐327)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
+*   [Reactive Forms (⭐342)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
 ## [16. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -297,7 +288,7 @@
 
 *   Prelude
     *   [JasonShin/fp-core.rs (⭐1.1k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming in Rust
-    *   [myrrlyn/tap (⭐209)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [myrrlyn/tap (⭐216)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [21. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -309,44 +300,44 @@
 
 ### Validation / Playground
 
-*   [ts-codec (⭐8)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
+*   [ts-codec (⭐9)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 
 ## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
 
 ### Svelte / Integrations
 
-*   [vite-plugin-svelte (⭐591)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+*   [vite-plugin-svelte (⭐612)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 ## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [rmagatti/goto-preview (⭐403)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
+*   [rmagatti/goto-preview (⭐424)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [andersevenrud/nordic.nvim (⭐141)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
+*   [andersevenrud/nordic.nvim (⭐144)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 
 ### Utility / Diagnostics
 
-*   [sudormrfbin/cheatsheet.nvim (⭐430)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
-*   [stevearc/dressing.nvim (⭐762)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
+*   [sudormrfbin/cheatsheet.nvim (⭐442)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
+*   [stevearc/dressing.nvim (⭐809)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
 ### Editing Support / Diagnostics
 
-*   [ethanholz/nvim-lastplace (⭐180)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
+*   [ethanholz/nvim-lastplace (⭐193)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 
 ## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Papers and references for reading and understanding / OpenAI GPT-3
+### Papers and References / Papers Collections
 
 *   [Casual GAN Papers](https://www.casualganpapers.com/): Easy to read summaries of popular AI papers
 *   [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/): illustrated explanation on how VQGAN works
@@ -357,7 +348,7 @@
 *   [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/\~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
 *   [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
 
-### Improving Google Colab experience / OpenAI GPT-3
+### Miscellaneous / Improving Google Colab experience
 
 *   [7 ways to load external data into Google Colab | by B. Chen | Towards Data Science](https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7)
 *   [10 tricks for a better Google Colab experience | by Cyprien NIELLY | Towards Data Science](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
@@ -382,11 +373,11 @@
 
 ### MVVM
 
-*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.3k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐1.2k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐1.6k)](https://github.com/CommunityToolkit/dotnet).
+*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.3k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐1.2k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐1.7k)](https://github.com/CommunityToolkit/dotnet).
 
 ### Serialization
 
-*   [FlatSharp (⭐354)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
+*   [FlatSharp (⭐374)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
 ## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -430,7 +421,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-voodoo (⭐10)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐3)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
+*   [react-voodoo (⭐10)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐4)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
 
 ## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -453,7 +444,7 @@
 ### Design Inspiration
 
 *   [awwwards.](https://www.awwwards.com/) - \[Top websites] A showcases of all the best designed websites (voted on by designers).
-*   [Behance](https://www.behance.net/) - \[Desing showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.
+*   [Behance](https://www.behance.net/) - \[Design showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.
 *   [dribbble](https://dribbble.com/) - \[Design showcase] Unique design inspiration, generally not from real applications.
 *   [Mobbin](https://mobbin.design/) - \[Mobile screenshots] Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots.
 *   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
@@ -539,8 +530,8 @@
 
 ### Command-Line Productivity
 
-*   [sshrc (⭐111)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
-*   [zoxide (⭐8.5k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+*   [sshrc (⭐112)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+*   [zoxide (⭐8.6k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ### Shell Script Development
 
@@ -573,11 +564,11 @@
 
 ### Libraries/Frameworks / Web
 
-*   [moia-dev/lambda-kotlin-request-router (⭐16)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
+*   [moia-dev/lambda-kotlin-request-router (⭐17)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
 
 ### Libraries/Frameworks / Graphics
 
-*   [JetBrains/skiko (⭐1.1k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+*   [JetBrains/skiko (⭐1.2k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ### Projects / Web
 
@@ -608,7 +599,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [imbalanced-ensemble (⭐168)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
+*   [imbalanced-ensemble (⭐175)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
 ## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -618,7 +609,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-emoji-picker (⭐44)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+*   [vue3-emoji-picker (⭐51)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
 *   [vue-otp-2 (⭐11)](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input.
 *   [vue3-otp-input (⭐41)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 *   [Vueform](https://vueform.com) - (probably) the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)

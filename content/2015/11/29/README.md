@@ -1,8 +1,8 @@
 # Awesome List Updates on Nov 29, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,11 +16,11 @@
 
 ### Git Tools
 
-*   [GitLink (⭐555)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+*   [GitLink (⭐556)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ### HTML and CSS
 
-*   [AngleSharp (⭐4.4k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+*   [AngleSharp (⭐4.5k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
 
 ### Logging
 
@@ -32,8 +32,8 @@
 
 ### Misc
 
-*   [CsvHelper (⭐3.9k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐3.9k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐7.2k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [CsvHelper (⭐4k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4k)](https://github.com/JoshClose/CsvHelper)
+*   [Humanizer (⭐7.3k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 ### ORM
 
@@ -45,7 +45,7 @@
 
 ### Search
 
-*   [Elasticsearch .NET (⭐3.3k)](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
+*   [Elasticsearch .NET (⭐3.4k)](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -66,13 +66,7 @@
 *   [CRIU](https://criu.org/Main_Page)\
     Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. CRIU integrated with Docker and LXC to implement Live migration of containers.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Go / Phoenix
-
-*   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
-
-## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Courses / Slides and Notes
 

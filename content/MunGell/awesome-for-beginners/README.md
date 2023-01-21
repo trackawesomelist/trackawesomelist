@@ -2,7 +2,7 @@
 
 A list of awesome beginners-friendly projects.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MunGell/awesome-for-beginners/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ⭐ 45K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MunGell/awesome-for-beginners/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ⭐ 45K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/MunGell/awesome-for-beginners/week/README.md) / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 

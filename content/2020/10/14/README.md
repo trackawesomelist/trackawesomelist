@@ -1,8 +1,8 @@
 # Awesome List Updates on Oct 14, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -710,13 +710,7 @@
 
 *   [Softwaretester Blog](https://www.softwaretester.blog/)
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Visual Basic / Deno
-
-*   [Visual Basic Official Docs](https://docs.microsoft.com/en-us/dotnet/visual-basic)
-
-## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Topic Areas / Functions
 
@@ -731,7 +725,7 @@
 
 ### Topic Areas / Shiny
 
-*   [Awesome R Shiny (⭐674)](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
+*   [Awesome R Shiny (⭐697)](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
 *   [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#) - Introductory tutorial to Shiny. Note, this tutorial is deprecated. Author: RStudio.
 *   [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. Author: Dean Attali.
 *   [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a) - Detailed introductory video tutorial. Author: Garrett Grolemund.
@@ -740,7 +734,7 @@
 
 ### Topic Areas / Viz
 
-*   [Awesome ggplot2 (⭐878)](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
+*   [Awesome ggplot2 (⭐916)](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
 *   [Color Hex Color Codes](https://www.color-hex.com/) - Author: Color-Hex.
 *   [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - Author: Alboukadel Kassambara.
 *   [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. Author: Yan Holtz.
@@ -776,20 +770,20 @@
 *   [Answering Questions with Data](https://crumplab.github.io/statistics/) - This is a free textbook teaching introductory statistics for undergraduates in Psychology. The textbook was written with math-phobia in mind and attempts to reduce the phobia associated with arithmetic computations. Author: Matthew J. C. Crump.
 *   [Geocomputation with R](https://geocompr.robinlovelace.net/) - This book is about using the power of computers to do things with geographic data. It teaches a range of spatial skills, including reading, writing and manipulating geographic data; making static and interactive maps; applying geocomputation to solve real-world problems; and modeling geographic phenomena. Authors: Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Controller Area Network
 
 *   [Open-Vehicle-Monitoring-System-3 (⭐357)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3) - The system provides live monitoring of vehicle metrics like state of charge, temperatures, tyre pressures and diagnostic fault conditions.
 
-## [9. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Time Series Data
 
 *   [AutomatedStockTrading-DeepQ-Learning (⭐208)](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - Build a Deep Q-learning reinforcement agent model as automated trading robot.
 *   [Quantitative-Trading (⭐29)](https://github.com/Ceruleanacg/Quantitative-Trading) - Papers and code implementing Quantitative-Trading.
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
@@ -799,59 +793,59 @@
 ### Clojure / Deep Learning
 
 *   [MXNet](https://mxnet.apache.org/versions/1.7.0/api/clojure) - Bindings to Apache MXNet - part of the MXNet project
-*   [Deep Diamond (⭐379)](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
+*   [Deep Diamond (⭐382)](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
 *   [jutsu.ai (⭐99)](https://github.com/hswick/jutsu.ai) - Clojure wrapper for deeplearning4j with some added syntactic sugar.
 *   [dl4clj (⭐99)](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
 
 ### Clojure / Data Analysis
 
-*   [Tablecloth (⭐192)](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
-*   [Panthera (⭐182)](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
-*   [Geni (⭐250)](https://github.com/zero-one-group/geni) - a Clojure dataframe library that runs on Apache Spark
+*   [Tablecloth (⭐198)](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
+*   [Panthera (⭐183)](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
+*   [Geni (⭐253)](https://github.com/zero-one-group/geni) - a Clojure dataframe library that runs on Apache Spark
 
 ### Clojure / Data Visualization
 
-*   [Hanami (⭐312)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
-*   [Saite (⭐116)](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
-*   [Oz (⭐787)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
-*   [clojupyter (⭐763)](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
+*   [Hanami (⭐317)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
+*   [Saite (⭐117)](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
+*   [Oz (⭐793)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
+*   [clojupyter (⭐768)](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
 
 ### Clojure / Interop
 
 *   [Java Interop](https://clojure.org/reference/java_interop) - Clojure has Native Java Interop from which Java's ML ecosystem can be accessed
 *   [JavaScript Interop](https://clojurescript.org/reference/javascript-api) - ClojureScript has Native JavaScript Interop from which JavaScript's ML ecosystem can be accessed
-*   [Libpython-clj (⭐867)](https://github.com/clj-python/libpython-clj) - Interop with Python
-*   [ClojisR (⭐125)](https://github.com/scicloj/clojisr) - Interop with R and Renjin (R on the JVM)
+*   [Libpython-clj (⭐877)](https://github.com/clj-python/libpython-clj) - Interop with Python
+*   [ClojisR (⭐128)](https://github.com/scicloj/clojisr) - Interop with R and Renjin (R on the JVM)
 
 ### Clojure / Misc
 
 *   [Neanderthal](https://neanderthal.uncomplicate.org/) - Fast Clojure Matrix Library (native CPU, GPU, OpenCL, CUDA)
-*   [fastmath (⭐169)](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
+*   [fastmath (⭐171)](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
 *   [matlib (⭐23)](https://github.com/atisharma/matlib) - a Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.
 
 ### Clojure / Extra
 
 *   [Scicloj](https://scicloj.github.io/pages/libraries/) - Curated list of ML related resources for Clojure.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Dev Tools
 
 *   [Ionic Snippets (⭐3)](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components
 
-## [12. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [11. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   KitDB - <https://kitdb.app/>
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - Integrated Library Systems (ILS)
 
-*   [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code (⭐50)](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`
+*   [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code (⭐51)](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Data Visualization / Runner
 
@@ -861,7 +855,7 @@
 
 *   [Luckysheet (⭐13k)](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 
-## [15. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [14. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 
@@ -871,7 +865,7 @@
 
 *   [NoSQL Data Modeling Techniques (2012)](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/) - This article provides a short comparison of NoSQL system families from the data modeling point of view and digests several common modeling techniques.
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### QuickLook Plugins / System Related Tools
 

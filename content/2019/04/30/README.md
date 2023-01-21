@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -22,7 +22,7 @@
 
 ### Integrations
 
-*   [Duo Security MFA Authentication for Keycloak (⭐25)](https://github.com/mulesoft-labs/keycloak-duo-spi)
+*   [Duo Security MFA Authentication for Keycloak (⭐27)](https://github.com/mulesoft-labs/keycloak-duo-spi)
 
 ## [4. Awesome](/content/craftcms/awesome/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐910)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐912)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Open Source / Other
 
-*   [Unsplash Wallpapers (⭐255)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+*   [Unsplash Wallpapers (⭐262)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
 ## [12. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 

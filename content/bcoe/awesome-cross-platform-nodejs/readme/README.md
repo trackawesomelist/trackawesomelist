@@ -2,7 +2,7 @@
 
 :two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bcoe/awesome-cross-platform-nodejs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bcoe/awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) · ⭐ 1K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bcoe/awesome-cross-platform-nodejs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bcoe/awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) · ⭐ 1K · 🏷️ Platforms
 
 [ [Daily](/content/bcoe/awesome-cross-platform-nodejs/README.md) / [Weekly](/content/bcoe/awesome-cross-platform-nodejs/week/README.md) / Overview ]
 

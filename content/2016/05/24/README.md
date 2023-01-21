@@ -1,8 +1,8 @@
 # Awesome List Updates on May 24, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -23,25 +23,19 @@
 
 *   [mciparelli/cycle-hmr-example ★0 (⭐0)](https://github.com/mciparelli/cycle-hmr-example) - A Cycle.js starter project using browserify and cycle-hmr
 
-## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
-
-### Charts
-
-*   [insights (⭐198)](https://github.com/ignacioola/insights) -  Library to visualize and navigate graphs
-
-## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
 *   [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
 
-## [5. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
+## [4. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
 ### Augmented & Virtual Reality
 
 *   [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 
-## [6. Typography](/content/deanhume/typography/README.md)
+## [5. Typography](/content/deanhume/typography/README.md)
 
 ### Articles
 
@@ -59,31 +53,31 @@
 
 *   [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / V companies
 
 *   Vena Solutions <https://engineering.vena.io/>
 
-## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [ErupteD (⭐46)](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
 
-## [9. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Semantic Segmentation
 
 *   [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
 
-## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Tools / Slides and Notes
 
 *   [Build with Flexbox](http://flexbox.buildwithreact.com/)
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Email
 

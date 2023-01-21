@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -60,7 +60,7 @@
 
 ### Algorithms and Data structures
 
-*   [qr-code (⭐16)](https://github.com/spider-gazelle/qr-code) - QR Code generator
+*   [qr-code (⭐18)](https://github.com/spider-gazelle/qr-code) - QR Code generator
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Open Source / Other
 
-*   [Hawkpass (⭐58)](https://github.com/kalpetros/hawkpass) - Password generator.
+*   [Hawkpass (⭐57)](https://github.com/kalpetros/hawkpass) - Password generator.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

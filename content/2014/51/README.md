@@ -1,8 +1,8 @@
 # Awesome List Updates on Dec 22 - Dec 28, 2014
 
-16 awesome lists updated this week.
+15 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### Natural Language Processing
 
-*   [Text (⭐576)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+*   [Text (⭐577)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 
 ### Queues and Messaging
 
-*   [Que (⭐2.1k)](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
+*   [Que (⭐2.2k)](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 
 ### Web Servers
 
@@ -153,9 +153,9 @@
 
 ### Packages / Command-line apps
 
-*   [empty-trash (⭐125)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+*   [empty-trash (⭐126)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 *   [is-online (⭐1.1k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐957)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [public-ip (⭐966)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
@@ -167,23 +167,13 @@
 
 *   [couchdb (⭐5.5k)](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API \[website] (<http://couchdb.apache.org/>)
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C++ / Non-X86
-
-*   [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
-
-### Go / Phoenix
-
-*   [Effective Go](https://golang.org/doc/effective_go.html)
-
-## [13. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [12. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Articles / Bare metal / kernel development
 
 *   [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 
-## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
@@ -257,13 +247,13 @@
 
 *   [SecTools](http://sectools.org/) - Top 125 Network Security Tools
 
-## [15. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [14. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Build-time transpilation / Brunch Plugins
 
 *   ES6 Module Transpiler: [es6-module-transpiler-brunch (⭐9)](https://github.com/gcollazo/es6-module-transpiler-brunch)
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -273,7 +263,7 @@
 
 ### Authentication
 
-*   [oauth2 (⭐685)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐687)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐56)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks
@@ -299,7 +289,7 @@
 ### Text and Numbers
 
 *   [convertat (⭐16)](https://github.com/whatyouhide/convertat) - An Elixir library for converting from and to arbitrary bases.
-*   [curtail (⭐29)](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
+*   [curtail (⭐30)](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
 *   [tau (⭐3)](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
 
 ### Third Party APIs

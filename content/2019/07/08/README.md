@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -16,7 +16,7 @@
 
 ### IDE
 
-*   [dbKoda (⭐874)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+*   [dbKoda (⭐873)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 
 ### GUI
 
@@ -70,7 +70,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.3k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.4k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
 
 ---
 

@@ -2,7 +2,7 @@
 
 15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -28,7 +28,7 @@
 
 ### Players / MPEG
 
-*   [adrg/libvlc-go (⭐322)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
+*   [adrg/libvlc-go (⭐326)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
 
 ## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [tsParticles (⭐4.5k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [tsParticles (⭐4.7k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ### Components & Libraries / Utilities
 
@@ -127,7 +127,7 @@
 
 ### Buttons
 
-*   [reactive-button (⭐97)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
+*   [reactive-button (⭐100)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

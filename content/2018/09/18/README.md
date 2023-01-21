@@ -2,7 +2,7 @@
 
 10 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -41,7 +41,7 @@
 
 ### Video / Barcode
 
-*   [PryntTrimmerView (⭐733)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
+*   [PryntTrimmerView (⭐741)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -79,13 +79,13 @@
 
 ### Utils / Third Party
 
-*   [d3-voronoi-treemap (⭐155)](https://github.com/Kcnarf/d3-voronoi-treemap) - Computes a treemap based on a Voronoi tesselation
+*   [d3-voronoi-treemap (⭐159)](https://github.com/Kcnarf/d3-voronoi-treemap) - Computes a treemap based on a Voronoi tesselation
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [DigitalOcean (⭐291)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐294)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 

@@ -2,7 +2,7 @@
 
 8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐755)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐761)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Libraries / JavaScript
 
-*   [mongration (⭐80)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [mongration (⭐81)](https://github.com/awapps/mongration) - Node.js migration framework
 
 ### Tools / Deployment
 
@@ -31,7 +31,7 @@
 ### Development Environment
 
 *   [Mixer (⭐45)](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins.
-*   [Oven (⭐140)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
+*   [Oven (⭐139)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

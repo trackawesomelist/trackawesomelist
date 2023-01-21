@@ -2,7 +2,7 @@
 
 12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -54,7 +54,7 @@
 
 ### Typing
 
-*   👍 [Coalton (⭐622)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Coalton (⭐665)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [6. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Applications / Operating systems
 
-*   [0x59616e/SteinsOS (⭐83)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
+*   [0x59616e/SteinsOS (⭐85)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
 
 ## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 

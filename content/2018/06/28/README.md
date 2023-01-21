@@ -2,7 +2,7 @@
 
 13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Bots
 
-*   [Telegrammer (⭐278)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
+*   [Telegrammer (⭐280)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

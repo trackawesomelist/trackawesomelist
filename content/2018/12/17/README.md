@@ -2,7 +2,7 @@
 
 11 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -10,11 +10,11 @@
 
 ### UI
 
-*   [Pin Code (⭐296)](https://github.com/LiewJunTung/pin_code_text_field) <!--stargazers:LiewJunTung/pin_code_text_field--> - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
+*   [Pin Code (⭐309)](https://github.com/LiewJunTung/pin_code_text_field) <!--stargazers:LiewJunTung/pin_code_text_field--> - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
 
 ### Analytics / Image Picker
 
-*   [Pure Mixpanel (⭐24)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
+*   [Pure Mixpanel (⭐23)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Other
 
-*   [Klak (⭐1.6k)](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
+*   [Klak (⭐1.7k)](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
@@ -44,7 +44,7 @@
 
 ### Country Data
 
-*   [validates\_zipcode (⭐118)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+*   [validates\_zipcode (⭐119)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Self-Hosted Services
 
-*   [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
+*   [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 
 ### Resources
 
@@ -111,11 +111,11 @@
 
 *   Docker
     *   [emk/rust-musl-builder (⭐1.3k)](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
-    *   [kpcyrd/mini-docker-rust (⭐150)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
+    *   [kpcyrd/mini-docker-rust (⭐155)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
     *   [liuchong/docker-rustup (⭐83)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
-    *   [LukeMathWalker/cargo-chef (⭐820)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [messense/rust-musl-cross (⭐354)](https://github.com/messense/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![build badge](https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master)](https://travis-ci.org/messense/rust-musl-cross)
-    *   [rust-lang-nursery/docker-rust (⭐321)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
+    *   [LukeMathWalker/cargo-chef (⭐875)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+    *   [rust-cross/rust-musl-cross (⭐368)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
+    *   [rust-lang-nursery/docker-rust (⭐324)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
 
 ## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

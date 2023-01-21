@@ -2,7 +2,7 @@
 
 39 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
@@ -45,7 +45,7 @@
 
 ### Database
 
-*   [Yessql (⭐1k)](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
+*   [Yessql (⭐1.1k)](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
 
 ### Misc
 
@@ -54,7 +54,7 @@
 ### Source Generator
 
 *   [Awesome .NET Performance (⭐2.9k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
-*   [awesome-ddd (⭐9.4k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+*   [awesome-ddd (⭐9.5k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
 ## [7. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -127,13 +127,19 @@
 
 *   [tic-tac-choo (⭐6)](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
 
-## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Switch / Barcode
+
+*   [Switch (⭐145)](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
+
+## [15. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Articles / Hash functions
 
 *   [How to Generate Secure Random Numbers in Various Programming Languages](https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages).
 
-## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [16. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -147,13 +153,13 @@
 
 *   [Future Studio](https://futurestud.io/tutorials/tag/android) - Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.
 
-## [16. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [17. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Python
 
 *   [CherryPy + Mako + Formish + OOOP boilerplate (⭐5)](https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate) Targets publishing of OpenERP content to the web.
 
-## [17. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [18. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Art & Design
 
@@ -164,7 +170,7 @@
 *   [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 *   [WarriorJS (⭐8.8k)](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 
-## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [19. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Language bindings
 
@@ -172,7 +178,7 @@
 *   Elixir: [postgrex (⭐961)](https://github.com/elixir-ecto/postgrex)
 *   Rust: [rust-postgresql (⭐2.7k)](https://github.com/sfackler/rust-postgres)
 
-## [19. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [20. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Task Runners
 
@@ -199,25 +205,25 @@
     *   You can't nest `pre` and `post` hooks (i.e. `preprescript` won't work).
 *   Running `npm test` is the same as running `npm run test`. The same applies to `npm start` and `npm stop`.
 
-## [20. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
+## [21. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
 ### Websites
 
 *   [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
 
-## [21. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [22. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Chinese
 
 *   [Teahour](http://teahour.fm/) - A podcast hosted by [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) and [Daniel Lv](https://github.com/lgn21st), Most topics are about software development, startups, etc.
 
-## [22. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐786)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐791)](https://github.com/nelson-brochado/understanding-math)
 
-## [23. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [24. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Low-Level Vision / Other Applications
 
@@ -236,7 +242,7 @@
 *   Human Gaze Estimation
     *   Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [\[Paper\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf) [\[Website\]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/)
 
-## [24. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [25. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### C / Syntax highlighting packages
 
@@ -246,7 +252,7 @@
 
 *   [fpgaboy (⭐85)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
 
-## [25. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [26. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -325,13 +331,13 @@
 *   [99% INVISIBLE](http://99percentinvisible.org/)
 *   [Adventures in Design](http://www.adventuresindesignmarket.com/)
 
-## [26. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [27. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
 *   [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
 
-## [27. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [28. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Ruby Clients
 
@@ -340,16 +346,6 @@
 ### Go Clients
 
 *   [resty (⭐7.1k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
-
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Label / Barcode
-
-*   [SMIconLabel (⭐94)](https://github.com/anatoliyv/SMIconLabel) - UILabel with image placed from left or right.
-
-### Switch / Barcode
-
-*   [Switch (⭐145)](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
 
 ## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -391,7 +387,7 @@
 
 ### Libraries and Tools / Go
 
-*   [CAN Simulator (⭐57)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐154)](https://github.com/carloop/simulator)
+*   [CAN Simulator (⭐58)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐157)](https://github.com/carloop/simulator)
 
 ## [33. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -466,20 +462,20 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Cryptography
 
-*   [rsa\_ex (⭐34)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
+*   [rsa\_ex (⭐35)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
 
 ### Deployment
 
-*   [ansible-elixir-stack (⭐293)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
+*   [ansible-elixir-stack (⭐292)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
 *   [bottler (⭐38)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 *   [edeliver (⭐1.9k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐11)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
-*   [gatling (⭐499)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
-*   [heroku-buildpack-elixir (⭐797)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+*   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+*   [heroku-buildpack-elixir (⭐796)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 
-*   [silent\_video (⭐13)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
+*   [silent\_video (⭐15)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
