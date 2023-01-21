@@ -168,8 +168,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 *   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
+*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
 *   [Suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
-*   [qubes-gui-rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
 
 ## VPN
 
@@ -207,7 +207,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Security
 
 *   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
-*   [Anti evil maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
+*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
 *   [Firewall](https://www.qubes-os.org/doc/firewall/)
@@ -230,12 +230,14 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Kernels
 
+### Microkernels
+
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
 *   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
 
-## Unikernels
+### Unikernels
 
 *   [Awesome-Unikernels (⭐22)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
 *   [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
@@ -244,7 +246,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 *   [Qubes-Mirage-Firewall (⭐184)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
-## Unikernel-like
+### Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 *   [Graphene (⭐746)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
@@ -266,8 +268,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
     *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
     *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
-*   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [MemProcFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 *   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
@@ -340,12 +342,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
 *   [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
 *   [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
-*   [Salt (management software)](https://www.qubes-os.org/doc/salt/)
+*   [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
 *   [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
 *   [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
-*   [USB qubes](https://www.qubes-os.org/doc/usb-qubes/)
+*   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
 *   [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
-*   [Windows qubes](https://www.qubes-os.org/doc/windows/)
+*   [Windows Qubes](https://www.qubes-os.org/doc/windows/)
 
 ## Qubes OS Legends
 
@@ -354,9 +356,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 *   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories)
-    *   [templates](https://qubes.3isec.org/Templates_4.1/)
-    *   [Core Team](https://www.qubes-os.org/team/#core-team)
-*   You can be one too! You've got this! Keep Qubing!
+    *   [Templates](https://qubes.3isec.org/Templates_4.1/)
+    *   [Unman Install Scripts (⭐12)](https://github.com/unman/shaker)
+*   [Core Team](https://www.qubes-os.org/team/#core-team)
 
 ## Training and Materials
 
@@ -371,7 +373,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Streamers
 
-*   [infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
+*   [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 *   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
 
 ## Companies using Qubes OS
@@ -420,5 +422,5 @@ Contribution guidelines can be found [here (⭐18)](https://github.com/xn0px90/A
 
 This work is licensed under a [Creative Commons Attribution 1.0 Generic](http://creativecommons.org/licenses/by/1.0/).
 
-                                   :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X
+                               :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X
 

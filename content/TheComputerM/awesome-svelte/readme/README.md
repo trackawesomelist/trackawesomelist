@@ -109,6 +109,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - RadDevon.
 *   [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint, by Chrome DevTools engineer @Jack\_Franklin.
 *   [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
+*   [Typescript + Svelte Cheatsheet (⭐418)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
 
 ### Studies
 
@@ -224,6 +225,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [svelte-tree-viewer (⭐14)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 *   [svelte-copyright (⭐10)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
+*   [svelte-splitpanes (⭐149)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 *   [mathjax-svelte (⭐0)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 
 ## Scaffold
@@ -248,6 +250,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 *   [vest (⭐2k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 *   [svelte-formly (⭐215)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-form-builder (⭐8)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ### WebGL
 

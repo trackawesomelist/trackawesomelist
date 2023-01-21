@@ -417,6 +417,7 @@ Thanks to all [contributors (⭐3.1k)](https://github.com/zudochkin/awesome-news
 *   [Flutter Croissants](https://flutter-croissants.com/). Receive every Monday all the news about Flutter and the world of mobility.
 *   [Flutter Digest](https://flutter-digest.com/). 🇫🇷 A weekly French newsletter about Flutter and Dart.
 *   [Android Croissants](https://android-croissants.com/). 🇫🇷 Every Monday morning, receive the latest news, tutorials, tips… about Android.
+*   [Flutter Tap](https://fluttertap.com/). Flutter Tap is a free weekly newsletter that helps you to stay cutting-edge with your Flutter development.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 

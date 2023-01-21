@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Jan 21, 2023](/content/2023/01/21/README.md)
+
+### Mobile / Angular
+
+*   [Flutter Tap](https://fluttertap.com/). Flutter Tap is a free weekly newsletter that helps you to stay cutting-edge with your Flutter development.
+
 ## [Jan 06, 2023](/content/2023/01/06/README.md)
 
 ### Vim / Angular

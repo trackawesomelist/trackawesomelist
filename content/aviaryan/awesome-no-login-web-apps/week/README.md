@@ -20,6 +20,10 @@
 
 *   [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 
+### Study and Education / Others
+
+*   [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online.
+
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
 ### Audio and Video

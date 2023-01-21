@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
+## [Jan 21, 2023](/content/2023/01/21/README.md)
+
+### Study and Education / Others
+
+*   [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online.
+
 ## [Jan 20, 2023](/content/2023/01/20/README.md)
 
 ### File Converters / Others

@@ -10,13 +10,36 @@ A collection of awesome Qubes OS links
 
 ### Desktop Customization
 
-*   [qubes-gui-rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
+*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
+
+### Security
+
+*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
+
+### Exploitation Tools / Unikernel-like
+
+*   [MemProcFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+
+### Advanced Topics / Web articles
+
+*   [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
+*   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
+*   [Windows Qubes](https://www.qubes-os.org/doc/windows/)
+
+### Qubes OS Legends / Web articles
+
+*   [Core Team](https://www.qubes-os.org/team/#core-team)
 
 ### Training and Materials / Web articles
 
 *   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
     *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
     *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
+
+### Streamers / Web articles
+
+*   [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -80,17 +103,17 @@ A collection of awesome Qubes OS links
 
 *   [Awesome-Virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
-### Kernels
+### Kernels / Microkernels
 
 *   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
 
-### Unikernels
+### Kernels / Unikernels
 
 *   [Awesome-Unikernels (⭐22)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
 *   [Qubes-Mirage-Firewall (⭐184)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
-### Exploitation Tools
+### Exploitation Tools / Unikernel-like
 
 *   [Awesome-Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
@@ -127,9 +150,8 @@ A collection of awesome Qubes OS links
 
 *   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories)
-    *   [templates](https://qubes.3isec.org/Templates_4.1/)
-    *   [Core Team](https://www.qubes-os.org/team/#core-team)
-*   You can be one too! You've got this! Keep Qubing!
+    *   [Templates](https://qubes.3isec.org/Templates_4.1/)
+    *   [Unman Install Scripts (⭐12)](https://github.com/unman/shaker)
 
 ### Training and Materials / Web articles
 
@@ -219,7 +241,6 @@ A collection of awesome Qubes OS links
 ### Security
 
 *   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
-*   [Anti evil maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
 *   [Firewall](https://www.qubes-os.org/doc/firewall/)
@@ -235,31 +256,29 @@ A collection of awesome Qubes OS links
 *   [Whonix for Privacy & Anonymity (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
 *   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
-### Kernels
+### Kernels / Microkernels
 
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
 
-### Unikernels
+### Kernels / Unikernels
 
 *   [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
 *   [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
 *   [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
 *   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 
-### Unikernel-like
+### Kernels / Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 *   [Graphene (⭐746)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
-### Exploitation Tools
+### Exploitation Tools / Unikernel-like
 
 *   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 *   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
-*   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 *   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
 ### Xen Exploitation / Video Presentations
@@ -312,12 +331,9 @@ A collection of awesome Qubes OS links
 *   [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
 *   [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
 *   [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
-*   [Salt (management software)](https://www.qubes-os.org/doc/salt/)
 *   [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
 *   [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
-*   [USB qubes](https://www.qubes-os.org/doc/usb-qubes/)
 *   [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
-*   [Windows qubes](https://www.qubes-os.org/doc/windows/)
 
 ### Qubes OS Legends / Web articles
 
@@ -331,7 +347,6 @@ A collection of awesome Qubes OS links
 
 ### Streamers / Web articles
 
-*   [infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 *   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
 
 ### Companies using Qubes OS / Web articles

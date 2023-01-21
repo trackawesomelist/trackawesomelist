@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Jan 21, 2023](/content/2023/01/21/README.md)
+
+### Tutorials
+
+*   [Typescript + Svelte Cheatsheet (⭐418)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
+
+### Miscellaneous / Checkbox
+
+*   [svelte-splitpanes (⭐149)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
+
+### Form / Checkbox
+
+*   [svelte-form-builder (⭐8)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+
 ## [Jan 19, 2023](/content/2023/01/19/README.md)
 
 ### State Libraries

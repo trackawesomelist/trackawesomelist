@@ -8,6 +8,10 @@
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
+### Tutorials
+
+*   [Typescript + Svelte Cheatsheet (⭐418)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
+
 ### State Libraries
 
 *   [Svelte-Domain (⭐1)](https://github.com/thegenius/svelte-domain) - The state management for svelte.
@@ -15,7 +19,12 @@
 
 ### Miscellaneous / Checkbox
 
+*   [svelte-splitpanes (⭐149)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 *   [mathjax-svelte (⭐0)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
+
+### Form / Checkbox
+
+*   [svelte-form-builder (⭐8)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
