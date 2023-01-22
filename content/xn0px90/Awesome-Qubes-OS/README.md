@@ -6,13 +6,19 @@ A collection of awesome Qubes OS links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Jan 22, 2023](/content/2023/01/22/README.md)
+
+### Training and Materials / Web articles
+
+*   [The Book of Secret Knowledge (⭐88k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+
 ## [Jan 21, 2023](/content/2023/01/21/README.md)
 
 ### Desktop Customization
 
 *   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
 
-### Security
+### Security / Darknet
 
 *   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
 
@@ -71,11 +77,11 @@ A collection of awesome Qubes OS links
 
 *   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
-### Xen Exploitation / Video Presentations
+### Videos / Xen Exploitation
 
 *   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo)
 
-### Xen Exploitation / PDF Papers
+### Videos / PDF Papers
 
 *   [Bluepilling the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part3.pdf)
 *   [Hypervisor Vulnerability Research - State of the Art \[PDF\]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
@@ -102,10 +108,15 @@ A collection of awesome Qubes OS links
 *   [Qubes OS 4.1.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1.1 download.
 *   [Qubes OS 4.1.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1.2 Weekly Build download.
 
-### Qubes OS Server
+### VM-Hardening
 
-*   [Qubes-network-server (⭐78)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-*   [Qubes-remote-desktop (⭐6)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+*   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
+
+### Desktop Customization
+
+*   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
+*   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+*   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ### GPU
 
@@ -118,35 +129,19 @@ A collection of awesome Qubes OS links
 *   [Nvidia-troubleshooting (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
 *   [Windows-gaming-hvm (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
-### Desktop Customization
-
-*   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
-*   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-*   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
-
-### VPN
+### Networking / VPN
 
 *   [Qubes-Tunnel (⭐16)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 
-### Crypto
+### Crypto / Darknet
 
 *   [Awesome-DeSci (⭐17)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 
-### Videos
-
-*   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
-*   [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
-*   [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
-*   [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
-*   [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
-*   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-*   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-
-### Security
+### Security / Darknet
 
 *   [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/)
 
-### Vitualization
+### Vitualization / Darknet
 
 *   [Awesome-Virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
@@ -175,14 +170,25 @@ A collection of awesome Qubes OS links
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 
-### Xen Exploitation / Video Presentations
+### Videos / Unikernel-like
+
+*   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+*   [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
+*   [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
+*   [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
+*   [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
+*   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+*   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+
+### Videos / Xen Exploitation
 
 *   [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
 *   [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
 
-### VM-Hardening / Web articles
+### Qubes OS Server / Web articles
 
-*   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
+*   [Qubes-network-server (⭐78)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
+*   [Qubes-remote-desktop (⭐6)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
 
 ### Qubes OS Legends / Web articles
 
@@ -198,11 +204,11 @@ A collection of awesome Qubes OS links
 
 ## [Jan 08, 2023](/content/2023/01/08/README.md)
 
-### Darknet
+### Networking / Darknet
 
 *   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 
-### Crypto
+### Crypto / Darknet
 
 *   [Split Bitcoin Wallet (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 
@@ -212,11 +218,11 @@ A collection of awesome Qubes OS links
 
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
-### Darknet
+### Networking / Darknet
 
 *   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
-### Kernels
+### Kernels / Darknet
 
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 
@@ -230,13 +236,13 @@ A collection of awesome Qubes OS links
 ### Kernels / Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
-*   [Graphene (⭐746)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+*   [Graphene (⭐745)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
 ### Exploitation Tools / Unikernel-like
 
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 
-### Xen Exploitation / Video Presentations
+### Videos / Xen Exploitation
 
 *   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
 *   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
@@ -244,7 +250,7 @@ A collection of awesome Qubes OS links
 *   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
 *   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
 
-### Xen Exploitation / Web articles
+### Videos / Web articles
 
 *   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
 *   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
@@ -277,7 +283,7 @@ A collection of awesome Qubes OS links
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
-### Darknet
+### Networking / Darknet
 
 *   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on qubes-whonix.
 
@@ -337,7 +343,7 @@ A collection of awesome Qubes OS links
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 *   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
 
-### Security
+### Security / Darknet
 
 *   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
@@ -415,14 +421,14 @@ A collection of awesome Qubes OS links
 
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 
-### Darknet
-
-*   [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
-
-### VM-Hardening / Web articles
+### VM-Hardening
 
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
 *   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening)
+
+### Networking / Darknet
+
+*   [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
 
 ## [Dec 28, 2022](/content/2022/12/28/README.md)
 
@@ -432,13 +438,13 @@ A collection of awesome Qubes OS links
 
 ## [Sep 08, 2021](/content/2021/09/08/README.md)
 
-### VPN
+### Networking / VPN
 
 *   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
 
 ## [Sep 03, 2021](/content/2021/09/03/README.md)
 
-### Qubes OS Server
+### Qubes OS Server / Web articles
 
 *   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
 
@@ -455,12 +461,12 @@ A collection of awesome Qubes OS links
 *   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called Qubes.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 
-### VPN
+### Networking / VPN
 
 *   [How To make a VPN Gateway in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 *   [WireGuard (⭐201)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
-### Videos
+### Videos / Unikernel-like
 
 *   [3mdeb](https://3mdeb.com/)
 *   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)

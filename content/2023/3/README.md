@@ -1,12 +1,24 @@
 # Awesome List Updates on Jan 16 - Jan 22, 2023
 
-9 awesome lists updated this week.
+11 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Knowledge Management
+
+*   [DDC at OCLC (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes) - ***Online Computer Library Center (OCLC)***. \[[OCLC Website](https://www.oclc.org/en/home.html)]. \[[Introduction to DDC](https://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf)]. \[[DDC Manual](https://www.oclc.org/content/dam/oclc/webdewey/help/full_manual.pdf)]. Dewey Decimal Classification (DDC) system. \[[DDC Class 000 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/000.pdf)]. \[[DDC Class 100 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/100.pdf)]. \[[DDC Class 200 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/200.pdf)]. \[[DDC Class 300 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/300.pdf)]. \[[DDC Class 400 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/400.pdf)]. \[[DDC Class 500 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/500.pdf)]. \[[DDC Class 600 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/600.pdf)]. \[[DDC Class 700 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/700.pdf)]. \[[DDC Class 800 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/800.pdf)]. \[[DDC Class 900 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/900.pdf)].
+
+## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+
+### Training and Materials / Web articles
+
+*   [The Book of Secret Knowledge (⭐88k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Captchas
 
@@ -17,13 +29,13 @@
 *   [Azire](https://www.azirevpn.com/)
 *   [Proton VPN](https://protonvpn.com)
 
-## [2. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Games / Other / unknown licence
 
 *   [steamsky](https://www.laeran.pl/repositories/steamsky) - Roguelike in sky with a steampunk setting.
 
-## [3. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [5. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / ROSCon 2022
 
@@ -55,7 +67,7 @@
 *   ROS 2 and the Crazyflie: Aerial swarms and Autonomy with a tiny flying robot [video](https://vimeo.com/showcase/9954564/video/767140197) [slides](http://download.ros.org/downloads/roscon/2022/ROS%202%20and%20the%20Crazyflie%20Aerial%20swarms%20and%20Autonomy%20with%20a%20tiny%20flying%20robot.pdf)
 *   A Raspberry Pi image with ROS 2 + RT and a customizable image builder [video](https://vimeo.com/showcase/9954564/video/767139709) [slides](http://download.ros.org/downloads/roscon/2022/A%20Raspberry%20Pi%20image%20with%20ROS%202%20%2B%20RT%20and%20a%20customizable%20image%20builder.pdf)
 
-## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Internet and Networking
 
@@ -136,7 +148,7 @@
 *   [Desktop Cube (⭐452)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
 *   [Burn My Windows (⭐2.1k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Desktop
 
@@ -185,7 +197,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Papers and References / AI Tools for Searching
 
@@ -195,7 +207,7 @@
 
 *   [neural frames](https://www.neuralframes.com/firstframe): tools for animation creation inspired on deforum
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
@@ -205,13 +217,13 @@
 
 *   [ml4a](https://ml4a.net/) - Machine learning for artists.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Low-code Platform
 
 *   [ReTool](https://retool.com/) — Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
 
-## [9. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [11. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Jaypore CI](https://www.jayporeci.in/)
 

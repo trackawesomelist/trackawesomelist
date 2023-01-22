@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 22, 2023](/content/2023/01/22/README.md)
+
+### Knowledge Management
+
+*   [DDC at OCLC (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes) - ***Online Computer Library Center (OCLC)***. \[[OCLC Website](https://www.oclc.org/en/home.html)]. \[[Introduction to DDC](https://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf)]. \[[DDC Manual](https://www.oclc.org/content/dam/oclc/webdewey/help/full_manual.pdf)]. Dewey Decimal Classification (DDC) system. \[[DDC Class 000 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/000.pdf)]. \[[DDC Class 100 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/100.pdf)]. \[[DDC Class 200 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/200.pdf)]. \[[DDC Class 300 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/300.pdf)]. \[[DDC Class 400 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/400.pdf)]. \[[DDC Class 500 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/500.pdf)]. \[[DDC Class 600 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/600.pdf)]. \[[DDC Class 700 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/700.pdf)]. \[[DDC Class 800 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/800.pdf)]. \[[DDC Class 900 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/900.pdf)].
+
 ## [Jan 19, 2023](/content/2023/01/19/README.md)
 
 ### Problem Solving / Human-Level Problem Solving
@@ -29,7 +35,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Knowledge Management
 
-*   [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[\[Wikipedia-EN]\(<https://en.wikipedia.org/wiki/Chinese_Library_Classification#:~:text=The%20Chinese%20Library%20Classification%20(CLC,as%20well%20as%20public%20libraries.)>].
+*   [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification)].
 
 ## [Jan 16, 2023](/content/2023/01/16/README.md)
 

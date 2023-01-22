@@ -52,36 +52,45 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Table of Contents
 
-*   [Qubes OS Websites](#qubes-os-websites)
-*   [System Requirements](#system-requirements)
-*   [Downloading, Installing, Upgrading, and Building](#downloading-installing-upgrading-and-building)
-*   [How-to guides](#how-to-guides)
-*   [Templates](#templates)
-*   [Qubes OS Server](#qubes-os-server)
-*   [GPU](#gpu)
-*   [Desktop  Customization](#desktop-customization)
-*   [VPN](#vpn)
-*   [Darknet](#darknet)
-*   [Crypto](#crypto)
-*   [Videos](#videos)
-*   [Security](#security)
-*   [Kernels](#kernels)
-*   [Unikernels](#unikernels)
-*   [Unikernel-like](#unikernel-like)
-*   [Exploitation Tools](#exploitation-tools)
-*   [Xen Exploitation](#xen-exploitation)
-*   [VM-Hardening](#vm-hardening)
-*   [System](#system)
-*   [Services](#services)
-*   [Advanced Topics](#advanced-topics)
-*   [Qubes OS Legends](#qubes-os-legends)
-*   [Training and Materials](#training-and-materials)
-*   [Companies using Qubes OS](#companies-using-qubes-os)
-*   [Social media](#social-media)
-*   [Contributing](#contributing)
-*   [Releases](#releases)
-*   [Adventure Further](#adventure-further)
-*   [License](#license)
+*   [Awesome Qubes OS ](#awesome-qubes-os-)
+    *   [A curated list of Awesome Qubes OS links](#a-curated-list-of-awesome-qubes-os-links)
+    *   [Table of Contents](#table-of-contents)
+    *   [Qubes OS Websites](#qubes-os-websites)
+    *   [System Requirements](#system-requirements)
+    *   [Downloading, Installing, Upgrading, and Building](#downloading-installing-upgrading-and-building)
+    *   [How-to guides](#how-to-guides)
+    *   [Templates](#templates)
+    *   [VM-Hardening](#vm-hardening)
+    *   [Desktop Customization](#desktop-customization)
+    *   [GPU](#gpu)
+    *   [Networking](#networking)
+        *   [VPN](#vpn)
+        *   [Darknet](#darknet)
+    *   [Crypto](#crypto)
+    *   [Security](#security)
+    *   [Vitualization](#vitualization)
+    *   [Kernels](#kernels)
+        *   [Microkernels](#microkernels)
+        *   [Unikernels](#unikernels)
+        *   [Unikernel-like](#unikernel-like)
+    *   [Exploitation Tools](#exploitation-tools)
+    *   [Videos](#videos)
+        *   [Xen Exploitation](#xen-exploitation)
+        *   [PDF Papers](#pdf-papers)
+        *   [Web articles](#web-articles)
+    *   [System](#system)
+    *   [Services](#services)
+    *   [Advanced Topics](#advanced-topics)
+    *   [Qubes OS Server](#qubes-os-server)
+    *   [Qubes OS Legends](#qubes-os-legends)
+    *   [Training and Materials](#training-and-materials)
+    *   [Streamers](#streamers)
+    *   [Companies using Qubes OS](#companies-using-qubes-os)
+    *   [Social media](#social-media)
+    *   [Contributing](#contributing)
+    *   [Releases](#releases)
+    *   [Adventure Further](#adventure-further)
+    *   [License](#license)
 
 ## Qubes OS Websites
 
@@ -144,11 +153,21 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Tips for Using Linux in an HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 *   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/)
 
-## Qubes OS Server
+## VM-Hardening
 
-*   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
-*   [Qubes-network-server (⭐78)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-*   [Qubes-remote-desktop (⭐6)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+*   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
+*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening)
+
+## Desktop Customization
+
+*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
+*   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
+*   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
+*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
+*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
+*   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ## GPU
 
@@ -161,24 +180,16 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Nvidia-troubleshooting (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
 *   [Windows-gaming-hvm (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
-## Desktop Customization
+## Networking
 
-*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
-*   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
-*   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
-*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
-*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
-*   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
-
-## VPN
+### VPN
 
 *   [How To make a VPN Gateway in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 *   [Qubes-Tunnel (⭐16)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 *   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
 *   [WireGuard (⭐201)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
-## Darknet
+### Darknet
 
 *   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on qubes-whonix.
 *   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
@@ -189,20 +200,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 *   [Split Bitcoin Wallet (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 *   [Awesome-DeSci (⭐17)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
-
-## Videos
-
-*   [3mdeb](https://3mdeb.com/)
-*   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
-*   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
-*   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
-*   [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
-*   [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
-*   [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
-*   [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
-*   [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
-*   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-*   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
 ## Security
 
@@ -250,7 +247,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
-*   [Graphene (⭐746)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+*   [Graphene (⭐745)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
 ## Exploitation Tools
 
@@ -275,9 +272,21 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 *   [Volatility3 (⭐1.3k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
-## Xen Exploitation
+## Videos
 
-### Video Presentations
+*   [3mdeb](https://3mdeb.com/)
+*   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
+*   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+*   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+*   [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
+*   [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
+*   [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
+*   [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
+*   [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
+*   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+*   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+
+### Xen Exploitation
 
 *   [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
 *   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
@@ -300,12 +309,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
 *   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 *   [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
-
-## VM-Hardening
-
-*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
-*   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
-*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening)
 
 ## System
 
@@ -350,6 +353,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/)
 
+## Qubes OS Server
+
+*   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
+*   [Qubes-network-server (⭐78)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
+*   [Qubes-remote-desktop (⭐6)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+
 ## Qubes OS Legends
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
@@ -370,6 +379,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
     *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
     *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
+*   [The Book of Secret Knowledge (⭐88k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 *   [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
 ## Streamers
@@ -423,5 +433,5 @@ Contribution guidelines can be found [here (⭐31)](https://github.com/xn0px90/A
 
 This work is licensed under a [Creative Commons Attribution 1.0 Generic](http://creativecommons.org/licenses/by/1.0/).
 
-                               :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X
+:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! \~X
 

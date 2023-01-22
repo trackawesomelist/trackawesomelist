@@ -240,6 +240,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Azire](https://www.azirevpn.com/)
 *   [Proton VPN](https://protonvpn.com)
 
+#### [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+##### Training and Materials / Web articles
+
+*   [The Book of Secret Knowledge (⭐88k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+
+#### [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Knowledge Management
+
+*   [DDC at OCLC (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes) - ***Online Computer Library Center (OCLC)***. \[[OCLC Website](https://www.oclc.org/en/home.html)]. \[[Introduction to DDC](https://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf)]. \[[DDC Manual](https://www.oclc.org/content/dam/oclc/webdewey/help/full_manual.pdf)]. Dewey Decimal Classification (DDC) system. \[[DDC Class 000 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/000.pdf)]. \[[DDC Class 100 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/100.pdf)]. \[[DDC Class 200 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/200.pdf)]. \[[DDC Class 300 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/300.pdf)]. \[[DDC Class 400 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/400.pdf)]. \[[DDC Class 500 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/500.pdf)]. \[[DDC Class 600 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/600.pdf)]. \[[DDC Class 700 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/700.pdf)]. \[[DDC Class 800 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/800.pdf)]. \[[DDC Class 900 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/900.pdf)].
+
 ---
 
 - Next: [Dec 26 - Jan 01, 2022](&#x2F;content&#x2F;2022&#x2F;52&#x2F;README.md)
@@ -769,7 +781,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md) - ([Source ⭐ 1.2K, 📝 21&#x2F;04&#x2F;23 ](https://github.com/roaldnefs/awesome-prometheus)) - A curated list of awesome Prometheus resources, projects and tools.
 - [Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md) - ([Source ⭐ 45, 📝 22&#x2F;07&#x2F;14 ](https://github.com/make-github-pseudonymous-again/awesome-qr-code)) - A curated list of awesome QR code libraries, software and resources
 - [Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md) - ([Source ⭐ 1.8K, 📝 01&#x2F;10 ](https://github.com/woop/awesome-quantified-self)) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
-- [Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md) - ([Source ⭐ 26, 📝 01&#x2F;21 ](https://github.com/xn0px90/Awesome-Qubes-OS)) - A collection of awesome Qubes OS links
+- [Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md) - ([Source ⭐ 26, 📝 01&#x2F;22 ](https://github.com/xn0px90/Awesome-Qubes-OS)) - A collection of awesome Qubes OS links
 - [Awesome Radio](/content/kyleterry/awesome-radio/README.md) - ([Source ⭐ 191, 📝 18&#x2F;06&#x2F;01 ](https://github.com/kyleterry/awesome-radio)) - Awesome radio stuff
 - [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;12&#x2F;13 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 - [Awesome Research](/content/emptymalei/awesome-research/README.md) - ([Source ⭐ 1.5K, 📝 22&#x2F;11&#x2F;23 ](https://github.com/emptymalei/awesome-research)) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]  
@@ -999,7 +1011,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 112, 📝 01&#x2F;19 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 112, 📝 01&#x2F;22 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;05&#x2F;09 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 7.1K, 📝 22&#x2F;08&#x2F;12 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 51, 📝 01&#x2F;21 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

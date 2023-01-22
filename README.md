@@ -29,6 +29,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Azire](https://www.azirevpn.com/)
 *   [Proton VPN](https://protonvpn.com)
 
+#### [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+##### Training and Materials / Web articles
+
+*   [The Book of Secret Knowledge (⭐88k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+
+#### [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Knowledge Management
+
+*   [DDC at OCLC (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes) - ***Online Computer Library Center (OCLC)***. \[[OCLC Website](https://www.oclc.org/en/home.html)]. \[[Introduction to DDC](https://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf)]. \[[DDC Manual](https://www.oclc.org/content/dam/oclc/webdewey/help/full_manual.pdf)]. Dewey Decimal Classification (DDC) system. \[[DDC Class 000 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/000.pdf)]. \[[DDC Class 100 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/100.pdf)]. \[[DDC Class 200 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/200.pdf)]. \[[DDC Class 300 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/300.pdf)]. \[[DDC Class 400 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/400.pdf)]. \[[DDC Class 500 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/500.pdf)]. \[[DDC Class 600 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/600.pdf)]. \[[DDC Class 700 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/700.pdf)]. \[[DDC Class 800 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/800.pdf)]. \[[DDC Class 900 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/900.pdf)].
+
 ### [Jan 21, 2023](/content/2023/01/21/README.md)
 
 
@@ -116,36 +128,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ReTool](https://retool.com/) — Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
 
-#### [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-##### Desktop Customization
-
-*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
-
-##### Security
-
-*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
-
-##### Exploitation Tools / Unikernel-like
-
-*   [MemProcFS (⭐1.8k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐31)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
-
-##### Advanced Topics / Web articles
-
-*   [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
-*   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
-*   [Windows Qubes](https://www.qubes-os.org/doc/windows/)
-
-##### Qubes OS Legends / Web articles
-
-*   [Core Team](https://www.qubes-os.org/team/#core-team)
-
-##### Streamers / Web articles
-
-*   [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
-
-#### [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+#### [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ##### Online Books
 
@@ -155,7 +138,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ml4a](https://ml4a.net/) - Machine learning for artists.
 
-#### [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Papers and References / AI Tools for Searching
 
@@ -165,7 +148,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [neural frames](https://www.neuralframes.com/firstframe): tools for animation creation inspired on deforum
 
-#### [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Projects / Desktop
 
@@ -214,7 +197,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [15. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### Internet and Networking
 
@@ -295,7 +278,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Desktop Cube (⭐452)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
 *   [Burn My Windows (⭐2.1k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
-#### [16. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+#### [15. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ##### Presentations / ROSCon 2022
 
@@ -327,11 +310,40 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   ROS 2 and the Crazyflie: Aerial swarms and Autonomy with a tiny flying robot [video](https://vimeo.com/showcase/9954564/video/767140197) [slides](http://download.ros.org/downloads/roscon/2022/ROS%202%20and%20the%20Crazyflie%20Aerial%20swarms%20and%20Autonomy%20with%20a%20tiny%20flying%20robot.pdf)
 *   A Raspberry Pi image with ROS 2 + RT and a customizable image builder [video](https://vimeo.com/showcase/9954564/video/767139709) [slides](http://download.ros.org/downloads/roscon/2022/A%20Raspberry%20Pi%20image%20with%20ROS%202%20%2B%20RT%20and%20a%20customizable%20image%20builder.pdf)
 
-#### [17. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [16. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Games / Other / unknown licence
 
 *   [steamsky](https://www.laeran.pl/repositories/steamsky) - Roguelike in sky with a steampunk setting.
+
+#### [17. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+##### Desktop Customization
+
+*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
+
+##### Security / Darknet
+
+*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
+
+##### Exploitation Tools / Unikernel-like
+
+*   [MemProcFS (⭐1.8k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐31)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+
+##### Advanced Topics / Web articles
+
+*   [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
+*   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
+*   [Windows Qubes](https://www.qubes-os.org/doc/windows/)
+
+##### Qubes OS Legends / Web articles
+
+*   [Core Team](https://www.qubes-os.org/team/#core-team)
+
+##### Streamers / Web articles
+
+*   [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 
 ### [Jan 20, 2023](/content/2023/01/20/README.md)
 
@@ -456,15 +468,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 *   [Portainer](https://portainer.io/) - Simple management UI for Docker.
 
-#### [12. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-##### Training and Materials / Web articles
-
-*   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
-    *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
-    *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
-
-#### [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### Internet and Networking
 
@@ -530,6 +534,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Others / Design Tooling
 
 *   [Boxes](https://apps.gnome.org/en/app/org.gnome.Boxes/) - View, access, and manage remote and virtual systems.
+
+#### [13. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+##### Training and Materials / Web articles
+
+*   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
+    *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
+    *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
 
 ---
 
@@ -1060,7 +1072,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md) - ([Source ⭐ 1.2K, 📝 21&#x2F;04&#x2F;23 ](https://github.com/roaldnefs/awesome-prometheus)) - A curated list of awesome Prometheus resources, projects and tools.
 - [Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md) - ([Source ⭐ 45, 📝 22&#x2F;07&#x2F;14 ](https://github.com/make-github-pseudonymous-again/awesome-qr-code)) - A curated list of awesome QR code libraries, software and resources
 - [Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md) - ([Source ⭐ 1.8K, 📝 01&#x2F;10 ](https://github.com/woop/awesome-quantified-self)) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
-- [Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md) - ([Source ⭐ 26, 📝 01&#x2F;21 ](https://github.com/xn0px90/Awesome-Qubes-OS)) - A collection of awesome Qubes OS links
+- [Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md) - ([Source ⭐ 26, 📝 01&#x2F;22 ](https://github.com/xn0px90/Awesome-Qubes-OS)) - A collection of awesome Qubes OS links
 - [Awesome Radio](/content/kyleterry/awesome-radio/README.md) - ([Source ⭐ 191, 📝 18&#x2F;06&#x2F;01 ](https://github.com/kyleterry/awesome-radio)) - Awesome radio stuff
 - [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;12&#x2F;13 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 - [Awesome Research](/content/emptymalei/awesome-research/README.md) - ([Source ⭐ 1.5K, 📝 22&#x2F;11&#x2F;23 ](https://github.com/emptymalei/awesome-research)) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]  
@@ -1290,7 +1302,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 112, 📝 01&#x2F;19 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 112, 📝 01&#x2F;22 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;05&#x2F;09 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 7.1K, 📝 22&#x2F;08&#x2F;12 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 51, 📝 01&#x2F;21 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
