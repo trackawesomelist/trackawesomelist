@@ -8,6 +8,17 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
+### Captchas
+
+*   [OOPSpam](https://www.oopspam.com/) - No-captcha, privacy-friendly anti-spam, anti-bot API. Requires no personal data for detection. Supports popular platforms like WordPress. Privacy commitment in their mission statement.
+
+### VPNs / Alternative clients/modifications of Discord:
+
+*   [Azire](https://www.azirevpn.com/)
+*   [Proton VPN](https://protonvpn.com)
+
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
 ### Link in Bio Tools
 
 *   [Keyoxide](https://keyoxide.org/) - A modern, secure and privacy-friendly platform to establish your decentralized online identity.
@@ -145,6 +156,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### File Management and Sharing
 
 *   [Snapdrop (⭐14k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+    *   [PairDrop (⭐10)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network
 
 ### Podcasts
 
@@ -362,8 +374,8 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### VPNs / Alternative clients/modifications of Discord:
 
 *   Closed source VPN apps such as Surfshark or NordVPN may be less trustworthy as nobody can be sure how they handle your data. Also, paying with Credit Card will get you identified on the payment. Furthermore, if you need to give your email it will also identify you if this same email has been used in other services.
-*   [Mullvad VPN](https://mullvad.net)
 *   [IVPN](https://ivpn.net)
+*   [Mullvad VPN](https://mullvad.net)
 *   [SPN](https://safing.io/)
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)

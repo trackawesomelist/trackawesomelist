@@ -248,6 +248,7 @@ Google captchas use cookies to track users and rank their IPs.
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [hCaptcha](https://www.hcaptcha.com/) - Privacy-first CAPTCHA for web, mobile, and more.
+*   [OOPSpam](https://www.oopspam.com/) - No-captcha, privacy-friendly anti-spam, anti-bot API. Requires no personal data for detection. Supports popular platforms like WordPress. Privacy commitment in their mission statement.
 
 ## Commenting Engines
 
@@ -385,6 +386,7 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 *   [Magic Wormhole (⭐15k)](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 *   [QRcp (⭐9k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 *   [Snapdrop (⭐14k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+    *   [PairDrop (⭐10)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network
 *   [Paperless-ngx (⭐5.4k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
     *   [Paperless-ng (⭐5.3k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
         *   [Paperless (⭐7.8k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
@@ -1348,8 +1350,10 @@ Such programs come filled with trackers and telemetry. You can get a full list o
 
 Here are some open source and truly private (no personal data and/or credit card needed) options:
 
-*   [Mullvad VPN](https://mullvad.net)
+*   [Azire](https://www.azirevpn.com/)
 *   [IVPN](https://ivpn.net)
+*   [Mullvad VPN](https://mullvad.net)
+*   [Proton VPN](https://protonvpn.com)
 *   [SPN](https://safing.io/)
 
 ## Web Browser
