@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 23, 2023](/content/2023/01/23/README.md)
+
+### Templates / Vanilla
+
+*   [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
+
+### Node.js / Community
+
+*   [vite-express (⭐6)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+
 ## [Jan 20, 2023](/content/2023/01/20/README.md)
 
 ### Framework-agnostic Plugins / Helpers
@@ -142,10 +152,6 @@
 *   [CRA to Nx + Vite tool (⭐16k)](https://github.com/nrwl/nx/tree/master/packages/cra-to-nx) - An automated tool to convert a Create React App project to use Nx + Vite + Vitest.
 
 ## [Dec 12, 2022](/content/2022/12/12/README.md)
-
-### Templates / Vanilla
-
-*   [vite-tailwind-boilerplate-vanilla-js](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 
 ### Templates / Vue 3
 
@@ -1096,7 +1102,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-watch-and-run (⭐262)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+*   [vite-plugin-watch-and-run (⭐267)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 
 ## [Jan 26, 2022](/content/2022/01/26/README.md)
 

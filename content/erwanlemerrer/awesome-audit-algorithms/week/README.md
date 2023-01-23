@@ -6,6 +6,12 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ [Daily](/content/erwanlemerrer/awesome-audit-algorithms/README.md) / Weekly / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Papers / 2022
+
+*   [A zest of lime: towards architecture-independent model distances](https://openreview.net/pdf?id=OUz_9TiTv9j) - (ICLR) *Measures the distance between two remote models using LIME.*
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Related Events / 2005

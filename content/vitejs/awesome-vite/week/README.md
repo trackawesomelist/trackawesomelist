@@ -6,6 +6,16 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Templates / Vanilla
+
+*   [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
+
+### Node.js / Community
+
+*   [vite-express (⭐6)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Templates / Vue 3
@@ -98,10 +108,6 @@
 ### Get Started
 
 *   [create-nx-workspace (⭐16k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
-
-### Templates / Vanilla
-
-*   [vite-tailwind-boilerplate-vanilla-js](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 
 ### Templates / Vue 3
 
@@ -864,7 +870,7 @@
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-dev-manifest (⭐6)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
-*   [vite-plugin-watch-and-run (⭐262)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+*   [vite-plugin-watch-and-run (⭐267)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
 

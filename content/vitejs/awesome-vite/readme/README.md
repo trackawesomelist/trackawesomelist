@@ -65,7 +65,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-vanilla-ts-lib-starter (⭐82)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 *   [vite-tailwind-nojs-starter (⭐18)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
 *   [vite-tailwind-stimulus-starter (⭐2)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
-*   [vite-tailwind-boilerplate-vanilla-js](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
+*   [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 
 #### Vue 3
 
@@ -380,7 +380,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [@zougt/vite-plugin-theme-preprocessor (⭐136)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 *   [vite-plugin-remove-console (⭐50)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 *   [vite-plugin-dev-manifest (⭐6)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
-*   [vite-plugin-watch-and-run (⭐262)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+*   [vite-plugin-watch-and-run (⭐267)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 *   [vite-plugin-dynamic-base (⭐31)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 *   [vite-plugin-redirect (⭐0)](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
 *   [vite-plugin-live-reload (⭐53)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
@@ -694,6 +694,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### DDEV
 
 *   [ddev-viteserve (⭐16)](https://github.com/torenware/ddev-viteserve) - Add-on for running Vite in the PHP-oriented dev environment DDEV.
+
+### Node.js
+
+*   [vite-express (⭐6)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
 ## Migrations
 

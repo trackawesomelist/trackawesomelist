@@ -6,6 +6,24 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ [Daily](/content/Kazhnuz/awesome-gnome/README.md) / Weekly / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Office
+
+*   [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
+
+### Productivity and Time
+
+*   [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
+
+### Multimedia
+
+*   [Easy Effects (⭐4.4k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
+
+### System and Customization
+
+*   [HydraPaper](https://hydrapaper.gabmus.org/) - Set a different background for each monitor.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Internet and Networking
@@ -286,12 +304,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
 
-## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
-
-### Utilities
-
-*   [RecApp (⭐101)](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
-
 ## [Jun 08 - Jun 14, 2020](/content/2020/23/README.md)
 
 ### Documentations / Skeumorphic Icons
@@ -304,18 +316,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [GPaste (⭐628)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 
-## [Oct 14 - Oct 20, 2019](/content/2019/41/README.md)
-
-### System and Customization
-
-*   [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - Set a different background for each monitor.
-
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
 ### Internet and Networking
 
 *   [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
-*   [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
@@ -329,12 +334,10 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Foliate (⭐3.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 *   [Pdftag (⭐59)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
-*   [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
 *   [Marker (⭐771)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
-*   [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
 *   [GTimeLog (⭐225)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
@@ -342,7 +345,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Multimedia
 
 *   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
-*   [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 *   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 
 ### Graphics
@@ -356,7 +358,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### System and Customization
 
 *   [Tilix (⭐5k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
-*   [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
 ### Utilities
 
@@ -427,10 +428,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ## [Jun 25 - Jul 01, 2018](/content/2018/26/README.md)
 
-### Internet and Networking
-
-*   [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
-
 ### Office
 
 *   [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
@@ -471,16 +468,10 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ## [Aug 14 - Aug 20, 2017](/content/2017/33/README.md)
 
-### Office
-
-*   [NFO Viewer (⭐114)](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
-
 ### Multimedia
 
-*   [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 *   [Vocal (⭐335)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-*   [Pulseeffect (⭐4.4k)](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 
 ### Graphics
 
@@ -493,10 +484,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### System and Customization
 
 *   [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-
-### Utilities
-
-*   [Peek (⭐9.5k)](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 
 ### Applets / Design Tooling
 

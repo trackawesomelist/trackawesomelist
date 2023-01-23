@@ -67,29 +67,26 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Polari](https://apps.gnome.org/app/org.gnome.Polari/) - Talk to people on IRC. ![GNOME Circle][GNOME Circle]
 *   [Wrap](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
 *   [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
-*   [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 *   [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 *   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 *   [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
-*   [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 *   [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 
 ### Office
 
 *   [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
 *   [Citations](https://apps.gnome.org/app/org.gnome.World.Citations/) - Manage your bibliography. ![GNOME Circle][GNOME Circle]
-*   [NFO Viewer (⭐114)](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
+*   [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 *   [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 *   [Foliate (⭐3.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 *   [Pdftag (⭐59)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
-*   [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
 *   [Marker (⭐771)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
-*   [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
 *   [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
 *   [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Core][GNOME Core]
+*   [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
 *   [GTimeLog (⭐225)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
@@ -108,13 +105,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Identify any songs in seconds. ![GNOME Circle][GNOME Circle]
 *   [Podcasts](https://apps.gnome.org/app/org.gnome.Podcasts/) - Listen to your favourite podcasts. ![GNOME Circle][GNOME Circle]
 *   [Zap](https://apps.gnome.org/app/fr.romainvigier.zap/) - Play sounds from a soundboard. ![GNOME Circle][GNOME Circle]
-*   [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 *   [Vocal (⭐335)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 *   [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-*   [Pulseeffect (⭐4.4k)](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
-*   [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
+*   [Easy Effects (⭐4.4k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
 *   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 *   [Spot (⭐1.7k)](https://github.com/xou816/spot) - Spotify Client.
 *   [Clapper (⭐515)](https://github.com/Rafostar/clapper) - Simple and modern media player.
@@ -144,9 +139,8 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME settings.
 *   [Tilix (⭐5k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 *   [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-*   [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - Set a different background for each monitor.
+*   [HydraPaper](https://hydrapaper.gabmus.org/) - Set a different background for each monitor.
 *   [Dynamic Wallpaper Editor (⭐189)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
-*   [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 *   [Dynamic Gnome Wallpapers (⭐136)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ### Utilities
@@ -160,11 +154,9 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle][GNOME Circle]
 *   [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle][GNOME Circle]
 *   [GPaste (⭐628)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
-*   [Peek (⭐9.5k)](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 *   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
 *   [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 *   [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
-*   [RecApp (⭐101)](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 *   [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 
 ### Security and Privacy

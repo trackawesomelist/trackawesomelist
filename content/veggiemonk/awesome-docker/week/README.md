@@ -6,6 +6,13 @@
 
 [ [Daily](/content/veggiemonk/awesome-docker/README.md) / Weekly / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Monitoring Services / Other
+
+*   [Docker Certification](https://intellipaat.com/docker-training-course/?US) :heavy\_dollar\_sign: will help you to will Learn Docker containerization, running Docker containers, Image creation, Dockerfile, Docker orchestration, security best practices, and more through hands-on projects and case studies and helps to clear Docker Certified Associate.
+*   [Docker dev bookmarks](https://www.codever.dev/search?q=docker) - use the tag [docker](https://www.codever.dev/bookmarks/t/docker)
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Registry / Other
@@ -655,9 +662,7 @@
 *   **[Valuable Docker Links](http://nane.kratzke.pages.mylab.th-luebeck.de/about/blog/2014/08/24/valuable-docker-links/)** High quality articles about docker! **MUST SEE**
 *   [Become a Docker Power User with Visual Studio Code](https://www.thebyte.io/become-docker-power-user-with-vs-code) - :heavy\_dollar\_sign: A training course to help you become a Docker Power user with Visual Studio Code
 *   [Cloud Native Landscape (⭐8.6k)](https://github.com/cncf/landscape)
-*   [Docker Certification](https://intellipaat.com/docker-training-course/) :heavy\_dollar\_sign: will help you to will Learn Docker containerization, running Docker containers, Image creation, Dockerfile, Docker orchestration, security best practices, and more through hands-on projects and case studies and helps to clear Docker Certified Associate.
 *   [Docker Community on Hashnode](https://hashnode.com/n/docker)
-*   [Docker dev bookmarks](https://www.codever.land/search?q=docker) - use the tag [docker](https://www.codever.land/bookmarks/t/docker)
 *   [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 *   [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
 *   [Docker Newsletter](https://www.docker.com/newsletter-subscription/) Docker newsletter for regular updates

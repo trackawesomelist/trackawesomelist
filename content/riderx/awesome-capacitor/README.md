@@ -6,6 +6,32 @@
 
 [ Daily / [Weekly](/content/riderx/awesome-capacitor/week/README.md) / [Overview](/content/riderx/awesome-capacitor/readme/README.md) ]
 
+## [Jan 23, 2023](/content/2023/01/23/README.md)
+
+### Cordova plugins / Compatible
+
+*   [NPM search](https://www.npmjs.com/search?q=cordova-plugin%20capacitor)
+
+### Cordova plugins / Incompatible
+
+*   [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) (not needed, Capacitor has built in Swift support)
+*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐8.7k)](https://github.com/ionic-team/capacitor/issues/1101))
+*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐8.7k)](https://github.com/ionic-team/capacitor/issues/1415))
+*   [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details (⭐4.2k)](https://github.com/microsoft/code-push/issues/615))
+*   [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) (not needed)
+*   [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) (not needed, Capacitor has its own)
+*   [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) (Capacitor doesn't allow to change the webview)
+*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐8.7k)](https://github.com/ionic-team/capacitor/issues/584))
+*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐8.7k)](https://github.com/ionic-team/capacitor/issues/815))
+*   [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) (not needed, Capacitor has it's own)
+*   [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) (not needed, Capacitor uses WKWebView)
+*   [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) (causes build failures, skipped)
+*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐8.7k)](https://github.com/ionic-team/capacitor/issues/1213))
+*   [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) (not needed, Capacitor has its own)
+*   [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) (not needed, Capacitor has its own)
+*   [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) (not needed, Capacitor uses WKWebView)
+*   [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) (causes build failures on iOS, skipped for iOS only)
+
 ## [Jan 13, 2023](/content/2023/01/13/README.md)
 
 ### [Transistor Software plugins](https://www.transistorsoft.com//)
@@ -129,7 +155,7 @@
     *   [Push (⭐26)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 *   [Photo library (⭐1)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
-### Tools
+### Tools / Incompatible
 
 *   [Docgen (⭐9)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
 *   [Plugin generator (⭐47)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.

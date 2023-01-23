@@ -6,6 +6,18 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Jan 23, 2023](/content/2023/01/23/README.md)
+
+### Documentation builders / Third-party APIs
+
+*   [sphinxcontrib-cldomain](https://sphinxcontrib-cldomain.russellsim.org/) -
+    Extending Sphinx to cover Common Lisp. To build documentation with
+    the same ease as sphinx would a Python project. [GPL3](http://www.gnu.org/copyleft/gpl.html)
+
+### Git / Third-party APIs
+
+*   [cl-git](https://cl-git.russellsim.org/) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
 ### JetBrains / Third-party APIs
@@ -197,10 +209,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Documentation builders / Third-party APIs
 
 *   [cl-livedocs (⭐2)](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo, with full text search enabled by default.
-
-### Git / Third-party APIs
-
-*   [cl-git (⭐56)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [Jul 30, 2022](/content/2022/07/30/README.md)
 
@@ -431,9 +439,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [QBook (⭐6)](https://github.com/mmontone/qbook) - generates HTML (or LaTeX) formatted code listings of Common Lisp source files. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   all comments started with 4 `;` (";;;;") are interpreted as documentation. Enhance the documentation with headings and directives.
     *   QBook acts as "a lightweight literate programming system, where Lisp code is not rendered inline, but in separate sections, and that makes the document more pleasant to navigate." @mmontone
-*   [sphinxcontrib-cldomain (⭐14)](https://github.com/russell/sphinxcontrib-cldomain) -
-    Extending Sphinx to cover Common Lisp. To build documentation with
-    the same ease as sphinx would a Python project. [GPL3](http://www.gnu.org/copyleft/gpl.html)
 *   [cl-bibtex (⭐23)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
 *   [docbrowser (⭐14)](https://github.com/lokedhs/docbrowser) - a server that generates documentation for the loaded systems on the fly.
     *   Its main page presents a list of all loaded systems in your Lisp image. Click on one system, and you get a page with three panes: functions, classes and variables. Click on a function to see its source, in context, with line numbers. Click on classes to see their slots and specializing functions.
