@@ -74,7 +74,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
         *   [Unikernels](#unikernels)
         *   [Unikernel-like](#unikernel-like)
     *   [Exploitation Tools](#exploitation-tools)
-    *   [Videos](#videos)
+    *   [Optics and Extra Info](#optics-and-extra-info)
         *   [Xen Exploitation](#xen-exploitation)
         *   [PDF Papers](#pdf-papers)
         *   [Web articles](#web-articles)
@@ -178,7 +178,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
 *   [Install-nvidia-driver (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
 *   [Nvidia-troubleshooting (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
-*   [Windows-gaming-hvm (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
+*   [Gaming-HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md)
 
 ## Networking
 
@@ -272,7 +272,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 *   [Volatility3 (⭐1.3k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
-## Videos
+## Optics and Extra Info
 
 *   [3mdeb](https://3mdeb.com/)
 *   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)

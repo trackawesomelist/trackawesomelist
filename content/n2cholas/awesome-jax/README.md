@@ -6,6 +6,12 @@ JAX - A curated list of resources https://github.com/google/jax
 
 [ Daily / [Weekly](/content/n2cholas/awesome-jax/week/README.md) / [Overview](/content/n2cholas/awesome-jax/readme/README.md) ]
 
+## [Jan 23, 2023](/content/2023/01/23/README.md)
+
+### Libraries / New Libraries
+
+*   [jax-tqdm (⭐5)](https://github.com/jeremiecoullon/jax-tqdm) - Add a tqdm progress bar to JAX scans and loops. <img src="https://img.shields.io/github/stars/jeremiecoullon/jax-tqdm?style=social" align="center">
+
 ## [Jan 15, 2023](/content/2023/01/15/README.md)
 
 ### Models and Projects / Flax
@@ -16,7 +22,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [SPU (⭐68)](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation). <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
+*   [SPU (⭐71)](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation). <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
 
 ## [Dec 27, 2022](/content/2022/12/27/README.md)
 

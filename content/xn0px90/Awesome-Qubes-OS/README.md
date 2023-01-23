@@ -6,6 +6,12 @@ A collection of awesome Qubes OS links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Jan 23, 2023](/content/2023/01/23/README.md)
+
+### GPU
+
+*   [Gaming-HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md)
+
 ## [Jan 22, 2023](/content/2023/01/22/README.md)
 
 ### Training and Materials / Web articles
@@ -77,11 +83,11 @@ A collection of awesome Qubes OS links
 
 *   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
-### Videos / Xen Exploitation
+### Optics and Extra Info / Xen Exploitation
 
 *   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo)
 
-### Videos / PDF Papers
+### Optics and Extra Info / PDF Papers
 
 *   [Bluepilling the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part3.pdf)
 *   [Hypervisor Vulnerability Research - State of the Art \[PDF\]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
@@ -127,7 +133,6 @@ A collection of awesome Qubes OS links
 *   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
 *   [Install-nvidia-driver (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
 *   [Nvidia-troubleshooting (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
-*   [Windows-gaming-hvm (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
 ### Networking / VPN
 
@@ -170,7 +175,7 @@ A collection of awesome Qubes OS links
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 
-### Videos / Unikernel-like
+### Optics and Extra Info / Unikernel-like
 
 *   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 *   [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
@@ -180,7 +185,7 @@ A collection of awesome Qubes OS links
 *   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 *   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
-### Videos / Xen Exploitation
+### Optics and Extra Info / Xen Exploitation
 
 *   [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
 *   [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
@@ -242,7 +247,7 @@ A collection of awesome Qubes OS links
 
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 
-### Videos / Xen Exploitation
+### Optics and Extra Info / Xen Exploitation
 
 *   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
 *   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
@@ -250,7 +255,7 @@ A collection of awesome Qubes OS links
 *   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
 *   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
 
-### Videos / Web articles
+### Optics and Extra Info / Web articles
 
 *   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
 *   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
@@ -466,7 +471,7 @@ A collection of awesome Qubes OS links
 *   [How To make a VPN Gateway in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 *   [WireGuard (⭐201)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
-### Videos / Unikernel-like
+### Optics and Extra Info / Unikernel-like
 
 *   [3mdeb](https://3mdeb.com/)
 *   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
