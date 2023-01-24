@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Tools
+
+*   💼 [Tailscan](https://tailscan.com) - Ultimate devtools for Tailwind CSS v3 with ability to inspect and convert CSS to Tailwind CSS classes.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### UI Libraries, Components & Templates

@@ -375,6 +375,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
 *   [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
 *   [Gather](https://www.gather.town/) - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 25 concurrent users.
+*   [gokanban.io](https://gokanban.io) - Syntax based, no registration Kanban Board for fast use. Free with no limitations.
 *   [flat.social](https://flat.social) - Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.
 *   [GitDailies](https://gitdailies.com) - Daily reports of your team's Commit and Pull Request activity on GitHub. Includes Push visualizer, peer recognition system, custom alert builder. Free tier has unlimited users, 3 repos, 3 alert configs.
 *   [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25
@@ -1500,7 +1501,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Analytics, Events and Statistics
 
-*   [Statvoo Analytics](https://analytics.statvoo.com/) — Forever FREE Customer Analytics for ALL your websites, with Unlimited Events per month
 *   [Hightouch](https://hightouch.com/) - Hightouch is a Reverse ETL platform that helps you sync your customer data from your data warehouse to your CRM, marketing, and support tools. Free tier that offers you one destination to sync data to.
 *   [Avo](https://avo.app/) — Simplified analytics release workflow. Single-source-of-truth tracking plan, type safe analytics tracking library, in-app debuggers, data observability to catch all data issues before you release. Free for 2 workspace members and 1 hour data observability lookback.
 *   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.

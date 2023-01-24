@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [gokanban.io](https://gokanban.io) - Syntax based, no registration Kanban Board for fast use. Free with no limitations.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Low-code Platform
@@ -1480,10 +1486,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Web Hosting
 
 *   [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
-
-### Analytics, Events and Statistics
-
-*   [Statvoo Analytics](https://analytics.statvoo.com/) — Forever FREE Customer Analytics for ALL your websites, with Unlimited Events per month
 
 ### Miscellaneous
 

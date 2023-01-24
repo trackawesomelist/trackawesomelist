@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jan 24, 2023](/content/2023/01/24/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [gokanban.io](https://gokanban.io) - Syntax based, no registration Kanban Board for fast use. Free with no limitations.
+
 ## [Jan 21, 2023](/content/2023/01/21/README.md)
 
 ### Low-code Platform
@@ -1827,12 +1833,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Carbon.now.sh](https://carbon.now.sh) - create and share code snippet in an aesthetic screenshot-like image format. Usually used to aesthetically share/show-off code snippet on Twitter or blog posts.
 *   [QuickType.io](https://quicktype.io/) - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
 *   [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
-
-## [Oct 05, 2021](/content/2021/10/05/README.md)
-
-### Analytics, Events and Statistics
-
-*   [Statvoo Analytics](https://analytics.statvoo.com/) — Forever FREE Customer Analytics for ALL your websites, with Unlimited Events per month
 
 ## [Oct 04, 2021](/content/2021/10/04/README.md)
 

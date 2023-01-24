@@ -1,12 +1,85 @@
 # Awesome List Updates on Jan 23 - Jan 29, 2023
 
-20 awesome lists updated this week.
+23 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [1. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### Analytics
+
+*   [uMath (⭐14)](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
+
+### Communications / OneWire
+
+*   [Official OneWire (⭐1.8k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/bus/onewire) - For devices using the OneWire bus, eg Dallas DS18x20.
+
+### Communications / Radio
+
+*   [Official nRF24L01 (⭐1.8k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) - Official driver for nRF24L01 2.4GHz radio modules.
+
+### Display / E-Paper
+
+*   [Inkplate-micropython (⭐54)](https://github.com/SolderedElectronics/Inkplate-micropython) - MicroPython driver for Inkplate boards.
+
+### Display / LCD Graphic
+
+*   [Official LCD160CR (⭐1.8k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/lcd160cr) - Driver for official MicroPython LCD160CR display with resistive touch sensor.
+
+### Display / LEDs
+
+*   [Hybotics\_Micropython\_HT16K33 (⭐37)](https://github.com/hybotics/micropython-ht16k33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
+
+### Display / OLED
+
+*   [Official SSD1306 (⭐1.8k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/ssd1306) - Driver for SSD1306 128x64 OLED displays.
+
+### Sensors / Temperature Digital
+
+*   [Official DHT11+DHT12 (⭐1.8k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/sensor/dht) - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.
+
+### Community / SRAM
+
+*   [Discord](https://discord.com/invite/qw7d8bv) - Get an invite to the MicroPython Discord server.
+*   [MicroPython on Mastodon / Fediverse](https://fosstodon.org/@MicroPython) - Follow MicroPython in the Fediverse.
+*   [MicroPython on Twitter](https://twitter.com/micropython) - Follow MicroPython on Twitter for latest news and updates.
+
+### Books / SRAM
+
+*   [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](https://www.oreilly.com/library/view/programming-with-micropython/9781491972724/) - By Nicholas H. Tollervey. ISBN 9781491972731.
+
+### Resources / SRAM
+
+*   [MicroPython Wiki (⭐16k)](https://github.com/micropython/micropython/wiki) - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+
+### IDEs / SRAM
+
+*   [BIPES](https://bipes.net.br/ide/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: <https://github.com/BIPES>.
+*   [ESP32-MPY-Jama (⭐17)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
+
+### Logging / SRAM
+
+*   [micropython-ulogger (⭐23)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
+
+### Shells / On Host
+
+*   [mpsync (⭐4)](https://github.com/thilomichael/mpsync) - A tool that automatically synchronizes code to a MicroPython board.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [gokanban.io](https://gokanban.io) - Syntax based, no registration Kanban Board for fast use. Free with no limitations.
+
+## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+
+### Tools
+
+*   💼 [Tailscan](https://tailscan.com) - Ultimate devtools for Tailwind CSS v3 with ability to inspect and convert CSS to Tailwind CSS classes.
+
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Desktop
 
@@ -16,13 +89,13 @@
 
 *   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 
-## [2. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Utilities (uncategorized) / Others
 
 *   [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / DNS
 
@@ -40,19 +113,19 @@
 
 *   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐1.9k)](https://github.com/cstate/cstate)) `MIT` `Go`
 
-## [4. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [7. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [Sprite Editor](https://www.lexaloffle.com/bbs/?tid=51270) - Keyboard only 8x8 pixel art tool.
 
-## [5. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Database
 
 *   [Tigris](https://www.tigrisdata.com) - Open-source data platform with databases, automatic search indexing for real-time search, caching and real-time pub/sub.
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
@@ -63,19 +136,19 @@
 *   [cleanlab (⭐4.9k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 *   [AutoGluon (⭐5.2k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
-## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Game Development
 
 *   [Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns) - Unity (HTML & PDF)
 
-## [8. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2022
 
 *   [A zest of lime: towards architecture-independent model distances](https://openreview.net/pdf?id=OUz_9TiTv9j) - (ICLR) *Measures the distance between two remote models using LIME.*
 
-## [9. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [12. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Database
 
@@ -120,7 +193,7 @@
 
 *   [Friends of OpenJDK](https://foojay.io/)
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Documentation builders / Third-party APIs
 
@@ -132,7 +205,7 @@
 
 *   [cl-git](https://cl-git.russellsim.org/) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Emulators
 
@@ -144,7 +217,7 @@
 *   rkyv
     *   [rkyv/rkyv (⭐1.7k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] — rkyv (archive) is a zero-copy deserialization framework for Rust
 
-## [12. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [15. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Cordova plugins / Compatible
 
@@ -170,7 +243,7 @@
 *   [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) (not needed, Capacitor uses WKWebView)
 *   [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) (causes build failures on iOS, skipped for iOS only)
 
-## [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [16. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Office
 
@@ -192,13 +265,13 @@
 
 *   [RunCat (⭐275)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
 
-## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [17. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Debian](https://raspi.debian.net) - Unofficial Debian image for Raspberry Pi (maintained by a Debian Developer).
 
-## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [18. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Templates
 
@@ -209,7 +282,7 @@
 
 *   [DexieNET (⭐16)](https://github.com/b-straub/DexieNET) - ![GitHub stars](https://img.shields.io/github/stars/b-straub/DexieNET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/DexieNET?style=flat-square\&cacheSeconds=86400) DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component.
 
-## [16. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [19. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -219,27 +292,27 @@
 
 *   [vite-express (⭐6)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
-## [17. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [20. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Monitoring Services / Other
 
 *   [Docker Certification](https://intellipaat.com/docker-training-course/?US) :heavy\_dollar\_sign: will help you to will Learn Docker containerization, running Docker containers, Image creation, Dockerfile, Docker orchestration, security best practices, and more through hands-on projects and case studies and helps to clear Docker Certified Associate.
 *   [Docker dev bookmarks](https://www.codever.dev/search?q=docker) - use the tag [docker](https://www.codever.dev/bookmarks/t/docker)
 
-## [18. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [21. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### GPU
 
 *   [Gaming-HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md)
 
-## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [ez-cmd (⭐0)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
 *   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐127)](https://github.com/mroth/evalcache).
 
-## [20. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [23. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
