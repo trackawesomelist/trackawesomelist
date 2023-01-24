@@ -6,6 +6,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Jan 24, 2023](/content/2023/01/24/README.md)
+
+### Applets / Design Tooling
+
+*   [RunCat (⭐275)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+
 ## [Jan 23, 2023](/content/2023/01/23/README.md)
 
 ### Office

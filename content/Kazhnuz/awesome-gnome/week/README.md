@@ -24,6 +24,10 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [HydraPaper](https://hydrapaper.gabmus.org/) - Set a different background for each monitor.
 
+### Applets / Design Tooling
+
+*   [RunCat (⭐275)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Internet and Networking

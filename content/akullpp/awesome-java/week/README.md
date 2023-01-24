@@ -16,9 +16,24 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 *   [Tail](https://nrktkt.github.io/tail/) - Enable infinite recursion using tail call optimization.
 
+### Microservice
+
+*   [JDA (⭐3.5k)](https://github.com/DV8FromTheWorld/JDA) - Wrapping of the Discord REST API and its WebSocket events.
+*   [KeenType (⭐59)](https://github.com/DaveJarvis/KeenType) - Modernized version of a Java-based implementation of the New Typesetting System, which was heavily based on Donald E. Knuth's original TeX.
+*   [kubernetes-client (⭐2.8k)](https://github.com/fabric8io/kubernetes-client) - Client provides access to the full Kubernetes & OpenShift REST APIs via a fluent DSL.
+*   [OpenAI-Java (⭐349)](https://github.com/TheoKanning/openai-java) - Java libraries for using OpenAI's GPT-3 API.
+
+### Miscellaneous
+
+*   [AWS SDK for Java 2.0 (⭐1.6k)](https://github.com/aws/aws-sdk-java-v2) - Wrapper around AWS' API.
+
 ### Science / Other
 
 *   [DataMelt](https://datamelt.org/) - Environment for scientific computation, data analysis and data visualization. (GPL-3.0-or-later)
+
+### Security / Other
+
+*   [DependencyCheck (⭐4.8k)](https://github.com/jeremylong/DependencyCheck) - Detects publicly disclosed vulnerabilities contained within a project's dependencies.
 
 ### Testing / Miscellaneous
 
@@ -458,7 +473,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Imagery
 
-*   [image-comparison (⭐253)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
+*   [image-comparison (⭐253)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
@@ -986,7 +1001,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 *   [Quartz (⭐5.4k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
 *   [Sundial (⭐263)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
-*   [Wisp](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
+*   [Wisp (⭐106)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
 *   [db-scheduler (⭐728)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
 
 ### PDF
@@ -1121,7 +1136,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Introspection
 
-*   [jOOR](https://github.com/jOOQ/jOOR) - jOOR stands for jOOR Object Oriented Reflection. It is a simple wrapper for the java.lang.reflect package.
+*   [jOOR (⭐2.7k)](https://github.com/jOOQ/jOOR) - jOOR stands for jOOR Object Oriented Reflection. It is a simple wrapper for the java.lang.reflect package.
 
 ### JVM and JDK
 

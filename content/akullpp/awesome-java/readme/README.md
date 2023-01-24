@@ -526,7 +526,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Thumbnailator (⭐4.5k)](https://github.com/coobird/thumbnailator) - High-quality thumbnail generation library.
 *   [TwelveMonkeys (⭐1.6k)](https://github.com/haraldk/TwelveMonkeys) - Collection of plugins that extend the number of supported image file formats.
 *   [ZXing (⭐31k)](https://github.com/zxing/zxing) - Multi-format 1D/2D barcode image processing library.
-*   [image-comparison (⭐253)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
+*   [image-comparison (⭐253)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
 ### Introspection
 
@@ -546,7 +546,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [JobRunr (⭐1.4k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
 *   [Quartz (⭐5.4k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
 *   [Sundial (⭐263)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
-*   [Wisp](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
+*   [Wisp (⭐106)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
 *   [db-scheduler (⭐728)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
 *   [easy-batch (⭐574)](https://github.com/j-easy/easy-batch) - Set up batch jobs with simple processing pipelines. Records are read in sequence from a data source, processed in pipeline and written in batches to a data sink.
 *   [shedlock (⭐2.8k)](https://github.com/lukas-krecan/ShedLock) - Makes sure that your scheduled tasks are executed at most once at the same time. If a task is being executed on one node, it acquires a lock which prevents execution of the same task from another node or thread.
@@ -654,8 +654,12 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [consul-api (⭐404)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka) - REST-based service registry for resilient load balancing and failover.
 *   [Helidon](https://helidon.io) - Two-style approach for writing microservices: Functional-reactive and as an implementation of MicroProfile.
+*   [JDA (⭐3.5k)](https://github.com/DV8FromTheWorld/JDA) - Wrapping of the Discord REST API and its WebSocket events.
+*   [KeenType (⭐59)](https://github.com/DaveJarvis/KeenType) - Modernized version of a Java-based implementation of the New Typesetting System, which was heavily based on Donald E. Knuth's original TeX.
+*   [kubernetes-client (⭐2.8k)](https://github.com/fabric8io/kubernetes-client) - Client provides access to the full Kubernetes & OpenShift REST APIs via a fluent DSL.
 *   [Micronaut](https://micronaut.io) - Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 *   [Nacos](https://nacos.io) - Dynamic service discovery, configuration and service management platform for building cloud native applications.
+*   [OpenAI-Java (⭐349)](https://github.com/TheoKanning/openai-java) - Java libraries for using OpenAI's GPT-3 API.
 *   [Quarkus](https://quarkus.io) - Kubernetes stack tailored for the HotSpot and Graal VM.
 *   [Sentinel (⭐20k)](https://github.com/alibaba/Sentinel) - Flow control component enabling reliability, resilience and monitoring for microservices.
 
@@ -663,6 +667,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Everything else.*
 
+*   [AWS SDK for Java 2.0 (⭐1.6k)](https://github.com/aws/aws-sdk-java-v2) - Wrapper around AWS' API.
 *   [CQEngine (⭐1.6k)](https://github.com/npgall/cqengine) - Ultra-fast, SQL-like queries on Java collections.
 *   [Design Patterns (⭐79k)](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
 *   [FF4J (⭐1.2k)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
@@ -957,6 +962,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *   [Apache Shiro](https://shiro.apache.org) - Performs authentication, authorization, cryptography and session management.
 *   [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
+*   [DependencyCheck (⭐4.8k)](https://github.com/jeremylong/DependencyCheck) - Detects publicly disclosed vulnerabilities contained within a project's dependencies.
 *   [Cryptomator](https://cryptomator.org) - Multiplatform, transparent, client-side encryption of files in the cloud. (GPL-3.0-only)
 *   [Hdiv (⭐208)](https://github.com/hdiv/hdiv) - Runtime application that repels application security risks included in the OWASP Top 10, including SQL injection, cross-site scripting, cross-site request forgery, data tampering, and brute force attacks.
 *   [jjwt (⭐8.8k)](https://github.com/jwtk/jjwt) - JSON web token for Java and Android.

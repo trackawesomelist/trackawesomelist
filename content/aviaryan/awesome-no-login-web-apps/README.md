@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
+## [Jan 24, 2023](/content/2023/01/24/README.md)
+
+### Utilities (uncategorized) / Others
+
+*   [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+
 ## [Jan 21, 2023](/content/2023/01/21/README.md)
 
 ### Study and Education / Others
