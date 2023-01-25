@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/thibmaek/awesome-raspberry-pi/week/README.md) / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
+## [Jan 25, 2023](/content/2023/01/25/README.md)
+
+### OS Images
+
+*   [FreeBSD](https://wiki.freebsd.org/arm/Raspberry%20Pi) - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
+
 ## [Jan 23, 2023](/content/2023/01/23/README.md)
 
 ### OS Images
@@ -675,12 +681,6 @@
 ### Tutorials / iOS
 
 *   [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.
-
-## [Jul 24, 2017](/content/2017/07/24/README.md)
-
-### OS Images
-
-*   [FreeBSD](https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi) - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
 
 ## [Feb 07, 2017](/content/2017/02/07/README.md)
 

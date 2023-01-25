@@ -11,6 +11,7 @@
 ### OS Images
 
 *   [Debian](https://raspi.debian.net) - Unofficial Debian image for Raspberry Pi (maintained by a Debian Developer).
+*   [FreeBSD](https://wiki.freebsd.org/arm/Raspberry%20Pi) - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
@@ -634,12 +635,6 @@
 ### Tutorials / iOS
 
 *   [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.
-
-## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
-
-### OS Images
-
-*   [FreeBSD](https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi) - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
 
 ## [Feb 06 - Feb 12, 2017](/content/2017/6/README.md)
 

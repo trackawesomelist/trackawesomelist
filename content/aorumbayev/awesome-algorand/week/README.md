@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aorumbayev/awesome-algorand/README.md) / Weekly / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Projects / Wallets
+
+*   [AlgoPoaP](https://github.com/AlgoPoaP) - Proof of Attendance Protocol (and much more) on Algorand.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Languages / .NET
