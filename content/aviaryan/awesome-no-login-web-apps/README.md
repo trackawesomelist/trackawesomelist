@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
+## [Jan 25, 2023](/content/2023/01/25/README.md)
+
+### Games / Others
+
+*   [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
+
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
 ### Utilities (uncategorized) / Others

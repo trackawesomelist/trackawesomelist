@@ -6,11 +6,36 @@ A curated list of awesome projects and resources related to the Substrate blockc
 
 [ [Daily](/content/substrate-developer-hub/awesome-substrate/README.md) / Weekly / [Overview](/content/substrate-developer-hub/awesome-substrate/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Social
+
+*   [Substrate Developers Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
+
+### Videos
+
+*   [Substrate Seminar Twitch](https://www.twitch.tv/polkadotdev) - Biweekly stream hosted by Polkadot Developers Twitch.
+    *   [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Seminar archive.
+    *   [Older Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Older still Seminar archive.
+
+### Templates
+
+*   [INK!athon](https://inkathon.xyz/) - Full-stack dApp boilerplate with ink! smart contracts and a React frontend using the `useInkathon` (listed below) hooks library maintained by [Scio Labs](https://scio.xyz).
+
+### Client Libraries
+
+*   [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.
+
+### Products and Services
+
+*   [PrivHost](https://privhost.laissez-faire.trade/) - Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.
+*   [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops team's configuration and guidance on deploying, monitoring, and maintaining node infrastructure.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Templates
 
-*   [polkadot-js-api-ts-template (⭐13)](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`
+*   [polkadot-js-api-ts-template (⭐13)](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`.
 
 ### Client Libraries
 
@@ -18,7 +43,7 @@ A curated list of awesome projects and resources related to the Substrate blockc
 
 ### Tools
 
-*   [Minimark (⭐1)](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot
+*   [Minimark (⭐1)](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot.
 *   [Subkey](https://docs.substrate.io/reference/command-line-tools/subkey/) - Command line utility for working with cryptographic keys.
 
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
@@ -103,8 +128,6 @@ A curated list of awesome projects and resources related to the Substrate blockc
 
 ### Videos
 
-*   [Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Upcoming events and latest recordings.
-    *   [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Archive only.
 *   [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
 
 ### Templates
@@ -141,7 +164,7 @@ A curated list of awesome projects and resources related to the Substrate blockc
 *   [Kotlin Client (⭐15)](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode).
 *   [Polkadot-JS API (⭐1k)](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
 *   [Python Interface (⭐183)](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
-*   [Rust API Client (⭐200)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputing Systems AG](https://www.scs.ch/).
+*   [Rust API Client (⭐200)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 
 ### Mobile
 
@@ -214,12 +237,6 @@ A curated list of awesome projects and resources related to the Substrate blockc
 *   [Java (⭐52)](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - Maintained by [Emerald](https://emerald.cash/).
 *   [Parity SCALE Codec (⭐188)](https://github.com/paritytech/parity-scale-codec) - Reference implementation written in Rust.
 *   [Ruby (⭐17)](https://github.com/itering/scale.rb) - Maintained by Itering.
-
-## [Apr 18 - Apr 24, 2022](/content/2022/16/README.md)
-
-### Social
-
-*   [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
 

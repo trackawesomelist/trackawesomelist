@@ -61,7 +61,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Social
 
-*   [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
+*   [Substrate Developers Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 *   [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
 
 ## Events
@@ -85,8 +85,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
     *   [Sub0 Conference Dec. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWZ4UZE7rM0hdT8Z_ZTjU5V)
     *   [Sub0 Conference Apr. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)
 *   [Polkadot Network Technical Explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
-*   [Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Upcoming events and latest recordings.
-    *   [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Archive only.
+*   [Substrate Seminar Twitch](https://www.twitch.tv/polkadotdev) - Biweekly stream hosted by Polkadot Developers Twitch.
+    *   [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Seminar archive.
+    *   [Older Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Older still Seminar archive.
 *   [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
 
 ## Templates
@@ -97,7 +98,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 *   [Front-End (⭐258)](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
 *   [Parachain (⭐166)](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus enabled Substrate node, derived from [upstream (⭐546)](https://github.com/paritytech/cumulus/tree/master/parachain-template).
 *   [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a Substrate node that includes staking and governance capabilities.
-*   [polkadot-js-api-ts-template (⭐13)](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`
+*   [polkadot-js-api-ts-template (⭐13)](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`.
+*   [INK!athon](https://inkathon.xyz/) - Full-stack dApp boilerplate with ink! smart contracts and a React frontend using the `useInkathon` (listed below) hooks library maintained by [Scio Labs](https://scio.xyz).
 
 ## FRAME Pallets
 
@@ -132,9 +134,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 *   [Kotlin Client (⭐15)](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode).
 *   [Polkadot-JS API (⭐1k)](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
 *   [Python Interface (⭐183)](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
-*   [Rust API Client (⭐200)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputing Systems AG](https://www.scs.ch/).
+*   [Rust API Client (⭐200)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 *   [Subscan Go Utilities (⭐159)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
 *   [Sub-Api (⭐1)](https://github.com/kodadot/packages/tree/main/sub-api) - Friendly wrapper for Polkadot.js API maintained by KodaDot.
+*   [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.
 
 ## Mobile
 
@@ -182,7 +185,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 *   [Jupiter (⭐52)](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 *   [Megaclite (⭐1)](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
 *   [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - A self-hosted webpage that shows the latest metadata and chain specs for any given network.
-*   [Minimark (⭐1)](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot
+*   [Minimark (⭐1)](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot.
 *   [Nova Polkadot Utils (⭐11)](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 *   [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 *   [Polkadot PANIC (⭐40)](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
@@ -213,6 +216,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Products and Services
 
 *   [OnFinality](https://onfinality.io) - Free and paid services to shared Substrate based nodes.
+*   [PrivHost](https://privhost.laissez-faire.trade/) - Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.
+*   [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops team's configuration and guidance on deploying, monitoring, and maintaining node infrastructure.
 
 ## Alternative Implementations
 

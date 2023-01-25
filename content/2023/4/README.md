@@ -6,7 +6,32 @@
 
 
 
-## [1. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [1. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+
+### Social
+
+*   [Substrate Developers Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
+
+### Videos
+
+*   [Substrate Seminar Twitch](https://www.twitch.tv/polkadotdev) - Biweekly stream hosted by Polkadot Developers Twitch.
+    *   [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Seminar archive.
+    *   [Older Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Older still Seminar archive.
+
+### Templates
+
+*   [INK!athon](https://inkathon.xyz/) - Full-stack dApp boilerplate with ink! smart contracts and a React frontend using the `useInkathon` (listed below) hooks library maintained by [Scio Labs](https://scio.xyz).
+
+### Client Libraries
+
+*   [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.
+
+### Products and Services
+
+*   [PrivHost](https://privhost.laissez-faire.trade/) - Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.
+*   [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops team's configuration and guidance on deploying, monitoring, and maintaining node infrastructure.
+
+## [2. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Analytics
 
@@ -67,29 +92,23 @@
 
 *   [mpsync (⭐4)](https://github.com/thilomichael/mpsync) - A tool that automatically synchronizes code to a MicroPython board.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [gokanban.io](https://gokanban.io) - Syntax based, no registration Kanban Board for fast use. Free with no limitations.
 
-## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼 [Tailscan](https://tailscan.com) - Ultimate devtools for Tailwind CSS v3 with ability to inspect and convert CSS to Tailwind CSS classes.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
 ## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+
+### Games / Others
+
+*   [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
 
 ### Utilities (uncategorized) / Others
 
@@ -216,6 +235,9 @@
 
 *   rkyv
     *   [rkyv/rkyv (⭐1.7k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] — rkyv (archive) is a zero-copy deserialization framework for Rust
+*   TOML
+    *   [tamasfe/taplo (⭐604)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] — A TOML toolkit written in Rust [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
+    *   [toml-rs/toml (⭐279)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
 
 ## [15. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 

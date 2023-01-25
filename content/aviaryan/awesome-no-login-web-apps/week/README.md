@@ -8,6 +8,10 @@
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
+### Games / Others
+
+*   [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
+
 ### Utilities (uncategorized) / Others
 
 *   [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
