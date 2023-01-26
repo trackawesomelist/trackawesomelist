@@ -2,7 +2,7 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 6.6K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 6.8K · 🏷️ Theory
 
 [ [Daily](/content/rossant/awesome-math/README.md) / [Weekly](/content/rossant/awesome-math/week/README.md) / Overview ]
 
@@ -97,20 +97,27 @@ A curated list of awesome mathematics resources.
 
 ## Learn to Learn
 
-*   [Understanding Mathematics (⭐791)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐802)](https://github.com/nelson-brochado/understanding-math)
 
 ## Youtube Series
 
-*   [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?view=1\&sort=da\&flow=grid)
-*   [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
-*   [NPTEL](https://www.youtube.com/watch?v=VVYLpmKRfQ8\&list=PL6C92B335BD4238AB)
-*   [Prof. Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo\&list=PL5102DFDC6790F3D0)
-*   [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk\&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-*   [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw\&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-*   [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0\&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-*   [Mathologer](https://www.youtube.com/c/Mathologer)
-*   [The Math District](https://www.youtube.com/TheMathDistrict)
-*   [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk)
+*   [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
+*   [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+*   [NPTEL](https://www.youtube.com/@iit)
+*   [PatrickJMT](https://www.youtube.com/@patrickjmt)
+*   [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
+    *   [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
+    *   [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
+    *   [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
+    *   [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+    *   [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
+    *   [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN)
+*   [Crash Course](https://www.youtube.com/@crashcourse)
+*   [Harvard](https://www.youtube.com/@harvard)
+*   [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+*   [Mathologer](https://www.youtube.com/@Mathologer)
+*   [The Math District](https://www.youtube.com/@TheMathDistrict)
+*   [Mathematical Monk](https://www.youtube.com/@mathematicalmonk)
 
 ## Tools
 
@@ -154,7 +161,7 @@ A curated list of awesome mathematics resources.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/\~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐261k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Magazines
@@ -311,7 +318,7 @@ A curated list of awesome mathematics resources.
 *   [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/\~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 *   [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 *   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐459)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐471)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 *   [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 *   [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 *   [Linear Algebra](https://www.math.ucdavis.edu/\~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -593,7 +600,7 @@ A curated list of awesome mathematics resources.
 
 # Related Awesome Lists
 
-*   [Theoretical Computer Science (⭐312)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐331)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 # License
 

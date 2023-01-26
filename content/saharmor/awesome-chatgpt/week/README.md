@@ -11,6 +11,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Featured
 
 *   [ChatGPT cheat sheet](https://drive.google.com/file/d/1OcHn2NWWnLGBCBLYsHg7xdOMVsehiuBK/view)
+*   [DuplexGPT - Book restaurant reservations, barber shop appointments, and doctor consultations without making the call](https://twitter.com/theaievangelist/status/1618319581646565376)
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 

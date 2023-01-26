@@ -2,9 +2,31 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 6.6K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 6.8K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
+
+## [Jan 26, 2023](/content/2023/01/26/README.md)
+
+### Youtube Series
+
+*   [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
+*   [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+*   [NPTEL](https://www.youtube.com/@iit)
+*   [PatrickJMT](https://www.youtube.com/@patrickjmt)
+*   [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
+    *   [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
+    *   [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
+    *   [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
+    *   [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+    *   [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
+    *   [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN)
+*   [Crash Course](https://www.youtube.com/@crashcourse)
+*   [Harvard](https://www.youtube.com/@harvard)
+*   [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+*   [Mathologer](https://www.youtube.com/@Mathologer)
+*   [The Math District](https://www.youtube.com/@TheMathDistrict)
+*   [Mathematical Monk](https://www.youtube.com/@mathematicalmonk)
 
 ## [Dec 16, 2022](/content/2022/12/16/README.md)
 
@@ -37,22 +59,11 @@ A curated list of awesome mathematics resources
 
 *   [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 
-### Youtube Series
-
-*   [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk)
-
 ## [Mar 16, 2022](/content/2022/03/16/README.md)
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐312)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
-
-## [Mar 15, 2022](/content/2022/03/15/README.md)
-
-### Youtube Series
-
-*   [Mathologer](https://www.youtube.com/c/Mathologer)
-*   [The Math District](https://www.youtube.com/TheMathDistrict)
+*   [Theoretical Computer Science (⭐331)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 18, 2022](/content/2022/02/18/README.md)
 
@@ -99,7 +110,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐261k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 19, 2021](/content/2021/08/19/README.md)
 
@@ -380,18 +391,6 @@ A curated list of awesome mathematics resources
 ### Blogs
 
 *   [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
-
-## [Mar 06, 2019](/content/2019/03/06/README.md)
-
-### Youtube Series
-
-*   [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?view=1\&sort=da\&flow=grid)
-*   [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
-*   [NPTEL](https://www.youtube.com/watch?v=VVYLpmKRfQ8\&list=PL6C92B335BD4238AB)
-*   [Prof. Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo\&list=PL5102DFDC6790F3D0)
-*   [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk\&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-*   [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw\&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-*   [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0\&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## [Nov 30, 2018](/content/2018/11/30/README.md)
 
@@ -728,13 +727,13 @@ A curated list of awesome mathematics resources
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐459)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐471)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [Sep 07, 2016](/content/2016/09/07/README.md)
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐791)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐802)](https://github.com/nelson-brochado/understanding-math)
 
 ## [Aug 09, 2016](/content/2016/08/09/README.md)
 

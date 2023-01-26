@@ -23,6 +23,7 @@ This list is up to date. Last update: 01/11/22
 1.  [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
 2.  [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
 3.  [ChatGPT cheat sheet](https://drive.google.com/file/d/1OcHn2NWWnLGBCBLYsHg7xdOMVsehiuBK/view)
+4.  [DuplexGPT - Book restaurant reservations, barber shop appointments, and doctor consultations without making the call](https://twitter.com/theaievangelist/status/1618319581646565376)
 
 ## Prompting
 
