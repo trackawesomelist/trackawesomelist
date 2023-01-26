@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Editing Support / Diagnostics
+
+*   [mrjones2014/nvim-ts-rainbow (⭐121)](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow :rainbow: delimiters using tree-sitter :rainbow:.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Editing Support / Diagnostics
@@ -48,31 +54,31 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [idanarye/nvim-buffls (⭐2)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
+*   [idanarye/nvim-buffls (⭐4)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
 
 ### Syntax / Diagnostics
 
-*   [LhKipp/nvim-nu (⭐37)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
+*   [LhKipp/nvim-nu (⭐44)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
 
 ### File Explorer / Diagnostics
 
-*   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+*   [stevearc/oil.nvim (⭐341)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
 ### Note Taking / Diagnostics
 
-*   [RutaTang/quicknote.nvim (⭐3)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+*   [RutaTang/quicknote.nvim (⭐8)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Terminal Integration / Diagnostics
 
-*   [idanarye/nvim-channelot (⭐2)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
+*   [idanarye/nvim-channelot (⭐3)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
 
 ### Code Runner / Diagnostics
 
-*   [idanarye/nvim-moonicipal (⭐4)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
+*   [idanarye/nvim-moonicipal (⭐8)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
 
 ### Editing Support / Diagnostics
 
-*   [XXiaoA/ns-textobject.nvim (⭐10)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
+*   [XXiaoA/ns-textobject.nvim (⭐19)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
@@ -105,11 +111,11 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐109)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐132)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim (⭐34)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐37)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -120,12 +126,12 @@ Collections of awesome neovim plugins.
 ### Project / Diagnostics
 
 *   [nyngwang/suave.lua (⭐16)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
-*   [desdic/telescope-rooter.nvim (⭐8)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
+*   [desdic/telescope-rooter.nvim (⭐10)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ramojus/mellifluous.nvim (⭐58)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
-*   [Yazeed1s/oh-lucy.nvim (⭐88)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
+*   [ramojus/mellifluous.nvim (⭐62)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
+*   [Yazeed1s/oh-lucy.nvim (⭐104)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
 
 ### Cursorline / Diagnostics
 
@@ -150,17 +156,13 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [shortcuts/no-neck-pain.nvim (⭐139)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
+*   [shortcuts/no-neck-pain.nvim (⭐165)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
 
 ### Formatting / Diagnostics
 
-*   [emileferreira/nvim-strict (⭐21)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
+*   [emileferreira/nvim-strict (⭐29)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
-
-### Plugin Manager
-
-*   [rktjmp/pact.nvim (⭐34)](https://github.com/rktjmp/pact.nvim) - Semantic version aware plugin manager 🔪🩸🐐.
 
 ### Project / Diagnostics
 
@@ -631,7 +633,7 @@ Collections of awesome neovim plugins.
 *   [beauwilliams/focus.nvim (⭐444)](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids.
 *   [luukvbaal/stabilize.nvim (⭐332)](https://github.com/luukvbaal/stabilize.nvim) - Stabilized window content on window open/close events.
 *   [anuvyklack/windows.nvim (⭐315)](https://github.com/anuvyklack/windows.nvim) - Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!
-*   [nyngwang/NeoNoName.lua (⭐21)](https://github.com/nyngwang/NeoNoName.lua) - A layout-preserving buffer-deleter.
+*   [nyngwang/NeoNoName.lua (⭐21)](https://github.com/nyngwang/NeoNoName.lua) - Layout preserving buffer deletion.
 *   [famiu/bufdelete.nvim (⭐277)](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing your window layout.
 *   [echasnovski/mini.nvim#mini.bufremove (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bufremove.md) - Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout.
 
@@ -1408,10 +1410,6 @@ Collections of awesome neovim plugins.
 ### Scrolling / Diagnostics
 
 *   [karb94/neoscroll.nvim (⭐780)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
-
-### Editing Support / Diagnostics
-
-*   [p00f/nvim-ts-rainbow (⭐865)](https://github.com/p00f/nvim-ts-rainbow) - Rainbow :rainbow: parentheses using tree-sitter :rainbow:.
 
 ### Preconfigured Configuration / Diagnostics
 

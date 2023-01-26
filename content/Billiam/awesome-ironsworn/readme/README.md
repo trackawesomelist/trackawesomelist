@@ -2,7 +2,7 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 42 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 46 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / Overview ]
 
@@ -43,19 +43,18 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 *   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
-*   [Ironsworn for Foundry VTT (⭐49)](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
+*   [Ironsworn and Starforged for Foundry VTT (⭐50)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
 *   [Ironsworn for Role](https://app.playrole.com/sheet-templates/bbc0c65a-ironsworn-starforged/save) - Ironsworn character sheet for Role
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 *   [isscrolls (⭐7)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
-*   [Starforged for Foundry VTT (⭐13)](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
 *   [Starforged Sectors Discord Bot (⭐0)](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
 *   [TheOracle (⭐29)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ## Resources
 
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - Character building card sets for Ironsworn
-*   [DataForged (⭐131)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐79)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐137)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐84)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
 *   [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1) - Adventure starters for Ironsworn
@@ -75,7 +74,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 *   [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
 *   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish.
 *   [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
-*   [HyperCity](https://notrueindian.itch.io/hypercity) - a cyberpunk hack of Ironsworn
+*   [HyperCity](https://notrueindian.itch.io/hypercity) - A cyberpunk hack of Ironsworn
 *   [Investigation Hack by rsek](https://drive.google.com/drive/folders/1_tKqEn-iKDFyfzrNYgvVlzZuHOu1pUmc) - An investigation hack for Ironsworn
 *   [Iron Degenerates](https://drive.google.com/file/d/12iPtYAHlUJ_WMJIDqfTqgA2Sm44ayddV/view) - Bringing the Dungeon Degenerates setting to Ironsworn
 *   [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
@@ -86,6 +85,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 *   [Ironsworn Passions](https://docs.google.com/document/d/1ytKHeNLHOIE8JvL3-TUyIu_pDdP2oS69HbwKNxQ4DuA/view) - Character desires and prejudices
 *   [Ironsworn Winterhall](https://drive.google.com/file/d/160Ki8oVab0yZdlPUwHWROKIe8ILaTzNd/view) - Put down roots in the Ironlands
 *   [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
+*   [Ironsworn: Reign](https://www.drivethrurpg.com/product/419256/Ironsworn-Reign) - Settlement mechanics for Ironsworn
 *   [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
 *   [Kybersworn](https://drive.google.com/drive/folders/1bnhf7ha5IOuDgiCYl2JOyzyVDum2qPDx) - A Star Wars-themed supplement for Ironsworn
 *   [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY) - A City of Mist / Ironsworn hybrid hack
@@ -121,5 +121,5 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines (⭐42)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐46)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
 

@@ -2,9 +2,15 @@
 
 A curated list of awesome Phalcon libraries and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 602 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 601 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/phalcon/awesome-phalcon/week/README.md) / [Overview](/content/phalcon/awesome-phalcon/readme/README.md) ]
+
+## [Jan 26, 2023](/content/2023/01/26/README.md)
+
+### CMS & Blogs
+
+*   [Element CMF (⭐19)](https://github.com/odvapro/element) - Admin panel for everything [Demo](https://element-demo.odva.pro/element/) (admin | adminpass)
 
 ## [Jan 10, 2023](/content/2023/01/10/README.md)
 
@@ -63,7 +69,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### CMS & Blogs
 
-*   [Hummingbird CMS (⭐5)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
+*   [Hummingbird CMS (⭐6)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
 
 ## [Jan 17, 2020](/content/2020/01/17/README.md)
 
@@ -87,7 +93,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### RESTful
 
-*   [REST API (⭐81)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐83)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ## [Sep 28, 2019](/content/2019/09/28/README.md)
 
@@ -99,7 +105,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### CMS & Blogs
 
-*   [KikCMS (⭐51)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
+*   [KikCMS (⭐53)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
 
 ### ODM
 
@@ -132,7 +138,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐369)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐370)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -189,7 +195,7 @@ A curated list of awesome Phalcon libraries and resources
 *   [Album O'Rama (⭐84)](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
 *   [Base App (⭐63)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
 *   [INVO Application (⭐344)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
-*   [Vökuró (⭐368)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
+*   [Vökuró (⭐369)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 
 ### CMS & Blogs
 
@@ -225,7 +231,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Talks
 
-*   [Phanbook (⭐302)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+*   [Phanbook (⭐303)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 
 ### Conferences / Communities
 
@@ -277,7 +283,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### i18n
 
-*   [xgettext-template (⭐79)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+*   [xgettext-template (⭐80)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
 ## [Nov 25, 2016](/content/2016/11/25/README.md)
 
@@ -301,7 +307,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### CMS & Blogs
 
-*   [giada-www (⭐14)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
+*   [giada-www (⭐15)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 
 ### Websites / Tutorials
 
@@ -347,11 +353,11 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Application Skeleton
 
-*   [MVC (⭐804)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐805)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 
-*   [phalcon-cron (⭐76)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
+*   [phalcon-cron (⭐78)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
 ## [Aug 30, 2015](/content/2015/08/30/README.md)
 
@@ -363,7 +369,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Talks
 
-*   [Phosphorum (⭐361)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
+*   [Phosphorum (⭐360)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 ## [Jun 03, 2015](/content/2015/06/03/README.md)
 

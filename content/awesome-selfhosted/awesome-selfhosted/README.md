@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jan 26, 2023](/content/2023/01/26/README.md)
+
+### Software / Automation
+
+*   [Alltube (⭐2.7k)](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl, a program to download videos and audio from more than 100 websites. `GPL-3.0` `PHP`
+
+### Software / Document Management
+
+*   [Paperless-ngx](https://docs.paperless-ngx.com/) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐5.4k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python`
+
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
 ### Software / DNS
@@ -950,7 +960,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Social Networks and Forums
 
-*   [bbPress](https://bbpress.org/) - Forum software with a twist from the creators of WordPress. Easily setup discussion forums inside your WordPress.org powered site. ([Source Code](https://bbpress.trac.wordpress.org/browser/trunk)) `GPL-2.0` `PHP`
 *   [yarn.social](https://yarn.social) - Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ([Source Code](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
 
 ### Software / Communication - Video Conferencing
@@ -960,7 +969,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Conference Management
 
 *   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐656)](https://github.com/frab/frab)) `MIT` `Ruby`
-*   [Open Conference Systems (OCS)](https://pkp.sfu.ca/ocs/) - Free Web publishing tool that will create a complete Web presence for your scholarly conference. ([Source Code (⭐90)](https://github.com/pkp/ocs)) `GPL-1.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 
@@ -1573,10 +1581,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Mar 27, 2022](/content/2022/03/27/README.md)
 
-### Software / Document Management
-
-*   [Paperless-ngx (⭐5.4k)](https://github.com/paperless-ngx/paperless-ngx) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/)) `GPL-3.0` `Python`
-
 ### Software / Knowledge Management Tools
 
 *   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐196)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.2k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
@@ -1997,7 +2001,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Alltube](https://www.alltubedownload.net) - Web interface for [youtube-dl (⭐117k)](https://github.com/ytdl-org/youtube-dl), a program to download videos and audio from [more than 100 websites](https://ytdl-org.github.io/youtube-dl/supportedsites.html). ([Source Code (⭐2.7k)](https://github.com/Rudloff/alltube)) `GPL-3.0` `PHP`
 *   [feedmixer (⭐102)](https://github.com/cristoper/feedmixer) - FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON). ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest\&f=https://americancynic.net/atom.xml\&n=1)) `WTFPL` `Python`
 *   [homebank-converter (⭐41)](https://github.com/Binnette/homebank-converter) - Web app to convert an export bank file to compatible Homebank csv. ([Demo](https://binnette.github.io/homebank-converter/)) `AGPL-3.0` `HTML5`
 *   [SickRage](https://www.sickrage.ca) - SickRage is an automatic Video Library Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code (⭐1.5k)](https://github.com/SickRage/SickRage)) `GPL-3.0` `Python`
@@ -2186,7 +2189,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [Economizzer](https://www.economizzer.org/) - An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone. ([Demo (⭐411)](https://github.com/gugoan/economizzer#live-demo), [Source Code (⭐411)](https://github.com/gugoan/economizzer)) `MIT` `PHP`
 *   [Galette](https://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations. ([Source Code](https://git.tuxfamily.org/galette/galette.git/)) `GPL-3.0` `PHP`
 *   [GRR](https://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies. ([Source Code (⭐59)](https://github.com/JeromeDevome/GRR)) `GPL-2.0` `PHP`
 *   [Hospital Run](https://hospitalrun.io/) - Hospital Run is offline enabled hospital management software. ([Demo](https://hospitalrun.io/demo/), [Source Code (⭐847)](https://github.com/HospitalRun/hospitalrun-server)) `GPL-3.0` `Nodejs`
@@ -2486,7 +2488,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Social Networks and Forums
 
 *   [FlaskBB](https://flaskbb.org/) - FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools. ([Source Code (⭐2.3k)](https://github.com/flaskbb/flaskbb)) `BSD-3-Clause` `Python`
-*   [FluxBB](https://fluxbb.org/) - Fast, light, user-friendly forum software for your website. ([Source Code (⭐477)](https://github.com/fluxbb/fluxbb)) `GPL-2.0` `PHP`
 *   [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust. ([Source Code (⭐7.2k)](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Rust`
 *   [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code (⭐4.2k)](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs`
 *   [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network. ([Source Code (⭐2.2k)](https://github.com/pump-io/pump.io)) `Apache-2.0` `Nodejs`
@@ -3235,12 +3236,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([Source Code (⭐51)](https://github.com/dgroup/lazylead)) `MIT` `Ruby`
 
-## [Aug 04, 2020](/content/2020/08/04/README.md)
-
-### Software / Miscellaneous
-
-*   [Digital-Currency (⭐103)](https://github.com/Icesofty/Digital-Currency) - Create your own Self-Hosted Digital Currency. ([Demo](https://tonken.glitch.me/)) `GPL-3.0` `Nodejs`
-
 ## [Aug 02, 2020](/content/2020/08/02/README.md)
 
 ### Software / Password Managers
@@ -3364,7 +3359,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Polls and Events
 
-*   [Feedka (⭐14)](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. ([Demo](https://feedka.herokuapp.com)) `AGPL-3.0` `Ruby`
+*   [Feedka (⭐14)](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. `AGPL-3.0` `Ruby`
 
 ## [May 01, 2020](/content/2020/05/01/README.md)
 
@@ -4456,7 +4451,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [Dot Ledger](https://www.dotledger.com/) - Web-based personal finance management tool. ([Demo](https://demo.dotledger.com/), [Source Code (⭐226)](https://github.com/dotledger/dotledger)) `Apache-2.0` `Ruby`
 *   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐6.8k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
 
 ### Software / Note-taking & Editors

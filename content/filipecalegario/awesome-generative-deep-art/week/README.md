@@ -6,6 +6,16 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### The Generative AI Area: history, maps, and definitions
+
+*   \[🔥] [Base11 Research - generative-ai](https://base10.vc/research/generative-ai): report about Generative AI produced by the investment firm Base10
+
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+
+*   [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Papers and References / AI Tools for Searching
@@ -728,7 +738,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Related Awesome Lists / Galleries
 
-*   [amrzv/awesome-colab-notebooks (⭐646)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
+*   \[🔥] [amrzv/awesome-colab-notebooks (⭐646)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 

@@ -2,9 +2,19 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 42 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 46 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [Jan 26, 2023](/content/2023/01/26/README.md)
+
+### Tools / Ironsworn
+
+*   [Ironsworn and Starforged for Foundry VTT (⭐50)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
+
+### Hacks and homebrew / Ironsworn
+
+*   [Ironsworn: Reign](https://www.drivethrurpg.com/product/419256/Ironsworn-Reign) - Settlement mechanics for Ironsworn
 
 ## [Dec 28, 2022](/content/2022/12/28/README.md)
 
@@ -219,7 +229,7 @@ An awesome list of awesome Ironsworn projects
 
 *   [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
 *   [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
-*   [HyperCity](https://notrueindian.itch.io/hypercity) - a cyberpunk hack of Ironsworn
+*   [HyperCity](https://notrueindian.itch.io/hypercity) - A cyberpunk hack of Ironsworn
 
 ## [Aug 13, 2021](/content/2021/08/13/README.md)
 
@@ -244,15 +254,13 @@ An awesome list of awesome Ironsworn projects
 *   [Ironsworn Campaign Manager](https://nboughton.uk/apps/ironsworn-campaign/) - A lightweight app for supporting solo Ironsworn games
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
-*   [Ironsworn for Foundry VTT (⭐49)](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
-*   [Starforged for Foundry VTT (⭐13)](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
 *   [TheOracle (⭐29)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐131)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐79)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐137)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐84)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 
 ### Hacks and homebrew / Ironsworn
