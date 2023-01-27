@@ -125,6 +125,7 @@ To save the world from creating user accounts and installing software applicatio
 *   [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 *   [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
 *   [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
+*   [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 
 ### File Converters
 
@@ -296,6 +297,7 @@ To save the world from creating user accounts and installing software applicatio
 *   [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
 *   [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
 *   [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online.
+*   [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 
 <a name="text-tools"></a>
 

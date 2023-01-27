@@ -8,6 +8,10 @@
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
+### Drawing / Others
+
+*   [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
+
 ### Games / Others
 
 *   [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
@@ -15,6 +19,10 @@
 ### Graphics, Image and Design / Others
 
 *   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+
+### Study and Education / Others
+
+*   [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 
 ### Utilities (uncategorized) / Others
 

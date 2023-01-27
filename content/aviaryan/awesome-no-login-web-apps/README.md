@@ -8,9 +8,17 @@
 
 ## [Jan 27, 2023](/content/2023/01/27/README.md)
 
+### Drawing / Others
+
+*   [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
+
 ### Graphics, Image and Design / Others
 
 *   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+
+### Study and Education / Others
+
+*   [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 
 ## [Jan 25, 2023](/content/2023/01/25/README.md)
 
