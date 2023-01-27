@@ -6,6 +6,12 @@ Curated List of React Components & Libraries.
 
 [ [Daily](/content/brillout/awesome-react-components/README.md) / Weekly / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Form Logic / Mouse Events
+
+*   [Phormal (⭐1)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Photo / Image
@@ -22,7 +28,7 @@ Curated List of React Components & Libraries.
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐689)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
@@ -63,7 +69,6 @@ Curated List of React Components & Libraries.
 
 ### Form Components / Toggle
 
-*   [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component.
 *   [ui-switch (⭐1)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
@@ -225,7 +230,7 @@ Curated List of React Components & Libraries.
 
 ### i18n / Mouse Events
 
-*   [@tolgee/react (⭐169)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+*   [@tolgee/react (⭐173)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
@@ -281,7 +286,7 @@ Curated List of React Components & Libraries.
 
 ### Form Components / Input Types
 
-*   [@lunasec/react-sdk (⭐1.2k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
+*   [@lunasec/react-sdk (⭐1.3k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
 
 ### Data Store / Mouse Events
 
@@ -627,7 +632,7 @@ Curated List of React Components & Libraries.
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐4.7k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐4.8k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ### CSS / Style / Mouse Events
 
@@ -857,7 +862,7 @@ Curated List of React Components & Libraries.
 
 ### Boilerplate / Mouse Events
 
-*   [crisp-react (⭐157)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+*   [crisp-react (⭐160)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
 ### Miscellaneous / Mouse Events
 
@@ -1530,7 +1535,6 @@ Curated List of React Components & Libraries.
 
 ### Form Logic / Mouse Events
 
-*   [formcat (⭐112)](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 *   [plexus-form (⭐133)](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
 *   [react-jsonschema-form (⭐12k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
 

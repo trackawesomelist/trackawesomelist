@@ -12,6 +12,10 @@
 
 *   [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
 
+### Graphics, Image and Design / Others
+
+*   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+
 ### Utilities (uncategorized) / Others
 
 *   [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.

@@ -6,6 +6,12 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Jan 27, 2023](/content/2023/01/27/README.md)
+
+### Software / ChatOps
+
+*   [Errbot](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code (⭐2.9k)](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
+
 ## [Jan 26, 2023](/content/2023/01/26/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
@@ -187,12 +193,6 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 
-## [Oct 19, 2020](/content/2020/10/19/README.md)
-
-### Software / Client management
-
-*   [just-install](https://just-install.github.io/) – Python script for downloading and silently installing MSI files.
-
 ## [Oct 11, 2020](/content/2020/10/11/README.md)
 
 ### Software / Distributed Filesystems
@@ -262,7 +262,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Client management
 
-*   [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
+*   [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan. ([Source Code (⭐286)](https://github.com/OCSInventory-NG/OCSInventory-Server)) `GPL-2.0` `Perl/PHP`
 
 ## [Nov 14, 2019](/content/2019/11/14/README.md)
 
@@ -360,12 +360,6 @@ A curated list of amazingly awesome open source sysadmin resources.
 ### Software / DNS - Servers
 
 *   [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go.
-
-## [Dec 24, 2018](/content/2018/12/24/README.md)
-
-### Software / Cloud Computing
-
-*   [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
 
 ## [Sep 24, 2018](/content/2018/09/24/README.md)
 
@@ -470,31 +464,22 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / ChatOps
 
-*   [Abot (⭐2.2k)](https://github.com/itsabot/abot) - A digital assistant framework in Go.
-*   [CloudBot (⭐266)](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
-*   [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
-*   [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
-*   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
-*   [Lazlo (⭐148)](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
-*   [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
+*   [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code (⭐429)](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
+*   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code (⭐16k)](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
 
 ### Software / Client management
 
-*   [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
-*   [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
-*   [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
+*   [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code (⭐8.8k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
 ### Software / Cloning
 
-*   [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
-*   [Fog](https://www.fogproject.org/) - Another computer cloning solution.
+*   [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
+*   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Sorce Code (⭐842)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 ### Software / Cloud Computing
 
-*   [AppScale (⭐2.4k)](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
-*   [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
-*   [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
-*   [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
+*   [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code (⭐1.3k)](https://github.com/apache/cloudstack))
+*   [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code (⭐2.4k)](https://github.com/cobbler/cobbler))
 *   [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 *   [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
 *   [OpenStack](https://www.openstack.org/) - Build private and public clouds.
@@ -503,8 +488,8 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Virtualization
 
-*   [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
 *   [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
+*   [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
 *   [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
 *   [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
 *   [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.

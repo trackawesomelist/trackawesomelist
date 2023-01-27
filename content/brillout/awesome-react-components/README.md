@@ -6,6 +6,12 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Jan 27, 2023](/content/2023/01/27/README.md)
+
+### Form Logic / Mouse Events
+
+*   [Phormal (⭐1)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
+
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
 ### Photo / Image
@@ -22,7 +28,7 @@ Curated List of React Components & Libraries.
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐689)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [Nov 21, 2022](/content/2022/11/21/README.md)
 
@@ -65,7 +71,6 @@ Curated List of React Components & Libraries.
 
 ### Form Components / Toggle
 
-*   [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component.
 *   [ui-switch (⭐1)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
 
 ## [Jul 21, 2022](/content/2022/07/21/README.md)
@@ -252,7 +257,7 @@ Curated List of React Components & Libraries.
 
 ### i18n / Mouse Events
 
-*   [@tolgee/react (⭐169)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+*   [@tolgee/react (⭐173)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 
 ## [Jan 30, 2022](/content/2022/01/30/README.md)
 
@@ -310,7 +315,7 @@ Curated List of React Components & Libraries.
 
 ### Form Components / Input Types
 
-*   [@lunasec/react-sdk (⭐1.2k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
+*   [@lunasec/react-sdk (⭐1.3k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
 
 ### Data Store / Mouse Events
 
@@ -704,7 +709,7 @@ Curated List of React Components & Libraries.
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐4.7k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐4.8k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ## [Aug 05, 2020](/content/2020/08/05/README.md)
 
@@ -978,7 +983,7 @@ Curated List of React Components & Libraries.
 
 ### Boilerplate / Mouse Events
 
-*   [crisp-react (⭐157)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+*   [crisp-react (⭐160)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
 ## [Jan 24, 2020](/content/2020/01/24/README.md)
 
@@ -1406,10 +1411,6 @@ Curated List of React Components & Libraries.
 
 *   [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 *   [redux-batched-actions (⭐1k)](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
-
-### Form Logic / Mouse Events
-
-*   [formcat (⭐112)](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 
 ### Props from server / Mouse Events
 

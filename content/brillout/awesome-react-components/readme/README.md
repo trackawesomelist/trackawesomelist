@@ -453,7 +453,7 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 *   [react-credit-cards (⭐2.4k)](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms.
 *   [react-payment-inputs (⭐303)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 *   [react-input-mask (⭐2.1k)](https://github.com/sanniassin/react-input-mask) - [demo](http://sanniassin.github.io/react-input-mask/demo.html) - Yet another react component for input masking.
-*   [@lunasec/react-sdk (⭐1.2k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
+*   [@lunasec/react-sdk (⭐1.3k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
 *   [react-numpad (⭐130)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 
 #### Autocomplete
@@ -484,7 +484,6 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 *   [@anatoliygatt/heart-switch (⭐414)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 *   [react-ios-switch (⭐126)](https://github.com/clari/react-ios-switch) - React switch component.
 *   [react-toggle (⭐919)](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
-*   [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component.
 *   [ui-switch (⭐1)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
 
 #### Slider
@@ -633,7 +632,7 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
 *   [react-flip-move (⭐3.9k)](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 *   [react-gsap-enhancer (⭐722)](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
-*   [react-tsparticles (⭐4.7k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐4.8k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 *   [react-motion (⭐21k)](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 *   [react-mt-svg-lines (⭐355)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
 *   [react-router-transition (⭐2.6k)](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
@@ -679,7 +678,7 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 *   [grommet (⭐8.1k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
 *   [Mantine (⭐17k)](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 *   [orbit (⭐1.3k)](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
-*   [flowbite-react (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐689)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 *   [primereact (⭐3.4k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-bootstrap (⭐21k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
@@ -836,9 +835,9 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 ### Form Logic
 
 *   [data-driven-forms (⭐235)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
-*   [formcat (⭐112)](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 *   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 *   [formsy-react (⭐754)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+*   [Phormal (⭐1)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
 *   [plexus-form (⭐133)](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
 *   [react-hook-form (⭐33k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 *   [react-jsonschema-form (⭐12k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
@@ -912,7 +911,7 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 *Scaffold / starter kit / Yeoman generator / stack ensemble / seed*
 
 *   [create-react-app (⭐99k)](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-*   [crisp-react (⭐157)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+*   [crisp-react (⭐160)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 *   [cra-template-redux-auth-starter (⭐33)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 *   [electron-react-boilerplate (⭐21k)](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
 *   [essential-react (⭐2k)](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
@@ -963,7 +962,7 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 *   [react-localized (⭐5)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 *   [react-translate-maker (⭐34)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 *   [react-intl-universal (⭐1.3k)](https://github.com/alibaba/react-intl-universal) - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
-*   [@tolgee/react (⭐169)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+*   [@tolgee/react (⭐173)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 *   [js-lingui (⭐3.5k)](https://github.com/lingui/js-lingui) - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 
 ### Framework bindings / integrations

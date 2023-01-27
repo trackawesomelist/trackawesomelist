@@ -2,7 +2,7 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 65K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 66K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
@@ -11,6 +11,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tools for Teams and Collaboration
 
 *   [gokanban.io](https://gokanban.io) - Syntax based, no registration Kanban Board for fast use. Free with no limitations.
+
+### Code Generation
+
+*   [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
 
 ### Miscellaneous
 
@@ -155,7 +159,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
 *   [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
-*   [is-an.app & 1bt.uk (⭐96)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
+*   [is-an.app & 1bt.uk (⭐126)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
 ### Storage and Media Processing
 
@@ -850,7 +854,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Domain
 
-*   [js.cool (⭐300)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
+*   [js.cool (⭐304)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -939,14 +943,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
-### Code Search and Browsing
+### Code Generation
 
 *   [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
 
 ### Domain
 
 *   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐274)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+*   [cluster.ws & wip.la (⭐289)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
 
 ### Remote Desktop Tools
 
@@ -1225,7 +1229,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data and ML
 
-*   [Public-Apis Github Repo (⭐224k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐226k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Code Quality
 
@@ -1262,7 +1266,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [localhost.run](https://localhost.run/) — Expose locally running servers over a tunnel to a public URL.
-*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐15k)](https://github.com/localtunnel/localtunnel).
+*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐16k)](https://github.com/localtunnel/localtunnel).
 *   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)
 *   [STUN](https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol \[UDP] Through Network Address Translators \[NATs])
     *   Google STUN — [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302)
@@ -2189,7 +2193,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐774)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐781)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
 
@@ -4117,7 +4121,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### PaaS
 
-*   [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
 *   [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
 
 ### BaaS

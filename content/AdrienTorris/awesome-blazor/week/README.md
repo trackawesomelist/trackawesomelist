@@ -21,6 +21,10 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Blazor United prototype](https://www.youtube.com/watch?v=48G_CEGXZZM) - ![duration](https://img.shields.io/badge/Duration:%20-13%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 24, 2023 - A quick look at some of the experiments we're considering for Blazor in .NET 8.
 
+### Articles / Others
+
+*   [Using .NET code from JavaScript using WebAssembly](https://www.meziantou.net/using-dotnet-code-from-javascript-using-webassembly.htm) - January 23, 2023 - Blazor WebAssembly allows to run a .NET web application in a browser. Starting with .NET 7, you can easily run any .NET method from JavaScript without needing the whole Blazor framework. Let's see how to run a .NET method from JavaScript.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Articles / Others
@@ -1217,7 +1221,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### E-Books / Others
 
-*   [Archives (⭐7.3k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.3k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐7.4k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.4k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ### Courses / Others
 

@@ -2,7 +2,7 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 65K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 66K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / Overview ]
 
@@ -16,7 +16,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that hav
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.
 
-This list is the result of Pull Requests, reviews, ideas and work done by 1100+ people. You too can help by sending [Pull Requests (⭐65k)](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.
+This list is the result of Pull Requests, reviews, ideas and work done by 1100+ people. You too can help by sending [Pull Requests (⭐66k)](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
@@ -34,6 +34,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [CDN and Protection](#cdn-and-protection)
 *   [CI and CD](#ci-and-cd)
 *   [CMS](#cms)
+*   [Code Generation](#code-generation)
 *   [Code Quality](#code-quality)
 *   [Code Search and Browsing](#code-search-and-browsing)
 *   [Crash and Exception Handling](#crash-and-exception-handling)
@@ -300,7 +301,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams up to 5 users, featuring unlimited dashboards and charts, no-code chart builder and a collaborative SQL editor.
 *   [PromptLoop](https://www.promptloop.com/) - Use AI and large language models like GPT-3 with a single simple spreadsheet formula to tranform, comprehend, and analyze text in Google Sheets. First 2,000 credits free each month.
 *   [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked. The first 1000 calls are free of charge.
-*   [Public-Apis Github Repo (⭐224k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐226k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 *   [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.
 *   [QuickMocker](https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.
 *   [Rapidapi](https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
@@ -459,6 +460,13 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 **[⬆ back to top](#table-of-contents)**
 
+## Code Generation
+
+*   [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
+*   [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
+
+**[⬆ back to top](#table-of-contents)**
+
 ## Code Quality
 
 *   [SoftaCheck](https://www.softacheck.com/) — An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.
@@ -501,7 +509,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Code Search and Browsing
 
-*   [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
 *   [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
 *   [Namae](https://namae.dev/) - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.
 *   [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
@@ -979,7 +986,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 ## PaaS
 
 *   [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
-*   [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
 *   [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
 *   [codenameone.com](https://www.codenameone.com/) — Open source, cross platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with unlimited number of projects
 *   [Cyclic](https://www.cyclic.sh) - Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits.
@@ -1124,14 +1130,14 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
 *   [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
 *   [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
-*   [js.cool (⭐300)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
+*   [js.cool (⭐304)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
 *   [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
 *   [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
 *   [is-a.dev](https://www.is-a.dev/) — Free is-a.dev subdomain for developers.
 *   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐274)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+*   [cluster.ws & wip.la (⭐289)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
 *   [Dee.al](https://domain.dee.al) — Free .dee.al,.gal.aw,.devz.id instant domain for your blog site & Other, ENJOY
-*   [is-an.app & 1bt.uk (⭐96)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
+*   [is-an.app & 1bt.uk (⭐126)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1187,7 +1193,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
 *   [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with free plan allows unlimited networks with up to 5 peoples
 *   [localhost.run](https://localhost.run/) — Expose locally running servers over a tunnel to a public URL.
-*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐15k)](https://github.com/localtunnel/localtunnel).
+*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐16k)](https://github.com/localtunnel/localtunnel).
 *   [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
 *   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)
 *   [segment.com](https://segment.com/) — Hub to translate and route events to other third-party services. 100,000 events/month free
@@ -1733,7 +1739,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 *   [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
 *   [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-*   [github.com — FOSS for Dev (⭐774)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐781)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
