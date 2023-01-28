@@ -46,7 +46,7 @@ A collection of awesome Qubes OS links
 
 A security-focused desktop operating system that aims to provide security through isolation.
 
-This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto (⭐234k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto (⭐236k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -103,10 +103,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## System Requirements
 
-*   [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/)
-*   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
-*   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
-*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
+*   [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
+*   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers
+*   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
+*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware
 
 ## Downloading, Installing, Upgrading, and Building
 
@@ -118,52 +118,51 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## How-to guides
 
-*   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/)
-*   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/)
-*   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/)
-*   [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/)
-*   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/)
-*   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/)
-*   [How to update](https://www.qubes-os.org/doc/how-to-update/)
-*   [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-*   [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/)
-*   [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/)
-*   [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/)
-*   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/)
-*   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/)
+*   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
+*   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files
+*   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
+*   [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/) - This page covers copying files and clipboard text between dom0 and domUs.
+*   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen
+*   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/) - When you wish to install software in Qubes OS, you should generally install it in a template.
+*   [How to update](https://www.qubes-os.org/doc/how-to-update/) - This page is about updating your system while staying on the same supported version of Qubes OS.
+*   [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - Unlike other devices (USB, block, mic), PCI devices need to be attached on VM-bootup.
+*   [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/) - Attaching USB devices to VMs requires a USB qube.
+*   [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/) - This page is part of device handling in qubes.
+*   [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/) - This is an overview of device handling in Qubes OS.
+*   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight qube that can be created quickly and will self-destruct when closed.
+*   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
 
 ## Templates
 
-*   [Creating a NetBSD VM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
-*   [Customizing Fedora minimal templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md)
-*   [Customizing Windows 7 templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md)
-*   [Debian templates](https://www.qubes-os.org/doc/templates/debian/)
-*   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/)
-*   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/)
-*   [Pentesting: BlackArch (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md)
-*   [Pentesting: Kali (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md)
-*   [Pentesting: PTF (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md)
-*   [Pentesting: Parrot](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
-*   [Template: CentOS (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
-*   [Template: Gentoo (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
-*   [Template: Ubuntu (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
-*   [Template: Whonix (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
-*   [Template: Windows (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
-*   [Templates](https://www.qubes-os.org/doc/templates/)
-*   [Tips for Using Linux in an HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
-*   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/)
+*   [Creating a NetBSD VM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM
+*   [Customizing Fedora minimal templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations
+*   [Customizing Windows 7 templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services
+*   [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
+*   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
+*   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
+*   [Pentesting: BlackArch (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
+*   [Pentesting: Kali (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
+*   [Pentesting: PTF (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Template: CentOS (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md) - You can install the CentOS template, provided by Qubes in ready to use binary package.
+*   [Template: Gentoo (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md) -  you can install the Gentoo template, provided by Qubes in ready to use binary package.
+*   [Template: Ubuntu (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md) - If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates.
+*   [Template: Whonix (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
+*   [Template: Windows (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
+*   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
+*   [Tips for Using Linux in an HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain
+*   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
 ## VM-Hardening
 
-*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
-*   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
-*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
+*   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
+*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
 
 ## Desktop Customization
 
-*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
-*   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
-*   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesome with the patches for qubes.
+*   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment
+*   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) -
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 *   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
 *   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
@@ -199,12 +198,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Crypto
 
 *   [Split Bitcoin Wallet (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
-*   [Awesome-DeSci (⭐17)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
+*   [Awesome-DeSci (⭐22)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 
 ## Security
 
-*   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
-*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
+*   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) -
+*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) -
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
 *   [Firewall](https://www.qubes-os.org/doc/firewall/)
@@ -218,7 +217,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
 *   [Using Multi-Factor Authentication with Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
 *   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
-*   [Whonix for Privacy & Anonymity (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
 *   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
 ## Vitualization
@@ -242,7 +240,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
 *   [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
 *   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
-*   [Qubes-Mirage-Firewall (⭐184)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+*   [Qubes-Mirage-Firewall (⭐185)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
 ### Unikernel-like
 
@@ -252,13 +250,14 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Exploitation Tools
 
 *   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
-*   [Awesome-Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [Awesome-Fuzzing (⭐622)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
 *   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [LeechCore (⭐276)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
+*   [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 *   [Memflow (⭐414)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
     *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
     *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
@@ -385,7 +384,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Streamers
 
 *   [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
-*   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
+*   [xn0px90](https://twitch.tv/xn0px90) - :|: Your's Trully! First Full Time Info-Sec Qubes-OS Streamer! :|:
 
 ## Companies using Qubes OS
 
@@ -424,7 +423,7 @@ Contribution guidelines can be found [here (⭐31)](https://github.com/xn0px90/A
 
 ## Adventure Further
 
-*   Adventures start here ---> [Adventure Here! (⭐234k)](https://github.com/sindresorhus/awesome) - All the awesome list.
+*   Adventures start here ---> [Adventure Here! (⭐236k)](https://github.com/sindresorhus/awesome) - All the awesome list.
     **[⬆ back to top](#awesome-qubes-os-)**
 
 ## License

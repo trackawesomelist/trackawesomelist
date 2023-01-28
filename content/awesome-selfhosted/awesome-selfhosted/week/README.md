@@ -12,8 +12,13 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Alltube (⭐2.7k)](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl, a program to download videos and audio from more than 100 websites. `GPL-3.0` `PHP`
 
+### Software / Communication - Custom Communication Systems
+
+*   [WBO (⭐1.5k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
+
 ### Software / Communication - Social Networks and Forums
 
+*   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.7k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 *   [Libreddit (⭐4k)](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
 
 ### Software / Communication - XMPP - Web Clients
@@ -51,6 +56,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Dokku](https://dokku.com/) - An open source PAAS alternative to Heroku. ([Source Code (⭐24k)](https://github.com/dokku/dokku)) `MIT` `Docker/Shell/Go`
 
+### Software / Software Development - Project Management
+
+*   [Gitblit](https://www.gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code (⭐2.1k)](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`
+
 ### Software / Status / Uptime pages
 
 *   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐1.9k)](https://github.com/cstate/cstate)) `MIT` `Go`
@@ -58,6 +67,43 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Ticketing
 
 *   [Helpy (⭐2.3k)](https://github.com/helpyio/helpy) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io/en)) `MIT` `Ruby`
+
+### List of Licenses / Wikis
+
+*   `0BSD` - [BSD Zero-Clause Licence](https://spdx.org/licenses/0BSD.html)
+*   `AAL` - [Attribution Assurance License](https://spdx.org/licenses/AAL.html)
+*   `AGPL-3.0` - [GNU Affero General Public License 3.0](https://spdx.org/licenses/AGPL-3.0.html)
+*   `Apache-2.0` - [Apache, Version 2.0](https://spdx.org/licenses/Apache-2.0.html)
+*   `APSL-2.0` - [Apple Public Source License, Version 2.0](https://spdx.org/licenses/APSL-2.0.html)
+*   `Artistic-2.0` - [Artistic License Version 2.0](https://spdx.org/licenses/Artistic-2.0.html)
+*   `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://spdx.org/licenses/BSD-2-Clause.html)
+*   `BSD-2-Clause-FreeBSD` - [BSD 2-Clause FreeBSD License](https://spdx.org/licenses/BSD-2-Clause-FreeBSD.html)
+*   `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://spdx.org/licenses/BSD-3-Clause.html)
+*   `BSD-3-Clause-Attribution` - [BSD with attribution](https://spdx.org/licenses/BSD-3-Clause-Attribution.html)
+*   `CC-BY-SA-3.0` - [Creative Commons Attribution-ShareAlike 3.0 License](https://spdx.org/licenses/CC-BY-SA-3.0.html)
+*   `CC-BY-SA-4.0` - [Creative Commons Attribution-ShareAlike 4.0 License](https://spdx.org/licenses/CC-BY-SA-4.0.html)
+*   `CC0-1.0` - [Public Domain/Creative Common Zero 1.0](https://spdx.org/licenses/CC0-1.0.html)
+*   `CDDL-1.0` - [Common Development and Distribution License](https://spdx.org/licenses/CDDL-1.0.html)
+*   `CPAL-1.0` - [Common Public Attribution License Version 1.0](https://spdx.org/licenses/CPAL-1.0.html)
+*   `ECL-2.0` - [Educational Community License, Version 2.0](https://spdx.org/licenses/ECL-2.0.html)
+*   `EPL-1.0` - [Eclipse Public License, Version 1.0](https://spdx.org/licenses/EPL-1.0.html)
+*   `EPL-2.0` - [Eclipse Public License, Version 2.0](https://spdx.org/licenses/EPL-2.0.html)
+*   `EUPL-1.2` - [European Union Public License 1.2](https://spdx.org/licenses/EUPL-1.2.html)
+*   `GPL-2.0` - [GNU General Public License 2.0](https://spdx.org/licenses/GPL-2.0.html)
+*   `GPL-3.0` - [GNU General Public License 3.0](https://spdx.org/licenses/GPL-3.0.html)
+*   `ISC` - [Internet Systems Consortium License](https://spdx.org/licenses/ISC.html)
+*   `LGPL-2.1` - [Lesser General Public License 2.1](https://spdx.org/licenses/LGPL-2.1.html)
+*   `LGPL-3.0` - [Lesser General Public License 3.0](https://spdx.org/licenses/LGPL-3.0.html)
+*   `MIT` - [MIT License](https://spdx.org/licenses/MIT.html)
+*   `MPL-1.1` - [Mozilla Public License Version 1.1](https://spdx.org/licenses/MPL-1.1.html)
+*   `MPL-2.0` - [Mozilla Public License](https://spdx.org/licenses/MPL-2.0.html)
+*   `OSL-3.0` - [Open Software License 3.0](https://spdx.org/licenses/OSL-3.0.html)
+*   `Sendmail` - [Sendmail License](https://spdx.org/licenses/Sendmail.html)
+*   `Ruby` - [Ruby License](https://spdx.org/licenses/Ruby.html)
+*   `Unlicense` - [The Unlicense](https://spdx.org/licenses/Unlicense.html)
+*   `WTFPL` - [Do What the Fuck You Want to Public License](https://spdx.org/licenses/WTFPL.html)
+*   `Zlib` - [Zlib/libpng License](https://spdx.org/licenses/Zlib.html)
+*   `ZPL-2.0` - [Zope Public License 2.0](https://spdx.org/licenses/ZPL-2.0.html)
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
@@ -371,7 +417,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Groupware
 
-*   [Kopano](https://kopano.com/) - Groupware suite including e-mail, calendars, tasks, todos and notes. Featuring a modern WebApp, DeskApp and mobile access over Z-Push/ActiveSync. ([Demo](https://demo.kopano.com), [Source Code](https://stash.kopano.io/repos?visibility=public)) `AGPL-3.0` `C/Python/PHP`
 *   [SOGo](https://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and Web interface. ([Demo](https://demo.sogo.nu/SOGo/), [Source Code (⭐1.4k)](https://github.com/inverse-inc/sogo)) `LGPL-2.1` `Objective-C`
 
 ### Software / Learning and Courses
@@ -588,7 +633,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Social Networks and Forums
 
 *   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐410)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
-*   [Isso](https://posativ.org/isso/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.7k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 
 ### Software / Software Development - Low Code
 
@@ -600,7 +644,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Archivematica](https://www.archivematica.org/en/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](https://sandbox.archivematica.org/administration/accounts/login/), [Source Code (⭐341)](https://github.com/artefactual/archivematica)) `AGPL-3.0-only` `Python`
+*   [Archivematica](https://www.archivematica.org/en/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](https://sandbox.archivematica.org/administration/accounts/login/), [Source Code (⭐341)](https://github.com/artefactual/archivematica)) `AGPL-3.0` `Python`
 *   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/demo), [Source Code (⭐275)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
 *   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐316)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 
@@ -688,16 +732,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Peppermint](https://peppermint.sh/) - A simple ticket management tool with support for logs and multi-deployment. ([Source Code (⭐491)](https://github.com/Peppermint-Lab/peppermint)) `AGPL-3.0` `Docker`
 
-### List of Licenses / Wikis
-
-*   `BSD-2-Clause-FreeBSD` - [BSD 2-Clause FreeBSD License](http://www.freebsd.org/copyright/freebsd-license/)
-*   `CC0-1.0` - [Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0/)
-*   `EUPL-1.2` - [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
-*   `GPL-1.0` - [GNU General Public License](https://www.gnu.org/licenses/old-licenses/gpl-1.0)
-*   `ISC` - [Internet Systems Consortium License](https://www.isc.org/licenses/)
-*   `Sendmail` - [Sendmail License](https://www.proofpoint.com/us/products/sendmail-sentrion/)
-*   `Ruby` - [Ruby License](http://www.ruby-lang.org/en/about/license.txt)
-
 ### External Links / Wikis
 
 *   Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted/), [IndieWeb](https://indieweb.org/)
@@ -708,7 +742,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Novu](https://novu.co/) - Self-hosted / cloud notification infrastructure for developers. ([Source Code (⭐18k)](https://github.com/novuhq/novu/)) `MIT` `Docker/Nodejs`
 *   [Revolt](https://revolt.chat/) - Revolt is a user-first chat platform built with modern web technologies. ([Source Code (⭐1.6k)](https://github.com/revoltchat/revolt)) `AGPL-3.0` `Rust`
-*   [WBO (⭐1.5k)](https://github.com/lovasoa/whitebophir#wbo) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -789,7 +822,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Recipe Management
 
 *   [Groceri.es](https://groceri.es/) - Web-based application to manage your recipes and plan your meals ahead. groceri.es keeps track of your menu plans and generates a groceries list for you. ([Source Code (⭐297)](https://github.com/juriansluiman/groceri.es)) `MIT` `Docker/Python`
-*   [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Demo](https://mealie-demo.hay-kot.dev/), [Source Code (⭐2.9k)](https://github.com/hay-kot/mealie)) `MIT` `Python`
+*   [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Demo](https://demo.mealie.io/login), [Source Code (⭐2.9k)](https://github.com/hay-kot/mealie)) `MIT` `Python`
 *   [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code (⭐3.7k)](https://github.com/vabene1111/recipes/)) `MIT` `Python`
 
 ### Software / Software Development - IDE & Tools
@@ -810,7 +843,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / E-commerce
 
 *   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐480)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
-*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.getsaleor.com/), [Source Code (⭐18k)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
+*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐18k)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
 
 ### Software / Games
 
@@ -1657,7 +1690,6 @@ A list of Free Software network services and web applications which can be hoste
 ### List of Licenses / Wikis
 
 *   `BSD-4-Clause` - [BSD 4-clause "Original"](https://spdx.org/licenses/BSD-4-Clause.html)
-*   `ECL-2.0` - [Educational Community License, Version 2.0](https://opensource.org/licenses/ECL-2.0)
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
@@ -1681,7 +1713,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code (⭐6.7k)](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`
 *   [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](https://demo.prestashop.com/), [Source Code (⭐6.9k)](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`
 *   [Pretix](https://pretix.eu/) - Django based ticket sales platform for events. ([Source Code](https://github.com/pretix)) `Apache-2.0` `Python`
-*   [Shuup](https://www.shuup.com/) - Django powered fully customizable open source e-commerce framework for small and large sites. ([Source Code (⭐2k)](https://github.com/shuup/shuup)) `AGPL-3.0` `Python`
 *   [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code (⭐4.5k)](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby`
 *   [Spree Commerce](https://spreecommerce.org) - Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ([Demo](https://new-ux.spreecommerce.org/), [Source Code (⭐12k)](https://github.com/spree/spree)) `BSD-3-Clause` `Ruby`
 *   [Sylius](https://sylius.com) - Symfony2 powered open source full-stack platform for eCommerce. ([Demo](https://sylius.com/try/), [Source Code (⭐7.2k)](https://github.com/Sylius/Sylius)) `MIT` `PHP`
@@ -1819,7 +1850,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Blogging Platforms
 
 *   [Chyrp Lite](https://chyrplite.net) - Extra-awesome, extra-lightweight blog engine. ([Source Code (⭐206)](https://github.com/xenocrat/chyrp-lite)) `BSD-3-Clause` `PHP`
-*   [PluXml](https://pluxml.org) - XML-based blog/CMS platform. ([Source Code (⭐193)](https://github.com/pluxml/PluXml)) `GPL-1.0` `PHP`
+*   [PluXml](https://pluxml.org) - XML-based blog/CMS platform. ([Source Code (⭐193)](https://github.com/pluxml/PluXml)) `GPL-3.0` `PHP`
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Servers
 
@@ -1896,12 +1927,12 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Conference Management
 
-*   [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference and event websites built on top of Drupal. ([Source Code](https://git.drupalcode.org/project/cod)) `GPL-1.0` `PHP`
+*   [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference and event websites built on top of Drupal. ([Source Code](https://git.drupalcode.org/project/cod)) `GPL-2.0` `PHP`
 *   [osem](https://osem.io/) - Event management tailored to free Software conferences. ([Source Code (⭐773)](https://github.com/openSUSE/osem)) `MIT` `Ruby`
 
 ### Software / Content Management Systems (CMS)
 
-*   [CMS Made Simple](https://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL-1.0` `PHP`
+*   [CMS Made Simple](https://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL-2.0` `PHP`
 *   [Cockpit](https://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code (⭐5.3k)](https://github.com/agentejo/cockpit)) `MIT` `PHP`
 *   [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code (⭐718)](https://github.com/concrete5/concrete5)) `MIT` `PHP`
 *   [CouchCMS](https://www.couchcms.com/) - Simple Open-Source CMS for designers. ([Source Code (⭐314)](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`
@@ -2054,14 +2085,13 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Project Management
 
-*   [Gitblit](https://gitblit.github.io/gitblit/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code (⭐2.1k)](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`
 *   [GitLab](https://about.gitlab.com) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby`
 *   [Gitlist](https://gitlist.org/) - Web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source Code (⭐2.9k)](https://github.com/klaussilveira/gitlist)) `BSD-3-Clause` `PHP`
 *   [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. ([Source Code (⭐8.2k)](https://github.com/sitaramc/gitolite)) `GPL-2.0` `Perl`
 *   [Lavagna](https://lavagna.io) - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. ([Source Code (⭐602)](https://github.com/digitalfondue/lavagna)) `GPL-3.0` `Java`
 *   [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. ([Demo](http://demo.redmine.org/), [Source Code](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`
 *   [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python`
-*   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Source Code (⭐973)](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
+*   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Source Code (⭐973)](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
 
 ### Software / Software Development - Testing
 
@@ -2087,21 +2117,9 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [PmWiki](https://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites. `GPL-3.0` `PHP`
 *   [TiddlyWiki](https://tiddlywiki.com/) - Reusable non-linear personal web notebook. ([Source Code (⭐7.1k)](https://github.com/Jermolene/TiddlyWiki5)) `BSD-3-Clause` `Nodejs`
-*   [TWiki](https://twiki.org/) - TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal. ([Demo](https://twiki.org/cgi-bin/view/Sandbox/WebHome), [Source Code](http://svn.twiki.org/svn/twiki/)) `GPL-1.0` `Perl`
+*   [TWiki](https://twiki.org/) - TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal. ([Demo](https://twiki.org/cgi-bin/view/Sandbox/WebHome), [Source Code](http://svn.twiki.org/svn/twiki/)) `GPL-2.0` `Perl`
 *   [WiKiss](https://wikiss.tuxfamily.org/) - Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn\&path=%2F\&sc=0)) `GPL-2.0` `PHP`
 *   [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://playground.xwiki.org), [Source Code (⭐768)](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java`
-
-### List of Licenses / Wikis
-
-*   `Apache-2.0` - [Apache, Version 2.0](https://www.apache.org/licenses/)
-*   `Artistic-2.0` - [Artistic License Version 2.0](https://opensource.org/licenses/Artistic-2.0)
-*   `CPAL-1.0` - [Common Public Attribution License Version 1.0](https://opensource.org/licenses/CPAL-1.0)
-*   `GPL-3.0` - [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
-*   `LGPL-2.1` - [Lesser General Public License 2.1](https://opensource.org/licenses/LGPL-2.1)
-*   `LGPL-3.0` - [Lesser General Public License 3.0](https://opensource.org/licenses/LGPL-3.0)
-*   `MIT` - [MIT License](https://opensource.org/licenses/MIT)
-*   `Unlicense` - [The Unlicense](https://unlicense.org/)
-*   `ZPL-2.0` - [Zope Public License 2.0](https://opensource.org/licenses/ZPL-2.0)
 
 ### External Links / Wikis
 
@@ -2128,10 +2146,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Automation
 
 *   [StackStorm](https://stackstorm.com) - StackStorm (aka *IFTTT for Ops*) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ([Source Code (⭐5.3k)](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`
-
-### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
-
-*   [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) - Open source CalDAV/CardDAV web client implementation. ([Demo](https://www.inf-it.com/infcloud/), [Source Code](https://www.inf-it.com/InfCloud_0.13.1.zip)) `AGPL-3.0` `Javascript`
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -2214,7 +2228,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐172)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐176)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
 
@@ -2293,7 +2307,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Feed Readers
 
 *   [Leed (⭐189)](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`
-*   [Leselys (⭐231)](https://github.com/toxinu/leselys) - Your very elegant RSS reader. `AGPL-3.0` `Python`
 *   [Miniflux](https://miniflux.app/) - Miniflux is a minimalist and open source news reader, written in Go and PostgreSQL. ([Source Code (⭐4.6k)](https://github.com/miniflux/v2)) `Apache-2.0` `Go`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
@@ -2561,10 +2574,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
 
-### Software / Communication - Custom Communication Systems
-
-*   [Chaskiq](https://chaskiq.io) - Full featured livechat, helpcenter and CRM as an alternative to Intercom & Drift, Crisp and others. ([Source Code (⭐2.3k)](https://github.com/chaskiq/chaskiq)) `AGPL-3.0` `Ruby`
-
 ### Software / Communication - SIP
 
 *   [Yeti-Switch](https://yeti-switch.org/) - Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API. ([Demo](https://yeti-switch.org/demo.html), [Source Code](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`
@@ -2763,7 +2772,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [Tabby (⭐61)](https://github.com/bertvandepoel/tabby) - A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what. `AGPL-3.0-only` `PHP`
+*   [Tabby (⭐61)](https://github.com/bertvandepoel/tabby) - A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what. `AGPL-3.0` `PHP`
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -2978,12 +2987,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Note-taking & Editors
 
 *   [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. ([Source Code (⭐11k)](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
-
-### List of Licenses / Wikis
-
-*   `EPL-2.0` - [Eclipse Public License, Version 2.0](https://www.eclipse.org/legal/epl-v20.html)
-*   `GFDL-1.3-only` - [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-only.html)
-*   `GFDL-1.3-or-later` - [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-or-later.html)
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
@@ -3308,10 +3311,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [OnTrack (⭐627)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
 
-### List of Licenses / Wikis
-
-*   `ZPL-1.2` - [Zope Public License 1.2](http://zpl.pub/page/zplv12)
-
 ## [Oct 28 - Nov 03, 2019](/content/2019/43/README.md)
 
 ### Software / Media Streaming - Video Streaming
@@ -3420,10 +3419,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Custom Communication Systems
 
 *   [Syndie](https://syndie.de) - Syndie is a libre system for operating distributed forums. `CC0-1.0` `Java`
-
-### Software / Communication - Email - Mail Transfer Agents
-
-*   [Qmail](https://cr.yp.to/qmail.html) - Secure Sendmail replacement. ([Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0-1.0` `C`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -3614,10 +3609,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Trilium Notes (⭐19k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
 
-### List of Licenses / Wikis
-
-*   `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
-
 ## [Feb 25 - Mar 03, 2019](/content/2019/8/README.md)
 
 ### Software / Bookmarks and Link Sharing
@@ -3690,10 +3681,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
 
-### List of Licenses / Wikis
-
-*   `BSD-3-Clause-Attribution` - [BSD with attribution](https://fedoraproject.org/wiki/Licensing/BSD_with_Attribution)
-
 ## [Nov 12 - Nov 18, 2018](/content/2018/46/README.md)
 
 ### Software / Personal Dashboards
@@ -3704,7 +3691,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐196)](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
+*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐196)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
 
 ### Software / Automation
 
@@ -3795,13 +3782,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Software Development - Project Management
 
 *   [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable GitHub clone powered by Scala. ([Source Code (⭐8.8k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
-
-### List of Licenses / Wikis
-
-*   `GFDL-1.1-only` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-only.html)
-*   `GFDL-1.1-or-later` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-or-later.html)
-*   `GFDL-1.2-only` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-only.html)
-*   `GFDL-1.2-or-later` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-or-later.html)
 
 ## [Sep 17 - Sep 23, 2018](/content/2018/38/README.md)
 
@@ -3957,7 +3937,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Beehive (⭐5.9k)](https://github.com/muesli/beehive) - Flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters. `AGPL-3.0` `Go`
 *   [Headphones (⭐3.2k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
 *   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐8.1k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`
 
@@ -4049,10 +4028,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Gitit (⭐2k)](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`
 *   [Gollum (⭐13k)](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
 
-### List of Licenses / Wikis
-
-*   `AGPL-3.0-only` - [GNU Affero General Public License 3.0 only](https://spdx.org/licenses/AGPL-3.0-only.html)
-
 ## [Jan 01 - Jan 07, 2018](/content/2018/1/README.md)
 
 ### List of Licenses / Wikis
@@ -4092,7 +4067,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Webmail Clients
 
 *   [IMP](https://www.horde.org/apps/imp/) - HORDE application that provides webmail access to IMAP and POP3 accounts. ([Demo](http://demo.horde.org/), [Source Code](https://www.horde.org/download/imp)) `GPL-2.0` `PHP`
-*   [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more. ([Source Code (⭐8.7k)](https://github.com/mailpile/Mailpile)) `AGPL-3.0` `Python`
 
 ### Software / Communication - IRC
 
@@ -4226,23 +4200,8 @@ A list of Free Software network services and web applications which can be hoste
 
 ### List of Licenses / Wikis
 
-*   `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
-*   `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
-*   `APSL-2.0` - [Apple Public Source License, Version 2.0](https://opensource.org/licenses/APSL-2.0)
 *   `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
-*   `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://opensource.org/licenses/BSD-2-Clause)
-*   `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause)
-*   `CC-BY-SA-3.0` - [Creative Commons Attribution-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-sa/3.0/)
-*   `CC-BY-SA-4.0` - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
-*   `CDDL-1.0` - [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
-*   `EPL-1.0` - [Eclipse Public License, Version 1.0](https://www.eclipse.org/legal/epl-v10.html)
-*   `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 *   `IPL-1.0` - [IBM Public License](https://opensource.org/licenses/IPL-1.0)
-*   `MPL-1.1` - [Mozilla Public License Version 1.1](https://www.mozilla.org/media/MPL/1.1/index.txt)
-*   `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
-*   `OSL-3.0` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
-*   `WTFPL` - [Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
-*   `Zlib` - [Zlib/libpng License](https://opensource.org/licenses/Zlib)
 
 ### External Links / Wikis
 
