@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Jan 28, 2023](/content/2023/01/28/README.md)
+
+### Extensions
+
+*   [UseSIWE (⭐11)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+
 ## [Jan 19, 2023](/content/2023/01/19/README.md)
 
 ### Articles
@@ -28,7 +34,7 @@
 
 ### Boilerplates
 
-*   [Next-Fire-Auth (⭐0)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+*   [Next-Fire-Auth (⭐1)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
@@ -762,7 +768,3 @@
 ### Extensions
 
 *   [Next Routes (⭐2.4k)](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
-
-### Apps
-
-*   [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.

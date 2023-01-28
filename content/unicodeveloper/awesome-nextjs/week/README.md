@@ -6,6 +6,12 @@
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Extensions
+
+*   [UseSIWE (⭐11)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Articles
@@ -17,7 +23,7 @@
 ### Boilerplates
 
 *   [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
-*   [Next-Fire-Auth (⭐0)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+*   [Next-Fire-Auth (⭐1)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 *   [NextJS Chargebee Subscription (⭐0)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
@@ -663,7 +669,3 @@
 ### Extensions
 
 *   [Next Routes (⭐2.4k)](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
-
-### Apps
-
-*   [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.

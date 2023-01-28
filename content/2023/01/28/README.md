@@ -1,12 +1,68 @@
 # Awesome List Updates on Jan 28, 2023
 
-7 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+### Planning Coding Resources / Other
+
+*   [global-indicators (⭐36)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
+
+## [2. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+
+### AI
+
+*   [beehive.lua (⭐9)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
+
+## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+### Extensions
+
+*   [UseSIWE (⭐11)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Utilities
+
+*   [drie (⭐29)](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
+
+## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+
+### Analyzers - API / Meetups
+
+*   [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
+
+## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Learning Platforms:
+
+- Website: <https://code.org/>
+
+
+
+### Newsletters:
+
+- Website: [Smart Programming 101](http://newsletters.michaelasiedu.com/)
+
+  Topics: Software Development, React.js , Web3.0, Open Source and more .
+
+
+
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Language / Diagnostics
+
+*   [niuiic/translate.nvim (⭐2)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+
+### Project / Diagnostics
+
+*   [jinzhongjia/PS\_manager.nvim (⭐2)](https://github.com/jinzhongjia/PS_manager.nvim) - Multi-project management, switch pwd automatically.
+
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Video
 
@@ -16,7 +72,7 @@
 
 *   [comex/rust-shlex (⭐51)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] — Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -57,25 +113,25 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Inbox: Music and Audio projects / Text-related Generative Tools
 
 *   [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
 
-## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Exploitation Tools / Unikernel-like
 
 *   [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 
-## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [12. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Java / React
 
 *   [graphql-orchestrator-java (⭐30)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -126,7 +182,7 @@
 *   `Zlib` - [Zlib/libpng License](https://spdx.org/licenses/Zlib.html)
 *   `ZPL-2.0` - [Zope Public License 2.0](https://spdx.org/licenses/ZPL-2.0.html)
 
-## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 

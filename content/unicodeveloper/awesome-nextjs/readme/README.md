@@ -16,7 +16,7 @@
 
 [Next.js (⭐99k)](https://github.com/vercel/next.js): The React Framework.
 
-*List inspired by the [awesome (⭐234k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐753)](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome (⭐236k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐753)](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 
@@ -130,7 +130,7 @@
 *   [Sitemap generator for NextJS & StrAPI (⭐6)](https://github.com/stovv/next-strapi-sitemap) - 🦾 An additional server on express that runs alongside nextjs and regenerates sitemap ( with index sitemap ) and robots.txt files on request from STR API.
 *   [superplate (⭐2.3k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 *   [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
-*   [Next-Fire-Auth (⭐0)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+*   [Next-Fire-Auth (⭐1)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 *   [NextJS Chargebee Subscription (⭐0)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## Extensions
@@ -162,6 +162,7 @@
 *   [next-joi (⭐111)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
 *   [next-transpile-modules (⭐1.1k)](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node\_modules. Useful for monorepos.
 *   [Destack for Next.js (⭐758)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+*   [UseSIWE (⭐11)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
 ## Apps
 
@@ -169,7 +170,6 @@
 *   [Feednext (⭐242)](https://github.com/feednext/feednext) - An open source social media application.
 *   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 *   [Relate (⭐329)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
-*   [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
 *   [Password (⭐111)](https://github.com/dotcypress/password) - One password, right way.
 *   [Next Todos (⭐123)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 *   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.

@@ -6,6 +6,22 @@ Awesome Web Development Resources.
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / Weekly / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
+
+### Learning Platforms:
+
+- Website: <https://code.org/>
+
+
+
+### Newsletters:
+
+- Website: [Smart Programming 101](http://newsletters.michaelasiedu.com/)
+
+  Topics: Software Development, React.js , Web3.0, Open Source and more .
+
+
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Remote Jobs:
@@ -113,14 +129,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://www.clipstill.com>
-
-
-
-### Newsletters:
-
-- Website: [Smart Programming 101](https://www.michaelasiedu.com/newsletter)
-
-  Topics: Software development.
 
 
 

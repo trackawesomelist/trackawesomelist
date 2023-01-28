@@ -6,6 +6,22 @@ Awesome Web Development Resources.
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Jan 28, 2023](/content/2023/01/28/README.md)
+
+### Learning Platforms:
+
+- Website: <https://code.org/>
+
+
+
+### Newsletters:
+
+- Website: [Smart Programming 101](http://newsletters.michaelasiedu.com/)
+
+  Topics: Software Development, React.js , Web3.0, Open Source and more .
+
+
+
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
 ### Remote Jobs:
@@ -119,14 +135,6 @@ Awesome Web Development Resources.
 - Website: <https://railway.app/>
 
   Description: **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.
-
-
-
-### Newsletters:
-
-- Website: [Smart Programming 101](https://www.michaelasiedu.com/newsletter)
-
-  Topics: Software development.
 
 
 
