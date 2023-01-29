@@ -6,6 +6,12 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 [ Daily / [Weekly](/content/terkelg/awesome-creative-coding/week/README.md) / [Overview](/content/terkelg/awesome-creative-coding/readme/README.md) ]
 
+## [Jan 29, 2023](/content/2023/01/29/README.md)
+
+### Web Programming • Libraries
+
+*   [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).
+
 ## [Jan 21, 2023](/content/2023/01/21/README.md)
 
 ### Online Books

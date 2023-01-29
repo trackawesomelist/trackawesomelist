@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Jan 29, 2023](/content/2023/01/29/README.md)
+
+### Resources / Ironsworn
+
+*   [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
+
 ## [Jan 26, 2023](/content/2023/01/26/README.md)
 
 ### Tools / Ironsworn

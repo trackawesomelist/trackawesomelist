@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 29, 2023](/content/2023/01/29/README.md)
+
+### (requires Neovim 0.5)
+
+*   [DNLHC/glance.nvim (⭐238)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
+
 ## [Jan 28, 2023](/content/2023/01/28/README.md)
 
 ### Language / Diagnostics

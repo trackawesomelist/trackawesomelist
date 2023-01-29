@@ -146,6 +146,7 @@ You can find them listed on the [Neovim wiki (⭐62k)](https://github.com/neovim
 *   [MrcJkb/haskell-tools.nvim (⭐158)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 *   [ranjithshegde/ccls.nvim (⭐37)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 *   [idanarye/nvim-buffls (⭐4)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
+*   [DNLHC/glance.nvim (⭐238)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
 
 ##### LSP Installer
 

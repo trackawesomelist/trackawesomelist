@@ -12,6 +12,10 @@ An awesome list of awesome Ironsworn projects
 
 *   [Ironsworn and Starforged for Foundry VTT (⭐50)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
 
+### Resources / Ironsworn
+
+*   [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
+
 ### Hacks and homebrew / Ironsworn
 
 *   [Ironsworn: Reign](https://www.drivethrurpg.com/product/419256/Ironsworn-Reign) - Settlement mechanics for Ironsworn

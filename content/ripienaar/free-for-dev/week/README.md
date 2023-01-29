@@ -24,6 +24,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [pagerly.io](https://pagerly.io/) -  Manage oncalls on Slack  (integrates with Pagerduty, OpsGenie) .Free upto 1 team (one team refers to one oncall)
 
+### Forms
+
+*   [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.
+
 ### Miscellaneous
 
 *   [Tiledesk](https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget) to WhatsApp. Free plan with unlimited chatbots.
@@ -3470,7 +3474,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Data Visualization on Maps
 
 *   [carto.com](https://carto.com/) — Create maps and geospatial APIs from your data and public data.
-*   [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data.
 *   [graphhopper.com](https://www.graphhopper.com/) A free package for developers is offered for Routing, Route Optimization, Distance Matrix, Geocoding, Map Matching.
 *   [here](https://developer.here.com/) — APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
 *   [opencagedata.com](https://opencagedata.com) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day.

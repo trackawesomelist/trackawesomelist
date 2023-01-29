@@ -6,6 +6,12 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Jan 29, 2023](/content/2023/01/29/README.md)
+
+### Marketing
+
+*   [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
+
 ## [Jan 20, 2023](/content/2023/01/20/README.md)
 
 ### Flow-based programming

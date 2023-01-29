@@ -91,6 +91,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 *   [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
 *   [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
+*   [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
 
 ## Online database creator apps
 

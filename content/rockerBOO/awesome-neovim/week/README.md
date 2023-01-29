@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
+### (requires Neovim 0.5)
+
+*   [DNLHC/glance.nvim (⭐238)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
+
 ### Language / Diagnostics
 
 *   [niuiic/translate.nvim (⭐2)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
