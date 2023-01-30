@@ -6,6 +6,13 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Inbox: Music and Audio projects / Text-related Generative Tools
+
+*   [lucidrains/musiclm-pytorch (⭐354)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+*   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐141)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### The Generative AI Area: history, maps, and definitions

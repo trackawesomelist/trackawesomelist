@@ -6,6 +6,16 @@ Awesome Web Development Resources.
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Jan 30, 2023](/content/2023/01/30/README.md)
+
+### UI Components:
+
+- Website: [Flowbite](https://flowbite.com/)
+
+  Description: Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements
+
+
+
 ## [Jan 28, 2023](/content/2023/01/28/README.md)
 
 ### Learning Platforms:

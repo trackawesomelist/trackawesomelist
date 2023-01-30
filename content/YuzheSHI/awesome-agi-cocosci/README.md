@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 30, 2023](/content/2023/01/30/README.md)
+
+### Meta-Level Considerations / Rationality
+
+*   [Foundations of intuitive power analyses in children and adults](https://eccl.mit.edu/s/Pelz_Foundations-of-intuitive-power-analyses-in-children-and-adults.pdf) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=4370839893505978405\&hl=en\&as_sdt=0,5)]. Evidences support that people have some of the foundations for 'intuitive power analyses', which help people use intuitive statistical reasoning and metacognitive strategies to estimate how much information they might need to solve different discrimination problems.
+
 ## [Jan 25, 2023](/content/2023/01/25/README.md)
 
 ### Knowledge Management

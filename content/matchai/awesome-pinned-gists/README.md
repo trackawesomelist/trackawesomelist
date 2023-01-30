@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/matchai/awesome-pinned-gists/week/README.md) / [Overview](/content/matchai/awesome-pinned-gists/readme/README.md) ]
 
-## [Jan 29, 2023](/content/2023/01/29/README.md)
+## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### User Defined
 

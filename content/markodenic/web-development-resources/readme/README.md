@@ -22,7 +22,7 @@ Please read [`contributing guidelines`](https://github.com/markodenic/web-develo
 
 ***
 
-Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
+Initially created by [Marko](https://markodenic.com) at [Web Development Resources](https://markodenic.com/free-web-development-resources/).
 
 ## Table of Contents
 
@@ -577,13 +577,14 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 
 ## UI Components:
 
-| Website                                  | Description                                                                                        |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages |
-| [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                      |
-| [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                 |
-| [UI Hut](https://www.uihut.com/home)     | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..                 |
-| [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                          |
+| Website                                  | Description                                                                                         |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
+| [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages  |
+| [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
+| [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                  |
+| [UI Hut](https://www.uihut.com/home)     | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..                  |
+| [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
 
 [⬆ back to top](#table-of-contents)
 

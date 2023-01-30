@@ -6,7 +6,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 [ Daily / [Weekly](/content/terkelg/awesome-creative-coding/week/README.md) / [Overview](/content/terkelg/awesome-creative-coding/readme/README.md) ]
 
-## [Jan 29, 2023](/content/2023/01/29/README.md)
+## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Web Programming • Libraries
 

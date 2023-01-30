@@ -1,0 +1,211 @@
+# Awesome List Updates on Jan 30 - Feb 05, 2023
+
+16 awesome lists updated this week.
+
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+
+
+
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Meta-Level Considerations / Rationality
+
+*   [Foundations of intuitive power analyses in children and adults](https://eccl.mit.edu/s/Pelz_Foundations-of-intuitive-power-analyses-in-children-and-adults.pdf) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=4370839893505978405\&hl=en\&as_sdt=0,5)]. Evidences support that people have some of the foundations for 'intuitive power analyses', which help people use intuitive statistical reasoning and metacognitive strategies to estimate how much information they might need to solve different discrimination problems.
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Database
+
+*   [Kvrocks (⭐1.9k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
+
+## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+
+### Data Manipulation / Data Frames
+
+*   [polars (⭐13k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
+
+## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+
+### Web Feed Specifications / Specification Converters
+
+*   [RSS/Atom to JSONFeed Converter](https://feed2json.org/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
+*   [rss to json (⭐138)](https://github.com/nasa8x/rss-to-json) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nasa8x/rss-to-json)
+*   [rsscrape (⭐13)](https://github.com/trbznk/rsscrape) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/trbznk/rsscrape)
+
+### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+
+*   [RSS feed to JSON API](https://rss-to-json-serverless-api.vercel.app/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
+
+### Apps / Outline Processor Markup Language
+
+*   [Artykul](https://artykul.org/) <sup>[1274](https://t.me/s/aboutrss/1274)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://apps.apple.com/app/id1618798027)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/id1618798027)
+
+### Hosted Readers / Outline Processor Markup Language
+
+*   [RSS Brain](https://rssbrain.com/) <sup>[1289](https://t.me/s/aboutrss/1289)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
+*   [Yakread](https://yakread.com/) <sup>[1288](https://t.me/s/aboutrss/1288)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
+
+### Self Hosted Readers / Outline Processor Markup Language
+
+*   [Orpinton News (⭐75)](https://github.com/frysztak/orpington-news) <sup>[1267](https://t.me/s/aboutrss/1267)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/frysztak/orpington-news)
+*   [Informate.club](https://infomate.club/) <sup>[1283](https://t.me/s/aboutrss/1283)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vas3k/infomate.club)
+
+### RSSHub / Outline Processor Markup Language
+
+*   <https://rsshub.feeded.xyz/> by [胜之不易](https://feeded.xyz/rsshub%e6%9c%8d%e5%8a%a1%e5%99%a8/) <sup>[70](https://t.me/s/aboutrss/70), [1284](https://t.me/s/aboutrss/1284)</sup> ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frsshub.feeded.xyz)
+
+### TTRSS / Outline Processor Markup Language
+
+*   <https://ttrss.slarker.me> by [Slark](https://slarker.me/rss-service/) <sup>[1268](https://t.me/s/aboutrss/1268)</sup> ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Fttrss.slarker.me)
+
+### FreshRSS / Outline Processor Markup Language
+
+*   <https://freshrss.feeded.xyz/> by [胜之不易](https://feeded.xyz/freshrss%e6%9c%8d%e5%8a%a1%e5%99%a8/) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Ffreshrss.feeded.xyz%2F) <sup>[1207](https://t.me/s/aboutrss/1207)</sup>
+*   <https://feed.slarker.me> by [Slark](https://slarker.me/rss-service/) <sup>[1268](https://t.me/s/aboutrss/1268)</sup> ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Ffeed.slarker.me)
+
+### Miniflux / Outline Processor Markup Language
+
+*   <https://rss.slarker.me> by [Slark](https://slarker.me/rss-service/) <sup>[1268](https://t.me/s/aboutrss/1268)</sup> ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frss.slarker.me)
+
+### 🔍 Feed Search Engines / 酷Q Plugin
+
+*   [Feedle](https://feedle.world/) <sup>[1277](https://t.me/s/aboutrss/1277)</sup>
+
+### universally from / multiple sources
+
+*   [OpenRSS](https://openrss.org/) <sup>[1275](https://t.me/s/aboutrss/1275)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### specifically from (  *a certain platform*  ) / WebArchive
+
+*   [HamsterBase](https://hamsterbase.com/) <sup>[1270](https://t.me/s/aboutrss/1270)</sup>
+
+### RSS2KINDLE / Docsify
+
+*   [Ktool](https://ktool.io/) <sup>[1291](https://t.me/s/aboutrss/1291)</sup>
+
+### RSS2WIDGET / For browser
+
+*   [Tabhub.app](https://www.tabhub.app/) <sup>[1269](https://t.me/s/aboutrss/1269)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/%E6%AF%8F%E6%97%A5%E7%9C%8B%E6%9D%BF%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5-tabhub/oimhfdhkpahmoofobemjefadcopbjbal)
+*   [烟·红](https://www.appinn.com/yan-hong-rss-reader-in-new-tab/) <sup>[1294](https://t.me/s/aboutrss/1294)</sup> ![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/%E7%83%9F-%E7%BA%A2/)
+
+### RSS2Mastodon / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+
+*   [Mastogeed](https://mastofeed.org/) <sup>[1272](https://t.me/s/aboutrss/1272)</sup>
+
+### Combine multiple feeds into one / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+
+*   [Feed Filter Maker](https://feed.janicek.co/) <sup>[1279](https://t.me/s/aboutrss/1279)</sup>
+
+### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+
+*   [FeedLand](http://docs.feedland.org/firstThings.opml) <sup>[495](https://t.me/s/aboutrss/495), [1271](https://t.me/s/aboutrss/1271)</sup>
+
+### Aggregators of Indieblogs / Crypto or Blockchain relevant
+
+*   [ooh! directory](https://ooh.directory/) <sup>[1296](https://t.me/s/aboutrss/1296)</sup>
+
+### 🔨 Blog Generator that Support RSS / Crypto or Blockchain relevant
+
+*   [Montaigne](https://montaigne.io) <sup>[1282](https://t.me/s/aboutrss/1282)</sup>
+*   [lists.sh](https://lists.sh) <sup>[1282](https://t.me/s/aboutrss/1282)</sup>
+*   [Bear](https://bearblog.dev/) <sup>[1282](https://t.me/s/aboutrss/1282)</sup>
+*   [Listed](https://listed.to) <sup>[1282](https://t.me/s/aboutrss/1282)</sup>
+*   [Hashnode](https://hashnode.com) <sup>[1282](https://t.me/s/aboutrss/1282)</sup>
+*   [xLog](https://xlog.app)
+
+### Figures / Developers / Crypto or Blockchain relevant
+
+*   Aaron Swartz <sup>[1292](https://t.me/s/aboutrss/1292)</sup>
+
+## [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+
+### Marketing
+
+*   [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
+
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Inbox: Music and Audio projects / Text-related Generative Tools
+
+*   [lucidrains/musiclm-pytorch (⭐354)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+*   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐141)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
+
+## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+
+### Web Programming • Libraries
+
+*   [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).
+
+## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Forms
+
+*   [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.
+
+## [9. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### RPG
+
+*   [OpenEnroth (⭐541)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
+
+## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Resources / Ironsworn
+
+*   [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
+
+## [11. Magictools](/content/ellisonleao/magictools/week/README.md)
+
+### Graphics / Modeling
+
+*   :moneybag: [ZBrush](https://pixologic.com/)
+
+### Ads / Voxel Editors
+
+*   [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
+
+## [12. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### UI Components:
+
+- Website: [Flowbite](https://flowbite.com/)
+
+  Description: Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements
+
+
+
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### (requires Neovim 0.5)
+
+*   [DNLHC/glance.nvim (⭐240)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
+
+### Editing Support / Diagnostics
+
+*   [\~nedia/auto-save.nvim](https://git.sr.ht/\~nedia/auto-save.nvim) - Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter.
+
+### Formatting / Diagnostics
+
+*   [\~nedia/auto-format.nvim](https://git.sr.ht/\~nedia/auto-format.nvim) - Does no formatting by itself, but sets up an autocmd to format on save, preferring null-ls over LSP client formatting.
+
+## [14. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+
+### User Defined
+
+*   [date-box (⭐1)](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
+
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [pnpm (mat2ja) (⭐0)](https://github.com/mat2ja/pnpm.plugin.zsh) - Better [pnpm](https://pnpm.io/) aliases.
+
+## [16. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+
+### Developer tools and frameworks
+
+*   [DB3 Network (⭐111)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
+
+---
+
+- Next: [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)

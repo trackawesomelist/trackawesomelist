@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
-    <a href="#"><img src="https://github.com/ellisonleao/magictools/actions/workflows/validatelinks.yml/badge.svg" alt="build"/></a>
+    <a href="#"><img src="https://github.com/ellisonleao/magictools/actions/workflows/validate-links.yml/badge.svg" alt="build"/></a>
 </p>
 
 A curated list of game development resources to make **magic** happen.
@@ -98,7 +98,6 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Libgdx Texture Packer (⭐21k)](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 *   :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 *   :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
-*   :tada: [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) - Combine multiple images into a single sprite sheet and generate a txt map of it.
 *   :money\_with\_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 *   :tada: [Tilesplit (⭐0)](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
@@ -177,7 +176,7 @@ A curated list of game development resources to make **magic** happen.
 *   :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
 *   :moneybag: [modo](https://www.foundry.com/products/modo)
 *   :free: [Clara.io](https://clara.io/)
-*   :moneybag: [ZBrush](http://pixologic.com/)
+*   :moneybag: [ZBrush](https://pixologic.com/)
 
 #### Terrain Generators
 
@@ -250,7 +249,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [GDevelop](https://gdevelop-app.com/) - An open-source, cross-platform 2D game engine designed for everyone - it's extensible, fast and easy to learn.
 *   :tada: [ggez](http://ggez.rs/) - A Rust library to create Good Games Easily.
 *   :tada: [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
-*   :tada: [Glide Engine (⭐435)](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
+*   :tada: [Glide Engine (⭐438)](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
 *   :tada: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
 *   :tada: [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
 *   :tada: [Grid (⭐682)](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
@@ -296,18 +295,16 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
 *   :tada: [openFrameworks](https://openframeworks.cc/) - An open source and free C++ toolkit for creative coding.
 *   :tada: [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
-*   :tada: [OpenXRay (⭐2.2k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+*   :tada: [OpenXRay (⭐2.3k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 *   :moneybag: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 *   :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 *   :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
 *   :tada: [Phaser](http://phaser.io/) - free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-*   :tada: [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
 *   :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 *   :tada: [Pixel Vision 8 (⭐1.5k)](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 *   :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 *   :tada: [Planck.js](http://piqnt.com/planck.js/) - 2D JavaScript physics engine for cross-platform HTML5 game development.
 *   :money\_with\_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
-*   :tada: [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 *   :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 *   :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 *   :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
@@ -459,7 +456,6 @@ A curated list of game development resources to make **magic** happen.
 
 *   :free: [Game Developer Magazine](http://www.gdcvault.com/gdmag)
 *   :free: [IndieMag](https://www.indiemag.fr/)
-*   :free: [Making Games](http://www.makinggames.biz/)
 
 ### Videos/Podcasts
 
@@ -509,7 +505,7 @@ A curated list of game development resources to make **magic** happen.
 *   [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
 *   [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 *   [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
-*   [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
+*   [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
 *   [Vungle](https://vungle.com/) - Video Ads service.
 
 ## Learn

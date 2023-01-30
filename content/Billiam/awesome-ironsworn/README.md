@@ -6,7 +6,7 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
-## [Jan 29, 2023](/content/2023/01/29/README.md)
+## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Resources / Ironsworn
 
