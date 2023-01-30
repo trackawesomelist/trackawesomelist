@@ -8,6 +8,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+
+*   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
+
 ### Inbox: Music and Audio projects / Text-related Generative Tools
 
 *   [lucidrains/musiclm-pytorch (⭐354)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
