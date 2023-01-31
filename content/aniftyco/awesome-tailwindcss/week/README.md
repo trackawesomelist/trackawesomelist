@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### UI Libraries, Components & Templates
+
+*   🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Tools
@@ -60,7 +66,7 @@
 
 ### Tools
 
-*   💼🔧 [tailwindcss-vite-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-vite-plugin (⭐17)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
@@ -117,7 +123,7 @@
 
 ### Tools
 
-*   💼🔧 [tailwindcss-webpack-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-webpack-plugin (⭐17)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -145,7 +151,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite-Boot (⭐81)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse  Template.
+*   🚀 [Vite-Boot (⭐82)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse  Template.
 
 ### Open-Source Projects
 
@@ -155,7 +161,7 @@
 
 ### Plugins
 
-*   🧬 [FormKit (⭐2.2k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [FormKit (⭐2.3k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -269,7 +275,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vitailse (⭐112)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
+*   🚀 [Vitailse (⭐114)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
@@ -328,7 +334,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Tailmin (⭐43)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
+*   📁 [Tailmin (⭐45)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
@@ -580,7 +586,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐632)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐635)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
@@ -847,7 +853,7 @@
 *   [Goodwork (⭐1.8k)](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
 *   [Statusfy (⭐2.7k)](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 *   [Todolist (⭐142)](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
-*   [LeagueStats (⭐341)](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
+*   [LeagueStats (⭐346)](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
 *   [SapperCommerce (⭐869)](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
 *   [Misiki Books (⭐14)](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 

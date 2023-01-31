@@ -6,6 +6,18 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jan 31, 2023](/content/2023/01/31/README.md)
+
+### APIs, Data and ML
+
+*   [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
+
+### Payment and Billing Integration
+
+*   [CoinMarketCap](https://coinmarketcap.com/api/) — Provides cryptocurrency market data including latest crypto and fiat currency exchange rates. Free tier offers 10K call credits/month.
+*   [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution.
+*   [Coin360](https://api.coin360.com/) — Provides cryptocurrency market data including latest crypto exchange rates and historical data
+
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### APIs, Data and ML
@@ -4206,7 +4218,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
 *   [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
 *   [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
-*   [Cloudcraft](https://cloudcraft.co/) — Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too.
+*   [Cloudcraft](https://cloudcraft.co/) — Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too. Free plan has unlimited private diagrams for single user.
 *   [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
 *   [GraphQL Inspector](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector ouputs a list of changes between two GraphQL schemas. Every change is precisely explained and marked as breaking, non-breaking or dangerous.
 *   [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source

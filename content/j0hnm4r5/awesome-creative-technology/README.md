@@ -2,9 +2,98 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 202 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 221 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/j0hnm4r5/awesome-creative-technology/week/README.md) / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [Jan 31, 2023](/content/2023/01/31/README.md)
+
+### Creative Technology
+
+- Name: [**Beaudry Interactive**](https://www.binteractive.com/)
+
+  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+
+  Keywords: themed entertainment, museum exhibitions, live shows, and branded experiences
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.binteractive.com%2F)
+
+
+- Name: [**Dome**](http://www.domecollective.com)
+
+  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+
+  Keywords: experience design studio that gathers designers, technologists, and strategists to solve unusual problems
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.domecollective.com)
+
+
+- Name: [**Intergalactic**](https://intergalactic.com)
+
+  Locations: ![Vancouver](https://img.shields.io/badge/-Vancouver-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+
+  Keywords: mobile apps, interactive screens, web development, application design and visualization
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fintergalactic.com)
+
+
+- Name: [**Left Field Labs**](https://www.leftfieldlabs.com/)
+
+  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+
+  Keywords: products, platforms, and services that solve fundamental human challenges
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.leftfieldlabs.com%2F)
+
+
+- Name: [**S1T2**](https://s1t2.com/)
+
+  Locations: ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+
+  Keywords: We create interactive experiences that immerse audiences in the future of storytelling through technology.
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fs1t2.com%2F)
+
+
+- Name: [**SOSO**](https://www.sosolimited.com/)
+
+  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat) ![San Diego](https://img.shields.io/badge/-San%20Diego-lightgrey?style=flat)
+
+  Keywords: delivering real human impact across physical and virtual space, placemaking and storytelling
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.sosolimited.com%2F)
+
+
+- Name: [**TAD**](https://technologyarchitecturedesign.com/)
+
+  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+
+  Keywords: digital experiences, technology and architecture, designed to inspire people.
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Ftechnologyarchitecturedesign.com%2F)
+
+
+
+### Museums
+
+- Name: [**Cortina Productions**](https://www.cortinaproductions.com/)
+
+  Locations: ![McLean, VA](https://img.shields.io/badge/-McLean%2C%20VA-lightgrey?style=flat)
+
+  Keywords: artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space.
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.cortinaproductions.com%2F)
+
+
+- Name: [**Northern Light Productions**](https://nlprod.com/)
+
+  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+
+  Keywords: immersive media environments, interactive experiences, or documentary films.
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fnlprod.com%2F)
+
+
 
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 

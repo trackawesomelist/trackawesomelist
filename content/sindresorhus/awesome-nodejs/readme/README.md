@@ -229,7 +229,7 @@
 *   [Bitcore (⭐4.5k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [PDFKit (⭐8.5k)](https://github.com/foliojs/pdfkit) - PDF generation library.
 *   [turf (⭐7.7k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
-*   [webcat (⭐428)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐430)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 *   [NodeOS (⭐6.8k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 *   [YodaOS (⭐1.2k)](https://github.com/yodaos-project/yodaos) - AI operating system.
 *   [Brain.js (⭐13k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
@@ -281,7 +281,7 @@
 *   [auto-install (⭐1.2k)](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
 *   [lessmd (⭐127)](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 *   [cost-of-modules (⭐2.8k)](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-*   [localtunnel (⭐15k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+*   [localtunnel (⭐16k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 *   [svg-term-cli (⭐3.1k)](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
 *   [gtop (⭐9.3k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 *   [themer (⭐5k)](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
@@ -416,8 +416,8 @@
 ### Web frameworks
 
 *   [Fastify (⭐26k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Next.js (⭐98k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
-*   [Nuxt.js (⭐42k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+*   [Next.js (⭐99k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+*   [Nuxt.js (⭐43k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
 *   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Micro (⭐10k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 *   [Koa (⭐34k)](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
@@ -431,7 +431,7 @@
 *   [seneca (⭐3.9k)](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 *   [AdonisJs (⭐13k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 *   [Moleculer (⭐5.5k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
-*   [Nest (⭐53k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐54k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 *   [TypeGraphQL (⭐7.6k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 *   [Tinyhttp (⭐2.4k)](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
 *   [Marble.js (⭐2.1k)](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
@@ -521,7 +521,7 @@
 *   [jimp (⭐12k)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 *   [probe-image-size (⭐837)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 *   [qrcode (⭐6.3k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
-*   [ImageScript (⭐463)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐470)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ### Text
 
@@ -583,7 +583,8 @@
 *   [property-validator (⭐159)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 *   [schema-inspector (⭐495)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
 *   [ajv (⭐12k)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
-*   [Superstruct (⭐6.3k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [Superstruct (⭐6.4k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [yup (⭐19k)](https://github.com/jquense/yup) - Object schema validation.
 
 ### Parsing
 
@@ -659,7 +660,7 @@
     *   [Objection.js (⭐6.9k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
     *   [TypeORM (⭐30k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
     *   [MikroORM (⭐5.5k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-    *   [Prisma (⭐28k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+    *   [Prisma (⭐29k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 *   Query builder
     *   [Knex (⭐17k)](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 *   Other
@@ -705,7 +706,7 @@
 ### Security
 
 *   [upash (⭐509)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
-*   [themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 *   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
 *   [rate-limiter-flexible (⭐2.4k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 *   [crypto-hash (⭐598)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
@@ -760,7 +761,7 @@
 *   [nodeenv (⭐1.5k)](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
 *   [nvm for Windows (⭐25k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 *   [nodenv (⭐1.9k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
-*   [fnm (⭐9.9k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐10k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ### Natural language processing
 

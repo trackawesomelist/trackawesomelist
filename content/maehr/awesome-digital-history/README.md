@@ -2,9 +2,16 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 154 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 161 · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
+
+## [Jan 31, 2023](/content/2023/01/31/README.md)
+
+### Archives and primary sources / Global
+
+*   [Fxtop.com](https://fxtop.com/) - Forex rate history since 1953.
+*   [Got Papers?](https://gotpapers.scene.org/?page_id=73) - Resources on the history of games, cracking, and the demoscene.
 
 ## [Sep 26, 2022](/content/2022/09/26/README.md)
 
@@ -101,7 +108,6 @@ Find primary sources online and learn how to research history digitally.
 ### Archives and primary sources / Global
 
 *   [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - Preserving information from early personal computer magazines.
-*   [gotpapers.scene.org](https://gotpapers.scene.org/?page_id=73) - Resources on the history of games, cracking, and the demoscene.
 *   [OpenCat](https://opencat.io/) - Search engine for libraries around the globe.
 
 ### Archives and primary sources / North America
@@ -230,7 +236,6 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Global
 
-*   [fxtop.com](https://fxtop.com/) - Forex rate history since 1953.
 *   [Internet Archive](https://archive.org/) - Non-profit library of millions of free books, movies, software, music, websites, and more.
 *   [Marxist Internet Archive](https://www.marxists.org/) - Everything you ever wanted to know about Marx (and other important socialists).
 *   [WayBackMachine](https://archive.org/web/) - Explore more than 486 billion web pages saved over time.
@@ -273,7 +278,7 @@ Find primary sources online and learn how to research history digitally.
 *   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
 *   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐486)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Scientific Writing (⭐505)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 

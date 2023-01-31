@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sindresorhus/awesome-nodejs/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-nodejs/readme/README.md) ]
 
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Packages / Data validation
+
+*   [yup (⭐19k)](https://github.com/jquense/yup) - Object schema validation.
+
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
 ### Packages / Miscellaneous
@@ -80,7 +86,7 @@
 
 ### Packages / Web frameworks
 
-*   [Next.js (⭐98k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+*   [Next.js (⭐99k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 *   [Micro (⭐10k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 *   [LoopBack (⭐4.4k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 *   [TypeGraphQL (⭐7.6k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
@@ -235,7 +241,7 @@
 ### Packages / Web frameworks
 
 *   [Fastify (⭐26k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Nuxt.js (⭐42k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+*   [Nuxt.js (⭐43k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
 *   [AdonisJs (⭐13k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 *   [Moleculer (⭐5.5k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 
@@ -261,7 +267,7 @@
 
 ### Packages / Image
 
-*   [ImageScript (⭐463)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐470)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -320,7 +326,7 @@
 
 ### Packages / Node.js management
 
-*   [fnm (⭐9.9k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐10k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -344,7 +350,7 @@
 
 ### Packages / Data validation
 
-*   [Superstruct (⭐6.3k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [Superstruct (⭐6.4k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
@@ -367,7 +373,7 @@
     *   [Objection.js (⭐6.9k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
     *   [TypeORM (⭐30k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
     *   [MikroORM (⭐5.5k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-    *   [Prisma (⭐28k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+    *   [Prisma (⭐29k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 
 ## [Sep 07 - Sep 13, 2020](/content/2020/36/README.md)
 
@@ -665,7 +671,7 @@
 
 ### Packages / Security
 
-*   [themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
 ### Packages / Authorization
 
@@ -842,7 +848,7 @@
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐53k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐54k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
@@ -1136,7 +1142,7 @@
 
 *   [lessmd (⭐127)](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 *   [cost-of-modules (⭐2.8k)](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-*   [localtunnel (⭐15k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+*   [localtunnel (⭐16k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 ### Packages / Text
 
@@ -1645,7 +1651,7 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐428)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐430)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
