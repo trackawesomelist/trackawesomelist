@@ -1,12 +1,119 @@
 # Awesome List Updates on Jan 30 - Feb 05, 2023
 
-18 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [1. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+
+### Websites
+
+*   [12+ Tips and Tricks to Work Faster in Microsoft Outlook](https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - Tame your Outlook with these tips in order to get a little bit closer to the awesome *Inbox Zero*.
+*   [Advanced GTD with Remember The Milk](https://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - A tutorial on how to implement GTD with Remember the Milk.
+*   [Inbox Zero](https://www.43folders.com/izero) - Rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
+*   [Lifehacker](https://lifehacker.com/) - The go-to blog for tips, tricks, and downloads for getting things done.
+*   [Rid Your Desktop of Clutter with This Simple Trio of Icons](https://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) - A little trick that has been keeping my desktop clean for years now.
+*   [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
+
+### Books
+
+*   [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
+
+### Tools and Apps / Note Management
+
+*   [Google Keep](https://www.google.com/keep/) - A nice and simple note management system tightly integrated with Google products.
+
+### Tools and Apps / Task Management
+
+*   [Any.do](https://www.any.do/) - Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](https://lifehacker.com/5924093/five-best-to-do-list-managers).
+*   [Taskwarrior](https://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
+
+### Tools and Apps / Habit Trackers
+
+*   [HabitBull](https://www.habitbull.com/) - Premium habit tracker.
+
+### Tools and Apps / Task Automation
+
+*   [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (*e.g.* automatically turn on wifi when you arrive home).
+
+## [2. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+
+### Papers / 2022
+
+*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐4)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Database
+
+*   [CozoDB (⭐2k)](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast! [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
+
+### Applications / System tools
+
+*   [j0ru/kickoff (⭐167)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
+
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Projects / Desktop
+
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐186)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+
+### Frameworks / Runtimes
+
+*   [Deno](https://deno.land/) - JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience.
+
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐760)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
+
+## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Articles
+
+*   [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
+
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :computer: [Learn how to unleash the full potential of the Turing Complete type system of TypeScript!](https://type-level-typescript.com), 💵 online course with free first 5 chapters by [Gabriel Vergnaud](https://twitter.com/GabrielVergnaud)
+
+## [10. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+
+### Research Papers
+
+*   [Water-Quality Prediction Based on H2O AutoML and Explainable AI Techniques](https://www.mdpi.com/2073-4441/15/3/475) Hamza Ahmad Madni, Muhammad Umer, Abid Ishaq, Nihal Abuzinadah, Oumaima Saidani, Shtwai Alsubai, Monia Hamdi, Imran Ashraf. (2023)
+
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Analytics
+
+*   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool.
+
+## [12. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Code Analysis
 
@@ -25,31 +132,39 @@
 
 *   [Foojay Podcast](https://foojay.io/today/category/podcast/)
 
-## [2. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [Fast Fourier Transform (FFT) (⭐2)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+### Plugins and scripts / Godot 3.2+
+
+*   [XSM](https://gitlab.com/atnb/xsm) - A fully-featured hierarchical State Machine with parallel states, easy animation, random states and more.
+
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Meta-Level Considerations / Rationality
 
 *   [Foundations of intuitive power analyses in children and adults](https://eccl.mit.edu/s/Pelz_Foundations-of-intuitive-power-analyses-in-children-and-adults.pdf) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=4370839893505978405\&hl=en\&as_sdt=0,5)]. Evidences support that people have some of the foundations for 'intuitive power analyses', which help people use intuitive statistical reasoning and metacognitive strategies to estimate how much information they might need to solve different discrimination problems.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Program Synthesis Guided Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/f7e2b2b75b04175610e5a00c1e221ebb-Abstract.html) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269\&hl=en\&as_sdt=0,5)].
+
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [Kvrocks (⭐1.9k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
 
-## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [16. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Data Manipulation / Data Frames
 
 *   [polars (⭐13k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [17. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Web Feed Specifications / Specification Converters
 
@@ -147,13 +262,13 @@
 
 *   Aaron Swartz <sup>[1292](https://t.me/s/aboutrss/1292)</sup>
 
-## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [18. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Marketing
 
 *   [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
 
-## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
@@ -164,13 +279,17 @@
 *   [lucidrains/musiclm-pytorch (⭐354)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 *   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐141)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 
-## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [20. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+
+### Online Books
+
+*   [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - An authorial set of fundamental Python recipes on Creative Coding and Computer Art, by Diego Inácio.
 
 ### Web Programming • Libraries
 
 *   [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -180,19 +299,19 @@
 
 *   [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.
 
-## [11. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [22. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### RPG
 
 *   [OpenEnroth (⭐541)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 
-## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [23. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Ironsworn
 
 *   [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
 
-## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [24. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Modeling
 
@@ -202,7 +321,7 @@
 
 *   [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
 
-## [14. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [25. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### UI Components:
 
@@ -212,7 +331,7 @@
 
 
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -227,19 +346,19 @@
 
 *   [\~nedia/auto-format.nvim](https://git.sr.ht/\~nedia/auto-format.nvim) - Does no formatting by itself, but sets up an autocmd to format on save, preferring null-ls over LSP client formatting.
 
-## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [27. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### User Defined
 
 *   [date-box (⭐1)](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
 
-## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [pnpm (mat2ja) (⭐0)](https://github.com/mat2ja/pnpm.plugin.zsh) - Better [pnpm](https://pnpm.io/) aliases.
 
-## [18. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [29. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Developer tools and frameworks
 

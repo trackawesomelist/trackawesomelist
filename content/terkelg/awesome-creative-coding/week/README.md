@@ -8,6 +8,10 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### Online Books
+
+*   [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - An authorial set of fundamental Python recipes on Creative Coding and Computer Art, by Diego Inácio.
+
 ### Web Programming • Libraries
 
 *   [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).

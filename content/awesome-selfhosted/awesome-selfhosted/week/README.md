@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐760)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Software / Automation
@@ -123,11 +129,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Apprise (⭐7.3k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker`
+*   [Apprise (⭐7.4k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Retrospring (⭐122)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+*   [Retrospring (⭐125)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 
 ### Software / Games
 
@@ -136,11 +142,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐294)](https://github.com/magicbug/cloudlog)) `MIT` `PHP`
+*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐295)](https://github.com/magicbug/cloudlog)) `MIT` `PHP`
 
 ### Software / Note-taking & Editors
 
-*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Souce Code (⭐305)](https://github.com/fr0tt/benotes)) `MIT` `PHP`
+*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Souce Code (⭐371)](https://github.com/fr0tt/benotes)) `MIT` `PHP`
 
 ### Software / Wikis
 
@@ -180,7 +186,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto (⭐68)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐68)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+*   [Chevereto (⭐80)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐80)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
 
 ### Software / Software Development - Low Code
 
@@ -318,7 +324,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Wayback (⭐423)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
+*   [Wayback (⭐437)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
 
 ### Software / Knowledge Management Tools
 
@@ -429,7 +435,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐4.7k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/Go`
+*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐4.8k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/Go`
 
 ### Software / Note-taking & Editors
 
@@ -655,7 +661,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Buku (⭐5.4k)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python`
+*   [Buku (⭐5.5k)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python`
 *   [Hackershare (⭐427)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. ([Demo](https://hackershare.dev/en)) `MIT` `Ruby`
 *   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐1.8k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `PHP`
 *   [linkding (⭐2.9k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
@@ -808,7 +814,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [BitcartCC](https://bitcartcc.com) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcartcc.com), [Source Code](https://github.com/bitcartcc)) `GPL-3.0-or-later` `Docker/Python/Nodejs`
+*   [BitcartCC](https://bitcartcc.com) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcartcc.com), [Source Code](https://github.com/bitcartcc)) `MIT` `Docker/Python/Nodejs`
 *   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐51)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
 
 ### Software / Note-taking & Editors
@@ -832,7 +838,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Testing
 
-*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐136)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
+*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐138)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Wikis
 
@@ -848,7 +854,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Games
 
 *   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐8.4k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++`
-*   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++`
+*   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2.1k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -885,7 +891,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Automation
 
 *   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐2.6k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
-*   [µTask (⭐806)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go`
+*   [µTask (⭐815)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go`
 
 ### Software / Communication - Email - Mail Delivery Agents
 
@@ -1191,7 +1197,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [Bubo Reader (⭐84)](https://github.com/georgemandis/bubo-rss) - Open source, "irrationally minimal" RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
+*   [Bubo Reader (⭐90)](https://github.com/georgemandis/bubo-rss) - Open source, "irrationally minimal" RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
 *   [Stringer (⭐3.6k)](https://github.com/stringer-rss/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -1549,7 +1555,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Content Management Systems (CMS)
 
-*   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐19k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs`
+*   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐20k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -1636,7 +1642,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [euterpe](https://listen-to-euterpe.eu) - Self-hosted music streaming server with RESTful API and Web interface. ([Demo](https://listen-to-euterpe.eu/demo), [Source Code (⭐456)](https://github.com/ironsmile/euterpe)) `GPL-3.0` `Go`
+*   [euterpe](https://listen-to-euterpe.eu) - Self-hosted music streaming server with RESTful API and Web interface. ([Demo](https://listen-to-euterpe.eu/demo), [Source Code (⭐458)](https://github.com/ironsmile/euterpe)) `GPL-3.0` `Go`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -1721,7 +1727,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [Feedpushr (⭐246)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go`
+*   [Feedpushr (⭐253)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go`
 *   [Goeland (⭐81)](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
 *   [PolitePol (⭐333)](https://github.com/taroved/pol) - Online tool for creation of RSS feeds for any web page. ([Demo](https://politepol.com)) `MIT` `Python`
 *   [RSS Fulltext Proxy (⭐96)](https://github.com/Kombustor/rss-fulltext-proxy) - Mirrors RSS feeds to return the full content of the items, extracted from the website. `MIT` `Nodejs`
@@ -1730,7 +1736,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / File Transfer - Object Storage & File Servers
 
 *   [SeaweedFS (⭐16k)](https://github.com/chrislusf/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
-*   [SFTPGo (⭐5.4k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go`
+*   [SFTPGo (⭐5.5k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go`
 *   [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code (⭐1.5k)](https://github.com/scality/cloudserver)) `Apache-2.0` `Nodejs`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -1968,7 +1974,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [FreshRSS](https://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](https://demo.freshrss.org/i/), [Source Code (⭐5.4k)](https://github.com/FreshRSS/FreshRSS), [Clients (⭐110)](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP`
+*   [FreshRSS](https://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](https://demo.freshrss.org/i/), [Source Code (⭐5.5k)](https://github.com/FreshRSS/FreshRSS), [Clients (⭐110)](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP`
 *   [NewsBlur](https://www.newsblur.com/) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. ([Source Code (⭐6.2k)](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`
 *   [Selfoss](https://selfoss.aditu.de/) - New multipurpose rss reader, live stream, mashup, aggregation web application. ([Source Code (⭐2.2k)](https://github.com/fossar/selfoss)) `GPL-3.0` `PHP`
 *   [Sismics Reader](https://www.sismics.com/reader/) - Free and open source feeds reader, including all major Google Reader features. ([Demo](https://www.sismics.com/reader/#!/demo), [Source Code (⭐378)](https://github.com/sismics/reader)) `GPL-2.0` `Java`
@@ -2655,7 +2661,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐503)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
+*   [Gokapi (⭐514)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
 
 ### Software / Money, Budgeting & Management
 
@@ -2939,7 +2945,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [reader (⭐271)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+*   [reader (⭐277)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
 
 ### Software / Software Development - Project Management
 
@@ -3090,7 +3096,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / DNS
 
-*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.6k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
+*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.7k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
 
 ## [Apr 06 - Apr 12, 2020](/content/2020/14/README.md)
 
@@ -3327,7 +3333,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### External Links / Wikis
 
-*   Mirrors: [GitHub.com (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+*   Mirrors: [GitHub.com (⭐117k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -4109,7 +4115,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Feed Readers
 
 *   [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code (⭐2k)](https://github.com/Athou/commafeed)) `Apache-2.0` `Java`
-*   [RSS Monster (⭐381)](https://github.com/pietheinstrengholt/rssmonster) - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. `MIT` `PHP`
+*   [RSS Monster (⭐383)](https://github.com/pietheinstrengholt/rssmonster) - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. `MIT` `PHP`
 
 ### Software / File Transfer & Synchronization
 

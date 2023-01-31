@@ -81,6 +81,7 @@
 *   [Adding code snippets to Next.js using react-syntax-highlighter](https://thetombomb.com/posts/adding-code-snippets-to-static-markdown-in-Next%20js)
 *   [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
 *   [Guaranteeing webhook delivery in NextJS Application](https://www.bharathvaj.me/blog/implement-webhook-nextjs)
+*   [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
 
 ## Boilerplates
 
@@ -131,7 +132,7 @@
 *   [superplate (⭐2.3k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 *   [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
 *   [Next-Fire-Auth (⭐1)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
-*   [NextJS Chargebee Subscription (⭐0)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [NextJS Chargebee Subscription (⭐3)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## Extensions
 

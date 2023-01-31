@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Jan 31, 2023](/content/2023/01/31/README.md)
+
+### Articles
+
+*   [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
+
 ## [Jan 28, 2023](/content/2023/01/28/README.md)
 
 ### Extensions
@@ -22,7 +28,7 @@
 
 ### Boilerplates
 
-*   [NextJS Chargebee Subscription (⭐0)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [NextJS Chargebee Subscription (⭐3)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [Jan 10, 2023](/content/2023/01/10/README.md)
 

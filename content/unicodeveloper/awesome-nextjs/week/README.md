@@ -6,6 +6,12 @@
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Articles
+
+*   [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Extensions
@@ -24,7 +30,7 @@
 
 *   [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
 *   [Next-Fire-Auth (⭐1)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
-*   [NextJS Chargebee Subscription (⭐0)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [NextJS Chargebee Subscription (⭐3)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 

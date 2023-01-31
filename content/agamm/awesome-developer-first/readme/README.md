@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 336 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 346 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -103,6 +103,7 @@ The definition of developer-first for this repo is:
 *   [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events.
 *   [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 *   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
+*   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool.
 
 ## Authentication & Identity
 
@@ -391,5 +392,5 @@ The definition of developer-first for this repo is:
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐336)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐346)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

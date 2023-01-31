@@ -12,6 +12,10 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 *   [Fast Fourier Transform (FFT) (⭐2)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
 
+### Plugins and scripts / Godot 3.2+
+
+*   [XSM](https://gitlab.com/atnb/xsm) - A fully-featured hierarchical State Machine with parallel states, easy animation, random states and more.
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Plugins and scripts / Godot 3.2+

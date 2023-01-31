@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Jan 31, 2023](/content/2023/01/31/README.md)
+
+### Plugins and scripts / Godot 3.2+
+
+*   [XSM](https://gitlab.com/atnb/xsm) - A fully-featured hierarchical State Machine with parallel states, easy animation, random states and more.
+
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Plugins and scripts / Various Godot versions

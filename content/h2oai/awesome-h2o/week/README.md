@@ -2,9 +2,15 @@
 
 A curated list of research, applications and projects built using the H2O Machine Learning platform
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/h2oai/awesome-h2o/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o) · ⭐ 330 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/h2oai/awesome-h2o/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o) · ⭐ 340 · 🏷️ Computer Science
 
 [ [Daily](/content/h2oai/awesome-h2o/README.md) / Weekly / [Overview](/content/h2oai/awesome-h2o/readme/README.md) ]
+
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Research Papers
+
+*   [Water-Quality Prediction Based on H2O AutoML and Explainable AI Techniques](https://www.mdpi.com/2073-4441/15/3/475) Hamza Ahmad Madni, Muhammad Umer, Abid Ishaq, Nihal Abuzinadah, Oumaima Saidani, Shtwai Alsubai, Monia Hamdi, Imran Ashraf. (2023)
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
@@ -23,13 +29,13 @@ A curated list of research, applications and projects built using the H2O Machin
 
 ### Research Papers
 
-*   [ Prospective validation of a transcriptomic severity classifier among patients with suspected acute infection and sepsis in the emergency department](https://pubmed.ncbi.nlm.nih.gov/35467566/) Noa Galtung, Eva Diehl-Wiesenecker, Dana Lehmann, Natallia Markmann, Wilma H Bergström, James Wacker, Oliver Liesenfeld, Michael Mayhew, Ljubomir Buturovic, Roland Luethy, Timothy E Sweeney , Rudolf Tauber, Kai Kappert, Rajan Somasundaram , Wolfgang Bauer. (2022)
+*   [ Prospective validation of a transcriptomic severity classifier among patients with suspected acute infection and sepsis in the emergency department](https://pubmed.ncbi.nlm.nih.gov/35467566/) Noa Galtung, Eva Diehl-Wiesenecker, Dana Lehmann, Natallia Markmann, Wilma H Bergström, James Wacker, Oliver Liesenfeld, Michael Mayhew, Ljubomir Buturovic, Roland Luethy, Timothy E Sweeney , Rudolf Tauber, Kai Kappert, Rajan Somasundaram, Wolfgang Bauer. (2022)
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
 ### Software
 
-*   [Forecast the US demand for electricity (⭐90)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
+*   [Forecast the US demand for electricity (⭐92)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
@@ -151,7 +157,7 @@ A curated list of research, applications and projects built using the H2O Machin
 
 ### Courses
 
-*   [University of San Francisco (USF) Distributed Data System Class (MSDS 697) (⭐2)](https://github.com/dianewoodbridge/2020-msds697-example) - Master of Science in Data Science Program.
+*   [University of San Francisco (USF) Distributed Data System Class (MSDS 697)](https://github.com/dianewoodbridge/2020-msds697-example) - Master of Science in Data Science Program.
 
 ## [Dec 02 - Dec 08, 2019](/content/2019/48/README.md)
 
@@ -228,7 +234,7 @@ A curated list of research, applications and projects built using the H2O Machin
 
 ### Courses
 
-*   [UCLA: Tools in Data Science (STATS 418) (⭐128)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
+*   [UCLA: Tools in Data Science (STATS 418) (⭐129)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
 *   [GWU: Data Mining (Decision Sciences 6279) (⭐227)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
@@ -302,7 +308,7 @@ A curated list of research, applications and projects built using the H2O Machin
 *   [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) Stéphanie Florence Visser. (2016)
 *   [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) Krzysztof Urbański, Stanisław Gruszczyńsk. (2016)
 *   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/\~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
-*   [Understanding random forests: from theory to practice (⭐498)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
+*   [Understanding random forests: from theory to practice (⭐499)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
 
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 

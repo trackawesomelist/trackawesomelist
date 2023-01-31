@@ -6,6 +6,12 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 [ Daily / [Weekly](/content/terkelg/awesome-creative-coding/week/README.md) / [Overview](/content/terkelg/awesome-creative-coding/readme/README.md) ]
 
+## [Jan 31, 2023](/content/2023/01/31/README.md)
+
+### Online Books
+
+*   [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - An authorial set of fundamental Python recipes on Creative Coding and Computer Art, by Diego Inácio.
+
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Web Programming • Libraries

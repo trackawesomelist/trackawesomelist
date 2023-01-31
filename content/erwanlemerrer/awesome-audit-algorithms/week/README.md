@@ -6,6 +6,12 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ [Daily](/content/erwanlemerrer/awesome-audit-algorithms/README.md) / Weekly / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Papers / 2022
+
+*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐4)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Papers / 2022
