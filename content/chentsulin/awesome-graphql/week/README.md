@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ [Daily](/content/chentsulin/awesome-graphql/README.md) / Weekly / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Tools - Miscellaneous / React
+
+*   [ILLA Cloud](https://www.illacloud.com/) – Open-source low-code tool building platform provides an easy way to integrate with GraphQL with minimal configurations
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Java / React
@@ -548,7 +554,7 @@ Awesome list of GraphQL
 
 *   [graphql (⭐9k)](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
 *   [graphql-go (⭐4.4k)](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use.
-*   [gqlgen (⭐8.5k)](https://github.com/99designs/gqlgen) - Go generate based graphql server library.
+*   [gqlgen (⭐8.6k)](https://github.com/99designs/gqlgen) - Go generate based graphql server library.
 *   [graphql-relay-go (⭐404)](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 *   [graphjin (⭐2.6k)](https://github.com/dosco/graphjin): Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 

@@ -8,9 +8,18 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
+### Tools for Teams and Collaboration
+
+*   [Pumble](https://pumble.com) - Free team chat app. Unlimited users and message history, free forever.
+
 ### Security and PKI
 
 *   [SOOS](https://soos.io) - Free, unlimited SCA scans for open source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
+
+### Issue Tracking and Project Management
+
+*   [Clockify](https://clockify.me) - Time tracker and timesheet app that lets you track work hours across projects. Unlimited users, free forever.
+*   [Plaky](https://plaky.com) - Free task management (kanban) software without any limits. Unlimited users, unlimited projects, free forever.
 
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 

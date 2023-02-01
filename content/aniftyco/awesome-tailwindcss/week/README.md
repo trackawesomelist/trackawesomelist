@@ -11,6 +11,7 @@
 ### UI Libraries, Components & Templates
 
 *   🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
+*   🧩 [RippleUI](https://www.ripple-ui.com/) - Clean, modern and beautiful Tailwind CSS components.
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 

@@ -2,9 +2,15 @@
 
 A curated list of awesome resources to choose your next color scheme
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 857 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 887 · 🏷️ Miscellaneous
 
 [ [Daily](/content/Siddharth11/Colorful/README.md) / Weekly / [Overview](/content/Siddharth11/Colorful/readme/README.md) ]
+
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Tools / Web App
+
+*   [Atmos](https://atmos.style/) - Everything you need to create color palettes.
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -44,13 +50,13 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Libraries
 
-*   [color2k (⭐482)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐518)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
 ### Tools / Libraries
 
-*   [Distinct Colors (⭐110)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+*   [Distinct Colors (⭐113)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
@@ -64,8 +70,8 @@ A curated list of awesome resources to choose your next color scheme
 ### Tools / Libraries
 
 *   [granim.js (⭐5.1k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
-*   [tinygradient (⭐172)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
-*   [TinyColor (⭐4.4k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [tinygradient (⭐175)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
+*   [TinyColor (⭐4.5k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ## [Sep 17 - Sep 23, 2018](/content/2018/38/README.md)
 
@@ -77,7 +83,7 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐1.7k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐1.8k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
@@ -95,7 +101,7 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Libraries
 
-*   [Palettable (⭐646)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐662)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
@@ -110,7 +116,7 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Libraries
 
-*   [Polychrome (⭐290)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+*   [Polychrome (⭐289)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
 
 ## [Feb 13 - Feb 19, 2017](/content/2017/7/README.md)
 
@@ -122,7 +128,7 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Web App
 
-*   [SassMe (⭐56)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
+*   [SassMe (⭐57)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 
 ### Articles / Web App
 
@@ -217,7 +223,7 @@ A curated list of awesome resources to choose your next color scheme
 ### Tools / Libraries
 
 *   [Color Thief (⭐11k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐811)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colorify.js (⭐813)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐622)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
@@ -278,7 +284,7 @@ A curated list of awesome resources to choose your next color scheme
 ### Tools / Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [GradStop.js (⭐153)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [GradStop.js (⭐152)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 
 ### Tools / Web App
 
