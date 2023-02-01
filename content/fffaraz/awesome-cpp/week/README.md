@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### Frameworks
+
+*   [libxutils (⭐14)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+
 ### Database
 
 *   [Kvrocks (⭐1.9k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]

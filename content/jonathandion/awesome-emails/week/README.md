@@ -16,6 +16,7 @@
 ### Services / Misc
 
 *   [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
+*   [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
 
 ### Testing / Misc
 

@@ -10,7 +10,7 @@ A list of Free Software network services and web applications which can be hoste
 
 # Awesome-Selfhosted
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/ci.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2266)
 
 Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
 
@@ -1501,7 +1501,7 @@ A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that hel
 *   [Photo Stream (⭐298)](https://github.com/waschinski/photo-stream) - Minimalist self-hosted photo stream. ([Demo](https://floremotion.de/)) `MIT` `Ruby`
 *   [Photonix](https://photonix.org/) - A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms. ([Demo](https://demo.photonix.org/), [Source Code (⭐1.5k)](https://github.com/photonixapp/photonix)) `AGPL-3.0` `Python`
 *   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code (⭐24k)](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go`
-*   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Demo](https://photos.qpqp.dk/), [Source Code (⭐3.5k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go`
+*   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Source Code (⭐3.5k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go`
 *   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐1.1k)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
 *   [Piwigo](https://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. ([Source Code (⭐2.4k)](https://github.com/Piwigo/Piwigo)) `GPL-2.0` `PHP`
 *   [Quru Image Server](https://quruimageserver.com/) - High performance dynamically resizing image server offering directory based access control cropping, rotation, color management and other tools. ([Demo](https://quruimageserver.com), [Source Code (⭐85)](https://github.com/quru/qis)) `AGPL-3.0` `Python`
@@ -1530,7 +1530,7 @@ Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and 
 *   [Feedka (⭐14)](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. `AGPL-3.0` `Ruby`
 *   [Fider](https://fider.io) - Open source alternative to UserVoice for customer feedback. ([Demo](https://demo.fider.io), [Source Code (⭐2.2k)](https://github.com/getfider/fider)) `MIT` `Go`
 *   [Framadate](https://framadate.org/abc/) - Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://framagit.org/framasoft/framadate?)) `CECILL-B` `PHP`
-*   [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Demo](https://demo.gancio.org/), [Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
+*   [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
 *   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐288)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 *   [JD Esurvey](https://www.jdsoft.com/jd-esurvey.html) - Open source enterprise survey web application. ([Source Code (⭐221)](https://github.com/JD-Software/JDeSurvey)) `AGPL-3.0` `Java`
 *   [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org), [Source Code (⭐2.2k)](https://github.com/LimeSurvey/LimeSurvey)) `GPL-2.0` `PHP`
@@ -1804,7 +1804,7 @@ Tools and software for [software project management](https://en.wikipedia.org/wi
 *   [RhodeCode](https://rhodecode.com/) - RhodeCode is an open source platform for software development teams. It unifies and simplifies repository management for Git, Subversion, and Mercurial. ([Source Code](https://code.rhodecode.com/)) `AGPL-3.0` `Python`
 *   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐110)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java`
 *   [Sourcehut](https://sourcehut.org/) - A full web git interface with no javascript. ([Demo](https://sr.ht/), [Source Code](https://git.sr.ht/\~sircmpwn/git.sr.ht/tree)) `GPL-2.0` `Go`
-*   [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
+*   [Taiga](https://www.taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
 *   [Titra](https://titra.io/) - Time-tracking solution for freelancers and small teams. ([Source Code (⭐320)](https://github.com/kromitgmbh/titra)) `GPL-3.0` `Javascript`
 *   [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python`
 *   [Traq](https://traq.io/) - Project management and issue tracking system written in PHP. ([Source Code (⭐166)](https://github.com/nirix/traq)) `GPL-3.0` `PHP/Nodejs`

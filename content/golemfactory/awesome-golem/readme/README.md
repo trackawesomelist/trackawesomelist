@@ -2,7 +2,7 @@
 
 A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/golemfactory/awesome-golem/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 golemfactory/awesome-golem](https://github.com/golemfactory/awesome-golem) · ⭐ 138 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/golemfactory/awesome-golem/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 golemfactory/awesome-golem](https://github.com/golemfactory/awesome-golem) · ⭐ 143 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/golemfactory/awesome-golem/README.md) / [Weekly](/content/golemfactory/awesome-golem/week/README.md) / Overview ]
 
@@ -54,7 +54,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 *   [Golem Network Platform](https://www.golem.network/platform) - Learn the Golem platform on the official Golem Network website.
 *   [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem.
-*   [Yagna GitHub (⭐264)](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
+*   [Yagna GitHub (⭐274)](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
 *   [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
 *   [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
 *   [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
@@ -69,7 +69,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Network Statistics
 
 *   [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
-*   [Golem Stats backend (⭐1)](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
+*   [Golem Stats backend (⭐2)](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
 *   [Stats API Documentation](https://docs.stats.golem.network/) - API endpoints that the Golem Network Stats page uses to display its data.
 
 ## Apps
@@ -84,16 +84,16 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### Testing
 
-*   [Golem Test Harness (Goth) (⭐10)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
+*   [Golem Test Harness (Goth) (⭐11)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
 *   [Golem-afl (⭐2)](https://github.com/sladecek/golem-afl) - An experimental test-fuzzing framework. Assists in finding security holes.
 *   [Golem Cargo Test (⭐2)](https://github.com/sladecek/golem_cargo_test) - An adaptive distributed test executor for Rust projects.
 *   [Golem CI (⭐5)](https://github.com/hhio618/golem-ci) - Decentralized task pipeline.
 *   [Golem SLATE (⭐5)](https://github.com/deutschklub/golem-slate) - Open source repository for Golem SLATE described in the above Apps section.
-*   [ThorgPress (⭐1)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
+*   [ThorgPress (⭐2)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
 
 ### VPN
 
-*   [Yagna httpx client (⭐1)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
+*   [Yagna httpx client (⭐2)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
 *   [Golem Provider with network access (⭐2)](https://github.com/jedbrooke/golem-network-requestor) - A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.
 
 ### Games
@@ -117,6 +117,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### Data Analysis
 
+*   [Coacervate (⭐4)](https://github.com/pryce-turner/coacervate/) - Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.
 *   [Flan (⭐3)](https://github.com/nestorbonilla/flan) - Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.
 *   [Golem Lorenz-attractor (⭐0)](https://github.com/hhio618/golem-lorenz-attractor) - A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
 *   [Golem Geomandel (⭐1)](https://github.com/Edhendil/golem-geomandel) - Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.
@@ -140,11 +141,11 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### Finance
 
-*   [ZKSync .csv export (⭐0)](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
+*   [ZKSync .csv export (⭐1)](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
 
 ### Machine Learning
 
-*   [DeML-Golem (⭐31)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
+*   [DeML-Golem (⭐32)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
 *   [Golem Image Classifier (⭐5)](https://github.com/ControlCplusControlV/Golem-Image-Classifier) - Train and classify images through an active service.
 
 ### Deep Learning
@@ -178,7 +179,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 *   [gvm-vim (⭐0)](https://github.com/canokaue/gvm-vim) - Golemized docker image for compiling the VIM editor.
 *   [YaJSapi fork with greeting example (⭐1)](https://github.com/rezahsnz/yajsapi) - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
 *   [Golem Image Sharpening (⭐0)](https://github.com/visualNext/golem) - A tool to sharpen images.
-*   [Filterms (⭐3)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
+*   [Filterms (⭐4)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 *   [golem-bulk-image-handler (⭐1)](https://github.com/figurestudios/golem-bulk-image-handler) - Takes an input image and processes it in many different ways using the Pillow library.
 
 ## Bounties and Rewards
@@ -190,7 +191,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 *   [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 *   [Yagna Python API docs](https://yapapi.readthedocs.io/) - Documentation for Yapapi.
-*   [Releases List (⭐264)](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
+*   [Releases List (⭐274)](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
 *   [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - Get started quick and create your first tasks/request on Golem.
 *   [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 *   [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - JS guide for developers to get a better idea of how to run a task with the JavaScript API.
@@ -216,8 +217,8 @@ The users of Golem run the reference implementation in the form of the Rust impl
 *   [WSL (⭐1)](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
 *   [Golem Provider Terraform (⭐2)](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
 *   [Automatic Golem (⭐7)](https://github.com/r34x/Automatic-Golem) - Setup a Golem Provider with simple instructions and logs guiding you through the process.
-*   [Golem Provider Node (⭐12)](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
-*   [Golem Provider node (⭐4)](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
+*   [Golem Provider Node (⭐13)](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
+*   [Golem Provider node (⭐5)](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
 *   [Scalable golem provider (⭐0)](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
 
 ## Learning Resources

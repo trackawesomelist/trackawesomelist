@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jonathandion/awesome-emails/week/README.md) / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
 
+## [Feb 01, 2023](/content/2023/02/01/README.md)
+
+### Services / Misc
+
+*   [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Tools / Misc

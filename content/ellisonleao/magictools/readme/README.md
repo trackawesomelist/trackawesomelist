@@ -264,7 +264,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Jitter (⭐25)](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *   :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 *   :tada: [JNGL (⭐106)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
-*   :free: [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+*   :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 *   :tada: [Juno (⭐17)](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 *   :tada: [Juno (⭐152)](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 *   :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.

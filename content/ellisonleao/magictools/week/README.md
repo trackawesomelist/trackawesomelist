@@ -12,6 +12,10 @@
 
 *   :moneybag: [ZBrush](https://pixologic.com/)
 
+### Engines and Frameworks / Voxel Editors
+
+*   :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+
 ### Ads / Voxel Editors
 
 *   [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
@@ -345,7 +349,6 @@
 *   :tada: [Irrlicht](http://irrlicht.sourceforge.net/) - open source high performance realtime 3D engine written in C++.
 *   :tada: [Jitter (⭐25)](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *   :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
-*   :free: [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 *   :tada: [Juno (⭐17)](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 *   :tada: [Juno (⭐152)](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 *   :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.

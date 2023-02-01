@@ -530,7 +530,6 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [alehouse (⭐10)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
 *   [alias-finder (⭐8)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed
 *   [alias-tips (⭐683)](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once.
-*   [alias](https://github.com/xylous/alias-zsh) - Tool for managing your aliases.
 *   [allergen (⭐3)](https://github.com/stanislas/allergen) - A collection of custom ZSH plugins to use with Antigen.
 *   [almostontop (⭐85)](https://github.com/Valiev/almostontop) - Clears previous command output every time before new command executed in shell. Inspired by the [alwaysontop (⭐187)](https://github.com/swirepe/alwaysontop) plugin for `bash`.
 *   [alt-and-select (⭐4)](https://github.com/raisty/alt-and-select) - Binds the alt-c (copy), alt-v (paste), alt-x (cut) keyboard shortcut to a commands: copy-region-as-kill, yank, kill-region. Remaps the execute command to Alt-Shift-X.
@@ -764,7 +763,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐155k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 *   [fzf-prezto (⭐2)](https://github.com/lildude/fzf-prezto) - Prezto plugin that finds where [fzf (⭐50k)](https://github.com/junegunn/fzf) has been installed and enables its auto-completion and key-bindings. This plugin works as a Prezto `zstyle` configuration option.
 *   [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab) - Replace ZSH's default completion selection menu with [fzf (⭐50k)](https://github.com/junegunn/fzf).
-*   [fzf-tab-widgets (⭐1)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab).
+*   [fzf-tab-widgets (⭐0)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab).
 *   [fzf-utils (⭐0)](https://github.com/redxtech/zsh-fzf-utils) - Provides functions to kill proceses and find in path with [fzf (⭐50k)](https://github.com/junegunn/fzf).
 *   [fzf-widgets (⭐82)](https://github.com/ytet5uy4/fzf-widgets) - Adds some ZLE widgets for [fzf (⭐50k)](https://github.com/junegunn/fzf).
 *   [fzf-z (⭐160)](https://github.com/andrewferrier/fzf-z) - Brings together the \*z- plugin and \*[fzf (⭐50k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
@@ -1426,6 +1425,8 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [kitty (⭐3)](https://github.com/redxtech/zsh-kitty) - Completions for [kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator.
 *   [kompose (⭐3)](https://github.com/gantsign/zsh-plugins/tree/master/kompose) - Add tab completions for [Kompose](http://kompose.io/).
 *   [kubeadm (⭐3)](https://github.com/gantsign/zsh-plugins/tree/master/kubeadm) - Add tab completions for [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/).
+*   [kubectl (chrishrb) (⭐1)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.2k)](https://github.com/kubernetes/kubectl)
+    )
 *   [kubectl-fzf (⭐377)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐50k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
 *   [kubectl-plugin (⭐8)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
 *   [kustomize (⭐11)](https://github.com/ralgozino/oh-my-kustomize) - Adds tab completions for [kustomize](https://kustomize.io/)
@@ -1493,7 +1494,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐510)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐1.9k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐88)](https://github.com/andrewgregory/pacutils).
 *   [web-open (⭐1)](https://github.com/AndrewHaluza/zsh-web-open) - Adds alias to open web pages. Only works with Ubuntu 20.
 *   [wsl-notify (⭐0)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐69)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
-*   [xcode (⭐44)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
+*   [xcode (⭐46)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 *   [yabai (⭐12)](https://github.com/Amar1729/yabai-zsh-completions) - Add completions for macOS [yabai (⭐14k)](https://github.com/koekeishiya/yabai/) tiling window manager.
 *   [yarn-extra-completion (⭐39)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐418)](https://github.com/lukechilds/zsh-better-npm-completion).
 *   [yarn (⭐560)](https://github.com/g-plane/zsh-yarn-autocompletions) - Add autocompletions for `yarn add`, `yarn remove`, `yarn upgrade`, `yarn why` and `yarn run`.
@@ -1831,7 +1832,7 @@ If you're using [Antigen (⭐7.5k)](https://github.com/zsh-users/antigen), you c
 *   [honukai-iterm (⭐1.1k)](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for oh-my-zsh and iTerm 2.
 *   [horizontal (⭐3)](https://github.com/nuimk/horizontal) - Two line prompt with a horizontal separator.
 *   [hornix (⭐1)](https://github.com/fusion809/zsh-theme) - Displays time & date, OS (including distro if on Linux), directory and whether running as root.
-*   [horse-sh](https://github.com/emileswarts/horse-sh) - A very minimal brown/red ZSH theme.
+*   [horse-sh (⭐0)](https://github.com/emileswarts/horse-sh) - A very minimal brown/red ZSH theme.
 *   [hub](https://gist.github.com/hub23/c226b1c77446e099f7684b0d21c6b22a) - Simple and clean, includes the return code of the last command executed.
 *   [hug (⭐3)](https://github.com/xxninjabunnyxx/hug-zsh) - When you're working and need a hug. Includes `git` status.
 *   [humbled (⭐1)](https://github.com/saravanabalagi/zsh-theme-humbled) - A clean and humble theme with left-aligned `condaenv`, `virtualenv` and `git` status. Requires [condaenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-condaenv) plugin.
@@ -2245,7 +2246,6 @@ If you're using [Antigen (⭐7.5k)](https://github.com/zsh-users/antigen), you c
 *   [spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt) - Theme with `git`, `nvm`, rvm/rbenv/chruby, python, `ssh` and other useful status decorators.
 *   [spowerline](https://mbauhardt.github.io/spowerline/) - Written in scala, inspired by [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme), [tmux](https://tmux.github.io) powerline, vim powerline and the vim status plugin.
 *   [spyrhoo (⭐2)](https://github.com/FajarKim/spyrhoo-zsh-theme) - Includes time, `git` and current directory decorations.
-*   [squanchy](https://github.com/gabrielecanepa/zsh-custom/tree/master/themes) - Minimalist theme. Includes `git`, `node` and `rbenv` status decorations.
 *   [ssfprompt (⭐0)](https://github.com/hugoh/zsh-ssfprompt) - Simple, slim, fast. Includes `ssh`, virtualenv and vcs decorations.
 *   [staples (⭐4)](https://github.com/dersam/staples) - Based on bureau, displays user\@host if connected through SSH.
 *   [starboy (⭐0)](https://github.com/prdpx7/Starboy) - A simple ZSH theme.

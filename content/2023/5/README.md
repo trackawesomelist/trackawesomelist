@@ -1,24 +1,42 @@
 # Awesome List Updates on Jan 30 - Feb 05, 2023
 
-36 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [1. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Chart
+
+*   [react-dashboard (⭐1.5k)](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
+
+## [2. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-gltf (⭐75)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
+
+## [3. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+
+### Apps / Data Analysis
+
+*   [Coacervate (⭐4)](https://github.com/pryce-turner/coacervate/) - Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.
+
+## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Data validation
 
 *   [yup (⭐19k)](https://github.com/jquense/yup) - Object schema validation.
 
-## [2. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [5. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
 - Name: [**Beaudry Interactive**](https://www.binteractive.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: themed entertainment, museum exhibitions, live shows, and branded experiences
 
@@ -27,7 +45,7 @@
 
 - Name: [**Dome**](http://www.domecollective.com)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experience design studio that gathers designers, technologists, and strategists to solve unusual problems
 
@@ -36,7 +54,7 @@
 
 - Name: [**Intergalactic**](https://intergalactic.com)
 
-  Locations: ![Vancouver](https://img.shields.io/badge/-Vancouver-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[Vancouver] \[London]
 
   Keywords: mobile apps, interactive screens, web development, application design and visualization
 
@@ -45,7 +63,7 @@
 
 - Name: [**Left Field Labs**](https://www.leftfieldlabs.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: products, platforms, and services that solve fundamental human challenges
 
@@ -54,7 +72,7 @@
 
 - Name: [**S1T2**](https://s1t2.com/)
 
-  Locations: ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Sydney] \[Melbourne] \[Shanghai]
 
   Keywords: We create interactive experiences that immerse audiences in the future of storytelling through technology.
 
@@ -63,7 +81,7 @@
 
 - Name: [**SOSO**](https://www.sosolimited.com/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat) ![San Diego](https://img.shields.io/badge/-San%20Diego-lightgrey?style=flat)
+  Locations: \[Boston] \[San Diego]
 
   Keywords: delivering real human impact across physical and virtual space, placemaking and storytelling
 
@@ -72,7 +90,7 @@
 
 - Name: [**TAD**](https://technologyarchitecturedesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[London]
 
   Keywords: digital experiences, technology and architecture, designed to inspire people.
 
@@ -80,11 +98,23 @@
 
 
 
+### Collectives & Practices
+
+- Name: [**The Cuttelfish**](https://www.thecuttlefish.com/)
+
+  Locations: \[USA]
+
+  Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.thecuttlefish.com%2F)
+
+
+
 ### Museums
 
 - Name: [**Cortina Productions**](https://www.cortinaproductions.com/)
 
-  Locations: ![McLean, VA](https://img.shields.io/badge/-McLean%2C%20VA-lightgrey?style=flat)
+  Locations: \[McLean, VA]
 
   Keywords: artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space.
 
@@ -93,7 +123,7 @@
 
 - Name: [**Northern Light Productions**](https://nlprod.com/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+  Locations: \[Boston]
 
   Keywords: immersive media environments, interactive experiences, or documentary films.
 
@@ -101,20 +131,20 @@
 
 
 
-## [3. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [6. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
 *   [Fxtop.com](https://fxtop.com/) - Forex rate history since 1953.
 *   [Got Papers?](https://gotpapers.scene.org/?page_id=73) - Resources on the history of games, cracking, and the demoscene.
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Templates
 
@@ -134,7 +164,7 @@
 *   [Playing Dynamic Audio In Server Side Blazor](https://blazorhelpwebsite.com/ViewBlogPost/1065) - January 28, 2023 - You can play dynamic audio in a Blazor Server application and have full control over the user interface. [YouTube video](https://www.youtube.com/watch?v=TRgYmTNmXT8) about this article.
 *   [.NET MAUI Blazor - Best practices for mobile UI](https://dev.to/mhrastegari/net-maui-blazor-best-practices-for-mobile-ui-4def) - January 27, 2023 - Both Blazor and .NET MAUI are great and Powerful frameworks. Using .NET MAUI, you can build fully native cross-platform apps and build web apps completely in C# with Blazor. But when you combine them with the MAUI Blazor template, you need to know that it should feel like a mobile app, not a web page. This articles explains some tips and tricks.
 
-## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
@@ -144,19 +174,20 @@
 ### Services / Misc
 
 *   [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
+*   [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
 
 ### Testing / Misc
 
 *   [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
 
-## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Meshenger (⭐327)](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
 *   [Qaul](https://qaul.net/): Internet independent wireless mesh communication App. Uses interlinked P2P mesh via BLE, Wifi & Internet-overlay.
 
-## [8. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [11. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Websites
 
@@ -188,13 +219,13 @@
 
 *   [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (*e.g.* automatically turn on wifi when you arrive home).
 
-## [9. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [12. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2022
 
 *   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐4)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -204,21 +235,13 @@
 
 *   [j0ru/kickoff (⭐167)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -227,43 +250,47 @@
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 
-## [13. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
 *   [Deno](https://deno.land/) - JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience.
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
 *   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐760)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
 
-## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+### Software / Software Development - Project Management
+
+*   [Taiga](https://www.taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
+
+## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
 
-## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Learn how to unleash the full potential of the Turing Complete type system of TypeScript!](https://type-level-typescript.com), 💵 online course with free first 5 chapters by [Gabriel Vergnaud](https://twitter.com/GabrielVergnaud)
 
-## [17. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [20. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Water-Quality Prediction Based on H2O AutoML and Explainable AI Techniques](https://www.mdpi.com/2073-4441/15/3/475) Hamza Ahmad Madni, Muhammad Umer, Abid Ishaq, Nihal Abuzinadah, Oumaima Saidani, Shtwai Alsubai, Monia Hamdi, Imran Ashraf. (2023)
 
-## [18. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [21. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
 *   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool.
 
-## [19. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [22. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Code Analysis
 
@@ -282,7 +309,7 @@
 
 *   [Foojay Podcast](https://foojay.io/today/category/podcast/)
 
-## [20. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [23. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
@@ -292,7 +319,7 @@
 
 *   [XSM](https://gitlab.com/atnb/xsm) - A fully-featured hierarchical State Machine with parallel states, easy animation, random states and more.
 
-## [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Meta-Level Considerations / Rationality
 
@@ -302,19 +329,23 @@
 
 *   [Program Synthesis Guided Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/f7e2b2b75b04175610e5a00c1e221ebb-Abstract.html) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269\&hl=en\&as_sdt=0,5)].
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Frameworks
+
+*   [libxutils (⭐14)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 
 ### Database
 
 *   [Kvrocks (⭐1.9k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
 
-## [23. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [26. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Data Manipulation / Data Frames
 
 *   [polars (⭐13k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
 
-## [24. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [27. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Web Feed Specifications / Specification Converters
 
@@ -412,13 +443,13 @@
 
 *   Aaron Swartz <sup>[1292](https://t.me/s/aboutrss/1292)</sup>
 
-## [25. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [28. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Marketing
 
 *   [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
 
-## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
@@ -429,7 +460,7 @@
 *   [lucidrains/musiclm-pytorch (⭐354)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 *   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐141)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 
-## [27. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
@@ -439,12 +470,16 @@
 
 *   [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
 *   [GeoCod](https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).
 *   [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
+
+### Security and PKI
+
+*   [SOOS](https://soos.io) - Free, unlimited SCA scans for open source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
 
 ### Forms
 
@@ -456,29 +491,33 @@
 *   [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution.
 *   [Coin360](https://api.coin360.com/) — Provides cryptocurrency market data including latest crypto exchange rates and historical data
 
-## [29. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [32. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### RPG
 
 *   [OpenEnroth (⭐541)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 
-## [30. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [33. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Ironsworn
 
 *   [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
 
-## [31. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [34. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Modeling
 
 *   :moneybag: [ZBrush](https://pixologic.com/)
 
+### Engines and Frameworks / Voxel Editors
+
+*   :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+
 ### Ads / Voxel Editors
 
 *   [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
 
-## [32. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [35. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### UI Components:
 
@@ -488,7 +527,7 @@
 
 
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -514,19 +553,24 @@
 
 *   [niuiic/multiple-session.nvim (⭐1)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
 
-## [34. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [37. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### User Defined
 
 *   [date-box (⭐1)](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
 
-## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [38. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [pnpm (mat2ja) (⭐0)](https://github.com/mat2ja/pnpm.plugin.zsh) - Better [pnpm](https://pnpm.io/) aliases.
 
-## [36. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [kubectl (chrishrb) (⭐1)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.2k)](https://github.com/kubernetes/kubectl)
+    )
+
+## [39. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Developer tools and frameworks
 

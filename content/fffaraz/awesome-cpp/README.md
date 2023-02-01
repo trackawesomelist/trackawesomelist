@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 01, 2023](/content/2023/02/01/README.md)
+
+### Frameworks
+
+*   [libxutils (⭐14)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Database

@@ -2,9 +2,15 @@
 
 A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/golemfactory/awesome-golem/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 golemfactory/awesome-golem](https://github.com/golemfactory/awesome-golem) · ⭐ 138 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/golemfactory/awesome-golem/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 golemfactory/awesome-golem](https://github.com/golemfactory/awesome-golem) · ⭐ 143 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/golemfactory/awesome-golem/README.md) / Weekly / [Overview](/content/golemfactory/awesome-golem/readme/README.md) ]
+
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Apps / Data Analysis
+
+*   [Coacervate (⭐4)](https://github.com/pryce-turner/coacervate/) - Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -20,7 +26,7 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Apps / Testing
 
-*   [ThorgPress (⭐1)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
+*   [ThorgPress (⭐2)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
 
 ### Provider Resources / Monitoring
 
@@ -76,7 +82,7 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Apps / Miscellaneous
 
-*   [Filterms (⭐3)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
+*   [Filterms (⭐4)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
@@ -96,7 +102,7 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Apps / VPN
 
-*   [Yagna httpx client (⭐1)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
+*   [Yagna httpx client (⭐2)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 
@@ -186,7 +192,7 @@ A community-curated list of awesome projects and resources related to the Golem 
 ### Network Statistics
 
 *   [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
-*   [Golem Stats backend (⭐1)](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
+*   [Golem Stats backend (⭐2)](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -200,7 +206,7 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 *   [Golem Network Platform](https://www.golem.network/platform) - Learn the Golem platform on the official Golem Network website.
 *   [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem.
-*   [Yagna GitHub (⭐264)](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
+*   [Yagna GitHub (⭐274)](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
 
 ### Apps
 
@@ -214,7 +220,7 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Apps / Testing
 
-*   [Golem Test Harness (Goth) (⭐10)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
+*   [Golem Test Harness (Goth) (⭐11)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
 *   [Golem-afl (⭐2)](https://github.com/sladecek/golem-afl) - An experimental test-fuzzing framework. Assists in finding security holes.
 *   [Golem Cargo Test (⭐2)](https://github.com/sladecek/golem_cargo_test) - An adaptive distributed test executor for Rust projects.
 *   [Golem CI (⭐5)](https://github.com/hhio618/golem-ci) - Decentralized task pipeline.
@@ -249,11 +255,11 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Apps / Finance
 
-*   [ZKSync .csv export (⭐0)](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
+*   [ZKSync .csv export (⭐1)](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
 
 ### Apps / Machine Learning
 
-*   [DeML-Golem (⭐31)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
+*   [DeML-Golem (⭐32)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
 
 ### Apps / Deep Learning
 
@@ -304,8 +310,8 @@ A community-curated list of awesome projects and resources related to the Golem 
 *   [WSL (⭐1)](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
 *   [Golem Provider Terraform (⭐2)](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
 *   [Automatic Golem (⭐7)](https://github.com/r34x/Automatic-Golem) - Setup a Golem Provider with simple instructions and logs guiding you through the process.
-*   [Golem Provider Node (⭐12)](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
-*   [Golem Provider node (⭐4)](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
+*   [Golem Provider Node (⭐13)](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
+*   [Golem Provider node (⭐5)](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
 
 ### Learning Resources / Presentations and Workshop Material
 
@@ -329,7 +335,7 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Developer and Requestor Resources / Miscellaneous
 
-*   [Releases List (⭐264)](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
+*   [Releases List (⭐274)](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
 
 ### Learning Resources / GitHub Digest Blog Series
 

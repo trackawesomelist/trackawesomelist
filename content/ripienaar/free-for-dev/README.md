@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 01, 2023](/content/2023/02/01/README.md)
+
+### Security and PKI
+
+*   [SOOS](https://soos.io) - Free, unlimited SCA scans for open source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### APIs, Data and ML
@@ -2415,7 +2421,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Issue Tracking and Project Management
 
-*   [saas.zentao.pm](https://saas.zentao.pm/) - An Application Lifecycle Management solution for Issue Tracking and Project Management, on-premise and open source version are available as well.
 *   [vabotu](https://vabotu.com/) - A collaborative tool for project management. Free and other plans are available. The Freelance plan is for 10 users, include messaging, task-boards, 5GB online storage, workspaces, export data.
 *   [Wikifactory](https://wikifactory.com/) — Product designing Service with Projects, VCS & Issues. Free plan offers unlimited projects & collaborators and 3GB storage.
 
@@ -3079,7 +3084,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Issue Tracking and Project Management
 
-*   [easyretro.io](https://www.easyretro.io/) — Free simple and intuitive sprint retrospective tool
+*   [easyretro.io](https://www.easyretro.io/) — Simple and intuitive sprint retrospective tool. Free plan has 3 public boards and 1 survey per board per month.
 
 ## [Jan 09, 2021](/content/2021/01/09/README.md)
 
@@ -4229,11 +4234,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
 *   [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
 *   [Tadum](https://tadum.app) - Meeting agenda and minutes app designed for recurring meetings, free for teams up to 10
-*   [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams
+*   [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams. Free plan has: 1 workspace with unlimited tasks and projects; 1GB file storage; 1 week project history; 5 attendees per video meeting.
 *   [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
-*   [todoist.com](https://todoist.com/) — Collaborative and individual task management. Free, Premium and Team plans are available. Discounts provided for eligible users.
+*   [todoist.com](https://todoist.com/) — Collaborative and individual task management. Free plan has: 5 active projects, 5 users in project, file uploading up to 5MB, 3 filters, 1 week activity history.
 *   [trello.com](https://trello.com/) — Board-based project management. Unlimited Personal Boards, 10 Team Boards.
-*   [vivifyscrum.com](https://www.vivifyscrum.com/) — Free tool for Agile project management. Scrum Compatible
 *   [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 3 users). Includes time tracking and agile boards
 
 ### Storage and Media Processing
@@ -4499,7 +4503,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Issue Tracking and Project Management
 
-*   [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free, paid plans with more options
+*   [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free plan has 2 boards, 2 users, without atachments or files.
 
 ### Design and UI
 
@@ -4972,7 +4976,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Issue Tracking and Project Management
 
-*   [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
+*   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. Free plan has 5GB for unlimited users.
 
 ## [Jan 10, 2016](/content/2016/01/10/README.md)
 

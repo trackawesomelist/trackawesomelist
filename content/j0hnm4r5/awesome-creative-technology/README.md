@@ -6,13 +6,27 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 [ Daily / [Weekly](/content/j0hnm4r5/awesome-creative-technology/week/README.md) / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
 
+## [Feb 01, 2023](/content/2023/02/01/README.md)
+
+### Collectives & Practices
+
+- Name: [**The Cuttelfish**](https://www.thecuttlefish.com/)
+
+  Locations: \[USA]
+
+  Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.thecuttlefish.com%2F)
+
+
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Creative Technology
 
 - Name: [**Beaudry Interactive**](https://www.binteractive.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: themed entertainment, museum exhibitions, live shows, and branded experiences
 
@@ -21,7 +35,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Dome**](http://www.domecollective.com)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experience design studio that gathers designers, technologists, and strategists to solve unusual problems
 
@@ -30,7 +44,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Intergalactic**](https://intergalactic.com)
 
-  Locations: ![Vancouver](https://img.shields.io/badge/-Vancouver-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[Vancouver] \[London]
 
   Keywords: mobile apps, interactive screens, web development, application design and visualization
 
@@ -39,7 +53,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Left Field Labs**](https://www.leftfieldlabs.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: products, platforms, and services that solve fundamental human challenges
 
@@ -48,7 +62,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**S1T2**](https://s1t2.com/)
 
-  Locations: ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Sydney] \[Melbourne] \[Shanghai]
 
   Keywords: We create interactive experiences that immerse audiences in the future of storytelling through technology.
 
@@ -57,7 +71,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**SOSO**](https://www.sosolimited.com/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat) ![San Diego](https://img.shields.io/badge/-San%20Diego-lightgrey?style=flat)
+  Locations: \[Boston] \[San Diego]
 
   Keywords: delivering real human impact across physical and virtual space, placemaking and storytelling
 
@@ -66,7 +80,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**TAD**](https://technologyarchitecturedesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[London]
 
   Keywords: digital experiences, technology and architecture, designed to inspire people.
 
@@ -78,7 +92,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Cortina Productions**](https://www.cortinaproductions.com/)
 
-  Locations: ![McLean, VA](https://img.shields.io/badge/-McLean%2C%20VA-lightgrey?style=flat)
+  Locations: \[McLean, VA]
 
   Keywords: artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space.
 
@@ -87,7 +101,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Northern Light Productions**](https://nlprod.com/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+  Locations: \[Boston]
 
   Keywords: immersive media environments, interactive experiences, or documentary films.
 
@@ -101,7 +115,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Taller Estampa**](https://www.tallerestampa.com)
 
-  Locations: ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat)
+  Locations: \[Barcelona]
 
   Keywords: group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments.
 
@@ -113,7 +127,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Cascade**](https://cascadeshow.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: interactive art experience
 
@@ -125,7 +139,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**SuperUber**](https://www.superuber.com/)
 
-  Locations: ![Rio de Janeiro](https://img.shields.io/badge/-Rio%20de%20Janeiro-lightgrey?style=flat) ![São Paulo](https://img.shields.io/badge/-S%C3%A3o%20Paulo-lightgrey?style=flat)
+  Locations: \[Rio de Janeiro] \[São Paulo]
 
   Keywords: experiences that blend art, technology, architecture and design
 
@@ -137,7 +151,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Eyeo**](https://www.eyeofestival.com/)
 
-  Locations: ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat)
+  Locations: \[Melbourne]
 
   Keywords: a gathering for the creative technology community
 
@@ -146,7 +160,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**ISEA**](https://isea2022.isea-international.org/)
 
-  Locations: ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat) ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Barcelona] \[Paris]
 
   Keywords: the crossroads where art, design, science, technology and society meet
 
@@ -155,7 +169,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**SXSW**](https://www.sxsw.com/)
 
-  Locations: ![Austin](https://img.shields.io/badge/-Austin-lightgrey?style=flat)
+  Locations: \[Austin]
 
   Keywords: film, music, interactive arts
 
@@ -167,7 +181,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Goldsmiths**](https://www.gold.ac.uk/pg/ma-computational-arts/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: a degree which develops your arts practice through the expressive world of creative computation
 
@@ -176,7 +190,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**ITP**](https://tisch.nyu.edu/itp)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.
 
@@ -185,7 +199,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**MIT Medialab**](https://media.mit.edu/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+  Locations: \[Boston]
 
   Keywords: art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration
 
@@ -194,7 +208,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Paris College of Art**](https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: designed for those who are interested in exploring the wide-ranging creative field of New Media
 
@@ -203,7 +217,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**University of the Arts**](https://www.arts.ac.uk/subjects/creative-computing/postgraduate/mres-creative-computing)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: computational technologies in the context of creative computing research
 
@@ -217,7 +231,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Spectacle**](https://spectacle.works/)
 
-  Locations: ![Phoenix](https://img.shields.io/badge/-Phoenix-lightgrey?style=flat)
+  Locations: \[Phoenix]
 
   Keywords: expertise in fabricating experiences that drive engagement and wow participants
 
@@ -231,7 +245,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Cognition**](https://cognitionlabs.io/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: an interactive studio designed to enrich experiences by building creative technology with human empathy
 
@@ -245,7 +259,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**1024 Architecture**](https://www.1024architecture.net/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: architectural and digital works, orchestrated sound and light scores
 
@@ -254,7 +268,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Acrylicize**](https://www.acrylicize.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Seattle](https://img.shields.io/badge/-Seattle-lightgrey?style=flat)
+  Locations: \[London] \[NYC] \[Seattle]
 
   Keywords: harness the power of art and creativity to help people fall in love with spaces
 
@@ -263,7 +277,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Ada**](https://a-da.co/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experience innovation and design agency that partners with the world's most ambitious visionaries and brands in the culture, arts and social impact space
 
@@ -272,7 +286,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Adirondack Studios**](https://www.adkstudios.com/)
 
-  Locations: ![Glens Falls, NY](https://img.shields.io/badge/-Glens%20Falls%2C%20NY-lightgrey?style=flat) ![Dubai](https://img.shields.io/badge/-Dubai-lightgrey?style=flat) ![Orlando](https://img.shields.io/badge/-Orlando-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat)
+  Locations: \[Glens Falls, NY] \[Dubai] \[Orlando] \[Shanghai] \[LA] \[Singapore]
 
   Keywords: concept, schematic, design, construction, fabrication, installation, support
 
@@ -281,7 +295,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Alt Ethos**](https://altethos.com/)
 
-  Locations: ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat)
+  Locations: \[Denver]
 
   Keywords: experiential, metaverse, and event design agency
 
@@ -290,7 +304,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Art + Com**](https://artcom.de/en/)
 
-  Locations: ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[Berlin]
 
   Keywords: media sculptures, data installations, new media
 
@@ -299,7 +313,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Augmented Magic**](https://www.augmented-magic.com/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: augmented magic shows, digital installations
 
@@ -308,7 +322,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**AV Controls**](https://www.av-controls.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: site-specific technology installations, digital landmarks
 
@@ -317,7 +331,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Barbarian**](https://wearebarbarian.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: marketing and advertising, new media
 
@@ -326,7 +340,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Blackbow**](https://www.blackbow.cn/)
 
-  Locations: ![Beijing](https://img.shields.io/badge/-Beijing-lightgrey?style=flat)
+  Locations: \[Beijing]
 
   Keywords: projection mapping, digital art and cultural experiences
 
@@ -335,7 +349,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Blublu**](http://www.blu-blu.com/)
 
-  Locations: ![Hangzhou](https://img.shields.io/badge/-Hangzhou-lightgrey?style=flat)
+  Locations: \[Hangzhou]
 
   Keywords: projection mapping, immersive experiences for museums and workspace
 
@@ -344,7 +358,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Bluecadet**](https://www.bluecadet.com/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Philadelphia] \[NYC]
 
   Keywords: experience design across digital and physical environments, visitor centers
 
@@ -353,7 +367,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**BRDG Studios**](https://www.brdg.co/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat)
+  Locations: \[Philadelphia]
 
   Keywords: digital moments in physical spaces, retail environments, art galleries, events
 
@@ -362,7 +376,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**BREAKFAST**](https://breakfastny.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: software-/hardware-driven artworks, flip discs
 
@@ -371,7 +385,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Breeze Creative**](https://www.breezecreative.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Miami](https://img.shields.io/badge/-Miami-lightgrey?style=flat)
+  Locations: \[NYC] \[Miami]
 
   Keywords: interactive experience design, family entertainment, museums, playgrounds, educational institutions
 
@@ -380,7 +394,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**C\&G Partners**](https://www.cgpartnersllc.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: branding, digital installations, exhibits and environments, signage, wayfinding, websites
 
@@ -389,7 +403,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Charcoalblue**](https://www.charcoalblue.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat) ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![UK](https://img.shields.io/badge/-UK-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[Melbourne] \[Chicago] \[UK] \[London]
 
   Keywords: amazing spaces where stories are told and experiences are shared
 
@@ -398,7 +412,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Cinimod Studio**](https://www.cinimodstudio.com)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: location based work where technology, environment, content and real life interaction meet
 
@@ -407,7 +421,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Code and Theory**](https://www.codeandtheory.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Manila](https://img.shields.io/badge/-Manila-lightgrey?style=flat)
+  Locations: \[NYC] \[San Francisco] \[London] \[Manila]
 
   Keywords: strategically driven, digital-first agency that lives at the intersection of creativity and technology
 
@@ -416,7 +430,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Comuzi**](https://www.comuzi.xyz/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
 
@@ -425,7 +439,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Deeplocal**](https://www.deeplocal.com/)
 
-  Locations: ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
+  Locations: \[Pittsburgh]
 
   Keywords: creative engineers, inventors, interactive experiences, human stories
 
@@ -434,7 +448,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Design I/O**](https://www.design-io.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat)
+  Locations: \[NYC] \[San Francisco]
 
   Keywords: immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space
 
@@ -443,7 +457,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Digifun**](http://www.digitalfun.net/)
 
-  Locations: ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Shanghai]
 
   Keywords: projection mapping, new media art education
 
@@ -452,7 +466,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Dimensional Innovations**](https://dimin.com/)
 
-  Locations: ![Kansas City](https://img.shields.io/badge/-Kansas%20City-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat) ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
+  Locations: \[Kansas City] \[Atlanta] \[Minneapolis] \[Denver] \[LA] \[Pittsburgh]
 
   Keywords: experience design, interactive experiences, brand activation
 
@@ -461,7 +475,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**dotdotdash**](https://dotdotdash.io/)
 
-  Locations: ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Portland] \[LA] \[NYC]
 
   Keywords: innovation agency that seamlessly blends the physical and digital
 
@@ -470,7 +484,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Downstream**](https://downstream.com/)
 
-  Locations: ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat)
+  Locations: \[Portland] \[Amsterdam] \[Melbourne]
 
   Keywords: strategy + design + content + technology
 
@@ -479,7 +493,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Envoy**](https://www.weareenvoy.com/)
 
-  Locations: ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![San Diego](https://img.shields.io/badge/-San%20Diego-lightgrey?style=flat)
+  Locations: \[Chicago] \[LA] \[San Diego]
 
   Keywords: transform environments into exceptional experiences, formerly Leviathan
 
@@ -488,7 +502,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**ESI Design**](https://esidesign.nbbj.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: transforms places into experiences, immersive deisgn, architectural scale
 
@@ -497,7 +511,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Extrapolation Factory**](https://extrapolationfactory.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: research studio, futures studies, collaborative prototyping
 
@@ -506,7 +520,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Fast Horse**](https://www.fasthorseinc.com/)
 
-  Locations: ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat)
+  Locations: \[Minneapolis]
 
   Keywords: a truly integrated creative agency
 
@@ -515,7 +529,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**FIELD**](https://www.field.io/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: future aesthetics for design, motion, experiential
 
@@ -524,7 +538,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Float4**](https://float4.com/en/)
 
-  Locations: ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Montreal] \[NYC]
 
   Keywords: integrates digital experiences into physical spaces to amplify their identity
 
@@ -533,7 +547,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**fuse**](https://www.fuseworks.it/en/)
 
-  Locations: ![Modena, Italy](https://img.shields.io/badge/-Modena%2C%20Italy-lightgrey?style=flat)
+  Locations: \[Modena, Italy]
 
   Keywords: live-media performances, experimentation, electronic music, digital arts
 
@@ -542,7 +556,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Future Colossal**](https://www.futurecolossal.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experiential technologies in advertising and entertainment and art
 
@@ -551,7 +565,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Gallagher Design**](https://www.gallagherdesign.com/)
 
-  Locations: ![DC](https://img.shields.io/badge/-DC-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat)
+  Locations: \[DC] \[NYC] \[Portland] \[Singapore]
 
   Keywords: harmony between technology, narrative, and physical design
 
@@ -560,7 +574,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Game Seven**](https://www.gamesevenmktg.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: intersection of sport and culture, brand stories
 
@@ -569,7 +583,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Geeksart**](http://geeks-art.com/)
 
-  Locations: ![Guangzhou](https://img.shields.io/badge/-Guangzhou-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Guangzhou] \[Shanghai]
 
   Keywords: media sculptures, new media exhibition
 
@@ -578,7 +592,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Giant Spoon**](https://giantspoon.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: translate cultural trends into big ideas, experiential, gaming
 
@@ -587,7 +601,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Hettema Group**](https://thehettemagroup.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: experiential, exhibit, live shows, theme parks, retail, dining, museums
 
@@ -596,7 +610,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Hotel Creative**](https://hotelcreative.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: retail, branding, exhibitions, events
 
@@ -605,7 +619,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Hovercraft**](https://www.hovercraftstudio.com/)
 
-  Locations: ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat)
+  Locations: \[Denver] \[Portland]
 
   Keywords: interactive installations, site-specific content, retail, sports
 
@@ -614,7 +628,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Hush Studios**](https://heyhush.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: marketing and advertising, retail and DTC, archtecture
 
@@ -623,7 +637,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**IMG SRC**](https://www.imgsrc.co.jp/)
 
-  Locations: ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat)
+  Locations: \[Tokyo]
 
   Keywords: full-service communication agency focusing on websites, installations, and R\&D
 
@@ -632,7 +646,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Invisible North**](https://www.invisiblenorth.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: culturally fluent, thoughtful experiences, bring brands to life
 
@@ -641,7 +655,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Jam3**](https://www.jam3.com)
 
-  Locations: ![Toronto](https://img.shields.io/badge/-Toronto-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Montevideo](https://img.shields.io/badge/-Montevideo-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat)
+  Locations: \[Toronto] \[LA] \[Montevideo] \[Amsterdam]
 
   Keywords: create modern experiences for tomorrow's brands
 
@@ -650,7 +664,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Jason Sherwood Design**](https://jasonsherwooddesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: television and broadway and concert stage design
 
@@ -659,7 +673,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Listen**](https://wearelisten.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: sensory-driven brand assets, modern cultural landscape, sound, experiences
 
@@ -668,7 +682,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Lorem Ipsum**](https://loremipsumcorp.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Moscow](https://img.shields.io/badge/-Moscow-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[Moscow] \[London]
 
   Keywords: experience design, narrative, physical and digital environments
 
@@ -677,7 +691,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**m ss ng p eces**](https://mssngpeces.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: new wave production and entertainment partner for content and immersive experiences that inspire culture
 
@@ -686,7 +700,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Magnopus**](https://www.magnopus.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[LA] \[London]
 
   Keywords: unite the physical and digital worlds with extraordinary experiences
 
@@ -695,7 +709,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Manifold**](https://www.wearemanifold.com/)
 
-  Locations: ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat)
+  Locations: \[San Francisco] \[LA] \[Portland]
 
   Keywords: we hire smart people and get out of their way
 
@@ -704,7 +718,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Map**](http://mapprojectoffice.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: industrial designers who believe great design can solve problems
 
@@ -713,7 +727,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Marshmallow Laser Feast**](https://www.marshmallowlaserfeast.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: leaving a slug trail of sensory nuggets as we journey through the cosmos
 
@@ -722,7 +736,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Midnight Commercial**](http://midnightcommercial.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: unite the disparate digital and physical worlds
 
@@ -731,7 +745,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**MindBuffer**](https://mindbuffer.net/)
 
-  Locations: ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[Berlin]
 
   Keywords: audiovisual research and digital design studio
 
@@ -740,7 +754,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Moment Factory**](https://momentfactory.com/home)
 
-  Locations: ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat) ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Montreal] \[LA] \[London] \[Tokyo] \[Paris] \[NYC]
 
   Keywords: shows, destinations, content, interactive, scenography
 
@@ -749,7 +763,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Momentum Worldwide**](https://www.momentumww.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Athens](https://img.shields.io/badge/-Athens-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Bogota](https://img.shields.io/badge/-Bogota-lightgrey?style=flat) ![Bucharest](https://img.shields.io/badge/-Bucharest-lightgrey?style=flat) ![Cairo](https://img.shields.io/badge/-Cairo-lightgrey?style=flat) ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![Dubai](https://img.shields.io/badge/-Dubai-lightgrey?style=flat) ![Frankfurt](https://img.shields.io/badge/-Frankfurt-lightgrey?style=flat) ![Gothenburg](https://img.shields.io/badge/-Gothenburg-lightgrey?style=flat) ![Lima](https://img.shields.io/badge/-Lima-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Madrid](https://img.shields.io/badge/-Madrid-lightgrey?style=flat) ![Manchester](https://img.shields.io/badge/-Manchester-lightgrey?style=flat) ![Mexico City](https://img.shields.io/badge/-Mexico%20City-lightgrey?style=flat) ![Milan](https://img.shields.io/badge/-Milan-lightgrey?style=flat) ![New Delhi](https://img.shields.io/badge/-New%20Delhi-lightgrey?style=flat) ![Santiago](https://img.shields.io/badge/-Santiago-lightgrey?style=flat) ![Sao Paulo](https://img.shields.io/badge/-Sao%20Paulo-lightgrey?style=flat) ![Seattle](https://img.shields.io/badge/-Seattle-lightgrey?style=flat) ![Seoul](https://img.shields.io/badge/-Seoul-lightgrey?style=flat) ![St. Louis](https://img.shields.io/badge/-St.%20Louis-lightgrey?style=flat) ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat) ![Toronto](https://img.shields.io/badge/-Toronto-lightgrey?style=flat) ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat)
+  Locations: \[NYC] \[Athens] \[Atlanta] \[Bogota] \[Bucharest] \[Cairo] \[Chicago] \[Dubai] \[Frankfurt] \[Gothenburg] \[Lima] \[London] \[Madrid] \[Manchester] \[Mexico City] \[Milan] \[New Delhi] \[Santiago] \[Sao Paulo] \[Seattle] \[Seoul] \[St. Louis] \[Sydney] \[Toronto] \[Tokyo]
 
   Keywords: disruptive, entertaining, shareable, unforgettable experiences for clients and their fans
 
@@ -758,7 +772,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Motse**](https://www.behance.net/motseart/projects)
 
-  Locations: ![Shenzhen](https://img.shields.io/badge/-Shenzhen-lightgrey?style=flat)
+  Locations: \[Shenzhen]
 
   Keywords: digital art
 
@@ -767,7 +781,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**MSCHF**](https://mschf.xyz/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: viral stunts and products, trying to do stuff that the world can't even define
 
@@ -776,7 +790,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**mycotoo**](https://mycotoo.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat)
+  Locations: \[LA] \[Barcelona]
 
   Keywords: entertainment development company specializing in theme park design, immersive experiences, and best-in-class events worldwide
 
@@ -785,7 +799,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**NCompass**](https://ncompassonline.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: brand and marketing solutions creating experiences that integrate the latest technology and creative
 
@@ -794,7 +808,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**NeoPangea**](https://www.neopangea.com/)
 
-  Locations: ![Reading, PA](https://img.shields.io/badge/-Reading%2C%20PA-lightgrey?style=flat)
+  Locations: \[Reading, PA]
 
   Keywords: microsites, games, VR/AR, digital, social
 
@@ -803,7 +817,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**NGX Interactive**](https://ngxinteractive.com/)
 
-  Locations: ![Vancouver](https://img.shields.io/badge/-Vancouver-lightgrey?style=flat)
+  Locations: \[Vancouver]
 
   Keywords: pushing new technologies to create experiences that are vivid and meaningful
 
@@ -812,7 +826,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Night Kitchen**](https://www.whatscookin.com/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat)
+  Locations: \[Philadelphia]
 
   Keywords: dynamic digital experiences, online exhibitions, digital strategy, storytelling
 
@@ -821,7 +835,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Nowhere**](https://studionowhere.com/)
 
-  Locations: ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Shanghai]
 
   Keywords: marketing events, interactive experiences
 
@@ -830,7 +844,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Oat Foundry**](https://www.oatfoundry.com/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat)
+  Locations: \[Philadelphia]
 
   Keywords: split-flap displays, electromechanical stuff, think tank, products, experiences
 
@@ -839,7 +853,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Onformative**](https://onformative.com/)
 
-  Locations: ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[Berlin]
 
   Keywords: studio for digital art and design, challenge the boundaries between art and design and technology
 
@@ -848,7 +862,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Optimist**](https://optimistinc.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![Hamburg](https://img.shields.io/badge/-Hamburg-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat) ![Prague](https://img.shields.io/badge/-Prague-lightgrey?style=flat)
+  Locations: \[LA] \[NYC] \[London] \[Amsterdam] \[Hamburg] \[Berlin] \[Prague]
 
   Keywords: architects of subculture, creative, design, strategy, production, content, brand experience
 
@@ -857,7 +871,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Patten Studio**](https://www.pattenstudio.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: informed by research at the MIT Media Lab, experiences that connect people
 
@@ -866,7 +880,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Potion Design**](https://www.potiondesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: design and technology studio, interactive, musuems
 
@@ -875,7 +889,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**pretty bloody simple**](https://www.prettybloodysimple.com)
 
-  Locations: ![Munich](https://img.shields.io/badge/-Munich-lightgrey?style=flat)
+  Locations: \[Munich]
 
   Keywords: interactive experiences, analog and digital, musuems
 
@@ -884,7 +898,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Rare Volume**](https://rarevolume.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: design and technology studio, interactive video walls
 
@@ -893,7 +907,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Red Paper Heart**](https://redpaperheart.com)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: art from real world interaction
 
@@ -902,7 +916,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Relative Scale**](https://relativescale.com/)
 
-  Locations: ![Raleigh](https://img.shields.io/badge/-Raleigh-lightgrey?style=flat)
+  Locations: \[Raleigh]
 
   Keywords: bespoke digital products and experiences for brands and institutions
 
@@ -911,7 +925,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Rosie Lee Creative**](https://rosieleecreative.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[London] \[Amsterdam] \[NYC]
 
   Keywords: design, creative, digital and consultancy
 
@@ -920,7 +934,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Second Story**](https://secondstory.com/)
 
-  Locations: ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Atlanta] \[Portland] \[NYC]
 
   Keywords: exhibition, interactive, software, experience, hardware, VR, AR, projection
 
@@ -929,7 +943,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Seeeklab**](https://www.seeeklab.com/en/)
 
-  Locations: ![Xiamen](https://img.shields.io/badge/-Xiamen-lightgrey?style=flat)
+  Locations: \[Xiamen]
 
   Keywords: marketing events, interactive installation
 
@@ -938,7 +952,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**space150**](https://www.space150.com/)
 
-  Locations: ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Minneapolis] \[LA] \[NYC]
 
   Keywords: a tech-driven creative agency
 
@@ -947,7 +961,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Special Projects**](https://specialprojects.studio/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: design and innovation agency that reveals user needs and transforms them into experiences and products
 
@@ -956,7 +970,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Staat**](https://www.staat.com/)
 
-  Locations: ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat)
+  Locations: \[Amsterdam]
 
   Keywords: branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail
 
@@ -965,7 +979,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Stimulant**](https://stimulant.com/)
 
-  Locations: ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat)
+  Locations: \[San Francisco]
 
   Keywords: experience design and interactive installation, human-scale, site-specific digital experiences and touchscreen applications
 
@@ -974,7 +988,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**StoreyStudio**](https://www.storeystudio.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: spatial design, set design, window displays, moving image
 
@@ -983,7 +997,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Studio Black**](https://www.studioblack.org/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[LA] \[NYC]
 
   Keywords: technical production, design advisory, content management, digital content
 
@@ -992,7 +1006,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Studio Elsewhere**](https://www.studioelsewhere.co/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: bio-experiential design and technology to support brain health
 
@@ -1001,7 +1015,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Superfly**](https://superf.ly/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: create shared experiences that shape how the world plays & connects
 
@@ -1010,7 +1024,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Team Epiphany**](https://www.teamepiphany.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: influencer marketing, IRL, vertical integration
 
@@ -1019,7 +1033,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Tellart**](https://www.tellart.com/)
 
-  Locations: ![Providence](https://img.shields.io/badge/-Providence-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat)
+  Locations: \[Providence] \[Amsterdam] \[San Francisco]
 
   Keywords: transformative experiences, invention, physical & digital experiences, new technologies
 
@@ -1028,7 +1042,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**The Gathery**](http://www.thegathery.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: editorially-born creative agency specializing in brand marketing and content creation
 
@@ -1037,7 +1051,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**The Lab at Rockwell Group**](https://www.labatrockwellgroup.com)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: architecture and design, branded experiences, immersive environments, pop ups
 
@@ -1046,7 +1060,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**The Projects**](http://theprojects.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat)
+  Locations: \[London] \[LA] \[NYC] \[Sydney]
 
   Keywords: brand consultancy, meaningful experiences, tell stories
 
@@ -1055,7 +1069,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Thinkwell**](https://thinkwellgroup.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat) ![Abu Dhabi](https://img.shields.io/badge/-Abu%20Dhabi-lightgrey?style=flat) ![Riyadh](https://img.shields.io/badge/-Riyadh-lightgrey?style=flat)
+  Locations: \[LA] \[Montreal] \[Abu Dhabi] \[Riyadh]
 
   Keywords: strategy, experience design, production, master planning, entertainment destinations, branded attractions, interactive media installations, events, museums, expos
 
@@ -1064,7 +1078,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Tool**](https://www.toolofna.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: help brands and agencies with ideation, content, and experience production that generate buzz
 
@@ -1073,7 +1087,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Trivium Interactive**](https://www.triviuminteractive.com/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+  Locations: \[Boston]
 
   Keywords: experience design and production
 
@@ -1082,7 +1096,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Two Goats**](https://www.twogoats.us/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[LA] \[London]
 
   Keywords: AR, interactive branded experiences
 
@@ -1091,7 +1105,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Unified Field**](https://www.unifiedfield.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces
 
@@ -1100,7 +1114,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**UNIT9**](https://www.unit9.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[London] \[LA] \[NYC] \[Berlin]
 
   Keywords: innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors
 
@@ -1109,7 +1123,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Upswell**](https://hello-upswell.com/)
 
-  Locations: ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat)
+  Locations: \[Portland]
 
   Keywords: digital and physical content first experiences
 
@@ -1118,7 +1132,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**VTProDesign**](https://vtprodesign.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: high tech robotics and projection mapping
 
@@ -1127,7 +1141,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**VVOX**](https://volvoxlabs.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: high-end design, code, fabrication, sound
 
@@ -1136,7 +1150,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**We Are Royale**](https://weareroyale.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Seattle](https://img.shields.io/badge/-Seattle-lightgrey?style=flat)
+  Locations: \[LA] \[Seattle]
 
   Keywords: frontlines of design & technology to arm brands with the creative to turn audiences into advocates
 
@@ -1145,7 +1159,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Wonderlabs**](https://www.wonderlabsstudio.com/)
 
-  Locations: ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Shanghai]
 
   Keywords: marketing events, interactive installation
 
@@ -1154,7 +1168,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**XORXOR**](https://www.xorxor.hu)
 
-  Locations: ![Budapest](https://img.shields.io/badge/-Budapest-lightgrey?style=flat)
+  Locations: \[Budapest]
 
   Keywords: collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design
 
@@ -1163,7 +1177,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Yellow Studio**](https://yellowstudio.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: artistically-minded design, tv/concert/event production design, set design
 
@@ -1173,18 +1187,9 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 ### Collectives & Practices
 
-- Name: [**Cuttefish**](https://www.thecuttlefish.com/)
-
-  Locations: ![USA](https://img.shields.io/badge/-USA-lightgrey?style=flat)
-
-  Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.thecuttlefish.com%2F)
-
-
 - Name: [**Dave + Gabe**](https://www.daveandgabe.care/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: interactive installation studio, real-time animation, generative 3D sound
 
@@ -1193,7 +1198,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**NONOTAK Studio**](https://www.nonotak.com/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: light and sound installations, ethereal, immersive, dreamlike
 
@@ -1202,7 +1207,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**panGenerator**](https://pangenerator.com/)
 
-  Locations: ![Warsaw](https://img.shields.io/badge/-Warsaw-lightgrey?style=flat)
+  Locations: \[Warsaw]
 
   Keywords: new media art and design collective, mixing bits & atoms
 
@@ -1211,7 +1216,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Random International**](https://www.random-international.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[London] \[Berlin]
 
   Keywords: experimental practice within contemporary art, human condition in an increasingly mechanised world
 
@@ -1220,7 +1225,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Smooth Technology**](https://smooth.technology/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: cutting-edge technology and artistic sensibility, wireless wearables, create the impossible
 
@@ -1229,7 +1234,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**teamLab**](https://www.teamlab.art/)
 
-  Locations: ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat)
+  Locations: \[Tokyo]
 
   Keywords: full-room interactive projection mapping, interdisciplinary group of ultratechnologists
 
@@ -1238,7 +1243,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**United Visual Artists**](https://www.uva.co.uk/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: new technologies with traditional media, site-specific, instruments that manipulate perception
 
@@ -1247,7 +1252,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**WHYIXD**](https://www.whyixd.com/)
 
-  Locations: ![Taiwan](https://img.shields.io/badge/-Taiwan-lightgrey?style=flat)
+  Locations: \[Taiwan]
 
   Keywords: cross-disciplinary art installations, dance, architecture, music
 
@@ -1256,7 +1261,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Zebradog**](https://www.zebradog.com/)
 
-  Locations: ![Madison](https://img.shields.io/badge/-Madison-lightgrey?style=flat)
+  Locations: \[Madison]
 
   Keywords: communication design and the built environment, higher education
 
@@ -1268,7 +1273,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**29 Rooms (Vice Media Group)**](https://www.29rooms.com/)
 
-  Locations: ![USA](https://img.shields.io/badge/-USA-lightgrey?style=flat)
+  Locations: \[USA]
 
   Keywords: multi-sensory installations, performances, and workshops
 
@@ -1277,7 +1282,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Color Factory**](https://www.colorfactory.co/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Houston](https://img.shields.io/badge/-Houston-lightgrey?style=flat)
+  Locations: \[NYC] \[Houston]
 
   Keywords: collaborative interactive exhibit
 
@@ -1286,7 +1291,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Meow Wolf**](https://meowwolf.com/)
 
-  Locations: ![Santa Fe](https://img.shields.io/badge/-Santa%20Fe-lightgrey?style=flat)
+  Locations: \[Santa Fe]
 
   Keywords: immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration
 
@@ -1295,7 +1300,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Museum of Ice Cream**](https://www.museumoficecream.com/)
 
-  Locations: ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[San Francisco] \[NYC]
 
   Keywords: transforms concepts and dreams into spaces that provoke imagination and creativity
 
@@ -1304,7 +1309,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**PopUpMob**](https://popupmob.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[NYC] \[LA] \[London] \[Paris]
 
   Keywords: one-stop shop for pop up experiences
 
@@ -1316,7 +1321,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Bednark**](https://builtbybednark.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: full-service fabrication, production, install
 
@@ -1325,7 +1330,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Pink Sparrow**](https://www.pinksparrow.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: environmental design, project management
 
@@ -1334,7 +1339,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Visionary Effects**](http://www.visionaryeffects.com/)
 
-  Locations: ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
+  Locations: \[Pittsburgh]
 
   Keywords: old-school manufacturing processes with digital design and fabrication
 
@@ -1346,7 +1351,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Dera Lee Productions**](http://www.deralee.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: theatre arts, story-telling
 
@@ -1355,7 +1360,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**GPJ**](https://www.gpj.com/)
 
-  Locations: ![Austin](https://img.shields.io/badge/-Austin-lightgrey?style=flat) ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat) ![Dallas](https://img.shields.io/badge/-Dallas-lightgrey?style=flat) ![Detroit](https://img.shields.io/badge/-Detroit-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Nashville](https://img.shields.io/badge/-Nashville-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![Silicon Valley](https://img.shields.io/badge/-Silicon%20Valley-lightgrey?style=flat)
+  Locations: \[Austin] \[Boston] \[Dallas] \[Detroit] \[LA] \[Nashville] \[NYC] \[San Francisco] \[Silicon Valley]
 
   Keywords: immersive events and experiences
 
@@ -1364,7 +1369,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Sparks**](https://wearesparks.com/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat) ![Detroit](https://img.shields.io/badge/-Detroit-lightgrey?style=flat) ![Connecticut](https://img.shields.io/badge/-Connecticut-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Las Vegas](https://img.shields.io/badge/-Las%20Vegas-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Philadelphia] \[Detroit] \[Connecticut] \[Atlanta] \[LA] \[Las Vegas] \[NYC] \[San Francisco] \[Shanghai]
 
   Keywords: trade show, experiential, retail
 
@@ -1376,7 +1381,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Carlo Ratti Associatti**](https://carloratti.com/)
 
-  Locations: ![Torino, Italy](https://img.shields.io/badge/-Torino%2C%20Italy-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![UK](https://img.shields.io/badge/-UK-lightgrey?style=flat)
+  Locations: \[Torino, Italy] \[NYC] \[UK]
 
   Keywords: design and innovation office, MIT Media Lab: Senseable City Lab
 
@@ -1385,7 +1390,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Gensler**](https://dxd.gensler.com/)
 
-  Locations: ![Worldwide](https://img.shields.io/badge/-Worldwide-lightgrey?style=flat)
+  Locations: \[Worldwide]
 
   Keywords: built environment with integrated capabilities in strategy, design, technology, data, and architecture
 
@@ -1394,7 +1399,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Olson Kundig**](https://olsonkundig.com/)
 
-  Locations: ![Seattle](https://img.shields.io/badge/-Seattle-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Seattle] \[NYC]
 
   Keywords: architecture, vessel that supports specific art installations, seamless spatial experience
 
@@ -1403,7 +1408,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**SOFTlab**](https://softlabnyc.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: mixes research and creativity and technology with a strong desire to make working fun
 
@@ -1412,7 +1417,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Universal Design Studio**](http://www.universaldesignstudio.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[London] \[NYC]
 
   Keywords: driven by a deeply held belief in the transformative power of well designed and finely crafted spaces
 
@@ -1424,7 +1429,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**\&Walsh**](https://andwalsh.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: brand strategy, art direction, design and production across all platforms
 
@@ -1433,7 +1438,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Framestore**](https://www.framestore.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat)
+  Locations: \[London] \[NYC] \[Montreal]
 
   Keywords: virtual, augmented and mixed realities, location-based entertainment, and theme park rides
 
@@ -1442,7 +1447,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**ManvsMachine**](https://mvsm.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[London] \[LA]
 
   Keywords: multidimensional creative studio
 
@@ -1451,7 +1456,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Media Monks**](https://www.mediamonks.com/)
 
-  Locations: ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Dubai](https://img.shields.io/badge/-Dubai-lightgrey?style=flat) ![Stockholm](https://img.shields.io/badge/-Stockholm-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![Mexico City](https://img.shields.io/badge/-Mexico%20City-lightgrey?style=flat) ![São Paulo](https://img.shields.io/badge/-S%C3%A3o%20Paulo-lightgrey?style=flat) ![Buenos Aires](https://img.shields.io/badge/-Buenos%20Aires-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat)
+  Locations: \[Amsterdam] \[London] \[Dubai] \[Stockholm] \[NYC] \[LA] \[San Francisco] \[Mexico City] \[São Paulo] \[Buenos Aires] \[Shanghai] \[Singapore]
 
   Keywords: creative production
 
@@ -1460,7 +1465,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**R/GA**](https://www.rga.com/)
 
-  Locations: ![Austin](https://img.shields.io/badge/-Austin-lightgrey?style=flat) ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat) ![Bucharest](https://img.shields.io/badge/-Bucharest-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Buenos Aires](https://img.shields.io/badge/-Buenos%20Aires-lightgrey?style=flat) ![Santiago](https://img.shields.io/badge/-Santiago-lightgrey?style=flat) ![São Paulo](https://img.shields.io/badge/-S%C3%A3o%20Paulo-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat) ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat) ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat)
+  Locations: \[Austin] \[Chicago] \[LA] \[NYC] \[Portland] \[San Francisco] \[Berlin] \[Bucharest] \[London] \[Buenos Aires] \[Santiago] \[São Paulo] \[Melbourne] \[Shanghai] \[Singapore] \[Sydney] \[Tokyo]
 
   Keywords: business, experience, and marketing transformation
 
@@ -1469,7 +1474,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**The Mill**](https://www.themill.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![Bangalore](https://img.shields.io/badge/-Bangalore-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[London] \[NYC] \[LA] \[Chicago] \[Bangalore] \[Berlin]
 
   Keywords: experience makers, media and brand activation, innovative design, and inventive technologies
 
@@ -1481,7 +1486,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Art Processors**](https://www.artprocessors.net/)
 
-  Locations: ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat)
+  Locations: \[Melbourne]
 
   Keywords: specialist interactive media and exhibition design
 
@@ -1490,7 +1495,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Exploratorium**](https://www.exploratorium.edu/)
 
-  Locations: ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat)
+  Locations: \[San Francisco]
 
   Keywords: exhibits made in-house, public-facing workshop
 
@@ -1499,7 +1504,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**GSM Project**](https://gsmproject.com/en/)
 
-  Locations: ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat) ![Dubai](https://img.shields.io/badge/-Dubai-lightgrey?style=flat)
+  Locations: \[Montreal] \[Singapore] \[Dubai]
 
   Keywords: content first, exhibitions
 
@@ -1508,7 +1513,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Ideum**](https://www.ideum.com/)
 
-  Locations: ![Albuquerque](https://img.shields.io/badge/-Albuquerque-lightgrey?style=flat)
+  Locations: \[Albuquerque]
 
   Keywords: interactive exhibits and exhibitions, integrated hardware products
 
@@ -1517,7 +1522,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Iglhaut + von Grote**](http://iglhaut-vongrote.de/en/)
 
-  Locations: ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[Berlin]
 
   Keywords: scenography, spatial mise-en-scène
 
@@ -1526,7 +1531,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Local Projects**](https://localprojects.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experience Designers pushing the boundaries of human interaction
 
@@ -1535,7 +1540,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Monadnock Media**](https://monadnock.org/)
 
-  Locations: ![Massachusetts](https://img.shields.io/badge/-Massachusetts-lightgrey?style=flat)
+  Locations: \[Massachusetts]
 
   Keywords: multimedia experiences for museums, historic sites and public places
 
@@ -1544,7 +1549,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Roto**](https://roto.com/)
 
-  Locations: ![Columbus, OH](https://img.shields.io/badge/-Columbus%2C%20OH-lightgrey?style=flat)
+  Locations: \[Columbus, OH]
 
   Keywords: experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking.
 
@@ -1553,7 +1558,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Thinc**](https://www.thincdesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: provoke meaningful conversations about the world in which we live
 

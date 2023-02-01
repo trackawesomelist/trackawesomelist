@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Feb 01, 2023](/content/2023/02/01/README.md)
+
+### Software / Software Development - Project Management
+
+*   [Taiga](https://www.taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Software / Communication - Social Networks and Forums
@@ -756,10 +762,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐13k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go`
 *   [TeslaMate (⭐3.5k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir`
 *   [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code (⭐5k)](https://github.com/tmate-io/tmate)) `ISC` `C`
-
-### Software / Software Development - Project Management
-
-*   [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
 
 ## [Aug 09, 2022](/content/2022/08/09/README.md)
 
@@ -2593,7 +2595,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Photo and Video Galleries
 
 *   [Photonix](https://photonix.org/) - A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms. ([Demo](https://demo.photonix.org/), [Source Code (⭐1.5k)](https://github.com/photonixapp/photonix)) `AGPL-3.0` `Python`
-*   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Demo](https://photos.qpqp.dk/), [Source Code (⭐3.5k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go`
+*   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Source Code (⭐3.5k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go`
 
 ### Software / Proxy
 
@@ -3092,7 +3094,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Polls and Events
 
-*   [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Demo](https://demo.gancio.org/), [Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
+*   [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
 
 ## [Nov 10, 2020](/content/2020/11/10/README.md)
 

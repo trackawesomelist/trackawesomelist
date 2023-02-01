@@ -6,6 +6,13 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Feb 01, 2023](/content/2023/02/01/README.md)
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [kubectl (chrishrb) (⭐1)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.2k)](https://github.com/kubernetes/kubectl)
+    )
+
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
@@ -51,7 +58,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [xcode (⭐44)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
+*   [xcode (⭐46)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
 
@@ -105,7 +112,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fzf-tab-widgets (⭐1)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab).
+*   [fzf-tab-widgets (⭐0)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab).
 
 ## [Dec 28, 2022](/content/2022/12/28/README.md)
 
@@ -1773,7 +1780,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [actiona (⭐1)](https://github.com/matthieusb/act) - Make it easier to call [actiona (⭐377)](https://github.com/Jmgr/actiona) scripts from your command line. Includes tab completions.
 *   [alacritty (⭐8)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐44k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
 *   [alias-tips (⭐683)](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once.
-*   [alias](https://github.com/xylous/alias-zsh) - Tool for managing your aliases.
 *   [allergen (⭐3)](https://github.com/stanislas/allergen) - A collection of custom ZSH plugins to use with Antigen.
 *   [almostontop (⭐85)](https://github.com/Valiev/almostontop) - Clears previous command output every time before new command executed in shell. Inspired by the [alwaysontop (⭐187)](https://github.com/swirepe/alwaysontop) plugin for `bash`.
 *   [alt-and-select (⭐4)](https://github.com/raisty/alt-and-select) - Binds the alt-c (copy), alt-v (paste), alt-x (cut) keyboard shortcut to a commands: copy-region-as-kill, yank, kill-region. Remaps the execute command to Alt-Shift-X.
@@ -2680,7 +2686,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [honukai-iterm (⭐1.1k)](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for oh-my-zsh and iTerm 2.
 *   [horizontal (⭐3)](https://github.com/nuimk/horizontal) - Two line prompt with a horizontal separator.
 *   [hornix (⭐1)](https://github.com/fusion809/zsh-theme) - Displays time & date, OS (including distro if on Linux), directory and whether running as root.
-*   [horse-sh](https://github.com/emileswarts/horse-sh) - A very minimal brown/red ZSH theme.
+*   [horse-sh (⭐0)](https://github.com/emileswarts/horse-sh) - A very minimal brown/red ZSH theme.
 *   [hub](https://gist.github.com/hub23/c226b1c77446e099f7684b0d21c6b22a) - Simple and clean, includes the return code of the last command executed.
 *   [hug (⭐3)](https://github.com/xxninjabunnyxx/hug-zsh) - When you're working and need a hug. Includes `git` status.
 *   [humbled (⭐1)](https://github.com/saravanabalagi/zsh-theme-humbled) - A clean and humble theme with left-aligned `condaenv`, `virtualenv` and `git` status. Requires [condaenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-condaenv) plugin.
@@ -3008,7 +3014,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [solarizsh (⭐4)](https://github.com/paddykontschak/Solarizsh) - Color fix for robbyrussell's oh-my-zsh theme to work with [solarized (⭐15k)](https://github.com/altercation/solarized) terminals.
 *   [spowerline](https://mbauhardt.github.io/spowerline/) - Written in scala, inspired by [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme), [tmux](https://tmux.github.io) powerline, vim powerline and the vim status plugin.
 *   [spyrhoo (⭐2)](https://github.com/FajarKim/spyrhoo-zsh-theme) - Includes time, `git` and current directory decorations.
-*   [squanchy](https://github.com/gabrielecanepa/zsh-custom/tree/master/themes) - Minimalist theme. Includes `git`, `node` and `rbenv` status decorations.
 *   [ssfprompt (⭐0)](https://github.com/hugoh/zsh-ssfprompt) - Simple, slim, fast. Includes `ssh`, virtualenv and vcs decorations.
 *   [staples (⭐4)](https://github.com/dersam/staples) - Based on bureau, displays user\@host if connected through SSH.
 *   [starboy (⭐0)](https://github.com/prdpx7/Starboy) - A simple ZSH theme.

@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐760)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
 
+### Software / Software Development - Project Management
+
+*   [Taiga](https://www.taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Software / Automation
@@ -723,7 +727,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Project Management
 
-*   [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
 *   [Traq](https://traq.io/) - Project management and issue tracking system written in PHP. ([Source Code (⭐166)](https://github.com/nirix/traq)) `GPL-3.0` `PHP/Nodejs`
 
 ### Software / Status / Uptime pages
@@ -2379,7 +2382,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Photo and Video Galleries
 
 *   [Photonix](https://photonix.org/) - A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms. ([Demo](https://demo.photonix.org/), [Source Code (⭐1.5k)](https://github.com/photonixapp/photonix)) `AGPL-3.0` `Python`
-*   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Demo](https://photos.qpqp.dk/), [Source Code (⭐3.5k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go`
+*   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Source Code (⭐3.5k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go`
 
 ### Software / Proxy
 
@@ -2798,7 +2801,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Polls and Events
 
-*   [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Demo](https://demo.gancio.org/), [Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
+*   [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
