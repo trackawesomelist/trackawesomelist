@@ -12,6 +12,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education)
 
+### Online Tools and Applications / Generative Adversarial Networks (GANs)
+
+*   [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
+
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
 *   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
@@ -20,6 +24,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [lucidrains/musiclm-pytorch (⭐354)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 *   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐141)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
+
+### Inbox: Developing + AI / Text-related Generative Tools
+
+*   [openai/openai-cookbook (⭐11k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 

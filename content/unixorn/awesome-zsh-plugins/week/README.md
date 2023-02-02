@@ -17,6 +17,10 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [kubectl (chrishrb) (⭐1)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.2k)](https://github.com/kubernetes/kubectl)
     )
 
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [simply-perfect (⭐0)](https://github.com/SetOfAllSets/simply-perfect-zsh-theme/) - Reminiscent of Powerline and Bullettrain. Includes decorators for `git` status, current directory, last command exit status, current time and username.
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
@@ -239,7 +243,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [conda (⭐283)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for conda.
+*   [conda (⭐283)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
 *   [ddc (⭐19)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐520)](https://github.com/Shougo/ddc.vim).
 *   [symfony-complete (⭐1)](https://github.com/voronkovich/symfony-complete.plugin.zsh) - Universal completion for [Symfony](https://symfony.com/doc/current/components/console.html) based CLI applications: `composer`, `php-cs-fix`, `bin/console`, `artisan`, `php-cs-fixer` and etc. This supports autocompletion for subcommands and GNU-style options (`--help`)
 

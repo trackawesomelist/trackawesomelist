@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Feb 02, 2023](/content/2023/02/02/README.md)
+
+### Programming
+
+*   [Principled Programming / Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) - Tim Teitelbaum
+
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
 ### Game Development
@@ -295,7 +301,7 @@
 
 ## [Oct 05, 2022](/content/2022/10/05/README.md)
 
-### Theoretical Computer Science
+### Programming
 
 *   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 
@@ -508,14 +514,14 @@
 
 *   [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide/read) (HTML)
 
-### Software Architecture
-
-*   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
-
-### Theoretical Computer Science
+### Programming
 
 *   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
 *   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
+
+### Software Architecture
+
+*   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 
 ## [Aug 22, 2022](/content/2022/08/22/README.md)
 
@@ -875,10 +881,6 @@
 
 *   [Event-Driven GTK by Example — 2021 Edition](https://mmstick.github.io/gtkrs-tutorials/) - Michael Murphy
 
-### Theoretical Computer Science
-
-*   [Theory of Computation, Making Connections](https://joshua.smcvt.edu/computation) - Jim Hefferon (PDF)
-
 ## [Oct 05, 2021](/content/2021/10/05/README.md)
 
 ### Compiler Design
@@ -954,7 +956,7 @@
 *   [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 *   [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
-*   [Papers we love (⭐68k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐69k)](https://github.com/papers-we-love/papers-we-love)
 *   [Programming](https://en.wikibooks.org/wiki/Category%3aComputer_programming) - Wikibooks
 *   [Red Gate Books](http://www.red-gate.com/community/books/index)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
@@ -987,24 +989,13 @@
 *   [Text Algorithms](http://igm.univ-mlv.fr/\~mac/REC/text-algorithms.pdf) (PDF)
 *   [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 
-### Theoretical Computer Science
+### Programming
 
 *   [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
-*   [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
-*   [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
-*   [Category Theory for Programmers (⭐10k)](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
 *   [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
-*   [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 *   [Introduction to Computer Science](http://www.cse.iitd.ernet.in/\~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
-*   [Introduction to Computing](http://www.computingbook.org)
-*   [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
-*   [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/\~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
-*   [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/\~scott/pl/book/dist/) - Scott F. Smith
+*   [Introduction to Computing](http://www.computingbook.org) - David Evans
 *   [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi
-*   [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
-*   [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/\~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
-*   [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/\~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
-*   [Semantics with Applications: A Formal Introduction](http://www.cs.ru.nl/\~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
 *   [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
 *   [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 
@@ -1355,6 +1346,20 @@
 *   [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 *   [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 *   [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
+
+### Theoretical Computer Science
+
+*   [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/\~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
+*   [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
+*   [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
+*   [Category Theory for Programmers (⭐10k)](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
+*   [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
+*   [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
+*   [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/\~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
+*   [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/\~scott/pl/book/dist/) - Scott F. Smith
+*   [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
+*   [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/\~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
+*   [Semantics with Applications: A Formal Introduction](http://www.cs.ru.nl/\~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
 
 ### Programming Paradigms
 

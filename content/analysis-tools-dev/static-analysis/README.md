@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Feb 02, 2023](/content/2023/02/02/README.md)
+
+### Other / [Other](#other-1)
+
+*   [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue is a software company that provides AI-powered code analysis and testing solutions for software development teams.
+    Its technology helps developers automate testing, find bugs, and reduce manual labor in their software development processes. The company's main product, Diffblue Cover, uses AI to generate and run unit tests for Java code, helping to catch errors and improve code quality.
+
 ## [Jan 28, 2023](/content/2023/01/28/README.md)
 
 ### Other / [Other](#other-1)
@@ -64,7 +71,7 @@
 *   [effective\_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
 *   [elm-analyse](https://stil4m.github.io/elm-analyse) — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 *   [dingo-hunter (⭐304)](https://github.com/nickng/dingo-hunter) — Static analyser for finding deadlocks in Go.
-*   [dupl (⭐302)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
+*   [dupl (⭐303)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
 *   [lll (⭐62)](https://github.com/walle/lll) — Report long lines.
 *   [safesql (⭐566)](https://github.com/stripe/safesql) — Static analysis tool for Golang that protects against SQL injections.
 *   [aether](http://aetherjs.com) — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
@@ -456,7 +463,7 @@
 *   [sh](https://pkg.go.dev/mvdan.cc/sh/v3) — A shell parser, formatter, and interpreter with bash support; includes shfmt
 *   [shellcheck](https://www.shellcheck.net) — ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts.
 *   [shellharden (⭐4.3k)](https://github.com/anordal/shellharden) — A syntax highlighter and a tool to semi-automate the rewriting of scripts to ShellCheck conformance, mainly focused on quoting.
-*   [SwiftFormat (⭐6.3k)](https://github.com/nicklockwood/SwiftFormat) — A library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐6.4k)](https://github.com/nicklockwood/SwiftFormat) — A library and command-line formatting tool for reformatting Swift code.
 *   [SwiftLint](https://realm.github.io/SwiftLint) — A tool to enforce Swift style and conventions.
 *   [Tailor](https://sleekbyte.github.io/tailor) :warning: — A static analysis and lint tool for source code written in Apple's Swift programming language.
 *   [Frink](http://catless.ncl.ac.uk/Programs/Frink) — A Tcl formatting and static check program (can prettify the program, minimise, obfuscate or just sanity check it).
@@ -786,7 +793,7 @@
 
 *   [Clean code linters](https://github.com/collections/clean-code-linters) — A collection of linters in github collections
 *   [Code Quality Checker Tools For PHP Projects](https://github.com/collections/code-quality-in-php) — A collection of PHP linters in github collections
-*   [go-tools (⭐5.1k)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
+*   [go-tools (⭐5.2k)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
 *   [linters (⭐325)](https://github.com/mcandre/linters) — An introduction to static code analysis
 *   [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) — List of tools maintained by the Open Web Application Security Project
 *   [php-static-analysis-tools (⭐2.7k)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools

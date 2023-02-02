@@ -16,6 +16,14 @@ A curated list of Rust code and resources.
 
 *   [j0ru/kickoff (⭐167)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
 
+### Applications / Utilities
+
+*   [nix-community/nix-init (⭐106)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
+
+### Libraries / System
+
+*   [ardaku/whoami (⭐77)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] — Rust crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Applications / Emulators
@@ -69,7 +77,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐222)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐246)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
 
 ### Applications / Security tools
 
@@ -1746,9 +1754,9 @@ A curated list of Rust code and resources.
 
 ## [Nov 09 - Nov 15, 2020](/content/2020/45/README.md)
 
-### Libraries / Transpiling
+### Libraries / System
 
-*   [Phate6660/nixinfo (⭐38)](https://github.com/Phate6660/nixinfo) \[[crate](https://crates.io/crates/nixinfo)] — A lib crate for gathering system info such as cpu, distro, environment, kernel, etc.
+*   [Phate6660/nixinfo (⭐38)](https://github.com/Phate6660/nixinfo) \[[nixinfo](https://crates.io/crates/nixinfo)] — A lib crate for gathering system info such as cpu, distro, environment, kernel, etc.
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
 

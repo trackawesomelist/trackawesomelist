@@ -17,6 +17,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Pumble](https://pumble.com) - Free team chat app. Unlimited users and message history, free forever.
 
+### CI and CD
+
+*   [Buildkite](https://buildkite.com)
+    *   Pipelines: Free developer tier includes unlimited concurrency, up to 3 users, 5k job minutes/month, and 30 day build retention, with more free inclusions for open source projects
+    *   [Test Analytics](https://buildkite.com/test-analytics) — Get more out of your test suites, works with any CI platform. Free developer tier includes 100k test executions/month, with more free inclusions for open source projects.
+
 ### Security and PKI
 
 *   [SOOS](https://soos.io) - Free, unlimited SCA scans for open source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.

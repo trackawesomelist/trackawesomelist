@@ -6,6 +6,13 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Feb 02, 2023](/content/2023/02/02/README.md)
+
+### Tutorials / SRAM
+
+*   [MicroPython Tutorials for ESP32 boards](https://www.upesy.com/blogs/tutorials/tutorials-for-esp32-with-micropython-code) - Tutorials with code examples to learn the basic of MicroPython with ESP32 boards.
+*   [Learn MicroPython with a Pi Pico board](https://www.upesy.com/blogs/tutorials/tutorials-for-rpi-pi-pico-with-micropython-code) - Tutorials on MicroPython with the Raspberry Pi Pico / RP240 boards.
+
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
 ### Analytics

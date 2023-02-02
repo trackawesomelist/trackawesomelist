@@ -1370,7 +1370,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [completions (clarketm) (⭐45)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐5.8k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐93)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐9)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
 *   [completions (zchee) (⭐93)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
 *   [completions (zsh-users) (⭐5.8k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
-*   [conda (⭐283)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for conda.
+*   [conda (⭐283)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
 *   [cpan (⭐2)](https://github.com/MenkeTechnologies/zsh-cpan-completion) - Adds `cpan install word<tab>` and `cpanm install <tab>` to complete remote CPAN package names.
 *   [ctop (⭐3)](https://github.com/gantsign/zsh-plugins/tree/master/ctop) - Tab completions for [ctop (⭐14k)](https://github.com/bcicen/ctop).
 *   [dagger (⭐0)](https://github.com/jygastaud/dagger-oh-my-zsh) - Completions for dagger.
@@ -2205,6 +2205,7 @@ If you're using [Antigen (⭐7.5k)](https://github.com/zsh-users/antigen), you c
 *   [shrikant (⭐0)](https://github.com/shr1k4nt/shrikant_zsh_theme) - Includes `git` decorations.
 *   [shrug (⭐4)](https://github.com/to-var/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status and current directory decorations.
 *   [shtr0m (⭐0)](https://github.com/kyle-pollock/shtr0m) - Includes `git` status decorations.
+*   [simply-perfect (⭐0)](https://github.com/SetOfAllSets/simply-perfect-zsh-theme/) - Reminiscent of Powerline and Bullettrain. Includes decorators for `git` status, current directory, last command exit status, current time and username.
 *   [shuttle (⭐1)](https://github.com/Pandademic/Shuttle/) - Written in `golang`. Has decorators for OS, user, current directory, and the exit code of the last command run.
 *   [siegerts (⭐0)](https://github.com/siegerts/zsh-theme) - Includes `git` status decorations in right prompt.
 *   [silver (⭐393)](https://github.com/reujab/silver) - A cross-shell customizable powerline-like prompt heavily inspired by [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme). A faster rust port of [bronze (⭐46)](https://github.com/reujab/bronze). Requires [Nerd Fonts (⭐41k)](https://github.com/ryanoasis/nerd-fonts). Very configurable, includes `git` status decorations.

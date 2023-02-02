@@ -6,6 +6,16 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 02, 2023](/content/2023/02/02/README.md)
+
+### Online Tools and Applications / Generative Adversarial Networks (GANs)
+
+*   [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
+
+### Inbox: Developing + AI / Text-related Generative Tools
+
+*   [openai/openai-cookbook (⭐11k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI

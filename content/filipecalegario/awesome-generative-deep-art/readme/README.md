@@ -469,6 +469,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Online Tools and Applications
 
+*   [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
 *   [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 *   [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
 *   [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
@@ -585,6 +586,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 ## Inbox: Games and AI
 
 *   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
+
+## Inbox: Developing + AI
+
+*   [openai/openai-cookbook (⭐11k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ## People and works
 

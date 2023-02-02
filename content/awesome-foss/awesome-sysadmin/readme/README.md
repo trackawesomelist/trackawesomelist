@@ -190,7 +190,7 @@ Managing software on desktop computers.
 *   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐54)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 *   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐95k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
+*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐96k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
 *   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐13k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 *   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
@@ -258,7 +258,7 @@ Configuration management database (CMDB) software.
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 *   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.5k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.1k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Control Panels
 
@@ -293,8 +293,6 @@ Configuration management database (CMDB) software.
 *   [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 *   [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 *   [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
-*   [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-*   [sup (⭐2.4k)](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 *   [Vlad the Deployer (⭐353)](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
 ### Diagramming
@@ -478,53 +476,44 @@ Configuration management database (CMDB) software.
 
 *Monitoring software.*
 
-*   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode (⭐331)](https://github.com/opinkerfi/adagios), [Documentation (⭐331)](https://github.com/opinkerfi/adagios/wiki))
-*   [Alerta (⭐2.2k)](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
-*   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPL-3.0` `Perl`
-*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.3k)](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
-*   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-*   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
+*   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐331)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
+*   [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code (⭐2.2k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
+*   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
+*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.3k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
+*   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code (⭐5.4k)](https://github.com/arachnys/cabot)) `MIT` `Python`
+*   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code (⭐1.3k)](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 *   [cadvisor (⭐14k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code (⭐14k)](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
 *   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐936)](https://github.com/tribe29/checkmk)) `Python/PHP`
-*   [Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 *   [EdMon (⭐4)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
-*   [ElastiFlow (⭐2.4k)](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
-*   [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
-*   [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
-*   [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
-*   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
-*   [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
-*   [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems.
-*   [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
-*   [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
-*   [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
-*   [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS.
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐133)](https://github.com/netxms/netxms))
+*   [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code (⭐329)](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
+*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐5.9k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code (⭐1.8k)](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
+*   [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support. ([Source Code (⭐3k)](https://github.com/librenms/librenms)) `GPL-3.0` `PHP`
+*   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
+*   [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems. ([Source Code](https://bitbucket.org/tildeslash/monit/src/master/)) `AGPL-3.0` `C`
+*   [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool. ([Source Code (⭐1.7k)](https://github.com/munin-monitoring/munin)) `GPL-2.0` `Perl/Shell`
+*   [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features. ([Source Code (⭐132)](https://github.com/naemon/naemon-core)) `GPL-2.0` `C`
+*   [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code (⭐1.2k)](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
+*   [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS. ([Source Code (⭐62k)](https://github.com/netdata/netdata)) `GPL-3.0` `C`
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐133)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 *   [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 *   [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 *   [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
-*   [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
-*   [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
-*   [psdash (⭐2.4k)](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut ils and flask.
-*   [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
-*   [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
-*   [rtop (⭐2k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
+*   [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code (⭐2.1k)](https://github.com/phpservermon/phpservermon))
+*   [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code (⭐1.3k)](https://github.com/phpsysinfo/phpsysinfo))
+*   [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
+*   [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code (⭐4.2k)](https://github.com/riemann/riemann))
+*   [rtop (⭐2k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code (⭐2k)](https://github.com/rapidloop/rtop))
 *   [Scrutiny (⭐2.3k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-*   [Sensu](https://sensuapp.org/) - Monitoring framework.
-*   [ServerStatus BotoX (⭐786)](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
-*   [ServerStatus moejda (⭐355)](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
-*   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
-*   [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
-*   [Vector (⭐3.6k)](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
-*   [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
-*   [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
-*   [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
+*   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐845)](https://github.com/sensu/sensu-go))
+*   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code (⭐384)](https://github.com/sni/Thruk))
+*   [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse))
 
 ### Status Pages
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐117k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 ### Metric & Metric Collection
 
@@ -557,7 +546,7 @@ Configuration management database (CMDB) software.
     *   [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
     *   [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
     *   [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-    *   [VictoriaMetrics (⭐7.6k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+    *   [VictoriaMetrics (⭐7.9k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
 ### Network Configuration Management
 
@@ -599,7 +588,7 @@ Configuration management database (CMDB) software.
 
 *Web-based project management and bug tracking systems*
 
-**Please visit [awesome-selfhosted/Project Management (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
+**Please visit [awesome-selfhosted/Project Management (⭐117k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
 
 ### Queuing
 

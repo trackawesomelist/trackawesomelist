@@ -6,6 +6,12 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Feb 02, 2023](/content/2023/02/02/README.md)
+
+### Infrastructure
+
+*   [harpoon](https://www.harpoon.io/) - Deploy software with No Code Kubernetes.
+
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Marketing

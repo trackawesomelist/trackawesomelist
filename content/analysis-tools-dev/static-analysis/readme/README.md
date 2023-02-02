@@ -397,7 +397,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 
 *   [dogsled (⭐69)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 
-*   [dupl (⭐302)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
+*   [dupl (⭐303)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
 
 *   [errcheck (⭐2k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
 
@@ -521,6 +521,9 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 *   [CogniCrypt](https://www.eclipse.org/cognicrypt) — Checks Java source and byte code for incorrect uses of cryptographic APIs.
 
 *   [DesigniteJava](http://www.designite-tools.com/designitejava) :copyright: — DesigniteJava supports detection of various architecture, design, and implementation smells along with computation of various code quality metrics.
+
+*   [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue is a software company that provides AI-powered code analysis and testing solutions for software development teams.
+    Its technology helps developers automate testing, find bugs, and reduce manual labor in their software development processes. The company's main product, Diffblue Cover, uses AI to generate and run unit tests for Java code, helping to catch errors and improve code quality.
 
 *   [Doop](https://bitbucket.org/yanniss/doop) — Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
 
@@ -1007,7 +1010,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 
 <h2 id="swift">Swift</h2>
 
-*   [SwiftFormat (⭐6.3k)](https://github.com/nicklockwood/SwiftFormat) — A library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐6.4k)](https://github.com/nicklockwood/SwiftFormat) — A library and command-line formatting tool for reformatting Swift code.
 
 *   [SwiftLint](https://realm.github.io/SwiftLint) — A tool to enforce Swift style and conventions.
 
@@ -1473,6 +1476,9 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 *   [Codecov](https://about.codecov.io/) :copyright: — Codecov is a company that provides code coverage tools for developers and engineering leaders  to gain visibility into their code coverage.
     They offer flexible and unified reporting, seamless coverage insights, and robust coverage controls. Codecov supports over 20 languages and is CI/CD agnostic. Over 29,000 organizations and 1 million developers use Codecov. Codecov has recently joined Sentry.
 
+*   [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue is a software company that provides AI-powered code analysis and testing solutions for software development teams.
+    Its technology helps developers automate testing, find bugs, and reduce manual labor in their software development processes. The company's main product, Diffblue Cover, uses AI to generate and run unit tests for Java code, helping to catch errors and improve code quality.
+
 *   [exakat](https://www.exakat.io) — An automated code reviewing engine for PHP.
 
 *   [Goblint](https://goblint.in.tum.de) — A static analyzer for the analysis of multi-threaded C programs. Its primary focus is the  detection of data races, but it also reports other runtime errors, such as buffer overflows and null-pointer dereferences.
@@ -1802,7 +1808,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 
 *   [Clean code linters](https://github.com/collections/clean-code-linters) — A collection of linters in github collections
 *   [Code Quality Checker Tools For PHP Projects](https://github.com/collections/code-quality-in-php) — A collection of PHP linters in github collections
-*   [go-tools (⭐5.1k)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
+*   [go-tools (⭐5.2k)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
 *   [linters (⭐325)](https://github.com/mcandre/linters) — An introduction to static code analysis
 *   [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) — List of tools maintained by the Open Web Application Security Project
 *   [php-static-analysis-tools (⭐2.7k)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
