@@ -14,6 +14,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   Pipelines: Free developer tier includes unlimited concurrency, up to 3 users, 5k job minutes/month, and 30 day build retention, with more free inclusions for open source projects
     *   [Test Analytics](https://buildkite.com/test-analytics) — Get more out of your test suites, works with any CI platform. Free developer tier includes 100k test executions/month, with more free inclusions for open source projects.
 
+### Design and UI
+
+*   [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
+
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
 ### Tools for Teams and Collaboration

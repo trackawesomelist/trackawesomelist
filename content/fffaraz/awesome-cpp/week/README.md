@@ -16,6 +16,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Kvrocks (⭐1.9k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
 
+### JSON
+
+*   [Boost.PropertyTree](https://www.boost.org/doc/libs/1_81_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost]
+
+### Math
+
+*   [MatX (⭐663)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### GUI
@@ -2991,11 +2999,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. \[GPL2 or GPL3]
 
-### XML
-
-*   [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost]
-*   [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. \[LGPL2]
-
 ### JSON
 
 *   [frozen (⭐639)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
@@ -3019,6 +3022,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Video
 
 *   [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. \[LGPL2/GPL2]
+
+### XML
+
+*   [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost]
+*   [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. \[LGPL2]
 
 ### Miscellaneous
 

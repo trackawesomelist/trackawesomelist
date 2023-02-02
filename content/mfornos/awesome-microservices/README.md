@@ -6,6 +6,38 @@ A curated list of Microservice Architecture related principles and technologies.
 
 [ Daily / [Weekly](/content/mfornos/awesome-microservices/week/README.md) / [Overview](/content/mfornos/awesome-microservices/readme/README.md) ]
 
+## [Feb 02, 2023](/content/2023/02/02/README.md)
+
+### Platforms
+
+*   [Svix](https://svix.com) - Webhooks service that sends webhooks to your users with full retry schedules, exponential backoff, signature verification, and event types.
+
+### Node.js / Scala
+
+*   [Seneca (⭐3.9k)](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js
+
+### Python / Scala
+
+*   [Twisted](https://twistedmatrix.com) - Event-driven network programming engine.
+
+### Testing / Scala
+
+*   [RestQA (⭐59)](https://github.com/restqa/restqa) - A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.
+
+### REST / Scala
+
+*   [Swagger](https://swagger.io/) - A simple yet powerful representation of your RESTful API.
+
+### Messaging / Scala
+
+*   [AMQP](https://www.amqp.org/) - Advanced Message Queuing Protocol.
+*   \[MQTT]\(<https://mqtt.org/> - MQ Telemetry Transport.
+
+### Articles & Papers / Scala
+
+*   [Introducing Domain-Oriented Microservice Architecture](https://www.uber.com/blog/microservice-architecture/) - Introduction to Uber Engineering generalized approach to microservice architectures, named “Domain-Oriented Microservice Architecture” (DOMA).
+*   [Microservices – Please, don’t](https://riak.com/posts/technical/microservices-please-dont/) - Critical advice about some problems regarding a microservices approach.
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Frameworks / Runtimes
@@ -234,12 +266,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Service per Team](https://microservices.io/patterns/decomposition/service-per-team.html) - Each team is responsible for one or more business functions (e.g. business capabilities). A team owns a code base consisting of one or more modules. Its code base is sized so as to not exceed the cognitive capacity of team. The team deploys its code as one or more services. A team should have exactly one service unless there is a proven need to have multiple services.
 *   [Start with Team Cognitive Load - Team Topologies](https://www.youtube.com/watch?v=haejb5rzKsM) :small\_red\_triangle:<sup>YT</sup> - DOES19 London. The "monoliths vs microservices" debate often focuses on technological aspects, ignoring strategy and team dynamics. Instead of technology, smart-thinking organizations are beginning with team cognitive load as the guiding principle for modern software. In this talk, we explain how and why, illustrated by real case studies.
 
-## [Jul 24, 2020](/content/2020/07/24/README.md)
-
-### Articles & Papers / Scala
-
-*   [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/) - Introduction to Uber Engineering generalized approach to microservice architectures, named “Domain-Oriented Microservice Architecture” (DOMA).
-
 ## [Jul 17, 2020](/content/2020/07/17/README.md)
 
 ### Java VM / Java
@@ -295,10 +321,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Go-micro (⭐20k)](https://github.com/micro/go-micro) - A distributed systems development framework.
 *   [Micro (⭐12k)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
-
-### Security / Scala
-
-*   [Databunker](https://paranoidguy.com/) - Personally identifiable information (PII) storage service built to comply with GDPR.
 
 ## [May 17, 2020](/content/2020/05/17/README.md)
 
@@ -749,7 +771,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Coordination & Governance / Scala
 
-*   [Conductor (⭐7.6k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
+*   [Conductor (⭐7.7k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 
 ### Job Schedulers / Workload Automation / Scala
 
@@ -952,10 +974,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## [Dec 10, 2016](/content/2016/12/10/README.md)
 
-### Polyglot
-
-*   [CoAP](http://coap.technology/impls.html) - Constrained application protocol implementations.
-
 ### Go / Erlang
 
 *   [Gizmo (⭐3.7k)](https://github.com/nytimes/gizmo) - Microservices toolkit.
@@ -968,14 +986,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Python / Scala
 
-*   [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
 *   [Web.py (⭐5.8k)](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
-
-## [Dec 09, 2016](/content/2016/12/09/README.md)
-
-### Articles & Papers / Scala
-
-*   [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) - Critical advice about some problems regarding a microservices approach.
 
 ## [Dec 08, 2016](/content/2016/12/08/README.md)
 
@@ -1164,10 +1175,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Mist (⭐656)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
 
 ## [Feb 28, 2016](/content/2016/02/28/README.md)
-
-### CoAP / Scala
-
-*   [RFC7252](http://coap.technology/spec.html) - The Constrained Application Protocol (CoAP) is a specialized web transfer protocol for use with constrained nodes and constrained networks in the Internet of Things.
 
 ### Security / Scala
 
@@ -1385,7 +1392,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### REST / Scala
 
 *   [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
-*   [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
 
 ## [Oct 13, 2015](/content/2015/10/13/README.md)
 
@@ -1471,7 +1477,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 *   [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 *   [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
-*   [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 
 ### Serialization / Scala
 
@@ -1552,8 +1557,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Messaging / Scala
 
 *   [Ascoltatori (⭐525)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
-*   [AMQP](http://www.amqp.org/) - Advanced Message Queuing Protocol.
-*   [MQTT](http://mqtt.org/) - MQ Telemetry Transport.
 *   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### REST / Scala

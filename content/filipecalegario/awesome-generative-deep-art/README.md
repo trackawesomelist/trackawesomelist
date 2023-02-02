@@ -8,6 +8,27 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Feb 02, 2023](/content/2023/02/02/README.md)
 
+### The Generative AI Area: history, maps, and definitions
+
+*   [There's An AI For That](https://theresanaiforthat.com/): AI database
+*   [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
+
+### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
+
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
+
+*   [daspartho/prompt-extend (⭐139)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
+
+### Inbox: Stable Diffusion / For text-to-image
+
+*   [Stable Diffusion Models](https://rentry.org/sdmodels): list of custom Stable Diffusion models
+
+### Image Upscaling / Generative Adversarial Networks (GANs)
+
+*   [Upscale to huge sizes and add detail with SD Upscale : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/): tutorial on Reddit
+
 ### Online Tools and Applications / Generative Adversarial Networks (GANs)
 
 *   [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
@@ -15,6 +36,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 ### Inbox: Developing + AI / Text-related Generative Tools
 
 *   [openai/openai-cookbook (⭐11k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+
+### Miscellaneous / Auxiliary tools and concepts
+
+*   [chaiNNer-org/chaiNNer (⭐1.7k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
