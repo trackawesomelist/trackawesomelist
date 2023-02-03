@@ -12,6 +12,10 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 *   :computer: [Learn how to unleash the full potential of the Turing Complete type system of TypeScript!](https://type-level-typescript.com), 💵 online course with free first 5 chapters by [Gabriel Vergnaud](https://twitter.com/GabrielVergnaud)
 
+### Web / Playground
+
+*   :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes.
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Validation / Playground

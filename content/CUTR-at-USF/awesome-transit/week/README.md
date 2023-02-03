@@ -8,6 +8,10 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### 3rd party GTFS URL directories
+
+*   [TransitData.io](https://transitdata.io/) - A list of GTFS data in parts of Latin America. Must contact website maintainers directly to access feeds, as they're not publicly available.
+
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
 *   [GTFS Display (⭐0)](https://github.com/Software-Ingenieur-Begerad/gtfs-display) - View the content of a GTFS feed

@@ -1,16 +1,31 @@
 # Track Awesome Qubes OS Updates Weekly
 
-A collection of awesome Qubes OS links
+A curated list of awesome qubes os links
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 26 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/awesome-qubes-os) · ⭐ 37 · 🏷️ Miscellaneous
 
 [ [Daily](/content/xn0px90/Awesome-Qubes-OS/README.md) / Weekly / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
+
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### VM-Hardening
+
+*   [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
+
+### Exploitation Tools / Xen Exploitation
+
+*   [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
+*   [Hypervisor Vulnerability Research \[PDF\]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
+
+### Exploitation Tools / Web articles
+
+*   [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### GPU
 
-*   [Gaming-HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md)
+*   [Gaming-HVM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - Create a Gaming HVM
 
 ### Exploitation Tools / Unikernel-like
 
@@ -24,13 +39,13 @@ A collection of awesome Qubes OS links
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
+### VM-Hardening
+
+*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - A user who frequently travels with a Qubes laptop holding sensitive data may be at a much higher risk of Evil Maid attacks than a home user with a stationary Qubes desktop.
+
 ### Desktop Customization
 
-*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
-
-### Security / Darknet
-
-*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) -
+*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol.
 
 ### Exploitation Tools / Unikernel-like
 
@@ -45,7 +60,7 @@ A collection of awesome Qubes OS links
 
 ### Qubes OS Legends / Web articles
 
-*   [Core Team](https://www.qubes-os.org/team/#core-team)
+*   [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
 
 ### Training and Materials / Web articles
 
@@ -63,7 +78,7 @@ A collection of awesome Qubes OS links
 
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-*   [Qubes OS GitHub Documentation (⭐287)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
+*   [Qubes OS GitHub Documentation (⭐290)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 *   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ### Downloading, Installing, Upgrading, and Building
@@ -74,6 +89,7 @@ A collection of awesome Qubes OS links
 ### VM-Hardening
 
 *   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
+*   [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
 
 ### Desktop Customization
 
@@ -83,29 +99,21 @@ A collection of awesome Qubes OS links
 
 ### GPU
 
-*   [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/)
-*   [GUI-domain](https://www.qubes-os.org/doc/gui-domain/)
-*   [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
-*   [GUI-virtualization](https://www.qubes-os.org/doc/gui/)
-*   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-*   [Install-nvidia-driver (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
-*   [Nvidia-troubleshooting (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
+*   [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/) - Adjust your GUI configuration to meet your display needs.
+*   [GUI-domain](https://www.qubes-os.org/doc/gui-domain/) - On this page, we describe how to set up a GUI domain.
+*   [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/) - Learn to troubleshoot your GUI configuration.
+*   [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - All AppVM X applications connect to local (running in AppVM) Xorg servers that use the following “hardware” drivers.
+*   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - This page is part of device handling in qubes.
+*   [Install-nvidia-driver (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
+*   [Nvidia-troubleshooting (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
 
-### Networking / VPN
+### Clear Net & Darknet Networking / VPN
 
 *   [Qubes-Tunnel (⭐16)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 
-### Crypto / Darknet
+### Clear Net & Darknet Networking / Crypto
 
 *   [Awesome-DeSci (⭐22)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
-
-### Security / Darknet
-
-*   [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/)
-
-### Vitualization / Darknet
-
-*   [Awesome-Virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
 ### Kernels / Microkernels
 
@@ -133,28 +141,21 @@ A collection of awesome Qubes OS links
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 
-### Optics and Extra Info / Unikernel-like
+### Exploitation Tools / Xen Exploitation
+
+*   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo)
+*   [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
+
+### Optics and Extra Info / Web articles
 
 *   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 *   [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
 *   [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
 *   [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
 *   [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
-*   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-*   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-
-### Optics and Extra Info / Xen Exploitation
-
-*   [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
-*   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo)
-*   [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
-
-### Optics and Extra Info / PDF Papers
-
-*   [Bluepilling the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part3.pdf)
-*   [Hypervisor Vulnerability Research - State of the Art \[PDF\]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
-*   [Preventing and Detecting Xen Hypervisor Subversions \[PDF\]](https://invisiblethingslab.com/resources/bh08/part2.pdf)
-*   [Subverting the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part1.pdf)
+*   \[UX] - User Experience
+    *   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+    *   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
 ### Qubes OS Server / Web articles
 
@@ -164,9 +165,9 @@ A collection of awesome Qubes OS links
 ### Qubes OS Legends / Web articles
 
 *   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
-*   [Unman](https://github.com/unman?tab=repositories)
-    *   [Templates](https://qubes.3isec.org/Templates_4.1/)
-    *   [Unman Install Scripts (⭐12)](https://github.com/unman/shaker)
+*   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
+    *   [Templates](https://qubes.3isec.org/Templates_4.1/) - Unman custom templates.
+    *   [Unman Install Scripts (⭐12)](https://github.com/unman/shaker) -  Unman install scripts
 
 ### Training and Materials / Web articles
 
@@ -177,10 +178,10 @@ A collection of awesome Qubes OS links
 
 ### Social media / Web articles
 
-*   [Mastodon](https://mastodon.social/@QubesOS)
-*   [Reddit Qubes OS](https://www.reddit.com/r/Qubes/)
-*   [Reddit hacking\_qubes\_os](https://www.reddit.com/r/hacking_qubes_os)
-*   [Reddit hack\_with\_qubes\_os](https://www.reddit.com/r/hack_with_qubes_os)
+*   [Mastodon](https://mastodon.social/@QubesOS) - Qubes OS Mastodon channel
+*   [Reddit Qubes OS](https://www.reddit.com/r/Qubes/) - General Qubes OS Reddit room.
+*   [Reddit hacking\_qubes\_os](https://www.reddit.com/r/hacking_qubes_os) - Reddit room dedicated to hacking Qubes OS
+*   [Reddit hack\_with\_qubes\_os](https://www.reddit.com/r/hack_with_qubes_os) - Reddit room dedicated to hacking with Qubes OS
 *   `#xen`      channel on irc.oftc.net via traditional IRC clients.
 *   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
@@ -205,6 +206,7 @@ A collection of awesome Qubes OS links
 *   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
 *   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files
 *   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
+*   *   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
 *   [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/) - This page covers copying files and clipboard text between dom0 and domUs.
 *   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen
 *   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/) - When you wish to install software in Qubes OS, you should generally install it in a template.
@@ -216,60 +218,76 @@ A collection of awesome Qubes OS links
 *   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight qube that can be created quickly and will self-destruct when closed.
 *   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
 
+### System
+
+*   [Architecture](https://www.qubes-os.org/doc/architecture/)
+*   [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
+*   [Networking](https://www.qubes-os.org/doc/networking/)
+*   [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
+*   [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
+*   [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
+
 ### Templates
 
-*   [Creating a NetBSD VM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM
-*   [Customizing Fedora minimal templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations
-*   [Customizing Windows 7 templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services
+*   [Creating a NetBSD VM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM
+*   [Customizing Fedora minimal templates (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations
+*   [Customizing Windows 7 templates (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services
 *   [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
 *   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
-*   [Pentesting: BlackArch (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
-*   [Pentesting: Kali (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
-*   [Pentesting: PTF (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
-*   [Template: CentOS (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md) - You can install the CentOS template, provided by Qubes in ready to use binary package.
-*   [Template: Gentoo (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md) -  you can install the Gentoo template, provided by Qubes in ready to use binary package.
-*   [Template: Ubuntu (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md) - If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates.
-*   [Template: Whonix (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
-*   [Template: Windows (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
+*   [Pentesting: BlackArch (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
+*   [Pentesting: Kali (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
+*   [Pentesting: PTF (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Template: CentOS (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md) - You can install the CentOS template, provided by Qubes in ready to use binary package.
+*   [Template: Gentoo (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md) -  you can install the Gentoo template, provided by Qubes in ready to use binary package.
+*   [Template: Ubuntu (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md) - If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates.
+*   [Template: Whonix (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
+*   [Template: Windows (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
-*   [Tips for Using Linux in an HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain
+*   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
+*   [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
+*   [Tips for Using Linux in an HVM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain
 *   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
+
+### VM-Hardening
+
+*   [Anonymizing your MAC Address (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
+*   [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
+*   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
+*   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
+*   [Firewall](https://www.qubes-os.org/doc/firewall/) - Every qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
+*   [Reducing the fingerprint of the text-based web browser w3m (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) -  You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
+*   [Running Tails in Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
+*   [Signal (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md) - > It uses end-to-end encryption to secure all communications.
+*   [Split GPG](https://www.qubes-os.org/doc/split-gpg/) - Split GPG implements a concept similar to having a smart card with your private GPG keys, except that the role of the “smart card” is played by another Qubes app qube.
+*   [Split SSH (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
+*   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt) - Instead of directly attaching an encrypted LUKS1 partition from a source VM such as sys-usb to a destination VM and decrypting it there.
+*   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
+*   [Using Multi-Factor Authentication with Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
+*   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
+*   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
+    [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
+*   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
+*   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
+*   [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online.
 
 ### Desktop Customization
 
 *   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesome with the patches for qubes.
-*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
-*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
+*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/) - To install the i3 window manager and the its Qubes specific configuration.
+*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/) - Nonetheless, it is still possible to install KDE by issuing this command in dom0.
 
-### Networking / Darknet
+### Clear Net & Darknet Networking / Darknet
 
 *   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on qubes-whonix.
 *   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 *   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
-### Crypto / Darknet
+### Clear Net & Darknet Networking / Crypto
 
-*   [Split Bitcoin Wallet (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
+*   [Split Bitcoin Wallet (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 
-### Security / Darknet
-
-*   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) -
-*   [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
-*   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
-*   [Firewall](https://www.qubes-os.org/doc/firewall/)
-*   [Reducing the fingerprint of the text-based web browser w3m (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
-*   [Running Tails in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
-*   [Signal (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
-*   [Split GPG](https://www.qubes-os.org/doc/split-gpg/)
-*   [Split SSH (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
-*   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt)
-*   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
-*   [Using Multi-Factor Authentication with Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
-*   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
-*   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
-
-### Kernels / Darknet
+### Kernels / Crypto
 
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 
@@ -297,43 +315,18 @@ A collection of awesome Qubes OS links
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [Volatility3 (⭐1.3k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
-### Optics and Extra Info / Xen Exploitation
+### Exploitation Tools / Xen Exploitation
 
-*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) -
 *   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
 *   [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM)
 *   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
 *   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
 
-### Optics and Extra Info / Web articles
+### Exploitation Tools / Web articles
 
-*   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
 *   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 *   [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
-
-### System / Web articles
-
-*   [Architecture](https://www.qubes-os.org/doc/architecture/)
-*   [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
-*   [Networking](https://www.qubes-os.org/doc/networking/)
-*   [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
-*   [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
-*   [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
-*   [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
-*   [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
-*   [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
-*   [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
-*   [Template manager](https://www.qubes-os.org/doc/template-manager/)
-
-### Services / Web articles
-
-*   [Admin API](https://www.qubes-os.org/doc/admin-api/)
-*   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
-*   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
-*   [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
-*   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
-*   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
-*   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
 
 ### Advanced Topics / Web articles
 
@@ -351,10 +344,22 @@ A collection of awesome Qubes OS links
 *   [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
 *   [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
 
+### Qubes OS Server / Web articles
+
+*   [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
+*   [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
+*   [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
+*   [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
+
 ### Qubes OS Legends / Web articles
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
     *   [Blog](https://blog.invisiblethings.org/) - Personal Blog.
+    *   [Subverting the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - - Xen 0wning Trilogy
+        Part One
+    *   [Preventing and Detecting Xen Hypervisor Subversions \[PDF\]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
+        Part Two
+    *   [Bluepilling the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 
 ### Training and Materials / Web articles
@@ -363,7 +368,7 @@ A collection of awesome Qubes OS links
 
 ### Streamers / Web articles
 
-*   [xn0px90](https://twitch.tv/xn0px90) - :|: Your's Trully! First Full Time Info-Sec Qubes-OS Streamer! :|:
+*   [xn0px90](https://twitch.tv/xn0px90) - First Full Time Info-Sec Qubes-OS Streamer!
 
 ### Companies using Qubes OS / Web articles
 
@@ -371,14 +376,14 @@ A collection of awesome Qubes OS links
 
 ### Social media / Web articles
 
-*   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
+*   [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
 
 ### Releases / Web articles
 
-*   [Release notes](https://www.qubes-os.org/doc/releases/notes/)
-*   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
-*   [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
-*   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
+*   [Release notes](https://www.qubes-os.org/doc/releases/notes/) - Developer documentation Notes
+*   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/) -  Developer Release Schedules
+*   [Supported releases](https://www.qubes-os.org/doc/supported-releases/) - This page details the level and period of support for releases of operating systems in the Qubes ecosystem.
+*   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/) - Testing new Qubes OS releases and updates is one of the most helpful ways in which you can contribute to the Qubes OS Project.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
@@ -387,17 +392,17 @@ A collection of awesome Qubes OS links
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
 *   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
 
-### Networking / Darknet
+### Clear Net & Darknet Networking / Darknet
 
 *   [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
 
 ### Social media / Web articles
 
-*   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
+*   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org) - Qubes OS Discord General Room Bridge
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
-### Networking / VPN
+### Clear Net & Darknet Networking / VPN
 
 *   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
 
@@ -409,7 +414,7 @@ A collection of awesome Qubes OS links
 
 ### Social media / Web articles
 
-*   [Forum](https://forum.qubes-os.org/)
+*   [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
@@ -418,21 +423,21 @@ A collection of awesome Qubes OS links
 *   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called Qubes.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 
-### Networking / VPN
+### Clear Net & Darknet Networking / VPN
 
-*   [How To make a VPN Gateway in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
-*   [WireGuard (⭐201)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
+*   [How To make a VPN Gateway in Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+*   [WireGuard (⭐205)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / Web articles
 
 *   [3mdeb](https://3mdeb.com/)
-*   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
 *   [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
+*   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
 
 ### Social media / Web articles
 
-*   [Discord](https://discord.gg/YMUbTt7ZRG)
-*   [Facebook](https://www.facebook.com/QubesOS/)
-*   [LinkedIn](https://www.linkedin.com/company/qubes-os/)
-*   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
-*   [Twitter](https://twitter.com/QubesOS)
+*   [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
+*   [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page
+*   [LinkedIn](https://www.linkedin.com/company/qubes-os/) - Qubes OS linkedin account
+*   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org) - General Qubes OS matrix room
+*   [Twitter](https://twitter.com/QubesOS) - Qubes OS Twitter account

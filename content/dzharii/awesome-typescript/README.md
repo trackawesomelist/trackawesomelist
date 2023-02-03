@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Feb 03, 2023](/content/2023/02/03/README.md)
+
+### Web / Playground
+
+*   :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes.
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Awesome TypeScript Essential Resources

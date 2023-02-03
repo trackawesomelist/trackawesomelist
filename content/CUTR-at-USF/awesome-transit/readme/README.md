@@ -12,7 +12,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam\_locomotive:
 
-Have something to add or change? Open a [pull request (⭐943)](https://github.com/CUTR-at-USF/awesome-transit/pulls) or [issue (⭐943)](https://github.com/CUTR-at-USF/awesome-transit/issues) at [CUTR-at-USF/awesome-transit (⭐943)](https://github.com/CUTR-at-USF/awesome-transit).
+Have something to add or change? Open a [pull request (⭐949)](https://github.com/CUTR-at-USF/awesome-transit/pulls) or [issue (⭐949)](https://github.com/CUTR-at-USF/awesome-transit/issues) at [CUTR-at-USF/awesome-transit (⭐949)](https://github.com/CUTR-at-USF/awesome-transit).
 
 ***
 
@@ -85,6 +85,7 @@ Places to access collections of GTFS and other transit and multimodal data
 *   [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies) - Formerly the definitive directory of GTFS feed URLs. Shutdown in 2016. But 93 GB of data from 2008 to 2016 is available upon request.
 *   [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - List of GTFS and [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) feeds. [Archives and validates](https://openmobilitydata.org/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) and [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) through the browser. Formerly TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) it is end-of-life as of early 2022 with a shutdown date to be determined.
 *   [The Mobility Database](https://database.mobilitydata.org/) - JSON and CSV files [on GitHub (⭐105)](https://github.com/MobilityData/mobility-database-catalogs) that is a repository of 1300+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
+*   [TransitData.io](https://transitdata.io/) - A list of GTFS data in parts of Latin America. Must contact website maintainers directly to access feeds, as they're not publicly available.
 *   [Transitland](https://transit.land/) - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
 
 #### Transit agency data archives

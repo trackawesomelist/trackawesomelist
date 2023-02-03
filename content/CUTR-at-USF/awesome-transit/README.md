@@ -6,6 +6,12 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [Feb 03, 2023](/content/2023/02/03/README.md)
+
+### 3rd party GTFS URL directories
+
+*   [TransitData.io](https://transitdata.io/) - A list of GTFS data in parts of Latin America. Must contact website maintainers directly to access feeds, as they're not publicly available.
+
 ## [Feb 02, 2023](/content/2023/02/02/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby

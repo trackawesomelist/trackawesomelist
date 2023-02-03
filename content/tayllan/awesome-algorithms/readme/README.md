@@ -11,12 +11,13 @@ A curated list of awesome places to learn and/or practice algorithms.
 # Awesome Algorithms
 
 A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
+Inspired by [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
 
 If you want to contribute, please read the [contribution guidelines (⭐13k)](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
 *   [Awesome Algorithms](#awesome-algorithms)
     *   [Websites](#websites)
+    *   [YouTube Playlists](#youtube-playlists)
     *   [Online Courses](#online-courses)
     *   [Books](#books)
     *   [Cheat Sheets](#cheat-sheets)
@@ -50,6 +51,16 @@ If you want to contribute, please read the [contribution guidelines (⭐13k)](ht
 *   [Learnersbucket](https://learnersbucket.com/) - Tutorials on data structures and algorithms in Javascript.
 *   [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
 
+## Youtube Playlists
+
+*High Quality Courses and tutorials on youtube*
+
+*   [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
+
+*   [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME\&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - This playlist is so much informative and provide simulation with code example. As like as you are in a class.
+
+*   [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI\&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete alogrithm playlist from basic level to intermediate. Easy explanation and simulation.
+
 ## Online Courses
 
 *Free and High-Quality Courses Online*
@@ -82,7 +93,7 @@ If you want to contribute, please read the [contribution guidelines (⭐13k)](ht
 *   [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -This great book presents dozens of coding challenges, ranging from simple tasks to clustering data using k-means.
 *   [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - A great way to implement algorithms with their specific programmable tasks.
 *   [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-*   [Elementary Algorithms (⭐5.4k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+*   [Elementary Algorithms (⭐5.5k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 *   [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 *   [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 *   [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
@@ -111,67 +122,67 @@ If you want to contribute, please read the [contribution guidelines (⭐13k)](ht
 *   [CLRS in short](https://sinon.org/algorithms//#data-structures)
 *   [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
 *   [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
-*   [Algo Deck (⭐4.8k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
+*   [Algo Deck (⭐5k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## Github Libraries
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
 *   C
-    *   [by @fragglet (⭐2.8k)](https://github.com/fragglet/c-algorithms)
+    *   [by @fragglet (⭐2.9k)](https://github.com/fragglet/c-algorithms)
     *   [by @TheAlgorithms (⭐15k)](https://github.com/TheAlgorithms/C)
 *   [CoffeeScript (⭐36)](https://github.com/BrunoRB/algorithms.coffee)
 *   C#
     *   [by @shkolovy (⭐25)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.1k)](https://github.com/aalhour/C-Sharp-Algorithms)
-    *   [by @justcoding121 (⭐972)](https://github.com/justcoding121/Advanced-Algorithms)
+    *   [by @aalhour (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @justcoding121 (⭐1.1k)](https://github.com/justcoding121/Advanced-Algorithms)
 *   C++
-    *   [by @xtaci (⭐4.6k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐581)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐479)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐134)](http://github.com/sslotin/algo)
-*   [Erlang (⭐142)](https://github.com/aggelgian/erlang-algorithms)
+    *   [by @xtaci (⭐4.7k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐593)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐489)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐138)](http://github.com/sslotin/algo)
+*   [Erlang (⭐143)](https://github.com/aggelgian/erlang-algorithms)
 *   Go
     *   [by @arnauddri (⭐1.8k)](https://github.com/arnauddri/algorithms)
     *   [by @floyernick (⭐2.6k)](https://github.com/floyernick/Data-Structures-and-Algorithms)
 *   Java
-    *   [by @jpa99 (⭐102)](https://github.com/jpa99/Algorithms)
-    *   [by @phishman3579 (⭐4.1k)](https://github.com/phishman3579/java-algorithms-implementation)
+    *   [by @jpa99 (⭐106)](https://github.com/jpa99/Algorithms)
+    *   [by @phishman3579 (⭐4.2k)](https://github.com/phishman3579/java-algorithms-implementation)
     *   [by @asmolich (⭐14)](https://github.com/asmolich/algorithms)
     *   [by @psjava (⭐70)](https://github.com/psjava/psjava)
     *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
-    *   [by @pedrovgs (⭐2.7k)](https://github.com/pedrovgs/Algorithms)
+    *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
     *   [by @Erdos-Graph-Framework (⭐111)](https://github.com/Erdos-Graph-Framework/Erdos)
-    *   [by @deepak-malik (⭐117)](https://github.com/deepak-malik/Data-Structures-In-Java)
+    *   [by @deepak-malik (⭐131)](https://github.com/deepak-malik/Data-Structures-In-Java)
     *   [by @yusufcakal (⭐22)](https://github.com/yusufcakal/algorithms)
-    *   [by @FarheenB (⭐128)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
+    *   [by @FarheenB (⭐131)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 *   JavaScript
     *   [by @jiayihu (⭐2.2k)](https://github.com/jiayihu/pretty-algorithms)
-    *   [by @felipernb (⭐3.5k)](https://github.com/felipernb/algorithms.js)
-    *   [by @nzakas (⭐8.6k)](https://github.com/nzakas/computer-science-in-javascript)
-    *   [by @duereg (⭐913)](https://github.com/duereg/js-algorithms)
-    *   [by @mgechev (⭐7.5k)](https://github.com/mgechev/javascript-algorithms)
-    *   [by @trekhleb (⭐153k)](https://github.com/trekhleb/javascript-algorithms)
-    *   [by @ManrajGrover (⭐179)](https://github.com/ManrajGrover/algorithms-js)
-    *   [by @amejiarosario (⭐6.8k)](https://github.com/amejiarosario/dsa.js)
-    *   [by @zonayedpca (⭐88)](https://github.com/zonayedpca/AlgoDS.js)
+    *   [by @felipernb (⭐3.6k)](https://github.com/felipernb/algorithms.js)
+    *   [by @nzakas (⭐8.7k)](https://github.com/nzakas/computer-science-in-javascript)
+    *   [by @duereg (⭐914)](https://github.com/duereg/js-algorithms)
+    *   [by @mgechev (⭐7.6k)](https://github.com/mgechev/javascript-algorithms)
+    *   [by @trekhleb (⭐162k)](https://github.com/trekhleb/javascript-algorithms)
+    *   [by @ManrajGrover (⭐184)](https://github.com/ManrajGrover/algorithms-js)
+    *   [by @amejiarosario (⭐7.1k)](https://github.com/amejiarosario/dsa.js)
+    *   [by @zonayedpca (⭐93)](https://github.com/zonayedpca/AlgoDS.js)
 *   Lua
     *   [by @evandrolg (⭐45)](https://github.com/EvandroLG/computer_science_in_lua)
 *   Objective-C
     *   [by @ EvgenyKarkan (⭐2.4k)](https://github.com/EvgenyKarkan/EKAlgorithms)
 *   PHP
-    *   [by @TheAlgorithms (⭐948)](https://github.com/TheAlgorithms/PHP)
+    *   [by @TheAlgorithms (⭐1.1k)](https://github.com/TheAlgorithms/PHP)
 *   Python
     *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
     *   [by @prakhar1989 (⭐2.9k)](https://github.com/prakhar1989/Algorithms)
-    *   [by @laurentluce (⭐265)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐51)](https://github.com/nbro/ands)
+    *   [by @laurentluce (⭐264)](https://github.com/laurentluce/python-algorithms)
+    *   [by @nbro (⭐50)](https://github.com/nbro/ands)
     *   [by @keon (⭐22k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐602)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐615)](https://github.com/vinta/fuck-coding-interviews)
 *   Ruby
     *   [by @kanwei (⭐2.6k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @kumar91gopi (⭐632)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    *   [by @kumar91gopi (⭐653)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 *   [Scala (⭐1.4k)](https://github.com/vkostyukov/scalacaster)
 *   Swift
     *   [by @kingreza (⭐37)](https://github.com/kingreza/Swift-Algorithms-Strings-)
@@ -182,7 +193,7 @@ If you want to contribute, please read the [contribution guidelines (⭐13k)](ht
     *   [by @indy256 (⭐1.7k)](https://github.com/indy256/codelibrary)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
     *   [by @patmorin (⭐1.1k)](https://github.com/patmorin/ods)
-    *   [by @btjanaka (⭐2)](https://github.com/btjanaka/algorithm-problems)
+    *   [by @btjanaka (⭐3)](https://github.com/btjanaka/algorithm-problems)
 
 ## Online Judges
 
@@ -238,12 +249,12 @@ If you want to contribute, please read the [contribution guidelines (⭐13k)](ht
 
 *Some tools that can help you in the learning of algorithms*
 
-*   [interactive-coding-challenges (⭐26k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+*   [interactive-coding-challenges (⭐27k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## Related Awesome Lists
 
-*   [Math (⭐6.4k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
-*   [Theoretical Computer Science (⭐299)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
+*   [Math (⭐6.8k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Theoretical Computer Science (⭐340)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
 
 ## License
 

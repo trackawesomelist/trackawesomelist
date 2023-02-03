@@ -8,6 +8,10 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### 3D / Godot 3.2+
+
+*   [Tanks of Freedom II (⭐28)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
+
 ### Plugins and scripts / Various Godot versions
 
 *   [Fast Fourier Transform (FFT) (⭐2)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).

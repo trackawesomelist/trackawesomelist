@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Feb 03, 2023](/content/2023/02/03/README.md)
+
+### 3D / Godot 3.2+
+
+*   [Tanks of Freedom II (⭐28)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Plugins and scripts / Godot 3.2+
