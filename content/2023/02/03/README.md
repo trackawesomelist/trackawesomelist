@@ -1,12 +1,220 @@
 # Awesome List Updates on Feb 03, 2023
 
-11 awesome lists updated today.
+25 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Database
+
+*   [LMDB](https://www.symas.com/lmdb) - Very fast embedded key/value store with full ACID semantics. \[OpenLDAP]
+
+### Debug
+
+*   [snitch (⭐88)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
+
+### Game Engine
+
+*   [Torque2D (⭐725)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
+*   [Torque3D (⭐788)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
+
+### Math
+
+*   [muparser](https://beltoforion.de/en/muparser) - muParser is an extensible high performance math expression parser library written in C++. \[MIT]
+
+### Online Compiler
+
+*   [Wandbox](https://wandbox.org) - An online Clang/GCC compiler with Boost available.
+
+### Build Systems
+
+*   [waf](https://gitlab.com/ita1024/waf) - Python-based framework for configuring, compiling and installing applications. \[BSD] [website](https://waf.io/)
+
+### Coding Standards
+
+*   [Autosar C++ 2014](https://www.autosar.org/fileadmin/standards/adaptive/21-11/AUTOSAR_RS_CPP14Guidelines.pdf)
+
+## [2. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+
+### Resources / Books
+
+*   [ClojureScript Unraveled (2nd edition)](https://funcool.github.io/clojurescript-unraveled/) – An open source book about the ClojureScript language that covers all the language features, how to use the compiler and the tooling for building applications and libraries.
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### E-books for purchase / Libraries for creating HTTP middlewares
+
+*   [Go Faster](https://leanpub.com/gofaster) - This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster.
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Emulators
+
+*   iOS
+    *   [touchHLE (⭐173)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
+
+### Libraries / System
+
+*   [GuillaumeGomez/sysinfo (⭐1.2k)](https://github.com/GuillaumeGomez/sysinfo) \[[sysinfo](https://crates.io/crates/sysinfo)] — Cross-platform library to fetch system information [![build badge](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml)
+
+## [5. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+
+### Libraries / Go
+
+*   [sleepinggenius2/gosmi (⭐69)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
+
+## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+
+### Communication
+
+*   [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
+
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Generative AI Tools Directories
+
+*   [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
+*   [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/): directory of AI tools
+
+### Discussions and Philosophy / Papers Collections
+
+*   [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Some thoughts about generative AI and the future of education – Mark Carrigan](https://markcarrigan.net/2023/01/15/some-thoughts-about-generative-ai-and-the-future-of-education/)
+
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+
+*   [Godly](https://godly.ai/dashboard/projects/clctzt39i000hmo08xzkdgo5k/context): Instant context for GPT3
+
+## [8. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+
+### Design
+
+*   [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+*   [How to design a REST API?](https://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
+*   [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) - Explained by Martin Fowler, originally presented by Leonard Richardson at the [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
+*   [Enterprise Integration Using REST](https://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
+*   [How to GET a cup of coffee](https://www.infoq.com/articles/webber-rest-workflow/)
+*   [REST API Tutorial](https://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
+
+### Standards
+
+*   [JSON API](https://jsonapi.org/) - Standard for building APIs in JSON.
+*   [RAML](https://raml.org/) - Simple and succinct way to describe RESTful API.
+*   [JSend](https://labs.omniti.com/labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+*   [OData](https://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
+*   [JSON-LD](https://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
+*   [Hydra](https://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
+*   [Schema.org](https://schema.org) - Collection of schemas describing common data models.
+
+### PHP Clients
+
+*   [Guzzle](https://guzzle.readthedocs.org/en/latest/) - HTTP client and framework for consuming RESTful web services.
+
+### Ruby Clients
+
+*   [Net::HTTP](https://ruby-doc.org/3.2.0/stdlibs/net/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
+
+### .NET Clients
+
+*   [RestSharp (⭐8.9k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
+*   [Refit (⭐6.8k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+*   [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
+*   [RestEase (⭐904)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+*   [Tiny.RestClient (⭐196)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [RestLess (⭐108)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+*   [Apizr (⭐95)](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+
+### Node.js
+
+*   [Sails.js](https://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
+*   [loopback](https://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+*   [Feathers](https://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
+
+### PHP / Symfony2
+
+*   [REST APIs with Symfony2: the Right Way](https://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
+
+### Python / Symfony2
+
+*   [Django REST framework](https://www.django-rest-framework.org/) - Powerful and flexible toolkit that makes it easy to build Web APIs.
+*   [flask-restful](https://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
+*   [hug](https://www.hug.rest/) - Lightweight and fast API Framework.
+*   [restless](https://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
+*   [Python Eve](https://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
+
+### Ruby / Symfony2
+
+*   [Grape](https://www.ruby-grape.org) - Opinionated micro-framework for creating REST-like APIs in Ruby.
+*   [Rails](https://guides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
+
+### Querying / Symfony2
+
+*   [HttpMaster](https://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
+
+### Mocking / Symfony2
+
+*   [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
+*   [Mocky.io](https://www.mocky.io/) - Free online service to create fake HTTP responses.
+
+### Public REST APIs To Use In Tests / Symfony2
+
+*   [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
+*   [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - The world's largest API repository.
+*   [Public APIS (⭐226k)](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
+*   [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
+*   [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
+*   [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
+*   [The Cat API](https://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
+
+### Documentation / Symfony2
+
+*   [Swagger](https://swagger.io/) - Documentation/querying web interface for REST APIs.
+*   [API doc](https://apidocjs.com/) - Inline Documentation for RESTful web APIs.
+
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### IDE Extensions
+
+*   [CSS to TailwindCSS converter for Code (⭐4)](https://github.com/Jackardios/vscode-css-to-tailwindcss) - CSS to Tailwind CSS converter extension for Visual Studio Code.
+
+## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+
+### Templates / Misc
+
+*   [Cerberusemail](https://www.cerberusemail.com/) - Patterns for Responsive HTML Email Templates.
+
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [template-vite-react-ts-tailwind (⭐0)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
+
+## [12. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+
+### GUI
+
+*   [ILLA Cloud (⭐4.8k)](https://github.com/illacloud/illa-builder) - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql.
+
+## [13. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+
+### XM Cloud
+
+*   [Next.js Styleguide for XM Cloud (⭐3)](https://github.com/sitecorelabs/XmCloudNextJsJssStyleguide) - A solution designed to help developers learn and get started quickly with Sitecore Containers, the Sitecore Next.js SDK, and Sitecore Content Serialization.
+*   [XM Cloud Starter Kit (⭐3)](https://github.com/sitecorelabs/xmcloud-foundation-head) - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
+
+## [14. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+
+### Libraries
+
+*   [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
+
+## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Username Check / Telegram
 
@@ -19,7 +227,7 @@
 *   [Tubuep (⭐284)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
 *   [yt-dlp (⭐38k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
-## [2. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Youtube Playlists
 
@@ -27,13 +235,13 @@
 *   [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME\&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - This playlist is so much informative and provide simulation with code example. As like as you are in a class.
 *   [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI\&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete alogrithm playlist from basic level to intermediate. Easy explanation and simulation.
 
-## [3. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [17. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Platforms / Low Code Application Platform
 
 *   [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -43,7 +251,7 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [5. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [19. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### VM-Hardening
 
@@ -58,19 +266,19 @@
 
 *   [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
 
-## [6. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [20. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Cryptocurrency
 
 *   [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in contract programming.
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### 3rd party GTFS URL directories
 
 *   [TransitData.io](https://transitdata.io/) - A list of GTFS data in parts of Latin America. Must contact website maintainers directly to access feeds, as they're not publicly available.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
@@ -80,13 +288,13 @@
 
 *   [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and let's you publish SQL queries as managed HTTP APIs. No time limit on free-tier, 10GB storage + 1000 API requests per day.
 
-## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [23. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### 3D / Godot 3.2+
 
 *   [Tanks of Freedom II (⭐28)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 
-## [10. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [24. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Game Engines / Popular
 
@@ -600,7 +808,7 @@
     *   🔥 - Hot, Amazing Resource!
     *   🌎 - Website
 
-## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [25. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 

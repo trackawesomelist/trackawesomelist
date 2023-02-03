@@ -8,6 +8,10 @@
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### Templates / Misc
+
+*   [Cerberusemail](https://www.cerberusemail.com/) - Patterns for Responsive HTML Email Templates.
+
 ### Tools / Misc
 
 *   [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.

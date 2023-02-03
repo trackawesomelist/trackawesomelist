@@ -8,6 +8,10 @@
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### Templates / React
+
+*   [template-vite-react-ts-tailwind (⭐0)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
+
 ### Framework-agnostic Plugins / Loaders
 
 *   [vite-plugin-gltf (⭐75)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
@@ -41,7 +45,7 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [Vite-plugin-graphiql (⭐1)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
-*   [vite-plugin-graphql-server (⭐0)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
+*   [vite-plugin-graphql-server (⭐1)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -49,16 +53,16 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [Vite-plugin-haxe (⭐0)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
+*   [Vite-plugin-haxe (⭐2)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-shortcuts (⭐2)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
-*   [vite-plugin-auto-alias (⭐0)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
+*   [vite-plugin-auto-alias (⭐2)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 
 ### Open Source / Community
 
-*   [Compiiile (⭐43)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
+*   [Compiiile (⭐67)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -563,7 +567,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐5.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐5.9k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 

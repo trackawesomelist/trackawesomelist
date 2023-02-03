@@ -6,12 +6,34 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 03, 2023](/content/2023/02/03/README.md)
+
+### Generative AI Tools Directories
+
+*   [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
+*   [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/): directory of AI tools
+
+### Discussions and Philosophy / Papers Collections
+
+*   [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Some thoughts about generative AI and the future of education – Mark Carrigan](https://markcarrigan.net/2023/01/15/some-thoughts-about-generative-ai-and-the-future-of-education/)
+
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+
+*   [Godly](https://godly.ai/dashboard/projects/clctzt39i000hmo08xzkdgo5k/context): Instant context for GPT3
+
 ## [Feb 02, 2023](/content/2023/02/02/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
-*   [There's An AI For That](https://theresanaiforthat.com/): AI database
 *   [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
+
+### Generative AI Tools Directories
+
+*   [There's An AI For That](https://theresanaiforthat.com/): AI database
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -177,7 +199,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Jan 15, 2023](/content/2023/01/15/README.md)
 
-### The Generative AI Area: history, maps, and definitions
+### Generative AI Tools Directories
 
 *   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 
@@ -223,7 +245,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Jan 11, 2023](/content/2023/01/11/README.md)
 
-### The Generative AI Area: history, maps, and definitions
+### Generative AI Tools Directories
 
 *   \[🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 

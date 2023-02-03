@@ -2,7 +2,7 @@
 
 A curated list of resources dedicated to Natural Language Generation (NLG)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/accelerated-text/awesome-nlg/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) · ⭐ 382 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/accelerated-text/awesome-nlg/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) · ⭐ 398 · 🏷️ Computer Science
 
 [ [Daily](/content/accelerated-text/awesome-nlg/README.md) / [Weekly](/content/accelerated-text/awesome-nlg/week/README.md) / Overview ]
 
@@ -32,63 +32,64 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Datasets
 
 *   [Alex Context NLG Dataset (⭐25)](https://github.com/UFAL-DSG/alex_context_nlg_dataset) - A dataset for NLG in dialogue systems in the public transport information domain.
-*   [Box-score data (⭐99)](https://github.com/harvardnlp/boxscore-data/) - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
+*   [Box-score data (⭐101)](https://github.com/harvardnlp/boxscore-data/) - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
 *   [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
 *   [Neural-Wikipedian (⭐10)](https://github.com/pvougiou/Neural-Wikipedian) - The repository contains the code along with the required corpora that were used in order to build a system that "learns" how to generate English biographies for Semantic Web triples.
 *   [WeatherGov](https://cs.stanford.edu/\~pliang/data/weather-data.zip) - Computer-generated weather forecasts from weather.gov (US public forecast), along with corresponding weather data.
 *   [WebNLG (⭐64)](https://github.com/ThiagoCF05/webnlg) - The enriched version of the WebNLG - a resource for evaluating common NLG tasks, including Discourse Ordering, Lexicalization and Referring Expression Generation.
 *   [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/) - This dataset gathers 728,321 biographies from wikipedia. It aims at evaluating text generation algorithms.
-*   [The Schema-Guided Dialogue Dataset (⭐421)](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) - The Schema-Guided Dialogue (SGD) dataset consists of over 20k annotated multi-domain, task-oriented conversations between a human and a virtual assistant.
+*   [The Schema-Guided Dialogue Dataset (⭐429)](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) - The Schema-Guided Dialogue (SGD) dataset consists of over 20k annotated multi-domain, task-oriented conversations between a human and a virtual assistant.
 *   [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains semantic representations, short, and long descriptions for 51K companies in English.
 *   [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG provides resources for natural language generation of restaurant reviews.
 
 ## Dialog
 
-*   [Chatito (⭐793)](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
+*   [Chatito (⭐806)](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 *   [NNDIAL (⭐346)](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
-*   [Plato (⭐950)](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
-*   [RNNLG (⭐493)](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
-*   [TGen (⭐200)](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
+*   [Plato (⭐957)](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
+*   [RNNLG (⭐492)](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
+*   [TGen (⭐203)](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
 
 ## Evaluation
 
-*   [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation (⭐477)](https://github.com/google-research/bleurt)
-*   [compare-mt (⭐418)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
+*   [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation (⭐502)](https://github.com/google-research/bleurt)
+*   [compare-mt (⭐428)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 *   [GEM](https://gem-benchmark.com/) - a benchmark environment for NLG with a focus on its Evaluation, both through human annotations and automated Metrics.
 *   [NLG-eval (⭐1.1k)](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
-*   [VizSeq (⭐408)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
+*   [VizSeq (⭐411)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
 
 ## Grammar
 
 *   [OpenCCG (⭐202)](https://github.com/OpenCCG/openccg) - OpenCCG library for parsing and realization with CCG.
 *   [GrammaticalFramework](http://www.grammaticalframework.org/) - A programming language for multilingual grammar applications.
-*   [EasyCCG (⭐58)](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
-*   [CCG Lab (⭐22)](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
+*   [EasyCCG (⭐57)](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
+*   [CCG Lab (⭐24)](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 *   [CCGweb (⭐5)](https://github.com/texttheater/ccgweb) - A Web platform for parsing and annotation.
 
 ## Libraries
 
-*   [Cron Expression Descriptor (⭐789)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
+*   [Cron Expression Descriptor (⭐817)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 *   [Number Words (⭐191)](https://github.com/tokenmill/numberwords) - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
+*   [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
 
 ## Narrative Generation
 
-*   [Random Story Generator (⭐59)](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
+*   [Random Story Generator (⭐60)](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
 *   [Tracery (⭐2k)](https://github.com/galaxykate/tracery) - A story-grammar generation library for JavaScript.
 
 ## Neural Natural Language Generation
 
-*   [aitextgen (⭐1.6k)](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
-*   [graph-2-text (⭐145)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
-*   [Image Caption Generator (⭐143)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
-*   [PaperRobot: Incremental Draft Generation of Scientific Ideas (⭐445)](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
-*   [PPLM (⭐969)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
-*   [Question Generation using hugstransformers (⭐844)](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
+*   [aitextgen (⭐1.7k)](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
+*   [graph-2-text (⭐147)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
+*   [Image Caption Generator (⭐144)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
+*   [PaperRobot: Incremental Draft Generation of Scientific Ideas (⭐457)](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
+*   [PPLM (⭐1k)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
+*   [Question Generation using hugstransformers (⭐897)](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
 *   [Texar (⭐2.3k)](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
-*   [textgenrnn (⭐4.8k)](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
-*   [This Word Does Not Exist (⭐966)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
-*   [Transformers (⭐73k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-*   [Summary Generation From Structured Data (⭐183)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
+*   [textgenrnn (⭐4.9k)](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+*   [This Word Does Not Exist (⭐971)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
+*   [Transformers (⭐80k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+*   [Summary Generation From Structured Data (⭐185)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
 ## Papers and Articles
 
@@ -111,22 +112,22 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Products
 
-*   [Accelerated Text (⭐628)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+*   [Accelerated Text (⭐669)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
 *   [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 *   [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
 ## Realizers
 
 *   [Genl (⭐22)](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
-*   [JSrealB (⭐17)](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
-*   [SimpleNLG (⭐774)](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
+*   [JSrealB (⭐18)](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
+*   [SimpleNLG (⭐780)](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
 *   [SimpleNLG DE (⭐16)](https://github.com/sebischair/SimpleNLG-DE) - German version of SimpleNLG 4.
 *   [SimpleNLG-EnFr (⭐25)](https://github.com/rali-udem/SimpleNLG-EnFr) - SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2.
 
 ## Templating Languages
 
-*   [calyx (⭐60)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
-*   [nalgene (⭐54)](https://github.com/spro/nalgene) - Natural language generation language.
+*   [calyx (⭐59)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
+*   [nalgene (⭐55)](https://github.com/spro/nalgene) - Natural language generation language.
 *   [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output.
 
 ## Videos

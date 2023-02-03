@@ -2,9 +2,15 @@
 
 A curated list of awesome SNMP libraries, tools, and other resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/eozer/awesome-snmp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 eozer/awesome-snmp](https://github.com/eozer/awesome-snmp) · ⭐ 21 · 🏷️ Networking
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/eozer/awesome-snmp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 eozer/awesome-snmp](https://github.com/eozer/awesome-snmp) · ⭐ 23 · 🏷️ Networking
 
 [ Daily / [Weekly](/content/eozer/awesome-snmp/week/README.md) / [Overview](/content/eozer/awesome-snmp/readme/README.md) ]
+
+## [Feb 03, 2023](/content/2023/02/03/README.md)
+
+### Libraries / Go
+
+*   [sleepinggenius2/gosmi (⭐69)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
 
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 
@@ -16,7 +22,7 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Libraries / Python
 
-*   [Scapy (⭐8.3k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐8.3k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets.
+*   [Scapy (⭐8.4k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐8.4k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets.
 
 ## [Mar 03, 2022](/content/2022/03/03/README.md)
 
@@ -28,7 +34,7 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Tools / GUIs
 
-*   [toni-moreno/snmpcollector (⭐263)](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
+*   [toni-moreno/snmpcollector (⭐268)](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 
 ## [Feb 26, 2022](/content/2022/02/26/README.md)
 
@@ -38,10 +44,10 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Tools / CLIs
 
-*   [trailofbits/onesixtyone (⭐330)](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner.
-*   [SECFORCE/SNMP-Brute (⭐249)](https://github.com/SECFORCE/SNMP-Brute) - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
-*   [hatlord/snmpwn (⭐207)](https://github.com/hatlord/snmpwn) - An SNMPv3 User Enumerator and Attack tool.
-*   [zabbix-tools/mib2zabbix (⭐140)](https://github.com/zabbix-tools/mib2zabbix) - This Perl script will generate a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file.
+*   [trailofbits/onesixtyone (⭐342)](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner.
+*   [SECFORCE/SNMP-Brute (⭐254)](https://github.com/SECFORCE/SNMP-Brute) - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
+*   [hatlord/snmpwn (⭐208)](https://github.com/hatlord/snmpwn) - An SNMPv3 User Enumerator and Attack tool.
+*   [zabbix-tools/mib2zabbix (⭐141)](https://github.com/zabbix-tools/mib2zabbix) - This Perl script will generate a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file.
 
 ### Publications / Books
 
@@ -72,7 +78,7 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Tools / CLIs
 
-*   [prometheus/snmp\_exporter (⭐1.1k)](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+*   [prometheus/snmp\_exporter (⭐1.2k)](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
 
 ## [Feb 22, 2022](/content/2022/02/22/README.md)
 
@@ -94,8 +100,8 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### MIB repositories / Tutorials
 
-*   [hsnodgrass/snmp\_mib\_archive (⭐161)](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
-*   [kcsinclair/mibs (⭐42)](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
+*   [hsnodgrass/snmp\_mib\_archive (⭐162)](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
+*   [kcsinclair/mibs (⭐43)](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
 *   [mibdepot.com](http://www.mibdepot.com) - mibDepot is a free service to the SNMP community and offers a dictionary of MIBs and a unique-in-the-industry Search Engine with over 12,000 SNMP MIBs representing over 1,800,000 MIB object definitions.
 *   [oid-info.com](http://oid-info.com) - This OID repository gathers information about Object Identifiers (OIDs), and provides tools to display, update and search for this information.
 *   [michaelfmcnamara.com](https://blog.michaelfmcnamara.com/mibs/) - Hand-curated list of MIBs by Michael McNamara.
@@ -121,7 +127,7 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Libraries / Python
 
-*   [robotframework-snmplibrary (⭐11)](https://github.com/kontron/robotframework-snmplibrary) - SNMPLibrary is a Robot Framework test library for testing SNMP.
+*   [robotframework-snmplibrary (⭐12)](https://github.com/kontron/robotframework-snmplibrary) - SNMPLibrary is a Robot Framework test library for testing SNMP.
 
 ## [Feb 17, 2022](/content/2022/02/17/README.md)
 
@@ -189,16 +195,15 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Libraries / Go
 
-*   [sleepinggenius2/gosmi) (⭐66)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
-*   [posteo/go-agentx (⭐47)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
+*   [posteo/go-agentx (⭐49)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
 
 ### Libraries / Python
 
-*   [pysnmp (⭐502)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
-*   [pysmi (⭐113)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
+*   [pysnmp (⭐506)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
+*   [pysmi (⭐114)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
 *   [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default.
-*   [puresnmp (⭐71)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
-*   [snimpy (⭐172)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
+*   [puresnmp (⭐70)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
+*   [snimpy (⭐174)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
 *   [python-netsnmpagent (⭐64)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python.
 *   [hnmp (⭐45)](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.
 
@@ -212,10 +217,10 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Tools / CLIs
 
-*   [snmpsim (⭐315)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
+*   [snmpsim (⭐317)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 *   [snmpfwd (⭐61)](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
 *   [snmpclitools (⭐39)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
-*   [snmpwn (⭐207)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
+*   [snmpwn (⭐208)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
 *   [trapperkeeper (⭐79)](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
 
 ### Tools / GUIs
@@ -243,7 +248,7 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Libraries / C#
 
-*   [sharpSNMP (⭐299)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
+*   [sharpSNMP (⭐303)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
 *   [SnmpSharpNet (⭐57)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
 ### Libraries / Java
@@ -270,7 +275,7 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Libraries / Go
 
-*   [gosnmp/gosnmp (⭐924)](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
+*   [gosnmp/gosnmp (⭐933)](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
 
 ### Libraries / Java
 
@@ -279,7 +284,7 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Libraries / JavaScript
 
-*   [node-net-snmp (⭐164)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
+*   [node-net-snmp (⭐166)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
 
 ### Tools / CLIs
 
@@ -322,6 +327,6 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 ### Libraries / JavaScript
 
-*   [node-snmp-native (⭐246)](https://github.com/calmh/node-snmp-native) -  Native JavaScript SNMP library for Node.js.
+*   [node-snmp-native (⭐247)](https://github.com/calmh/node-snmp-native) -  Native JavaScript SNMP library for Node.js.
 *   [node-snmpjs (⭐111)](https://github.com/joyent/node-snmpjs) - This package provides a toolkit for SNMP agents and management applications in Node.js.
 *   [snmp-node (⭐1)](https://github.com/neias/snmp-node) - Native JavaScript SNMP library for Node.js.

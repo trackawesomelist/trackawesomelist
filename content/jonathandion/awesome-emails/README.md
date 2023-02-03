@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jonathandion/awesome-emails/week/README.md) / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
 
+## [Feb 03, 2023](/content/2023/02/03/README.md)
+
+### Templates / Misc
+
+*   [Cerberusemail](https://www.cerberusemail.com/) - Patterns for Responsive HTML Email Templates.
+
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
 ### Services / Misc

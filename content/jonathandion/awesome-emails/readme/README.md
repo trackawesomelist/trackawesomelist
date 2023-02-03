@@ -59,6 +59,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Templates
 
+*   [Cerberusemail](https://www.cerberusemail.com/) - Patterns for Responsive HTML Email Templates.
 *   [Responsive templates](https://templates.emailoctopus.com/) - Free HTML templates from EmailOctopus, usable with any provider.
 *   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 *   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open source email templates.

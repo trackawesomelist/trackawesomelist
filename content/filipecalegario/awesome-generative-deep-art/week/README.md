@@ -10,8 +10,13 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### The Generative AI Area: history, maps, and definitions
 
-*   [There's An AI For That](https://theresanaiforthat.com/): AI database
 *   [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
+
+### Generative AI Tools Directories
+
+*   [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/): list of AI tools
+*   [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/): directory of AI tools
+*   [There's An AI For That](https://theresanaiforthat.com/): AI database
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -25,8 +30,13 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [Stable Diffusion Models](https://rentry.org/sdmodels): list of custom Stable Diffusion models
 
+### Discussions and Philosophy / Papers Collections
+
+*   [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
+
 ### Discussions and Philosophy / Critical Views about Generative AI
 
+*   [Some thoughts about generative AI and the future of education – Mark Carrigan](https://markcarrigan.net/2023/01/15/some-thoughts-about-generative-ai-and-the-future-of-education/)
 *   [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education)
 
 ### Image Upscaling / Generative Adversarial Networks (GANs)
@@ -39,6 +49,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
+*   [Godly](https://godly.ai/dashboard/projects/clctzt39i000hmo08xzkdgo5k/context): Instant context for GPT3
 *   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
 
 ### Inbox: Music and Audio projects / Text-related Generative Tools
@@ -152,8 +163,11 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### The Generative AI Area: history, maps, and definitions
 
-*   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 *   [AI exploded on the scene at the end of 2022 / Twitter](https://twitter.com/RamaswmySridhar/status/1613271413020037120): categories for analyzing tools of Generative AI
+
+### Generative AI Tools Directories
+
+*   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 *   \[🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text

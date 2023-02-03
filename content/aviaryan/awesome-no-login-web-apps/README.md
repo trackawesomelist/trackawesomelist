@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
+## [Feb 03, 2023](/content/2023/02/03/README.md)
+
+### Communication
+
+*   [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
+
 ## [Jan 27, 2023](/content/2023/01/27/README.md)
 
 ### Drawing / Others

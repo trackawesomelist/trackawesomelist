@@ -2,9 +2,15 @@
 
 A community driven list of ClojureScript frameworks, libraries and wrappers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hantuzun/awesome-clojurescript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript) · ⭐ 955 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hantuzun/awesome-clojurescript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript) · ⭐ 967 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/hantuzun/awesome-clojurescript/week/README.md) / [Overview](/content/hantuzun/awesome-clojurescript/readme/README.md) ]
+
+## [Feb 03, 2023](/content/2023/02/03/README.md)
+
+### Resources / Books
+
+*   [ClojureScript Unraveled (2nd edition)](https://funcool.github.io/clojurescript-unraveled/) – An open source book about the ClojureScript language that covers all the language features, how to use the compiler and the tooling for building applications and libraries.
 
 ## [Aug 23, 2021](/content/2021/08/23/README.md)
 
@@ -16,8 +22,8 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / [React.js](https://facebook.github.io/react/)   Interface
 
-*   [Helix (⭐436)](https://github.com/lilactown/helix) – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
-*   [hx (⭐244)](https://github.com/Lokeh/hx) – Another simple, easy to use library for React development in ClojureScript.
+*   [Helix (⭐472)](https://github.com/lilactown/helix) – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
+*   [hx (⭐245)](https://github.com/Lokeh/hx) – Another simple, easy to use library for React development in ClojureScript.
 
 ## [Sep 24, 2019](/content/2019/09/24/README.md)
 
@@ -47,23 +53,23 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Development
 
-*   [Ambly (⭐537)](https://github.com/omcljs/ambly) – A ClojureScript REPL into iOS JavaScriptCore.
+*   [Ambly (⭐535)](https://github.com/omcljs/ambly) – A ClojureScript REPL into iOS JavaScriptCore.
 *   [Instaparse (⭐89)](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 *   [lein-cljsbuild (⭐1.1k)](https://github.com/emezeske/lein-cljsbuild) – A Leiningen plugin to make ClojureScript development easy.
 *   [shadow-cljs (⭐2k)](https://github.com/thheller/shadow-cljs) – ClojureScript compilation made easy
-*   [Truss (⭐267)](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
+*   [Truss (⭐274)](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 ### Awesome ClojureScript / Document Object Model
 
-*   [Respo (⭐235)](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
+*   [Respo (⭐232)](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
 
 ### Awesome ClojureScript / Internationalization
 
-*   [Tempura (⭐239)](https://github.com/ptaoussanis/tempura) – A Clojure(Script) i18n library, succeeding Tower
+*   [Tempura (⭐242)](https://github.com/ptaoussanis/tempura) – A Clojure(Script) i18n library, succeeding Tower
 
 ### Awesome ClojureScript / [React.js](https://facebook.github.io/react/)   Interface
 
-*   [cljsx (⭐9)](https://github.com/peterhudec/cljsx) – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome (⭐11k)](https://github.com/snabbdom/snabbdom) and others.
+*   [cljsx (⭐10)](https://github.com/peterhudec/cljsx) – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome (⭐11k)](https://github.com/snabbdom/snabbdom) and others.
 *   [Om (⭐6.7k)](https://github.com/omcljs/om) – A powerful interface to React, makes use of its object oriented structures.
 *   [Quiescent (⭐609)](https://github.com/levand/quiescent) – It favors functional style, fully stateless.
 *   [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
@@ -71,13 +77,13 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Reactive Programming
 
-*   [Manifold-cljs (⭐45)](https://github.com/dm3/manifold-cljs) – A port of [Manifold (⭐930)](https://github.com/ztellman/manifold) to ClojureScript.
+*   [Manifold-cljs (⭐46)](https://github.com/dm3/manifold-cljs) – A port of [Manifold (⭐948)](https://github.com/ztellman/manifold) to ClojureScript.
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Fulcro](http://fulcrologic.github.io/fulcro) – A library for development of single-page full-stack web applications in clj/cljs.
 *   [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) – A reagent compatible library without react.js dependency.
-*   [Precept (⭐644)](https://github.com/CoNarrative/precept) – A declarative programming framework.
+*   [Precept (⭐642)](https://github.com/CoNarrative/precept) – A declarative programming framework.
 
 ## [Apr 12, 2019](/content/2019/04/12/README.md)
 
@@ -89,7 +95,7 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Validation
 
-*   [form-validator-cljs (⭐53)](https://github.com/kwladyka/form-validator-cljs) – Validate forms with spec and fn.
+*   [form-validator-cljs (⭐54)](https://github.com/kwladyka/form-validator-cljs) – Validate forms with spec and fn.
 
 ## [Sep 21, 2018](/content/2018/09/21/README.md)
 
@@ -106,7 +112,7 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 ### Awesome ClojureScript / CSS tools
 
 *   [Garden (⭐1.3k)](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
-*   [stylefy (⭐308)](https://github.com/jarzka/stylefy) – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
+*   [stylefy (⭐309)](https://github.com/jarzka/stylefy) – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
 
 ### Awesome ClojureScript / Miscellaneous
 
@@ -120,7 +126,7 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Client/Server Communication
 
-*   [cljs-ajax (⭐642)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
+*   [cljs-ajax (⭐653)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 
 ## [Jun 16, 2017](/content/2017/06/16/README.md)
 
@@ -138,55 +144,55 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Canvas
 
-*   [Quamolit (⭐2)](https://github.com/Quamolit/quamolit) – A tiny declarative animation library , inspired by React.
+*   [Quamolit (⭐3)](https://github.com/Quamolit/quamolit) – A tiny declarative animation library , inspired by React.
 
 ### Awesome ClojureScript / Data Serialization
 
 *   [Cljson (⭐63)](https://github.com/tailrecursion/cljson) – Clojure/ClojureScript library for accelerated browser data deserialization.
-*   [Transit (⭐317)](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
+*   [Transit (⭐319)](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 ### Awesome ClojureScript / Database
 
-*   [Konserve (⭐284)](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
+*   [Konserve (⭐289)](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
 
 ### Awesome ClojureScript / Development
 
-*   [cljs-devtools (⭐1k)](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
+*   [cljs-devtools (⭐1.1k)](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
 *   [lein-figwheel (⭐2.9k)](https://github.com/bhauman/lein-figwheel) – Leiningen plugin that pushes ClojureScript code changes to the client.
 
 ### Awesome ClojureScript / Document Object Model
 
 *   [Crate (⭐216)](https://github.com/ibdknox/crate) – A ClojureScript implementation of Hiccup.
-*   [Dommy (⭐757)](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
-*   [Kioo (⭐404)](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
-*   [Sablono (⭐681)](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
+*   [Dommy (⭐758)](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
+*   [Kioo (⭐403)](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
+*   [Sablono (⭐683)](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 ### Awesome ClojureScript / Graphics
 
-*   [geom (⭐863)](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
+*   [geom (⭐900)](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [Keybind (⭐85)](https://github.com/piranha/keybind) – Library for handling key bindings (shortcuts) in browser.
-*   [markdown-clj (⭐515)](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
-*   [reforms (⭐169)](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
+*   [markdown-clj (⭐521)](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
+*   [reforms (⭐170)](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
 *   [Sepal.clj (⭐28)](https://github.com/Cirru/sepal.clj) – A library to generate Clojure code from a vector of strings and vectors with macro system.
 
 ### Awesome ClojureScript / [React.js](https://facebook.github.io/react/)   Interface
 
-*   [re-com (⭐754)](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
+*   [re-com (⭐761)](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
 
 ### Awesome ClojureScript / State Management
 
 *   [plato (⭐29)](https://github.com/eneroth/plato) – Incrementally persists atom state to Local Storage in ClojureScript.
-*   [storage-atom (⭐186)](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
+*   [storage-atom (⭐187)](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Chestnut (⭐1.3k)](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
-*   [descjop (⭐393)](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
-*   [electron-template (⭐112)](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
-*   [WebFUI (⭐235)](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
+*   [descjop (⭐392)](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
+*   [electron-template (⭐113)](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
+*   [WebFUI (⭐236)](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
 ## [Mar 07, 2017](/content/2017/03/07/README.md)
 
@@ -198,34 +204,34 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / WebSockets
 
-*   [Chord (⭐435)](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
+*   [Chord (⭐434)](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 *   [Sente (⭐1.7k)](https://github.com/ptaoussanis/sente) – Clojure(Script) + core.async + WebSockets/Ajax.
 
 ## [Mar 05, 2017](/content/2017/03/05/README.md)
 
 ### Awesome ClojureScript / Routing
 
-*   [Router (⭐78)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
-*   [Secretary (⭐768)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
+*   [Router (⭐79)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
+*   [Secretary (⭐774)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
 
 ## [Feb 16, 2017](/content/2017/02/16/README.md)
 
 ### Awesome ClojureScript / Documentation
 
-*   [codox (⭐637)](https://github.com/weavejester/codox) – A tool for generating API documentation from Clojure or ClojureScript source code.
+*   [codox (⭐641)](https://github.com/weavejester/codox) – A tool for generating API documentation from Clojure or ClojureScript source code.
 
 ## [Feb 09, 2017](/content/2017/02/09/README.md)
 
 ### Awesome ClojureScript / State Management
 
 *   [component (⭐2k)](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(Script).
-*   [mount (⭐1.1k)](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
+*   [mount (⭐1.2k)](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
 
 ## [Jan 14, 2017](/content/2017/01/14/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Macchiato (⭐374)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
+*   [Macchiato (⭐375)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 
 ## [Dec 26, 2016](/content/2016/12/26/README.md)
 
@@ -237,25 +243,25 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Client/Server Communication
 
-*   [Fetch (⭐206)](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
+*   [Fetch (⭐209)](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 ## [Mar 22, 2016](/content/2016/03/22/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [reagent-forms (⭐337)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
+*   [reagent-forms (⭐338)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 
 ## [Jan 20, 2016](/content/2016/01/20/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [om-tools (⭐438)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
+*   [om-tools (⭐437)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 
 ## [Jan 08, 2016](/content/2016/01/08/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Clops (⭐173)](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
+*   [Clops (⭐172)](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
 
 ## [Dec 23, 2015](/content/2015/12/23/README.md)
 
@@ -263,7 +269,7 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 *   [Dominator (⭐73)](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
 *   [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.
-*   [Freactive (⭐393)](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
+*   [Freactive (⭐394)](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 *   [json-html (⭐158)](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
 
 ## [Nov 13, 2015](/content/2015/11/13/README.md)
@@ -274,7 +280,7 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Reactive Programming
 
-*   [Javelin (⭐758)](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
+*   [Javelin (⭐762)](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
 
 ### Awesome ClojureScript / State Management
 
@@ -284,11 +290,11 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [Bardo (⭐92)](https://github.com/pleasetrythisathome/bardo) – A Clojure(Script) library for functional interpolation and transitions.
+*   [Bardo (⭐93)](https://github.com/pleasetrythisathome/bardo) – A Clojure(Script) library for functional interpolation and transitions.
 
 ### Awesome ClojureScript / Routing
 
-*   [Bidi (⭐969)](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
+*   [Bidi (⭐974)](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
 
 ## [Oct 07, 2015](/content/2015/10/07/README.md)
 
@@ -308,7 +314,7 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Reactive Programming
 
-*   [Reagi (⭐224)](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
+*   [Reagi (⭐227)](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 
 ## [May 25, 2015](/content/2015/05/25/README.md)
 
@@ -327,13 +333,13 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / JavaScript Interoperability
 
-*   [Jayq (⭐409)](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
+*   [Jayq (⭐410)](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
 
 ## [May 20, 2015](/content/2015/05/20/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Mies (⭐369)](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
+*   [Mies (⭐370)](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
 
 ## [May 18, 2015](/content/2015/05/18/README.md)
 
@@ -343,7 +349,7 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [Automat (⭐579)](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
+*   [Automat (⭐580)](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
 
 ## [May 13, 2015](/content/2015/05/13/README.md)
@@ -356,7 +362,7 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Testing
 
-*   [Speclj (⭐421)](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
+*   [Speclj (⭐424)](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 
 ## [May 03, 2015](/content/2015/05/03/README.md)
 
@@ -379,30 +385,30 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Database
 
-*   [Datascript (⭐4.9k)](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
+*   [Datascript (⭐5k)](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 *   [Jaki (⭐16)](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 
 ### Awesome ClojureScript / Document Object Model
 
 *   [cljs-binding (⭐57)](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
-*   [Hiccups (⭐197)](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
-*   [Hickory (⭐538)](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
+*   [Hiccups (⭐200)](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
+*   [Hickory (⭐573)](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 
 ### Awesome ClojureScript / Internationalization
 
-*   [Tower (⭐271)](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
+*   [Tower (⭐272)](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
 
 ### Awesome ClojureScript / JavaScript Interoperability
 
-*   [Pylon (⭐48)](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
+*   [Pylon (⭐49)](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [inflections-clj (⭐202)](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
+*   [inflections-clj (⭐204)](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 
 ### Awesome ClojureScript / Routing
 
-*   [Silk (⭐219)](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
+*   [Silk (⭐218)](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
 ### Awesome ClojureScript / State Management
 
@@ -414,4 +420,4 @@ A community driven list of ClojureScript frameworks, libraries and wrappers.
 
 ### Awesome ClojureScript / Validation
 
-*   [Bouncer (⭐358)](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
+*   [Bouncer (⭐360)](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.

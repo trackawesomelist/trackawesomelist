@@ -15,6 +15,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Database
 
 *   [Kvrocks (⭐1.9k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
+*   [LMDB](https://www.symas.com/lmdb) - Very fast embedded key/value store with full ACID semantics. \[OpenLDAP]
+
+### Debug
+
+*   [snitch (⭐88)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
+
+### Game Engine
+
+*   [Torque2D (⭐725)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
+*   [Torque3D (⭐788)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
 
 ### JSON
 
@@ -23,6 +33,19 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Math
 
 *   [MatX (⭐663)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
+*   [muparser](https://beltoforion.de/en/muparser) - muParser is an extensible high performance math expression parser library written in C++. \[MIT]
+
+### Online Compiler
+
+*   [Wandbox](https://wandbox.org) - An online Clang/GCC compiler with Boost available.
+
+### Build Systems
+
+*   [waf](https://gitlab.com/ita1024/waf) - Python-based framework for configuring, compiling and installing applications. \[BSD] [website](https://waf.io/)
+
+### Coding Standards
+
+*   [Autosar C++ 2014](https://www.autosar.org/fileadmin/standards/adaptive/21-11/AUTOSAR_RS_CPP14Guidelines.pdf)
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -119,7 +142,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Cert C++](https://resources.sei.cmu.edu/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf)
 *   [Misra C++ 2008](https://www.cppdepend.com/misra-cpp)
-*   [Autosar C++ 2014](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/18-10/AUTOSAR_RS_CPP14Guidelines.pdf)
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 
@@ -1131,7 +1153,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Math
 
-*   [universal (⭐301)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license] [website](http://www.stillwater-sc.com/assets/content/stillwater-universal-sw.html)
+*   [universal (⭐301)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
 
 ### Reflection
 
@@ -1670,7 +1692,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Build Systems
 
 *   [clib (⭐4.5k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
-*   [waf](https://github.com/waf-project/waf) - Python-based framework for configuring, compiling and installing applications. \[BSD] [website](https://waf.io/)
 
 ## [Apr 23 - Apr 29, 2018](/content/2018/17/README.md)
 
@@ -2285,12 +2306,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [mbedTLS (⭐4k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
-## [Nov 14 - Nov 20, 2016](/content/2016/46/README.md)
-
-### Math
-
-*   [muparser](http://beltoforion.de/article.php?a=muparser) - muParser is an extensible high performance math expression parser library written in C++. \[MIT]
-
 ## [Oct 24 - Oct 30, 2016](/content/2016/43/README.md)
 
 ### Database
@@ -2757,7 +2772,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Networking
 
-*   [cpr (⭐5.2k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://whoshuu.github.io/cpr/)
+*   [cpr (⭐5.2k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 
 ## [Jul 06 - Jul 12, 2015](/content/2015/27/README.md)
 
@@ -2880,8 +2895,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Game Engine
 
 *   [GamePlay (⭐3.9k)](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. \[Apache2]
-*   [Torque2D (⭐1.7k)](https://github.com/GarageGames/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://www.garagegames.com/products/torque-2d)
-*   [Torque3D (⭐3.3k)](https://github.com/GarageGames/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://www.garagegames.com/products/torque-3d)
 
 ### Image Processing
 
@@ -3090,7 +3103,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Online Compiler
 
 *   [Rextester](http://rextester.com/runcode) - Online compiler which provides several compilers(Clang, GCC, MSVC) and several editors.
-*   [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
 
 ### Coding Style
 
@@ -3384,7 +3396,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [hiberlite (⭐666)](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. \[BSD]
 *   [Hiredis (⭐5.6k)](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. \[BSD]
-*   [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. \[OpenLDAP]
 *   [RocksDB (⭐24k)](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. \[BSD]
 *   [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. \[PublicDomain]
 
