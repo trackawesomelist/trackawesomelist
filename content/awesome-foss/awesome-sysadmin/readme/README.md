@@ -156,7 +156,6 @@ Managing software on desktop computers.
 *See also: [IT Asset Management](#it-asset-management)*
 
 *   [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code (⭐8.8k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
-*   [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan. ([Source Code (⭐286)](https://github.com/OCSInventory-NG/OCSInventory-Server)) `GPL-2.0` `Perl/PHP`
 
 ### Cloning
 
@@ -218,7 +217,6 @@ Configuration management database (CMDB) software.
 
 *See also: [IT Asset Management](https://github.com/awesome-foss/awesome-sysadmin/blob/master/README.md/\[Ralph]\(#it-asset-management\))*
 
-*   [Clusto (⭐290)](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 *   [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 *   [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
 *   [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
@@ -435,7 +433,7 @@ Configuration management database (CMDB) software.
 
 *IT Assets Management software.*
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3k)](https://github.com/glpi-project/glpi))
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 *   [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
 *   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐642)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
@@ -463,12 +461,11 @@ Configuration management database (CMDB) software.
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
-*   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
-*   [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
-*   [Nylas Mail](https://www.nylas.com/nylas-mail/) - Extensible mail client.
-*   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
-*   [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
+*   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree))
+*   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code (⭐2.7k)](https://github.com/imapsync/imapsync))
+*   [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt))
+*   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code (⭐61)](https://github.com/sylpheed-mail/sylpheed))
+*   [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file))
 
 ### Monitoring
 
@@ -554,12 +551,11 @@ Configuration management database (CMDB) software.
 
 *Network configuration management tools.*
 
-*   [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code (⭐1.7k)](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)) - `GPLv3`
-*   [Oxidized (⭐2.2k)](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
-*   [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
-*   [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
-*   [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
-*   [trigger (⭐548)](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
+*   [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances. ([Source Code (⭐1.7k)](https://github.com/GNS3/gns3-gui/)) `GPL-3.0` `Python`
+*   [Oxidized (⭐2.2k)](https://github.com/ytti/oxidized) - Network device configuration backup tool. `Apache-2.0` `Ruby`
+*   [phpIPAM](http://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code (⭐1.8k)](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
+*   [RANCID](http://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code (⭐77)](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
+*   [rConfig](http://www.rconfig.com/) - Network device configuration management tool. ([Source Code (⭐102)](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
 
 ### Newsletters
 

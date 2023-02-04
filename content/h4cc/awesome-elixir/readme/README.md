@@ -128,6 +128,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [pool\_ring (⭐3)](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
 *   [poolboy (⭐1.5k)](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 *   [pooler (⭐278)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [poolex (⭐5)](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
 *   [sbroker (⭐158)](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
 *   [workex (⭐78)](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
@@ -1508,7 +1509,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [coil (⭐66)](https://github.com/badosu/coil) - Minimalistic static content engine.
 *   [glayu (⭐73)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 *   [medusa (⭐3)](https://github.com/Vesuvium/medusa) - Elixir static site generator that supports Pug.
-*   [NimblePublisher (⭐313)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
+*   [NimblePublisher (⭐318)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
 *   [pardall\_markdown (⭐98)](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding.
 *   [obelisk (⭐383)](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 *   [serum (⭐294)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
@@ -1993,7 +1994,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *   [ilexir (⭐8)](https://github.com/dm1try/ilexir) - IDE-like things for Elixir in Neovim.
 *   [intellij\_elixir (⭐3)](https://github.com/KronicDeth/intellij_elixir) - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.
 *   [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
-*   [mix.nvim (⭐18)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
+*   [mix.nvim (⭐21)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 *   [Nova Elixir (⭐8)](https://github.com/stollcri/elixir.novaextension) - Syntax highlighting and code completion for Elixir files (.ex, .exs, .eex) in Nova.
 *   [nvim (⭐23)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.

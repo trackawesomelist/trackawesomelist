@@ -21,6 +21,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [snitch (⭐88)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
 
+### Font
+
+*   [harfbuzz (⭐2.8k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine \[Old MIT]
+
 ### Game Engine
 
 *   [Torque2D (⭐725)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)

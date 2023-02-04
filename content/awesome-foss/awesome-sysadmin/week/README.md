@@ -8,6 +8,10 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### Software / Mail Clients
+
+*   [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file))
+
 ### Software / Monitoring
 
 *   [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code (⭐2.2k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
@@ -256,12 +260,6 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 *   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐6.7k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 
-## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
-
-### Software / Client management
-
-*   [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan. ([Source Code (⭐286)](https://github.com/OCSInventory-NG/OCSInventory-Server)) `GPL-2.0` `Perl/PHP`
-
 ## [Nov 18 - Nov 24, 2019](/content/2019/46/README.md)
 
 ### Software / DNS - Domain Management
@@ -270,7 +268,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / IT Asset Management
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3k)](https://github.com/glpi-project/glpi))
 
 ## [Nov 11 - Nov 17, 2019](/content/2019/45/README.md)
 
@@ -514,7 +512,6 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Configuration Management Database
 
-*   [Clusto (⭐290)](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 *   [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 *   [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
 *   [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
@@ -617,12 +614,10 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Mail Clients
 
-*   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
-*   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
-*   [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
-*   [Nylas Mail](https://www.nylas.com/nylas-mail/) - Extensible mail client.
-*   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
-*   [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
+*   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree))
+*   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code (⭐2.7k)](https://github.com/imapsync/imapsync))
+*   [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt))
+*   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code (⭐61)](https://github.com/sylpheed-mail/sylpheed))
 
 ### Software / Monitoring
 
@@ -650,12 +645,11 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Network Configuration Management
 
-*   [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code (⭐1.7k)](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)) - `GPLv3`
-*   [Oxidized (⭐2.2k)](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
-*   [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
-*   [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
-*   [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
-*   [trigger (⭐548)](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
+*   [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances. ([Source Code (⭐1.7k)](https://github.com/GNS3/gns3-gui/)) `GPL-3.0` `Python`
+*   [Oxidized (⭐2.2k)](https://github.com/ytti/oxidized) - Network device configuration backup tool. `Apache-2.0` `Ruby`
+*   [phpIPAM](http://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code (⭐1.8k)](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
+*   [RANCID](http://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code (⭐77)](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
+*   [rConfig](http://www.rconfig.com/) - Network device configuration management tool. ([Source Code (⭐102)](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
 
 ### Software / Newsletters
 

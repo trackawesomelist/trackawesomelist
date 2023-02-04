@@ -10,7 +10,12 @@ A curated list of awesome qubes os links
 
 ### VM-Hardening
 
+*   [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
 *   [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
+
+### Clear Net & Darknet Networking / Darknet
+
+*   [i2p-Whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on Qubes-Whonix.
 
 ### Exploitation Tools / Xen Exploitation
 
@@ -25,7 +30,7 @@ A curated list of awesome qubes os links
 
 ### GPU
 
-*   [Gaming-HVM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - Create a Gaming HVM
+*   [Gaming-HVM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) -
 
 ### Exploitation Tools / Unikernel-like
 
@@ -45,7 +50,7 @@ A curated list of awesome qubes os links
 
 ### Desktop Customization
 
-*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol.
+*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 
 ### Exploitation Tools / Unikernel-like
 
@@ -88,13 +93,13 @@ A curated list of awesome qubes os links
 
 ### VM-Hardening
 
-*   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
+*   [Qcrypt (⭐13)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
 *   [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
 
 ### Desktop Customization
 
 *   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment
-*   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) -
+*   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
 *   [Suckless dwm (⭐6)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ### GPU
@@ -102,10 +107,10 @@ A curated list of awesome qubes os links
 *   [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/) - Adjust your GUI configuration to meet your display needs.
 *   [GUI-domain](https://www.qubes-os.org/doc/gui-domain/) - On this page, we describe how to set up a GUI domain.
 *   [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/) - Learn to troubleshoot your GUI configuration.
-*   [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - All AppVM X applications connect to local (running in AppVM) Xorg servers that use the following “hardware” drivers.
-*   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - This page is part of device handling in qubes.
-*   [Install-nvidia-driver (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
-*   [Nvidia-troubleshooting (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
+*   [GUI-virtualization](https://www.qubes-os.org/doc/gui/) -
+*   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) -
+*   [Install-nvidia-driver (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) -
+*   [Nvidia-troubleshooting (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) -
 
 ### Clear Net & Darknet Networking / VPN
 
@@ -160,7 +165,7 @@ A curated list of awesome qubes os links
 ### Qubes OS Server / Web articles
 
 *   [Qubes-network-server (⭐78)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-*   [Qubes-remote-desktop (⭐6)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+*   [Qubes-remote-desktop (⭐6)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
 
 ### Qubes OS Legends / Web articles
 
@@ -191,9 +196,9 @@ A curated list of awesome qubes os links
 ### System Requirements
 
 *   [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
-*   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers
+*   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers.
 *   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
-*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware
+*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware.
 
 ### Downloading, Installing, Upgrading, and Building
 
@@ -204,18 +209,18 @@ A curated list of awesome qubes os links
 ### How-to guides
 
 *   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
-*   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files
+*   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files.
 *   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
-*   *   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
+    *   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
 *   [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/) - This page covers copying files and clipboard text between dom0 and domUs.
-*   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen
+*   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen.
 *   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/) - When you wish to install software in Qubes OS, you should generally install it in a template.
 *   [How to update](https://www.qubes-os.org/doc/how-to-update/) - This page is about updating your system while staying on the same supported version of Qubes OS.
 *   [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - Unlike other devices (USB, block, mic), PCI devices need to be attached on VM-bootup.
-*   [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/) - Attaching USB devices to VMs requires a USB qube.
-*   [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/) - This page is part of device handling in qubes.
+*   [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/) - Attaching USB devices to VMs requires a USB Qube.
+*   [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/) - This page is part of device handling in Qubes.
 *   [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/) - This is an overview of device handling in Qubes OS.
-*   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight qube that can be created quickly and will self-destruct when closed.
+*   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight Qube that can be created quickly and will self-destruct when closed.
 *   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
 
 ### System
@@ -229,9 +234,9 @@ A curated list of awesome qubes os links
 
 ### Templates
 
-*   [Creating a NetBSD VM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM
-*   [Customizing Fedora minimal templates (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations
-*   [Customizing Windows 7 templates (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services
+*   [Creating a NetBSD VM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM.
+*   [Customizing Fedora minimal templates (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations.
+*   [Customizing Windows 7 templates (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services.
 *   [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
 *   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
@@ -239,7 +244,7 @@ A curated list of awesome qubes os links
 *   [Pentesting: Kali (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
 *   [Pentesting: PTF (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 *   [Template: CentOS (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md) - You can install the CentOS template, provided by Qubes in ready to use binary package.
-*   [Template: Gentoo (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md) -  you can install the Gentoo template, provided by Qubes in ready to use binary package.
+*   [Template: Gentoo (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md) -  You can install the Gentoo template, provided by Qubes in ready to use binary package.
 *   [Template: Ubuntu (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md) - If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates.
 *   [Template: Whonix (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
 *   [Template: Windows (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
@@ -247,39 +252,37 @@ A curated list of awesome qubes os links
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 *   [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
 *   [Tips for Using Linux in an HVM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain
-*   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
+*   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
 ### VM-Hardening
 
 *   [Anonymizing your MAC Address (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
-*   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
-*   [Firewall](https://www.qubes-os.org/doc/firewall/) - Every qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
-*   [Reducing the fingerprint of the text-based web browser w3m (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) -  You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
+    *   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
+*   [Firewall](https://www.qubes-os.org/doc/firewall/) - Every Qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
+*   [Reducing the fingerprint of the text-based web browser w3m (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
 *   [Running Tails in Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
-*   [Signal (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md) - > It uses end-to-end encryption to secure all communications.
-*   [Split GPG](https://www.qubes-os.org/doc/split-gpg/) - Split GPG implements a concept similar to having a smart card with your private GPG keys, except that the role of the “smart card” is played by another Qubes app qube.
+*   [Signal (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md) - It uses end-to-end encryption to secure all communications.
+*   [Split GPG](https://www.qubes-os.org/doc/split-gpg/) - Split GPG implements a concept similar to having a smart card with your private GPG keys, except that the role of the “smart card” is played by another Qubes app Qube.
 *   [Split SSH (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
 *   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt) - Instead of directly attaching an encrypted LUKS1 partition from a source VM such as sys-usb to a destination VM and decrypting it there.
 *   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
 *   [Using Multi-Factor Authentication with Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
 *   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
 *   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
-    [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
 *   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
 *   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
 *   [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online.
 
 ### Desktop Customization
 
-*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesome with the patches for qubes.
-*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/) - To install the i3 window manager and the its Qubes specific configuration.
-*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/) - Nonetheless, it is still possible to install KDE by issuing this command in dom0.
+*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesomewm with the patches for Qubes.
+*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
+*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
 
 ### Clear Net & Darknet Networking / Darknet
 
-*   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on qubes-whonix.
 *   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 *   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 

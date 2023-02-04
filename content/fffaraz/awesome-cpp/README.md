@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 04, 2023](/content/2023/02/04/README.md)
+
+### Font
+
+*   [harfbuzz (⭐2.8k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine \[Old MIT]
+
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
 ### Database

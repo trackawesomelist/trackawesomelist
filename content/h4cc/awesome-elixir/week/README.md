@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ [Daily](/content/h4cc/awesome-elixir/README.md) / Weekly / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Actors
+
+*   [poolex](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Artificial Intelligence
@@ -24,7 +30,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Static Page Generation
 
-*   [NimblePublisher (⭐313)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
+*   [NimblePublisher (⭐318)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
 
 ### Third Party APIs
 
@@ -277,7 +283,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Editors
 
-*   [mix.nvim (⭐18)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
+*   [mix.nvim (⭐21)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 

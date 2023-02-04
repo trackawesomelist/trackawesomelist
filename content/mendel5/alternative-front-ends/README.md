@@ -6,11 +6,17 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 [ Daily / [Weekly](/content/mendel5/alternative-front-ends/week/README.md) / [Overview](/content/mendel5/alternative-front-ends/readme/README.md) ]
 
+## [Feb 04, 2023](/content/2023/02/04/README.md)
+
+### Overview / Porn
+
+*   [PornInvidious (⭐1)](https://github.com/Simple-Web-Project/PornInvidious): Simple JavaScript-Free Frontend for xvideos.com
+
 ## [Jan 27, 2023](/content/2023/01/27/README.md)
 
 ### Overview / Spotify
 
-*   [spotifyd (⭐8.5k)](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
+*   [spotifyd (⭐8.6k)](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
 
 ### Overview / Medium
 
@@ -25,9 +31,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Overview / Quora
 
-*   [Quetre (⭐191)](https://github.com/zyachel/quetre): A libre front-end for Quora
+*   [Quetre (⭐207)](https://github.com/zyachel/quetre): A libre front-end for Quora
     *   Official website: <https://quetre.iket.me/>
-    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐191)](https://github.com/zyachel/quetre#instances)
+    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐207)](https://github.com/zyachel/quetre#instances)
 
 ## [Apr 19, 2022](/content/2022/04/19/README.md)
 
@@ -79,8 +85,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Overview / YouTube
 
 *   [OpenVideoDownloader aka jely2002/youtube-dl-gui (⭐5.4k)](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
-*   [LibreTube (⭐4.1k)](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
-*   [BlackHole (⭐4.3k)](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
+*   [LibreTube (⭐4.3k)](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
+*   [BlackHole (⭐4.4k)](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
 
 ### Overview / Imgur
 
@@ -96,7 +102,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Overview / Spotify
 
-*   [spotube (⭐2.3k)](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
+*   [spotube (⭐2.4k)](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
 *   [SpotX (⭐4.6k)](https://github.com/amd64fox/SpotX): Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
 *   [kotify (⭐22)](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
 
@@ -113,7 +119,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Overview / Google Search
 
-*   [SearXNG (⭐3.9k)](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
+*   [SearXNG (⭐4k)](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
 *   [LibreX (⭐383)](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
     *   Small and simple meta search engine, fetches and anonymizes results from Google only, has API support, allows redirects to Invidious/ Bibliogram/ Nitter/ Libreddit
 
@@ -124,7 +130,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Overview / Shazam
 
-*   [SongRec (⭐844)](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
+*   [SongRec (⭐855)](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
 
 ### Overview / Other services
 
@@ -177,12 +183,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Overview / YouTube Music
 
 *   [ytmdesktop (⭐2.7k)](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
-*   [Beatbump (⭐562)](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
+*   [Beatbump (⭐598)](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
 *   [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
 ### Redirection / Other services
 
-*   [libredirect (⭐1.9k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+*   [libredirect (⭐2k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
 
 ## [Feb 23, 2022](/content/2022/02/23/README.md)
 
@@ -208,9 +214,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Overview / YouTube
 
-*   [Piped (⭐3.7k)](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
+*   [Piped (⭐3.9k)](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
     *   Official instance: <https://piped.video>
-    *   List of public instances: [https://github.com/TeamPiped/Piped/wiki/Instances (⭐3.7k)](https://github.com/TeamPiped/Piped/wiki/Instances)
+    *   List of public instances: [https://github.com/TeamPiped/Piped/wiki/Instances (⭐3.9k)](https://github.com/TeamPiped/Piped/wiki/Instances)
     *   Installation guide for self-hosting: [https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md (⭐14)](https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md)
 
 ### Overview / Reddit
@@ -259,8 +265,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Overview / TikTok
 
-*   [ProxiTok (⭐954)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
-    *   Official instance: <https://proxitok.herokuapp.com>
+*   [ProxiTok (⭐985)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
+    *   Official instance: <https://proxitok.pabloferreiro.es/>
 
 ## [Jan 14, 2022](/content/2022/01/14/README.md)
 
@@ -296,7 +302,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 *   [FreeTube (⭐6.7k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 *   [Invuedious (⭐30)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
     *   Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
-*   [TubeSync (⭐938)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
+*   [TubeSync (⭐959)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 *   [TubeArchivist (⭐2.2k)](https://github.com/bbilly1/tubearchivist): A self hosted YouTube media server
 *   [ytfzf (⭐3k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
@@ -312,9 +318,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Overview / Google Translate
 
-*   [Lingva Translate (⭐937)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+*   [Lingva Translate (⭐964)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
     *   Official instance: [lingva.ml](https://lingva.ml)
-    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐937)](https://github.com/TheDavidDelta/lingva-translate#instances)
+    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐964)](https://github.com/TheDavidDelta/lingva-translate#instances)
 *   [SimplyTranslate](https://sr.ht/\~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
     *   Official instance: [simplytranslate.org](https://simplytranslate.org)
     *   Home page and public instances: <https://simple-web.org/projects/simplytranslate.html>
@@ -345,7 +351,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Redirection / Other services
 
-*   [Farside (⭐347)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
+*   [Farside (⭐355)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 *   [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
 
 ### Related projects / Other services
@@ -369,12 +375,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
     *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐181)](https://github.com/teddit-net/teddit#instances)
     *   [Github mirror repository (⭐181)](https://github.com/teddit-net/teddit)
     *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
-*   [Libreddit (⭐4k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-    *   Official instance: [libredd.it](https://libredd.it)
-    *   Public instances: [https://github.com/spikecodes/libreddit#instances (⭐4k)](https://github.com/spikecodes/libreddit#instances)
+*   [Libreddit (⭐4.1k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
+    *   Official instance: [libreddit.spike.codes](https://libreddit.spike.codes)
+    *   Public instances: [https://github.com/spikecodes/libreddit#instances (⭐4.1k)](https://github.com/spikecodes/libreddit#instances)
 *   [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
-*   [Infinity (⭐2.6k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
+*   [Infinity (⭐2.7k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
     *   Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
 *   [Slide (⭐1.7k)](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
     *   Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
@@ -426,8 +432,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Overview / YouTube
 
-*   [youtube-local (⭐308)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
-*   [yt-local](https://git.sr.ht/\~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐308)](https://github.com/user234683/youtube-local))
+*   [youtube-local (⭐312)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
+*   [yt-local](https://git.sr.ht/\~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐312)](https://github.com/user234683/youtube-local))
 *   [SkyTube (⭐1.8k)](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
 
 ## [Jun 29, 2021](/content/2021/06/29/README.md)
@@ -440,7 +446,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Related projects / Other services
 
-*   [Pluja's Awesome Privacy (⭐7.8k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
+*   [Pluja's Awesome Privacy (⭐8k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
 ## [May 27, 2021](/content/2021/05/27/README.md)
 

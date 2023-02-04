@@ -2,9 +2,19 @@
 
 Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pluja/awesome-privacy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) · ⭐ 7.8K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pluja/awesome-privacy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) · ⭐ 8K · 🏷️ Security
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
+
+## [Feb 04, 2023](/content/2023/02/04/README.md)
+
+### PC / MacOS
+
+*   MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10, you can use [this tool (⭐2.9k)](https://github.com/builtbybel/privatezilla), or [this other tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
+
+### Desktop / Alternative clients/modifications of Discord:
+
+*   [Ungoogled Chromium (⭐16k)](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. Ungoogled-chromium is Google Chromium, sans dependency on Google web services.
 
 ## [Jan 22, 2023](/content/2023/01/22/README.md)
 
@@ -22,7 +32,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Link in Bio Tools
 
 *   [Keyoxide](https://keyoxide.org/) - A modern, secure and privacy-friendly platform to establish your decentralized online identity.
-*   [LinkFree (⭐2.5k)](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
+*   [LinkFree (⭐2.7k)](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 
 ## [Jan 15, 2023](/content/2023/01/15/README.md)
 
@@ -41,7 +51,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Notes and Tasks
 
-*   [Trilium Notes (⭐19k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+*   [Trilium Notes (⭐20k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ### Desktop
 
@@ -69,7 +79,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Self-hosted
 
-*   [Memos (⭐5.4k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐5.6k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ## [Dec 16, 2022](/content/2022/12/16/README.md)
 
@@ -79,7 +89,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Decentralized
 
-*   [Nostr (⭐4k)](https://github.com/nostr-protocol/nostr) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
+*   [Nostr (⭐5.4k)](https://github.com/nostr-protocol/nostr) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
 
 ## [Nov 24, 2022](/content/2022/11/24/README.md)
 
@@ -105,7 +115,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### YouTube
 
-*   [Youtube-Local (⭐308)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
+*   [Youtube-Local (⭐312)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ## [Nov 02, 2022](/content/2022/11/02/README.md)
 
@@ -122,7 +132,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Notes and Tasks
 
-*   [SiYuan (⭐8.6k)](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
+*   [SiYuan (⭐8.7k)](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
 
 ## [Oct 22, 2022](/content/2022/10/22/README.md)
 
@@ -135,7 +145,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Book and web annotations/highlights management
 
 *   [Hypothesis (⭐2.6k)](https://github.com/hypothesis/h/) - Annotate the web, with anyone, anywhere.
-*   [Kobuddy (⭐95)](https://github.com/karlicoss/kobuddy) - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
+*   [Kobuddy (⭐97)](https://github.com/karlicoss/kobuddy) - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
 
 ## [Oct 13, 2022](/content/2022/10/13/README.md)
 
@@ -153,7 +163,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Teamworking Tools
 
-*   [See this section for Discord mods and alternative clients (⭐7.8k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
+*   [See this section for Discord mods and alternative clients (⭐8k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
 
 ### Translation and Speech-to-Text
 
@@ -163,7 +173,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [Vencord (⭐468)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
+*   [Vencord (⭐505)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
 *   [Replugged](https://replugged.dev/) - A continuation of the deprecated client mod [Powercord](https://powercord.dev).
 
 ## [Oct 05, 2022](/content/2022/10/05/README.md)
@@ -197,33 +207,32 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Reddit
 
-*   [Kbin (⭐75)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Kbin (⭐79)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 *   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 
 ## [Oct 03, 2022](/content/2022/10/03/README.md)
 
 ### File Management and Sharing
 
-*   [Snapdrop (⭐14k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+*   [Snapdrop (⭐15k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
     *   [PairDrop (⭐10)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network
 
 ## [Oct 02, 2022](/content/2022/10/02/README.md)
 
 ### File Management and Sharing
 
-*   [Paperless-ngx (⭐5.4k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
-    *   [Paperless-ng (⭐5.3k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
+*   [Paperless-ngx (⭐5.7k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+    *   [Paperless-ng (⭐5.4k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
         *   [Paperless (⭐7.8k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
 
 ### Quora
 
-*   [Quetre (⭐191)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
+*   [Quetre (⭐207)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
 ## [Sep 29, 2022](/content/2022/09/29/README.md)
 
 ### PC / MacOS
 
-*   MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10, you can use [this tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
 *   MacOS.
 
 ### [GNU/Linux](https://www.linux.com/what-is-linux/)
@@ -269,7 +278,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Translation and Speech-to-Text
 
-*   [OpenAI Whisper (⭐21k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
+*   [OpenAI Whisper (⭐23k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
 
 ## [Sep 21, 2022](/content/2022/09/21/README.md)
 
@@ -288,7 +297,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Pastebin and Secret Sharing
 
 *   [Yopass (⭐1.1k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
-*   [PrivateBin (⭐4.6k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+*   [PrivateBin (⭐4.7k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ### Sonic the Hedgehog
 
@@ -306,15 +315,15 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
 *   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
-*   [Shiori (⭐6.9k)](https://github.com/go-shiori/shiori)
+*   [Shiori (⭐7k)](https://github.com/go-shiori/shiori)
 *   [LinkAce (⭐1.8k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐2.8k)](https://github.com/sissbruecker/linkding)
+*   [LinkDing (⭐2.9k)](https://github.com/sissbruecker/linkding)
 
 ## [Sep 17, 2022](/content/2022/09/17/README.md)
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
-*   ~~[Privacy Redirect (⭐1.6k)](https://github.com/SimonBrazell/privacy-redirect)~~ [LibRedirect (⭐1.9k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+*   ~~[Privacy Redirect (⭐1.6k)](https://github.com/SimonBrazell/privacy-redirect)~~ [LibRedirect (⭐2k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
 
 ## [Sep 12, 2022](/content/2022/09/12/README.md)
 
@@ -336,8 +345,8 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   Shazam - It's under [Apple's privacy policy](https://tosdr.org/en/service/158). The android app [has a few Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.shazam.android/latest/).
 *   SoundHound - Has way too many [trackers](https://reports.exodus-privacy.eu.org/en/reports/com.melodis.midomiMusicIdentifier.freemium/latest/) for a music recognition app.
 *   Musicxmatch - The app [has trackers](https://reports.exodus-privacy.eu.org/en/reports/com.musixmatch.android.lyrify/latest/) and requires a dangerous amount of permissions.
-*   [SongRec (⭐844)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
-*   [SongID Telegram Bot (⭐45)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
+*   [SongRec (⭐855)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+*   [SongID Telegram Bot (⭐47)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
 
 ### Video and Audio Conferencing
 
@@ -358,13 +367,13 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [AppFlowy](https://www.appflowy.io/) - Open Source Notion Alternative. You are in charge of your data and customizations.
 *   [Joplin (⭐34k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
-*   [Nextcloud Notes (⭐492)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
-    *   [Nextcloud Notes app (⭐771)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
+*   [Nextcloud Notes (⭐494)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
+    *   [Nextcloud Notes app (⭐778)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
 *   [Notally (⭐1k)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
 *   [Quillnote](https://qosp.org/#/) - Take beautiful markdown notes and stay organized with task lists.
 *   [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
 *   [TinyList](https://tinylist.app/) - Create and share notes and checklists, without sacrificing your privacy.
-*   [YankNote (⭐4.4k)](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers.
+*   [YankNote (⭐4.5k)](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers.
 
 ## [Aug 30, 2022](/content/2022/08/30/README.md)
 
@@ -391,13 +400,13 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### VPNs / Alternative clients/modifications of Discord:
 
-*   [Free VPNs](https://techcrunch.com/2020/09/24/free-vpn-bad-for-privacy/) from Google Play or any appstore. These services are not free as they will suck your connections data, keep logs and profile you to [sell your data to advertisers](https://thenextweb.com/news/be-cautious-free-vpns-are-selling-your-data-to-3rd-parties). If a government wants to track someone, such apps will be the first ones to fall.
+*   [Free VPNs](https://techcrunch.com/2020/09/24/free-vpn-bad-for-privacy/) from Google Play or any appstore. These services are not free as they will suck your connections' data, keep logs and profile you to [sell your data to advertisers](https://thenextweb.com/news/be-cautious-free-vpns-are-selling-your-data-to-3rd-parties). If a government wants to track someone, such apps will be the first ones to fall.
 
 ## [Aug 14, 2022](/content/2022/08/14/README.md)
 
 ### Audio
 
-*   [ViMusic (⭐2.6k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐3k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 ## [Jul 28, 2022](/content/2022/07/28/README.md)
 
@@ -412,11 +421,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐842)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
+*   [No-Chat-Reports (⭐845)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
 
 ### Audio
 
-*   [Jetispot (⭐198)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐204)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [Jul 13, 2022](/content/2022/07/13/README.md)
 
@@ -433,7 +442,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Search Engines
 
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
-    *   [SearxNG (⭐3.9k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
+    *   [SearxNG (⭐4k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 
 ## [Jun 27, 2022](/content/2022/06/27/README.md)
 
@@ -444,7 +453,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Plugins for Minecraft
 
-*   [No-Telemetry (⭐162)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
+*   [No-Telemetry (⭐163)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
 ## [Jun 01, 2022](/content/2022/06/01/README.md)
 
@@ -461,15 +470,15 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Search Engines
 
-*   [librengine (⭐36)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐39)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [May 23, 2022](/content/2022/05/23/README.md)
 
 ### Self-hosted
 
 *   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
-*   [Immich (WIP) (⭐6.7k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐5k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [Immich (WIP) (⭐7k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐5.1k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
 
 ## [May 19, 2022](/content/2022/05/19/README.md)
 
@@ -495,7 +504,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android
 
-*   [RethinkDNS + Firewall (⭐1.1k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+*   [RethinkDNS + Firewall (⭐1.2k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
 
 ## [May 07, 2022](/content/2022/05/07/README.md)
 
@@ -531,7 +540,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
-*   [Kernel (⭐71)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐3)](https://github.com/slow/discord-utilities) package to block trackers.
+*   [Kernel (⭐72)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐3)](https://github.com/slow/discord-utilities) package to block trackers.
 
 ## [Apr 11, 2022](/content/2022/04/11/README.md)
 
@@ -541,7 +550,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [WebCord (⭐852)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
+*   [WebCord (⭐943)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐2.1k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐2.1k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
 ## [Apr 08, 2022](/content/2022/04/08/README.md)
@@ -560,22 +569,22 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   [Spotube (⭐2.3k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
+*   [Spotube (⭐2.4k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
 *   [Spot\* (⭐1.7k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
 *   [psst\* (⭐7.3k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
-*   [ncspot\* (⭐3.4k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
+*   [ncspot\* (⭐3.5k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
 
 ## [Mar 29, 2022](/content/2022/03/29/README.md)
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐74)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐77)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
 
 ## [Mar 27, 2022](/content/2022/03/27/README.md)
 
 ### Databases
 
-*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐44k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐44k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐45k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐45k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
 
 ### Home Assistants
 
@@ -644,9 +653,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### YouTube
 
-*   [Piped (⭐3.7k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.2k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.2k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   [Piped (⭐3.9k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 
 ## [Mar 09, 2022](/content/2022/03/09/README.md)
 
@@ -670,7 +679,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### TikTok
 
-*   [ProxiTok (⭐954)](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok
+*   [ProxiTok (⭐985)](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok
 
 ## [Mar 03, 2022](/content/2022/03/03/README.md)
 
@@ -689,7 +698,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android
 
-*   [εxodus](https://reports.exodus-privacy.eu.org/en/) - The privacy audit platform for Android applications. Find how many trackers have your apps.
+*   [εxodus](https://reports.exodus-privacy.eu.org/en/) - The privacy audit platform for Android applications. Find how many trackers your apps have.
     *   [ClassyShark3xodus](https://f-droid.org/en/packages/com.oF2pks.classyshark3xodus/) - Checks apk(s) for known trackers (provided by Exodus) +other warnings and specs.
 *   [Plexus](https://plexus.techlore.tech/) - Remove the fear of Android app compatibility on de-Googled devices. Find if an app will work on a De-Googled device.
 *   [Netguard](https://netguard.me/) - A simple way to block access to the internet per application.
@@ -698,7 +707,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   [Beatbump (⭐562)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
+*   [Beatbump (⭐598)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
 
 ## [Feb 23, 2022](/content/2022/02/23/README.md)
 
@@ -708,7 +717,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Alternative Frontends
 
-*   [Nitter (⭐6.6k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐6.7k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.1k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
 
 ## [Feb 02, 2022](/content/2022/02/02/README.md)
@@ -724,7 +733,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Local
 
-*   [Photok (⭐275)](https://github.com/leonlatsch/Photok) - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
+*   [Photok (⭐277)](https://github.com/leonlatsch/Photok) - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
 *   [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
 ### Desktop / Alternative clients/modifications of Discord:
@@ -750,7 +759,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Email Alias Services (Anonymous Forwarding)
 
-*   [SimpleLogin (⭐3.3k)](https://github.com/simple-login/app)
+*   [SimpleLogin (⭐3.4k)](https://github.com/simple-login/app)
 *   [AnonAddy (⭐2.1k)](https://github.com/anonaddy/anonaddy)
 
 ### Alternative Frontends
@@ -769,8 +778,8 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   Authy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐454)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Authenticator Pro (⭐1k)](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐460)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Authenticator Pro (⭐1.1k)](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
 
 ### Analytics
 
@@ -785,9 +794,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Android App Store
 
 *   [F-Droid](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-    *   [Droid-ify (⭐790)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
+    *   [Droid-ify (⭐852)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
     *   [Aurora Droid](https://auroraoss.com/download/#aurora-droid) - Aurora Droid is a modern FOSS client for F-Droid.
-    *   [Foxy Droid (⭐365)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
+    *   [Foxy Droid (⭐372)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
 *   [FossDroid](https://fossdroid.com/) - Fossdroid's aim is to promote free and open source apps on the Android platform: newest, trendiest and the most popular ones.
 *   [SkyDroid](https://skydroid.app/) - Decentralized App Store for Android
 
@@ -797,33 +806,33 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android Dialer
 
-*   [Simple Dialer (⭐449)](https://github.com/SimpleMobileTools/Simple-Dialer) - A lightweight app for handling your calls, no matter where are you. Comes with a handy call log for easy call initiation.
-*   [Koler (⭐648)](https://github.com/Chooloo/koler) - Uniquely stylized phone app with customizable features.
+*   [Simple Dialer (⭐458)](https://github.com/SimpleMobileTools/Simple-Dialer) - A lightweight app for handling your calls, no matter where are you. Comes with a handy call log for easy call initiation.
+*   [Koler (⭐654)](https://github.com/Chooloo/koler) - Uniquely stylized phone app with customizable features.
 
 ### Android File Manager
 
 *   [Simple File Manager (⭐1.2k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [Amaze File Manager (⭐4.3k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
-*   [Material Files (⭐3k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
+*   [Material Files (⭐3.1k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
 
 ### Android Keyboard
 
 *   [OpenBoard (⭐1.9k)](https://github.com/dslul/openboard) - 100% FOSS keyboard, based on AOSP.
-*   [FlorisBoard (⭐3.7k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+*   [FlorisBoard (⭐3.8k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
-*   [Simple Keyboard (⭐683)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
+*   [Simple Keyboard (⭐690)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
 
 ### Android Launcher
 
 *   [Lawnchair](https://lawnchair.app/) - No clever tagline needed.
 *   [OpenLauncher (⭐1.3k)](https://github.com/OpenLauncherTeam/openlauncher) - Customizable and Open Source Launcher for Android.
 *   [KISS](https://kisslauncher.com/) - Lightning fast, open-source, < 200kb Android launcher.
-*   [Olauncher (⭐882)](https://github.com/tanujnotes/Olauncher) - Minimal AF (ad-free) launcher app for Android.
+*   [Olauncher (⭐945)](https://github.com/tanujnotes/Olauncher) - Minimal AF (ad-free) launcher app for Android.
 *   [Posidon Launcher](https://posidon.io/launcher) - Posidon launcher is a minimal, one page homescreen with a vertical scrolling feed.
-*   [Pie Launcher (⭐73)](https://github.com/markusfisch/PieLauncher) - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
-*   [Simple App Launcher (⭐344)](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management.
+*   [Pie Launcher (⭐75)](https://github.com/markusfisch/PieLauncher) - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
+*   [Simple App Launcher (⭐346)](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management.
 *   [Rootless Pixel Launcher (⭐3.7k)](https://github.com/amirzaidi/Launcher3) - The Launcher3 fork known as "Rootless Pixel Launcher".
 
 ### Captchas
@@ -834,7 +843,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Fawkes (⭐4.8k)](https://github.com/Shawn-Shan/fawkes) - privacy preserving tool against facial recognition systems.
     *   [CloakMe (⭐46)](https://github.com/pluja/CloakMe) - Web interface for Fawkes algorithm.
-*   [ImageScrubber (⭐845)](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
+*   [ImageScrubber (⭐848)](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
 
 ### Cloud Storage
 
@@ -876,7 +885,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
     *   [OFF Apps](https://world.openfoodfacts.org/open-food-facts-mobile-app)
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Drip](https://bloodyhealth.gitlab.io/) - Menstrual cycle and fertility tracking. Everything you enter stays on your device.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [log28 (⭐30)](https://github.com/wildeyedskies/log28) - a (very) simple no-frills period tracker for Android.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [OpenTracks (⭐563)](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [OpenTracks (⭐573)](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 
 ### Foundries
 
@@ -911,7 +920,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Notes and Tasks
 
 *   Google Keep
-    *   [Google Keep Exporter (⭐200)](https://github.com/vHanda/google-keep-exporter) -  Convert your Google Keep notes into a standard markdown + YAML header format.
+    *   [Google Keep Exporter (⭐204)](https://github.com/vHanda/google-keep-exporter) -  Convert your Google Keep notes into a standard markdown + YAML header format.
 *   Evernote
 *   Squid
 *   Notion
@@ -930,7 +939,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Android
 
 *   [DivestOS](https://divestos.org) - LineageOS fork with increased security and privacy.
-*   [Pocket Paint (⭐235)](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
+*   [Pocket Paint (⭐240)](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
 *   [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Remove Exif data from pictures before sharing them.
 *   [ImagePipe](https://codeberg.org/Starfish/Imagepipe) - Reduces image size and removes exif-tags when sharing images on android devices.
 
@@ -957,8 +966,8 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Desktop
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
-*   [Krita (⭐4.5k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
-*   [Czkawka (⭐9.2k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
+*   [Krita (⭐4.6k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Czkawka (⭐9.4k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
 
 ### Local
@@ -993,7 +1002,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Search Engines
 
 *   Bing
-*   [Whoogle Search (⭐6.9k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+*   [Whoogle Search (⭐7k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
 
 ### YouTube
@@ -1001,9 +1010,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Peertube](https://joinpeertube.org/en/) 🧩 - A free, open and decentralized alternative to video platforms.
     *   [SimpleerTube](https://simpleertube.metalune.xyz/) - A simple frontend for PeerTube with SepiaSearch [Source](https://git.sr.ht/\~metalune/simpleweb_peertube).
 *   [Odysee](https://odysee.com/) - Odysee is a video platform backed by the creators of lbry and uses the lbry blockchain protocol.
-*   [DTube (⭐767)](https://github.com/dtube/dtube) - A full-featured video sharing website, decentralized.
-*   [Invidious (⭐9.2k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
-*   [ViewTube (⭐639)](https://github.com/viewtube/viewtube-vue) - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js
+*   [DTube (⭐771)](https://github.com/dtube/dtube) - A full-featured video sharing website, decentralized.
+*   [Invidious (⭐9.3k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
+*   [ViewTube (⭐647)](https://github.com/viewtube/viewtube-vue) - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [NewPipe](https://newpipe.net/) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
     *   [NewPipe x Sponsorblock (⭐2.7k)](https://github.com/polymorphicshade/NewPipe) - NewPipe fork that incorporates Sponsorblock.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [SkyTube (⭐1.8k)](https://github.com/SkyTubeTeam/SkyTube) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
@@ -1014,7 +1023,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
 *   [SaidIt](https://saidit.net/) - Open source Reddit clone.
 *   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐2.6k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐2.7k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/apple.png"> <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Slide (⭐1.7k)](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android and iOS.
 
 ### Streaming Platforms (Twitch)
@@ -1038,7 +1047,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Apertium](https://apertium.org/) - A free/open-source machine translation platform, runs offline on your computer
 *   [Softcatala](https://www.softcatala.org/traductor/) - Open Source Translation tool - Only Catalan/Spanish/English/French (uses apertium)
 *   [TranslateLocally](https://translatelocally.com/) – Free/open-source neural MT, runs offline on your computer
-*   [Lingva (⭐937)](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate. [Demo](https://lingva.ml/).
+*   [Lingva (⭐964)](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate. [Demo](https://lingva.ml/).
 
 ### Uncategorized
 
@@ -1052,7 +1061,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   Clubhouse
 *   [BigBlueButton](https://bigbluebutton.org/) - BigBlueButton is a web conferencing system designed for online learning.
-*   [Jam (⭐1.1k)](https://github.com/jam-systems/jam) - Jam is your own open source Clubhouse for mini conferences, friends, communities.
+*   [Jam (⭐1.2k)](https://github.com/jam-systems/jam) - Jam is your own open source Clubhouse for mini conferences, friends, communities.
 *   [Mumble](https://www.mumble.com/) - Mumble is an open source voice communication application with advanced features.
 
 ### Android / iOS / Alternative clients/modifications of Discord:
@@ -1083,18 +1092,18 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐4.3k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐4.4k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [Oct 29, 2021](/content/2021/10/29/README.md)
 
 ### Centralized
 
 *   [Signal](https://signal.org/) - Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Molly (⭐756)](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Molly (⭐778)](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
 
 ### Android / iOS
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐1.5k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐1.6k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [K9](https://k9mail.app/) - Open Source Email App for Android.
 
 ## [Oct 27, 2021](/content/2021/10/27/README.md)
@@ -1106,13 +1115,13 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Video and Audio
 
-*   [Dim (⭐3.1k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+*   [Dim (⭐3.2k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 
 ## [Oct 21, 2021](/content/2021/10/21/README.md)
 
 ### File Management and Sharing
 
-*   [Sharik (⭐862)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
+*   [Sharik (⭐871)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 
 ## [Sep 28, 2021](/content/2021/09/28/README.md)
 
@@ -1148,7 +1157,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   [dzr (⭐114)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐120)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 ## [May 27, 2021](/content/2021/05/27/README.md)
 
@@ -1180,7 +1189,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### FIAT
 
-*   [My Expenses (⭐506)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐507)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [May 23, 2021](/content/2021/05/23/README.md)
 
@@ -1190,7 +1199,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Uncategorized
 
-*   [CrowdSec (⭐6k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+*   [CrowdSec (⭐6.1k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
 
 ## [May 21, 2021](/content/2021/05/21/README.md)
 
@@ -1213,7 +1222,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle — File sharing software.
 *   [Croc (⭐22k)](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 *   [Dat-cp (⭐304)](https://github.com/tom-james-watson/dat-cp) - Copy files between hosts on a network using the peer-to-peer Dat network.
-*   [QRcp (⭐9k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+*   [QRcp (⭐9.1k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
 ### Decentralized
 
@@ -1234,7 +1243,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Tox](https://tox.chat/) - Tox is easy-to-use software that connects you with friends and family without anyone else listening in.
 *   [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
-*   [Tinfoil Chat (⭐970)](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
+*   [Tinfoil Chat (⭐980)](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
 
 ### Mail Services
 
@@ -1252,7 +1261,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Jellyfin](https://jellyfin.org/) - Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
 *   [Kodi](https://kodi.tv/) - It is an entertainment hub that brings all your digital media together into a beautiful and user friendly package. It is 100% free and open source, very customisable and runs on a wide variety of devices.
 *   [OSMC](https://osmc.tv/) - OSMC is a free and open source media center built for the people, by the people.
-*   [RaspberryCast (⭐844)](https://github.com/vincelwt/RaspberryCast) - Transform your Raspberry Pi into a streaming device. Cast videos from mobile devices or computers to your TV.
+*   [RaspberryCast (⭐845)](https://github.com/vincelwt/RaspberryCast) - Transform your Raspberry Pi into a streaming device. Cast videos from mobile devices or computers to your TV.
 
 ### Audio
 
