@@ -329,6 +329,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐12k)](https://github.com/davisking/dlib)
+*   [imodels (⭐1k)](https://github.com/csinva/imodels)
 *   [RuleFit (⭐334)](https://github.com/christophM/rulefit)
 *   [pyGAM (⭐750)](https://github.com/dswah/pyGAM)
 *   [Deepchecks (⭐2.3k)](https://github.com/deepchecks/deepchecks)
@@ -496,7 +497,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [UBIAI](https://ubiai.tools)                                                                            | Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling                                                                                                                  |
 | [Trains (⭐4k)](https://github.com/allegroai/clearml)                                                    | Auto-Magical Experiment Manager, Version Control & DevOps for AI                                                                                                                                                                                                                                                 |
 | [Hopsworks (⭐857)](https://github.com/logicalclocks/hopsworks)                                          | Open-source data-intensive machine learning platform with a feature store. Ingest and manage features for both online (MySQL Cluster)  and offline (Apache Hive) access, train and serve models at scale.                                                                                                        |
-| [MindsDB (⭐12k)](https://github.com/mindsdb/mindsdb)                                                    | MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.                                                                                                                                                |
+| [MindsDB (⭐13k)](https://github.com/mindsdb/mindsdb)                                                    | MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.                                                                                                                                                |
 | [Lightwood (⭐314)](https://github.com/mindsdb/lightwood)                                                | A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with an objective to build predictive models with one line of code.                                                                                                               |
 | [AWS Data Wrangler (⭐3.3k)](https://github.com/awslabs/aws-data-wrangler)                               | An open-source Python package that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc).                                                                                                                   |
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)                                               | AWS Rekognition is a service that lets developers working with Amazon Web Services add image analysis to their applications. Catalog assets, automate workflows, and extract meaning from your media and applications.                                                                                           |
@@ -1071,7 +1072,7 @@ Some data mining competition platforms
 *   [Awesome Monte Carlo Tree Search (⭐510)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.5k)](https://github.com/mhagiwara/100-nlp-papers)
-*   [Awesome Game Datasets (⭐460)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐468)](https://github.com/leomaurodesenv/game-datasets#readme)
 *   [Data Science Interviews Questions (⭐7.1k)](https://github.com/alexeygrigorev/data-science-interviews)
 *   [Awesome Explainable Graph Reasoning (⭐1.9k)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 *   [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)

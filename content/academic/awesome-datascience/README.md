@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Feb 04, 2023](/content/2023/02/04/README.md)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [imodels (⭐1k)](https://github.com/csinva/imodels)
+
 ## [Jan 26, 2023](/content/2023/01/26/README.md)
 
 ### Free Courses
@@ -884,7 +890,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Awesome Game Datasets (⭐460)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐468)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [Oct 25, 2020](/content/2020/10/25/README.md)
 
