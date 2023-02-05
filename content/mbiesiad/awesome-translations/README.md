@@ -6,6 +6,14 @@
 
 [ Daily / [Weekly](/content/mbiesiad/awesome-translations/week/README.md) / [Overview](/content/mbiesiad/awesome-translations/readme/README.md) ]
 
+## [Feb 05, 2023](/content/2023/02/05/README.md)
+
+### Other
+
+*   [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
+*   [AutoML Translation Documentation](https://cloud.google.com/translate/automl/docs) - A documentation of AutoML Translation from Google.
+*   [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
+
 ## [Feb 04, 2023](/content/2023/02/04/README.md)
 
 ### Tools

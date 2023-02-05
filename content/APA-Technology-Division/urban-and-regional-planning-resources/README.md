@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Feb 05, 2023](/content/2023/02/05/README.md)
+
+### Public Data Resources / Housing
+
+*   [FHFA Public Data](https://www.fhfa.gov/DataTools/Downloads) - The Federal Housing Finance Agency provides a series of public datasets regarding housing and mortgages in the United States. It including all states, about activity in the U.S. mortgage market through its House Price Index, Refinance Report, Foreclosure Prevention Report, Mortgage acquisition datasets, and Performance Reports.
+
 ## [Jan 28, 2023](/content/2023/01/28/README.md)
 
 ### Planning Coding Resources / Other
@@ -133,7 +139,7 @@ Community list of data & technology resources concerning the built environment a
 
 ## [Sep 13, 2022](/content/2022/09/13/README.md)
 
-### Public Data Resources / Equity and Environmental Justice
+### Public Data Resources / Housing
 
 *   [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM) - The latest (2022) Urban Land Institute Terwilliger Center Home Attainability Index.  A resource for understanding the extent to which a housing market provides a range of choices attainable to regional workforces providing insights into a wide range of factors for selected communities across the United States.
 
@@ -877,11 +883,11 @@ Community list of data & technology resources concerning the built environment a
 
 ### Other Resources / Other GitHub Resource Lists
 
-*   [awesome-transit (⭐943)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
+*   [awesome-transit (⭐949)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
 *   [micromobility-tools-and-resources (⭐29)](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
 *   [awesome-sustainable-technology (⭐1.3k)](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
-*   [awesome-gis (⭐3.2k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
-*   [awesome-agriculture (⭐922)](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
+*   [awesome-gis (⭐3.3k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+*   [awesome-agriculture (⭐929)](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
 *   [awesome-geojson (⭐1.9k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 
 ### Other Resources / Other Technology Resource Aggregators

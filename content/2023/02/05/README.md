@@ -1,31 +1,45 @@
 # Awesome List Updates on Feb 05, 2023
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+
+### Other
+
+*   [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
+*   [AutoML Translation Documentation](https://cloud.google.com/translate/automl/docs) - A documentation of AutoML Translation from Google.
+*   [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
+
+## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+### Public Data Resources / Housing
+
+*   [FHFA Public Data](https://www.fhfa.gov/DataTools/Downloads) - The Federal Housing Finance Agency provides a series of public datasets regarding housing and mortgages in the United States. It including all states, about activity in the U.S. mortgage market through its House Price Index, Refinance Report, Foreclosure Prevention Report, Mortgage acquisition datasets, and Performance Reports.
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   iPod
     *   [clicky (⭐102)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Kotlin Native / Projects
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Other services
 
 *   [Pastewin (⭐6)](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
@@ -35,7 +49,7 @@
 
 *   [Chowdown.io](https://chowdown.io/) - Simple recipes in Markdown format. ([Source Code (⭐531)](https://github.com/clarklab/chowdown)) `Unlicense` `Ruby`
 
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals and Ephemera / Manuals
 
@@ -43,7 +57,7 @@
 *   [Gerber Signmaker IVB User's Manual (1983) (manualslib)](https://www.manualslib.com/manual/464167/Gerber-Signmaker-Ivb.html)
 *   [Roland DXY-1350A -1150A User's Manual (1997) (manualslib)](https://www.manualslib.com/manual/884553/Roland-Dxy_1350.html)
 
-## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Hosting:
 
@@ -190,7 +204,7 @@
 
 
 
-## [7. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Transition To Pure Rigour Math / Monograph
 
@@ -200,7 +214,7 @@
 
 *   [Ausiello. The Making of a New Science: A Personal Journey Through the Early Years of Theoretical Computer Science](https://link.springer.com/book/10.1007/978-3-319-62680-2) - A story about people, pioneers with diverse backgrounds and characters who established a new field.
 
-## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Debugging
 
