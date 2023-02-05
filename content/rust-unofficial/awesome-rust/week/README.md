@@ -16,6 +16,8 @@ A curated list of Rust code and resources.
 
 *   iOS
     *   [touchHLE (⭐173)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
+*   iPod
+    *   [clicky (⭐102)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 
 ### Applications / System tools
 

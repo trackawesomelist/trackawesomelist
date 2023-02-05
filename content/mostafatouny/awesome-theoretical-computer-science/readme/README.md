@@ -2,7 +2,7 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 324 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 340 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / Overview ]
 
@@ -405,6 +405,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 # Surveys & Monographs<a name=surveys__monographs></a>
 
+*   [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers
 *   [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
 *   [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/\~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
 *   [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - Collected works in celebration of Laszlo Lovasz, Connecting discrete math with computer science.
@@ -497,6 +498,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Popular Science Books<a name=other_resources_popular_science_books></a>
 
 *   [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
+*   [Ausiello. The Making of a New Science: A Personal Journey Through the Early Years of Theoretical Computer Science](https://link.springer.com/book/10.1007/978-3-319-62680-2) - A story about people, pioneers with diverse backgrounds and characters who established a new field.
 *   [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
 *   [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality presents a startlingly integrated, rational and optimistic world view – the result of taking seriously the deepest ideas of modern science and the philosophy of science.
 *   [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - The world of computation according to Turing, an interactive tutoring program, as told to star-crossed lovers: a novel.
@@ -517,8 +519,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Related Awesome Lists<a name=related_awesome_lists></a>
 
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Mathematics (⭐6.7k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   [Mathematics (⭐6.8k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
 *   [Cryptography (⭐4.3k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-*   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
-*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐131k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐132k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 

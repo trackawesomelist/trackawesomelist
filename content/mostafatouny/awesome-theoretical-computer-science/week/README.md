@@ -2,9 +2,19 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 324 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 340 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
+
+## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
+
+### Transition To Pure Rigour Math / Monograph
+
+*   [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers
+
+### Popular Science Books / Monograph
+
+*   [Ausiello. The Making of a New Science: A Personal Journey Through the Early Years of Theoretical Computer Science](https://link.springer.com/book/10.1007/978-3-319-62680-2) - A story about people, pioneers with diverse backgrounds and characters who established a new field.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -76,8 +86,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Network Groups / Monograph
 
-*   [Mathematics (⭐6.7k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐131k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   [Mathematics (⭐6.8k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐132k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -423,4 +433,4 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
 *   [Cryptography (⭐4.3k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-*   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+*   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing

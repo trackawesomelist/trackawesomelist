@@ -409,6 +409,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Other services
 
+*   [Pastewin (⭐6)](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
+
 *   [MediathekViewWeb (⭐764)](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
     *   Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
 

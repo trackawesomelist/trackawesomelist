@@ -173,6 +173,7 @@ The definition of developer-first for this repo is:
 
 *   [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 *   [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
+*   [Linear](https://linear.app/) - Issue tracking built for developers.
 
 ## Deployment Hosting
 

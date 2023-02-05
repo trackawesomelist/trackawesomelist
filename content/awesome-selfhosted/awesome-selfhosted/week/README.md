@@ -8,10 +8,18 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
+### Software / Communication - SIP
+
+*   [Flexisip](https://www.linphone.org/technical-corner/flexisip/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐108)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
+
 ### Software / Communication - Social Networks and Forums
 
 *   [Answer](https://answer.dev/) - An open-source knowledge-based community software. You can use it to quickly build your Q\&A community for product technical support, customer support, user communication, and more. ([Source Code (⭐6.1k)](https://github.com/answerdev/answer)) `Apache-2.0` `Docker/Go`
 *   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐760)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
+
+### Software / Recipe Management
+
+*   [Chowdown.io](https://chowdown.io/) - Simple recipes in Markdown format. ([Source Code (⭐531)](https://github.com/clarklab/chowdown)) `Unlicense` `Ruby`
 
 ### Software / Software Development - Project Management
 
@@ -125,7 +133,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Recipe Management
 
-*   [Bar Assistant (⭐42)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Bar Assistant (⭐96)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
 
 ### Software / Wikis
 
@@ -162,7 +170,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐656)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
+*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐1.7k)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
@@ -396,10 +404,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Mail Delivery Agents
 
 *   [Stalwart JMAP](https://stalw.art/jmap) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐412)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust`
-
-### Software / Communication - SIP
-
-*   [Flexisip](http://flexisip.org/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐108)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
 
 ### Software / Content Management Systems (CMS)
 
@@ -722,10 +726,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Search Engines
 
 *   [Manticore Search (⭐2.5k)](https://github.com/manticoresoftware/manticoresearch/) - Much faster alternative to Elasticsearch for full-text search and data analytics. Provides much lower response time for small, medium and big data. `GPL-2.0` `Docker/C++`
-
-### Software / Self-hosting Solutions
-
-*   [Discord Bot Dashboard (⭐247)](https://github.com/jareer12/Discord-Bot-Dashboard) `⚠` - A self-hosted platform to manage Discord bots and Node.js applications. `MIT` `Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -2417,10 +2417,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
-
-### Software / Archiving and Digital Preservation (DP)
-
-*   [Horahora (⭐806)](https://github.com/horahoradev/horahora) - Video hosting website and video archival manager for Niconico, Bilibili, and Youtube. `MIT` `Go`
 
 ### Software / Automation
 

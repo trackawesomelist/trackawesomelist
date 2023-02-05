@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 05, 2023](/content/2023/02/05/README.md)
+
+### Applications / Emulators
+
+*   iPod
+    *   [clicky (⭐102)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
 ### Applications / Emulators

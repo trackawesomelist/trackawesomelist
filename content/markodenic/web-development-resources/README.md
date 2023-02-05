@@ -2,9 +2,156 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.4K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.5K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [Feb 05, 2023](/content/2023/02/05/README.md)
+
+### Hosting:
+
+- Website: <https://docs.gitlab.com/ee/user/project/pages/>
+
+  Description: **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.
+
+
+
+### Learning Platforms:
+
+- Website: <https://www.freecodecamp.org/>
+
+
+- Website: <https://www.frontendmentor.io>
+
+
+- Website: <https://www.coursera.org>
+
+
+- Website: <https://www.edx.org/>
+
+
+
+### Coding Challenge Platforms:
+
+- Website: <https://www.codewars.com/>
+
+
+- Website: <https://www.codingame.com/start>
+
+
+- Website: <https://exercism.org>
+
+
+
+### Freelancing platforms:
+
+- Website: <https://www.freelancer.com>
+
+
+- Website: <https://www.envato.com>
+
+
+- Website: <https://gun.io>
+
+
+
+### Remote Jobs:
+
+- Website: <https://www.remotefrontendjobs.com/>
+
+
+- Website: <https://www.flexjobs.com>
+
+
+- Website: <https://startup.jobs/remote-jobs>
+
+
+
+### Photos:
+
+- Website: <https://freephotos.cc/en>
+
+
+
+### Illustrations:
+
+- Website: <https://www.drawkit.com>
+
+
+
+### Icons:
+
+- Website: <https://www.iconfinder.com>
+
+
+- Website: <https://icons.holasvg.com>
+
+
+
+### Fonts:
+
+- Website: <https://www.1001fonts.com>
+
+
+- Website: <https://www.fontsquirrel.com>
+
+
+- Website: <https://www.fontfabric.com>
+
+
+
+### UI Inspiration:
+
+- Website: <https://tympanus.net/codrops>
+
+
+
+### Docs:
+
+- Website: <https://developer.mozilla.org/en-US/>
+
+
+
+### Website Optimization Tools:
+
+- Website: [Google PageSpeed Insights](https://pagespeed.web.dev/)
+
+
+- Website: [Yslow](https://yslow.org/)
+
+
+
+### Newsletters:
+
+- Website: [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/)
+
+  Topics: User Interface development.
+
+
+
+### Online Tools:
+
+- Website: [Codepng](https://www.codepng.app/)
+
+  Description: Convert your source code into awesome shareable images
+
+
+
+### Vue UI libraries:
+
+- Website: [Vue Material](https://www.creative-tim.com/vuematerial/)
+
+  Description: Simple, lightweight and built exactly according to the Google Material Design specs.
+
+
+
+### React UI libraries:
+
+- Website: [Material-UI](https://mui.com/core/)
+
+  Description: Simple and customizable component library to build faster, beautiful, and more accessible React applications.
+
+
 
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
@@ -24,27 +171,11 @@ Awesome Web Development Resources.
 
 
 
-### Newsletters:
-
-- Website: [Smart Programming 101](http://newsletters.michaelasiedu.com/)
-
-  Topics: Software Development, React.js , Web3.0, Open Source and more .
-
-
-
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
 ### Remote Jobs:
 
 - Website: <https://jobstache.com>
-
-
-
-## [Dec 31, 2022](/content/2022/12/31/README.md)
-
-### Remote Jobs:
-
-- Website: <https://startup.jobs/remote>
 
 
 
@@ -57,12 +188,6 @@ Awesome Web Development Resources.
 
 
 ## [Dec 27, 2022](/content/2022/12/27/README.md)
-
-### Remote Jobs:
-
-- Website: <https://remotefrontendjobs.com>
-
-
 
 ### UI Inspiration:
 
@@ -256,11 +381,6 @@ Awesome Web Development Resources.
   Description: **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 
 
-- Website: <https://docs.gitlab.com/ee/user/project/pages>
-
-  Description: **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.
-
-
 - Website: <https://stormkit.io>
 
   Description: **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.
@@ -289,9 +409,6 @@ Awesome Web Development Resources.
 
 ### Learning Platforms:
 
-- Website: <https://freecodecamp.org>
-
-
 - Website: <https://www.lambdatest.com/learning-hub/>
 
 
@@ -302,12 +419,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://testautomationu.applitools.com>
-
-
-- Website: <https://coursera.org>
-
-
-- Website: <https://edx.org>
 
 
 - Website: <https://khanacademy.org>
@@ -382,16 +493,7 @@ Awesome Web Development Resources.
 
 ### Coding Challenge Platforms:
 
-- Website: <https://frontendmentor.io>
-
-
-- Website: <https://codewars.com>
-
-
 - Website: <https://topcoder.com>
-
-
-- Website: <https://codingame.com>
 
 
 - Website: <https://hackerrank.com>
@@ -406,9 +508,6 @@ Awesome Web Development Resources.
 - Website: <https://codechef.com>
 
 
-- Website: <https://exercism.io>
-
-
 - Website: <https://leetcode.com>
 
 
@@ -419,6 +518,9 @@ Awesome Web Development Resources.
 
 
 - Website: <https://codesignal.com>
+
+
+- Website: <https://frontendmentor.io>
 
 
 - Website: <https://devchallenges.io>
@@ -460,16 +562,10 @@ Awesome Web Development Resources.
 - Website: <https://upwork.com>
 
 
-- Website: <https://freelancer.com>
-
-
 - Website: <https://peopleperhour.com>
 
 
 - Website: <https://simplyhired.com>
-
-
-- Website: <https://envato.com>
 
 
 - Website: <https://guru.com>
@@ -484,17 +580,11 @@ Awesome Web Development Resources.
 - Website: <https://6nomads.com>
 
 
-- Website: <https://www.gun.io>
-
-
 - Website: <https://www.refrens.com>
 
 
 
 ### Remote Jobs:
-
-- Website: <https://flexjobs.com>
-
 
 - Website: <https://remote.co/remote-jobs>
 
@@ -553,9 +643,6 @@ Awesome Web Development Resources.
 - Website: <https://visualhunt.com>
 
 
-- Website: <https://freephotos.cc>
-
-
 - Website: <https://picjumbo.com>
 
 
@@ -572,9 +659,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://undraw.co/illustrations>
-
-
-- Website: <https://drawkit.io>
 
 
 - Website: <https://icons8.com/ouch>
@@ -613,9 +697,6 @@ Awesome Web Development Resources.
 - Website: <https://icons8.com>
 
 
-- Website: <https://iconfinder.com>
-
-
 - Website: <https://material.io/resources/icons>
 
 
@@ -632,9 +713,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://lineicons.com>
-
-
-- Website: <https://icons.modulz.app>
 
 
 - Website: <https://remixicon.com>
@@ -659,9 +737,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://iconscout.com/unicons>
-
-
-- Website: <https://holasvg.com/icons>
 
 
 - Website: <https://fontello.com>
@@ -694,13 +769,7 @@ Awesome Web Development Resources.
 - Website: <https://fontspace.com>
 
 
-- Website: <https://1001fonts.com>
-
-
 - Website: <https://ffonts.net>
-
-
-- Website: <https://fontfabric.com>
 
 
 - Website: <https://urbanfonts.com>
@@ -832,9 +901,6 @@ Awesome Web Development Resources.
 - Website: [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
 
 
-- Website: [Modern Web](https://www.thisdot.co/modern-web)
-
-
 - Website: [DevDiscuss](https://dev.to/devdiscuss)
 
 
@@ -860,9 +926,6 @@ Awesome Web Development Resources.
 
 
 - Website: [Sublime Text](https://www.sublimetext.com/)
-
-
-- Website: [Atom](https://atom.io/)
 
 
 - Website: [Brackets](http://brackets.io/)
@@ -931,9 +994,6 @@ Awesome Web Development Resources.
 
 ### UI Inspiration:
 
-- Website: <https://uimovement.com>
-
-
 - Website: <https://uigarage.net>
 
 
@@ -952,14 +1012,8 @@ Awesome Web Development Resources.
 - Website: <https://www.behance.net>
 
 
-- Website: <https://tympanus.net>
-
-
 
 ### Docs:
-
-- Website: <https://developer.mozilla.org>
-
 
 - Website: <https://w3schools.com>
 
@@ -1084,22 +1138,13 @@ Awesome Web Development Resources.
 
 ### Website Optimization Tools:
 
-- Website: [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
-
 - Website: [GTmetrix](https://gtmetrix.com/)
 
 
 - Website: [WebPageTest](https://www.webpagetest.org)
 
 
-- Website: [Yslow](http://yslow.org/)
-
-
 - Website: [web.dev](https://web.dev/measure/)
-
-
-- Website: [asayer](https://asayer.io/)
 
 
 - Website: [Optimizilla](https://imagecompressor.com/)
@@ -1166,19 +1211,9 @@ Awesome Web Development Resources.
   Topics: Accessibility.
 
 
-- Website: [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/)
-
-  Topics: Responsive web design.
-
-
 - Website: [JAMstacked](https://jamstack.email/)
 
   Topics: JAMstack ecosystem.
-
-
-- Website: [UI Dev Newsletter](https://mentor.silvestar.codes/reads/)
-
-  Topics: User Interface development.
 
 
 - Website: [Go Make Things](https://gomakethings.com/)
@@ -1267,11 +1302,6 @@ Awesome Web Development Resources.
   Description: A simple and powerful JSON formatting tool
 
 
-- Website: [Codepng](https://codepng.app/)
-
-  Description: Convert your source code into awesome shareable images
-
-
 - Website: [yuyu.ai](https://yuyu.ai/)
 
   Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
@@ -1313,11 +1343,6 @@ Awesome Web Development Resources.
   Description: Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features.
 
 
-- Website: [Vue Material](https://vuematerial.io/)
-
-  Description: Simple, lightweight and built exactly according to the Google Material Design specs.
-
-
 - Website: [BootstrapVue](https://bootstrap-vue.org/)
 
   Description: BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
@@ -1325,11 +1350,6 @@ Awesome Web Development Resources.
 
 
 ### React UI libraries:
-
-- Website: [Material-UI](https://material-ui.com/)
-
-  Description: Simple and customizable component library to build faster, beautiful, and more accessible React applications.
-
 
 - Website: [Ant Design](https://ant.design/)
 
@@ -1502,14 +1522,6 @@ Awesome Web Development Resources.
 ### Code Editors:
 
 - Website: [Emacs](https://www.gnu.org/software/emacs/)
-
-
-
-## [Nov 04, 2020](/content/2020/11/04/README.md)
-
-### Fonts:
-
-- Website: <https://fontsquirrel.com>
 
 
 

@@ -254,6 +254,8 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
     *   [mohanson/i8080 (⭐85)](https://github.com/mohanson/i8080) — Intel 8080 cpu emulator by Rust
 *   iOS
     *   [touchHLE (⭐173)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
+*   iPod
+    *   [clicky (⭐102)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 *   NES
     *   [koute/pinky (⭐710)](https://github.com/koute/pinky) — [![build badge](https://api.travis-ci.org/koute/pinky.svg?branch=master)](https://travis-ci.org/koute/pinky)
     *   [pcwalton/sprocketnes (⭐725)](https://github.com/pcwalton/sprocketnes)

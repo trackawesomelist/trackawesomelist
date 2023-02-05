@@ -6,6 +6,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 [ Daily / [Weekly](/content/mendel5/alternative-front-ends/week/README.md) / [Overview](/content/mendel5/alternative-front-ends/readme/README.md) ]
 
+## [Feb 05, 2023](/content/2023/02/05/README.md)
+
+### Overview / Other services
+
+*   [Pastewin (⭐6)](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
+
 ## [Feb 04, 2023](/content/2023/02/04/README.md)
 
 ### Overview / Porn

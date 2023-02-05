@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Feb 05, 2023](/content/2023/02/05/README.md)
+
+### Debugging
+
+*   [Linear](https://linear.app/) - Issue tracking built for developers.
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Analytics

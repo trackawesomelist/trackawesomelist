@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool.
 
+### Debugging
+
+*   [Linear](https://linear.app/) - Issue tracking built for developers.
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### CI/CD

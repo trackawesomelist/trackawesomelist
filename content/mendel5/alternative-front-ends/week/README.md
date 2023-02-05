@@ -12,6 +12,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 *   [PornInvidious (⭐1)](https://github.com/Simple-Web-Project/PornInvidious): Simple JavaScript-Free Frontend for xvideos.com
 
+### Overview / Other services
+
+*   [Pastewin (⭐6)](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Overview / Spotify
