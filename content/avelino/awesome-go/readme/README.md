@@ -892,6 +892,7 @@ additional ordered map implementations.
 *   [dot (⭐74)](https://github.com/dotchain/dot/) - distributed sync using operational transformation/OT.
 *   [doublejump (⭐85)](https://github.com/edwingeng/doublejump) - A revamped Google's jump consistent hash.
 *   [dragonboat (⭐4.5k)](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
+*   [Dragonfly (⭐989)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 *   [drmaa (⭐43)](https://github.com/dgruber/drmaa) - Job submission library for cluster schedulers based on the DRMAA standard.
 *   [dynamolock](https://cirello.io/dynamolock) - DynamoDB-backed distributed locking implementation.
 *   [dynatomic (⭐15)](https://github.com/tylfin/dynatomic) - A library for using DynamoDB as an atomic counter.
@@ -1847,7 +1848,6 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-powerdns (⭐70)](https://github.com/joeig/go-powerdns) - PowerDNS API bindings for Golang.
 *   [go-stun (⭐552)](https://github.com/ccding/go-stun) - Go implementation of the STUN client (RFC 3489 and RFC 5389).
 *   [gobgp (⭐3.1k)](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language.
-*   [gohooks](https://github.com/averageflow/gohooks) - GoHooks make it easy to send and consume secured web-hooks from a Go application. Inspired by Spatie's Laravel Webhook Client and Server.
 *   [golibwireshark (⭐28)](https://github.com/sunwxg/golibwireshark) - Package golibwireshark use libwireshark library to decode pcap file and analyse dissection data.
 *   [gopacket (⭐5.4k)](https://github.com/google/gopacket) - Go library for packet processing with libpcap bindings.
 *   [gopcap (⭐462)](https://github.com/akrennmair/gopcap) - Go wrapper for libpcap.

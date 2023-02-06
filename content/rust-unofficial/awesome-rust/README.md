@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 06, 2023](/content/2023/02/06/README.md)
+
+### Applications / Security tools
+
+*   [cargo-crev](https://crates.io/crates/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
+
+### Libraries / Parsing
+
+*   [hmeyer/stl\_io](https://crates.io/crates/stl_io) - A parser for STL (STereoLithography) files
+
 ## [Feb 05, 2023](/content/2023/02/05/README.md)
 
 ### Applications / Emulators

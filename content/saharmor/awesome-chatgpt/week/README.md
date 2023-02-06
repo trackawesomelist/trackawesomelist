@@ -6,6 +6,12 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ [Daily](/content/saharmor/awesome-chatgpt/README.md) / Weekly / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
+
+### Using ChatGPT in other apps
+
+*   [a ChatGPT like writing assistant for Chrome](https://chrome.google.com/webstore/detail/writingmate-1-chatgpt-wri/iihamopomflffiecicbgelncanmfionp)
+
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Featured
@@ -17,7 +23,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Prompting
 
-*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.7k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 *   [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
 ### Assistants

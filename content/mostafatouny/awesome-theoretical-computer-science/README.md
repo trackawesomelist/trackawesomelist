@@ -6,11 +6,17 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 [ Daily / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
 
+## [Feb 06, 2023](/content/2023/02/06/README.md)
+
+### Lecture Videos Playlists / Monograph
+
+*   [Madhur Tulsiani. Mathematical Toolkit](https://www.youtube.com/playlist?list=PLk-BCMYCWSzW-nPNnw19Y6oQJnvaAcp1I)
+
 ## [Feb 05, 2023](/content/2023/02/05/README.md)
 
 ### Transition To Pure Rigour Math / Monograph
 
-*   [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers
+*   [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers.
 
 ### Popular Science Books / Monograph
 

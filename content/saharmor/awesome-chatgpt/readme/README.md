@@ -16,7 +16,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt\&left_color=green\&right_color=red)
 
-This list is up to date. Last update: 01/11/22
+This list is up to date. Last update: 02/05/22
 
 ## Featured
 
@@ -29,7 +29,7 @@ This list is up to date. Last update: 01/11/22
 
 1.  [ChatGPT prompts](https://prompts.chat/)
 2.  ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-3.  ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+3.  ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.7k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 4.  [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
 ## Using ChatGPT in other apps
@@ -49,6 +49,7 @@ This list is up to date. Last update: 01/11/22
 13. [GPT-3.5 powered terminal commands (⭐413)](https://github.com/Methexis-Inc/terminal-copilot)
 14. [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
 15. [GPT AI Assistant using LINE and Vercel (⭐753)](https://github.com/memochou1993/gpt-ai-assistant)
+16. [a ChatGPT like writing assistant for Chrome](https://chrome.google.com/webstore/detail/writingmate-1-chatgpt-wri/iihamopomflffiecicbgelncanmfionp)
 
 ## Assistants
 
