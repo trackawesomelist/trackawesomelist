@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Feb 06, 2023](/content/2023/02/06/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-image-placeholder (⭐2)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
+
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
 ### Templates / React
@@ -42,7 +48,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-shortcuts (⭐2)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
+*   [vite-plugin-shortcuts (⭐3)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
 
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
