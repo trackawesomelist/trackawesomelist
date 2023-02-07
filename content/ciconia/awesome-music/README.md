@@ -6,7 +6,7 @@ Awesome Music Projects
 
 [ Daily / [Weekly](/content/ciconia/awesome-music/week/README.md) / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
-## [Feb 06, 2023](/content/2023/02/06/README.md)
+## [Feb 07, 2023](/content/2023/02/07/README.md)
 
 ### Audio Libraries
 
@@ -147,7 +147,7 @@ Awesome Music Projects
 *   [lltag (⭐28)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 *   [Rubyripper (⭐104)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 *   [split2flac (⭐248)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
-*   [Whipper (⭐972)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
+*   [Whipper (⭐973)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 *   [X Audio Copy (⭐3)](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
 ### Music Programming
@@ -175,7 +175,7 @@ Awesome Music Projects
 ### Related lists
 
 *   [Awesome Music Listening (⭐92)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐559)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome sheet music (⭐560)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [Jan 04, 2018](/content/2018/01/04/README.md)
 
@@ -243,7 +243,7 @@ Awesome Music Projects
 
 ### Related lists
 
-*   [Awesome Music Production (⭐636)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐641)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [Mar 10, 2016](/content/2016/03/10/README.md)
 

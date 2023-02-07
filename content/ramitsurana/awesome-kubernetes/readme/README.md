@@ -2,7 +2,7 @@
 
 A curated list for awesome kubernetes sources :ship::tada:
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ramitsurana/awesome-kubernetes/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) · ⭐ 13K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ramitsurana/awesome-kubernetes/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) · ⭐ 14K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ramitsurana/awesome-kubernetes/README.md) / [Weekly](/content/ramitsurana/awesome-kubernetes/week/README.md) / Overview ]
 
@@ -17,7 +17,7 @@ A curated list for awesome kubernetes sources :ship::tada:
 [![Documentation Status](https://readthedocs.org/projects/awesome-kubernetes-by-ramitsurana/badge/?version=latest)](https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramitsurana/awesome-kubernetes/master)
 
-A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesome (⭐231k)](https://github.com/sindresorhus/awesome)
+A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesome (⭐236k)](https://github.com/sindresorhus/awesome)
 
 ![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
 
@@ -25,7 +25,7 @@ A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesom
 >
 > \-- Michael Jordan
 
-Without the help from these [amazing contributors (⭐13k)](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
+Without the help from these [amazing contributors (⭐14k)](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
 building this awesome-repo would never have been possible. Thank You very much everyone !!
 
 **Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book. Check it out -->  <https://ramitsurana.gitbook.io/awesome-kubernetes/docs> .Keep Learning Keep Sharing !!**
@@ -81,7 +81,7 @@ download the awesome kubernetes release up to a certain period of time, The rele
 *   [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 *   [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 *   [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
-*   [Docker Kubernetes Lab Handbook (⭐197)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
+*   [Docker Kubernetes Lab Handbook (⭐199)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 *   [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 *   [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 *   [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
@@ -97,6 +97,7 @@ download the awesome kubernetes release up to a certain period of time, The rele
 *   [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) by [Alex Soto Bueno](https://github.com/lordofthejars) and [Andrew Block](https://github.com/sabre1041)
 *   [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
 *   [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
+*   [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
 
 # Contributing
 
@@ -104,7 +105,7 @@ Contributions are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
 
-Check out the [Contributing Guidelines (⭐13k)](https://github.com/ramitsurana/awesome-kubernetes/blob/master/docs/guidelines/CONTRIBUTING.md).
+Check out the [Contributing Guidelines (⭐14k)](https://github.com/ramitsurana/awesome-kubernetes/blob/master/docs/guidelines/CONTRIBUTING.md).
 
 # License
 

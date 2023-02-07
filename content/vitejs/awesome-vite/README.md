@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
-## [Feb 06, 2023](/content/2023/02/06/README.md)
+## [Feb 07, 2023](/content/2023/02/07/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 

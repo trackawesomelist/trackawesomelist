@@ -6,6 +6,16 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Feb 07, 2023](/content/2023/02/07/README.md)
+
+### Database
+
+*   [SliccDB (⭐52)](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
+
+### Database Drivers
+
+*   [FluentStorage (⭐20)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
+
 ## [Feb 04, 2023](/content/2023/02/04/README.md)
 
 ### HTTP
@@ -1083,10 +1093,6 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Blockchain
 
 *   [Nethermind (⭐824)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
-
-### Database Drivers
-
-*   [Storage.Net (⭐596)](https://github.com/aloneguid/storage) - Generic storage abstractions and implementations for popular cloud storage providers like Amazon S3, Azure Service Bus, Azure Event Hub, Azure Storage, Azure Data Lake Store and many others.
 
 ### GUI
 

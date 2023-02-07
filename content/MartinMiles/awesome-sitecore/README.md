@@ -6,6 +6,12 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 [ Daily / [Weekly](/content/MartinMiles/awesome-sitecore/week/README.md) / [Overview](/content/MartinMiles/awesome-sitecore/readme/README.md) ]
 
+## [Feb 07, 2023](/content/2023/02/07/README.md)
+
+### Content Hub One
+
+*   [Sitecore.Demo.CHONE (⭐0)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team.
+
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
 ### XM Cloud
